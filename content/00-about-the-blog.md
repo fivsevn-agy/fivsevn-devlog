@@ -36,7 +36,7 @@ This work is licensed under CC BY-NC-SA 4.0.
 链接：[https://fivsevn.home.blog/category/周转箱演讲_soapbox/](https://fivsevn.home.blog/category/周转箱演讲_soapbox/)
 
 ### 3. 【炉边谈话_Fireside】：
-这里是深度思考（严肃）！  
+这里是深度思考（ん？）！  
 链接：[https://fivsevn.home.blog/category/炉边谈话_fireside/](https://fivsevn.home.blog/category/炉边谈话_fireside/)
 
 ### 4. 【旅行香料盒_Zibaldone】：
