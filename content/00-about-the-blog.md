@@ -44,7 +44,7 @@ This work is licensed under CC BY-NC-SA 4.0.
 链接：[https://fivsevn.home.blog/category/旅行香料盒_zibaldone/](https://fivsevn.home.blog/category/旅行香料盒_zibaldone/)
 
 ### 5. 【小孔成像_Pinhole Imaging】：
-这里是摄影作品。  
+这里放摄影作品。  
 链接：[https://fivsevn.home.blog/category/小孔成像_pinhole-imaging/](https://fivsevn.home.blog/category/小孔成像_pinhole-imaging/)
 
 ### 6. 【冰箱贴诗集_Magnetic Poetry】：
