@@ -53,4 +53,5 @@ This work is licensed under CC BY-NC-SA 4.0.
 
 ### 7. 【拉格朗日点_Lagrange Point】：
 这里放友情链接。都**鸽们儿！  
-链接：[https://fivsevn.home.blog/拉格朗日点/](https://fivsevn.home.blog/拉格朗日点/)
+链接：[https://fivsevn.home.blog/拉格朗日点/](https://fivsevn.home.blog/拉格朗日点/)  
+另：[拉格朗日插值法](https://www.cnblogs.com/olderciyuan/p/15578688.html)
