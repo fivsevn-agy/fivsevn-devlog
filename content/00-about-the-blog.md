@@ -40,7 +40,7 @@ This work is licensed under CC BY-NC-SA 4.0.
 链接：[https://fivsevn.home.blog/category/炉边谈话_fireside/](https://fivsevn.home.blog/category/炉边谈话_fireside/)
 
 ### 4. 【旅行香料盒_Zibaldone】：
-这里收集各种各样的知识。类似文献综述的前期阶段，但相对而言更加轻松一些。  
+这里收集各种各样的知识。  
 链接：[https://fivsevn.home.blog/category/旅行香料盒_zibaldone/](https://fivsevn.home.blog/category/旅行香料盒_zibaldone/)
 
 ### 5. 【小孔成像_Pinhole Imaging】：
