@@ -1,6 +1,6 @@
 # 欢迎来到五月七日的开发日志🥰
 
-[开张纪念](content/openinglog.md)
+[开张纪念](openinglog.md)
 
 
 ## 开发日志索引
