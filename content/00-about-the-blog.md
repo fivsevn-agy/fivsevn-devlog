@@ -1,34 +1,31 @@
 # 博客简介
 
 ## 1. 博客名称：
-**五月七日的思考札记**
-
+**五月七日的思考札记**    
 
   
 ## 2. 其他语言版本名称：
-- **FivSevn’s Pocket Reflection Journal.**
-- **つゆりのポケット思案帳**
-
+- **FivSevn’s Pocket Reflection Journal.**  
+- **つゆりのポケット思案帳**  
 
   
 ## 3. 博客的版权声明如下：
 © 2025 五月七日的思考札记 | FivSevn’s Pocket Reflection Journal | つゆりのポケット思案帳  
-
+  
 本博客内容采用 CC BY-NC-SA 4.0 许可。  
 [CC BY-NC-SA 4.0 许可 - 中文版](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)  
-
+  
 This work is licensed under CC BY-NC-SA 4.0.  
 [CC BY-NC-SA 4.0 License - English](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
-
+  
 本ブログの内容は CC BY-NC-SA 4.0 のもとで提供されています。  
-[CC BY-NC-SA 4.0 ライセンス - 日本語版](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja)
-
+[CC BY-NC-SA 4.0 ライセンス - 日本語版](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja)  
 
   
 ## 4. 博客的免责声明如下：  
-下面这段声明内容可能略显严肃，不过，这是我给自己的博客所加的保护壳，说明一下写作方式、内容边界，还有 AI 的使用范围等等。没啥吓人的条款！
-如果你看到这里，感谢你的耐心！
-
+下面这段声明内容可能略显严肃，不过，这是我给自己的博客所加的保护壳，说明一下写作方式、内容边界，还有 AI 的使用范围等等。没啥吓人的条款！  
+如果你看到这里，感谢你的耐心！  
+  
 *五⽉七⽇的思考札记（FivSevn’s Pocket Reflection Journal）是⼀份以兴趣驱动、⾮营利性写作为基础的博客，所有内容仅代表作者个⼈观点，并不构成任何形式的专业建议或商业引导。博客中引用或整理的资料，来源会尽量明确注明，如有遗漏或误引，欢迎指正。*  
   
 *博客所涉及的资料整理、翻译、评述、衍⽣创作等内容，仅供读者阅读参考，不作任何保证。若您希望进一步引用或转载，请遵循 Creative Commons BY-NC-SA 4.0 协议，并注明出处。*  
@@ -44,33 +41,33 @@ This work is licensed under CC BY-NC-SA 4.0.
 **联系邮箱：fivsevn0507@outlook.com**  
 
   
-  
 ## 5. 博客板块和对应说明：
 ### 1. 【Sweet Home】：
 这是主页。  
-链接：[https://fivsevn.home.blog](https://fivsevn.home.blog)
-
+链接：[https://fivsevn.home.blog](https://fivsevn.home.blog)  
+  
 ### 2. 【周转箱演讲_Soapbox】：
 这里是日常唠嗑。  
-链接：[https://fivsevn.home.blog/category/周转箱演讲_soapbox/](https://fivsevn.home.blog/category/周转箱演讲_soapbox/)
-
+链接：[https://fivsevn.home.blog/category/周转箱演讲_soapbox/](https://fivsevn.home.blog/category/周转箱演讲_soapbox/)  
+  
 ### 3. 【炉边谈话_Fireside】：
 这里是深度思考 (小学生並みの感想）！  
-链接：[https://fivsevn.home.blog/category/炉边谈话_fireside/](https://fivsevn.home.blog/category/炉边谈话_fireside/)
-
+链接：[https://fivsevn.home.blog/category/炉边谈话_fireside/](https://fivsevn.home.blog/category/炉边谈话_fireside/)  
+  
 ### 4. 【旅行香料盒_Zibaldone】：
 这里收集各种各样的知识。  
-链接：[https://fivsevn.home.blog/category/旅行香料盒_zibaldone/](https://fivsevn.home.blog/category/旅行香料盒_zibaldone/)
-
+链接：[https://fivsevn.home.blog/category/旅行香料盒_zibaldone/](https://fivsevn.home.blog/category/旅行香料盒_zibaldone/)  
+  
 ### 5. 【小孔成像_Pinhole Imaging】：
 这里放摄影作品。  
-链接：[https://fivsevn.home.blog/category/小孔成像_pinhole-imaging/](https://fivsevn.home.blog/category/小孔成像_pinhole-imaging/)
-
+链接：[https://fivsevn.home.blog/category/小孔成像_pinhole-imaging/](https://fivsevn.home.blog/category/小孔成像_pinhole-imaging/)  
+  
 ### 6. 【冰箱贴诗集_Magnetic Poetry】：
 这里放日常计划、博客的更新规划、博客的更新预告等等。  
-链接：[https://fivsevn.home.blog/category/冰箱贴诗集_magnetic-poetry/](https://fivsevn.home.blog/category/冰箱贴诗集_magnetic-poetry/)
-
+链接：[https://fivsevn.home.blog/category/冰箱贴诗集_magnetic-poetry/](https://fivsevn.home.blog/category/冰箱贴诗集_magnetic-poetry/)  
+  
 ### 7. 【拉格朗日点_Lagrange Point】：
 这里放友情链接。都**鸽们儿！  
-链接：[https://fivsevn.home.blog/拉格朗日点/](https://fivsevn.home.blog/拉格朗日点/)  
-另：[拉格朗日插值法](https://www.cnblogs.com/olderciyuan/p/15578688.html)
+链接：[https://fivsevn.home.blog/拉格朗日点/](https://fivsevn.home.blog/拉格朗日点/)   
+另：[拉格朗日插值法](https://www.cnblogs.com/olderciyuan/p/15578688.html)  
+  
