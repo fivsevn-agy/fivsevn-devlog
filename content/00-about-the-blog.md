@@ -41,7 +41,7 @@ This work is licensed under CC BY-NC-SA 4.0.
 **联系邮箱：fivsevn0507@outlook.com**  
 
   
-## 5. 博客板块和对应说明：
+## 5. 博客的板块和对应的说明：
 ### 1. 【Sweet Home】：
 这是主页。  
 链接：[https://fivsevn.home.blog](https://fivsevn.home.blog)  
