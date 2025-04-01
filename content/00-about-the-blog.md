@@ -5,7 +5,7 @@
 
   
 ## 2. 其他语言版本名称：
-- **FivSevn’s Pocket Reflection Journal.**  
+- **FivSevn’s Pocket Reflection Journal**  
 - **つゆりのポケット思案帳**  
 
   
