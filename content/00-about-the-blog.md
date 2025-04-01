@@ -51,7 +51,7 @@ This work is licensed under CC BY-NC-SA 4.0.
 链接：[https://fivsevn.home.blog/category/周转箱演讲_soapbox/](https://fivsevn.home.blog/category/周转箱演讲_soapbox/)  
   
 ### 3. 【炉边谈话_Fireside】：
-这里是深度思考 (小学生並みの感想）！  
+这里是深度思考！ (小学生並みの感想）  
 链接：[https://fivsevn.home.blog/category/炉边谈话_fireside/](https://fivsevn.home.blog/category/炉边谈话_fireside/)  
   
 ### 4. 【旅行香料盒_Zibaldone】：
@@ -59,7 +59,7 @@ This work is licensed under CC BY-NC-SA 4.0.
 链接：[https://fivsevn.home.blog/category/旅行香料盒_zibaldone/](https://fivsevn.home.blog/category/旅行香料盒_zibaldone/)  
   
 ### 5. 【小孔成像_Pinhole Imaging】：
-这里放摄影作品。  
+这里有我拍的照片。  
 链接：[https://fivsevn.home.blog/category/小孔成像_pinhole-imaging/](https://fivsevn.home.blog/category/小孔成像_pinhole-imaging/)  
   
 ### 6. 【冰箱贴诗集_Magnetic Poetry】：
