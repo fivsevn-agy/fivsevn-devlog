@@ -3,10 +3,12 @@
 ## 1. 博客名称：
 **五月七日的思考札记**
 
+
   
 ## 2. 其他语言版本名称：
 - **FivSevn’s Pocket Reflection Journal.**
 - **つゆりのポケット思案帳**
+
 
   
 ## 3. 博客的版权声明如下：
@@ -20,6 +22,7 @@ This work is licensed under CC BY-NC-SA 4.0.
 
 本ブログの内容は CC BY-NC-SA 4.0 のもとで提供されています。  
 [CC BY-NC-SA 4.0 ライセンス - 日本語版](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja)
+
 
   
 ## 4. 博客的免责声明如下：  
@@ -40,7 +43,8 @@ This work is licensed under CC BY-NC-SA 4.0.
   
 **联系邮箱：fivsevn0507@outlook.com**  
 
-
+  
+  
 ## 5. 博客板块和对应说明：
 ### 1. 【Sweet Home】：
 这是主页。  
