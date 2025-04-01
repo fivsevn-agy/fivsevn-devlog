@@ -72,7 +72,7 @@ This work is licensed under CC BY-NC-SA 4.0.
   
 *本サイトの内容に基づき、いかなる損害または不利益が生じた場合も、作者は一切の責任を負いかねます。*  
   
-**ご連絡はこちらまで：fivsevn0507@outlook.com**。
+**ご連絡はこちらまで：fivsevn0507@outlook.com**  
 
   
 ## 5. 博客的板块和对应的说明：
