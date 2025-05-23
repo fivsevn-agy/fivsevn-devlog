@@ -76,31 +76,31 @@ This work is licensed under CC BY-NC-SA 4.0.
 
   
 ## 5. 博客的板块和对应的说明：
-### 1. 【Sweet Home】：
+### 1. 【sweet_home】：
 这是主页。  
 链接：[https://fivsevn.home.blog](https://fivsevn.home.blog)  
   
-### 2. 【周转箱演讲_Soapbox】：
+### 2. 【周转箱演讲_soapbox】：
 这里是日常唠嗑。  
 链接：[https://fivsevn.home.blog/category/周转箱演讲_soapbox/](https://fivsevn.home.blog/category/周转箱演讲_soapbox/)  
   
-### 3. 【炉边谈话_Fireside】：
+### 3. 【炉边谈话_fireside】：
 这里是深度思考！ (小学生並みの感想）  
 链接：[https://fivsevn.home.blog/category/炉边谈话_fireside/](https://fivsevn.home.blog/category/炉边谈话_fireside/)  
   
-### 4. 【旅行香料盒_Zibaldone】：
+### 4. 【旅行香料盒_zibaldone】：
 这里收集各种各样的知识。  
 链接：[https://fivsevn.home.blog/category/旅行香料盒_zibaldone/](https://fivsevn.home.blog/category/旅行香料盒_zibaldone/)  
   
-### 5. 【小孔成像_Pinhole Imaging】：
+### 5. 【小孔成像_pinhole_imaging】：
 这里有我拍的照片。  
-链接：[https://fivsevn.home.blog/category/小孔成像_pinhole-imaging/](https://fivsevn.home.blog/category/小孔成像_pinhole-imaging/)  
+链接：[https://fivsevn.home.blog/category/小孔成像_pinhole_imaging/](https://fivsevn.home.blog/category/小孔成像_pinhole_imaging/)
   
-### 6. 【冰箱贴诗集_Magnetic Poetry】：
+### 6. 【冰箱贴诗集_magnetic_poetry】：
 这里放日常计划、博客的更新规划、博客的更新预告等等。  
-链接：[https://fivsevn.home.blog/category/冰箱贴诗集_magnetic-poetry/](https://fivsevn.home.blog/category/冰箱贴诗集_magnetic-poetry/)  
+链接：[https://fivsevn.home.blog/category/冰箱贴诗集_magnetic_poetry/](https://fivsevn.home.blog/category/冰箱贴诗集_magnetic-poetry/)  
   
-### 7. 【拉格朗日点_Lagrange Point】：
+### 7. 【拉格朗日点_lagrange_point】：
 这里放友情链接。都**鸽们儿！  
 链接：[https://fivsevn.home.blog/拉格朗日点/](https://fivsevn.home.blog/拉格朗日点/)   
 另：[拉格朗日插值法](https://www.cnblogs.com/olderciyuan/p/15578688.html)  
