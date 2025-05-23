@@ -98,7 +98,7 @@ This work is licensed under CC BY-NC-SA 4.0.
   
 ### 6. 【冰箱贴诗集_magnetic_poetry】：
 这里放日常计划、博客的更新规划、博客的更新预告等等。  
-链接：[https://fivsevn.home.blog/category/冰箱贴诗集_magnetic_poetry/](https://fivsevn.home.blog/category/冰箱贴诗集_magnetic-poetry/)  
+链接：[https://fivsevn.home.blog/category/冰箱贴诗集_magnetic_poetry/](https://fivsevn.home.blog/category/冰箱贴诗集_magnetic_poetry/)  
   
 ### 7. 【拉格朗日点_lagrange_point】：
 这里放友情链接。都**鸽们儿！  
