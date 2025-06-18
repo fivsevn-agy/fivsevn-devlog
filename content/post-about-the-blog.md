@@ -5,12 +5,12 @@
 
   
 ## 2. 其他语言版本名称：
-- **FivSevn’s Pocket Reflection Journal**  
+- **fivsevn’s Pocket Reflection Journal**  
 - **つゆりのポケット思案帳**  
 
   
 ## 3. 博客的版权声明如下：
-© 2025 五月七日的思考札记 | FivSevn’s Pocket Reflection Journal | つゆりのポケット思案帳  
+© 2025 五月七日的思考札记 | fivsevn’s Pocket Reflection Journal | つゆりのポケット思案帳  
   
 本博客内容采用 CC BY-NC-SA 4.0 许可。  
 [CC BY-NC-SA 4.0 许可 - 中文版](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)  
@@ -27,7 +27,7 @@ This work is licensed under CC BY-NC-SA 4.0.
 没啥吓人的条款！如果你看到这里，感谢你的耐心！  
   
 ### 免责声明  
-*五⽉七⽇的思考札记（FivSevn’s Pocket Reflection Journal）是⼀份以兴趣驱动、⾮营利性写作为基础的博客，所有内容仅代表作者个⼈观点，并不构成任何形式的专业建议或商业引导。博客中引用或整理的资料，来源会尽量明确注明，如有遗漏或误引，欢迎指正。*  
+*五⽉七⽇的思考札记（fivsevn’s Pocket Reflection Journal）是⼀份以兴趣驱动、⾮营利性写作为基础的博客，所有内容仅代表作者个⼈观点，并不构成任何形式的专业建议或商业引导。博客中引用或整理的资料，来源会尽量明确注明，如有遗漏或误引，欢迎指正。*  
   
 *博客所涉及的资料整理、翻译、评述、衍⽣创作等内容，仅供读者阅读参考，不作任何保证。若您希望进一步引用或转载，请遵循 Creative Commons BY-NC-SA 4.0 协议，并注明出处。*  
   
@@ -43,7 +43,7 @@ This work is licensed under CC BY-NC-SA 4.0.
 
   
 ### Disclaimer  
-*FivSevn’s Pocket Reflection Journal is a personal, non-commercial blog driven by interest and maintained solely by the author. All content reflects the author's personal opinions and does not constitute professional advice or commercial guidance of any kind. When external materials are quoted or adapted, the sources are credited as clearly as possible. If you find any omissions or inaccuracies, your feedback is welcome.*  
+*fivsevn’s Pocket Reflection Journal is a personal, non-commercial blog driven by interest and maintained solely by the author. All content reflects the author's personal opinions and does not constitute professional advice or commercial guidance of any kind. When external materials are quoted or adapted, the sources are credited as clearly as possible. If you find any omissions or inaccuracies, your feedback is welcome.*  
   
 *This blog may include translated materials, summaries, commentaries, or derivative works. All such content is provided for informational purposes only and comes with no guarantees of accuracy or completeness. If you wish to quote or redistribute any part of this blog, please follow the terms of the Creative Commons BY-NC-SA 4.0 license and include proper attribution.*  
   
@@ -60,7 +60,7 @@ This work is licensed under CC BY-NC-SA 4.0.
   
 ### 免責事項
 
-*『五月七日の思考札記（FivSevn’s Pocket Reflection Journal）』は、作者個人の関心に基づいて運営されている非営利の個人ブログです。掲載されているすべての内容は作者の私的な見解であり、いかなる専門的助言や商業的勧誘を意図したものではありません。引用や資料整理においては、可能な限り出典を明示しています。誤記や出典漏れがございましたら、ご指摘いただけますと幸いです。*  
+*『五月七日の思考札記（fivsevn’s Pocket Reflection Journal）』は、作者個人の関心に基づいて運営されている非営利の個人ブログです。掲載されているすべての内容は作者の私的な見解であり、いかなる専門的助言や商業的勧誘を意図したものではありません。引用や資料整理においては、可能な限り出典を明示しています。誤記や出典漏れがございましたら、ご指摘いただけますと幸いです。*  
   
 *本ブログには、翻訳、要約、コメント、二次的な創作等の資料が含まれる場合がありますが、いずれも参考情報として提供しており、その正確性・完全性について保証するものではありません。引用・転載をご希望の際は、Creative Commons BY-NC-SA 4.0 ライセンスに従い、出典の明記をお願いいたします。*  
   
