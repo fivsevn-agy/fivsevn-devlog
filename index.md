@@ -12,6 +12,6 @@
   
 2025.04.03 [博客的【写作-发布】系统](content/system-writing-and-deployment.md)  
   
-2025.06.20 [博客的人格化人格化接口建模 节点①](content/log-rolesystem-node01-20250619.md)  
+2025.06.20 [博客的人格化接口建模 节点①](content/log-rolesystem-node01-20250619.md)  
   
 （更新中...）  
