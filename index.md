@@ -19,4 +19,4 @@
 ## 📝草案区 Drafts
 2025.04.21 [memo｜マイマイカブリ情報探索メソッド(草案)](/content/memo-carabusblaptoides-retrievalmethod-20250421.md)
 
-2025.07.31 [memo｜マイマイカブリ亜種分布索引（草案）](/content/memo-carabusblaptoides-index-20250731.md)  
+2025.07.31 [memo｜マイマイカブリ亜種索引（草案）](/content/memo-carabusblaptoides-index-20250731.md)  

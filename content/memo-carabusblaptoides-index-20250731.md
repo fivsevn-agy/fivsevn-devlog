@@ -92,9 +92,19 @@
 
 ---
 
-*附注：学名参考*  
+*附注1: 学名参考*  
 - [Catalogue of Life](https://www.catalogueoflife.org/data/search?TAXON_ID=5WYSB&rank=subspecies&status=accepted&status=provisionally%20accepted)  
 - [日本列島の甲虫全種目録 (2025年)](https://japanesebeetles.jimdofree.com/目録/6-オサムシ科/6-3-オサムシ亜科/)13-1から13-8  
 - [Жуки (Coleoptera) и колеоптерологи](https://www.zin.ru/Animalia/coleoptera/rus/carab29.htm)  
+
+*附注2: 参考文章链接汇总*  
+- [Junji Konuma](https://academic.oup.com/mbe/article/41/6/msae110/7690704)2024  
+  - [Konuma Lab.](https://maimaikaburi.com)  
+- [むしのみち](https://naturalist2008.hatenablog.com/entry/20101231/1293778424)2010  
+
+- [ムシミル　村松佳優](https://insect.design/koutyumoku/osamushika/maimaikaburi)2020 ホン、ヒメ
+- [とある虫屋のむし写し](https://roki.main.jp/site/sp0024.html)2007-2013 コアオ キタ ヒメ サド
+- [北海道生物図鑑](http://gecko0912.web.fc2.com/HP3/zukan/photo/02a/ezomaimaikaburi.htm)2007-2010 エゾ
+- [隠岐ユネスコ世界ジオパーク](https://www.oki-geopark.jp/geopark-sites-features-list/957/)オキ
 
 ---
