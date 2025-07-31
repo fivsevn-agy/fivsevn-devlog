@@ -13,11 +13,9 @@
 
 ## Essay
 
-本文所涉及到的生物，在物种分类信息中的位置如下：  
-https://www.catalogueoflife.org/data/browse?taxonKey=5WYSB  
+本文所涉及到的生物，在物种分类信息中的位置如下: [编辑图片](https://www.catalogueoflife.org/data/browse?taxonKey=5WYSB)
 
-本博客涉及生物内容的撰写习惯，请参考往期文章：
-[锯锯鱼](https://fivsevn.home.blog/2025/03/23/%e9%94%af%e9%94%af%e9%b1%bc/)  
+本博客涉及生物内容的撰写习惯，请参考往期文章: [锯锯鱼](https://fivsevn.home.blog/2025/03/23/%e9%94%af%e9%94%af%e9%b1%bc/)  
 
 我们在生活当中遇到的问题，有很大一部分都可以归结为“信息检索（information retrieval，IR）”的问题。现实生活中，答案往往不是直接给出（*或者说，“直接给出的答案”要么我们普通人很难直接接触到、要么需要付出一些事先无法明确的代价、要么全凭运气*），而是需要我们从信息当中尝试找出线索、联缀线索并进行推理。在这个过程中，我们需要：  
 
@@ -407,14 +405,8 @@ https://www.catalogueoflife.org/data/browse?taxonKey=5WYSB
 
 #### 昆虫论坛
 
-个人博客除外
-
 #### Line 公开群组
 
-Line直接搜
-
 #### 其他文化圈的玩家群
-
-中国的外国的
 
 ---
