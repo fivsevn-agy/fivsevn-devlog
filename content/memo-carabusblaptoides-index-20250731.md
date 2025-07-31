@@ -1,7 +1,7 @@
 # memo｜マイマイカブリ亜種索引（草案）
 
 > 本页面为资料性笔记，尚未转入正式页面结构。  
-> 来源：个人汇总，具体来源参考文内链接。
+> 来源：个人汇总，具体见文内链接。
 
 ## 索引（北→南）
 
@@ -106,5 +106,6 @@
 - [とある虫屋のむし写し](https://roki.main.jp/site/sp0024.html)2007-2013 コアオ キタ ヒメ サド
 - [北海道生物図鑑](http://gecko0912.web.fc2.com/HP3/zukan/photo/02a/ezomaimaikaburi.htm)2007-2010 エゾ
 - [隠岐ユネスコ世界ジオパーク](https://www.oki-geopark.jp/geopark-sites-features-list/957/)オキ
-
+- [国産オサムシ標本写真館](https://atoz2000.oiran.org/syasinnkann/hyouhonnsyasinn/sonota/osamusi/koku-osamusi-aomaimaikaburi.htm)アオ
+　　 
 ---
