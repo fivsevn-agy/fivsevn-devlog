@@ -23,7 +23,7 @@
 - 另: [Carabus (Damaster) rugipennis rugipennis (Motschulsky, 1861)](https://www.zin.ru/Animalia/coleoptera/rus/carab29.htm)
 - 和名: エゾマイマイカブリ(参考: エゾ＝蝦夷)
 - 北海道亜種
-> 分布1: HOK（北海道）、Oks（奥尻岛）、Kuril（千岛群岛）
+> 分布1: HOK（北海道）、Oks（奥尻岛）、Kuril（千岛群岛）  
 > 分布2: В России распространён на южных Курильских о-вах(在俄罗斯，分布于南千岛群岛).
 
 ---
