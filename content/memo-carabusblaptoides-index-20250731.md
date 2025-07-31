@@ -20,7 +20,7 @@
 ### 1. エゾマイマイカブリ（rugipennis） - 北海道・南千島
 - [Carabus blaptoides rugipennis (Motschulsky, 1862)](https://www.catalogueoflife.org/data/taxon/8LJJX)
 - 另: [Carabus (Damaster) blaptoides rugipennis (Motschulsky, 1861)](https://japanesebeetles.jimdofree.com/目録/6-オサムシ科/6-3-オサムシ亜科/)
-- 另: [Carabus (Damaster) rugipennis rugipennis （Motschulsky, 1861）](https://www.zin.ru/Animalia/coleoptera/rus/carab29.htm)
+- 另: [Carabus (Damaster) rugipennis rugipennis (Motschulsky, 1861)](https://www.zin.ru/Animalia/coleoptera/rus/carab29.htm)
 - 和名: エゾマイマイカブリ(参考: エゾ＝蝦夷)
 - 北海道亜種
 > 分布1: HOK（北海道）、Oks（奥尻岛）、Kuril（千岛群岛）
