@@ -107,5 +107,5 @@
 - [北海道生物図鑑](http://gecko0912.web.fc2.com/HP3/zukan/photo/02a/ezomaimaikaburi.htm)2007-2010 エゾ
 - [隠岐ユネスコ世界ジオパーク](https://www.oki-geopark.jp/geopark-sites-features-list/957/)オキ
 - [国産オサムシ標本写真館](https://atoz2000.oiran.org/syasinnkann/hyouhonnsyasinn/sonota/osamusi/koku-osamusi-aomaimaikaburi.htm)アオ
-　　 
+ 
 ---
