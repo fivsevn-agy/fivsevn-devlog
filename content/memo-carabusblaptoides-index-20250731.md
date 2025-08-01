@@ -168,9 +168,6 @@ EdwTru Wilson., del et lith.](https://upload.wikimedia.org/wikipedia/commons/thu
 > ![Carabus (Damaster) blaptoides originaire du Japon](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Carabus_%28Damaster%29_blaptoides.JPG/640px-Carabus_%28Damaster%29_blaptoides.JPG)
 [Musée zoologique de Saint-Pétersbourg - Carabus (Damaster) blaptoides originaire du Japon.](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Carabus_%28Damaster%29_blaptoides.JPG/640px-Carabus_%28Damaster%29_blaptoides.JPG)
 > - 2  
-> ![Damaster blaptoides blaptoides in Mount Ibuki](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Damaster_blaptoides.jpg/640px-Damaster_blaptoides.jpg)
-[Damaster blaptoides blaptoides in Mount Ibuki, Maibara, Shiga prefecture, Japan.](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Damaster_blaptoides.jpg/640px-Damaster_blaptoides.jpg)
-> - 3  
 > [国産オサムシ標本写真館　ホンマイマイカブリ](https://atoz2000.oiran.org/syasinnkann/hyouhonnsyasinn/sonota/osamusi/koku-osamusi-honnmaikaburi.htm)
 
 ---
