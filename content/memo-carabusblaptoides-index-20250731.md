@@ -32,10 +32,10 @@
 
 > - 1    
 > ![Carabus blaptoides rugipennis on Kunashir Island](https://upload.wikimedia.org/wikipedia/commons/f/ff/Habitus_of_Carabus_blaptoides_rugipennis.png)
-> [Carabus blaptoides rugipennis on Kunashir Island (Kuril Archipelago, Russia) : A–C – female, colour variability; D – male; E – stage 1 larva; F – stage 2 larva.](https://upload.wikimedia.org/wikipedia/commons/f/ff/Habitus_of_Carabus_blaptoides_rugipennis.png)
+> [Carabus blaptoides rugipennis on Kunashir Island (Kuril Archipelago, Russia) : A–C – female, colour variability; D – male; E – stage 1 larva; F – stage 2 larva.](https://commons.wikimedia.org/wiki/File:Habitus_of_Carabus_blaptoides_rugipennis.png)
 > - 2  
 > ![Carabus blaptoides rugipennis on Kunashir Island](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Imago_and_larvae_of_Carabus_blaptoides_rugipennis.png/640px-Imago_and_larvae_of_Carabus_blaptoides_rugipennis.png)
-> [Carabus blaptoides rugipennis on Kunashir Island (Kuril Archipelago, Russia) : A – male on an oak trunk ; B – larva feeding on a snail.](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Imago_and_larvae_of_Carabus_blaptoides_rugipennis.png/640px-Imago_and_larvae_of_Carabus_blaptoides_rugipennis.png)
+> [Carabus blaptoides rugipennis on Kunashir Island (Kuril Archipelago, Russia) : A – male on an oak trunk ; B – larva feeding on a snail.](https://commons.wikimedia.org/wiki/File:Imago_and_larvae_of_Carabus_blaptoides_rugipennis.png)
 > - 3  
 > [国産オサムシ標本写真館　エゾマイマイカブリ](https://atoz2000.oiran.org/syasinnkann/hyouhonnsyasinn/sonota/osamusi/koku-osamusi-ezomaimaikaburi.htm)
 > - 4  
@@ -86,7 +86,7 @@
 
 > - 1  
 > ![Photograph of Carabus blaptoides.(D. b. babaianus Ishikawa](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Damaster_blaptoides_1.JPG/640px-Damaster_blaptoides_1.JPG)
-> [Photograph of Carabus blaptoides.(D. b. babaianus Ishikawa : identificated by a location and a color)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Damaster_blaptoides_1.JPG/640px-Damaster_blaptoides_1.JPG)
+> [Photograph of Carabus blaptoides.(D. b. babaianus Ishikawa : identificated by a location and a color)](https://commons.wikimedia.org/wiki/File:Damaster_blaptoides_1.JPG)
 > - 2  
 > [国産オサムシ標本写真館　コアオマイマイカブリ](https://atoz2000.oiran.org/syasinnkann/hyouhonnsyasinn/sonota/osamusi/koku-osamusi-koaomaimaikaburi.htm)
 > - 3  
@@ -105,9 +105,9 @@
 > img  
 
 > - 1  
-> ![Damaster capito](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Aid_to_the_identification_of_insects_%28Plate_125%29_%287796343040%29.jpg/640px-Aid_to_the_identification_of_insects_%28Plate_125%29_%287796343040%29.jpg)
-> [Damaster capito = Carabus blaptoides capito
-EdwTru Wilson., del et lith.](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Aid_to_the_identification_of_insects_%28Plate_125%29_%287796343040%29.jpg/640px-Aid_to_the_identification_of_insects_%28Plate_125%29_%287796343040%29.jpg)
+> ![5.Damaster capito](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Aid_to_the_identification_of_insects_%28Plate_125%29_%287796343040%29.jpg/640px-Aid_to_the_identification_of_insects_%28Plate_125%29_%287796343040%29.jpg)
+> [5.Damaster capito = Carabus blaptoides capito
+EdwTru Wilson., del et lith.](https://commons.wikimedia.org/wiki/File:Aid_to_the_identification_of_insects_(Plate_125)_(7796343040).jpg)
 > - 2  
 > [国産オサムシ標本写真館　サドマイマイカブリ](https://atoz2000.oiran.org/syasinnkann/hyouhonnsyasinn/sonota/osamusi/koku-osamusi-sadomaimaikaburi.htm)
 
@@ -166,7 +166,7 @@ EdwTru Wilson., del et lith.](https://upload.wikimedia.org/wikipedia/commons/thu
 
 > - 1  
 > ![Carabus (Damaster) blaptoides originaire du Japon](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Carabus_%28Damaster%29_blaptoides.JPG/640px-Carabus_%28Damaster%29_blaptoides.JPG)
-[Musée zoologique de Saint-Pétersbourg - Carabus (Damaster) blaptoides originaire du Japon.](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Carabus_%28Damaster%29_blaptoides.JPG/640px-Carabus_%28Damaster%29_blaptoides.JPG)
+[Musée zoologique de Saint-Pétersbourg - Carabus (Damaster) blaptoides originaire du Japon.](https://commons.wikimedia.org/wiki/File:Carabus_(Damaster)_blaptoides.JPG)
 > - 2  
 > [国産オサムシ標本写真館　ホンマイマイカブリ](https://atoz2000.oiran.org/syasinnkann/hyouhonnsyasinn/sonota/osamusi/koku-osamusi-honnmaikaburi.htm)
 
