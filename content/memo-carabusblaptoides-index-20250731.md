@@ -2,7 +2,7 @@
 
 > 本页面为资料性笔记，尚未转入正式页面结构。  
 > 来源：个人汇总，具体见文内链接。  
-> 勘误请联系 *[fivsevn0507@outlook.com](mailto:fivsevn0507@outlook.com)*
+> 勘误请联系📧*[fivsevn0507@outlook.com](mailto:fivsevn0507@outlook.com)*
 
 ## 索引（北→南）
 
@@ -30,16 +30,17 @@
 
 > img
 
+> - 1    
 > ![Carabus blaptoides rugipennis on Kunashir Island](https://upload.wikimedia.org/wikipedia/commons/f/ff/Habitus_of_Carabus_blaptoides_rugipennis.png)
 > [Carabus blaptoides rugipennis on Kunashir Island (Kuril Archipelago, Russia) : A–C – female, colour variability; D – male; E – stage 1 larva; F – stage 2 larva.](https://upload.wikimedia.org/wikipedia/commons/f/ff/Habitus_of_Carabus_blaptoides_rugipennis.png)
-
+> - 2  
 > ![Carabus blaptoides rugipennis on Kunashir Island](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Imago_and_larvae_of_Carabus_blaptoides_rugipennis.png/640px-Imago_and_larvae_of_Carabus_blaptoides_rugipennis.png)
 > [Carabus blaptoides rugipennis on Kunashir Island (Kuril Archipelago, Russia) : A – male on an oak trunk ; B – larva feeding on a snail.](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Imago_and_larvae_of_Carabus_blaptoides_rugipennis.png/640px-Imago_and_larvae_of_Carabus_blaptoides_rugipennis.png)
-
+> - 3  
 > [国産オサムシ標本写真館　エゾマイマイカブリ](https://atoz2000.oiran.org/syasinnkann/hyouhonnsyasinn/sonota/osamusi/koku-osamusi-ezomaimaikaburi.htm)
-
+> - 4  
 > [北海道生物図鑑　エゾマイマイカブリ](http://gecko0912.web.fc2.com/HP3/zukan/photo/02a/ezomaimaikaburi.htm)
-
+> - 5  
 > [北海道博物館　エゾマイマイカブリ](https://jmapps.ne.jp/hmcollection1/det.html?data_id=9084)
 
 ---
@@ -52,8 +53,9 @@
 
 > img  
 
+> - 1  
 > [Photo by  D.V. Obydov](https://www.zin.ru/Animalia/coleoptera/rus/damsimdo.htm)
-
+> - 2  
 > [Photo by  A.K. Klitin](https://www.zin.ru/Animalia/coleoptera/rus/damsimkl.htm)
 
 ---
@@ -66,8 +68,9 @@
 
 > img  
 
+> - 1  
 > [国産オサムシ標本写真館　キタマイマイカブリ](https://atoz2000.oiran.org/syasinnkann/hyouhonnsyasinn/sonota/osamusi/koku-osamusi-kitamaimaikaburi.htm)
-
+> - 2  
 > [岩手県北の自然誌　キタマイマイカブリ](https://iwate-shizen.com/konchu/kouchu/kitamaimaikaburi/kitamaimaikaburi.html)
 
 ---
@@ -81,13 +84,14 @@
 
 > img  
 
+> - 1  
 > ![Photograph of Carabus blaptoides.(D. b. babaianus Ishikawa](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Damaster_blaptoides_1.JPG/640px-Damaster_blaptoides_1.JPG)
 > [Photograph of Carabus blaptoides.(D. b. babaianus Ishikawa : identificated by a location and a color)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Damaster_blaptoides_1.JPG/640px-Damaster_blaptoides_1.JPG)
-
+> - 2  
 > [国産オサムシ標本写真館　コアオマイマイカブリ](https://atoz2000.oiran.org/syasinnkann/hyouhonnsyasinn/sonota/osamusi/koku-osamusi-koaomaimaikaburi.htm)
-
+> - 3  
 > [コアオマイマイカブリ](https://mushinavi.com/navi-insect/data-osa_maimai_koao.htm)
-
+> - 4  
 > [不思議コアオマイマイカブリ](http://hopeif.blog.fc2.com/blog-entry-1019.html)
 
 ---
@@ -100,10 +104,11 @@
 
 > img  
 
+> - 1  
 > ![Damaster capito](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Aid_to_the_identification_of_insects_%28Plate_125%29_%287796343040%29.jpg/640px-Aid_to_the_identification_of_insects_%28Plate_125%29_%287796343040%29.jpg)
 > [Damaster capito = Carabus blaptoides capito
 EdwTru Wilson., del et lith.](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Aid_to_the_identification_of_insects_%28Plate_125%29_%287796343040%29.jpg/640px-Aid_to_the_identification_of_insects_%28Plate_125%29_%287796343040%29.jpg)
-
+> - 2  
 > [国産オサムシ標本写真館　サドマイマイカブリ](https://atoz2000.oiran.org/syasinnkann/hyouhonnsyasinn/sonota/osamusi/koku-osamusi-sadomaimaikaburi.htm)
 
 ---
@@ -116,8 +121,9 @@ EdwTru Wilson., del et lith.](https://upload.wikimedia.org/wikipedia/commons/thu
 
 > img  
 
+> - 1  
 > [ヒメマイマイカブリ](https://mushinavi.com/navi-insect/data-osa_maimai_hime.htm)
-
+> - 2  
 > [関東を中心とした地表徘徊性甲虫](https://hyoka.nenv.k.u-tokyo.ac.jp/ground_beetle_zukan/1_osamushi/06/)
 
 ---
@@ -130,6 +136,7 @@ EdwTru Wilson., del et lith.](https://upload.wikimedia.org/wikipedia/commons/thu
 
 > img  
 
+> - 1  
 > [国産オサムシ標本写真館　アオマイマイカブリ](https://atoz2000.oiran.org/syasinnkann/hyouhonnsyasinn/sonota/osamusi/koku-osamusi-aomaimaikaburi.htm)
 
 ---
@@ -142,8 +149,9 @@ EdwTru Wilson., del et lith.](https://upload.wikimedia.org/wikipedia/commons/thu
 
 > img  
 
+> - 1  
 > [国産オサムシ標本写真館　オキマイマイカブリ](https://atoz2000.oiran.org/syasinnkann/hyouhonnsyasinn/sonota/osamusi/koku-osamusi-okimaimaikaburi.htm)
-
+> - 2  
 > [隠岐ユネスコ世界ジオパーク オキマイマイカブリ](https://www.oki-geopark.jp/geopark-sites-features-list/957/)
 
 ---
@@ -156,12 +164,13 @@ EdwTru Wilson., del et lith.](https://upload.wikimedia.org/wikipedia/commons/thu
 
 > img  
 
+> - 1  
 > ![Carabus (Damaster) blaptoides originaire du Japon](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Carabus_%28Damaster%29_blaptoides.JPG/640px-Carabus_%28Damaster%29_blaptoides.JPG)
 [Musée zoologique de Saint-Pétersbourg - Carabus (Damaster) blaptoides originaire du Japon.](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Carabus_%28Damaster%29_blaptoides.JPG/640px-Carabus_%28Damaster%29_blaptoides.JPG)
-
+> - 2  
 > ![Damaster blaptoides blaptoides in Mount Ibuki](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Damaster_blaptoides.jpg/640px-Damaster_blaptoides.jpg)
 [Damaster blaptoides blaptoides in Mount Ibuki, Maibara, Shiga prefecture, Japan.](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Damaster_blaptoides.jpg/640px-Damaster_blaptoides.jpg)
-
+> - 3  
 > [国産オサムシ標本写真館　ホンマイマイカブリ](https://atoz2000.oiran.org/syasinnkann/hyouhonnsyasinn/sonota/osamusi/koku-osamusi-honnmaikaburi.htm)
 
 ---
