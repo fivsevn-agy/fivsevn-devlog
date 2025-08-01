@@ -97,7 +97,7 @@
 > *Photograph of Carabus blaptoides.(D. b. babaianus Ishikawa : identificated by a location and a color)*  
 > **Image source**: Wikimedia Commons  
 > **Author**: Adan  
-> **License**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+> **License**: [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)  
 > **Original file**: [Link to the original image page](https://commons.wikimedia.org/wiki/File:Damaster_blaptoides_1.JPG)  
 > - 2  
 > [国産オサムシ標本写真館　コアオマイマイカブリ](https://atoz2000.oiran.org/syasinnkann/hyouhonnsyasinn/sonota/osamusi/koku-osamusi-koaomaimaikaburi.htm)
@@ -121,7 +121,7 @@
 > *Aid to the identification of insects (Plate 125) (7796343040) 5. Damaster capito (cropped).png*  
 > **Image source**: Wikimedia Commons  
 > **Author**: Waterhouse, Charles Owen  
-> **License**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+> **License**: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.en)  
 > **Original file**: [Link to the original image page](https://commons.wikimedia.org/wiki/File:Aid_to_the_identification_of_insects_(Plate_125)_(7796343040).jpg)  
 > - 2  
 > [国産オサムシ標本写真館　サドマイマイカブリ](https://atoz2000.oiran.org/syasinnkann/hyouhonnsyasinn/sonota/osamusi/koku-osamusi-sadomaimaikaburi.htm)
