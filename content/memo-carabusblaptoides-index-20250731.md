@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # memo｜マイマイカブリ亜種索引（草案）
 
 > 本页面为资料性笔记，尚未转入正式页面结构。  
