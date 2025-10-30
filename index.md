@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # 欢迎来到五月七日的开发日志🥰
   
 本页面由 GitHub Pages 自动渲染生成。
