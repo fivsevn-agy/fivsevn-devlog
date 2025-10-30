@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # memo｜マイマイカブリ情報探索メソッド(草案)
 
 > 4月12日开始做的文章，拖到现在还没做完。
