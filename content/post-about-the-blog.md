@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # 博客简介
 
 ## 1. 博客名称：
