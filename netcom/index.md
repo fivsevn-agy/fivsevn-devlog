@@ -6,3 +6,4 @@
 ## note
 
 - 2025.11.16 [Mesh设备结构一览](content/mesh20251116.md)
+- 2025.11.16 [Mesh各种设备简要梳理](content/mesh20251116e.md)
