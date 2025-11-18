@@ -7,8 +7,8 @@
 - **五月七日的思考札记**    
   
 ### 其他语言版本名称：
-- **fivsevn’s Pocket Reflection Journal**  
-- **つゆりのポケット思案帳**  
+- **fivsevn’s Pocket Reflection Journal**
+- **つゆりのポケット思案帳**
 
 ### 链接：
 - [http://fivsevn.home.blog](http://fivsevn.home.blog)
@@ -25,34 +25,38 @@
   
 ```
 fivsevn.home.blog/
-├─ front-page/       # 所有入口链接
+├─ front-page/    # 所有入口聚合
 │  └─ links/
 │     ├─ posts/
 │     ├─ nvesvif/
 │     ├─ devlog/
 │     └─ archive/
 │
-├─ posts/                  
+├─ posts/         # 视觉入口                
 │  ├─ feed/          # 主要更新
-│  │   └─ ...
+│  │   └─ ...          catagories
 │  ├─ foodie/        # 吃的
-│  │   └─ ...        category#foodie
-│  └─ natsci/        # 自然科学类笔记
-│      └─ ...        categories+tags+其他页面
+│  │   └─ ...          category#foodie
+│  ├─ natsci/        # 自然科学类博客
+│  │   └─ ...          category#foodie
+│  └─ ???/           # 更多专题页面
+│      └─ ...          
 │
 ├─ nvesvif/
 │   └─ ...
 │
-├─ devlog/            # Github Pages生成页面
-│  ├─ blogops/        # 博客开发相关笔记
+├─ devlog/         # 后台入口
+│  ├─ blogops/        # 博客后台日志
 │  │   └─ ...
-│  └─ natcom/         # 通讯技术相关学习笔记
+│  ├─ natcom/         # 通讯技术相关学习笔记
+│  │   └─ ...
+│  └─ ???/            # 更多学习笔记
 │      └─ ...
 │
-└─ archive/           # 归档区
-    ├─ by time/       # 按分类浏览
-    ├─ by category/   # 按分类浏览
-    └─ by tag/        # 按标签浏览
+└─ archive/        # 归档入口
+    ├─ by time/       # 按时间
+    ├─ by category/   # 按分类
+    └─ by tag/        # 按标签
 ```
 
 ---
