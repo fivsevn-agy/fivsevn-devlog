@@ -11,7 +11,7 @@
 - **つゆりのポケット思案帳**  
 
 ### 链接：
-- http://fivsevn.home.blog 
+- [http://fivsevn.home.blog](http://fivsevn.home.blog)
 
 ### 头像：
 ![avatar](https://cdn.jsdelivr.net/gh/fivsevn/fivsevn-assets@main/avatar/avatar202511main512.png)
@@ -38,7 +38,7 @@ fivsevn.home.blog/
 │  ├─ foodie/        # 吃的
 │  │   └─ ...        category#foodie
 │  └─ natsci/        # 自然科学类笔记
-│       └─ ...        categories+tags+其他页面
+│      └─ ...        categories+tags+其他页面
 │
 ├─ nvesvif/
 │   └─ ...
@@ -47,7 +47,7 @@ fivsevn.home.blog/
 │  ├─ blogops/        # 博客开发相关笔记
 │  │   └─ ...
 │  └─ natcom/         # 通讯技术相关学习笔记
-│       └─ ...
+│      └─ ...
 │
 └─ archive/           # 归档区
     ├─ by time/       # 按分类浏览
