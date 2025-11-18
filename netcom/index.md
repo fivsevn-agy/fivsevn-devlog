@@ -5,8 +5,17 @@
 
 ## note
 
-- 2025.11.16 [Mesh设备结构一览](content/mesh20251116.md)
-- 2025.11.16 [Mesh各种设备简要梳理](content/mesh20251116e.md)
-- 2025.11.18 [常见MCU](content/mcu20251118.md)
-- 2025.11.18 [电磁波谱快速回炉](content/spectrum20251118.md)
+（更新中...）  
+
 - 2025.11.19 [业余无线电执照考试2025新题库](https://github.com/AlliotTech/ham-exam-web)
+
+- 2025.11.18 [电磁波谱快速回炉](content/spectrum20251118.md)
+
+- 2025.11.18 [常见MCU](content/mcu20251118.md)
+
+- 2025.11.16 [Mesh各种设备简要梳理](content/mesh20251116e.md)
+
+- 2025.11.16 [Mesh设备结构一览](content/mesh20251116.md)
+
+
+
