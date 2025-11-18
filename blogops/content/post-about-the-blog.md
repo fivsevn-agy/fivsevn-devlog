@@ -119,7 +119,7 @@ This work is licensed under CC BY-NC-SA 4.0.
 ---
 ## 联系方式
 
-- 联系邮箱 mail to: fivsevn0507@outlook.com
+- 联系邮箱 mailto: fivsevn0507@outlook.com
 
 
 
