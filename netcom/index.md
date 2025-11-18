@@ -7,6 +7,8 @@
 
 （更新中...）  
 
+- 2025.11.19 [和Mesh有关的技术发展脉络](content/mesh20251119.md)
+
 - 2025.11.19 [业余无线电执照考试2025新题库](https://github.com/AlliotTech/ham-exam-web)
 
 - 2025.11.18 [电磁波谱快速回炉](content/spectrum20251118.md)
