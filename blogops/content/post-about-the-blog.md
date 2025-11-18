@@ -58,7 +58,7 @@ fivsevn.home.blog/
 ---
 ## 版权声明
 
-© 2025 五月七日的思考札记 | fivsevn’s Pocket Reflection Journal | つゆりのポケット思案帳  
+© 2025 五月七日的思考札记｜fivsevn’s Pocket Reflection Journal｜つゆりのポケット思案帳  
   
 本博客内容采用 CC BY-NC-SA 4.0 许可。  
 [CC BY-NC-SA 4.0 许可 - 中文版](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)  
