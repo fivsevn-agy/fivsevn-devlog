@@ -117,9 +117,9 @@ This work is licensed under CC BY-NC-SA 4.0.
 *本サイトの内容に基づき、いかなる損害または不利益が生じた場合も、作者は一切の責任を負いかねます。*  
 
 ---
-## 联系方式
+## 联络方式
 
-- 联系邮箱 mailto: fivsevn0507@outlook.com
+- 📮 fivsevn0507@outlook.com
 
 
 
