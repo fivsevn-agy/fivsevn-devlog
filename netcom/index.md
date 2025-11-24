@@ -8,6 +8,8 @@
 
 （更新中...）  
 
+- 2025.11.24 [堆（heap）和栈（stack）](content/stack20251124.md)
+
 - 2025.11.23 [LoRa开发板可以做些什么](content/lora20251123e.md)
 
 - 2025.11.23 [从内容到电磁波，以及LoRa这种调制方式](content/lora20251123.md)
