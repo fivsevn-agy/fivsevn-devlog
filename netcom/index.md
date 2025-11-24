@@ -8,6 +8,8 @@
 
 （更新中...）  
 
+- 2025.11.24 [目前手头的设备](content/mesh20251124e.md)
+
 - 2025.11.24 [spec·规格](content/spec20251124.md)
 
 - 2025.11.24 [堆（heap）和栈（stack）](content/stack20251124.md)
