@@ -49,7 +49,7 @@ JP
 
 ## 联络方式
 
-- blog ✏️ http://fivsevn.home.blog
-- mail ✉️ fivsevn0507@outlook.com
+- blog ✏️ [http://fivsevn.home.blog](http://fivsevn.home.blog)
+- mail ✉️ [fivsevn0507@outlook.com](mailto:fivsevn0507@outlook.com)
 
 
