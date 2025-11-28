@@ -3,15 +3,6 @@
 - 初入门学习中。
 - 我经常依靠比喻来补足不太强大的抽象思维能力，你可以在笔记里面初见端倪😁。
   
-EN  
-  
-- Still at an entry-level learning stage.
-- My abstraction ability is mediocre, so I rely heavily on analogies and metaphors when trying to understand concepts.
-  
-JP  
-  
-- まだ入門レベルで勉強中です。
-- 抽象的な思考があまり得意ではないため、概念を理解する時は比喩や類推に頼ることが多いです。
   
 ## note
 
