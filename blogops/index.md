@@ -2,7 +2,7 @@
 
 ## 【[五月七日的思考札记](http://fivsevn.home.blog)】后台日志
 
-- [仓库地址](https://github.com/fivsevn/fivsevn-devlog)
+- [仓库地址](https://github.com/fivsevn-agy/fivsevn-devlog)
 
 - [开张纪念](openinglog.md)🎊
   
