@@ -1,7 +1,3 @@
----
-title: fivsevn-agy devlog
----
-
 # CQCQCQ
 
 ## blogops
