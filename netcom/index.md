@@ -8,6 +8,8 @@
 
 （更新中...）  
 
+- 2025.12.06 [Meshtastic常见参数](content/network20251206.md)
+
 - 2025.12.04 [电磁波频段俗称表](content/spectrum20251204.md)
 
 - 2025.12.03 [数字电台入门](content/digital20251203.md)
