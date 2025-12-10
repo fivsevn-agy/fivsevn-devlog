@@ -8,6 +8,8 @@
 
 （更新中...）  
 
+- 2025.12.10 [dB、dBm和dBi，以及关于指数和对数](content/math20251210.md)
+
 - 2025.12.06 [Meshtastic常见无线相关参数](content/network20251206.md)
 
 - 2025.12.04 [电磁波频段俗称表](content/spectrum20251204.md)
