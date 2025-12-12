@@ -7,6 +7,8 @@
 ## note
 
 （更新中...）  
+
+- 2025.12.13 [模运算：基本含义](content/math20251213.md)
   
 - 2025.12.12 [解dy/dt=ky](content/math20251212e.md)
 
