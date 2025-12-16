@@ -13,7 +13,7 @@
 > [有关通讯技术的学习笔记](https://fivsevn-agy.github.io/fivsevn-devlog/netcom/)
 
 - 近况：最近主要围绕meshtastic和数字电台。还有数学补习。
-- 最近更新：2025.12.13
+- 最近更新：2025.12.16
   
 --- 
 ## natsci
