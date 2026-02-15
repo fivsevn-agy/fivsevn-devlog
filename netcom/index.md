@@ -67,8 +67,8 @@
 ---
 ## contact
 
-- blog [http://fivsevn.home.blog](http://fivsevn.home.blog)
+- blog: [http://fivsevn.home.blog](http://fivsevn.home.blog)
    
-- mail [fivsevn0507@outlook.com](mailto:fivsevn0507@outlook.com)
+- mail: [fivsevn0507@outlook.com](mailto:fivsevn0507@outlook.com)
 
 
