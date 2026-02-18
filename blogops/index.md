@@ -1,11 +1,13 @@
 # blogops
 
-- 【[五月七日的思考札记](http://fivsevn.home.blog)】博客后台日志
+- 【[五月七日的思考札记](http://fivsevn.com)】博客后台日志
 
 ---
 ## directory
 
 （更新中...）  
+
+- 2026.02.18 🎉fivsevn.com
 
 - 2025.12.13 🤌整合了文件夹。
 
@@ -26,7 +28,7 @@
 ---
 ## contact
 
-- blog: [http://fivsevn.home.blog](http://fivsevn.home.blog)
+- blog: [http://fivsevn.com](http://fivsevn.com)
    
 - mail: [fivsevn0507@outlook.com](mailto:fivsevn0507@outlook.com)
 

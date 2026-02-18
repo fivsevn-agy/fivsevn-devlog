@@ -10,7 +10,7 @@ Updated: 2025.12.13
 
 > [个人博客【**五月七日的思考札记**】后台日志](https://fivsevn-agy.github.io/fivsevn-devlog/blogops/)
 
-- 最近[吃吃速报](https://fivsevn.home.blog/foodie/)更新比较多。
+- 最近[吃吃速报](https://fivsevn.com/foodie/)更新比较多。
 
 ---
 ## netcom
