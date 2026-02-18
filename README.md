@@ -6,11 +6,12 @@
 ---
 ## blogops
 
-Updated: 2025.12.13
+Updated: 2026.02.18
 
 > [个人博客【**五月七日的思考札记**】后台日志](https://fivsevn-agy.github.io/fivsevn-devlog/blogops/)
 
 - 最近[吃吃速报](https://fivsevn.com/foodie/)更新比较多。
+- 开始建设自然科学板块。
 
 ---
 ## netcom
