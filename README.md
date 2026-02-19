@@ -1,7 +1,7 @@
 # 五月七日的思考札记
 
-- 入口: fivsevn.com
-- 仓库: fivsevn-agy.github.io/fivsevn-devlog/
+- 入口: [fivsevn.com](https://fivsevn.com)
+- 仓库: [fivsevn-devlog](https://fivsevn-agy.github.io/fivsevn-devlog)
 
 ---
 ## ✏️ posts
@@ -9,6 +9,8 @@
 Updated: 2026.02.19
 
 > [个人笔记](https://fivsevn-agy.github.io/fivsevn-devlog/posts/)
+
+- 正在把之前的内容备份过来。
 
 --- 
 ## 🪲 natsci
