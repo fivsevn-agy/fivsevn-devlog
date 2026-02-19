@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/index.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/index.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "index 的反向链接列表"
+              "title": "README 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/index.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "index 的出链列表"
+              "title": "README 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/index.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "index 的大纲"
+              "title": "README 的大纲"
             }
           }
         ]
@@ -185,12 +185,21 @@
   },
   "active": "c975edbe977b8e37",
   "lastOpenFiles": [
-    "posts/2025/202506/2025-06-27-【授权转载】Tents in Strong Wind What You Need to Know.md",
-    "posts/index.md",
-    "posts/2025/202503/2025-03-20-听壁脚、包打听、讲斤头、牵丝扳藤.md",
-    "posts/2025/202503/2025-03-13-波洛去埃及.md",
-    "README.md",
     "toolbox.md",
+    "posts/index.md",
+    "netcom/index.md",
+    "natsci/index.md",
+    "blogops/index.md",
+    "netcom/assets/20251118mcu.png",
+    "netcom/assets/20251116mesh.png",
+    "posts/2025/202503/2025-03-13-波洛去埃及.md",
+    "blogops/content/system-writing-and-deployment.md",
+    "blogops/content/post-about-the-blog.md",
+    "blogops/content/log-rolesystem-node01-20250619.md",
+    "blogops/content/archive-openinglog.md",
+    "posts/2025/202506/2025-06-27-【授权转载】Tents in Strong Wind What You Need to Know.md",
+    "posts/2025/202503/2025-03-20-听壁脚、包打听、讲斤头、牵丝扳藤.md",
+    "README.md",
     "posts/README.md",
     "posts/wp-clean/README.md",
     "posts/2025/202503/2025-03-14-泛指、抑或是个人问题.md",
@@ -209,13 +218,6 @@
     "posts/2025/202503/202503.md",
     "posts/2025/202503/2025-03-31-犯罪小说当中对执法机构的描述（虚构文学研究）.md",
     "posts/2025/202503/2025-03-31-更新预告：如何翻译 “ Profiling ”.md",
-    "posts/2025/202503/2025-03-28-he1l0.kt7y protocol active surveillance.md",
-    "posts/2025/202503/2025-03-27-🍚 🦐 🐟.md",
-    "posts/2025/202503/2025-03-26-RayRay的奇妙比喻.md",
-    "posts/2025/202503/2025-03-24-摊痕地带.md",
-    "posts/2025/202503/2025-03-23-阈限地带.md",
-    "posts/2025/202503/2025-03-23-锯锯鱼.md",
-    "posts/2025/202503/2025-03-22-染发香波便便💩.md",
     "posts/2025/202506",
     "posts/2025/202504",
     "posts/2025/202503",
