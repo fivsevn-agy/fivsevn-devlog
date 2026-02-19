@@ -1,5 +1,5 @@
 # 关于博客
-*v20251119*
+*v20260219*
 
 ## 基本信息
 
@@ -11,7 +11,7 @@
 - **つゆりのポケット思案帳**
 
 ### 链接：
-- [http://fivsevn.home.blog](http://fivsevn.home.blog)
+- [http://fivsevn.com](http://fivsevn.com)
 
 ### 头像：
 ![avatar](https://cdn.jsdelivr.net/gh/fivsevn/fivsevn-assets@main/avatar/avatar202511main512.png)
@@ -24,45 +24,23 @@
 ## structure
   
 ```
-fivsevn.home.blog/
-├─ front-page/    # 所有入口聚合
-│  └─ links/
-│     ├─ posts/
-│     ├─ nvesvif/
-│     ├─ devlog/
-│     └─ archive/
-│
-├─ posts/         # 视觉入口                
-│  ├─ feed/          # 主要更新
-│  │   └─ ...          catagories
-│  ├─ foodie/        # 吃的
-│  │   └─ ...          category#foodie
-│  ├─ natsci/        # 自然科学类博客
-│  │   └─ ...          category#foodie
-│  └─ ???/           # 更多专题页面
-│      └─ ...          
-│
-├─ nvesvif/
-│   └─ ...
-│
-├─ devlog/         # 后台入口
-│  ├─ blogops/        # 博客后台日志
-│  │   └─ ...
-│  ├─ natcom/         # 通讯技术相关学习笔记
-│  │   └─ ...
-│  └─ ???/            # 更多学习笔记
-│      └─ ...
-│
-└─ archive/        # 归档入口
-    ├─ by time/       # 按时间
-    ├─ by category/   # 按分类
-    └─ by tag/        # 按标签
+fivsevn.com/
+├─ front-page/    
+   └─ links/
+      ├─ posts/      # 个人笔记
+      ├─ foodie/     # 吃吃
+      ├─ natsci/     # 自然科学学习笔记
+      ├─ netcom/     # 网络通讯学习笔记
+      ├─ devlog/     # 后台日志
+      ├─ nvesvif/
+      └─ ???/
+
 ```
 
 ---
 ## 版权声明
 
-© 2025 五月七日的思考札记｜fivsevn’s Pocket Reflection Journal｜つゆりのポケット思案帳  
+© 2025-2026 五月七日的思考札记｜fivsevn’s Pocket Reflection Journal｜つゆりのポケット思案帳  
   
 本博客内容采用 CC BY-NC-SA 4.0 许可。  
 [CC BY-NC-SA 4.0 许可 - 中文版](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)  
@@ -120,6 +98,3 @@ This work is licensed under CC BY-NC-SA 4.0.
 ## 联络方式
 
 - 📮 fivsevn0507@outlook.com
-
-
-

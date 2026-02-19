@@ -29,7 +29,7 @@
               "state": {
                 "file": "posts/index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "index"
@@ -200,8 +200,18 @@
   },
   "active": "da29f6afb41c2714",
   "lastOpenFiles": [
+    "natsci/index.md",
     "netcom/index.md",
     "posts/index.md",
+    "blogops/index.md",
+    "blogops/content/log-rolesystem-node01-20250619.md",
+    "blogops/content/system-writing-and-deployment.md",
+    "blogops/content/post-about-the-blog.md",
+    "blogops/content/archive-openinglog.md",
+    "blogops/_archive/README.md",
+    "blogops/_archive/nvesvif-wordpress/keep.md",
+    "blogops/_archive/fivsevn-com/keep.md",
+    "未命名",
     "posts/2025/202506/2025-06-27-【授权转载】Tents in Strong Wind What You Need to Know.md",
     "posts/2025/202504/2025-04-09-路灯.md",
     "posts/2025/202504/2025-04-03-开发日志已更新！.md",
@@ -217,15 +227,6 @@
     "posts/2025/202503/2025-03-20-听壁脚、包打听、讲斤头、牵丝扳藤.md",
     "posts/2025/202503/2025-03-18-绿化带射灯.md",
     "posts/2025/202503/2025-03-18-更新预告：锯锯🪚.md",
-    "posts/2025/202503/2025-03-17-路过.md",
-    "posts/2025/202503/2025-03-17-廷巴克图.md",
-    "posts/2025/202503/2025-03-15-麦麦赛博π.md",
-    "posts/2025/202503/2025-03-14-泛指、抑或是个人问题.md",
-    "posts/2025/202503/2025-03-14-更新计划.md",
-    "posts/2025/202503/2025-03-13-波洛去埃及.md",
-    "posts/2025/202506/202506.md",
-    "posts/2025/202504/202504.md",
-    "posts/2025/202503/202503.md",
     "netcom/assets/20251118mcu.png",
     "netcom/assets/20251116mesh.png",
     "posts/wp-clean/merge_all.py",
@@ -236,7 +237,6 @@
     "posts/2025/202506",
     "posts/2025/202504",
     "posts/2025/202503",
-    "posts/2025",
-    "posts/2019"
+    "posts/2025"
   ]
 }
