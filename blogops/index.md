@@ -1,11 +1,13 @@
 # blogops
 
-- 【[五月七日的思考札记](http://fivsevn.com)】博客后台日志
+- 【[五月七日的思考札记](http://fivsevn.com)】后台日志
 
 ---
 ## directory
 
 （更新中...）  
+
+- 2026.02.19 调整了结构。
 
 - 2026.02.18 🎉fivsevn.com
 
