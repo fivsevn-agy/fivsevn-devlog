@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "2d560ad8f7f3cf79",
+    "type": "split",
+    "children": [
+      {
+        "id": "c443e8a1810d2251",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c975edbe977b8e37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3753566bd94de0dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "82905b3dfa173e5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4381e9c64ff5575a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "dcd12cbf7cf1624f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "60a52d62361ede43",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d8781b8d77247388",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5bf0eb779ab6af1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "779880bd2fe8b60b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "posts/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "index 的反向链接列表"
+            }
+          },
+          {
+            "id": "f6320fe1f8e47c52",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "posts/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "index 的出链列表"
+            }
+          },
+          {
+            "id": "82c9076e843bb858",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "4881310fddbee45c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "c32dd8973b9aea40",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "posts/index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "index 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "c975edbe977b8e37",
+  "lastOpenFiles": [
+    "posts/2025/202506/2025-06-27-【授权转载】Tents in Strong Wind What You Need to Know.md",
+    "posts/index.md",
+    "posts/2025/202503/2025-03-20-听壁脚、包打听、讲斤头、牵丝扳藤.md",
+    "posts/2025/202503/2025-03-13-波洛去埃及.md",
+    "README.md",
+    "toolbox.md",
+    "posts/README.md",
+    "posts/wp-clean/README.md",
+    "posts/2025/202503/2025-03-14-泛指、抑或是个人问题.md",
+    "posts/2025/202503/2025-03-14-更新计划.md",
+    "posts/2025/202506/202506.md",
+    "posts/2019/README.md",
+    "posts/2019/2019-06-18-深夜四時.md",
+    "posts/wp-clean/merge_all.py",
+    "posts/wp-clean/clean_wp.py",
+    "posts/wp-clean/WordPress.2025-11-16.xml",
+    "posts/wp-clean",
+    "posts/2026",
+    "posts/2025/202504/202504.md",
+    "posts/2025/202504/2025-04-09-路灯.md",
+    "posts/2025/202504/2025-04-03-开发日志已更新！.md",
+    "posts/2025/202503/202503.md",
+    "posts/2025/202503/2025-03-31-犯罪小说当中对执法机构的描述（虚构文学研究）.md",
+    "posts/2025/202503/2025-03-31-更新预告：如何翻译 “ Profiling ”.md",
+    "posts/2025/202503/2025-03-28-he1l0.kt7y protocol active surveillance.md",
+    "posts/2025/202503/2025-03-27-🍚 🦐 🐟.md",
+    "posts/2025/202503/2025-03-26-RayRay的奇妙比喻.md",
+    "posts/2025/202503/2025-03-24-摊痕地带.md",
+    "posts/2025/202503/2025-03-23-阈限地带.md",
+    "posts/2025/202503/2025-03-23-锯锯鱼.md",
+    "posts/2025/202503/2025-03-22-染发香波便便💩.md",
+    "posts/2025/202506",
+    "posts/2025/202504",
+    "posts/2025/202503",
+    "posts/2025",
+    "posts/2019"
+  ]
+}
