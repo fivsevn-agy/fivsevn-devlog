@@ -1,21 +1,21 @@
 # 五月七日的思考札记
 
-- 入口: [fivsevn.com](https://fivsevn.com)
-- 仓库: [fivsevn-devlog](https://fivsevn-agy.github.io/fivsevn-devlog)
+- 视觉入口: [fivsevn.com](https://fivsevn.com)
+- 内容仓库: [fivsevn-devlog](https://fivsevn-agy.github.io/fivsevn-devlog)
 
 ---
 ## ✏️ posts
 
-Updated: 2026.02.19
+*Updated: 2026.02.19*
 
 > [个人笔记](https://fivsevn-agy.github.io/fivsevn-devlog/posts/)
 
-- 正在把之前的内容备份过来。
+- 读书笔记，人文社科为主。
 
 --- 
 ## 🪲 natsci
 
-Updated: 2025.07.31
+*Updated: 2025.07.31*
 
 > [有关自然科学的学习笔记](https://fivsevn-agy.github.io/fivsevn-devlog/natsci/)
 
@@ -24,7 +24,7 @@ Updated: 2025.07.31
 ---
 ## 📟 netcom
 
-Updated: 2025.12.16
+*Updated: 2025.12.16*
 
 > [有关通讯技术的学习笔记](https://fivsevn-agy.github.io/fivsevn-devlog/netcom/)
 
@@ -33,14 +33,14 @@ Updated: 2025.12.16
 ---
 ## 🪏 blogops
 
-Updated: 2026.02.18
+*Updated: 2026.02.19*
 
 > [后台日志](https://fivsevn-agy.github.io/fivsevn-devlog/blogops/)
 
 ---
 ## 📌 spec
 
-Updated: 2026.02.15
+*Updated: 2026.02.15*
 
 > [个人写作规范](https://github.com/fivsevn-agy/fivsevn-spec)
 
