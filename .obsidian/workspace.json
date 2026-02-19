@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogops/content/post-about-the-blog.md",
+                "file": "natsci/drafts/insecta20260215.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "post-about-the-blog"
+              "title": "insecta20260215"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "13d40591a7aefc47",
   "lastOpenFiles": [
+    "blogops/content/post-about-the-blog.md",
     "README.md",
     "posts/drafts/README.md",
     "posts/drafts/Agatha Christie.md",
@@ -198,7 +199,6 @@
     "blogops/content/system-writing-and-deployment.md",
     "blogops/content/archive-openinglog.md",
     "blogops/content/log-rolesystem-node01-20250619.md",
-    "blogops/content/post-about-the-blog.md",
     "natsci/drafts/README.md",
     "posts/drafts 1 1/README.md",
     "posts/drafts 1 1",
