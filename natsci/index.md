@@ -10,8 +10,7 @@
 
 （更新中...）  
 
-- 2026.02.20 [Ethnoentomology
- 文化昆虫学检索建议](content/ethnoentomology20260220.md) 速记，随时增删
+- 2026.02.20 [文化昆虫学检索建议](content/ethnoentomology20260220.md)
 
 - 2025.07.31 [memo｜マイマイカブリ亜種索引（草案）](content/carabusblaptoides-index-20250731.md)  
 
