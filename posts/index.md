@@ -1,6 +1,7 @@
 # posts
 
-- 文字内容还是放这边写起来方便！fivsevn.com 就作为视觉入口。
+- 快速发布[戳戳](https://fivsevn.com/posts/)
+- 这里是慢速发布、历史文章存档和草稿。
 
 ---
 ## note
