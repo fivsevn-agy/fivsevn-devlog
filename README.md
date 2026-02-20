@@ -6,7 +6,7 @@
 ---
 ## ✏️ posts
 
-*Updated: 2026.02.19*
+*Updated: 2026.02.20*
 
 > [个人笔记](https://fivsevn-agy.github.io/fivsevn-devlog/posts/)
 
@@ -15,7 +15,7 @@
 --- 
 ## 🪲 natsci
 
-*Updated: 2025.07.31*
+*Updated: 2026.02.20*
 
 > [有关自然科学的学习笔记](https://fivsevn-agy.github.io/fivsevn-devlog/natsci/)
 
