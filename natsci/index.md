@@ -3,7 +3,7 @@
 ![](https://cdn.jsdelivr.net/gh/fivsevn/fivsevn-assets/homepage/homepage20251105bio.webp)
 
 - [这里](https://fivsevn-agy.github.io/fivsevn-devlog/natsci/)是有关自然科学的学习笔记。
-- 平时拍的图片[在那里](https://fivsevn.com/natsci/)。
+- 照片和截图快速发布[在那里](https://fivsevn.com/natsci/)。
 
 ---
 ## note
