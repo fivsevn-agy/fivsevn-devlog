@@ -1,10 +1,15 @@
 # 五月七日的思考札记
 
 - 视觉入口: [fivsevn.com](https://fivsevn.com)
+  - 短内容、图片流；个人链接聚合  
+  - 随时更新
+
 - 内容仓库: [fivsevn-devlog](https://fivsevn-agy.github.io/fivsevn-devlog)
+  - 长内容、结构化的内容  
+  - 会存放暂未转入正文系统的草稿
 
 ---
-## ✏️ posts
+## 🖋️ posts
 
 *Updated: 2026.02.20*
 
@@ -28,17 +33,17 @@
 
 > [有关通讯技术的学习笔记](https://fivsevn-agy.github.io/fivsevn-devlog/netcom/)
 
-- 最近主要围绕meshtastic和数字电台。还有数学补习。
+- 最近主要围绕meshtastic和电台。还有数学补习。
 
 ---
-## 🪏 blogops
+## blogops
 
 *Updated: 2026.02.19*
 
 > [后台日志](https://fivsevn-agy.github.io/fivsevn-devlog/blogops/)
 
 ---
-## 📌 spec
+## spec
 
 *Updated: 2026.02.15*
 
@@ -47,7 +52,7 @@
 - `/source`（信息来源）待整理补充。
 
 ---
-## 📮 contact
+## contact
 
 - mail: [fivsevn0507@outlook.com](mailto:fivsevn0507@outlook.com)
 
