@@ -2,8 +2,9 @@
 
 ![](https://cdn.jsdelivr.net/gh/fivsevn/fivsevn-assets/homepage/homepage20251105bio.webp)
 
+- ⬆️ 这是养小虫用的保温泡沫塑料箱。
 - [这里](https://fivsevn-agy.github.io/fivsevn-devlog/natsci/)是有关自然科学的学习笔记。
-- 照片和截图快速发布[在那里](https://fivsevn.com/natsci/)。
+- 照片、截图和比较简短的内容[在那里](https://fivsevn.com/natsci/)。
 
 ---
 ## note
