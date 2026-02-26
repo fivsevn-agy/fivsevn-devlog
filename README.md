@@ -5,7 +5,7 @@
   - 随时更新
 
 - 内容仓库: [fivsevn-devlog](https://fivsevn-agy.github.io/fivsevn-devlog)
-  - 长内容、结构化的内容  
+  - 长文、结构化的内容  
   - 会存放暂未转入正文系统的草稿
 
 ---
