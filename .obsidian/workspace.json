@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "natsci/index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "index"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 334.5
   },
   "right": {
     "id": "d8781b8d77247388",
@@ -185,6 +185,20 @@
   },
   "active": "13d40591a7aefc47",
   "lastOpenFiles": [
+    "natsci/ethnobiology/ethnoentomology/natsci-ethnobiology-ethnoentomology-resources-001.md",
+    "natsci/methods/natsci-methods-retrieval-001.md",
+    "natsci/taxonomy/insecta/coleoptera/natsci-inecta-coleoptera-carabus-blaptoides-index-001.md",
+    "natsci/content/carabusblaptoides-index-20250731.md",
+    "natsci/ethnobiology/index.md",
+    "natsci/ethnoentomology/natsci-ethnoentomology-resources-001.md",
+    "natsci/ethnobiology/ethnoentomology/index.md",
+    "natsci/ethnobiology/ethnoentomology",
+    "natsci/ethnobiology",
+    "natsci/ethnozoology",
+    "natsci/untitled folder",
+    "natsci/content/ethnoentomology20260220.md",
+    "natsci/content/carabusblaptoides-retrievalmethod-20250421.md",
+    "README.md",
     "未命名.md",
     "system/workspace.md",
     "system/index.md",
@@ -204,23 +218,9 @@
     "posts/_drafts/世代语言通译.md",
     "posts/_drafts/profiling语料库.numbers",
     "posts/_drafts/README.md",
-    "posts/_drafts/Agatha Christie.md",
     "posts/_drafts",
-    "posts/inbox/index.md",
     "posts/inbox",
     "posts/untitled folder",
-    "posts/topics/index.md",
-    "posts/topics",
-    "netcom/_drafts/netcom：刷t echo记录.md",
-    "netcom/_drafts/netcom：mesh map.md",
-    "netcom/_drafts/netcom：mcu对比.md",
-    "netcom/_drafts/lilygo_techo_bootloader-0.6.1_s140_6.1.1.hex",
-    "netcom/_drafts/firmware-t-echo-lite-2.7.16.a597230.uf2",
-    "netcom/_drafts/README.md",
-    "netcom/_drafts",
-    "netcom/tools/index.md",
-    "netcom/protocols/index.md",
-    "netcom/math/index.md",
     "netcom/assets/20251118mcu.png",
     "netcom/assets/20251116mesh.png"
   ]
