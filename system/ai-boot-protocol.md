@@ -1,119 +1,126 @@
-AI Boot Protocol
+# AI Boot Protocol
 
-fivsevn System Initialization Sequence
-目的：确保任何 AI 按固定顺序理解系统结构，而非随机扫描。
+- fivsevn System Initialization Sequence
+> 目的：确保任何 AI 按固定顺序理解系统结构，而非随机扫描。
 
-⸻
+---
+## Step 0 - Identify Repository Topology
 
-Step 0 — Identify Repository Topology
+- Goal: Understand multi-repo and website structure before reading content.
+> 目标：先理解仓库结构，再进入内容
 
-Goal: Understand multi-repo structure before reading content.
-（目标：先理解仓库结构，再进入内容）
+- The fivsevn-system consists of multiple repositories:
+  - [repository: fivsevn-devlog](https://github.com/fivsevn-agy/fivsevn-devlog)
+    > Canonical long-form content archive
+  - [repository: fivsevn-spec](https://github.com/fivsevn-agy/fivsevn-spec)
+    > Writing rules & frontmatter schema
+  - [repository: fivsevn-assets](https://github.com/fivsevn/fivsevn-assets)
+    > Static resource repository
+  - [repository: fivsevn-internal](https://github.com/fivsevn/fivsevn-internal)(private repository)
+    > Internal control layer (AI configs, post-by-mail console, rapid publishing workspace)
+  - [website: fivsevn.com](https://fivsevn.com)
+    > Presentation layer (public-facing stream interface)
+  - [website: fivsevn.com/posts](https://fivsevn.com/posts)
+      > Short-form stream (fast publish layer)
+  - [website: fivsevn.com/foodie](https://fivsevn.com/foodie)
+      > Visual stream (image-dominant feed)
+  - websites: fivsevn-kiosk
+    - [website: fivsevn-kiosk](http://fivsevn.com/kiosk)
+    - [website: fivsevn-kiosk-sys](http://fivsevn.com/kiosk/sys)
+    - [website: fivsevn-kiosk-cctv](http://fivsevn.com/kiosk/cctv)
+    - [website: fivsevn-kiosk-57 Day Shift](http://57dayshift.wordpress.com)
+    > Experimental narrative layer
 
-The fivsevn system consists of multiple repositories:
-	•	devlog → Canonical long-form content archive
-	•	spec → Writing rules & frontmatter schema
-	•	assets → Static resource repository
-	•	website → Presentation layer
-	•	kiosk → Experimental narrative layer
+- Do not assume single-repo architecture.
 
-Do not assume single-repo architecture.
+---
+## Step 1 - Load Specification Layer
 
-⸻
+- Goal: Learn schema before interpreting content.
+> 目标：先学习结构语言，再阅读文章
 
-Step 1 — Load Specification Layer
+- Read spec repository:
+  - Understand frontmatter schema
+  - Identify required fields (id, module, type, etc.)
+  - Treat id as stable primary key
+  - Treat parents / related as graph edges
+  - Treat canonical as authoritative indicator
 
-Goal: Learn schema before interpreting content.
-（目标：先学习结构语言，再阅读文章）
+- Do not interpret markdown files without loading schema first.
 
-Read spec repository:
-	•	Understand frontmatter schema
-	•	Identify required fields (id, module, type, etc.)
-	•	Treat id as stable primary key
-	•	Treat parents / related as graph edges
-	•	Treat canonical as authoritative indicator
+---
+## Step 2 - Enter Devlog (Canonical Archive)
 
-Do not interpret markdown files without loading schema first.
+- Goal: Load structural model of content repository.
+> 目标：理解内容仓库的整体结构
 
-⸻
+- Navigate to devlog.
 
-Step 2 — Enter Devlog (Canonical Archive)
+- Do not read individual articles yet.
 
-Goal: Load structural model of content repository.
-（目标：理解内容仓库的整体结构）
+---
+## Step 3 - Load Module Topology
 
-Navigate to devlog.
+- Goal: Understand classification axes.
+> 目标：理解模块的分类逻辑
 
-Do not read individual articles yet.
+- Read:
+  - /system/module-map.md (global structure)
+  - Then module-level map.md files
 
-⸻
+- Core axes:
+  - posts → temporal axis
+  - natsci → taxonomic / object axis
+  - netcom → system / engineering axis
+  - system → kernel & protocol layer
 
-Step 3 — Load Module Topology
+---
+## Step 4 - Select Module
 
-Goal: Understand classification axes.
-（目标：理解模块的分类逻辑）
+- Goal: Choose domain context before reading documents.
+> 目标：先确定语境，再读正文
 
-Read:
-	•	/system/module-map.md (global structure)
-	•	Then module-level map.md files
+- Based on task type:
+  - Reflection / essays → posts
+  - Natural science → natsci
+  - Communications / engineering → netcom
 
-Core axes:
-	•	posts → temporal axis
-	•	natsci → taxonomic / object axis
-	•	netcom → system / engineering axis
-	•	system → kernel & protocol layer
+- Enter module directory.
 
-⸻
+---
+## Step 5 - Load Module Map
 
-Step 4 — Select Module
+- Goal: Understand internal structure before reading content.
+> 目标：先理解子系统结构
 
-Goal: Choose domain context before reading documents.
-（目标：先确定语境，再读正文）
+- Read module map.md first.
+- Then read module index.md.
 
-Based on task type:
-	•	Reflection / essays → posts
-	•	Natural science → natsci
-	•	Communications / engineering → netcom
+- Only after that, open individual documents.
 
-Enter module directory.
+---
+## Step 6 — Interpret Articles via Frontmatter
 
-⸻
+- Goal: Use metadata as routing mechanism.
+> 目标：用元数据进行结构化理解
 
-Step 5 — Load Module Map
+- When reading an article:
+  - Use id as primary reference
+  - Use module to confirm domain
+  - Use parents and related to build graph context
+  - Respect canonical flag
 
-Goal: Understand internal structure before reading content.
-（目标：先理解子系统结构）
+- Never treat content as isolated markdown.
 
-Read module map.md first.
-Then read module index.md.
+---
+## Termination Condition
 
-Only after that, open individual documents.
+- System considered initialized when:
+  - Repository topology is understood
+  - Schema is loaded
+  - Module structure is mapped
+  - Metadata interpretation rules are applied
 
-⸻
-
-Step 6 — Interpret Articles via Frontmatter
-
-Goal: Use metadata as routing mechanism.
-（目标：用元数据进行结构化理解）
-
-When reading an article:
-	•	Use id as primary reference
-	•	Use module to confirm domain
-	•	Use parents and related to build graph context
-	•	Respect canonical flag
-
-Never treat content as isolated markdown.
-
-⸻
-
-Termination Condition
-
-System considered initialized when:
-	•	Repository topology is understood
-	•	Schema is loaded
-	•	Module structure is mapped
-	•	Metadata interpretation rules are applied
-
-Only then perform semantic analysis.
+- Only then perform semantic analysis.
 
 
