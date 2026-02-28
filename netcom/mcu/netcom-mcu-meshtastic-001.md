@@ -15,7 +15,7 @@
     
 - 比方说，我一开始购买的nRF52-设备没有额外装GPS（也可以选有GPS的，我当时基本没看，就买了个最便宜的）、使用18650电池，可以体验超长待机，好几天没有充电；另一台ESP32-设备有GPS、Wi-Fi等等，不过耗电很快（可能我开了很多功能，出门吃了个肯德基早餐就没电了，我吃的肉酥饭团和热拿铁）。因此，ESP32-设备我打算就放在固定位置当节点，nRF52-的可以带着跑、只是要跟手机呆一起。当然这两台设备的耗电差异跟很多因素有关，我这边不是控制变量法做实验，电池都不一样，只是非常粗略、甚至有点想当然地做了判断，为的是进一步搜资料。然后就搜到官网说明：
 
-![mesh](20251122screenshot.png)
+![mesh](../assets/20251122screenshot.png)  
 *rcarteraz, (n.d.). Devices | Supported Hardware Overview. Meshtastic. https://meshtastic.org/docs/hardware/devices/  （阅览日期：2025年11月22日）*
   
 - 中间INFO高亮部分翻译（ChatGPT5.1）
