@@ -42,7 +42,7 @@ updated: 2026-02-28
 
 > 更新中......
 
-- 2026.02.20 [文化昆虫学检索建议](ethnoentomology/natsci-ethnobiology-ethnoentomology-resources-001)
+- 2026.02.20 [文化昆虫学检索建议](ethnobiology/ethnoentomology/natsci-ethnobiology-ethnoentomology-resources-001)
 
 - 2025.07.31 [memo｜マイマイカブリ亜種索引（草案）](taxonomy/insecta/coleoptera/natsci-inecta-coleoptera-carabus-blaptoides-index-001)
 
