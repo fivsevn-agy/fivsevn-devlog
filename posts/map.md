@@ -1,30 +1,33 @@
 ---
-id: 
-title: 
+id: posts-module-map
+title: posts — Module Map
 
-module: system / natsci / netcom / posts / blogops / narrative
-submodule: 
-topic: 
+module: posts
+submodule: topology
+topic: temporal-axis-definition
 
-type: note / article / index / log / spec / release
-status: draft / active / archived
-canonical: true / false
+type: spec
+status: active
+canonical: true
 
 summary: >
+  定义 posts 作为时间轴的结构逻辑。
+  说明其按时间组织的原则，
+  以及与其他轴向的交互方式。
 
-parents: []
-related: []
-tags: []
+parents: [system-module-map]
+related: [posts-index]
+tags: [posts, topology, temporal-axis]
 
-audience: self / public / tutorial / collaborator
-languages: zh / en / jp
-maturity: draft / evolving / stable / deprecated
-confidence: 0.0
-visibility: public / private
-source_of_truth: devlog / site / spec / internal
+audience: collaborator
+languages: en
+maturity: stable
+confidence: 0.98
+visibility: public
+source_of_truth: devlog
 
-created: 
-updated: 
+created: 2026-02-15
+updated: 2026-03-01
 ---
 # posts — Module Map
 

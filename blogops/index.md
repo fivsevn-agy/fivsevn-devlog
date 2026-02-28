@@ -1,30 +1,33 @@
 ---
-id: 
-title: 
+id: blogops-index
+title: fivsevn-blogops
 
-module: system / natsci / netcom / posts / blogops / narrative
-submodule: 
-topic: 
+module: blogops
+submodule: index
+topic: system-evolution-log
 
-type: note / article / index / log / spec / release
-status: draft / active / archived
-canonical: true / false
+type: index
+status: active
+canonical: true
 
 summary: >
+  blogops 模块入口。
+  记录博客结构调整、发布策略变化与系统演化轨迹。
+  兼具纪念性质与对外展示功能。
 
 parents: []
-related: []
-tags: []
+related: [posts-index]
+tags: [blogops, evolution, changelog, public-facing]
 
-audience: self / public / tutorial / collaborator
-languages: zh / en / jp
-maturity: draft / evolving / stable / deprecated
-confidence: 0.0
-visibility: public / private
-source_of_truth: devlog / site / spec / internal
+audience: public
+languages: zh
+maturity: stable
+confidence: 0.96
+visibility: public
+source_of_truth: devlog
 
-created: 
-updated: 
+created: 2025-03-29
+updated: 2026-03-01
 ---
 # fivsevn-blogops
 
@@ -33,7 +36,8 @@ updated:
 ---
 ## Directory
 
-> 更新中......
+> 结构调整中。
+> 此页面正常更新重要节点。
 
 - 2025.11.19 ☝️[关于本博客](content/post-about-the-blog.md)  
 

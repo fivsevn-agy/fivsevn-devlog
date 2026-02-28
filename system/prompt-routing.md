@@ -1,30 +1,33 @@
 ---
-id: 
-title: 
+id: system-prompt-routing
+title: Prompt Routing Policy
 
-module: system / natsci / netcom / posts / blogops / narrative
-submodule: 
-topic: 
+module: system
+submodule: routing
+topic: task-classification
 
-type: note / article / index / log / spec / release
-status: draft / active / archived
-canonical: true / false
+type: spec
+status: active
+canonical: true
 
 summary: >
+  定义任务类型识别逻辑。
+  将用户请求分类为 Temporal / Object / Structural，
+  并据此路由至 posts、natsci 或 netcom 模块。
 
-parents: []
-related: []
-tags: []
+parents: [system-module-map]
+related: [system-ai-boot-protocol]
+tags: [routing, classification, cognitive-axis]
 
-audience: self / public / tutorial / collaborator
-languages: zh / en / jp
-maturity: draft / evolving / stable / deprecated
-confidence: 0.0
-visibility: public / private
-source_of_truth: devlog / site / spec / internal
+audience: collaborator
+languages: en
+maturity: evolving
+confidence: 0.95
+visibility: public
+source_of_truth: devlog
 
-created: 
-updated: 
+created: 2026-02-15
+updated: 2026-03-01
 ---
 # Prompt Routing Policy
 

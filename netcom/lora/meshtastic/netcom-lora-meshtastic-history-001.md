@@ -1,30 +1,32 @@
 ---
-id: 
-title: 
+id: netcom-lora-meshtastic-history-001
+title: Mesh 技术发展脉络与结构演进
 
-module: system / natsci / netcom / posts / blogops / narrative
-submodule: 
-topic: 
+module: netcom
+submodule: lora
+topic: technology-evolution
 
-type: note / article / index / log / spec / release
-status: draft / active / archived
-canonical: true / false
+type: article
+status: active
+canonical: true
 
 summary: >
+  从技术演进角度梳理 Mesh 系统的发展路径，
+  分析模块出现顺序与应用组合逻辑。
 
-parents: []
-related: []
-tags: []
+parents: [netcom-module-map]
+related: [netcom-lora-meshtastic-layered-model-001]
+tags: [netcom, lora, mesh, evolution]
 
-audience: self / public / tutorial / collaborator
-languages: zh / en / jp
-maturity: draft / evolving / stable / deprecated
-confidence: 0.0
-visibility: public / private
-source_of_truth: devlog / site / spec / internal
+audience: public
+languages: zh
+maturity: stable
+confidence: 0.97
+visibility: public
+source_of_truth: devlog
 
-created: 
-updated: 
+created: 2025-11-19
+updated: 2026-03-01
 ---
 ## 和Mesh有关的技术发展脉络
 

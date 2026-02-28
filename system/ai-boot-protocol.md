@@ -1,30 +1,33 @@
 ---
-id: 
-title: 
+id: system-ai-boot-protocol
+title: AI Boot Protocol
 
-module: system / natsci / netcom / posts / blogops / narrative
-submodule: 
-topic: 
+module: system
+submodule: boot
+topic: initialization-sequence
 
-type: note / article / index / log / spec / release
-status: draft / active / archived
-canonical: true / false
+type: spec
+status: active
+canonical: true
 
 summary: >
+  定义 AI 进入 fivsevn 系统时必须遵循的初始化顺序。
+  强制加载仓库拓扑、规范层、模块结构与元数据解释规则，
+  防止随机扫描式理解。
 
-parents: []
-related: []
-tags: []
+parents: [system-module-map]
+related: [system-prompt-routing, workspace-entry]
+tags: [boot, initialization, ai, topology, schema]
 
-audience: self / public / tutorial / collaborator
-languages: zh / en / jp
-maturity: draft / evolving / stable / deprecated
-confidence: 0.0
-visibility: public / private
-source_of_truth: devlog / site / spec / internal
+audience: collaborator
+languages: en
+maturity: evolving
+confidence: 0.95
+visibility: public
+source_of_truth: devlog
 
-created: 
-updated: 
+created: 2026-02-15
+updated: 2026-03-01
 ---
 # AI Boot Protocol
 

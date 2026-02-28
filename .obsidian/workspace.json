@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kiosk/README.md",
+                "file": "blogops/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "index"
+            }
+          },
+          {
+            "id": "f9a55e8df1b5992d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blogops/index.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,36 +198,36 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "888dbcf7fa496e4f",
+  "active": "f9a55e8df1b5992d",
   "lastOpenFiles": [
-    "netcom/architecture/netcom-architecture-fourlayermodel-001.md",
-    "natsci/ethnobiology/ethnoentomology/natsci-ethnobiology-ethnoentomology-resources-001.md",
-    "natsci/ethnobiology/ethnoentomology/index.md",
-    "README.md",
-    "kiosk/README.md",
-    "blogops/content/archive-openinglog.md",
-    "kiosk",
-    "untitled folder",
-    "_toolbox.md",
-    "blogops/index.md",
-    "blogops/content/system-writing-and-deployment.md",
     "blogops/content/post-about-the-blog.md",
     "blogops/content/log-rolesystem-node01-20250619.md",
-    "natsci/map.md",
-    "natsci/index.md",
-    "natsci/taxonomy/index.md",
-    "natsci/taxonomy/insecta/index.md",
-    "natsci/taxonomy/insecta/coleoptera/natsci-inecta-coleoptera-carabus-blaptoides-index-001.md",
-    "natsci/taxonomy/insecta/coleoptera/index.md",
-    "natsci/reading/index.md",
-    "natsci/methods/natsci-methods-retrieval-001.md",
-    "natsci/methods/index.md",
-    "netcom/map.md",
+    "blogops/content/archive-openinglog.md",
+    "blogops/content/system-writing-and-deployment.md",
+    "blogops/map.md",
+    "blogops/index.md",
+    "_toolbox.md",
+    "README.md",
+    "posts/2026/posts-20260222-speluncean-001.md",
+    "posts/index.md",
+    "posts/map.md",
+    "posts/2019/2019-06-18-深夜四時.md",
+    "posts/2025/2025-06-27-【授权转载】Tents in Strong Wind What You Need to Know.md",
+    "posts/2025/2025-03-13-波洛去埃及.md",
     "netcom/index.md",
-    "netcom/rf/netcom-rf-spectrum-002.md",
-    "netcom/rf/netcom-rf-spectrum-001.md",
-    "netcom/rf/netcom-rf-antenna-002.md",
-    "netcom/rf/netcom-rf-antenna-001.md",
+    "netcom/map.md",
+    "netcom/_drafts/README.md",
+    "netcom/rf/netcom-rf-spectrum-bands-001.md",
+    "netcom/rf/netcom-rf-spectrum-overview-001.md",
+    "netcom/rf/netcom-rf-antenna-catalog-001.md",
+    "netcom/rf/netcom-rf-antenna-overview-001.md",
+    "netcom/protocols/netcom-protocol-overview-001.md",
+    "netcom/methods/netcom-methods-spec-concept-001.md",
+    "netcom/methods/netcom-methods-packet-learning-001.md",
+    "netcom/mcu/netcom-mcu-meshtastic-comparison-001.md",
+    "netcom/mcu/netcom-mcu-overview-001.md",
+    "kiosk",
+    "untitled folder",
     "netcom/assets/20251116mesh.png",
     "netcom/cs",
     "netcom/untitled folder",

@@ -1,30 +1,33 @@
 ---
-id: 
-title: 
+id: devlog-index
+title: 五月七日的思考札记
 
-module: system / natsci / netcom / posts / blogops / narrative
-submodule: 
-topic: 
+module: system
+submodule: devlog
+topic: archive-structure
 
-type: note / article / index / log / spec / release
-status: draft / active / archived
-canonical: true / false
+type: index
+status: active
+canonical: true
 
 summary: >
+  fivsevn 长文与结构化内容的总入口。
+  连接 posts、natsci、netcom、blogops 与 spec，
+  构成知识轴向的主索引页面。
 
 parents: []
-related: []
-tags: []
+related: [spec-index]
+tags: [devlog, index, archive, knowledge-system]
 
-audience: self / public / tutorial / collaborator
-languages: zh / en / jp
-maturity: draft / evolving / stable / deprecated
-confidence: 0.0
-visibility: public / private
-source_of_truth: devlog / site / spec / internal
+audience: public
+languages: zh
+maturity: evolving
+confidence: 0.95
+visibility: public
+source_of_truth: devlog
 
-created: 
-updated: 
+created: 2025-12-16
+updated: 2026-03-01
 ---
 # 五月七日的思考札记
 

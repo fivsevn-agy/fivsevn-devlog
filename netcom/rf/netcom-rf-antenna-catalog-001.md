@@ -1,30 +1,32 @@
 ---
-id: 
-title: 
+id: netcom-rf-antenna-catalog-001
+title: 常见商品化天线型号分类表
 
-module: system / natsci / netcom / posts / blogops / narrative
-submodule: 
-topic: 
+module: netcom
+submodule: rf
+topic: antenna-catalog
 
-type: note / article / index / log / spec / release
-status: draft / active / archived
-canonical: true / false
+type: note
+status: active
+canonical: false
 
 summary: >
+  按型号与应用场景整理的商品化天线速查表，
+  用于实际选型参考。
 
-parents: []
+parents: [netcom-rf-antenna-overview-001]
 related: []
-tags: []
+tags: [netcom, rf, antenna, catalog]
 
-audience: self / public / tutorial / collaborator
-languages: zh / en / jp
-maturity: draft / evolving / stable / deprecated
-confidence: 0.0
-visibility: public / private
-source_of_truth: devlog / site / spec / internal
+audience: self
+languages: zh
+maturity: evolving
+confidence: 0.90
+visibility: public
+source_of_truth: devlog
 
-created: 
-updated: 
+created: 2025-12-01
+updated: 2026-03-01
 ---
 ## 天线入门：点名活动常见天线罗列
 

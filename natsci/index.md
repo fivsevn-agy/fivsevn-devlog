@@ -1,58 +1,33 @@
 ---
-id: 
-title: 
-
-module: system / natsci / netcom / posts / blogops / narrative
-submodule: 
-topic: 
-
-type: note / article / index / log / spec / release
-status: draft / active / archived
-canonical: true / false
-
-summary: >
-
-parents: []
-related: []
-tags: []
-
-audience: self / public / tutorial / collaborator
-languages: zh / en / jp
-maturity: draft / evolving / stable / deprecated
-confidence: 0.0
-visibility: public / private
-source_of_truth: devlog / site / spec / internal
-
-created: 
-updated: 
-------
-id: natsci-index-001
-title: natsci / Natural Science
+id: natsci-index
+title: fivsevn-natsci
 
 module: natsci
-type: log
+submodule: index
+topic: object-archive
+
+type: index
 status: active
 canonical: true
 
 summary: >
-  natsci 模块展示页面。时间流更新入口。
+  natsci 模块主入口。
+  以自然对象与分类体系为核心组织逻辑，
+  提供学习笔记、方法记录与分类索引的结构入口。
 
 parents: []
-related: [natsci-map-001]
+related: [natsci-module-map, system-module-map]
+tags: [natsci, object-axis, taxonomy, archive]
 
-tags: [entry, timeline, navigation]
-
-audience: [public]
-languages: [zh]
-
+audience: public
+languages: zh
 maturity: stable
-confidence: 0.95
-
+confidence: 0.97
 visibility: public
 source_of_truth: devlog
 
 created: 2025-03-23
-updated: 2026-02-28
+updated: 2026-03-01
 ---
 # fivsevn-natsci
 

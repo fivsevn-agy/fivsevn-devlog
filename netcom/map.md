@@ -1,30 +1,33 @@
 ---
-id: 
-title: 
+id: netcom-module-map
+title: netcom — Module Map
 
-module: system / natsci / netcom / posts / blogops / narrative
-submodule: 
-topic: 
+module: netcom
+submodule: topology
+topic: system-axis-definition
 
-type: note / article / index / log / spec / release
-status: draft / active / archived
-canonical: true / false
+type: spec
+status: active
+canonical: true
 
 summary: >
+  定义 netcom 作为系统轴（System Axis）的结构逻辑。
+  说明其以工程分层、协议结构与硬件软件关系为核心，
+  时间顺序不参与组织。
 
-parents: []
-related: []
-tags: []
+parents: [system-module-map]
+related: [netcom-index]
+tags: [netcom, topology, system-axis, engineering]
 
-audience: self / public / tutorial / collaborator
-languages: zh / en / jp
-maturity: draft / evolving / stable / deprecated
-confidence: 0.0
-visibility: public / private
-source_of_truth: devlog / site / spec / internal
+audience: collaborator
+languages: en
+maturity: stable
+confidence: 0.98
+visibility: public
+source_of_truth: devlog
 
-created: 
-updated: 
+created: 2025-11-16
+updated: 2026-03-01
 ---
 # netcom — Module Map
 

@@ -1,30 +1,33 @@
 ---
-id: natsci-map-001
-title: Natural Science Knowledge Map
+id: natsci-module-map
+title: natsci — Module Map
+
 module: natsci
-type: index
+submodule: topology
+topic: object-axis-definition
+
+type: spec
 status: active
 canonical: true
 
 summary: >
-  natsci 模块结构总览与导航页面。
+  定义 natsci 作为对象轴（Object Axis）的结构逻辑。
+  说明其以自然对象与分类体系为核心，
+  时间顺序为次级维度。
 
-parents: []
-related: []
+parents: [system-module-map]
+related: [natsci-index]
+tags: [natsci, topology, object-axis, taxonomy]
 
-tags: [structure, navigation]
-
-audience: [self, public]
-languages: [zh]
-
-maturity: evolving
-confidence: 0.90
-
+audience: collaborator
+languages: en
+maturity: stable
+confidence: 0.98
 visibility: public
 source_of_truth: devlog
 
 created: 2026-02-28
-updated: 2026-02-28
+updated: 2026-03-01
 ---
 # natsci — Module Map
 
