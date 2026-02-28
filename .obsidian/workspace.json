@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "blogops/index.md",
                 "mode": "source",
                 "source": true
               },
@@ -185,8 +185,12 @@
   },
   "active": "f9a55e8df1b5992d",
   "lastOpenFiles": [
-    "blogops/index.md",
     "blogops/map.md",
+    "blogops/content/archive-openinglog.md",
+    "blogops/content/blogops-writing-and-deployment.md",
+    "blogops/content/blogops-rolesystem-001.md",
+    "blogops/content/blogops-about-the-blog.md",
+    "blogops/index.md",
     "index.md",
     "kiosk/README.md",
     "netcom/protocol/netcom-protocol-overview-001.md",
@@ -203,10 +207,6 @@
     "netcom/assets/20251119mesh.png",
     "netcom/math/netcom-math-e-exponential-001.md",
     "netcom/math/netcom-math-dynamical-system-prototypes-001.md",
-    "blogops/content/post-about-the-blog.md",
-    "blogops/content/log-rolesystem-node01-20250619.md",
-    "blogops/content/archive-openinglog.md",
-    "blogops/content/system-writing-and-deployment.md",
     "_toolbox.md",
     "posts/2026/posts-20260222-speluncean-001.md",
     "posts/index.md",

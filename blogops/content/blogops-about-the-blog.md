@@ -60,7 +60,8 @@ fivsevn.com/
       ├─ natsci/     # 自然科学学习笔记
       ├─ netcom/     # 网络通讯学习笔记
       ├─ devlog/     # 后台日志
-      ├─ nvesvif/
+      ├─ kiosk/      # 五月七日便利店
+      ├─ nvesvif/    # ???
       └─ ???/
 
 ```

@@ -23,13 +23,12 @@ confidence: 0.0
 visibility: public / private
 source_of_truth: devlog / site / spec / internal
 
-created: 
-updated: 
+created: 2025-06-19
+updated: 2025-06-20
 ---
 # 博客的人格化接口建模 节点① 
-*v20250620*
-  
-Hi！现在介绍几位【fivsevn内容代理】的核心成员——
+
+介绍几位【fivsevn内容代理】的核心成员——
   
 ### 【fivsevn】
 - 表现通道：协议中枢  
