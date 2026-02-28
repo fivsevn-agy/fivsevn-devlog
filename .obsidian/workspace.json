@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c05dad0bbe1a1ac7",
+            "id": "888dbcf7fa496e4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "system/ai-boot-protocol.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "ai-boot-protocol"
             }
           }
         ]
@@ -183,14 +183,15 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "c05dad0bbe1a1ac7",
+  "active": "888dbcf7fa496e4f",
   "lastOpenFiles": [
+    "system/prompt-routing.md",
+    "README.md",
     "system/workspace.md",
     "system/ai-boot-protocol.md",
     "posts/map.md",
     "posts/index.md",
     "netcom/map.md",
-    "README.md",
     "netcom/index.md",
     "natsci/map.md",
     "natsci/index.md",
@@ -210,7 +211,6 @@
     "netcom/rf/netcom-rf-antenna-002.md",
     "netcom/rf/netcom-rf-antenna-001.md",
     "netcom/lora/netcom-lora-002.md",
-    "netcom/lora/netcom-lora-001.md",
     "netcom/cs",
     "netcom/untitled folder",
     "netcom/architecture",
