@@ -38,7 +38,7 @@ updated: 2026-03-01
 
 > 更新中......
 
-- 2025.12.16 [协议（protocol）](protocol/netcom-protocol-overview-001)
+- 2025.12.16 [协议（protocol）](protocol/netcom-protocol-overview-001.md)
 
 - 2025.12.13 [模运算：基本含义](math/netcom-math-modular-arithmetic-001.md)
   
