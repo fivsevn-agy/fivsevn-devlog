@@ -70,7 +70,7 @@
 > 目标：理解模块的分类逻辑
 
 - Read:
-  - /system/module-map.md (global structure)
+  - [/system/module-map.md](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/system/module-map.md)
   - Then module-level map.md files
 
 - Core axes:
