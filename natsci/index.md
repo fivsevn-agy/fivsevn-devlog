@@ -1,3 +1,32 @@
+---
+id: natsci-index-001
+title: natsci / Natural Science
+
+module: natsci
+type: log
+status: active
+canonical: true
+
+summary: >
+  natsci 模块展示页面。时间流更新入口。
+
+parents: []
+related: [natsci-map-001]
+
+tags: [entry, timeline, navigation]
+
+audience: [public]
+languages: [zh]
+
+maturity: stable
+confidence: 0.95
+
+visibility: public
+source_of_truth: devlog
+
+created: 2025-03-23
+updated: 2026-02-28
+---
 # natsci
 
 ![](https://cdn.jsdelivr.net/gh/fivsevn/fivsevn-assets/homepage/homepage20251105bio.webp)
