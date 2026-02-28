@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "netcom/lora/netcom-lora-radio-metrics-001.md",
+                "file": "netcom/protocol/netcom-protocol-overview-001.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "netcom-lora-radio-metrics-001"
+              "title": "netcom-protocol-overview-001"
             }
           }
         ]
@@ -185,9 +185,11 @@
   },
   "active": "f9a55e8df1b5992d",
   "lastOpenFiles": [
+    "netcom/index.md",
+    "netcom/protocol/netcom-protocol-overview-001.md",
+    "netcom/lora/netcom-lora-radio-metrics-001.md",
     "netcom/lora/netcom-lora-meshtastic-history-001.md",
     "netcom/lora/netcom-lora-meshtastic-device-inventory-001.md",
-    "netcom/lora/netcom-lora-radio-metrics-001.md",
     "netcom/lora/netcom-lora-modulation-overview-001.md",
     "netcom/lora/netcom-lora-meshtastic-structure-001.md",
     "netcom/lora/netcom-lora-meshtastic-node-observation-001.md",
@@ -197,8 +199,6 @@
     "netcom/assets/20251119mesh.png",
     "netcom/math/netcom-math-e-exponential-001.md",
     "netcom/math/netcom-math-dynamical-system-prototypes-001.md",
-    "netcom/protocols/netcom-protocol-overview-001.md",
-    "netcom/index.md",
     "README.md",
     "blogops/index.md",
     "blogops/content/post-about-the-blog.md",
