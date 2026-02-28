@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/ai-boot-protocol.md",
+                "file": "netcom/mcu/netcom-mcu-meshtastic-001.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ai-boot-protocol"
+              "title": "netcom-mcu-meshtastic-001"
             }
           }
         ]
@@ -185,14 +185,25 @@
   },
   "active": "888dbcf7fa496e4f",
   "lastOpenFiles": [
+    "netcom/mcu/netcom-mcu-001.md",
+    "netcom/lora/meshtastic/netcom-lora-meshtastic-006.md",
+    "netcom/lora/meshtastic/netcom-lora-meshtastic-005.md",
+    "netcom/lora/meshtastic/netcom-lora-meshtastic-004.md",
+    "netcom/lora/meshtastic/netcom-lora-meshtastic-003.md",
+    "netcom/lora/meshtastic/netcom-lora-meshtastic-002.md",
+    "netcom/methods/netcom-methods-spec-001.md",
+    "netcom/methods/netcom-methods-001.md",
+    "netcom/index.md",
+    "netcom/lora/meshtastic/netcom-lora-meshtastic-history-001.md",
+    "netcom/lora/meshtastic/netcom-lora-meshtastic-001.md",
+    "netcom/mcu/netcom-mcu-meshtastic-001.md",
+    "netcom/map.md",
+    "system/ai-boot-protocol.md",
     "system/prompt-routing.md",
     "README.md",
     "system/workspace.md",
-    "system/ai-boot-protocol.md",
     "posts/map.md",
     "posts/index.md",
-    "netcom/map.md",
-    "netcom/index.md",
     "natsci/map.md",
     "natsci/index.md",
     "system/module-map.md",
@@ -200,17 +211,6 @@
     "system/tags.md",
     "system/writing-spec.md",
     "_toolbox.md",
-    "blogops/index.md",
-    "netcom/_drafts/README.md",
-    "netcom/_drafts/netcom-mesh map.md",
-    "netcom/_drafts/netcom-刷t echo记录.md",
-    "netcom/_drafts/netcom-mcu对比.md",
-    "netcom/lora/meshtastic/netcom-lora-meshtastic-002.md",
-    "netcom/lora/meshtastic/netcom-lora-meshtastic-history-001.md",
-    "netcom/lora/meshtastic/netcom-lora-meshtastic-001.md",
-    "netcom/rf/netcom-rf-antenna-002.md",
-    "netcom/rf/netcom-rf-antenna-001.md",
-    "netcom/lora/netcom-lora-002.md",
     "netcom/cs",
     "netcom/untitled folder",
     "netcom/architecture",

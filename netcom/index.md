@@ -7,7 +7,7 @@
 
 > 更新中......
 
-- 2025.12.16 [协议（protocol）](protocol/protocol-001.md)
+- 2025.12.16 [协议（protocol）](protocols/protocol-001.md)
 
 - 2025.12.13 [模运算：基本含义](math/netcom-math-mod-001.md)
   
@@ -57,7 +57,7 @@
 
 - 2025.11.18 [常见MCU](mcu/netcom-mcu-001.md)
 
-- 2025.11.16 [Mesh各种设备简要梳理](lora/meshitastic/netcom-lora-meshtastic-002.md)
+- 2025.11.16 [Mesh各种设备简要梳理](lora/meshtastic/netcom-lora-meshtastic-002.md)
 
 - 2025.11.16 [Mesh设备结构一览（类比成餐盘）](lora/meshtastic/netcom-lora-meshtastic-001.md)
 

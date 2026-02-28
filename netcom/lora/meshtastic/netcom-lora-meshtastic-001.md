@@ -4,5 +4,5 @@
 我画的简图，方便理解
 ```
 
-![Meshtastic](20251116mesh.png)
+![Meshtastic](../assets/20251116mesh.png)
 
