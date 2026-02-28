@@ -1,30 +1,32 @@
 ---
-id: 
-title: 
+id: netcom-mcu-meshtastic-comparison-001
+title: ESP32 与 nRF52 在 Meshtastic 场景中的差异
 
-module: system / natsci / netcom / posts / blogops / narrative
-submodule: 
-topic: 
+module: netcom
+submodule: mcu
+topic: mcu-comparison
 
-type: note / article / index / log / spec / release
-status: draft / active / archived
-canonical: true / false
+type: article
+status: active
+canonical: false
 
 summary: >
+  基于实际设备体验，
+  对 ESP32 与 nRF52 在功耗、功能与适用场景上的差异进行记录与分析。
 
-parents: []
-related: []
-tags: []
+parents: [netcom-mcu-overview-001]
+related: [netcom-lora-meshtastic-structure-001]
+tags: [netcom, mcu, esp32, nrf52, meshtastic]
 
-audience: self / public / tutorial / collaborator
-languages: zh / en / jp
-maturity: draft / evolving / stable / deprecated
-confidence: 0.0
-visibility: public / private
-source_of_truth: devlog / site / spec / internal
+audience: public
+languages: zh
+maturity: evolving
+confidence: 0.93
+visibility: public
+source_of_truth: devlog
 
-created: 
-updated: 
+created: 2025-11-22
+updated: 2026-03-01
 ---
 ## ESP32- 和 nRF52-
 
@@ -37,9 +39,9 @@ updated:
   - 蓝牙连手机App或者数据线连电脑CLI改各种配置。这两种改配置的方式都可以试一下，不会可以先问AI。
   - 也可以拆开看看设备内部组成。
 
-- 设备方面，主要就是看一下你即将购买的设备使用的MCU是【ESP32-】还是【nRF52】，可以各买一台体验一下。拿[餐盘](netcom-lora-meshtastic-001.md)的比喻来讲，就是A餐格这一格，食堂主要供应这两种菜，你可以两种都吃了试一下感觉。如果决定真正去了解mesh的话，我感觉手头有这两块MCU还是有必要的。
+- 设备方面，主要就是看一下你即将购买的设备使用的MCU是【ESP32-】还是【nRF52】，可以各买一台体验一下。拿[餐盘](../lora/meshtastic/netcom-lora-meshtastic-structure-001.md)的比喻来讲，就是A餐格这一格，食堂主要供应这两种菜，你可以两种都吃了试一下感觉。如果决定真正去了解mesh的话，我感觉手头有这两块MCU还是有必要的。
 
-- 我一开始比较关心的像GPS、键盘等等属于[餐盘](netcom-lora-meshtastic-001.md)里面的D餐格，这就比较灵活，你可以选择其中某台设备搭载部分功能、体验一下配置的修改，也可以先暂时不用。
+- 我一开始比较关心的像GPS、键盘等等属于[餐盘](../lora/meshtastic/netcom-lora-meshtastic-structure-001.md)里面的D餐格，这就比较灵活，你可以选择其中某台设备搭载部分功能、体验一下配置的修改，也可以先暂时不用。
     
 - 比方说，我一开始购买的nRF52-设备没有额外装GPS（也可以选有GPS的，我当时基本没看，就买了个最便宜的）、使用18650电池，可以体验超长待机，好几天没有充电；另一台ESP32-设备有GPS、Wi-Fi等等，不过耗电很快（可能我开了很多功能，出门吃了个肯德基早餐就没电了，我吃的肉酥饭团和热拿铁）。因此，ESP32-设备我打算就放在固定位置当节点，nRF52-的可以带着跑、只是要跟手机呆一起。当然这两台设备的耗电差异跟很多因素有关，我这边不是控制变量法做实验，电池都不一样，只是非常粗略、甚至有点想当然地做了判断，为的是进一步搜资料。然后就搜到官网说明：
 

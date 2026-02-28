@@ -1,30 +1,34 @@
 ---
-id: 
-title: 
+id: netcom-cs-heap-stack-001
+title: 堆（heap）与栈（stack）的直观理解与工程语境
 
-module: system / natsci / netcom / posts / blogops / narrative
-submodule: 
-topic: 
+module: netcom
+submodule: cs
+topic: memory-model
 
-type: note / article / index / log / spec / release
-status: draft / active / archived
-canonical: true / false
+type: article
+status: active
+canonical: true
 
 summary: >
+  通过厨房类比与真实开发语境，
+  解释 stack 与 heap 的差异、
+  生命周期特征与性能影响，
+  并结合实际编程场景进行说明。
 
-parents: []
-related: []
-tags: []
+parents: [netcom-module-map]
+related: [netcom-mcu-001, netcom-math-dynamicalsystem-001]
+tags: [netcom, cs, memory-model, heap, stack]
 
-audience: self / public / tutorial / collaborator
-languages: zh / en / jp
-maturity: draft / evolving / stable / deprecated
-confidence: 0.0
-visibility: public / private
-source_of_truth: devlog / site / spec / internal
+audience: public
+languages: zh
+maturity: stable
+confidence: 0.98
+visibility: public
+source_of_truth: devlog
 
-created: 
-updated: 
+created: 2025-11-24
+updated: 2026-03-01
 ---
 ## 堆（heap）和栈（stack）
 

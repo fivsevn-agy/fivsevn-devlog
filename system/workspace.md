@@ -1,30 +1,34 @@
 ---
-id: 
-title: 
+id: workspace-entry
+title: fivsevn Workspace (AI Entry)
 
-module: system / natsci / netcom / posts / blogops / narrative
-submodule: 
-topic: 
+module: system
+submodule: workspace
+topic: orientation-layer
 
-type: note / article / index / log / spec / release
-status: draft / active / archived
-canonical: true / false
+type: index
+status: active
+canonical: false
 
 summary: >
+  AI 结构级入口文件。
+  提供系统多仓库拓扑概览，
+  指向 boot protocol 与 spec 层，
+  用于高层导航而非初始化流程。
 
-parents: []
-related: []
-tags: []
+parents: [system-ai-boot-protocol]
+related: [system-module-map]
+tags: [workspace, ai-entry, navigation]
 
-audience: self / public / tutorial / collaborator
-languages: zh / en / jp
-maturity: draft / evolving / stable / deprecated
-confidence: 0.0
-visibility: public / private
-source_of_truth: devlog / site / spec / internal
+audience: collaborator
+languages: en
+maturity: evolving
+confidence: 0.92
+visibility: public
+source_of_truth: devlog
 
-created: 
-updated: 
+created: 2026-02-20
+updated: 2026-03-01
 ---
 # fivsevn Workspace (AI Entry)
 

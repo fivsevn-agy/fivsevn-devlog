@@ -1,30 +1,35 @@
 ---
-id: 
-title: 
+id: netcom-methods-spec-concept-001
+title: Spec 的含义与工程语境
 
-module: system / natsci / netcom / posts / blogops / narrative
-submodule: 
-topic: 
+module: netcom
+submodule: methods
+topic: specification-concept
 
-type: note / article / index / log / spec / release
-status: draft / active / archived
-canonical: true / false
+type: article
+status: active
+canonical: true
 
 summary: >
+  解释 spec（specification）在工程语境中的含义，
+  区分技术规范、产品规格与行为约束三类使用方式。
 
-parents: []
-related: []
-tags: []
+parents: [netcom-module-map]
+related: [
+  system-module-map,
+  netcom-architecture-four-layer-model-001
+]
+tags: [netcom, methods, specification, engineering]
 
-audience: self / public / tutorial / collaborator
-languages: zh / en / jp
-maturity: draft / evolving / stable / deprecated
-confidence: 0.0
-visibility: public / private
-source_of_truth: devlog / site / spec / internal
+audience: public
+languages: zh
+maturity: stable
+confidence: 0.97
+visibility: public
+source_of_truth: devlog
 
-created: 
-updated: 
+created: 2025-11-24
+updated: 2026-03-01
 ---
 ## spec·规格
 

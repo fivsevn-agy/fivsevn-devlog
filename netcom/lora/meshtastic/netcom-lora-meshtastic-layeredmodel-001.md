@@ -1,30 +1,36 @@
 ---
-id: 
-title: 
+id: netcom-lora-meshtastic-layered-model-001
+title: Meshtastic 三层模型：硬件 / 工具 / 功能
 
-module: system / natsci / netcom / posts / blogops / narrative
-submodule: 
-topic: 
+module: netcom
+submodule: lora
+topic: layered-system-model
 
-type: note / article / index / log / spec / release
-status: draft / active / archived
-canonical: true / false
+type: article
+status: active
+canonical: true
 
 summary: >
+  将 Meshtastic 拆分为硬件模块、软件工具与功能层，
+  建立结构映射关系表，
+  用于理解系统能力来源。
 
-parents: []
-related: []
-tags: []
+parents: [netcom-module-map]
+related: [
+  netcom-lora-meshtastic-structure-001,
+  netcom-lora-meshtastic-history-001
+]
+tags: [netcom, lora, meshtastic, system-model]
 
-audience: self / public / tutorial / collaborator
-languages: zh / en / jp
-maturity: draft / evolving / stable / deprecated
-confidence: 0.0
-visibility: public / private
-source_of_truth: devlog / site / spec / internal
+audience: public
+languages: zh
+maturity: evolving
+confidence: 0.97
+visibility: public
+source_of_truth: devlog
 
-created: 
-updated: 
+created: 2025-11-20
+updated: 2026-03-01
 ---
 ## 把Meshtastic拆成三层：硬件设备+软件工具=各种功能
 
@@ -42,7 +48,7 @@ updated:
    
 - 我用这种思路，把硬件（ABCD）、工具（Tn）和功能（Sn）尽量对应起来做成表格。我感觉这样应该比较好理解？
 
-- 这个思路我是逐步形成的。除去最最开始的各种乱七八糟的模糊认知不管，真正的学习，先开始是初步去了解了这种设备是由哪些部分所组成的，这一步的时候，我先模拟成一个[餐盘](netcom-lora-meshtastic-001.md)，由ABCD四类菜组合成一个套餐；A1B1C1组成基本套餐，A2B1C1D1组成运动会限定套餐，A2B2C1D1D2组成高级豪华套餐，这就代表了不同定位和不同价位的设备。基本上有了这个概念之后，剩下的就是去细化每个部分，每个部分细化成更多的部分之后再去分别细化，就这样慢慢来。一方面，可以给“我要买哪个套餐”带来理性的思路、而不是“他买啥我也买啥”“他们都说这个不行”；另一方面，也免得经常搞混，会问“为什么C2这个东西比A1甜”那是因为“C都是甜品，A都是肉类”，刚开始先做好分类，降低这类问题的数量。
+- 这个思路我是逐步形成的。除去最最开始的各种乱七八糟的模糊认知不管，真正的学习，先开始是初步去了解了这种设备是由哪些部分所组成的，这一步的时候，我先模拟成一个[餐盘](netcom-lora-meshtastic-structure-001.md)，由ABCD四类菜组合成一个套餐；A1B1C1组成基本套餐，A2B1C1D1组成运动会限定套餐，A2B2C1D1D2组成高级豪华套餐，这就代表了不同定位和不同价位的设备。基本上有了这个概念之后，剩下的就是去细化每个部分，每个部分细化成更多的部分之后再去分别细化，就这样慢慢来。一方面，可以给“我要买哪个套餐”带来理性的思路、而不是“他买啥我也买啥”“他们都说这个不行”；另一方面，也免得经常搞混，会问“为什么C2这个东西比A1甜”那是因为“C都是甜品，A都是肉类”，刚开始先做好分类，降低这类问题的数量。
   
 ![Mesh](../assets/20251120mesh.png)
   

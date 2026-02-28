@@ -1,30 +1,34 @@
 ---
-id: 
-title: 
+id: netcom-architecture-four-layer-model-001
+title: 网络通信的四层模型（以 Meshtastic 为例）
 
-module: system / natsci / netcom / posts / blogops / narrative
-submodule: 
-topic: 
+module: netcom
+submodule: architecture
+topic: layered-communication-model
 
-type: note / article / index / log / spec / release
-status: draft / active / archived
-canonical: true / false
+type: article
+status: active
+canonical: true
 
 summary: >
+  以 Meshtastic 为案例，
+  从物理层、链路层、网络层与应用层四个维度，
+  拆解无线通信系统的结构逻辑。
+  强调工程分层与实际参数之间的对应关系。
 
-parents: []
-related: []
-tags: []
+parents: [netcom-module-map]
+related: [netcom-lora-meshtastic-001]
+tags: [netcom, architecture, layered-model, meshtastic, lora]
 
-audience: self / public / tutorial / collaborator
-languages: zh / en / jp
-maturity: draft / evolving / stable / deprecated
-confidence: 0.0
-visibility: public / private
-source_of_truth: devlog / site / spec / internal
+audience: public
+languages: zh
+maturity: stable
+confidence: 0.98
+visibility: public
+source_of_truth: devlog
 
-created: 
-updated: 
+created: 2025-11-22
+updated: 2026-03-01
 ---
 ## 网络通信的四层（类比大型时尚品牌的完整运作体系）
 

@@ -1,30 +1,33 @@
 ---
-id: 
-title: 
+id: netcom-lora-radio-metrics-001
+title: Meshtastic 常见无线参数解析
 
-module: system / natsci / netcom / posts / blogops / narrative
-submodule: 
-topic: 
+module: netcom
+submodule: lora
+topic: radio-metrics
 
-type: note / article / index / log / spec / release
-status: draft / active / archived
-canonical: true / false
+type: article
+status: active
+canonical: true
 
 summary: >
+  系统梳理 LoRa 与 Mesh 网络中常见的
+  信号指标、射频参数与路由指标，
+  建立工程语境下的解释框架。
 
-parents: []
-related: []
-tags: []
+parents: [netcom-module-map]
+related: [netcom-lora-modulation-overview-001]
+tags: [netcom, lora, rf, metrics]
 
-audience: self / public / tutorial / collaborator
-languages: zh / en / jp
-maturity: draft / evolving / stable / deprecated
-confidence: 0.0
-visibility: public / private
-source_of_truth: devlog / site / spec / internal
+audience: public
+languages: zh
+maturity: stable
+confidence: 0.98
+visibility: public
+source_of_truth: devlog
 
-created: 
-updated: 
+created: 2025-12-06
+updated: 2026-03-01
 ---
 ## Meshtastic常见无线相关参数
 

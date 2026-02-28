@@ -1,30 +1,33 @@
 ---
-id: 
-title: 
+id: posts-index
+title: fivsevn-posts
 
-module: system / natsci / netcom / posts / blogops / narrative
-submodule: 
-topic: 
+module: posts
+submodule: index
+topic: temporal-archive
 
-type: note / article / index / log / spec / release
-status: draft / active / archived
-canonical: true / false
+type: index
+status: active
+canonical: true
 
 summary: >
+  posts 模块主索引。
+  作为时间轴入口，存放历史文章、慢速发布内容与草稿。
+  与前端短内容流形成时间维度双轨结构。
 
 parents: []
-related: []
-tags: []
+related: [system-module-map]
+tags: [posts, temporal-axis, archive, reflection]
 
-audience: self / public / tutorial / collaborator
-languages: zh / en / jp
-maturity: draft / evolving / stable / deprecated
-confidence: 0.0
-visibility: public / private
-source_of_truth: devlog / site / spec / internal
+audience: public
+languages: zh
+maturity: evolving
+confidence: 0.97
+visibility: public
+source_of_truth: devlog
 
-created: 
-updated: 
+created: 2025-03-13
+updated: 2026-03-01
 ---
 # fivsevn-posts
 
@@ -36,7 +39,7 @@ updated:
 
 > 更新中......  
 
-- 2026.02.22 [《洞穴奇案》速记](2026/20260222speluncean.md)
+- 2026.02.22 [《洞穴奇案》速记](2026/posts-20260222-speluncean-001.md)
 
 - 2025.04.09 [路灯](https://fivsevn.home.blog/2025/04/09/%e8%b7%af%e7%81%af%e5%92%8c%e6%91%84%e5%83%8f%e5%a4%b4/)
 

@@ -1,30 +1,33 @@
 ---
-id: 
-title: 
+id: netcom-math-dynamical-system-prototypes-001
+title: 动力系统常见原型与结构形式
 
-module: system / natsci / netcom / posts / blogops / narrative
-submodule: 
-topic: 
+module: netcom
+submodule: math
+topic: dynamical-systems
 
-type: note / article / index / log / spec / release
-status: draft / active / archived
-canonical: true / false
+type: article
+status: active
+canonical: true
 
 summary: >
+  梳理指数增长、稳态回拉、振荡、阻尼、
+  Logistic 增长与相互作用模型等动力系统原型，
+  建立结构化数学理解框架。
 
-parents: []
-related: []
-tags: []
+parents: [netcom-module-map]
+related: [netcom-math-e-exponential-001]
+tags: [netcom, math, dynamical-systems, modeling]
 
-audience: self / public / tutorial / collaborator
-languages: zh / en / jp
-maturity: draft / evolving / stable / deprecated
-confidence: 0.0
-visibility: public / private
-source_of_truth: devlog / site / spec / internal
+audience: public
+languages: zh
+maturity: stable
+confidence: 0.97
+visibility: public
+source_of_truth: devlog
 
-created: 
-updated: 
+created: 2025-12-12
+updated: 2026-03-01
 ---
 ## 动力系统常用数学符号和六种动力学原型（公式+解）
 

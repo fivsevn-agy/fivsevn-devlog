@@ -1,30 +1,33 @@
 ---
-id: 
-title: 
+id: system-module-map
+title: Module Map — Global Topology
 
-module: system / natsci / netcom / posts / blogops / narrative
-submodule: 
-topic: 
+module: system
+submodule: topology
+topic: axis-definition
 
-type: note / article / index / log / spec / release
-status: draft / active / archived
-canonical: true / false
+type: spec
+status: active
+canonical: true
 
 summary: >
+  定义 fivsevn 知识系统的结构轴向。
+  包括 temporal、object、system、protocol 四条认知轴，
+  以及轴之间的交互规则与扩展条件。
 
 parents: []
-related: []
-tags: []
+related: [system-ai-boot-protocol, system-prompt-routing]
+tags: [topology, axis, structure, cognition]
 
-audience: self / public / tutorial / collaborator
-languages: zh / en / jp
-maturity: draft / evolving / stable / deprecated
-confidence: 0.0
-visibility: public / private
-source_of_truth: devlog / site / spec / internal
+audience: collaborator
+languages: en
+maturity: stable
+confidence: 0.98
+visibility: public
+source_of_truth: devlog
 
-created: 
-updated: 
+created: 2026-02-15
+updated: 2026-03-01
 ---
 # Module Map — Global Topology
 
