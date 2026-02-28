@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/ai-boot-protocol.md",
+                "file": "system/workspace.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ai-boot-protocol"
+              "title": "workspace"
             }
           }
         ]
@@ -185,12 +185,12 @@
   },
   "active": "13d40591a7aefc47",
   "lastOpenFiles": [
-    "system/tags.md",
-    "system/workspace.md",
-    "system/writing-spec.md",
-    "system/ai-boot-protocol.md",
-    "system/version.md",
     "system/module-map.md",
+    "system/ai-boot-protocol.md",
+    "system/workspace.md",
+    "system/version.md",
+    "system/tags.md",
+    "system/writing-spec.md",
     "README.md",
     "_toolbox.md",
     "blogops/index.md",
