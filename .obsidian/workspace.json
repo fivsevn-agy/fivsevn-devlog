@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogops/content/archive-openinglog.md",
+                "file": "kiosk/README.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "archive-openinglog"
+              "title": "README"
             }
           }
         ]
@@ -185,16 +185,19 @@
   },
   "active": "888dbcf7fa496e4f",
   "lastOpenFiles": [
-    "kiosk/index.md",
+    "netcom/architecture/netcom-architecture-fourlayermodel-001.md",
+    "natsci/ethnobiology/ethnoentomology/natsci-ethnobiology-ethnoentomology-resources-001.md",
+    "natsci/ethnobiology/ethnoentomology/index.md",
+    "README.md",
+    "kiosk/README.md",
+    "blogops/content/archive-openinglog.md",
     "kiosk",
     "untitled folder",
-    "README.md",
     "_toolbox.md",
     "blogops/index.md",
     "blogops/content/system-writing-and-deployment.md",
     "blogops/content/post-about-the-blog.md",
     "blogops/content/log-rolesystem-node01-20250619.md",
-    "blogops/content/archive-openinglog.md",
     "natsci/map.md",
     "natsci/index.md",
     "natsci/taxonomy/index.md",
@@ -204,15 +207,12 @@
     "natsci/reading/index.md",
     "natsci/methods/natsci-methods-retrieval-001.md",
     "natsci/methods/index.md",
-    "natsci/ethnobiology/ethnoentomology/natsci-ethnobiology-ethnoentomology-resources-001.md",
-    "natsci/ethnobiology/ethnoentomology/index.md",
     "netcom/map.md",
     "netcom/index.md",
     "netcom/rf/netcom-rf-spectrum-002.md",
     "netcom/rf/netcom-rf-spectrum-001.md",
     "netcom/rf/netcom-rf-antenna-002.md",
     "netcom/rf/netcom-rf-antenna-001.md",
-    "netcom/rf/index.md",
     "netcom/assets/20251116mesh.png",
     "netcom/cs",
     "netcom/untitled folder",
