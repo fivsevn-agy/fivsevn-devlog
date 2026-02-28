@@ -3,9 +3,9 @@
 - 【[五月七日的思考札记](http://fivsevn.com)】后台日志
 
 ---
-## directory
+## Directory
 
-（更新中...）  
+> 更新中......
 
 - 2025.11.19 ☝️[关于本博客](content/post-about-the-blog.md)  
 
@@ -30,7 +30,7 @@
 - 2025.03.29 ✌️开张纪念：fivsevn-devlog！
 
 ---
-## contact
+## Contact
 
 - blog: [http://fivsevn.com](http://fivsevn.com)
    

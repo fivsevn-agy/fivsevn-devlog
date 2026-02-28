@@ -3,9 +3,9 @@
 - 2026.02.27 最近在装潢博客，看《飞出个未来》，过阵子再学！
   
 ---
-## note
+## Recent Notes 更新记录
 
-（更新中...）  
+> 更新中......
 
 - 2025.12.16 [协议（protocol）](content/protocol20251216.md)
 
@@ -21,11 +21,11 @@
 
 - 2025.12.04 [电磁波频段俗称表](content/spectrum20251204.md)
 
-- 2025.12.03 [数字电台入门](content/digital20251203.md)
+- 2025.12.03 [数字电台入门](digital-001.md)
 
-- 2025.12.01 [天线入门：点名活动常见天线罗列](content/antenna20251201.md)
+- 2025.12.01 [天线入门：点名活动常见天线罗列](rf/netcom-antenna-002.md)
 
-- 2025.11.29 [天线入门](content/antenna20251129.md)
+- 2025.11.29 [天线入门](rf/netcom-antenna-001.md)
 
 - 2025.11.27 某城市神秘节点*3（待更新）
 
@@ -62,7 +62,7 @@
 - 2025.11.16 [Mesh设备结构一览（类比成餐盘）](content/mesh20251116.md)
 
 ---
-## contact
+## Contact
 
 - blog: [http://fivsevn.com](http://fivsevn.com)
    

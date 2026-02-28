@@ -52,7 +52,7 @@
 - `/source`（信息来源）待整理补充。
 
 ---
-## contact
+## Contact
 
 - mail: [fivsevn0507@outlook.com](mailto:fivsevn0507@outlook.com)
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "natsci/index.md",
-                "mode": "source",
+                "file": "netcom/digital/digital-001.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "digital-001"
             }
           }
         ]
@@ -186,9 +186,16 @@
   "active": "13d40591a7aefc47",
   "lastOpenFiles": [
     "netcom/index.md",
+    "netcom/digital/digital-001.md",
+    "README.md",
     "natsci/index.md",
-    "natsci/map.md",
+    "blogops/index.md",
+    "netcom/rf/netcom-antenna-001.md",
+    "netcom/content/lora20251123.md",
+    "netcom/rf/netcom-antenna-002.md",
     "natsci/ethnobiology/ethnoentomology/natsci-ethnobiology-ethnoentomology-resources-001.md",
+    "netcom/content/math20251210.md",
+    "natsci/map.md",
     "natsci/methods/natsci-methods-retrieval-001.md",
     "natsci/taxonomy/insecta/coleoptera/natsci-inecta-coleoptera-carabus-blaptoides-index-001.md",
     "natsci/index 2.md",
@@ -204,19 +211,12 @@
     "natsci/untitled folder",
     "natsci/content/ethnoentomology20260220.md",
     "natsci/content/carabusblaptoides-retrievalmethod-20250421.md",
-    "README.md",
     "未命名.md",
     "system/workspace.md",
     "system/index.md",
     "system/prompts/index.md",
     "system/prompts",
     "system/untitled folder",
-    "system/version.md",
-    "system/tags.md",
-    "system/writing-spec.md",
-    "system/ai-boot-protocol.md",
-    "system/module-map.md",
-    "posts/_drafts/詹姆斯·凯恩(1892-1977)的小说阅读笔记.md",
     "posts/_drafts/profiling语料库.numbers",
     "posts/_drafts",
     "posts/inbox",
