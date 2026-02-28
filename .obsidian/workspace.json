@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "netcom/lora/netcom-lora-radio-metrics-001.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "netcom-lora-radio-metrics-001"
             }
           }
         ]
@@ -183,8 +183,23 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "4381e9c64ff5575a",
+  "active": "f9a55e8df1b5992d",
   "lastOpenFiles": [
+    "netcom/lora/netcom-lora-meshtastic-history-001.md",
+    "netcom/lora/netcom-lora-meshtastic-device-inventory-001.md",
+    "netcom/lora/netcom-lora-radio-metrics-001.md",
+    "netcom/lora/netcom-lora-modulation-overview-001.md",
+    "netcom/lora/netcom-lora-meshtastic-structure-001.md",
+    "netcom/lora/netcom-lora-meshtastic-node-observation-001.md",
+    "netcom/lora/netcom-lora-meshtastic-layeredmodel-001.md",
+    "netcom/lora/netcom-lora-application-landscape-001.md",
+    "netcom/lora/netcom-lora-meshtastic-device-ecosystem-001.md",
+    "netcom/assets/20251119mesh.png",
+    "netcom/math/netcom-math-e-exponential-001.md",
+    "netcom/math/netcom-math-dynamical-system-prototypes-001.md",
+    "netcom/protocols/netcom-protocol-overview-001.md",
+    "netcom/index.md",
+    "README.md",
     "blogops/index.md",
     "blogops/content/post-about-the-blog.md",
     "blogops/content/log-rolesystem-node01-20250619.md",
@@ -192,25 +207,11 @@
     "blogops/content/system-writing-and-deployment.md",
     "blogops/map.md",
     "_toolbox.md",
-    "README.md",
     "posts/2026/posts-20260222-speluncean-001.md",
     "posts/index.md",
     "posts/map.md",
     "posts/2019/2019-06-18-深夜四時.md",
     "posts/2025/2025-06-27-【授权转载】Tents in Strong Wind What You Need to Know.md",
-    "posts/2025/2025-03-13-波洛去埃及.md",
-    "netcom/index.md",
-    "netcom/map.md",
-    "netcom/_drafts/README.md",
-    "netcom/rf/netcom-rf-spectrum-bands-001.md",
-    "netcom/rf/netcom-rf-spectrum-overview-001.md",
-    "netcom/rf/netcom-rf-antenna-catalog-001.md",
-    "netcom/rf/netcom-rf-antenna-overview-001.md",
-    "netcom/protocols/netcom-protocol-overview-001.md",
-    "netcom/methods/netcom-methods-spec-concept-001.md",
-    "netcom/methods/netcom-methods-packet-learning-001.md",
-    "netcom/mcu/netcom-mcu-meshtastic-comparison-001.md",
-    "netcom/mcu/netcom-mcu-overview-001.md",
     "kiosk",
     "untitled folder",
     "netcom/assets/20251116mesh.png",

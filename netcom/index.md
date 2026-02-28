@@ -38,7 +38,7 @@ updated: 2026-03-01
 
 > 更新中......
 
-- 2025.12.16 [协议（protocol）](protocols/protocol-001.md)
+- 2025.12.16 [协议（protocol）](protocols/netcom-protocol-overview-001)
 
 - 2025.12.13 [模运算：基本含义](math/netcom-math-modular-arithmetic-001.md)
   
@@ -76,11 +76,11 @@ updated: 2026-03-01
 
 - 2025.11.22 [ESP32-和nRF52-](mcu/netcom-mcu-meshtastic-comparison-001.md)（仅记录当时的个人思路）
 
-- 2025.11.20 [把Meshtastic拆成三层：硬件设备+软件工具=各种功能](lora/meshtastic/netcom-lora-meshtastic-layeredmodel-001.md)
+- 2025.11.20 [把Meshtastic拆成三层：硬件设备+软件工具=各种功能](lora/netcom-lora-meshtastic-layeredmodel-001.md)
 
 - 2025.11.19 [把计算机的分组交换思路用来理解学习方式](methods/netcom-methods-packet-learning-001.md)
 
-- 2025.11.19 [和Mesh有关的技术发展脉络](lora/meshtastic/netcom-lora-meshtastic-history-001.md)
+- 2025.11.19 [和Mesh有关的技术发展脉络](lora/netcom-lora-meshtastic-history-001.md)
 
 - 2025.11.19 [业余无线电执照考试2025新题库](https://github.com/AlliotTech/ham-exam-web)
 
@@ -88,9 +88,9 @@ updated: 2026-03-01
 
 - 2025.11.18 [常见MCU](mcu/netcom-mcu-overview-001.md)
 
-- 2025.11.16 [Mesh各种设备简要梳理](lora/meshtastic/netcom-lora-meshtastic-device-ecosystem-001.md)
+- 2025.11.16 [Mesh各种设备简要梳理](lora/netcom-lora-meshtastic-device-ecosystem-001.md)
 
-- 2025.11.16 [Mesh设备结构一览（类比成餐盘）](lora/meshtastic/netcom-lora-meshtastic-structure-001.md)
+- 2025.11.16 [Mesh设备结构一览（类比成餐盘）](lora/netcom-lora-meshtastic-structure-001.md)
 
 ---
 ## Contact
