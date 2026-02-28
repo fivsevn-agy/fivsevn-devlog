@@ -1,4 +1,4 @@
-# posts
+# fivsevn-posts
 
 - 图片流和短内容快速发布[戳戳](https://fivsevn.com/posts/)
 - 这里是慢速发布、历史文章存档和草稿。

@@ -27,7 +27,7 @@ source_of_truth: devlog
 created: 2025-03-23
 updated: 2026-02-28
 ---
-# natsci
+# fivsevn-natsci
 
 ![](https://cdn.jsdelivr.net/gh/fivsevn/fivsevn-assets/homepage/homepage20251105bio.webp)
 
@@ -42,13 +42,13 @@ updated: 2026-02-28
 
 > 更新中......
 
-- 2026.02.20 [文化昆虫学检索建议](ethnoentomology/natsci-ethnobiology-ethnoentomology-resources-001) _ethnobiology_
+- 2026.02.20 [文化昆虫学检索建议](ethnoentomology/natsci-ethnobiology-ethnoentomology-resources-001)
 
-- 2025.07.31 [memo｜マイマイカブリ亜種索引（草案）](insecta/coleoptera/natsci-inecta-coleoptera-carabus-blaptoides-index-001) _coleoptera_
+- 2025.07.31 [memo｜マイマイカブリ亜種索引（草案）](taxonomy/insecta/coleoptera/natsci-inecta-coleoptera-carabus-blaptoides-index-001)
 
-- 2025.04.21 [memo｜マイマイカブリ情報探索メソッド(草案)](natsci-methods-retrieval-001) _methods_
+- 2025.04.21 [memo｜マイマイカブリ情報探索メソッド(草案)](methods/natsci-methods-retrieval-001)
 
-- 2025.03.23 [锯锯鱼](https://fivsevn.home.blog/2025/03/23/锯锯鱼/) _posts_
+- 2025.03.23 [锯锯鱼](https://fivsevn.home.blog/2025/03/23/锯锯鱼/)
 
 ---
 ## Contact

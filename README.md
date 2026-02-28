@@ -49,6 +49,7 @@
 
 > [个人写作规范](https://github.com/fivsevn-agy/fivsevn-spec)
 
+- 部分重构中。
 - `/source`（信息来源）待整理补充。
 
 ---
