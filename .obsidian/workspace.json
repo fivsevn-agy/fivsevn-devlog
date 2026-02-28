@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_toolbox.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "_toolbox"
+              "title": "README"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "13d40591a7aefc47",
   "lastOpenFiles": [
+    "_toolbox.md",
     "README.md",
     "blogops/index.md",
     "posts/index.md",
@@ -210,7 +211,6 @@
     "netcom/rf/netcom-rf-spectrum-002.md",
     "netcom/rf/netcom-rf-spectrum-001.md",
     "netcom/protocols/netcom-protocol-001.md",
-    "netcom/methods/netcom-methods-spec-001.md",
     "netcom/cs",
     "netcom/untitled folder",
     "netcom/architecture",
