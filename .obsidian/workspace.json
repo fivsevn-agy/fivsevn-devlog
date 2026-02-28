@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "netcom/protocol/netcom-protocol-overview-001.md",
+                "file": "index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "netcom-protocol-overview-001"
+              "title": "index"
             }
           }
         ]
@@ -185,8 +185,12 @@
   },
   "active": "f9a55e8df1b5992d",
   "lastOpenFiles": [
-    "netcom/index.md",
+    "blogops/index.md",
+    "blogops/map.md",
+    "index.md",
+    "kiosk/README.md",
     "netcom/protocol/netcom-protocol-overview-001.md",
+    "netcom/index.md",
     "netcom/lora/netcom-lora-radio-metrics-001.md",
     "netcom/lora/netcom-lora-meshtastic-history-001.md",
     "netcom/lora/netcom-lora-meshtastic-device-inventory-001.md",
@@ -199,19 +203,15 @@
     "netcom/assets/20251119mesh.png",
     "netcom/math/netcom-math-e-exponential-001.md",
     "netcom/math/netcom-math-dynamical-system-prototypes-001.md",
-    "README.md",
-    "blogops/index.md",
     "blogops/content/post-about-the-blog.md",
     "blogops/content/log-rolesystem-node01-20250619.md",
     "blogops/content/archive-openinglog.md",
     "blogops/content/system-writing-and-deployment.md",
-    "blogops/map.md",
     "_toolbox.md",
     "posts/2026/posts-20260222-speluncean-001.md",
     "posts/index.md",
     "posts/map.md",
     "posts/2019/2019-06-18-深夜四時.md",
-    "posts/2025/2025-06-27-【授权转载】Tents in Strong Wind What You Need to Know.md",
     "kiosk",
     "untitled folder",
     "netcom/assets/20251116mesh.png",
