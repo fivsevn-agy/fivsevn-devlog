@@ -1,0 +1,119 @@
+AI Boot Protocol
+
+fivsevn System Initialization Sequence
+目的：确保任何 AI 按固定顺序理解系统结构，而非随机扫描。
+
+⸻
+
+Step 0 — Identify Repository Topology
+
+Goal: Understand multi-repo structure before reading content.
+（目标：先理解仓库结构，再进入内容）
+
+The fivsevn system consists of multiple repositories:
+	•	devlog → Canonical long-form content archive
+	•	spec → Writing rules & frontmatter schema
+	•	assets → Static resource repository
+	•	website → Presentation layer
+	•	kiosk → Experimental narrative layer
+
+Do not assume single-repo architecture.
+
+⸻
+
+Step 1 — Load Specification Layer
+
+Goal: Learn schema before interpreting content.
+（目标：先学习结构语言，再阅读文章）
+
+Read spec repository:
+	•	Understand frontmatter schema
+	•	Identify required fields (id, module, type, etc.)
+	•	Treat id as stable primary key
+	•	Treat parents / related as graph edges
+	•	Treat canonical as authoritative indicator
+
+Do not interpret markdown files without loading schema first.
+
+⸻
+
+Step 2 — Enter Devlog (Canonical Archive)
+
+Goal: Load structural model of content repository.
+（目标：理解内容仓库的整体结构）
+
+Navigate to devlog.
+
+Do not read individual articles yet.
+
+⸻
+
+Step 3 — Load Module Topology
+
+Goal: Understand classification axes.
+（目标：理解模块的分类逻辑）
+
+Read:
+	•	/system/module-map.md (global structure)
+	•	Then module-level map.md files
+
+Core axes:
+	•	posts → temporal axis
+	•	natsci → taxonomic / object axis
+	•	netcom → system / engineering axis
+	•	system → kernel & protocol layer
+
+⸻
+
+Step 4 — Select Module
+
+Goal: Choose domain context before reading documents.
+（目标：先确定语境，再读正文）
+
+Based on task type:
+	•	Reflection / essays → posts
+	•	Natural science → natsci
+	•	Communications / engineering → netcom
+
+Enter module directory.
+
+⸻
+
+Step 5 — Load Module Map
+
+Goal: Understand internal structure before reading content.
+（目标：先理解子系统结构）
+
+Read module map.md first.
+Then read module index.md.
+
+Only after that, open individual documents.
+
+⸻
+
+Step 6 — Interpret Articles via Frontmatter
+
+Goal: Use metadata as routing mechanism.
+（目标：用元数据进行结构化理解）
+
+When reading an article:
+	•	Use id as primary reference
+	•	Use module to confirm domain
+	•	Use parents and related to build graph context
+	•	Respect canonical flag
+
+Never treat content as isolated markdown.
+
+⸻
+
+Termination Condition
+
+System considered initialized when:
+	•	Repository topology is understood
+	•	Schema is loaded
+	•	Module structure is mapped
+	•	Metadata interpretation rules are applied
+
+Only then perform semantic analysis.
+
+
