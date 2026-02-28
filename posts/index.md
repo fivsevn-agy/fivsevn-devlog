@@ -1,12 +1,12 @@
 # posts
 
-- 快速发布[戳戳](https://fivsevn.com/posts/)
+- 图片流和短内容快速发布[戳戳](https://fivsevn.com/posts/)
 - 这里是慢速发布、历史文章存档和草稿。
 
 ---
-## note
+## Recent Posts
 
-（更新中...）  
+> 更新中......  
 
 - 2026.02.22 [《洞穴奇案》速记](2026/20260222speluncean.md)
 
