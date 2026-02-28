@@ -32,16 +32,16 @@ updated: 2026-03-01
 
 ### 设备1
 
-![heltecv3](20251125heltecv3.jpeg)
+![heltecv3](../assets/20251125heltecv3.jpeg)
 
 
 ### 设备2
 
-![faketecv3](20251125faketecv3.jpeg)
+![faketecv3](../assets/20251125faketecv3.jpeg)
 
 
 ### 设备3
 
-[rak4630](netcom-lora-meshtastic-node-observation-001.md)
+[rak4630](lora/netcom-lora-meshtastic-node-observation-001.md)
    
  
