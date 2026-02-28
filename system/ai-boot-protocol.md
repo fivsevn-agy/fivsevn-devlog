@@ -81,7 +81,28 @@
   - system → kernel & protocol layer
 
 ---
-## Step 4 - Select Module
+## Step 4 - Classify Task Type
+
+- Goal: Determine cognitive axis before selecting module.
+> 目标：在进入模块前，先判断任务类型
+
+- Load:
+  - [/system/prompt-routing.md](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/system/prompt-routing.md)
+
+- Classify task as:
+  - Temporal
+  - Object
+  - Structural
+
+- Route accordingly:
+  - Temporal → posts
+  - Object → natsci
+  - Structural → netcom
+
+- Only after classification, proceed to Step 5.
+
+---
+## Step 5 - Select Module
 
 - Goal: Choose domain context before reading documents.
 > 目标：先确定语境，再读正文
@@ -94,7 +115,7 @@
 - Enter module directory.
 
 ---
-## Step 5 - Load Module Map
+## Step 6 - Load Module Map
 
 - Goal: Understand internal structure before reading content.
 > 目标：先理解子系统结构
@@ -105,7 +126,7 @@
 - Only after that, open individual documents.
 
 ---
-## Step 6 — Interpret Articles via Frontmatter
+## Step 7 — Interpret Articles via Frontmatter
 
 - Goal: Use metadata as routing mechanism.
 > 目标：用元数据进行结构化理解
