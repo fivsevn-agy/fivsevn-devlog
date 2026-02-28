@@ -9,7 +9,9 @@
 - Goal: Understand multi-repo and website structure before reading content.
 > 目标：先理解仓库结构，再进入内容
 
-- The fivsevn-system consists of multiple repositories:
+- The fivsevn-system consists of multiple repositories and web interfaces.
+
+- Repositories:
   - [repository: fivsevn-devlog](https://github.com/fivsevn-agy/fivsevn-devlog)
     > Canonical long-form content archive
   - [repository: fivsevn-spec](https://github.com/fivsevn-agy/fivsevn-spec)
@@ -18,17 +20,20 @@
     > Static resource repository
   - [repository: fivsevn-internal](https://github.com/fivsevn/fivsevn-internal)(private repository)
     > Internal control layer (AI configs, post-by-mail console, rapid publishing workspace)
-  - [website: fivsevn.com](https://fivsevn.com)
+
+- Web Interfaces:
+  - [fivsevn.com](https://fivsevn.com)
     > Presentation layer (public-facing stream interface)
-  - [website: fivsevn.com/posts](https://fivsevn.com/posts)
+  - [fivsevn.com/posts](https://fivsevn.com/posts)
       > Short-form stream (fast publish layer)
-  - [website: fivsevn.com/foodie](https://fivsevn.com/foodie)
+  - [fivsevn.com/foodie](https://fivsevn.com/foodie)
       > Visual stream (image-dominant feed)
-  - websites: fivsevn-kiosk
-    - [website: fivsevn-kiosk](http://fivsevn.com/kiosk)
-    - [website: fivsevn-kiosk-sys](http://fivsevn.com/kiosk/sys)
-    - [website: fivsevn-kiosk-cctv](http://fivsevn.com/kiosk/cctv)
-    - [website: fivsevn-kiosk-57 Day Shift](http://57dayshift.wordpress.com)
+  - fivsevn-kiosk layer
+    > Narrative Interfaces:
+    - [fivsevn-kiosk](http://fivsevn.com/kiosk)
+    - [fivsevn-kiosk-sys](http://fivsevn.com/kiosk/sys)
+    - [fivsevn-kiosk-cctv](http://fivsevn.com/kiosk/cctv)
+    - [fivsevn-kiosk-57 Day Shift](http://57dayshift.wordpress.com)
     > Experimental narrative layer
 
 - Do not assume single-repo architecture.
@@ -69,6 +74,7 @@
   - Then module-level map.md files
 
 - Core axes:
+- Core axes define cognitive organization dimensions, not categories.
   - posts → temporal axis
   - natsci → taxonomic / object axis
   - netcom → system / engineering axis
