@@ -1,6 +1,6 @@
 ## 某城市神秘节点*3（待更新）
 
-![rak](../assets/20251127rak.jpeg)
+![rak](20251127rak.jpeg)
 
 参考：[https://youtu.be/4rgRhwtZ5l4?si=ja8g2va27RJrM4-R](https://youtu.be/4rgRhwtZ5l4?si=ja8g2va27RJrM4-R)
 

@@ -6,6 +6,6 @@
 我按照这个角度去梳理的。
 ```
 
-![Mesh](../assets/20251119mesh.png)
+![Mesh](20251119mesh.png)
 
   
