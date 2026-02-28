@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "natsci/index.md",
+                "file": "blogops/content/archive-openinglog.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "archive-openinglog"
             }
           }
         ]
@@ -185,32 +185,33 @@
   },
   "active": "888dbcf7fa496e4f",
   "lastOpenFiles": [
-    "natsci/ethnobiology/ethnoentomology/natsci-ethnobiology-ethnoentomology-resources-001.md",
-    "natsci/ethnobiology/index.md",
-    "netcom/mcu/netcom-mcu-meshtastic-001.md",
-    "netcom/mcu/netcom-mcu-001.md",
-    "netcom/lora/meshtastic/netcom-lora-meshtastic-006.md",
-    "netcom/lora/meshtastic/netcom-lora-meshtastic-005.md",
-    "netcom/lora/meshtastic/netcom-lora-meshtastic-004.md",
-    "netcom/lora/meshtastic/netcom-lora-meshtastic-003.md",
-    "netcom/lora/meshtastic/netcom-lora-meshtastic-002.md",
-    "netcom/methods/netcom-methods-spec-001.md",
-    "netcom/methods/netcom-methods-001.md",
-    "netcom/index.md",
-    "netcom/lora/meshtastic/netcom-lora-meshtastic-history-001.md",
-    "netcom/lora/meshtastic/netcom-lora-meshtastic-001.md",
-    "netcom/map.md",
-    "system/ai-boot-protocol.md",
-    "system/prompt-routing.md",
     "README.md",
-    "system/workspace.md",
-    "posts/map.md",
-    "posts/index.md",
+    "_toolbox.md",
+    "blogops/index.md",
+    "blogops/content/system-writing-and-deployment.md",
+    "blogops/content/post-about-the-blog.md",
+    "blogops/content/log-rolesystem-node01-20250619.md",
+    "blogops/content/archive-openinglog.md",
     "natsci/map.md",
     "natsci/index.md",
-    "system/module-map.md",
-    "system/version.md",
-    "system/tags.md",
+    "natsci/taxonomy/index.md",
+    "natsci/taxonomy/insecta/index.md",
+    "natsci/taxonomy/insecta/coleoptera/natsci-inecta-coleoptera-carabus-blaptoides-index-001.md",
+    "natsci/taxonomy/insecta/coleoptera/index.md",
+    "natsci/reading/index.md",
+    "natsci/methods/natsci-methods-retrieval-001.md",
+    "natsci/methods/index.md",
+    "natsci/ethnobiology/ethnoentomology/natsci-ethnobiology-ethnoentomology-resources-001.md",
+    "natsci/ethnobiology/ethnoentomology/index.md",
+    "netcom/map.md",
+    "netcom/index.md",
+    "netcom/rf/netcom-rf-spectrum-002.md",
+    "netcom/rf/netcom-rf-spectrum-001.md",
+    "netcom/rf/netcom-rf-antenna-002.md",
+    "netcom/rf/netcom-rf-antenna-001.md",
+    "netcom/rf/index.md",
+    "netcom/protocols/netcom-protocol-001.md",
+    "netcom/assets/20251116mesh.png",
     "netcom/cs",
     "netcom/untitled folder",
     "netcom/architecture",
@@ -221,7 +222,6 @@
     "natsci/ethnobiology",
     "natsci/ethnozoology",
     "natsci/untitled folder",
-    "netcom/assets/20251118mcu.png",
-    "netcom/assets/20251116mesh.png"
+    "netcom/assets/20251118mcu.png"
   ]
 }

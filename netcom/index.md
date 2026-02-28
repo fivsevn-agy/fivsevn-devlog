@@ -1,4 +1,31 @@
-# fivsevn-netcom 
+---
+id: 
+title: 
+
+module: system / natsci / netcom / posts / blogops / narrative
+submodule: 
+topic: 
+
+type: note / article / index / log / spec / release
+status: draft / active / archived
+canonical: true / false
+
+summary: >
+
+parents: []
+related: []
+tags: []
+
+audience: self / public / tutorial / collaborator
+languages: zh / en / jp
+maturity: draft / evolving / stable / deprecated
+confidence: 0.0
+visibility: public / private
+source_of_truth: devlog / site / spec / internal
+
+created: 
+updated: 
+---# fivsevn-netcom 
 
 - 2026.02.27 最近在装潢博客，看《飞出个未来》，过阵子再学！
   
