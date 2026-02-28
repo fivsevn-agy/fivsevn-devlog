@@ -1,30 +1,14 @@
 ---
-id: 
-title: 
-
-module: system / natsci / netcom / posts / blogops / narrative
-submodule: 
-topic: 
-
-type: note / article / index / log / spec / release
-status: draft / active / archived
-canonical: true / false
-
+module: blogops
+type: note
+status: archived
+canonical: false
 summary: >
-
-parents: []
-related: []
-tags: []
-
-audience: self / public / tutorial / collaborator
-languages: zh / en / jp
-maturity: draft / evolving / stable / deprecated
-confidence: 0.0
-visibility: public / private
-source_of_truth: devlog / site / spec / internal
-
-created: 
-updated: 
+  archived
+tags: [archive]
+visibility: public
+source_of_truth: devlog
+updated: 2026-03-01
 ---
 # 博客的【写作-发布】系统
 *v20250403*

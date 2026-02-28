@@ -1,30 +1,31 @@
 ---
-id: 
-title: 
-
-module: system / natsci / netcom / posts / blogops / narrative
-submodule: 
-topic: 
-
-type: note / article / index / log / spec / release
-status: draft / active / archived
-canonical: true / false
-
-summary: >
-
-parents: []
-related: []
-tags: []
-
-audience: self / public / tutorial / collaborator
-languages: zh / en / jp
-maturity: draft / evolving / stable / deprecated
-confidence: 0.0
-visibility: public / private
-source_of_truth: devlog / site / spec / internal
-
+id: blogops-rolesystem-001
+title: 博客的人格化接口建模（节点①）
+module: blogops
+submodule: architecture
+topic: persona-interface-model
+type: article
+status: draft
+canonical: true
+summary: |
+  定义 fivsevn 内容代理系统中的各节点角色， 建立博客人格接口与表现通道的结构模型。
+parents:
+  - blogops-map
+related:
+  - blogops-about-001
+tags:
+  - blogops
+  - architecture
+  - persona
+  - interface
+audience: public
+languages: zh
+maturity: evolving
+confidence: 0.96
+visibility: public
+source_of_truth: devlog
 created: 2025-06-19
-updated: 2025-06-20
+updated: 2026-03-01
 ---
 # 博客的人格化接口建模 节点① 
 
