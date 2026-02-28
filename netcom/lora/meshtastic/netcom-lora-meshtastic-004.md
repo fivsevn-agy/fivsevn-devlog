@@ -12,6 +12,6 @@
 
 ### 设备3
 
-[rak4630](lora-meshtastic-005.md)
+[rak4630](netcom-lora-meshtastic-005.md)
    
  
