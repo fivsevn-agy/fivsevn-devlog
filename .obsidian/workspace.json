@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "system/ai-boot-protocol.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "ai-boot-protocol"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "13d40591a7aefc47",
   "lastOpenFiles": [
-    "_toolbox.md",
     "README.md",
+    "_toolbox.md",
     "blogops/index.md",
     "posts/index.md",
     "natsci/index.md",
