@@ -1,52 +1,51 @@
 ---
-id: 
-title: 
+id: blogops-about-001
+title: 关于博客（About This Blog）
 
-module: system / natsci / netcom / posts / blogops / narrative
-submodule: 
-topic: 
+module: blogops
+submodule: identity
+topic: blog-identity
 
-type: note / article / index / log / spec / release
-status: draft / active / archived
-canonical: true / false
+type: article
+status: active
+canonical: true
 
 summary: >
+  博客基本信息、结构说明、版权声明与免责声明。
+  作为对外公开的身份与边界说明页面。
 
-parents: []
-related: []
-tags: []
+parents: [blogops-map]
+related: [blogops-rolesystem-001]
+tags: [blogops, identity, about]
 
-audience: self / public / tutorial / collaborator
-languages: zh / en / jp
-maturity: draft / evolving / stable / deprecated
-confidence: 0.0
-visibility: public / private
-source_of_truth: devlog / site / spec / internal
+audience: public
+languages: zh
+maturity: stable
+confidence: 0.99
+visibility: public
+source_of_truth: site
 
-created: 
-updated: 
+created: 2026-02-19
+updated: 2026-03-01
 ---
-# 关于博客
-*v20260219*
+# 关于博客（About This Blog）
 
+---
 ## 基本信息
 
-### 博客名称：
-- **五月七日的思考札记**    
+- 博客名称：
+  - **五月七日的思考札记**    
   
-### 其他语言版本名称：
-- **fivsevn’s Pocket Reflection Journal**
-- **つゆりのポケット思案帳**
+- 其他语言版本名称：
+  - **fivsevn’s Pocket Reflection Journal**
+  - **つゆりのポケット思案帳**
 
-### 链接：
-- [http://fivsevn.com](http://fivsevn.com)
+- 链接：
+  - [http://fivsevn.com](http://fivsevn.com)
 
-### 头像：
-![avatar](https://cdn.jsdelivr.net/gh/fivsevn/fivsevn-assets@main/avatar/avatar202511main512.png)
-
-### 博客主题：
-- 个人生活记录
-- 学习笔记
+- 主题：
+  - 个人生活记录
+  - 学习笔记
 
 ---
 ## structure
@@ -58,7 +57,7 @@ fivsevn.com/
       ├─ posts/      # 个人笔记
       ├─ foodie/     # 吃吃
       ├─ natsci/     # 自然科学学习笔记
-      ├─ netcom/     # 网络通讯学习笔记
+      ├─ netcom/     # 通讯技术学习笔记
       ├─ devlog/     # 后台日志
       ├─ kiosk/      # 五月七日便利店
       ├─ nvesvif/    # ???
@@ -122,6 +121,7 @@ This work is licensed under CC BY-NC-SA 4.0.
 *本ブログの記事内容はすべて作者自身が執筆・管理しています。AIツールは、あくまで手続き的な補助（例：資料の初期検索、外国語の翻訳、分類情報の整理、画像リンク生成、引用フォーマットの整備など）として利用しており、AIによる創作や意見表明は一切行っておりません。 出典の確認については、各記事に記載された参考情報をご参照ください。*  
   
 *本サイトの内容に基づき、いかなる損害または不利益が生じた場合も、作者は一切の責任を負いかねます。*  
+.  
 
 ---
 ## 联络方式

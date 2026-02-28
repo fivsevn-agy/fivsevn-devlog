@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogops/index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               },
@@ -185,14 +185,14 @@
   },
   "active": "f9a55e8df1b5992d",
   "lastOpenFiles": [
-    "blogops/map.md",
-    "blogops/content/archive-openinglog.md",
-    "blogops/content/blogops-writing-and-deployment.md",
-    "blogops/content/blogops-rolesystem-001.md",
-    "blogops/content/blogops-about-the-blog.md",
+    "blogops/content/legacy-openinglog.md",
     "blogops/index.md",
     "index.md",
+    "blogops/content/blogops-rolesystem-001.md",
+    "blogops/content/legacy-blogops-writing-and-deployment.md",
+    "blogops/content/blogops-about-001.md",
     "kiosk/README.md",
+    "blogops/map.md",
     "netcom/protocol/netcom-protocol-overview-001.md",
     "netcom/index.md",
     "netcom/lora/netcom-lora-radio-metrics-001.md",
