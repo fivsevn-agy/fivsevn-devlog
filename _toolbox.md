@@ -20,6 +20,10 @@
 
 ### Image Editing
 
+- 转像素
+  - [Pixel Art Village](https://pixelartvillage.com)
+  - [the Pixel Art](https://chuiliu.github.io/demo/pixel/)
+
 - [Watermark Remover](https://www.watermarkremover.io)
  
 - [Shrink Media (压图)](https://www.shrink.media/upload)
