@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "blogops/content/legacy-blogops-writing-and-deployment.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "legacy-blogops-writing-and-deployment"
             }
           }
         ]
@@ -185,13 +185,20 @@
   },
   "active": "f9a55e8df1b5992d",
   "lastOpenFiles": [
+    "blogops/content/blogops-cyber-estate-masterplan-001.md",
+    "blogops/content/blogops-about-001.md",
+    "system/ai-boot-protocol.md",
+    "system/workspace.md",
+    "system/prompt-routing.md",
+    "system/module-map.md",
+    "natsci/taxonomy/insecta/coleoptera/natsci-inecta-coleoptera-carabus-blaptoides-index-001.md",
+    "kiosk/README.md",
+    "_tmpl_module-submodule-topic-001.md",
     "blogops/content/legacy-openinglog.md",
     "blogops/index.md",
     "index.md",
     "blogops/content/blogops-rolesystem-001.md",
     "blogops/content/legacy-blogops-writing-and-deployment.md",
-    "blogops/content/blogops-about-001.md",
-    "kiosk/README.md",
     "blogops/map.md",
     "netcom/protocol/netcom-protocol-overview-001.md",
     "netcom/index.md",
@@ -205,13 +212,6 @@
     "netcom/lora/netcom-lora-application-landscape-001.md",
     "netcom/lora/netcom-lora-meshtastic-device-ecosystem-001.md",
     "netcom/assets/20251119mesh.png",
-    "netcom/math/netcom-math-e-exponential-001.md",
-    "netcom/math/netcom-math-dynamical-system-prototypes-001.md",
-    "_toolbox.md",
-    "posts/2026/posts-20260222-speluncean-001.md",
-    "posts/index.md",
-    "posts/map.md",
-    "posts/2019/2019-06-18-深夜四時.md",
     "kiosk",
     "untitled folder",
     "netcom/assets/20251116mesh.png",
