@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogops/content/legacy-blogops-writing-and-deployment.md",
+                "file": "system/ai-boot-protocol.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "legacy-blogops-writing-and-deployment"
+              "title": "ai-boot-protocol"
             }
           }
         ]
@@ -185,12 +185,13 @@
   },
   "active": "f9a55e8df1b5992d",
   "lastOpenFiles": [
-    "blogops/content/blogops-cyber-estate-masterplan-001.md",
-    "blogops/content/blogops-about-001.md",
-    "system/ai-boot-protocol.md",
-    "system/workspace.md",
     "system/prompt-routing.md",
+    "system/ai-boot-protocol.md",
     "system/module-map.md",
+    "system/workspace.md",
+    "blogops/content/blogops-cyber-estate-masterplan-001.md",
+    "blogops/content/legacy-blogops-writing-and-deployment.md",
+    "blogops/content/blogops-about-001.md",
     "natsci/taxonomy/insecta/coleoptera/natsci-inecta-coleoptera-carabus-blaptoides-index-001.md",
     "kiosk/README.md",
     "_tmpl_module-submodule-topic-001.md",
@@ -198,7 +199,6 @@
     "blogops/index.md",
     "index.md",
     "blogops/content/blogops-rolesystem-001.md",
-    "blogops/content/legacy-blogops-writing-and-deployment.md",
     "blogops/map.md",
     "netcom/protocol/netcom-protocol-overview-001.md",
     "netcom/index.md",

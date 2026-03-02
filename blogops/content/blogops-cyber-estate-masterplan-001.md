@@ -49,7 +49,7 @@ updated: 2026-03-02
   - 强调可回溯与结构稳定
   - 不以流量为主导
 
-> 若未来因短期热点改变核心方向，则视为违反地产总纲。
+> Boot 的修改属于结构级变更，不因短期内容需求而调整。
 
 ---
 ## 2. 施工标准（Spec）
@@ -85,7 +85,7 @@ updated: 2026-03-02
 ---
 ## 4. 常设馆藏区（Canonical Archive）
 
-> Canonical Archive 是地产的核心资产！Wow！
+> Canonical Archive 是地产的核心资产！
 
 - 对应内容：
   - https://github.com/fivsevn-agy/fivsevn-devlog
@@ -101,7 +101,7 @@ updated: 2026-03-02
 ---
 ## 5. 流动街区（Stream）
 
-> Stream 可以热闹！
+> Stream 可以热闹！但不承担长期存档的职责。
 
 - 对应内容：
   - https://fivsevn.com/posts
@@ -116,7 +116,7 @@ updated: 2026-03-02
 ---
 ## 6. 实验开发区（Narrative Layer）
 
-> Narrative Layer 不属于知识主轴，是允许试错的地块。
+> Narrative Layer 不属于知识主轴，是允许试错的地块，不会自动进入 Canonical 区。
 
 - 对应页面：
   - https://fivsevn.com/kiosk 及其子页面
