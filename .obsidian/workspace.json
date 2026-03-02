@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/workspace.md",
+                "file": "blogops/map.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "workspace"
+              "title": "map"
             }
           }
         ]
@@ -185,9 +185,14 @@
   },
   "active": "f9a55e8df1b5992d",
   "lastOpenFiles": [
+    "netcom/map.md",
+    "blogops/map.md",
+    "natsci/map.md",
+    "posts/map.md",
+    "posts/index.md",
+    "system/module-map.md",
     "system/prompt-routing.md",
     "system/workspace.md",
-    "system/module-map.md",
     "system/ai-boot-protocol.md",
     "blogops/content/blogops-cyber-estate-masterplan-001.md",
     "blogops/content/legacy-blogops-writing-and-deployment.md",
@@ -199,7 +204,6 @@
     "blogops/index.md",
     "index.md",
     "blogops/content/blogops-rolesystem-001.md",
-    "blogops/map.md",
     "netcom/protocol/netcom-protocol-overview-001.md",
     "netcom/index.md",
     "netcom/lora/netcom-lora-radio-metrics-001.md",
@@ -207,10 +211,6 @@
     "netcom/lora/netcom-lora-meshtastic-device-inventory-001.md",
     "netcom/lora/netcom-lora-modulation-overview-001.md",
     "netcom/lora/netcom-lora-meshtastic-structure-001.md",
-    "netcom/lora/netcom-lora-meshtastic-node-observation-001.md",
-    "netcom/lora/netcom-lora-meshtastic-layeredmodel-001.md",
-    "netcom/lora/netcom-lora-application-landscape-001.md",
-    "netcom/lora/netcom-lora-meshtastic-device-ecosystem-001.md",
     "netcom/assets/20251119mesh.png",
     "kiosk",
     "untitled folder",

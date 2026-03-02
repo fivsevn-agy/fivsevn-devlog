@@ -32,7 +32,7 @@ updated: 2026-03-01
 # natsci — Module Map
 
 Purpose:
-Define internal structure of the Natural Science axis.
+Define internal structure of the Natural Science content axis.
 
 This module is organized by object and taxonomy,
 not by time.

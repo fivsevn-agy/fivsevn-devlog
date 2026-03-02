@@ -12,8 +12,8 @@ canonical: true
 
 summary: >
   定义任务类型识别逻辑。
-  将用户请求分类为 Temporal / Object / Structural，
-  并据此路由至 posts、natsci 或 netcom 模块。
+  将用户请求按层级（Content / Kernel / Meta）进行识别，
+  并据此路由至 posts、natsci、netcom、system 或 blogops 模块。
 
 parents: [system-module-map]
 related: [system-ai-boot-protocol]

@@ -59,13 +59,13 @@ It documents infrastructure shifts.
 
 blogops is:
 
-- Parallel to posts / natsci / netcom
+- a meta-governance layer.
 - Outside cognitive axes
 - Evolution-log layer
 
-It may reference any axis.
-
-It defines none.
+> blogops operates above posts / natsci / netcom.  
+> It may reference any axis.
+> It defines none.
 
 ---
 
