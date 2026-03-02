@@ -31,66 +31,59 @@ updated: 2026-03-01
 ---
 # Module Map - Global Topology
 
-- Purpose: Define structural axes of the fivsevn knowledge system.
+- Purpose: Define the global structure of the fivsevn system.
 
 ---
-## 1. Structural Model
+## 1. Structural Model (Layered)
 
-- The system is multi-dimensional.
+- The fivsevn system is **layered**, not flat.
 
-- Content is organized along independent axes:
-  - Temporal axis
-  - Object axis
-  - System axis
-  - Protocol axis
+### Layer 1 — Cognitive Content Layer (world-facing content)
+> This layer contains the primary knowledge content.
 
-- These are not categories.
-- They are cognitive organization dimensions.
+- posts → temporal reflection axis
+- natsci → object-oriented domain (taxonomy / observation)
+- netcom → system-oriented domain (engineering / protocols)
 
----
-## 2. Core Axes
-
-### 2.1 posts — Temporal Axis
-- Organized by time.
-- Represents reflection and evolving thought.
-- Primary ordering: chronological.
+> These are **content axes**.
 
 ---
-### 2.2 natsci — Object / Taxonomic Axis
-- Organized by natural objects.
-- Classification-based structure.
-- Focus: biological and material entities.
+### Layer 2 — Kernel / Protocol Layer (rules)
+- system → boot protocol, topology, routing, metadata interpretation
+
+> This is **not content**.  
+> This layer defines how Layer 1 is organized.
 
 ---
-### 2.3 netcom — System / Engineering Axis
-- Organized by technical systems.
-- Structure-driven.
-- Focus: protocols, topology, hardware, infrastructure.
+### Layer 3 — Meta-Governance Layer (system evolution)
+- blogops → structural adjustments, publishing strategy changes, evolution log
+
+> This is **not a knowledge axis**.  
+> It documents how the system changes over time.
 
 ---
-### 2.4 system — Kernel / Protocol Layer
-- Defines meta-structure.
-- Contains boot protocol.
-- Contains module topology.
-- Not domain content.
+## 2. Interaction Rules
+
+### 2.1 Cross-layer references
+- blogops may reference any layer (it is meta-level)
+- system may define rules that affect any layer
+- posts may link to natsci/netcom as “temporal context”
+- natsci/netcom may link back to posts as “history / reflections”
+
+### 2.2 Metadata resolves placement
+- `module` defines the primary location
+- `parents` / `related` define graph positioning across modules
+- `canonical` indicates authoritative version
 
 ---
-## 3. Axis Interaction
+## 3. Expansion Rule
 
-- Documents may exist simultaneously on:
-  - Temporal axis (via posts)
-  - Domain axis (via natsci or netcom)
+- A new **content axis** may be created only if:
+  - it develops stable methodology
+  - it has independent structural logic
+  - it is sustainable long-term
+  - it is not a temporary interest cluster
 
-Metadata resolves positioning.
-
----
-## 4. Expansion Rule
-
-A new axis may be created only if:
-
-- It develops stable methodology.
-- It has independent structural logic.
-- It is sustainable long-term.
-- It is not a temporary interest cluster.
-
-
+- A new **meta layer** may be created only if:
+  - it governs or describes the system itself
+  - it does not become a dumping ground for content

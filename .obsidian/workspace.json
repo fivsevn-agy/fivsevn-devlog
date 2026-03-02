@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/ai-boot-protocol.md",
+                "file": "system/workspace.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ai-boot-protocol"
+              "title": "workspace"
             }
           }
         ]
@@ -186,9 +186,9 @@
   "active": "f9a55e8df1b5992d",
   "lastOpenFiles": [
     "system/prompt-routing.md",
-    "system/ai-boot-protocol.md",
-    "system/module-map.md",
     "system/workspace.md",
+    "system/module-map.md",
+    "system/ai-boot-protocol.md",
     "blogops/content/blogops-cyber-estate-masterplan-001.md",
     "blogops/content/legacy-blogops-writing-and-deployment.md",
     "blogops/content/blogops-about-001.md",

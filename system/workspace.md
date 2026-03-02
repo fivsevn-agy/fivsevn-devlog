@@ -32,107 +32,116 @@ updated: 2026-03-01
 ---
 # fivsevn Workspace (AI Entry)
 
-- Purpose: Entry point for AI-level structural navigation.
+Purpose:
+High-level orientation entry for AI. This is **not** a boot protocol.
 
-- This file is not a boot protocol.
-- It is a high-level orientation layer.
-
-- Boot sequence is defined in:
-  - [/system/ai-boot-protocol.md](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/system/ai-boot-protocol.md)
+Boot sequence is defined in:
+- [/system/ai-boot-protocol.md](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/system/ai-boot-protocol.md)
 
 ---
 ## 0. System Overview
 
-- The fivsevn system is multi-layered and multi-repository.
+The fivsevn system is multi-repository and **layered**.
 
-- It contains:
-  - Canonical archive (devlog)
-  - Structural specification (spec)
-  - Static assets (assets)
-  - Internal control layer (internal)
-  - Public presentation streams (website)
-  - Experimental narrative layer (kiosk)
+### Core repositories / layers
+- Canonical archive (devlog): long-form structured content base
+- Structural specification (spec): schema & writing rules
+- Kernel layer (system): boot / topology / routing / structural rules
+- Meta-governance layer (blogops): evolution log & methodology notes
+- Static assets (assets): images/icons, no textual authority
+- Internal control layer (internal): operational scripts (private)
+
+### Public interfaces
+- Main site: https://fivsevn.com
+- Streams: https://fivsevn.com/posts, https://fivsevn.com/foodie, https://fivsevn.com/natsci
+- Narrative interfaces (kiosk side-system): https://fivsevn.com/kiosk and related pages
 
 Do not assume single-repo architecture.
 
 ---
 ## 1. Canonical Archive (Authoritative Content)
 
-- Repository: https://github.com/fivsevn-agy/fivsevn-devlog
+Repository:
+- https://github.com/fivsevn-agy/fivsevn-devlog
 
-> This is the long-form structured content base.
-
-- Raw index: https://raw.githubusercontent.com/fivsevn-agy/fivsevn-devlog/main/README.md
-
-- All structural interpretation must begin here after boot.
+This is the long-form structured content base.
 
 ---
-## 2. Structural Definition Layer
+## 2. Structural Definition Layer (Spec)
 
-- Spec: https://github.com/fivsevn-agy/fivsevn-spec
+Spec repository:
+- https://github.com/fivsevn-agy/fivsevn-spec
 
-- Defines:
-  - frontmatter schema
-  - id rules
-  - graph structure
-
-- Module topology:
-  - /system/module-map.md
-
-- Axes are defined in module-map.md.
+Defines:
+- frontmatter schema
+- id rules
+- graph structure
 
 ---
-## 3. Public Presentation Streams
+## 3. Kernel Layer (System)
 
-- Main site: https://fivsevn.com
+In devlog:
+- /system/ai-boot-protocol.md
+- /system/module-map.md
+- /system/prompt-routing.md
 
-- Streams:
-  - https://fivsevn.com/posts
-  > Short-form temporal stream.
-
-  - https://fivsevn.com/foodie
-  > Visual stream.
-
-- Streams are presentation interfaces.
-- They are not canonical archives.
+This layer defines structure and routing rules.
+It is not domain content.
 
 ---
-## 4. Narrative Layer (Side System)
+## 4. Meta-Governance Layer (Blogops)
+
+Blogops module:
+- (public-facing) blogops pages / index
+- (content) blogops documents in devlog
+
+This layer documents:
+- structural adjustments
+- publishing strategy changes
+- system evolution log
+
+---
+## 5. Public Presentation Streams
+
+Streams are presentation interfaces, not canonical archives.
+
+- https://fivsevn.com/posts
+- https://fivsevn.com/foodie
+- https://fivsevn.com/natsci
+
+---
+## 6. Narrative Layer (Side System)
 
 - https://fivsevn.com/kiosk
 - https://fivsevn.com/kiosk/sys
 - https://fivsevn.com/kiosk/cctv
 - https://57dayshift.wordpress.com
 
-- Experimental narrative module.
-- Not part of knowledge axes.
+Experimental narrative module.
+Not part of Layer 1 content axes.
 
 ---
-## 5. Assets
+## 7. Assets
 
 - https://github.com/fivsevn/fivsevn-assets
 - https://cdn.jsdelivr.net/gh/fivsevn/fivsevn-assets/
 
-- Static-only.
-- No textual authority.
+Static-only. No textual authority.
 
 ---
-## 6. Internal Control Layer (Private)
+## 8. Internal Control Layer (Private)
 
 - https://github.com/fivsevn/fivsevn-internal
 
-- Contains:
-  - AI configs
-  - post-by-mail console
-  - rapid publishing workspace
-  - operational scripts
+Contains:
+- AI configs
+- post-by-mail console
+- rapid publishing workspace
+- operational scripts
 
-- Not publicly accessible.
-- Not part of semantic knowledge structure.
+Not publicly accessible.
 
 ---
-## 7. Contact
+## 9. Contact
 
 mail: fivsevn0507@outlook.com
-
-
