@@ -32,7 +32,7 @@ updated: 2026-03-01
 # posts — Module Map
 
 Purpose:
-Define structure of the Temporal axis.
+Define structure of the Temporal content axis.
 
 This module is organized by time.
 

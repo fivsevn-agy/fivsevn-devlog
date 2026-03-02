@@ -32,7 +32,7 @@ updated: 2026-03-01
 # netcom — Module Map
 
 Purpose:
-Define internal structure of the Communications & Engineering axis.
+Define internal structure of the Communications & Engineering content axis.
 
 This module is organized by systems and structural logic.
 
@@ -96,7 +96,7 @@ lora/
 netcom documents may:
 
 - Be announced in posts (temporal axis)
-- Be referenced in system (meta layer)
+- Be referenced in system (kernel layer)
 
 Structure remains engineering-driven.
 

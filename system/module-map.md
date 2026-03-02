@@ -12,8 +12,7 @@ canonical: true
 
 summary: >
   定义 fivsevn 知识系统的结构轴向。
-  包括 temporal、object、system、protocol 四条认知轴，
-  以及轴之间的交互规则与扩展条件。
+  包括分层结构模型，以及轴之间的交互规则与扩展条件。
 
 parents: []
 related: [system-ai-boot-protocol, system-prompt-routing]
