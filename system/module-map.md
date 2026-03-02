@@ -29,7 +29,7 @@ source_of_truth: devlog
 created: 2026-02-15
 updated: 2026-03-01
 ---
-# Module Map — Global Topology
+# Module Map - Global Topology
 
 - Purpose: Define structural axes of the fivsevn knowledge system.
 

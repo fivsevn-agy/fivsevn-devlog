@@ -95,13 +95,52 @@ updated: 2026-03-01
 - Do not read individual articles yet.
 
 ---
-## Step 3 - Load Module Topology
+## Step 3 - Load Structural Layers
+
+- Goal: Understand system layering before selecting module.
+> 目标：在进入模块前，先理解系统层级
+
+The fivsevn system is layered, not flat.
+
+---
+### Layer 1 — Cognitive Content Axes
+
+- These organize world-facing content.
+  - posts → temporal axis (time-oriented reflection)
+  - natsci → object-oriented cognition (taxonomic / biological focus)
+  - netcom → system-oriented cognition (engineering / protocol focus)
+
+> These are content domains.
+
+---
+### Layer 2 — Kernel / Protocol Layer
+
+- Defines structural rules of the system.
+  - system → boot protocol, topology, routing, metadata schema
+
+> This is not content.    
+> This defines how content is structured.
+
+---
+### Layer 3 — Meta-Governance Layer
+
+- Documents evolution of the system itself.
+  - blogops → structural adjustments, publishing strategy changes, system evolution log
+
+> This is not a knowledge axis.    
+> It operates above content.
+
+---
+> Do not treat all modules as parallel domains.
+
+---
+## Step 4 - Load Module Topology
 
 - Goal: Understand classification axes.
 > 目标：理解模块的分类逻辑
 
 - Read:
-  - [/system/module-map.md](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/system/module-map.md)
+  - [devlog/system/module-map.md](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/system/module-map.md)
   - Then module-level map.md files
 
 - Core axes:
@@ -109,10 +148,9 @@ updated: 2026-03-01
   - posts → temporal axis
   - natsci → taxonomic / object axis
   - netcom → system / engineering axis
-  - system → kernel & protocol layer
 
 ---
-## Step 4 - Classify Task Type
+## Step 5 - Classify Task Type
 
 - Goal: Determine cognitive axis before selecting module.
 > 目标：在进入模块前，先判断任务类型
@@ -121,19 +159,16 @@ updated: 2026-03-01
   - [/system/prompt-routing.md](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/system/prompt-routing.md)
 
 - Classify task as:
-  - Temporal
-  - Object
-  - Structural
-
-- Route accordingly:
   - Temporal → posts
   - Object → natsci
-  - Structural → netcom
+  - System / Engineering → netcom
+  - Kernel / Protocol → system
+  - Meta / Governance → blogops
 
-- Only after classification, proceed to Step 5.
+- Only after classification, proceed to module selection.
 
 ---
-## Step 5 - Select Module
+## Step 6 - Select Module
 
 - Goal: Choose domain context before reading documents.
 > 目标：先确定语境，再读正文
@@ -146,7 +181,7 @@ updated: 2026-03-01
 - Enter module directory.
 
 ---
-## Step 6 - Load Module Map
+## Step 7 - Load Module Map
 
 - Goal: Understand internal structure before reading content.
 > 目标：先理解子系统结构
@@ -157,7 +192,7 @@ updated: 2026-03-01
 - Only after that, open individual documents.
 
 ---
-## Step 7 — Interpret Articles via Frontmatter
+## Step 8 — Interpret Articles via Frontmatter
 
 - Goal: Use metadata as routing mechanism.
 > 目标：用元数据进行结构化理解
@@ -180,5 +215,3 @@ updated: 2026-03-01
   - Metadata interpretation rules are applied
 
 - Only then perform semantic analysis.
-
-
