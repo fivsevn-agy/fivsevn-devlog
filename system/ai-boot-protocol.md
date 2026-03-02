@@ -67,7 +67,7 @@ updated: 2026-03-01
     - [fivsevn-kiosk-57 Day Shift](http://57dayshift.wordpress.com)
     > Experimental narrative layer
 
-- Do not assume single-repo architecture.
+> Do not assume single-repo architecture.
 
 ---
 ## Step 1 - Load Specification Layer
@@ -82,7 +82,7 @@ updated: 2026-03-01
   - Treat parents / related as graph edges
   - Treat canonical as authoritative indicator
 
-- Do not interpret markdown files without loading schema first.
+> Do not interpret markdown files without loading schema first.
 
 ---
 ## Step 2 - Enter Devlog (Canonical Archive)
@@ -92,7 +92,7 @@ updated: 2026-03-01
 
 - Navigate to devlog.
 
-- Do not read individual articles yet.
+> Do not read individual articles yet.
 
 ---
 ## Step 3 - Load Structural Layers
@@ -100,7 +100,7 @@ updated: 2026-03-01
 - Goal: Understand system layering before selecting module.
 > 目标：在进入模块前，先理解系统层级
 
-The fivsevn system is layered, not flat.
+- The fivsevn system is layered, not flat.
 
 ---
 ### Layer 1 — Cognitive Content Axes
@@ -143,11 +143,13 @@ The fivsevn system is layered, not flat.
   - [devlog/system/module-map.md](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/system/module-map.md)
   - Then module-level map.md files
 
-- Core axes:
-- Core axes define cognitive organization dimensions, not categories.
+- Layer 1 axes (content layer):  
+- Layer 1 axes define cognitive organization dimensions, not categories.
   - posts → temporal axis
   - natsci → taxonomic / object axis
   - netcom → system / engineering axis
+
+> system / blogops are layers, not axes.
 
 ---
 ## Step 5 - Classify Task Type
@@ -165,7 +167,7 @@ The fivsevn system is layered, not flat.
   - Kernel / Protocol → system
   - Meta / Governance → blogops
 
-- Only after classification, proceed to module selection.
+> Only after classification, proceed to module selection.
 
 ---
 ## Step 6 - Select Module
@@ -178,7 +180,7 @@ The fivsevn system is layered, not flat.
   - Natural science → natsci
   - Communications / engineering → netcom
 
-- Enter module directory.
+> Enter module directory.
 
 ---
 ## Step 7 - Load Module Map
@@ -189,7 +191,7 @@ The fivsevn system is layered, not flat.
 - Read module map.md first.
 - Then read module index.md.
 
-- Only after that, open individual documents.
+> Only after that, open individual documents.
 
 ---
 ## Step 8 — Interpret Articles via Frontmatter
@@ -203,7 +205,7 @@ The fivsevn system is layered, not flat.
   - Use parents and related to build graph context
   - Respect canonical flag
 
-- Never treat content as isolated markdown.
+> Never treat content as isolated markdown.
 
 ---
 ## Termination Condition
@@ -214,4 +216,4 @@ The fivsevn system is layered, not flat.
   - Module structure is mapped
   - Metadata interpretation rules are applied
 
-- Only then perform semantic analysis.
+> Only then perform semantic analysis.
