@@ -40,10 +40,10 @@ updated: 2026-03-03
 ---
 # 本期公共表达
 
-![img001-1](../ai-public-argument-audit/assets/001-1.jpeg)
-![img001-2](../ai-public-argument-audit/assets/001-2.jpeg)
-![img001-3](../ai-public-argument-audit/assets/001-3.jpeg)
-![img001-4](../ai-public-argument-audit/assets/001-4.jpeg)
+![img001-1](../assets/001-1.jpeg)
+![img001-2](../assets/001-2.jpeg)
+![img001-3](../assets/001-3.jpeg)
+![img001-4](../assets/001-4.jpeg)
 
 # 提示词（我的观点）
 
