@@ -84,7 +84,7 @@ updated: 2026-03-01
 ---
 ## Columns 专栏
 
-- [公共表达的 AI 逻辑检测](/posts/ai-public-argument-audit/index.md)
+- [公共表达的 AI 逻辑检测](/posts/ai-public-argument-audit/README.md)
 
 ---
 ## contact
