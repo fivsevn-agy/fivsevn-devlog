@@ -50,6 +50,6 @@ updated: 2026-03-03
 
 ## Case List
 
-- [001｜词源谬误与“热爱不需要擅长”的论证失真](ai-public-argument-audit/001-amateur-etymology-fallacy.md)
+- [001｜词源谬误与“热爱不需要擅长”的论证失真](001-amateur-etymology-fallacy.md)
 
  
