@@ -82,6 +82,11 @@ updated: 2026-03-01
 - 2025.03.13 [波洛去埃及](https://fivsevn.home.blog/2025/03/13/%e6%b3%a2%e6%b4%9b%e5%8e%bb%e5%9f%83%e5%8f%8a/)
 
 ---
+## Columns 专栏
+
+- [公共表达的 AI 逻辑检测](/posts/ai-public-argument-audit/index.md)
+
+---
 ## contact
 
 - blog: [http://fivsevn.com](http://fivsevn.com)
