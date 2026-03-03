@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogops/map.md",
+                "file": "blogops/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "map"
+              "title": "index"
             }
           }
         ]
@@ -185,8 +185,11 @@
   },
   "active": "f9a55e8df1b5992d",
   "lastOpenFiles": [
-    "netcom/map.md",
+    "blogops/content/legacy-openinglog.md",
+    "blogops/content/blogops-cyber-estate-masterplan-001.md",
+    "blogops/index.md",
     "blogops/map.md",
+    "netcom/map.md",
     "natsci/map.md",
     "posts/map.md",
     "posts/index.md",
@@ -194,14 +197,11 @@
     "system/prompt-routing.md",
     "system/workspace.md",
     "system/ai-boot-protocol.md",
-    "blogops/content/blogops-cyber-estate-masterplan-001.md",
     "blogops/content/legacy-blogops-writing-and-deployment.md",
     "blogops/content/blogops-about-001.md",
     "natsci/taxonomy/insecta/coleoptera/natsci-inecta-coleoptera-carabus-blaptoides-index-001.md",
     "kiosk/README.md",
     "_tmpl_module-submodule-topic-001.md",
-    "blogops/content/legacy-openinglog.md",
-    "blogops/index.md",
     "index.md",
     "blogops/content/blogops-rolesystem-001.md",
     "netcom/protocol/netcom-protocol-overview-001.md",
