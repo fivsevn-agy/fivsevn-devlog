@@ -54,7 +54,7 @@ The fivsevn system is multi-repository and **layered**.
 ### Public interfaces
 - Main site: https://fivsevn.com
 - Streams: https://fivsevn.com/posts, https://fivsevn.com/foodie, https://fivsevn.com/natsci
-- Narrative interfaces (kiosk side-system): https://fivsevn.com/kiosk and related pages
+- Narrative interfaces (57store side-system): https://fivsevn.com/57store and related pages
 
 Do not assume single-repo architecture.
 
@@ -112,9 +112,9 @@ Streams are presentation interfaces, not canonical archives.
 ---
 ## 6. Narrative Layer (Side System)
 
-- https://fivsevn.com/kiosk
-- https://fivsevn.com/kiosk/sys
-- https://fivsevn.com/kiosk/cctv
+- https://fivsevn.com/57store
+- https://fivsevn.com/57store/sys
+- https://fivsevn.com/57store/cctv
 - https://57dayshift.wordpress.com
 
 Experimental narrative module.
