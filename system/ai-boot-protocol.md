@@ -59,12 +59,12 @@ updated: 2026-03-01
       > Short-form stream (fast publish layer)
   - [fivsevn.com/foodie](https://fivsevn.com/foodie)
       > Visual stream (image-dominant feed)
-  - fivsevn-kiosk layer
+  - 57store layer
     > Narrative Interfaces:
-    - [fivsevn-kiosk](http://fivsevn.com/kiosk)
-    - [fivsevn-kiosk-sys](http://fivsevn.com/kiosk/sys)
-    - [fivsevn-kiosk-cctv](http://fivsevn.com/kiosk/cctv)
-    - [fivsevn-kiosk-57 Day Shift](http://57dayshift.wordpress.com)
+    - [fivsevn-57store](http://fivsevn.com/57store)
+    - [fivsevn-57store-sys](http://fivsevn.com/57store/sys)
+    - [fivsevn-57store-cctv](http://fivsevn.com/57store/cctv)
+    - [fivsevn-57store-57 Day Shift](http://57dayshift.wordpress.com)
     > Experimental narrative layer
 
 > Do not assume single-repo architecture.
