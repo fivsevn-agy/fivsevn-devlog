@@ -1,10 +1,11 @@
 ---
-id: posts-ai-commentary-and-discourse-analysis-index
+id: posts-commentary-and-discourse-ai
+-analysis-index
 
 title: AI解析公共评论和讨论
 
 module: posts
-submodule: ai-commentary-and-discourse-analysis
+submodule: commentary-and-discourse-ai-analysis
 topic: index
 
 type: index
