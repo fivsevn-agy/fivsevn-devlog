@@ -1,11 +1,10 @@
 ---
-id: posts-commentary-and-discourse-ai
--analysis-index
+id: posts-ai-discourse-analysis-index
 
 title: AI解析公共评论和讨论
 
 module: posts
-submodule: commentary-and-discourse-ai-analysis
+submodule: ai-discourse-analysis
 topic: index
 
 type: index
@@ -38,8 +37,8 @@ source_of_truth: posts
 created: 2026-03-03
 updated: 2026-03-03
 ---
-# Commentary & Discourse · AI Analysis
-# AI解析公共评论和讨论
+# AI Discourse Analysis
+# AI话语分析
 
 - 本栏目记录所有由 AI 辅助完成的论证结构拆解。
 
