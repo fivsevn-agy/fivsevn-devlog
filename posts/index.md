@@ -84,7 +84,7 @@ updated: 2026-03-01
 ---
 ## Columns 专栏
 
-- [AI解析公共评论和讨论](commentary-and-discourse-ai-analysis/index.md)
+- [AI话语分析](ai-discourse-analysis/index.md)
 
 ---
 ## contact
