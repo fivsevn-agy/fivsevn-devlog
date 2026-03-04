@@ -38,7 +38,7 @@ source_of_truth: posts
 created: 2026-03-03
 updated: 2026-03-03
 ---
-# 本期公共表达
+# 本期材料
 
 ![img001-1](../assets/001-1.jpeg)
 ![img001-2](../assets/001-2.jpeg)
