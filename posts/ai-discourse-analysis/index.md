@@ -63,4 +63,4 @@ updated: 2026-03-03
 
 - [001｜词源谬误与“热爱不需要擅长”的论证失真](content/001-amateur-etymology-fallacy.md)
 
- 
+- [002｜AI 生成文本与沟通责任问题](content/002-chatbot-etiquette.md)
