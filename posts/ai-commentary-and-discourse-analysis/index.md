@@ -1,10 +1,10 @@
 ---
-id: posts-ai-public-argument-audit-index
+id: posts-ai-commentary-and-discourse-analysis-index
 
-title: 公共表达的 AI 逻辑检测
+title: AI解析公共评论和讨论
 
 module: posts
-submodule: ai-public-argument-audit
+submodule: ai-commentary-and-discourse-analysis
 topic: index
 
 type: index
@@ -12,7 +12,7 @@ status: active
 canonical: true
 
 summary: >
-  收录所有由AI辅助完成的公共表达结构拆解文章，
+  收录所有由AI辅助完成的公共评论和讨论的结构拆解文章，
   聚焦情绪型论证、叙事误导与逻辑失真问题。
 
 parents: []
@@ -37,7 +37,8 @@ source_of_truth: posts
 created: 2026-03-03
 updated: 2026-03-03
 ---
-# 公共表达的 AI 逻辑检测
+# Commentary & Discourse · AI Analysis
+# AI解析公共评论和讨论
 
 - 本栏目记录所有由 AI 辅助完成的论证结构拆解。
 
@@ -46,7 +47,7 @@ updated: 2026-03-03
   - 拆解常见叙事策略
   - 归档典型论证漏洞样本
 
-> 本板块聚焦日常所见的各类公众表达。
+> 本板块聚焦日常所见的各类公共评论和讨论。
 > 
 > 不做事实核查，不追溯来源，仅基于画面或片段本身进行结构分析。
 > 目标并非评判真假，也不只是针对特定观点进行反驳。核心用途是借助 AI 拆解表达中的逻辑结构，生成可能的论证路径，逐步积累更完整的分析框架。  
