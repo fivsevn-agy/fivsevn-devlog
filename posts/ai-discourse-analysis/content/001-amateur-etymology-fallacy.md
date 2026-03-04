@@ -1,10 +1,10 @@
 ---
-id: posts-ai-public-argument-audit-001
+id: posts-ai-discourse-analysis-001
 
 title: 001｜词源谬误与“热爱不需要擅长”的论证失真
 
 module: posts
-submodule: ai-public-argument-audit
+submodule: ai-discourse-analysis
 topic: amateur-etymology-fallacy
 
 type: article
