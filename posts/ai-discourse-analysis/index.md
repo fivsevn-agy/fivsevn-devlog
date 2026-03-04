@@ -1,7 +1,7 @@
 ---
 id: posts-ai-discourse-analysis-index
 
-title: AI解析公共评论和讨论
+title: AI话语分析
 
 module: posts
 submodule: ai-discourse-analysis
