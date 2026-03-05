@@ -63,8 +63,13 @@ They are temporal entries,
 not structural containers.
 
 ---
+## 3. Columnization
 
-## 3. Interaction With Other Axes
+posts may contain thematic columns (submodules) for operational grouping.
+Columns do not constitute new content axes; they remain within the temporal axis.
+
+---
+## 4. Interaction With Other Axes
 
 A post may:
 
@@ -80,7 +85,7 @@ They record thinking over time.
 
 ---
 
-## 4. Stability Rule
+## 5. Stability Rule
 
 posts grow through:
 
