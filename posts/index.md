@@ -15,6 +15,9 @@ summary: >
   作为时间轴入口，存放历史文章、慢速发布内容与草稿。
   与前端短内容流形成时间维度双轨结构。
 
+columns:
+  - ai-discourse-analysis
+
 parents: []
 related: [system-module-map]
 tags: [posts, temporal-axis, archive, reflection]
