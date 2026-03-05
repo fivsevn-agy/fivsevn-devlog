@@ -121,7 +121,7 @@ updated: 2026-03-02
 > Narrative Layer 不属于知识主轴，是允许试错的地块，不会自动进入 Canonical 区。
 
 - 对应页面：
-  - https://fivsevn.com/kiosk 及其子页面
+  - https://fivsevn.com/57store 及其子页面
   - https://57dayshift.wordpress.com
 
 - 功能：
