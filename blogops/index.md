@@ -29,12 +29,14 @@ source_of_truth: devlog
 created: 2025-03-29
 updated: 2026-03-01
 ---
-# fivsevn-blogops
+# devlog.fivsevn.com/blogops
 
 - 【[五月七日的思考札记](http://fivsevn.com)】后台日志
 
 ---
 ## Directory
+
+- 2025.03.08 🎉 devlog.fivsevn.com
 
 - 2025.03.03 ☝️ [五月七日赛博地产总规划说明！](content/blogops-cyber-estate-masterplan-001.md)，解说我目前内容的构成。
 
