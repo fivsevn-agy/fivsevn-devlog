@@ -38,6 +38,9 @@ blogops is not a knowledge axis.
 
 It records system evolution.
 
+blogops may reference any repository
+or interface surface within the fivsevn system.
+
 ---
 
 ## 1. Structural Nature

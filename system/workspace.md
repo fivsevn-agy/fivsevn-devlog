@@ -11,10 +11,9 @@ status: active
 canonical: false
 
 summary: >
-  AI 结构级入口文件。
-  提供系统多仓库拓扑概览，
-  指向 boot protocol 与 spec 层，
-  用于高层导航而非初始化流程。
+  AI orientation entry for the fivsevn system.
+  Provides repository topology and public interface overview.
+  This file is a navigation layer, not a boot protocol.
 
 parents: [system-ai-boot-protocol]
 related: [system-module-map]
@@ -23,125 +22,261 @@ tags: [workspace, ai-entry, navigation]
 audience: collaborator
 languages: en
 maturity: evolving
-confidence: 0.92
+confidence: 0.94
 visibility: public
 source_of_truth: devlog
 
 created: 2026-02-20
-updated: 2026-03-01
+updated: 2026-03-08
 ---
+
 # fivsevn Workspace (AI Entry)
 
 Purpose:
-High-level orientation entry for AI. This is **not** a boot protocol.
 
-Boot sequence is defined in:
-- [/system/ai-boot-protocol.md](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/system/ai-boot-protocol.md)
+High-level orientation entry for AI.
 
----
-## 0. System Overview
+This file provides a **system overview and navigation map**.
 
-The fivsevn system is multi-repository and **layered**.
+It is **not** responsible for initialization.
 
-### Core repositories / layers
-- Canonical archive (devlog): long-form structured content base
-- Structural specification (spec): schema & writing rules
-- Kernel layer (system): boot / topology / routing / structural rules
-- Meta-governance layer (blogops): evolution log & methodology notes
-- Static assets (assets): images/icons, no textual authority
-- Internal control layer (internal): operational scripts (private)
+Initialization logic is defined in:
 
-### Public interfaces
-- Main site: https://fivsevn.com
-- Streams: https://fivsevn.com/posts, https://fivsevn.com/foodie, https://fivsevn.com/natsci
-- Narrative interfaces (57store side-system): https://fivsevn.com/57store and related pages
-
-Do not assume single-repo architecture.
+- /system/ai-boot-protocol.md
 
 ---
-## 1. Canonical Archive (Authoritative Content)
+
+# 0. System Overview
+
+The fivsevn system is:
+
+- multi-repository
+- multi-interface
+- structurally layered
+
+It consists of:
+
+- a **primary blog system**
+- optional **parallel subsystems**
+
+---
+
+# 1. Core Repositories
+
+### Canonical Archive
 
 Repository:
-- https://github.com/fivsevn-agy/fivsevn-devlog
 
-This is the long-form structured content base.
+https://github.com/fivsevn-agy/fivsevn-devlog
+
+Purpose:
+
+Primary long-form structured content archive.
+
+Contains:
+
+- posts
+- natsci
+- netcom
+- system
+- blogops
 
 ---
-## 2. Structural Definition Layer (Spec)
 
-Spec repository:
-- https://github.com/fivsevn-agy/fivsevn-spec
+### Structural Specification
+
+Repository:
+
+https://github.com/fivsevn-agy/fivsevn-spec
 
 Defines:
+
 - frontmatter schema
 - id rules
-- graph structure
+- structural conventions
 
 ---
-## 3. Kernel Layer (System)
 
-In devlog:
-- /system/ai-boot-protocol.md
-- /system/module-map.md
-- /system/prompt-routing.md
+### 57store Subsystem Repository
 
-This layer defines structure and routing rules.
-It is not domain content.
+Repository:
 
----
-## 4. Meta-Governance Layer (Blogops)
+https://github.com/fivsevn/fivsevn-57store
 
-Blogops module:
-- (public-facing) blogops pages / index
-- (content) blogops documents in devlog
+Contains:
 
-This layer documents:
-- structural adjustments
-- publishing strategy changes
-- system evolution log
+- interactive HTML pages
+- mini-games
+- experimental interfaces
+- UI experiments
+- narrative subsystem assets
 
 ---
-## 5. Public Presentation Streams
 
-Streams are presentation interfaces, not canonical archives.
+### Static Assets
+
+Repository:
+
+https://github.com/fivsevn/fivsevn-assets
+
+CDN:
+
+https://cdn.jsdelivr.net/gh/fivsevn/fivsevn-assets/
+
+Purpose:
+
+Images and static resources.
+
+No textual authority.
+
+---
+
+### Internal Control Layer (Private)
+
+Repository:
+
+https://github.com/fivsevn/fivsevn-internal
+
+Contains:
+
+- AI configuration
+- post-by-mail console
+- rapid publishing workspace
+- operational scripts
+
+Not public.
+
+---
+
+# 2. Public Interfaces
+
+The system exposes multiple public interfaces.
+
+---
+
+## Blog System
+
+Main presentation surface:
+
+https://fivsevn.com
+
+Repository-backed archive interface:
+
+https://devlog.fivsevn.com
+
+Presentation streams:
 
 - https://fivsevn.com/posts
 - https://fivsevn.com/foodie
 - https://fivsevn.com/natsci
 
----
-## 6. Narrative Layer (Side System)
+Important principle:
+```
+fivsevn.com  
++  
+devlog.fivsevn.com  
+```
+represent **two surfaces of the same blog system**.
 
-- https://fivsevn.com/57store
+---
+
+## 57store Subsystem
+
+Interactive narrative / experimental subsystem.
+
+Possible interfaces include:
+
+Main-site interface:
+
+https://fivsevn.com/57store
+
+Interface pages:
+
 - https://fivsevn.com/57store/sys
 - https://fivsevn.com/57store/cctv
-- https://57dayshift.wordpress.com
 
-Experimental narrative module.
-Not part of Layer 1 content axes.
+Repository-backed interface:
 
----
-## 7. Assets
+https://57store.fivsevn.com
 
-- https://github.com/fivsevn/fivsevn-assets
-- https://cdn.jsdelivr.net/gh/fivsevn/fivsevn-assets/
+Auxiliary narrative node:
 
-Static-only. No textual authority.
+https://57dayshift.wordpress.com
 
----
-## 8. Internal Control Layer (Private)
+Important:
 
-- https://github.com/fivsevn/fivsevn-internal
+57store is **not part of the blog content axes**.
 
-Contains:
-- AI configs
-- post-by-mail console
-- rapid publishing workspace
-- operational scripts
-
-Not publicly accessible.
+It operates as a **parallel subsystem**.
 
 ---
-## 9. Contact
 
-mail: fivsevn0507@outlook.com
+# 3. Structural Layers
+
+Defined in:
+
+/system/module-map.md
+
+Layer summary:
+
+Layer 1 — Cognitive Content
+
+- posts
+- natsci
+- netcom
+
+Layer 2 — Kernel
+
+- system
+
+Layer 3 — Meta Governance
+
+- blogops
+
+Parallel subsystem:
+
+- 57store
+
+---
+
+# 4. Kernel Documents
+
+System structure is defined by three kernel documents:
+
+Boot protocol:
+
+/system/ai-boot-protocol.md
+
+Topology definition:
+
+/system/module-map.md
+
+Task routing:
+
+/system/prompt-routing.md
+
+These files define system structure and interpretation rules.
+
+---
+
+# 5. Assets
+
+Static assets repository:
+
+https://github.com/fivsevn/fivsevn-assets
+
+CDN:
+
+https://cdn.jsdelivr.net/gh/fivsevn/fivsevn-assets/
+
+Images and icons only.
+
+No content authority.
+
+---
+
+# 6. Contact
+
+mail:
+
+fivsevn0507@outlook.com
