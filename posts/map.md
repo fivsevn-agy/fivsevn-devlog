@@ -83,6 +83,10 @@ posts do not define domain structure.
 
 They record thinking over time.
 
+posts may also reference subsystem elements
+(e.g. 57store experiments or interfaces)
+when documenting development or reflections.
+
 ---
 
 ## 5. Stability Rule
