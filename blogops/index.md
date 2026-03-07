@@ -29,7 +29,7 @@ source_of_truth: devlog
 created: 2025-03-29
 updated: 2026-03-01
 ---
-# devlog.fivsevn.com/blogops
+# fivsevn-blogops
 
 - 【[五月七日的思考札记](http://fivsevn.com)】后台日志
 

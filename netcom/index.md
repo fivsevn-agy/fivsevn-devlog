@@ -29,7 +29,7 @@ source_of_truth: devlog
 created: 2025-11-16
 updated: 2026-03-01
 ---
-# devlog.fivsevn.com/netcom 
+# fivsevn-netcom 
 
 - 2026.02.27 最近在装潢博客，看《飞出个未来》，过阵子再学！
   
