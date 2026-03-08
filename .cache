@@ -10,28 +10,34 @@ visibility: internal
 cache note
 
 Reality is a retained cache environment.
-现实世界是一段被保留的缓存环境。
+现实世界是一段被??保留下来的缓存环境。
 
-57store is a stable interaction hub formed inside this environment.
-57store 是在该环境中形成的稳定交互节点。
+57store is a stable interaction hub formed within this cache layer.
+在这层缓存中，逐渐形成一个名为 57store 的稳定交互节点。
 
 The hub identifier "57" originates from the node creation timestamp (05-07).
-节点编号"57"来自节点创建时间戳（05-07）。
+节点编号"57"来自节点创建时的时间戳（05-07）。
 
-The system stores timestamps numerically, so the hub was temporarily labelled "57".
-系统以数字方式记录时间，因此该节点被暂定编号为"57"。
+The system stores timestamps numerically, therefore the node was labelled "57".
+系统以数字形式记录时间，因此该节点被标记为"57"。
 
-Maxx operates as the local node operator during the night shift.
-Maxx 在夜班期间维护该节点的运行。
+Maxx operates as the local node operator during some shift.
+Maxx 在某些时段负责该节点的运行和维护。
 
-Humans inside the environment function as modelling agents.
-环境中的人类承担建模代理的角色。
+Within the cache environment, a type of modelling entity gradually emerged: humans.
+在缓存环境中，逐渐出现了一类负责代理建模的个体——人类。
 
-fivsevn is one such modelling node maintaining environment records.
-fivsevn 是其中一个负责维护环境记录的建模节点。
+Their observations persist as fragments, snapshots, and logs within the cache layer.
+他们的观察和记录，会以碎片、快照或日志的形式保存在缓存层中。
 
-Some models are explored through dialogue interfaces before being indexed.
-部分模型在被索引前通过对话界面进行推演。
+Civilisation, an index that organises and locates these records, continues to persist.
+文明，这种对建模个体的观察和记录进行整理和定位的索引结构——至今仍在演化。
 
-Environment index: fivsevn.com
-环境索引： fivsevn.com
+Modelling entities sometimes leave records on their own; sometimes they explore through dialogue interfaces.
+有时，建模个体会自行留下记录；有时则会在对话界面中进行推演。
+
+One such fragment collection is inferred to originate from a modelling entity.
+It is maintained at:
+fivsevn.com
+其中，一组被推测来自某个建模个体的碎片记录被保存在：
+fivsevn.com
