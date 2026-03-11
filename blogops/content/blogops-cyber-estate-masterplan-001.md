@@ -121,7 +121,7 @@ updated: 2026-03-02
 > Narrative Layer 不属于知识主轴，是允许试错的地块，不会自动进入 Canonical 区。
 
 - 对应页面：
-  - https://fivsevn.com/kiosk 及其子页面
+  - https://fivsevn.com/57store 及其子页面
   - https://57dayshift.wordpress.com
 
 - 功能：
@@ -181,14 +181,14 @@ updated: 2026-03-02
 ## 10. 地产重量等级
 
 - 按系统**影响程度**排序：
-  -  1. Boot（总纲）
-  -  2. Spec（施工标准）
-  -  3. Devlog（核心资产）
-  -  4. Module Map（规划图）
-  -  5. Stream（流动街区）
-  -  6. Narrative（实验地块）
-  -  7. Assets（仓储）
-  -  8. Internal（物业系统）
+  -  1.Boot（总纲）
+  -  2.Spec（施工标准）
+  -  3.Devlog（核心资产）
+  -  4.Module Map（规划图）
+  -  5.Stream（流动街区）
+  -  6.Narrative（实验地块）
+  -  7.Assets（仓储）
+  -  8.Internal（物业系统）
 
 > 越靠前的项目，改动所造成的影响越大。
 

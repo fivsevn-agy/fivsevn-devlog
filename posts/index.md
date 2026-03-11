@@ -15,6 +15,9 @@ summary: >
   作为时间轴入口，存放历史文章、慢速发布内容与草稿。
   与前端短内容流形成时间维度双轨结构。
 
+columns:
+  - ai-discourse-analysis
+
 parents: []
 related: [system-module-map]
 tags: [posts, temporal-axis, archive, reflection]
@@ -82,9 +85,9 @@ updated: 2026-03-01
 - 2025.03.13 [波洛去埃及](https://fivsevn.home.blog/2025/03/13/%e6%b3%a2%e6%b4%9b%e5%8e%bb%e5%9f%83%e5%8f%8a/)
 
 ---
-## Columns 专栏
+## Section 专栏
 
-- [公共表达的 AI 逻辑检测](ai-public-argument-audit/index.md)
+- [AI话语分析](ai-discourse-analysis/index.md)
 
 ---
 ## contact
