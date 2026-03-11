@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogops/index.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "README"
             }
           }
         ]
@@ -185,14 +185,17 @@
   },
   "active": "f9a55e8df1b5992d",
   "lastOpenFiles": [
-    "blogops/content/legacy-openinglog.md",
-    "blogops/content/blogops-cyber-estate-masterplan-001.md",
+    "posts/index.md",
+    "netcom/index.md",
+    "natsci/index.md",
     "blogops/index.md",
+    "README.md",
     "blogops/map.md",
     "netcom/map.md",
+    "blogops/content/legacy-openinglog.md",
+    "blogops/content/blogops-cyber-estate-masterplan-001.md",
     "natsci/map.md",
     "posts/map.md",
-    "posts/index.md",
     "system/module-map.md",
     "system/prompt-routing.md",
     "system/workspace.md",
@@ -205,12 +208,9 @@
     "index.md",
     "blogops/content/blogops-rolesystem-001.md",
     "netcom/protocol/netcom-protocol-overview-001.md",
-    "netcom/index.md",
     "netcom/lora/netcom-lora-radio-metrics-001.md",
     "netcom/lora/netcom-lora-meshtastic-history-001.md",
     "netcom/lora/netcom-lora-meshtastic-device-inventory-001.md",
-    "netcom/lora/netcom-lora-modulation-overview-001.md",
-    "netcom/lora/netcom-lora-meshtastic-structure-001.md",
     "netcom/assets/20251119mesh.png",
     "kiosk",
     "untitled folder",

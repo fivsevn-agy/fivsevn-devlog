@@ -27,7 +27,7 @@ visibility: public
 source_of_truth: devlog
 
 created: 2025-03-23
-updated: 2026-03-01
+updated: 2026-03-08
 ---
 # fivsevn-natsci
 
@@ -35,7 +35,7 @@ updated: 2026-03-01
 
 - ⬆️ 这是养小虫用的保温泡沫塑料箱。
 
-- [这里](https://fivsevn-agy.github.io/fivsevn-devlog/natsci/)是有关自然科学的学习笔记。
+- [这里](https://devlog.fivsevn.com/natsci/)是有关自然科学的学习笔记。
 
 - 照片、截图和比较简短的内容[在那里](https://fivsevn.com/natsci/)。
 
