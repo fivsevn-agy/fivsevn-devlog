@@ -53,10 +53,10 @@ updated: 2026-03-13
 ---
 ### 大分类可以记一下拉丁名
 
--  chondrichthyes 软骨鱼纲
-    - holocephali 全头类
-    - selachii 鲨类 / 鲨总群
-    - batoidea 鳐类 / 鳐总群 
+-  ⬆️chondrichthyes 软骨鱼纲
+    - ➡️holocephali 全头类
+    - ➡️selachii 鲨类 / 鲨总群
+    - ➡️batoidea 鳐类 / 鳐总群 
 
 ---
 ### 接下来进入到目级，可以用下面这个识别用的示意图。
