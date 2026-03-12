@@ -1,3 +1,47 @@
+---
+id: natsci-taxonomy-chondrichthyes-orders-001
+
+title: 软骨鱼纲到目级的分类梳理
+
+module: natsci
+submodule: taxonomy
+topic: chondrichthyes-orders
+
+type: note
+status: active
+canonical: true
+
+summary: >
+  梳理软骨鱼纲（Chondrichthyes）到目级的基本分类结构，
+  并记录 FAO《Sharks of the World》及相关识别图的来源，
+  作为后续鲨鱼与鳐类笔记的基础框架。
+
+parents: [
+  natsci-taxonomy-index
+]
+
+related: []
+
+tags: [
+  chondrichthyes,
+  sharks,
+  batoidea,
+  taxonomy,
+  fao
+]
+
+audience: [self]
+languages: [zh]
+
+maturity: evolving
+confidence: 0.80
+
+visibility: public
+source_of_truth: devlog
+
+created: 2026-03-13
+updated: 2026-03-13
+---
 ## 软骨鱼纲目级为止的梳理
 
 ```
