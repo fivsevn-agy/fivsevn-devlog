@@ -20,9 +20,10 @@
 ## 🪲 natsci
 
 - [有关自然科学的学习笔记](https://devlog.fivsevn.com/natsci)
-  - Updated: 2026.02.20
+  - Updated: 2026.03.13
 
-> 正在学习整理有关昆虫分类的知识。
+> 正在整理有关软骨鱼纲的一些资料。  
+> 还想把鲨鱼牙齿的有关资料好好理一下。  
 
 ---
 ## 📟 netcom
@@ -30,7 +31,7 @@
 - [有关通讯技术的学习笔记](https://devlog.fivsevn.com/netcom)
   - Updated: 2025.12.16
 
-> 最近主要围绕meshtastic和电台。还有数学补习。
+> 最近想试一试树莓派。
 
 ---
 ## blogops
