@@ -11,7 +11,7 @@
 ---
 ## 🖋️ posts
 
-- [个人笔记](https:/devlog.fivsevn.com/posts/)
+- [个人笔记](https://devlog.fivsevn.com/posts/)
   - Updated: 2026.02.28
 
 > 阅读笔记等。
@@ -27,7 +27,7 @@
 ---
 ## 📟 netcom
 
-- [有关通讯技术的学习笔记](https:/devlog.fivsevn.com/netcom/)
+- [有关通讯技术的学习笔记](https:///devlog.fivsevn.com/netcom/)
   - Updated: 2025.12.16
 
 > 最近主要围绕meshtastic和电台。还有数学补习。
@@ -35,7 +35,7 @@
 ---
 ## blogops
 
-- [后台日志](https:/devlog.fivsevn.com/blogops/)
+- [后台日志](https://devlog.fivsevn.com/blogops/)
   - Updated: 2026.03.01
 
 ---
