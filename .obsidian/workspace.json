@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f9a55e8df1b5992d",
+            "id": "eccc5dd44e4c5ad4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "natsci/taxonomy/chondrichthyes/软骨鱼纲目级为止的梳理.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "软骨鱼纲目级为止的梳理"
             }
           }
         ]
@@ -183,18 +183,25 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "f9a55e8df1b5992d",
+  "active": "eccc5dd44e4c5ad4",
   "lastOpenFiles": [
+    "natsci/taxonomy/chondrichthyes/index.md",
+    "natsci/taxonomy/insecta/coleoptera/index.md",
+    "natsci/taxonomy/chondrichthyes/软骨鱼纲目级为止的梳理.md",
+    "natsci/assets/index.md",
+    "natsci/assets",
+    "natsci/taxonomy/index.md",
+    "natsci/taxonomy/chondrichthyes",
+    "natsci/map.md",
+    "README.md",
     "posts/index.md",
     "netcom/index.md",
     "natsci/index.md",
     "blogops/index.md",
-    "README.md",
     "blogops/map.md",
     "netcom/map.md",
     "blogops/content/legacy-openinglog.md",
     "blogops/content/blogops-cyber-estate-masterplan-001.md",
-    "natsci/map.md",
     "posts/map.md",
     "system/module-map.md",
     "system/prompt-routing.md",
@@ -205,12 +212,7 @@
     "natsci/taxonomy/insecta/coleoptera/natsci-inecta-coleoptera-carabus-blaptoides-index-001.md",
     "kiosk/README.md",
     "_tmpl_module-submodule-topic-001.md",
-    "index.md",
     "blogops/content/blogops-rolesystem-001.md",
-    "netcom/protocol/netcom-protocol-overview-001.md",
-    "netcom/lora/netcom-lora-radio-metrics-001.md",
-    "netcom/lora/netcom-lora-meshtastic-history-001.md",
-    "netcom/lora/netcom-lora-meshtastic-device-inventory-001.md",
     "netcom/assets/20251119mesh.png",
     "kiosk",
     "untitled folder",
@@ -221,8 +223,6 @@
     "netcom/lora/meshtastic",
     "netcom/lora/untitled folder",
     "netcom/methods",
-    "natsci/ethnobiology/ethnoentomology",
-    "natsci/ethnobiology",
     "netcom/assets/20251118mcu.png"
   ]
 }
