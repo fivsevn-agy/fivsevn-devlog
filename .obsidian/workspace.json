@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "natsci/taxonomy/chondrichthyes/软骨鱼纲目级为止的梳理.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -185,10 +185,13 @@
   },
   "active": "eccc5dd44e4c5ad4",
   "lastOpenFiles": [
+    "netcom/architecture/netcom-architecture-fourlayermodel-001.md",
+    "netcom/ai/netcom-ai-model-evaluation-basics-001.md",
+    "natsci/taxonomy/chondrichthyes/软骨鱼纲目级为止的梳理.md",
+    "natsci/taxonomy/insecta/coleoptera/natsci-inecta-coleoptera-carabus-blaptoides-index-001.md",
     "natsci/assets/20260313sharklikefishes.png",
     "natsci/taxonomy/chondrichthyes/index.md",
     "natsci/taxonomy/insecta/coleoptera/index.md",
-    "natsci/taxonomy/chondrichthyes/软骨鱼纲目级为止的梳理.md",
     "natsci/assets/index.md",
     "natsci/assets",
     "natsci/taxonomy/index.md",
@@ -210,9 +213,7 @@
     "system/ai-boot-protocol.md",
     "blogops/content/legacy-blogops-writing-and-deployment.md",
     "blogops/content/blogops-about-001.md",
-    "natsci/taxonomy/insecta/coleoptera/natsci-inecta-coleoptera-carabus-blaptoides-index-001.md",
     "kiosk/README.md",
-    "_tmpl_module-submodule-topic-001.md",
     "netcom/assets/20251119mesh.png",
     "kiosk",
     "untitled folder",
