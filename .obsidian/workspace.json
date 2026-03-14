@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eccc5dd44e4c5ad4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "natsci/index.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
             "id": "dda31f6b1cf652b9",
             "type": "leaf",
             "state": {
@@ -35,8 +21,7 @@
               "title": "index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,9 +185,9 @@
   },
   "active": "dda31f6b1cf652b9",
   "lastOpenFiles": [
-    "natsci/taxonomy/chondrichthyes/natsci-marine-ecology-sharks-rays-001.md",
     "README.md",
     "now/index.md",
+    "natsci/taxonomy/chondrichthyes/natsci-marine-ecology-sharks-rays-001.md",
     "natsci/index.md",
     "now",
     "natsci/map.md",
