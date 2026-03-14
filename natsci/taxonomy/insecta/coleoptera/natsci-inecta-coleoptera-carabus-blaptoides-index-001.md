@@ -18,7 +18,7 @@ related: [natsci-coleoptera-carabus-blaptoides-retrieval-001]
 
 tags: [carabus, taxonomy, subspecies, japan]
 
-audience: [self, public]
+audience: [public]
 languages: [zh, jp]
 
 maturity: evolving
