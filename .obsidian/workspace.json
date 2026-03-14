@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "dda31f6b1cf652b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "now/index.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,12 +198,14 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "eccc5dd44e4c5ad4",
+  "active": "dda31f6b1cf652b9",
   "lastOpenFiles": [
+    "README.md",
+    "now/index.md",
+    "natsci/index.md",
+    "now",
     "natsci/map.md",
     "natsci/taxonomy/index.md",
-    "natsci/index.md",
-    "README.md",
     "_tmpl_module-submodule-topic-001.md",
     "natsci/taxonomy/chondrichthyes/natsci-taxonomy-chondrichthyes-orders-001.md",
     "netcom/architecture/netcom-architecture-fourlayermodel-001.md",
@@ -213,7 +230,6 @@
     "system/prompt-routing.md",
     "system/workspace.md",
     "system/ai-boot-protocol.md",
-    "blogops/content/legacy-blogops-writing-and-deployment.md",
     "netcom/assets/20251119mesh.png",
     "kiosk",
     "untitled folder",
@@ -223,7 +239,6 @@
     "netcom/architecture",
     "netcom/lora/meshtastic",
     "netcom/lora/untitled folder",
-    "netcom/methods",
     "netcom/assets/20251118mcu.png"
   ]
 }
