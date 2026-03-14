@@ -14,24 +14,17 @@
 - [个人笔记](https://devlog.fivsevn.com/posts)
   - Updated: 2026.02.28
 
-> 阅读笔记等。
-
 --- 
 ## 🪲 natsci
 
 - [有关自然科学的学习笔记](https://devlog.fivsevn.com/natsci)
   - Updated: 2026.03.13
 
-> 正在整理有关软骨鱼纲的一些资料。  
-> 还想把鲨鱼牙齿的有关资料好好理一下。  
-
 ---
 ## 📟 netcom
 
 - [有关通讯技术的学习笔记](https://devlog.fivsevn.com/netcom)
   - Updated: 2025.12.16
-
-> 最近想试一试树莓派。
 
 ---
 ## blogops
@@ -44,8 +37,6 @@
 
 - [个人写作规范仓库](https://github.com/fivsevn-agy/fivsevn-spec)
   - Updated: 2026.03.01
-
-> `/source`（信息来源）待整理补充。
 
 ---
 ## Contact
