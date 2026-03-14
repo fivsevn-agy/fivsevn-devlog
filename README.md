@@ -24,19 +24,19 @@
 ## 📟 netcom
 
 - [有关通讯技术的学习笔记](https://devlog.fivsevn.com/netcom)
-  - Updated: 2025.12.16
+  - Updated: 2025.03.12
 
 ---
 ## blogops
 
 - [后台日志](https://devlog.fivsevn.com/blogops)
-  - Updated: 2026.03.01
+  - Updated: 2026.03.08
 
 ---
 ## spec
 
 - [个人写作规范仓库](https://github.com/fivsevn-agy/fivsevn-spec)
-  - Updated: 2026.03.01
+  - Updated: 2026.03.14
 
 ---
 ## Contact
