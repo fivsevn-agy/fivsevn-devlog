@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "natsci/taxonomy/chondrichthyes/natsci-taxonomy-chondrichthyes-orders-001.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "natsci-taxonomy-chondrichthyes-orders-001"
+              "title": "README"
             }
           }
         ]
@@ -185,9 +185,10 @@
   },
   "active": "eccc5dd44e4c5ad4",
   "lastOpenFiles": [
+    "_tmpl_module-submodule-topic-001.md",
+    "natsci/taxonomy/chondrichthyes/natsci-taxonomy-chondrichthyes-orders-001.md",
     "netcom/architecture/netcom-architecture-fourlayermodel-001.md",
     "natsci/taxonomy/chondrichthyes/软骨鱼纲目级为止的梳理.md",
-    "natsci/taxonomy/chondrichthyes/natsci-taxonomy-chondrichthyes-orders-001.md",
     "netcom/ai/netcom-ai-model-evaluation-basics-001.md",
     "natsci/taxonomy/insecta/coleoptera/natsci-inecta-coleoptera-carabus-blaptoides-index-001.md",
     "natsci/assets/20260313sharklikefishes.png",
@@ -213,7 +214,6 @@
     "system/workspace.md",
     "system/ai-boot-protocol.md",
     "blogops/content/legacy-blogops-writing-and-deployment.md",
-    "blogops/content/blogops-about-001.md",
     "netcom/assets/20251119mesh.png",
     "kiosk",
     "untitled folder",
