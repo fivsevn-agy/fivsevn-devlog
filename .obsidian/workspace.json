@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "natsci/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "index"
             }
           }
         ]
@@ -185,6 +185,10 @@
   },
   "active": "eccc5dd44e4c5ad4",
   "lastOpenFiles": [
+    "natsci/map.md",
+    "natsci/taxonomy/index.md",
+    "natsci/index.md",
+    "README.md",
     "_tmpl_module-submodule-topic-001.md",
     "natsci/taxonomy/chondrichthyes/natsci-taxonomy-chondrichthyes-orders-001.md",
     "netcom/architecture/netcom-architecture-fourlayermodel-001.md",
@@ -196,13 +200,9 @@
     "natsci/taxonomy/insecta/coleoptera/index.md",
     "natsci/assets/index.md",
     "natsci/assets",
-    "natsci/taxonomy/index.md",
     "natsci/taxonomy/chondrichthyes",
-    "natsci/map.md",
-    "README.md",
     "posts/index.md",
     "netcom/index.md",
-    "natsci/index.md",
     "blogops/index.md",
     "blogops/map.md",
     "netcom/map.md",
