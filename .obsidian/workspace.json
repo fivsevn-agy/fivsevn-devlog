@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "now/index.md",
+                "file": "blogops/index.md",
                 "mode": "source",
                 "source": true
               },
@@ -185,8 +185,8 @@
   },
   "active": "dda31f6b1cf652b9",
   "lastOpenFiles": [
-    "README.md",
     "now/index.md",
+    "README.md",
     "natsci/taxonomy/chondrichthyes/natsci-marine-ecology-sharks-rays-001.md",
     "natsci/index.md",
     "now",
