@@ -36,6 +36,8 @@ updated: 2026-03-08
 ---
 ## Directory
 
+- 2025.03.15 ✌️加入了[/now page](https://nownownow.com/p/kUDQ)
+
 - 2025.03.08 🎉 devlog.fivsevn.com
 
 - 2025.03.03 ☝️ [五月七日赛博地产总规划说明！](content/blogops-cyber-estate-masterplan-001.md)，解说我目前内容的构成。
