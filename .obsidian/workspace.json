@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "natsci/taxonomy/index.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "README"
             }
           }
         ]
@@ -185,9 +185,9 @@
   },
   "active": "dda31f6b1cf652b9",
   "lastOpenFiles": [
+    "natsci/taxonomy/index.md",
     "natsci/taxonomy/insecta/虫数据库.md",
     "natsci/taxonomy/insecta/natsci-taxonomy-insecta-database-001.md",
-    "natsci/taxonomy/index.md",
     "natsci/taxonomy/insecta/蜘蛛数据库.md",
     "natsci/taxonomy/insecta/natsci-entomology-arota-festae-001.md",
     "blogops/map.md",
