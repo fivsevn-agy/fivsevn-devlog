@@ -39,9 +39,9 @@ source_of_truth: devlog
 created: 2026-03-17
 updated: 2026-03-17
 ---
-## 虫数据库
+## 昆虫数据库索引
 
-> 按照`species tag`X`region tag`X`source tag`，也就是`物种`X`区域`X`数据库来源`的三类 tag 组合来整理资料。
+> 按照 `species tag`X`region tag`X`source tag` ，也就是 `物种`X`区域`X`数据库来源` 的三类 tag 组合来整理资料。
 
 - A. `species tag` 按物种：
     - `eukaryota` 生物
