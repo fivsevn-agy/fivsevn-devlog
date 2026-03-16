@@ -44,6 +44,8 @@ updated: 2026-03-13
 
 > 更新中......
 
+- 2026.03.17 [昆虫及相关类群数据库索引页](taxonomy/insecta/natsci-taxonomy-insecta-database-001.md) 随时更新中
+
 - 2026.03.14 [ai译：澳大利亚被纳入全球鲨鱼与鳐类数据库](taxonomy/chondrichthyes/natsci-marine-ecology-sharks-rays-001.md)
 
 - 2026.03.14 [ai译：粉色螽斯模拟延迟变绿](taxonomy/insecta/natsci-entomology-arota-festae-001.md)
