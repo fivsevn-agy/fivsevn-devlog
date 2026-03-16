@@ -8,7 +8,7 @@
 > 长文、结构化的内容  
 > 会存放暂未转入正文结构的草稿
 
-- [now page](/now/index.md)
+- 近况速报: [/now page](/now/index.md)
 
 ---
 ## 🖋️ posts
@@ -34,6 +34,13 @@
 ## spec
 
 - [个人写作规范仓库](https://github.com/fivsevn-agy/fivsevn-spec)
+
+---
+## 我的博客也加入了这些站点✨
+
+- [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)
+ 
+- [/now page](https://nownownow.com)的[中文组](https://nownownow.com/CN)部分
 
 ---
 ## Contact
