@@ -8,35 +8,32 @@
 > 长文、结构化的内容  
 > 会存放暂未转入正文结构的草稿
 
+- [now page](/now/index.md)
+
 ---
 ## 🖋️ posts
 
 - [个人笔记](https://devlog.fivsevn.com/posts)
-  - Updated: 2026.02.28
 
 --- 
 ## 🪲 natsci
 
 - [有关自然科学的学习笔记](https://devlog.fivsevn.com/natsci)
-  - Updated: 2026.03.13
 
 ---
 ## 📟 netcom
 
 - [有关通讯技术的学习笔记](https://devlog.fivsevn.com/netcom)
-  - Updated: 2025.03.12
 
 ---
 ## blogops
 
 - [后台日志](https://devlog.fivsevn.com/blogops)
-  - Updated: 2026.03.08
 
 ---
 ## spec
 
 - [个人写作规范仓库](https://github.com/fivsevn-agy/fivsevn-spec)
-  - Updated: 2026.03.14
 
 ---
 ## Contact
