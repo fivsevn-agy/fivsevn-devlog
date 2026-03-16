@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogops/index.md",
-                "mode": "source",
+                "file": "natsci/taxonomy/insecta/虫数据库.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "虫数据库"
             }
           }
         ]
@@ -185,13 +185,18 @@
   },
   "active": "dda31f6b1cf652b9",
   "lastOpenFiles": [
+    "natsci/taxonomy/index.md",
+    "natsci/taxonomy/insecta/蜘蛛数据库.md",
+    "natsci/taxonomy/insecta/虫数据库.md",
+    "natsci/taxonomy/insecta/natsci-entomology-arota-festae-001.md",
+    "blogops/map.md",
+    "blogops/index.md",
     "now/index.md",
     "README.md",
     "natsci/taxonomy/chondrichthyes/natsci-marine-ecology-sharks-rays-001.md",
     "natsci/index.md",
     "now",
     "natsci/map.md",
-    "natsci/taxonomy/index.md",
     "_tmpl_module-submodule-topic-001.md",
     "natsci/taxonomy/chondrichthyes/natsci-taxonomy-chondrichthyes-orders-001.md",
     "netcom/architecture/netcom-architecture-fourlayermodel-001.md",
@@ -206,15 +211,10 @@
     "natsci/taxonomy/chondrichthyes",
     "posts/index.md",
     "netcom/index.md",
-    "blogops/index.md",
-    "blogops/map.md",
     "netcom/map.md",
     "blogops/content/legacy-openinglog.md",
     "blogops/content/blogops-cyber-estate-masterplan-001.md",
     "posts/map.md",
-    "system/module-map.md",
-    "system/prompt-routing.md",
-    "system/workspace.md",
     "netcom/assets/20251119mesh.png",
     "kiosk",
     "untitled folder",
