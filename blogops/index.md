@@ -36,6 +36,8 @@ updated: 2026-03-08
 ---
 ## Directory
 
+- 2025.03.17 ✌️加入了[中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)
+
 - 2025.03.15 ✌️加入了[/now page](https://nownownow.com/p/kUDQ)
 
 - 2025.03.08 🎉 devlog.fivsevn.com
