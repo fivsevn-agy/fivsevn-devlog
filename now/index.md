@@ -6,14 +6,23 @@
 - 本站索引 
   - 视觉入口: [fivsevn.com](https://fivsevn.com)
   - 内容仓库: [devlog.fivsevn.com](https://devlog.fivsevn.com)
- 
+
+---
+## 🫧 still here
+
+  - Updated: 2026.05.28
+
+> Not much to say. Still here.  
+> 近来无话，尚在途中。
+
 ---
 ## 🖋️ posts
 
 - [个人笔记](https://devlog.fivsevn.com/posts)
   - Updated: 2026.02.28
 
-> 最近更新了专栏【AI 话语分析】。试验中。
+> 最近更新了专栏【AI 话语分析】。试验中。  
+> 最近主要在[博客主页](https://fivsevn.com/post)更新。
 
 --- 
 ## 🪲 natsci
@@ -21,7 +30,7 @@
 - [有关自然科学的学习笔记](https://devlog.fivsevn.com/natsci)
   - Updated: 2026.03.17
 
-> 昆虫数据库索引更新了。会持续更新。
+> 昆虫数据库索引更新了。会持续更新。  
 > 正在整理有关软骨鱼纲的一些资料。  
 
 ---
