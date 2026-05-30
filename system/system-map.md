@@ -763,4 +763,4 @@ For blank AI collaborators:
 
 Mail:
 
-- `fivsevn0507@outlook.com`
+- `fivsevn57@outlook.com`
