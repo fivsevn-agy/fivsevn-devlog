@@ -67,5 +67,5 @@ updated: 2026-03-13
 
 - blog: [http://fivsevn.com](http://fivsevn.com)
    
-- mail: [fivsevn0507@outlook.com](mailto:fivsevn0507@outlook.com)
+- mail: [fivsevn57@outlook.com](mailto:fivsevn57@outlook.com)
 
