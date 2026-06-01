@@ -27,7 +27,7 @@ visibility: public
 source_of_truth: devlog
 
 created: 2026-05-23
-updated: 2026-05-23
+updated: 2026-06-02
 ---
 
 # System Map — fivsevn AI Orientation and Topology
@@ -244,6 +244,7 @@ Presentation streams:
 - `https://fivsevn.com/foodie`
 - `https://fivsevn.com/natsci`
 - `https://fivsevn.com/stills`
+- `https://fivsevn.com/motion`
 
 Interpretation:
 
@@ -290,7 +291,39 @@ Boundary:
 
 ---
 
-## 2.3 57store Interfaces
+## 2.3 Motion
+
+Motion is a main-site moving-image / video presentation surface.
+
+Interface:
+
+- `https://fivsevn.com/motion`
+
+Role:
+
+- curated motion-image presentation
+- video / moving-frame archive surface
+- visual entry for clips, sequences, and motion studies
+
+Operational model:
+
+```text
+fivsevn-assets or external media source → motion asset source
+WordPress page → visual presentation
+fivsevn.com/motion → public interface
+```
+
+Boundary:
+
+- Motion belongs to the primary blog public interface.
+- Motion is not a canonical text axis in `fivsevn-devlog`.
+- Motion is not part of the 57store subsystem.
+- Motion is not a generic media library.
+- Motion should not be conflated with Stills; Stills is still-image presentation, Motion is moving-image presentation.
+
+---
+
+## 2.4 57store Interfaces
 
 57store is an interactive narrative / experimental subsystem.
 
@@ -325,7 +358,8 @@ fivsevn system
 │  │  └─ netcom
 │  │
 │  ├─ presentation surfaces
-│  │  └─ stills
+│  │  ├─ stills
+│  │  └─ motion
 │  │
 │  └─ meta-governance
 │     └─ blogops
@@ -442,9 +476,10 @@ Responsibilities:
 
 Public-facing pages that present content or assets without becoming canonical text axes.
 
-Current presentation surface:
+Current presentation surfaces:
 
 - `stills`
+- `motion`
 
 Rule:
 
@@ -603,7 +638,32 @@ Rules:
 
 ---
 
-## 5.7 Route to 57store
+## 5.7 Route to motion
+
+If the task involves:
+
+- `fivsevn.com/motion`
+- motion-image feature layout
+- video / moving-frame presentation
+- clip archive presentation
+- WordPress-edited motion page
+- moving-image assets or embedded media
+
+Route to:
+
+- `main blog presentation surface: motion`
+
+Rules:
+
+- Use the relevant asset/media source for motion/static resource questions.
+- Treat WordPress as the page presentation layer.
+- Route to `posts` only if the task explicitly asks for a canonical textual post.
+- Never route Motion to 57store.
+- Never conflate Motion with Stills.
+
+---
+
+## 5.8 Route to 57store
 
 If the task involves:
 
@@ -638,6 +698,7 @@ Example:
 
 ```text
 stills → presentation surface
+motion → presentation surface
 not → cognitive content axis
 ```
 
@@ -667,6 +728,7 @@ Example:
 ```text
 57store/sys → 57store subsystem
 stills → main blog presentation surface
+motion → main blog presentation surface
 ```
 
 ---
@@ -719,10 +781,11 @@ Pattern:
 asset/content source + public presentation layer → presentation surface
 ```
 
-Current example:
+Current examples:
 
 ```text
 fivsevn-assets + WordPress page → stills
+motion asset source + WordPress page → motion
 ```
 
 ---
@@ -753,9 +816,10 @@ For blank AI collaborators:
 3. Treat `fivsevn-spec` as the structural schema/specification source.
 4. Treat `fivsevn-assets` as static and visual asset storage, not textual authority.
 5. Treat `/stills/` as a WordPress-presented photography feature using assets from `fivsevn-assets`.
-6. Treat 57store as a parallel subsystem, not part of the primary blog content axes.
-7. Do not infer repository structure from public page appearance alone.
-8. Do not classify visual feature pages as canonical modules unless explicit structure says so.
+6. Treat `/motion/` as a WordPress-presented moving-image feature using its relevant asset or media source.
+7. Treat 57store as a parallel subsystem, not part of the primary blog content axes.
+8. Do not infer repository structure from public page appearance alone.
+9. Do not classify visual or motion feature pages as canonical modules unless explicit structure says so.
 
 ---
 
