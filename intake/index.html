@@ -1,20 +1,272 @@
-# Today’s Arrival
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Today’s Arrival</title>
+  <style>
+    :root {
+      --bg: #0f1115;
+      --panel: #171a21;
+      --text: #e8e8e8;
+      --muted: #9ca3af;
+      --border: #2a2f3a;
+      --link: #8ab4ff;
+      --site-green: #6becae;
+    }
 
-本日入荷
+    * {
+      box-sizing: border-box;
+    }
 
-Courier on duty / 投递员：
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+      line-height: 1.6;
+    }
 
-GitHub Actions
+    main {
+      width: min(980px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 36px 0 80px;
+    }
 
-Shift opened / 到店时间：
+    header {
+      padding-bottom: 24px;
+      margin-bottom: 32px;
+      border-bottom: 1px solid var(--border);
+    }
 
-2026-06-03 22:52 UTC
+    h1 {
+      margin: 0 0 8px;
+      font-size: clamp(2rem, 5vw, 3rem);
+      letter-spacing: -0.04em;
+      line-height: 1.1;
+    }
 
-On the shelf / 本日上架：
+    .title-zh {
+      margin: 0 0 28px;
+      color: var(--text);
+      font-size: 1.15rem;
+      font-weight: 500;
+    }
 
-[postcard / 明信片](#postcard--明信片) · [Daily Field Sample / 今日野采样本](#daily-field-sample--今日野采样本) · [society / 社会](#society) · [ideas / 思想](#ideas) · [science / 科学](#science) · [arts / 艺术](#arts)
+    .kicker {
+      margin: 18px 0 2px;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
 
-<section id="daily-postcard" class="postcard-mail">
+    .kicker-value {
+      margin: 0 0 8px;
+      color: var(--text);
+      font-size: 1.05rem;
+      font-weight: 650;
+    }
+
+    nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 12px;
+    }
+
+    nav a {
+      color: var(--site-green);
+      text-decoration: none;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      padding: 5px 12px;
+      font-size: 0.9rem;
+    }
+
+    nav a:hover {
+      border-color: var(--site-green);
+    }
+
+    section {
+      margin: 42px 0;
+    }
+
+    h2 {
+      margin: 0 0 2px;
+      padding-bottom: 8px;
+      border-bottom: 1px solid var(--border);
+      font-size: 1.4rem;
+    }
+
+    .section-title-zh {
+      margin: -2px 0 6px;
+      color: var(--text);
+      font-size: 1rem;
+      font-weight: 500;
+    }
+
+    .section-description,
+    .section-description-zh {
+      color: var(--muted);
+      margin: 0;
+    }
+
+    .section-description-zh {
+      margin-top: 4px;
+      margin-bottom: 18px;
+    }
+
+    .article,
+    .daily-field-sample,
+    .postcard-mail {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 16px;
+      margin: 14px 0;
+    }
+
+    .postcard-mail {
+      padding: 18px;
+    }
+
+    .postcard-header {
+      margin: 0 0 20px;
+      color: var(--muted);
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      font-size: 0.95rem;
+      line-height: 1.55;
+      white-space: normal;
+    }
+
+    .postcard-header div {
+      margin: 0;
+    }
+
+    .postcard-header strong {
+      color: var(--muted);
+      font-weight: 800;
+    }
+
+    .postcard-header a {
+      color: var(--muted);
+      text-decoration: underline;
+      text-underline-offset: 2px;
+    }
+
+    .postcard-label {
+      margin: 0 0 10px;
+      color: var(--muted);
+      font-weight: 650;
+    }
+
+    .postcard-image-link {
+      display: block;
+      width: fit-content;
+      max-width: 100%;
+    }
+
+    .postcard-image {
+      display: block;
+      max-width: 100%;
+      max-height: 620px;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      object-fit: contain;
+    }
+
+    .postcard-original {
+      margin: 8px 0 0;
+      color: var(--muted);
+      font-size: 0.78rem;
+      word-break: break-all;
+    }
+
+    .postcard-original a {
+      color: var(--muted);
+      text-decoration: underline;
+      text-underline-offset: 2px;
+    }
+
+    .daily-field-sample h2 {
+      margin-bottom: 18px;
+    }
+
+    .daily-field-sample p {
+      margin: 0 0 18px;
+    }
+
+    .daily-field-sample a {
+      color: var(--site-green);
+    }
+
+    .article h3 {
+      margin: 0 0 8px;
+      font-size: 1.05rem;
+      line-height: 1.4;
+    }
+
+    .article h3 a {
+      color: var(--text);
+      text-decoration: none;
+    }
+
+    .article h3 a:hover {
+      color: var(--link);
+    }
+
+    .meta {
+      color: var(--muted);
+      font-size: 0.86rem;
+      margin-bottom: 8px;
+    }
+
+    .summary {
+      color: #c9ced6;
+      font-size: 0.95rem;
+      margin: 0;
+    }
+
+    .empty {
+      color: var(--muted);
+    }
+
+    footer {
+      margin-top: 48px;
+      padding-top: 20px;
+      border-top: 1px solid var(--border);
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+
+    code {
+      color: var(--text);
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <h1>Today’s Arrival</h1>
+      <p class="title-zh">本日入荷</p>
+
+      <p class="kicker">Courier on duty / 投递员：</p>
+      <p class="kicker-value">GitHub Actions</p>
+
+      <p class="kicker">Shift opened / 到店时间：</p>
+      <p class="kicker-value">2026-06-03 23:03 UTC</p>
+
+      <p class="kicker">On the shelf / 本日上架：</p>
+      <nav>
+        <a href="#daily-postcard">postcard / 明信片</a>
+<a href="#daily-field-sample">Daily Field Sample / 今日野采样本</a>
+<a href="#society">society / 社会</a>
+<a href="#ideas">ideas / 思想</a>
+<a href="#science">science / 科学</a>
+<a href="#arts">arts / 艺术</a>
+      </nav>
+    </header>
+
+    <section id="daily-postcard" class="postcard-mail">
   <div class="postcard-header">
     <div><strong>From:</strong> Wikimedia Commons &lt;picture-of-the-day@commons.wikimedia.org&gt;</div>
     <div><strong>To:</strong> fivsevn &lt;intake@<a href="https://devlog.fivsevn.com/" target="_blank" rel="noopener noreferrer">devlog.fivsevn.com</a>&gt;</div>
@@ -28,13 +280,12 @@ On the shelf / 本日上架：
   </a>
   <p class="postcard-original">Original: <a href="https://commons.wikimedia.org/wiki/File:Illuminated_wooden_shelf_with_many_glass_jars_containing_cookies_for_sale_in_Tokyo.jpg" target="_blank" rel="noopener noreferrer">https://commons.wikimedia.org/wiki/File:Illuminated_wooden_shelf_with_many_glass_jars_containing_cookies_for_sale_in_Tokyo.jpg</a></p>
 </section>
-
 <section id="daily-field-sample" class="daily-field-sample">
   <h2>Daily Field Sample / 今日野采样本</h2>
 
   <p>
     <strong>Scientific name / 学名:</strong><br>
-    <em>Lepidiota philippinica (Burmeister, 1855)</em>
+    <em>Onthophagus sulcipennis Orbigny, 1902</em>
   </p>
 
   <p>
@@ -44,353 +295,287 @@ On the shelf / 本日上架：
 
   <p>
     <strong>Source / 来源:</strong><br>
-    <a href="https://www.gbif.org/species/1064896" target="_blank" rel="noopener noreferrer">GBIF</a>
+    <a href="https://www.gbif.org/species/1091638" target="_blank" rel="noopener noreferrer">GBIF</a>
   </p>
 
   <p>
     <strong>Search / 搜索:</strong><br>
-    <a href="https://www.google.com/search?q=Lepidiota+philippinica+%28Burmeister%2C+1855%29" target="_blank" rel="noopener noreferrer">Google</a> · <a href="https://www.catalogueoflife.org/data/search?q=Lepidiota+philippinica+%28Burmeister%2C+1855%29" target="_blank" rel="noopener noreferrer">COL</a>
+    <a href="https://www.google.com/search?q=Onthophagus+sulcipennis+Orbigny%2C+1902" target="_blank" rel="noopener noreferrer">Google</a> · <a href="https://www.catalogueoflife.org/data/search?q=Onthophagus+sulcipennis+Orbigny%2C+1902" target="_blank" rel="noopener noreferrer">COL</a>
   </p>
 </section>
-
-## society
-
-
-社会
-
-Public life, institutions, world affairs, and social change.
-
-公共生活、制度、世界事务与社会变化。
-
-### [Australia politics live: PM says ‘unwarranted’ tariffs announced by US on Australia came without warning; parliament to vote on tax changes](https://www.theguardian.com/australia-news/live/2026/jun/04/australia-politics-live-capital-gains-tax-property-prices-economy-budget-jim-chalmers-anthony-albanese-angus-taylor-pauline-hanson-senate-estimates-question-time-ntwnfb)
-
-The Guardian World · 2026-06-03 22:40 UTC
-
-Prime minister says there is ‘an ideological disagreement’ with the United States. Follow today’s news live Get our breaking news email , free app or daily news podcast Jim Chalmers ’ budget bill will face debate and a vote in the House today, and he poses the legislation as a “really simple choice” for the Coalition. As we know, the government has set up the bill as a wedge for the opposition, by including both tax changes to CGT and negative gearing and tax cuts for workers. Really simple choice in the parliament today: Labor lower taxes on workers, a fair go for first home buyers. The Coalition opposing both of those things. Yet another beat-up about the sensible, commonsense tax reforms at the core of the budget. Not unusual, as I said, for definitions to be settled this way, and the parliament can disallow them if they want. Continue reading...
-### [US House passes war powers resolution to curb Trump’s authority in Iran](https://www.theguardian.com/us-news/2026/jun/03/house-passes-war-power-resolution-trump-iran)
-
-The Guardian World · 2026-06-03 22:38 UTC
-
-Stunning rebuke to president as lawmakers vote 215-208 for measure forcing him to seek congressional approval The US House of Representatives delivered a stunning rebuke to Donald Trump over his war on Iran on Wednesday, as representatives backed a move to force him to seek approval from Congress or withdraw US forces. The House voted 215 to 208 in favor of the war powers resolution, as four Republicans voted with Democrats. The dissident Republicans were Thomas Massie of Kentucky, Brian Fitzpatrick of Pennsylvania, Warren Davidson of Ohio and Tom Barrett of Michigan. Continue reading...
-### [US House votes to halt Iran war, in rebuke to Trump](https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&amp;at_campaign=rss)
-
-BBC World · 2026-06-03 22:37 UTC
-
-In the 215-208 vote, four Republicans joined Democrats to pass the measure, which had failed in three previous attempts.
-### [Mitch McConnell statement suggests he considers Bill Pulte unfit for national intelligence director role – US politics live](https://www.theguardian.com/us-news/live/2026/jun/03/us-midterm-primaries-politics-donald-trump-california-governor-latest-news-updates)
-
-The Guardian World · 2026-06-03 22:34 UTC
-
-Republican senator does not name Trump pick but points to importance of eligibility requirements, which Pulte is widely considered to be lacking Sign up for the Breaking News US email Iowa voters cast their ballots in yesterday’s heated primaries, setting up for months of fervent campaigning ahead of the November midterms in contests that could determine the balance of power in Congress. A red state that the GOP has dominated for the past decade, Democrats believe they can be competitive in three of its four House races, its Senate election, and the contest to replace Kim Reynolds, the retiring Republican governor. Continue reading...
-### [Companies that sold gender-reveal fireworks which ignited California wildfire agree to $4m settlement](https://www.theguardian.com/us-news/2026/jun/03/gender-reveal-fireworks-california-wildfire-settlement)
-
-The Guardian World · 2026-06-03 22:23 UTC
-
-El Dorado blaze that burned 22,744 acres and claimed the life of a firefighter was ignited by an illegal device Sign up for the Breaking News US newsletter email Nearly six years after a couple’s gender-reveal stunt sparked a deadly wildfire in southern California , the companies that sold the pyrotechnic device have agreed to a multimillion-dollar settlement. The Hubbard, Ohio-based Wholesale Fireworks Corp and its subsidiary American Fireworks Wholesale LLC have agreed to pay more than $4m, the US attorney’s office in the central district of California announced on Tuesday. A third company, the Miami-based Pink or Blue Gender Team Inc, agreed to pay $50,000. Continue reading...
-### [Middle East crisis live: US House rebukes Trump over Iran war; Tehran claims it struck American military ship in Gulf of Oman](https://www.theguardian.com/world/live/2026/jun/03/us-israel-iran-war-lebanon-trump-khamenei-netanyahu-hormuz-latest-news-updates)
-
-The Guardian World · 2026-06-03 22:03 UTC
-
-House of Representatives passes war powers resolution curbing president’s authority; US military denies Iranian claim it targeted ship approaching Iran waters The Kuwaiti defence ministry said it intercepted 13 ballistic missiles and 17 drones launched by Iran today. A drone and missile attack on Kuwait’s international airport killed one person, which Kuwaiti authorities identified as an Indian national. It is the first reported death in a Gulf state since the US and Iran agreed to a ceasefire in April. Continue reading...
-### [Grab what you can while you can: The  new reality in the South China Sea](https://www.bbc.com/news/articles/cy823n3ln29o?at_medium=RSS&amp;at_campaign=rss)
-
-BBC World · 2026-06-03 22:00 UTC
-
-After years of watching China create land to back its expansive claims, others are doing the same.
-### [House passes war powers resolution directing Trump to end hostilities with Iran](https://www.npr.org/2026/06/03/nx-s1-5845102/house-iran-war-powers-vote)
-
-NPR News · 2026-06-03 21:49 UTC
-
-The vote marked a rare bipartisan rebuke of the war, but is mostly symbolic. Democrats have been unable to pass a war powers resolution in the Senate, and even if they could it would likely be vetoed.
-### [Senate Republicans start debate on ICE funding package](https://www.npr.org/2026/06/03/g-s1-125779/senate-republicans-start-debate-on-ice-funding-package)
-
-NPR News · 2026-06-03 21:42 UTC
-
-The Senate voted along party lines to start debate on a Republican bill to fund immigration enforcement through the end of President Trump&#x27;s term.
-### [Chinese spies use LinkedIn to target UK officials and military staff](https://www.theguardian.com/uk-news/2026/jun/03/chinese-spies-linkedin-uk-officials)
-
-The Guardian World · 2026-06-03 21:21 UTC
-
-Advertisements for non-existent jobs aim to draw in people with access to classified or sensitive information Chinese spies are targeting UK government and military staff on job websites including LinkedIn to try to get access to classified or sensitive information, MI5 has warned. A bulletin has been released by the Five Eyes powers – the UK, US, Australia, Canada and New Zealand – highlighting an “aggressive” online recruitment strategy where spies for Beijing military intelligence pose as workers acting on behalf of private businesses or thinktanks. Security clearance holders, especially those who specialise in defence, foreign affairs and security and intelligence. Military personnel, including those stationed in the Indo-Pacific region, who have knowledge of regional capabilities and general activities. People with either indirect or peripheral access to government information, including academics, journalists, freelance writers, thinktank employees or anyone with links to the defence, security, policy and economic sectors. Continue reading...
-### [Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border](https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&amp;at_campaign=rss)
-
-BBC World · 2026-06-03 21:19 UTC
-
-The incidents strain a partial ceasefire agreed by Israel and the Lebanese armed group on Monday.
-### [Police chief warns anti-white bias claims could drive UK policing ‘back to 60s’](https://www.theguardian.com/uk-news/2026/jun/03/police-chief-warns-anti-white-bias-claims-could-drive-uk-policing-back-to-60s)
-
-The Guardian World · 2026-06-03 21:09 UTC
-
-Senior police figures are pushing back against politicians they accuse of stoking tensions over Henry Nowak’s murder Policing could be driven back to the 1960s by false claims officers are biased against white people, the leader of Britain’s black officers has said. Ch Insp Andy George, president of the National Black Police Association, spoke out amid growing concerns that politicians such as Nigel Farage were stoking tensions around the murder of teenager Henry Nowak by making baseless and provocative claims. Continue reading...
-### [Senate Republicans drop plans for $1bn to fund security at Trump’s ballroom](https://www.theguardian.com/us-news/2026/jun/03/white-house-ballroom-funding-republicans)
-
-The Guardian World · 2026-06-03 20:39 UTC
-
-Fears that push for ballroom spending could jeopardize $70bn funding for immigration enforcement Senate Republicans on Wednesday formally dropped their attempt to spend $1bn on security improvements for Donald Trump’s White House ballroom, as it became clear the president’s demand for the money could jeopardize long-term funding for immigration enforcement. The Senate judiciary committee had last month included funding for security improvements related to the new ballroom in a broader measure that would authorize $70bn in spending for agencies involved in Trump’s mass deportation campaign through the duration of his term. Continue reading...
-### [Trump signs order to make it easier to fire 8,000 highly paid federal workers](https://www.theguardian.com/us-news/2026/jun/03/trump-order-federal-workers)
-
-The Guardian World · 2026-06-03 20:35 UTC
-
-Order strips job protections from workers earning up to about $200,000 a year and deemed to be ‘influencing’ policy Donald Trump has signed an executive order making it easier to fire thousands of the best-paid workers in the US government aspart of a broader drive by his administration to overhaul the federal workforce. The order, released by the White House and the office of personnel management (OPM) on Wednesday, strips job protections from a mostly senior group of federal workers – about 8,000 employees – earning up to almost $200,000 a year , and who are deemed to be “influencing” government policy. Continue reading...
-### [&#x27;Crazy&#x27; phone call between Trump and Netanyahu complicates Iran talks](https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&amp;at_campaign=rss)
-
-BBC World · 2026-06-03 20:28 UTC
-
-Israel&#x27;s PM laughed off reports of friction, but he has tested the patience of other US presidents.
-
-## ideas
-
-
-思想
-
-Philosophy, essays, intellectual history, and reflective long-form reading.
-
-哲学、随笔、思想史与反思性长文。
-
-### [Einstein and the Eagle: How Relativity Is Saving Earth’s Rarest Raptor](https://www.themarginalian.org/2026/06/03/harpy-eagle-gps/)
-
-The Marginalian · 2026-06-03 21:41 UTC
-
-At the hazy dawn of the twentieth century, through the byways of mental meandering and mathematical play, Albert Einstein arrived at a revelation about the nature of the universe while working as a clerk at the Swiss patent office &amp;#8212; a new relationship between space and time, the warp and weft of a single fabric that hammocks energy and matter into the lucid dream of reality. It took years for Arthur Eddington&amp;#8217;s dramatic eclipse expedition to confirm Einstein&amp;#8217;s theory by watching light bend along the curvature of spacetime against the screen of totality rather than follow the straight lines Newton&amp;#8230;&amp;#160; read&amp;#160;article
-### [The Three Elements of the Good Life](https://www.themarginalian.org/2026/06/03/carl-rogers-good-life/)
-
-The Marginalian · 2026-06-03 04:52 UTC
-
-To be a true person is to be entirely oneself in every circumstance, with all the courage and vulnerability this requires. And yet because a person is a confederacy of parts often at odds and sometimes at war with each other, being true is not a pledge to be a paragon of cohesion, predictable and perfectly self-consistent &amp;#8212; the impossibility of that is the price of our complex consciousness &amp;#8212; but a promise to own every part of yourself, even those that challenge your preferred self-image and falsify the story you tell yourself about who you are. There is a&amp;#8230;&amp;#160; read&amp;#160;article
-### [An Introvert’s Field Guide to Friendship: Thoreau on the Challenges and Rewards of Candid Connection](https://www.themarginalian.org/2026/06/02/thoreau-friendship/)
-
-The Marginalian · 2026-06-03 02:03 UTC
-
-&quot;We only need to be as true to others as we are to ourselves that there may be ground enough for friendship.&quot;
-### [Václav Havel, Writing from Prison, on How to Hold Your Failure](https://www.themarginalian.org/2026/06/02/havel-failure/)
-
-The Marginalian · 2026-06-02 18:48 UTC
-
-Few things in life are more devastating than to give something your all and still fail. Not the &amp;#8220;fail better&amp;#8221; of startup culture, not the &amp;#8220;fail forward&amp;#8221; of self-help, not the failure that is childhood&amp;#8217;s fulcrum of learning, not the inspired mistakes that propel creative risk, but simply that helpless and harrowing moment when you face the abyss between your will and your powers, your values and your choices, your ideal self and your real self. It is without redemption, such failure. But it need not be without reward. Admitting failure, especially moral failure, is hard enough &amp;#8212; to others,&amp;#8230;&amp;#160; read&amp;#160;article
-### [The Only Three Distinctions Between People](https://www.themarginalian.org/2026/06/01/nathaniel-hawthorne-classification/)
-
-The Marginalian · 2026-06-02 02:09 UTC
-
-It may be that consciousness evolved to sieve the relevant from the incomprehensible allness of all there is, to parse the world into concepts and find an organizing principle for the chaos of them. Our cognitive inheritance is a restless yearning to fathom how things cohere and where they belong, a yearning we have given shape to in laws and labels, weights and balances, hierarchies and categories. It has served us well, this instinct to categorize in order to contain, giving us music, the laws of planetary motion, and democracy. But it also pulsates beneath every ism we have ever&amp;#8230;&amp;#160; read&amp;#160;article
-### [Against Self-Criticism: Adam Phillips on How Our Internal Critics Enslave Us, the Stockholm Syndrome of the Superego, and the Power of Multiple Interpretations](https://www.themarginalian.org/2026/06/01/against-self-criticism-adam-phillips-unforbidden-pleasures/)
-
-The Marginalian · 2026-06-01 21:28 UTC
-
-&quot;In broaching the possibility of being, in some way, against self-criticism, we have to imagine a world in which celebration is less suspect than criticism.&quot;
-### [Music, the Neural Harmonics of Emotion, and How Love Recomposes the Brain](https://www.themarginalian.org/2026/05/31/general-theory-of-love-music-emotion/)
-
-The Marginalian · 2026-06-01 01:17 UTC
-
-&quot;Who we are and who we become depends, in part, on whom we love.&quot;
-### [How Phrenology Queered Language: Walt Whitman and the Evolving Lexicon of Love](https://www.themarginalian.org/2026/05/30/traversal-phrenology-whitman/)
-
-The Marginalian · 2026-05-30 21:01 UTC
-
-This essay is adapted from Traversal and continues the story of the making of Leaves of Grass. With Leaves of Grass already printed &amp;#8212; by a Brooklyn friend, at the poet’s own expense &amp;#8212; Whitman had only to find a willing distributor who would root this uncommon book into the common soil of popular literature. He had the boldly entrepreneurial idea of approaching Fowler &amp;#038; Wells &amp;#8212; New York’s preeminent publisher of phrenological and physiological books, books Whitman had reviewed while working as a journalist at The Brooklyn Daily Eagle and sold at his home bookstore. Like astrology, like racism,&amp;#8230;&amp;#160; read&amp;#160;article
-### [Artist Louise Bourgeois on How Solitude Enriches Creative Work](https://www.themarginalian.org/2026/05/30/louise-bourgeois-solitude/)
-
-The Marginalian · 2026-05-30 19:31 UTC
-
-&quot;You are born alone. You die alone. The value of the space in between is trust and love.&quot;
-### [The Donkey and the Meaning of Eternity: Nobel-Winning Spanish Poet Juan Ramón Jiménez’s Love Letter to Life](https://www.themarginalian.org/2026/05/29/platero-and-i/)
-
-The Marginalian · 2026-05-29 21:05 UTC
-
-&quot;Come with me. I&#x27;ll teach you the flowers and the stars.&quot;
-### [Curiosity as an Instrument of Love: Thoreau’s Touching Account of 24 Hours with a Tiny Owl](https://www.themarginalian.org/2026/05/29/thoreau-screech-owl/)
-
-The Marginalian · 2026-05-29 18:54 UTC
-
-&quot;If you would learn the secrets of Nature, you must practice more humanity than others.&quot;
-### [Artist of sympathy and cruelty](https://aeon.co/essays/why-mozarts-operas-are-tests-of-moral-character)
-
-Aeon · 2026-05-29 10:00 UTC
-
-Mozart’s genius lay in writing music of such power that he could draw his audience into morally wrenching predicaments - by Dorian Bandy Read on Aeon
-### [Hermann Hesse on How to Hear the Wisdom of the Inner Voice](https://www.themarginalian.org/2026/05/29/hermann-hesse-letter-to-a-young-german/)
-
-The Marginalian · 2026-05-29 04:48 UTC
-
-&quot;If you are now wondering where to look for consolation, where to seek a new and better God... he does not come to us from books, he lives within us... This God is in you too. He is most particularly in you, the dejected and despairing.&quot;
-### [Albert Camus on the Three Antidotes to the Absurdity of Life](https://www.themarginalian.org/2026/05/28/albert-camus-interview-absurd/)
-
-The Marginalian · 2026-05-28 23:27 UTC
-
-&quot;In a world whose absurdity appears to be so impenetrable, we simply must reach a greater degree of understanding among men, a greater sincerity.&quot;
-### [Life recombined](https://aeon.co/videos/the-first-scientists-to-splice-dna-faced-a-daunting-question-should-we)
-
-Aeon · 2026-05-28 10:01 UTC
-
-In the early 1970s, genetic engineers launched the most controversial revolution in science since the atomic bomb - by Aeon Video Watch on Aeon
-
-## science
-
-
-科学
-
-Research, science news, nature, space, and applied knowledge.
-
-研究进展、科学新闻、自然、空间与应用知识。
-
-### [Surgeons in imperial China used anaesthetics — in careful doses](https://www.nature.com/articles/d41586-026-01669-4)
-
-Nature · 2026-06-03 22:52 UTC
-
-Nature, Published online: 29 May 2026; doi:10.1038/d41586-026-01669-4 Traces on tweezers and surgical scissors suggest liquid medication was applied to the skin of patients.
-### [Author Correction: Attenuated fusogenicity and pathogenicity of SARS-CoV-2 Omicron variant](https://www.nature.com/articles/s41586-026-10665-7)
-
-Nature · 2026-06-03 22:52 UTC
-
-Nature, Published online: 29 May 2026; doi:10.1038/s41586-026-10665-7 Author Correction: Attenuated fusogenicity and pathogenicity of SARS-CoV-2 Omicron variant
-### [Author Correction: US oil and gas system emissions from nearly one million aerial site measurements](https://www.nature.com/articles/s41586-026-10605-5)
-
-Nature · 2026-06-03 22:52 UTC
-
-Nature, Published online: 29 May 2026; doi:10.1038/s41586-026-10605-5 Author Correction: US oil and gas system emissions from nearly one million aerial site measurements
-### [Author Correction: Hidden states and dynamics of fractional fillings in twisted MoTe&lt;sub&gt;2&lt;/sub&gt; bilayers](https://www.nature.com/articles/s41586-026-10717-y)
-
-Nature · 2026-06-03 22:52 UTC
-
-Nature, Published online: 29 May 2026; doi:10.1038/s41586-026-10717-y Author Correction: Hidden states and dynamics of fractional fillings in twisted MoTe 2 bilayers
-### [Landmark cancer trial shows success against ‘undruggable’ cancer — raising hopes for future treatments](https://www.nature.com/articles/d41586-026-01760-w)
-
-Nature · 2026-06-03 22:52 UTC
-
-Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01760-w Unprecedented results against a stubbornly hard-to-treat cancer are boosting optimism that other challenging tumours will be next.
-### [Feynman solved the ‘restaurant dilemma’ 50 years ago — now a study confirms his mathematics](https://www.nature.com/articles/d41586-026-00821-4)
-
-Nature · 2026-06-03 22:52 UTC
-
-Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-00821-4 An experiment with 2,520 participants backs Richard Feynman’s answer to every diner’s dilemma: do I want to try something new?
-### [Obesity doesn’t equate to ill health: why the ‘disease’ label doesn’t always fit](https://www.nature.com/articles/d41586-026-01729-9)
-
-Nature · 2026-06-03 22:52 UTC
-
-Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01729-9 Excess body weight affects individuals’ health differently. Taking this variation into account is crucial for effective health care, policy and research.
-### [Poor supervision is pushing young researchers out of academia](https://www.nature.com/articles/d41586-026-01693-4)
-
-Nature · 2026-06-03 22:52 UTC
-
-Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01693-4 A survey finds that academic supervisors can have a huge impact on their students’ mental health.
-### [Smartphone camera takes users’ pulse passively during device use](https://www.nature.com/articles/d41586-026-01488-7)
-
-Nature · 2026-06-03 22:52 UTC
-
-Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01488-7 A machine-learning system has been developed that can monitor heart rate using facial video clips that are captured passively by the user-facing camera during everyday smartphone use. The system meets industry accuracy standards for heart-rate measurement and is as accurate as wearable technology for measuring daily resting heart rate.
-### [Robust projections of risks to the Amazon rainforest](https://www.nature.com/articles/d41586-026-01158-8)
-
-Nature · 2026-06-03 22:52 UTC
-
-Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01158-8 Amazonian deforestation is altering atmospheric moisture transport; as a result, even low levels of global warming could trigger dieback of most of the remaining forest.
-### [Why it’s time to bin recommendation letters in science job applications](https://www.nature.com/articles/d41586-026-00507-x)
-
-Nature · 2026-06-03 22:52 UTC
-
-Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-00507-x If hiring organizations must ask for references, they should do so closer to the end of the process, argues Bibek Aryal.
-### [Daily briefing: What it will take to stop the spiralling Ebola outbreak](https://www.nature.com/articles/d41586-026-01782-4)
-
-Nature · 2026-06-03 22:52 UTC
-
-Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01782-4 Lessons from past epidemics could help to contain the current spread of Ebola. Plus, what a rocket explosion means for NASA&#x27;s Moon plans and whether ‘obesity’ should be split into two diagnoses.
-### [Science fiction: nine lab-life novels for your holiday reading](https://www.nature.com/articles/d41586-026-01730-2)
-
-Nature · 2026-06-03 22:52 UTC
-
-Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01730-2 With a summer break looming for many researchers, Nature’s careers team suggests science-themed page-turners.
-### [How long can humans live? We simply don’t know](https://www.nature.com/articles/d41586-026-01728-w)
-
-Nature · 2026-06-03 22:52 UTC
-
-Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01728-w Claims about the upper limits to human lifespan are characterized by hype, deficient data and shoddy science, says longevity researcher Saul Newman.
-### [Polymarket vs science: why researchers are sceptical of the prediction-market hype](https://www.nature.com/articles/d41586-026-01688-1)
-
-Nature · 2026-06-03 22:52 UTC
-
-Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01688-1 Online prediction markets are taking bets on everything from climate change to quantum computing. But researchers question their accuracy.
-
-## arts
-
-
-艺术
-
-Art, criticism, museums, visual culture, and contemporary aesthetics.
-
-艺术、批评、博物馆、视觉文化与当代审美。
-
-### [New Trump Rule Could Cut Enrollment at Nearly Half of Arts MA Programs](https://hyperallergic.com/new-trump-rule-could-cut-enrollment-at-nearly-half-of-arts-ma-programs/)
-
-Hyperallergic · 2026-06-03 21:32 UTC
-
-The controversial proposal would measure alumni income to determine whether a program can matriculate students who take out federal loans.
-### [Radical Reclamation at the First-Ever ArtPhilly Festival](https://hyperallergic.com/radical-reclamation-at-the-first-ever-artphilly-festival/)
-
-Hyperallergic · 2026-06-03 20:26 UTC
-
-Hyperallergic joined the artists and organizers for the opening week of the new city-wide event, featuring over 30 original commissions.
-### [The Sun Is Shining on Saif Azzuz](https://hyperallergic.com/the-sun-is-shining-on-saif-azzuz/)
-
-Hyperallergic · 2026-06-03 19:37 UTC
-
-Across galleries, museums, and outdoor sculpture, he connects Indigenous land practices in California, the Hudson Valley, and beyond.
-### [100+ Artists Threaten Legal Action Over Inclusion in Biennale Awards](https://hyperallergic.com/100-artists-threaten-legal-action-over-inclusion-in-biennale-awards/)
-
-Hyperallergic · 2026-06-03 18:47 UTC
-
-The Biennale told Hyperallergic that although withdrawing artists are included on the ballot, “these votes will not be considered.”
-### [Remembering Alan Saret, Julio Le Parc, and Hilde Lynn Helphenstein](https://hyperallergic.com/remembering-alan-saret-julio-le-parc-and-hilde-lynn-helphenstein/)
-
-Hyperallergic · 2026-06-03 18:04 UTC
-
-This week, we honor a postminimalist sculptor, a Pop Art legend, and the satirist behind “Jerry Gogosian.”
-### [Edward Hopper’s Distinctly American Solitude](https://hyperallergic.com/edward-hoppers-distinctly-american-solitude/)
-
-Hyperallergic · 2026-06-03 17:37 UTC
-
-American bombast is, more than anything, a mask, which Hopper understood well.
-### [Call my agent: why artist management companies are making a comeback](https://www.theartnewspaper.com/2026/06/03/call-my-agent-why-artist-management-companies-are-making-a-comeback)
-
-The Art Newspaper · 2026-06-03 16:01 UTC
-
-A spate of new organisations are challenging traditional gallery models to support artists in different ways
-### [Announcing the 2026 McKnight Visual Artist Fellows](https://hyperallergic.com/announcing-the-2026-mcknight-visual-artist-fellows/)
-
-Hyperallergic · 2026-06-03 15:00 UTC
-
-Designed to support mid-career Minnesota artists, the fellowship provides each recipient with a $25,000 stipend, professional development, a residency, and more.
-### [JR&#x27;s wrapped Pont Neuf installation in Paris damaged in storm](https://www.theartnewspaper.com/2026/06/03/jrs-wrapped-parisian-bridge-installation-damaged-in-storm)
-
-The Art Newspaper · 2026-06-03 12:06 UTC
-
-The opening of the French street artist&#x27;s newest public work and tribute to Christo and Jeanne-Claude has now been delayed
-### [Lucian Freud’s Dozing Nude](https://hyperallergic.com/lucian-freuds-dozing-nude/)
-
-Hyperallergic · 2026-06-03 10:00 UTC
-
-Remembering Julio Le Parc, a dispatch from art shows in abandoned homes in Seattle, and more.
-### [Venice verdicts: art world figures give their thoughts on the 2026 Biennale](https://www.theartnewspaper.com/2026/06/03/venice-verdicts-art-world-figures-give-their-thoughts-on-the-2026-biennale)
-
-The Art Newspaper · 2026-06-03 09:41 UTC
-
-From Tai Shani to Ekow Eshun, seven leading art world figures reflect on Koyo Kouoh’s In Minor Keys, the main exhibition, as well as the national pavilions and other collateral and institutional exhibitions
-### [Bringing history to life: Abu Dhabi’s Zayed National Museum is becoming a major research hub](https://www.theartnewspaper.com/2026/06/03/bringing-history-to-life-abu-dhabis-zayed-national-museum-is-becoming-a-major-research-hub)
-
-The Art Newspaper · 2026-06-03 08:49 UTC
-
-The landmark institution uses experimental methodologies and cross-discipline collaborations to bring people closer to the UAE’s past—and to encourage the historians of the future
-### [15 Art Shows to See in Los Angeles This Summer](https://hyperallergic.com/15-art-shows-to-see-in-los-angeles-this-summer/)
-
-Hyperallergic · 2026-06-02 20:35 UTC
-
-A romp through early punk culture, Odilon Redon’s dreamy portraiture, Willie Birch’s papier-mâché odes to New Orleans, Samella Lewis’s visions in woodcut, and more.
-### [Seattle Artists Breathe Life Into Houses Slated for Demolition](https://hyperallergic.com/seattle-artists-breathe-life-into-houses-slated-for-demolition/)
-
-Hyperallergic · 2026-06-02 20:20 UTC
-
-“We want to act as a little eddy in the stream of gentrification, giving these houses one last burst of life before they’re gone,” one of the organizers of “Once Removed” told Hyperallergic.
-### [Lucian Freud’s Dozing Nude Could Fetch $47M at Auction](https://hyperallergic.com/lucian-freuds-dozing-nude-could-fetch-47m-at-auction/)
-
-Hyperallergic · 2026-06-02 20:19 UTC
-
-&quot;Sleeping By the Lion Carpet&quot; (1995–96) is the last in a series of monumental portraits of Sue Tilley in resting postures.
-
-GitHub Actions 每日生成，数据来自 RSS 与采样脚本。[查看仓库](https://github.com/fivsevn-agy/fivsevn-devlog/tree/233c5bab2dba086446db83ee8e7b232b46c53a1a/intake)
+    <section id="society">
+  <h2>society</h2>
+  <p class='section-title-zh'>社会</p>
+  <p class='section-description'>Public life, institutions, world affairs, and social change.</p>
+  <p class='section-description-zh'>公共生活、制度、世界事务与社会变化。</p>
+  <article class="article">
+  <h3><a href="https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">US House votes to halt Iran war, in rebuke to Trump</a></h3>
+  <div class="meta">BBC World · 2026-06-03 23:01 UTC</div>
+  <p class='summary'>In the 215-208 vote, four Republicans joined Democrats to pass the measure, which had failed in three previous attempts.</p>
+</article><article class="article">
+  <h3><a href="https://www.theguardian.com/australia-news/live/2026/jun/04/australia-politics-live-capital-gains-tax-property-prices-economy-budget-jim-chalmers-anthony-albanese-angus-taylor-pauline-hanson-senate-estimates-question-time-ntwnfb" target="_blank" rel="noopener noreferrer">Australia politics live: PM says ‘unwarranted’ tariffs announced by US on Australia came without warning; parliament to vote on tax changes</a></h3>
+  <div class="meta">The Guardian World · 2026-06-03 22:56 UTC</div>
+  <p class='summary'>Prime minister says there is ‘an ideological disagreement’ with the United States. Follow today’s news live Get our breaking news email , free app or daily news podcast Jim Chalmers ’ budget bill will face debate and a vote in the House today, and he poses the legislation as a “really simple choice” for the Coalition. As we know, the government has set up the bill as a wedge for the opposition, by including both tax changes to CGT and negative gearing and tax cuts for workers. Really simple choice in the parliament today: Labor lower taxes on workers, a fair go for first home buyers. The Coalition opposing both of those things. Yet another beat-up about the sensible, commonsense tax reforms at the core of the budget. Not unusual, as I said, for definitions to be settled this way, and the parliament can disallow them if they want. Continue reading...</p>
+</article><article class="article">
+  <h3><a href="https://www.theguardian.com/world/live/2026/jun/03/us-israel-iran-war-lebanon-trump-khamenei-netanyahu-hormuz-latest-news-updates" target="_blank" rel="noopener noreferrer">Middle East crisis live: US House rebukes Trump over Iran war; Tehran claims it struck American military ship in Gulf of Oman</a></h3>
+  <div class="meta">The Guardian World · 2026-06-03 22:44 UTC</div>
+  <p class='summary'>House of Representatives passes war powers resolution curbing president’s authority; US military denies Iranian claim to have targeted ship approaching its waters The Kuwaiti defence ministry said it intercepted 13 ballistic missiles and 17 drones launched by Iran today. A drone and missile attack on Kuwait’s international airport killed one person, which Kuwaiti authorities identified as an Indian national. It is the first reported death in a Gulf state since the US and Iran agreed to a ceasefire in April. Continue reading...</p>
+</article><article class="article">
+  <h3><a href="https://www.theguardian.com/us-news/2026/jun/03/house-passes-war-power-resolution-trump-iran" target="_blank" rel="noopener noreferrer">US House passes war powers resolution to curb Trump’s authority in Iran</a></h3>
+  <div class="meta">The Guardian World · 2026-06-03 22:38 UTC</div>
+  <p class='summary'>Stunning rebuke to president as lawmakers vote 215-208 for measure forcing him to seek congressional approval The US House of Representatives delivered a stunning rebuke to Donald Trump over his war on Iran on Wednesday, as representatives backed a move to force him to seek approval from Congress or withdraw US forces. The House voted 215 to 208 in favor of the war powers resolution, as four Republicans voted with Democrats. The dissident Republicans were Thomas Massie of Kentucky, Brian Fitzpatrick of Pennsylvania, Warren Davidson of Ohio and Tom Barrett of Michigan. Continue reading...</p>
+</article><article class="article">
+  <h3><a href="https://www.theguardian.com/us-news/live/2026/jun/03/us-midterm-primaries-politics-donald-trump-california-governor-latest-news-updates" target="_blank" rel="noopener noreferrer">Mitch McConnell statement suggests he considers Bill Pulte unfit for national intelligence director role – US politics live</a></h3>
+  <div class="meta">The Guardian World · 2026-06-03 22:34 UTC</div>
+  <p class='summary'>Republican senator does not name Trump pick but points to importance of eligibility requirements, which Pulte is widely considered to be lacking Sign up for the Breaking News US email Iowa voters cast their ballots in yesterday’s heated primaries, setting up for months of fervent campaigning ahead of the November midterms in contests that could determine the balance of power in Congress. A red state that the GOP has dominated for the past decade, Democrats believe they can be competitive in three of its four House races, its Senate election, and the contest to replace Kim Reynolds, the retiring Republican governor. Continue reading...</p>
+</article><article class="article">
+  <h3><a href="https://www.theguardian.com/us-news/2026/jun/03/gender-reveal-fireworks-california-wildfire-settlement" target="_blank" rel="noopener noreferrer">Companies that sold gender-reveal fireworks which ignited California wildfire agree to $4m settlement</a></h3>
+  <div class="meta">The Guardian World · 2026-06-03 22:23 UTC</div>
+  <p class='summary'>El Dorado blaze that burned 22,744 acres and claimed the life of a firefighter was ignited by an illegal device Sign up for the Breaking News US newsletter email Nearly six years after a couple’s gender-reveal stunt sparked a deadly wildfire in southern California , the companies that sold the pyrotechnic device have agreed to a multimillion-dollar settlement. The Hubbard, Ohio-based Wholesale Fireworks Corp and its subsidiary American Fireworks Wholesale LLC have agreed to pay more than $4m, the US attorney’s office in the central district of California announced on Tuesday. A third company, the Miami-based Pink or Blue Gender Team Inc, agreed to pay $50,000. Continue reading...</p>
+</article><article class="article">
+  <h3><a href="https://www.bbc.com/news/articles/cy823n3ln29o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Grab what you can while you can: The  new reality in the South China Sea</a></h3>
+  <div class="meta">BBC World · 2026-06-03 22:00 UTC</div>
+  <p class='summary'>After years of watching China create land to back its expansive claims, others are doing the same.</p>
+</article><article class="article">
+  <h3><a href="https://www.npr.org/2026/06/03/nx-s1-5845102/house-iran-war-powers-vote" target="_blank" rel="noopener noreferrer">House passes war powers resolution directing Trump to end hostilities with Iran</a></h3>
+  <div class="meta">NPR News · 2026-06-03 21:49 UTC</div>
+  <p class='summary'>The vote marked a rare bipartisan rebuke of the war, but is mostly symbolic. Democrats have been unable to pass a war powers resolution in the Senate, and even if they could it would likely be vetoed.</p>
+</article><article class="article">
+  <h3><a href="https://www.npr.org/2026/06/03/g-s1-125779/senate-republicans-start-debate-on-ice-funding-package" target="_blank" rel="noopener noreferrer">Senate Republicans start debate on ICE funding package</a></h3>
+  <div class="meta">NPR News · 2026-06-03 21:42 UTC</div>
+  <p class='summary'>The Senate voted along party lines to start debate on a Republican bill to fund immigration enforcement through the end of President Trump&#x27;s term.</p>
+</article><article class="article">
+  <h3><a href="https://www.theguardian.com/uk-news/2026/jun/03/chinese-spies-linkedin-uk-officials" target="_blank" rel="noopener noreferrer">Chinese spies use LinkedIn to target UK officials and military staff</a></h3>
+  <div class="meta">The Guardian World · 2026-06-03 21:21 UTC</div>
+  <p class='summary'>Advertisements for non-existent jobs aim to draw in people with access to classified or sensitive information Chinese spies are targeting UK government and military staff on job websites including LinkedIn to try to get access to classified or sensitive information, MI5 has warned. A bulletin has been released by the Five Eyes powers – the UK, US, Australia, Canada and New Zealand – highlighting an “aggressive” online recruitment strategy where spies for Beijing military intelligence pose as workers acting on behalf of private businesses or thinktanks. Security clearance holders, especially those who specialise in defence, foreign affairs and security and intelligence. Military personnel, including those stationed in the Indo-Pacific region, who have knowledge of regional capabilities and general activities. People with either indirect or peripheral access to government information, including academics, journalists, freelance writers, thinktank employees or anyone with links to the defence, security, policy and economic sectors. Continue reading...</p>
+</article><article class="article">
+  <h3><a href="https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border</a></h3>
+  <div class="meta">BBC World · 2026-06-03 21:19 UTC</div>
+  <p class='summary'>The incidents strain a partial ceasefire agreed by Israel and the Lebanese armed group on Monday.</p>
+</article><article class="article">
+  <h3><a href="https://www.theguardian.com/uk-news/2026/jun/03/police-chief-warns-anti-white-bias-claims-could-drive-uk-policing-back-to-60s" target="_blank" rel="noopener noreferrer">Police chief warns anti-white bias claims could drive UK policing ‘back to 60s’</a></h3>
+  <div class="meta">The Guardian World · 2026-06-03 21:09 UTC</div>
+  <p class='summary'>Senior police figures are pushing back against politicians they accuse of stoking tensions over Henry Nowak’s murder Policing could be driven back to the 1960s by false claims officers are biased against white people, the leader of Britain’s black officers has said. Ch Insp Andy George, president of the National Black Police Association, spoke out amid growing concerns that politicians such as Nigel Farage were stoking tensions around the murder of teenager Henry Nowak by making baseless and provocative claims. Continue reading...</p>
+</article><article class="article">
+  <h3><a href="https://www.theguardian.com/us-news/2026/jun/03/white-house-ballroom-funding-republicans" target="_blank" rel="noopener noreferrer">Senate Republicans drop plans for $1bn to fund security at Trump’s ballroom</a></h3>
+  <div class="meta">The Guardian World · 2026-06-03 20:39 UTC</div>
+  <p class='summary'>Fears that push for ballroom spending could jeopardize $70bn funding for immigration enforcement Senate Republicans on Wednesday formally dropped their attempt to spend $1bn on security improvements for Donald Trump’s White House ballroom, as it became clear the president’s demand for the money could jeopardize long-term funding for immigration enforcement. The Senate judiciary committee had last month included funding for security improvements related to the new ballroom in a broader measure that would authorize $70bn in spending for agencies involved in Trump’s mass deportation campaign through the duration of his term. Continue reading...</p>
+</article><article class="article">
+  <h3><a href="https://www.theguardian.com/us-news/2026/jun/03/trump-order-federal-workers" target="_blank" rel="noopener noreferrer">Trump signs order to make it easier to fire 8,000 highly paid federal workers</a></h3>
+  <div class="meta">The Guardian World · 2026-06-03 20:35 UTC</div>
+  <p class='summary'>Order strips job protections from workers earning up to about $200,000 a year and deemed to be ‘influencing’ policy Donald Trump has signed an executive order making it easier to fire thousands of the best-paid workers in the US government aspart of a broader drive by his administration to overhaul the federal workforce. The order, released by the White House and the office of personnel management (OPM) on Wednesday, strips job protections from a mostly senior group of federal workers – about 8,000 employees – earning up to almost $200,000 a year , and who are deemed to be “influencing” government policy. Continue reading...</p>
+</article><article class="article">
+  <h3><a href="https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">&#x27;Crazy&#x27; phone call between Trump and Netanyahu complicates Iran talks</a></h3>
+  <div class="meta">BBC World · 2026-06-03 20:28 UTC</div>
+  <p class='summary'>Israel&#x27;s PM laughed off reports of friction, but he has tested the patience of other US presidents.</p>
+</article>
+</section>
+<section id="ideas">
+  <h2>ideas</h2>
+  <p class='section-title-zh'>思想</p>
+  <p class='section-description'>Philosophy, essays, intellectual history, and reflective long-form reading.</p>
+  <p class='section-description-zh'>哲学、随笔、思想史与反思性长文。</p>
+  <article class="article">
+  <h3><a href="https://www.themarginalian.org/2026/06/03/harpy-eagle-gps/" target="_blank" rel="noopener noreferrer">Einstein and the Eagle: How Relativity Is Saving Earth’s Rarest Raptor</a></h3>
+  <div class="meta">The Marginalian · 2026-06-03 21:41 UTC</div>
+  <p class='summary'>At the hazy dawn of the twentieth century, through the byways of mental meandering and mathematical play, Albert Einstein arrived at a revelation about the nature of the universe while working as a clerk at the Swiss patent office &amp;#8212; a new relationship between space and time, the warp and weft of a single fabric that hammocks energy and matter into the lucid dream of reality. It took years for Arthur Eddington&amp;#8217;s dramatic eclipse expedition to confirm Einstein&amp;#8217;s theory by watching light bend along the curvature of spacetime against the screen of totality rather than follow the straight lines Newton&amp;#8230;&amp;#160; read&amp;#160;article</p>
+</article><article class="article">
+  <h3><a href="https://www.themarginalian.org/2026/06/03/carl-rogers-good-life/" target="_blank" rel="noopener noreferrer">The Three Elements of the Good Life</a></h3>
+  <div class="meta">The Marginalian · 2026-06-03 04:52 UTC</div>
+  <p class='summary'>To be a true person is to be entirely oneself in every circumstance, with all the courage and vulnerability this requires. And yet because a person is a confederacy of parts often at odds and sometimes at war with each other, being true is not a pledge to be a paragon of cohesion, predictable and perfectly self-consistent &amp;#8212; the impossibility of that is the price of our complex consciousness &amp;#8212; but a promise to own every part of yourself, even those that challenge your preferred self-image and falsify the story you tell yourself about who you are. There is a&amp;#8230;&amp;#160; read&amp;#160;article</p>
+</article><article class="article">
+  <h3><a href="https://www.themarginalian.org/2026/06/02/thoreau-friendship/" target="_blank" rel="noopener noreferrer">An Introvert’s Field Guide to Friendship: Thoreau on the Challenges and Rewards of Candid Connection</a></h3>
+  <div class="meta">The Marginalian · 2026-06-03 02:03 UTC</div>
+  <p class='summary'>&quot;We only need to be as true to others as we are to ourselves that there may be ground enough for friendship.&quot;</p>
+</article><article class="article">
+  <h3><a href="https://www.themarginalian.org/2026/06/02/havel-failure/" target="_blank" rel="noopener noreferrer">Václav Havel, Writing from Prison, on How to Hold Your Failure</a></h3>
+  <div class="meta">The Marginalian · 2026-06-02 18:48 UTC</div>
+  <p class='summary'>Few things in life are more devastating than to give something your all and still fail. Not the &amp;#8220;fail better&amp;#8221; of startup culture, not the &amp;#8220;fail forward&amp;#8221; of self-help, not the failure that is childhood&amp;#8217;s fulcrum of learning, not the inspired mistakes that propel creative risk, but simply that helpless and harrowing moment when you face the abyss between your will and your powers, your values and your choices, your ideal self and your real self. It is without redemption, such failure. But it need not be without reward. Admitting failure, especially moral failure, is hard enough &amp;#8212; to others,&amp;#8230;&amp;#160; read&amp;#160;article</p>
+</article><article class="article">
+  <h3><a href="https://www.themarginalian.org/2026/06/01/nathaniel-hawthorne-classification/" target="_blank" rel="noopener noreferrer">The Only Three Distinctions Between People</a></h3>
+  <div class="meta">The Marginalian · 2026-06-02 02:09 UTC</div>
+  <p class='summary'>It may be that consciousness evolved to sieve the relevant from the incomprehensible allness of all there is, to parse the world into concepts and find an organizing principle for the chaos of them. Our cognitive inheritance is a restless yearning to fathom how things cohere and where they belong, a yearning we have given shape to in laws and labels, weights and balances, hierarchies and categories. It has served us well, this instinct to categorize in order to contain, giving us music, the laws of planetary motion, and democracy. But it also pulsates beneath every ism we have ever&amp;#8230;&amp;#160; read&amp;#160;article</p>
+</article><article class="article">
+  <h3><a href="https://www.themarginalian.org/2026/06/01/against-self-criticism-adam-phillips-unforbidden-pleasures/" target="_blank" rel="noopener noreferrer">Against Self-Criticism: Adam Phillips on How Our Internal Critics Enslave Us, the Stockholm Syndrome of the Superego, and the Power of Multiple Interpretations</a></h3>
+  <div class="meta">The Marginalian · 2026-06-01 21:28 UTC</div>
+  <p class='summary'>&quot;In broaching the possibility of being, in some way, against self-criticism, we have to imagine a world in which celebration is less suspect than criticism.&quot;</p>
+</article><article class="article">
+  <h3><a href="https://www.themarginalian.org/2026/05/31/general-theory-of-love-music-emotion/" target="_blank" rel="noopener noreferrer">Music, the Neural Harmonics of Emotion, and How Love Recomposes the Brain</a></h3>
+  <div class="meta">The Marginalian · 2026-06-01 01:17 UTC</div>
+  <p class='summary'>&quot;Who we are and who we become depends, in part, on whom we love.&quot;</p>
+</article><article class="article">
+  <h3><a href="https://www.themarginalian.org/2026/05/30/traversal-phrenology-whitman/" target="_blank" rel="noopener noreferrer">How Phrenology Queered Language: Walt Whitman and the Evolving Lexicon of Love</a></h3>
+  <div class="meta">The Marginalian · 2026-05-30 21:01 UTC</div>
+  <p class='summary'>This essay is adapted from Traversal and continues the story of the making of Leaves of Grass. With Leaves of Grass already printed &amp;#8212; by a Brooklyn friend, at the poet’s own expense &amp;#8212; Whitman had only to find a willing distributor who would root this uncommon book into the common soil of popular literature. He had the boldly entrepreneurial idea of approaching Fowler &amp;#038; Wells &amp;#8212; New York’s preeminent publisher of phrenological and physiological books, books Whitman had reviewed while working as a journalist at The Brooklyn Daily Eagle and sold at his home bookstore. Like astrology, like racism,&amp;#8230;&amp;#160; read&amp;#160;article</p>
+</article><article class="article">
+  <h3><a href="https://www.themarginalian.org/2026/05/30/louise-bourgeois-solitude/" target="_blank" rel="noopener noreferrer">Artist Louise Bourgeois on How Solitude Enriches Creative Work</a></h3>
+  <div class="meta">The Marginalian · 2026-05-30 19:31 UTC</div>
+  <p class='summary'>&quot;You are born alone. You die alone. The value of the space in between is trust and love.&quot;</p>
+</article><article class="article">
+  <h3><a href="https://www.themarginalian.org/2026/05/29/platero-and-i/" target="_blank" rel="noopener noreferrer">The Donkey and the Meaning of Eternity: Nobel-Winning Spanish Poet Juan Ramón Jiménez’s Love Letter to Life</a></h3>
+  <div class="meta">The Marginalian · 2026-05-29 21:05 UTC</div>
+  <p class='summary'>&quot;Come with me. I&#x27;ll teach you the flowers and the stars.&quot;</p>
+</article><article class="article">
+  <h3><a href="https://www.themarginalian.org/2026/05/29/thoreau-screech-owl/" target="_blank" rel="noopener noreferrer">Curiosity as an Instrument of Love: Thoreau’s Touching Account of 24 Hours with a Tiny Owl</a></h3>
+  <div class="meta">The Marginalian · 2026-05-29 18:54 UTC</div>
+  <p class='summary'>&quot;If you would learn the secrets of Nature, you must practice more humanity than others.&quot;</p>
+</article><article class="article">
+  <h3><a href="https://aeon.co/essays/why-mozarts-operas-are-tests-of-moral-character" target="_blank" rel="noopener noreferrer">Artist of sympathy and cruelty</a></h3>
+  <div class="meta">Aeon · 2026-05-29 10:00 UTC</div>
+  <p class='summary'>Mozart’s genius lay in writing music of such power that he could draw his audience into morally wrenching predicaments - by Dorian Bandy Read on Aeon</p>
+</article><article class="article">
+  <h3><a href="https://www.themarginalian.org/2026/05/29/hermann-hesse-letter-to-a-young-german/" target="_blank" rel="noopener noreferrer">Hermann Hesse on How to Hear the Wisdom of the Inner Voice</a></h3>
+  <div class="meta">The Marginalian · 2026-05-29 04:48 UTC</div>
+  <p class='summary'>&quot;If you are now wondering where to look for consolation, where to seek a new and better God... he does not come to us from books, he lives within us... This God is in you too. He is most particularly in you, the dejected and despairing.&quot;</p>
+</article><article class="article">
+  <h3><a href="https://www.themarginalian.org/2026/05/28/albert-camus-interview-absurd/" target="_blank" rel="noopener noreferrer">Albert Camus on the Three Antidotes to the Absurdity of Life</a></h3>
+  <div class="meta">The Marginalian · 2026-05-28 23:27 UTC</div>
+  <p class='summary'>&quot;In a world whose absurdity appears to be so impenetrable, we simply must reach a greater degree of understanding among men, a greater sincerity.&quot;</p>
+</article><article class="article">
+  <h3><a href="https://aeon.co/videos/the-first-scientists-to-splice-dna-faced-a-daunting-question-should-we" target="_blank" rel="noopener noreferrer">Life recombined</a></h3>
+  <div class="meta">Aeon · 2026-05-28 10:01 UTC</div>
+  <p class='summary'>In the early 1970s, genetic engineers launched the most controversial revolution in science since the atomic bomb - by Aeon Video Watch on Aeon</p>
+</article>
+</section>
+<section id="science">
+  <h2>science</h2>
+  <p class='section-title-zh'>科学</p>
+  <p class='section-description'>Research, science news, nature, space, and applied knowledge.</p>
+  <p class='section-description-zh'>研究进展、科学新闻、自然、空间与应用知识。</p>
+  <article class="article">
+  <h3><a href="https://www.nature.com/articles/d41586-026-01669-4" target="_blank" rel="noopener noreferrer">Surgeons in imperial China used anaesthetics — in careful doses</a></h3>
+  <div class="meta">Nature · 2026-06-03 23:03 UTC</div>
+  <p class='summary'>Nature, Published online: 29 May 2026; doi:10.1038/d41586-026-01669-4 Traces on tweezers and surgical scissors suggest liquid medication was applied to the skin of patients.</p>
+</article><article class="article">
+  <h3><a href="https://www.nature.com/articles/s41586-026-10665-7" target="_blank" rel="noopener noreferrer">Author Correction: Attenuated fusogenicity and pathogenicity of SARS-CoV-2 Omicron variant</a></h3>
+  <div class="meta">Nature · 2026-06-03 23:03 UTC</div>
+  <p class='summary'>Nature, Published online: 29 May 2026; doi:10.1038/s41586-026-10665-7 Author Correction: Attenuated fusogenicity and pathogenicity of SARS-CoV-2 Omicron variant</p>
+</article><article class="article">
+  <h3><a href="https://www.nature.com/articles/s41586-026-10605-5" target="_blank" rel="noopener noreferrer">Author Correction: US oil and gas system emissions from nearly one million aerial site measurements</a></h3>
+  <div class="meta">Nature · 2026-06-03 23:03 UTC</div>
+  <p class='summary'>Nature, Published online: 29 May 2026; doi:10.1038/s41586-026-10605-5 Author Correction: US oil and gas system emissions from nearly one million aerial site measurements</p>
+</article><article class="article">
+  <h3><a href="https://www.nature.com/articles/s41586-026-10717-y" target="_blank" rel="noopener noreferrer">Author Correction: Hidden states and dynamics of fractional fillings in twisted MoTe&lt;sub&gt;2&lt;/sub&gt; bilayers</a></h3>
+  <div class="meta">Nature · 2026-06-03 23:03 UTC</div>
+  <p class='summary'>Nature, Published online: 29 May 2026; doi:10.1038/s41586-026-10717-y Author Correction: Hidden states and dynamics of fractional fillings in twisted MoTe 2 bilayers</p>
+</article><article class="article">
+  <h3><a href="https://www.nature.com/articles/d41586-026-01760-w" target="_blank" rel="noopener noreferrer">Landmark cancer trial shows success against ‘undruggable’ cancer — raising hopes for future treatments</a></h3>
+  <div class="meta">Nature · 2026-06-03 23:03 UTC</div>
+  <p class='summary'>Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01760-w Unprecedented results against a stubbornly hard-to-treat cancer are boosting optimism that other challenging tumours will be next.</p>
+</article><article class="article">
+  <h3><a href="https://www.nature.com/articles/d41586-026-00821-4" target="_blank" rel="noopener noreferrer">Feynman solved the ‘restaurant dilemma’ 50 years ago — now a study confirms his mathematics</a></h3>
+  <div class="meta">Nature · 2026-06-03 23:03 UTC</div>
+  <p class='summary'>Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-00821-4 An experiment with 2,520 participants backs Richard Feynman’s answer to every diner’s dilemma: do I want to try something new?</p>
+</article><article class="article">
+  <h3><a href="https://www.nature.com/articles/d41586-026-01729-9" target="_blank" rel="noopener noreferrer">Obesity doesn’t equate to ill health: why the ‘disease’ label doesn’t always fit</a></h3>
+  <div class="meta">Nature · 2026-06-03 23:03 UTC</div>
+  <p class='summary'>Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01729-9 Excess body weight affects individuals’ health differently. Taking this variation into account is crucial for effective health care, policy and research.</p>
+</article><article class="article">
+  <h3><a href="https://www.nature.com/articles/d41586-026-01693-4" target="_blank" rel="noopener noreferrer">Poor supervision is pushing young researchers out of academia</a></h3>
+  <div class="meta">Nature · 2026-06-03 23:03 UTC</div>
+  <p class='summary'>Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01693-4 A survey finds that academic supervisors can have a huge impact on their students’ mental health.</p>
+</article><article class="article">
+  <h3><a href="https://www.nature.com/articles/d41586-026-01488-7" target="_blank" rel="noopener noreferrer">Smartphone camera takes users’ pulse passively during device use</a></h3>
+  <div class="meta">Nature · 2026-06-03 23:03 UTC</div>
+  <p class='summary'>Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01488-7 A machine-learning system has been developed that can monitor heart rate using facial video clips that are captured passively by the user-facing camera during everyday smartphone use. The system meets industry accuracy standards for heart-rate measurement and is as accurate as wearable technology for measuring daily resting heart rate.</p>
+</article><article class="article">
+  <h3><a href="https://www.nature.com/articles/d41586-026-01158-8" target="_blank" rel="noopener noreferrer">Robust projections of risks to the Amazon rainforest</a></h3>
+  <div class="meta">Nature · 2026-06-03 23:03 UTC</div>
+  <p class='summary'>Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01158-8 Amazonian deforestation is altering atmospheric moisture transport; as a result, even low levels of global warming could trigger dieback of most of the remaining forest.</p>
+</article><article class="article">
+  <h3><a href="https://www.nature.com/articles/d41586-026-00507-x" target="_blank" rel="noopener noreferrer">Why it’s time to bin recommendation letters in science job applications</a></h3>
+  <div class="meta">Nature · 2026-06-03 23:03 UTC</div>
+  <p class='summary'>Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-00507-x If hiring organizations must ask for references, they should do so closer to the end of the process, argues Bibek Aryal.</p>
+</article><article class="article">
+  <h3><a href="https://www.nature.com/articles/d41586-026-01782-4" target="_blank" rel="noopener noreferrer">Daily briefing: What it will take to stop the spiralling Ebola outbreak</a></h3>
+  <div class="meta">Nature · 2026-06-03 23:03 UTC</div>
+  <p class='summary'>Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01782-4 Lessons from past epidemics could help to contain the current spread of Ebola. Plus, what a rocket explosion means for NASA&#x27;s Moon plans and whether ‘obesity’ should be split into two diagnoses.</p>
+</article><article class="article">
+  <h3><a href="https://www.nature.com/articles/d41586-026-01730-2" target="_blank" rel="noopener noreferrer">Science fiction: nine lab-life novels for your holiday reading</a></h3>
+  <div class="meta">Nature · 2026-06-03 23:03 UTC</div>
+  <p class='summary'>Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01730-2 With a summer break looming for many researchers, Nature’s careers team suggests science-themed page-turners.</p>
+</article><article class="article">
+  <h3><a href="https://www.nature.com/articles/d41586-026-01728-w" target="_blank" rel="noopener noreferrer">How long can humans live? We simply don’t know</a></h3>
+  <div class="meta">Nature · 2026-06-03 23:03 UTC</div>
+  <p class='summary'>Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01728-w Claims about the upper limits to human lifespan are characterized by hype, deficient data and shoddy science, says longevity researcher Saul Newman.</p>
+</article><article class="article">
+  <h3><a href="https://www.nature.com/articles/d41586-026-01688-1" target="_blank" rel="noopener noreferrer">Polymarket vs science: why researchers are sceptical of the prediction-market hype</a></h3>
+  <div class="meta">Nature · 2026-06-03 23:03 UTC</div>
+  <p class='summary'>Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01688-1 Online prediction markets are taking bets on everything from climate change to quantum computing. But researchers question their accuracy.</p>
+</article>
+</section>
+<section id="arts">
+  <h2>arts</h2>
+  <p class='section-title-zh'>艺术</p>
+  <p class='section-description'>Art, criticism, museums, visual culture, and contemporary aesthetics.</p>
+  <p class='section-description-zh'>艺术、批评、博物馆、视觉文化与当代审美。</p>
+  <article class="article">
+  <h3><a href="https://hyperallergic.com/new-trump-rule-could-cut-enrollment-at-nearly-half-of-arts-ma-programs/" target="_blank" rel="noopener noreferrer">New Trump Rule Could Cut Enrollment at Nearly Half of Arts MA Programs</a></h3>
+  <div class="meta">Hyperallergic · 2026-06-03 21:32 UTC</div>
+  <p class='summary'>The controversial proposal would measure alumni income to determine whether a program can matriculate students who take out federal loans.</p>
+</article><article class="article">
+  <h3><a href="https://hyperallergic.com/radical-reclamation-at-the-first-ever-artphilly-festival/" target="_blank" rel="noopener noreferrer">Radical Reclamation at the First-Ever ArtPhilly Festival</a></h3>
+  <div class="meta">Hyperallergic · 2026-06-03 20:26 UTC</div>
+  <p class='summary'>Hyperallergic joined the artists and organizers for the opening week of the new city-wide event, featuring over 30 original commissions.</p>
+</article><article class="article">
+  <h3><a href="https://hyperallergic.com/the-sun-is-shining-on-saif-azzuz/" target="_blank" rel="noopener noreferrer">The Sun Is Shining on Saif Azzuz</a></h3>
+  <div class="meta">Hyperallergic · 2026-06-03 19:37 UTC</div>
+  <p class='summary'>Across galleries, museums, and outdoor sculpture, he connects Indigenous land practices in California, the Hudson Valley, and beyond.</p>
+</article><article class="article">
+  <h3><a href="https://hyperallergic.com/100-artists-threaten-legal-action-over-inclusion-in-biennale-awards/" target="_blank" rel="noopener noreferrer">100+ Artists Threaten Legal Action Over Inclusion in Biennale Awards</a></h3>
+  <div class="meta">Hyperallergic · 2026-06-03 18:47 UTC</div>
+  <p class='summary'>The Biennale told Hyperallergic that although withdrawing artists are included on the ballot, “these votes will not be considered.”</p>
+</article><article class="article">
+  <h3><a href="https://hyperallergic.com/remembering-alan-saret-julio-le-parc-and-hilde-lynn-helphenstein/" target="_blank" rel="noopener noreferrer">Remembering Alan Saret, Julio Le Parc, and Hilde Lynn Helphenstein</a></h3>
+  <div class="meta">Hyperallergic · 2026-06-03 18:04 UTC</div>
+  <p class='summary'>This week, we honor a postminimalist sculptor, a Pop Art legend, and the satirist behind “Jerry Gogosian.”</p>
+</article><article class="article">
+  <h3><a href="https://hyperallergic.com/edward-hoppers-distinctly-american-solitude/" target="_blank" rel="noopener noreferrer">Edward Hopper’s Distinctly American Solitude</a></h3>
+  <div class="meta">Hyperallergic · 2026-06-03 17:37 UTC</div>
+  <p class='summary'>American bombast is, more than anything, a mask, which Hopper understood well.</p>
+</article><article class="article">
+  <h3><a href="https://www.theartnewspaper.com/2026/06/03/call-my-agent-why-artist-management-companies-are-making-a-comeback" target="_blank" rel="noopener noreferrer">Call my agent: why artist management companies are making a comeback</a></h3>
+  <div class="meta">The Art Newspaper · 2026-06-03 16:01 UTC</div>
+  <p class='summary'>A spate of new organisations are challenging traditional gallery models to support artists in different ways</p>
+</article><article class="article">
+  <h3><a href="https://hyperallergic.com/announcing-the-2026-mcknight-visual-artist-fellows/" target="_blank" rel="noopener noreferrer">Announcing the 2026 McKnight Visual Artist Fellows</a></h3>
+  <div class="meta">Hyperallergic · 2026-06-03 15:00 UTC</div>
+  <p class='summary'>Designed to support mid-career Minnesota artists, the fellowship provides each recipient with a $25,000 stipend, professional development, a residency, and more.</p>
+</article><article class="article">
+  <h3><a href="https://www.theartnewspaper.com/2026/06/03/jrs-wrapped-parisian-bridge-installation-damaged-in-storm" target="_blank" rel="noopener noreferrer">JR&#x27;s wrapped Pont Neuf installation in Paris damaged in storm</a></h3>
+  <div class="meta">The Art Newspaper · 2026-06-03 12:06 UTC</div>
+  <p class='summary'>The opening of the French street artist&#x27;s newest public work and tribute to Christo and Jeanne-Claude has now been delayed</p>
+</article><article class="article">
+  <h3><a href="https://hyperallergic.com/lucian-freuds-dozing-nude/" target="_blank" rel="noopener noreferrer">Lucian Freud’s Dozing Nude</a></h3>
+  <div class="meta">Hyperallergic · 2026-06-03 10:00 UTC</div>
+  <p class='summary'>Remembering Julio Le Parc, a dispatch from art shows in abandoned homes in Seattle, and more.</p>
+</article><article class="article">
+  <h3><a href="https://www.theartnewspaper.com/2026/06/03/venice-verdicts-art-world-figures-give-their-thoughts-on-the-2026-biennale" target="_blank" rel="noopener noreferrer">Venice verdicts: art world figures give their thoughts on the 2026 Biennale</a></h3>
+  <div class="meta">The Art Newspaper · 2026-06-03 09:41 UTC</div>
+  <p class='summary'>From Tai Shani to Ekow Eshun, seven leading art world figures reflect on Koyo Kouoh’s In Minor Keys, the main exhibition, as well as the national pavilions and other collateral and institutional exhibitions</p>
+</article><article class="article">
+  <h3><a href="https://www.theartnewspaper.com/2026/06/03/bringing-history-to-life-abu-dhabis-zayed-national-museum-is-becoming-a-major-research-hub" target="_blank" rel="noopener noreferrer">Bringing history to life: Abu Dhabi’s Zayed National Museum is becoming a major research hub</a></h3>
+  <div class="meta">The Art Newspaper · 2026-06-03 08:49 UTC</div>
+  <p class='summary'>The landmark institution uses experimental methodologies and cross-discipline collaborations to bring people closer to the UAE’s past—and to encourage the historians of the future</p>
+</article><article class="article">
+  <h3><a href="https://hyperallergic.com/15-art-shows-to-see-in-los-angeles-this-summer/" target="_blank" rel="noopener noreferrer">15 Art Shows to See in Los Angeles This Summer</a></h3>
+  <div class="meta">Hyperallergic · 2026-06-02 20:35 UTC</div>
+  <p class='summary'>A romp through early punk culture, Odilon Redon’s dreamy portraiture, Willie Birch’s papier-mâché odes to New Orleans, Samella Lewis’s visions in woodcut, and more.</p>
+</article><article class="article">
+  <h3><a href="https://hyperallergic.com/seattle-artists-breathe-life-into-houses-slated-for-demolition/" target="_blank" rel="noopener noreferrer">Seattle Artists Breathe Life Into Houses Slated for Demolition</a></h3>
+  <div class="meta">Hyperallergic · 2026-06-02 20:20 UTC</div>
+  <p class='summary'>“We want to act as a little eddy in the stream of gentrification, giving these houses one last burst of life before they’re gone,” one of the organizers of “Once Removed” told Hyperallergic.</p>
+</article><article class="article">
+  <h3><a href="https://hyperallergic.com/lucian-freuds-dozing-nude-could-fetch-47m-at-auction/" target="_blank" rel="noopener noreferrer">Lucian Freud’s Dozing Nude Could Fetch $47M at Auction</a></h3>
+  <div class="meta">Hyperallergic · 2026-06-02 20:19 UTC</div>
+  <p class='summary'>&quot;Sleeping By the Lion Carpet&quot; (1995–96) is the last in a series of monumental portraits of Sue Tilley in resting postures.</p>
+</article>
+</section>
+
+    <footer>
+      <p>Generated from <code>intake/feeds.yml</code> and daily sampling scripts.</p>
+      <p>本页由 GitHub Actions 自动生成，数据来自 RSS 源、Wikimedia Commons 与每日采样脚本；用于轻量阅读，不作为长期笔记归档。</p>
+    </footer>
+  </main>
+</body>
+</html>
