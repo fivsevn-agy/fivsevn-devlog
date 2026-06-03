@@ -200,6 +200,7 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
       --muted: #9ca3af;
       --border: #2a2f3a;
       --link: #d6b36a;
+      --site-green: #6becae;
     }}
 
     * {{
@@ -261,7 +262,7 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
     }}
 
     nav a {{
-      color: var(--link);
+      color: var(--site-green);
       text-decoration: none;
       border: 1px solid var(--border);
       border-radius: 999px;
@@ -362,6 +363,14 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
       margin: 0 0 8px;
       color: var(--muted);
       font-size: 0.95rem;
+    }}
+
+    .daily-field-sample a {{
+      color: var(--site-green);
+    }}
+
+    .daily-field-sample a:hover {{
+      color: var(--site-green);
     }}
 
     .postcard-original {{
