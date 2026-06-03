@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-
 from __future__ import annotations
 
 import html
@@ -11,7 +10,6 @@ from typing import Any
 
 import feedparser
 import yaml
-
 
 BASE_DIR = Path(__file__).resolve().parent
 CONFIG_PATH = BASE_DIR / "feeds.yml"
@@ -42,7 +40,6 @@ def parse_entry_date(entry: Any) -> datetime:
         value = entry.get(key)
         if not value:
             continue
-
         try:
             parsed = parsedate_to_datetime(value)
             if parsed.tzinfo is None:
@@ -50,7 +47,6 @@ def parse_entry_date(entry: Any) -> datetime:
             return parsed
         except Exception:
             continue
-
     return datetime.now(timezone.utc)
 
 
@@ -60,22 +56,18 @@ def format_datetime(dt: datetime) -> str:
 
 def fetch_feed(feed_name: str, feed_url: str) -> list[dict[str, Any]]:
     parsed = feedparser.parse(feed_url)
-
     if getattr(parsed, "bozo", False):
         print(f"[warn] feed parse warning: {feed_name} — {feed_url}")
 
     items: list[dict[str, Any]] = []
-
     for entry in parsed.entries:
         link = entry.get("link", "").strip()
         title = entry.get("title", "Untitled").strip()
-
         if not link or not title:
             continue
 
         raw_summary = entry.get("summary", "") or entry.get("description", "")
         summary = strip_html(raw_summary)
-
         published_dt = parse_entry_date(entry)
 
         items.append(
@@ -88,7 +80,6 @@ def fetch_feed(feed_name: str, feed_url: str) -> list[dict[str, Any]]:
                 "published": format_datetime(published_dt),
             }
         )
-
     return items
 
 
@@ -99,12 +90,10 @@ def build_section(section: dict[str, Any], max_items: int) -> list[dict[str, Any
     for feed in section.get("feeds", []):
         feed_name = feed.get("name", "Unknown Source")
         feed_url = feed.get("url")
-
         if not feed_url:
             continue
 
         print(f"[fetch] {feed_name}: {feed_url}")
-
         try:
             items = fetch_feed(feed_name, feed_url)
         except Exception as error:
@@ -113,10 +102,8 @@ def build_section(section: dict[str, Any], max_items: int) -> list[dict[str, Any
 
         for item in items:
             normalized_link = item["link"].split("?")[0].rstrip("/")
-
             if normalized_link in seen_links:
                 continue
-
             seen_links.add(normalized_link)
             all_items.append(item)
 
@@ -130,10 +117,7 @@ def render_article(item: dict[str, Any]) -> str:
     source = escape(item["source"])
     published = escape(item["published"])
     summary = escape(item.get("summary", ""))
-
-    summary_html = ""
-    if summary:
-        summary_html = f"<p class='summary'>{summary}</p>"
+    summary_html = f"<p class='summary'>{summary}</p>" if summary else ""
 
     return f"""
 <article class="article">
@@ -144,12 +128,11 @@ def render_article(item: dict[str, Any]) -> str:
 """.strip()
 
 
-
-def load_daily_field_sample_html() -> str:
-    field_sample_path = BASE_DIR / "data" / "daily_field_sample.html"
-    if not field_sample_path.exists():
+def load_fragment(filename: str) -> str:
+    fragment_path = BASE_DIR / "data" / filename
+    if not fragment_path.exists():
         return ""
-    return field_sample_path.read_text(encoding="utf-8").strip()
+    return fragment_path.read_text(encoding="utf-8").strip()
 
 
 def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, Any]]]) -> str:
@@ -159,13 +142,17 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
     subtitle = escape(site.get("subtitle", "A daily intake surface."))
     subtitle_zh = escape(site.get("subtitle_zh", "日常信息摄入入口。"))
     generated_at = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    daily_field_sample_html = load_daily_field_sample_html()
 
-    nav_parts = []
+    daily_postcard_html = load_fragment("daily_postcard.html")
+    daily_field_sample_html = load_fragment("daily_field_sample.html")
+
+    nav_parts: list[str] = []
+    if daily_postcard_html:
+        nav_parts.append('<a href="#daily-postcard">postcard / 明信片</a>')
     if daily_field_sample_html:
         nav_parts.append('<a href="#daily-field-sample">Daily Field Sample / 今日野采样本</a>')
-    section_parts = []
 
+    section_parts: list[str] = []
     for section_key, section in config.get("sections", {}).items():
         section_title = escape(section.get("title", section_key))
         section_title_zh = escape(section.get("title_zh", ""))
@@ -176,27 +163,12 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
         nav_label = section_title
         if section_title_zh:
             nav_label = f"{section_title} / {section_title_zh}"
-
         nav_parts.append(f'<a href="#{escape(section_key)}">{nav_label}</a>')
 
-        article_parts = []
-        if items:
-            for item in items:
-                article_parts.append(render_article(item))
-        else:
-            article_parts.append("<p class='empty'>No items fetched.</p>")
-
-        title_zh_html = ""
-        if section_title_zh:
-            title_zh_html = f"<p class='section-title-zh'>{section_title_zh}</p>"
-
-        description_html = ""
-        if section_description:
-            description_html = f"<p class='section-description'>{section_description}</p>"
-
-        description_zh_html = ""
-        if section_description_zh:
-            description_zh_html = f"<p class='section-description-zh'>{section_description_zh}</p>"
+        article_parts = [render_article(item) for item in items] if items else ["<p class='empty'>No items fetched.</p>"]
+        title_zh_html = f"<p class='section-title-zh'>{section_title_zh}</p>" if section_title_zh else ""
+        description_html = f"<p class='section-description'>{section_description}</p>" if section_description else ""
+        description_zh_html = f"<p class='section-description-zh'>{section_description_zh}</p>" if section_description_zh else ""
 
         section_parts.append(
             f"""
@@ -211,6 +183,7 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
         )
 
     nav_html = "\n".join(nav_parts)
+    modules_html = "\n".join(part for part in [daily_postcard_html, daily_field_sample_html] if part)
     sections_html = "\n".join(section_parts)
 
     return f"""<!doctype html>
@@ -329,32 +302,9 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
       margin-bottom: 18px;
     }}
 
-    .daily-field-sample {{
-      background: var(--panel);
-      border: 1px solid var(--border);
-      border-radius: 14px;
-      padding: 18px;
-      margin: 34px 0 42px;
-    }}
-
-    .daily-field-sample h2 {{
-      margin-bottom: 14px;
-    }}
-
-    .daily-field-sample p {{
-      margin: 12px 0;
-    }}
-
-    .daily-field-sample a {{
-      color: var(--link);
-      text-decoration: none;
-    }}
-
-    .daily-field-sample a:hover {{
-      text-decoration: underline;
-    }}
-
-    .article {{
+    .article,
+    .daily-field-sample,
+    .postcard-mail {{
       background: var(--panel);
       border: 1px solid var(--border);
       border-radius: 14px;
@@ -389,6 +339,69 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
       margin: 0;
     }}
 
+    .daily-field-sample h2 {{
+      margin-bottom: 14px;
+    }}
+
+    .daily-field-sample p {{
+      margin: 12px 0;
+    }}
+
+    .daily-field-sample a,
+    .postcard-mail a {{
+      color: var(--link);
+      text-decoration: none;
+    }}
+
+    .daily-field-sample a:hover,
+    .postcard-mail a:hover {{
+      text-decoration: underline;
+    }}
+
+    .mail-header {{
+      margin: 0 0 18px;
+      padding: 0;
+      white-space: pre-wrap;
+      word-break: break-word;
+      color: #d7dce5;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      font-size: 0.9rem;
+      line-height: 1.55;
+    }}
+
+    .mail-label {{
+      margin: 0 0 10px;
+      color: var(--text);
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      font-size: 0.9rem;
+    }}
+
+    .postcard-image-link {{
+      display: block;
+      line-height: 0;
+    }}
+
+    .postcard-image {{
+      display: block;
+      width: 100%;
+      max-height: 620px;
+      object-fit: contain;
+      border-radius: 10px;
+      border: 1px solid var(--border);
+      background: #0b0d12;
+    }}
+
+    .postcard-original {{
+      margin: 8px 0 0;
+      color: var(--muted);
+      font-size: 0.78rem;
+      word-break: break-all;
+    }}
+
+    .postcard-original a {{
+      color: var(--muted);
+    }}
+
     .empty {{
       color: var(--muted);
     }}
@@ -419,7 +432,7 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
       </nav>
     </header>
 
-    {daily_field_sample_html}
+    {modules_html}
 
     {sections_html}
 
@@ -437,7 +450,6 @@ def main() -> None:
     max_items = int(config.get("site", {}).get("max_items_per_section", 20))
 
     sections_data: dict[str, list[dict[str, Any]]] = {}
-
     for section_key, section in config.get("sections", {}).items():
         print(f"[section] {section_key}")
         sections_data[section_key] = build_section(section, max_items)
