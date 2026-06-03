@@ -9,7 +9,7 @@ on:
       - "news/build.py"
       - ".github/workflows/build-news.yml"
   schedule:
-    - cron: "0 */3 * * *"
+    - cron: "57 23 * * *"
 
 permissions:
   contents: write
