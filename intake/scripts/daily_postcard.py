@@ -1,145 +1,204 @@
-#!/usr/bin/env python3
-from __future__ import annotations
-
 import html
 import json
 import re
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
-from typing import Any
+from urllib.parse import quote
 
 import requests
 
-BASE_DIR = Path(__file__).resolve().parents[1]
-OUTPUT_DIR = BASE_DIR / "data"
+OUTPUT_DIR = Path("data")
 OUTPUT_JSON = OUTPUT_DIR / "daily_postcard.json"
 OUTPUT_HTML = OUTPUT_DIR / "daily_postcard.html"
+
 COMMONS_API = "https://commons.wikimedia.org/w/api.php"
-USER_AGENT = "fivsevn-devlog-intake/1.0 (https://devlog.fivsevn.com/intake/)"
+HEADERS = {
+    "User-Agent": "fivsevn-devlog-intake/1.0 (https://devlog.fivsevn.com/intake/)"
+}
 
 
-def commons_get(params: dict[str, Any]) -> dict[str, Any]:
-    response = requests.get(
-        COMMONS_API,
-        params={"format": "json", "formatversion": 2, **params},
-        headers={"User-Agent": USER_AGENT},
-        timeout=30,
-    )
-    response.raise_for_status()
-    data = response.json()
-    if "error" in data:
-        raise RuntimeError(data["error"].get("info", "Commons API error"))
-    return data
+def commons_get(params: dict) -> dict:
+    res = requests.get(COMMONS_API, params=params, headers=HEADERS, timeout=30)
+    res.raise_for_status()
+    return res.json()
 
 
-def get_potd_file_name(date_value: datetime) -> str:
-    page = f"Template:Potd/{date_value:%Y-%m-%d}"
-    data = commons_get(
-        {
-            "action": "parse",
-            "page": page,
-            "prop": "wikitext",
-        }
-    )
-    wikitext = data["parse"]["wikitext"]
-    file_name = re.sub(r"<!--.*?-->", "", wikitext, flags=re.S).strip()
-    file_name = file_name.strip("[] ")
-    file_name = re.sub(r"^:?\s*(File|Image):", "", file_name, flags=re.I).strip()
-    if not file_name:
-        raise RuntimeError(f"No Picture of the Day file found for {date_value:%Y-%m-%d}")
-    return file_name
-
-
-def get_image_info(file_name: str) -> dict[str, Any]:
+def fetch_page_wikitext(title: str) -> str | None:
     data = commons_get(
         {
             "action": "query",
-            "titles": f"File:{file_name}",
-            "prop": "imageinfo",
-            "iiprop": "url|canonicaltitle|extmetadata",
-            "iiurlwidth": 1200,
+            "format": "json",
+            "formatversion": "2",
+            "prop": "revisions",
+            "rvprop": "content",
+            "rvslots": "main",
+            "titles": title,
         }
     )
-    pages = data["query"]["pages"]
-    if not pages:
-        raise RuntimeError(f"No Commons file page returned for {file_name}")
 
-    page = pages[0]
-    imageinfo = page.get("imageinfo") or []
+    pages = data.get("query", {}).get("pages", [])
+    if not pages or pages[0].get("missing"):
+        return None
+
+    revisions = pages[0].get("revisions", [])
+    if not revisions:
+        return None
+
+    slots = revisions[0].get("slots", {})
+    main = slots.get("main", {})
+    return main.get("content")
+
+
+def clean_filename(value: str) -> str:
+    value = value.strip()
+    value = re.sub(r"^File:", "", value, flags=re.IGNORECASE).strip()
+    value = value.replace("_", " ")
+    return value
+
+
+def extract_filename_from_wikitext(wikitext: str) -> str | None:
+    """Extract the file name from Commons POTD template wikitext.
+
+    Commons POTD pages often contain something like:
+    {{Potd filename|1=Example.jpg|2=2026|3=06|4=04}}
+
+    Sometimes the first parameter is positional:
+    {{Potd filename|Example.jpg|2026|06|04}}
+    """
+    if not wikitext:
+        return None
+
+    # Most common: {{Potd filename|1=Some image.jpg|2=YYYY|3=MM|4=DD}}
+    match = re.search(
+        r"\{\{\s*Potd filename\s*\|\s*1\s*=\s*([^|}\n]+)",
+        wikitext,
+        flags=re.IGNORECASE,
+    )
+    if match:
+        return clean_filename(match.group(1))
+
+    # Positional fallback: {{Potd filename|Some image.jpg|YYYY|MM|DD}}
+    match = re.search(
+        r"\{\{\s*Potd filename\s*\|\s*([^|}\n]+)",
+        wikitext,
+        flags=re.IGNORECASE,
+    )
+    if match:
+        first = match.group(1).strip()
+        if "=" not in first:
+            return clean_filename(first)
+
+    # Direct file fallback.
+    match = re.search(r"(?:File|Image):([^\]|\n]+)", wikitext, flags=re.IGNORECASE)
+    if match:
+        return clean_filename(match.group(1))
+
+    return None
+
+
+def fetch_image_info(filename: str) -> dict | None:
+    title = f"File:{filename}"
+    data = commons_get(
+        {
+            "action": "query",
+            "format": "json",
+            "formatversion": "2",
+            "prop": "imageinfo",
+            "iiprop": "url|extmetadata",
+            "titles": title,
+        }
+    )
+
+    pages = data.get("query", {}).get("pages", [])
+    if not pages or pages[0].get("missing"):
+        return None
+
+    imageinfo = pages[0].get("imageinfo", [])
     if not imageinfo:
-        raise RuntimeError(f"No image info returned for {file_name}")
+        return None
 
     info = imageinfo[0]
-    extmetadata = info.get("extmetadata") or {}
-    title = page.get("title", f"File:{file_name}")
-
     return {
-        "title": title,
-        "image_url": info.get("thumburl") or info.get("url"),
-        "original_url": info.get("descriptionurl") or f"https://commons.wikimedia.org/wiki/{title.replace(' ', '_')}",
-        "artist": clean_metadata(extmetadata.get("Artist", {}).get("value", "")),
-        "license": clean_metadata(extmetadata.get("LicenseShortName", {}).get("value", "")),
+        "filename": filename,
+        "file_page_url": f"https://commons.wikimedia.org/wiki/File:{quote(filename.replace(' ', '_'), safe=':/_')}",
+        "image_url": info.get("url"),
+        "metadata": info.get("extmetadata", {}),
     }
 
 
-def clean_metadata(value: str) -> str:
-    value = re.sub(r"<[^>]+>", " ", value or "")
-    value = re.sub(r"\s+", " ", value)
-    return html.unescape(value).strip()
+def metadata_value(metadata: dict, key: str) -> str:
+    value = metadata.get(key, {}).get("value", "")
+    return re.sub(r"<[^>]+>", "", value).strip()
 
 
-def fetch_postcard() -> dict[str, Any]:
-    # Commons POTD templates are sometimes prepared in UTC with slight timing gaps.
-    # Try today first, then walk backward for a recent available postcard.
-    now = datetime.now(timezone.utc)
-    last_error: Exception | None = None
-    for days_back in range(0, 7):
-        date_value = now - timedelta(days=days_back)
+def fetch_postcard() -> dict:
+    today = datetime.now(timezone.utc).date()
+    last_error = None
+
+    # Commons POTD can occasionally be missing or structured differently.
+    # Try today, then recent previous days as fallbacks.
+    for delta in range(0, 10):
+        day = today - timedelta(days=delta)
+        template_title = f"Template:Potd/{day.isoformat()}"
+
         try:
-            file_name = get_potd_file_name(date_value)
-            image_info = get_image_info(file_name)
-            image_url = image_info.get("image_url")
-            original_url = image_info.get("original_url")
-            if not image_url or not original_url:
-                raise RuntimeError("Commons image info did not include usable URLs.")
+            wikitext = fetch_page_wikitext(template_title)
+            filename = extract_filename_from_wikitext(wikitext or "")
+            if not filename:
+                last_error = f"No filename found in {template_title}"
+                continue
+
+            image_info = fetch_image_info(filename)
+            if not image_info or not image_info.get("image_url"):
+                last_error = f"No image info returned for {filename}"
+                continue
+
+            metadata = image_info.get("metadata", {})
+            title = metadata_value(metadata, "ObjectName") or filename
+            description = metadata_value(metadata, "ImageDescription")
+            license_short = metadata_value(metadata, "LicenseShortName")
+            artist = metadata_value(metadata, "Artist")
+
             return {
-                "date": date_value.strftime("%Y-%m-%d"),
-                "subject": "You have one postcard waiting to be viewed! 你有一张明信片待查收！",
+                "date": day.isoformat(),
                 "from": "Wikimedia Commons <picture-of-the-day@commons.wikimedia.org>",
                 "to": "fivsevn <intake@devlog.fivsevn.com>",
-                "file_name": file_name,
-                "title": image_info["title"],
-                "image_url": image_url,
-                "original_url": original_url,
-                "artist": image_info.get("artist", ""),
-                "license": image_info.get("license", ""),
-                "generated_at": now.isoformat(),
+                "subject": "You have one postcard waiting to be viewed! 你有一张明信片待查收！",
+                "title": title,
+                "description": description,
+                "artist": artist,
+                "license": license_short,
+                "image_url": image_info["image_url"],
+                "original_url": image_info["file_page_url"],
+                "source": "Wikimedia Commons Picture of the Day",
+                "generated_at": datetime.now(timezone.utc).isoformat(),
             }
-        except Exception as error:
-            last_error = error
+        except Exception as exc:
+            last_error = str(exc)
             continue
+
     raise RuntimeError(f"Failed to fetch Wikimedia Commons postcard: {last_error}")
 
 
-def render_html(payload: dict[str, Any]) -> str:
-    mail_from = html.escape(payload["from"])
-    mail_to = html.escape(payload["to"])
-    date = html.escape(payload["date"])
-    subject = html.escape(payload["subject"])
+def render_html(payload: dict) -> str:
+    from_line = html.escape(payload["from"])
+    to_line = html.escape(payload["to"])
+    date_line = html.escape(payload["date"])
+    subject_line = html.escape(payload["subject"])
     image_url = html.escape(payload["image_url"], quote=True)
     original_url = html.escape(payload["original_url"], quote=True)
-    image_alt = html.escape(payload.get("title") or "Wikimedia Commons Picture of the Day", quote=True)
+    title = html.escape(payload.get("title") or "Wikimedia Commons Picture of the Day")
 
     return f'''<section id="daily-postcard" class="postcard-mail">
-  <pre class="mail-header">From: {mail_from}
-To: {mail_to}
-Date: {date}
-Subject: {subject}</pre>
+  <pre class="mail-header">From: {from_line}
+To: {to_line}
+Date: {date_line}
+Subject: {subject_line}</pre>
 
   <p class="mail-label">View postcard:</p>
 
-  <a class="postcard-image-link" href="{original_url}" target="_blank" rel="noopener noreferrer">
-    <img class="postcard-image" src="{image_url}" alt="{image_alt}" loading="lazy">
+  <a href="{original_url}" target="_blank" rel="noopener noreferrer">
+    <img class="postcard-image" src="{image_url}" alt="{title}" loading="lazy">
   </a>
 
   <p class="postcard-original">Original: <a href="{original_url}" target="_blank" rel="noopener noreferrer">{original_url}</a></p>
@@ -150,9 +209,14 @@ Subject: {subject}</pre>
 def main() -> None:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     payload = fetch_postcard()
-    OUTPUT_JSON.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+
+    OUTPUT_JSON.write_text(
+        json.dumps(payload, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
     OUTPUT_HTML.write_text(render_html(payload), encoding="utf-8")
-    print(f"[daily postcard] {payload['date']} — {payload['title']}")
+
+    print(f"Daily postcard: {payload['date']} - {payload['title']}")
 
 
 if __name__ == "__main__":
