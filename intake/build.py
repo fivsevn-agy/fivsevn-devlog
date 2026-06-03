@@ -14,6 +14,7 @@ import yaml
 BASE_DIR = Path(__file__).resolve().parent
 CONFIG_PATH = BASE_DIR / "feeds.yml"
 OUTPUT_PATH = BASE_DIR / "index.html"
+DATA_DIR = BASE_DIR / "data"
 
 
 def load_config() -> dict[str, Any]:
@@ -80,6 +81,7 @@ def fetch_feed(feed_name: str, feed_url: str) -> list[dict[str, Any]]:
                 "published": format_datetime(published_dt),
             }
         )
+
     return items
 
 
@@ -129,7 +131,7 @@ def render_article(item: dict[str, Any]) -> str:
 
 
 def load_fragment(filename: str) -> str:
-    fragment_path = BASE_DIR / "data" / filename
+    fragment_path = DATA_DIR / filename
     if not fragment_path.exists():
         return ""
     return fragment_path.read_text(encoding="utf-8").strip()
@@ -137,11 +139,9 @@ def load_fragment(filename: str) -> str:
 
 def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, Any]]]) -> str:
     site = config.get("site", {})
-    title = escape(site.get("title", "fivsevn / intake"))
-    title_zh = escape(site.get("title_zh", "fivsevn / 日常摄入"))
-    subtitle = escape(site.get("subtitle", "A daily intake surface."))
-    subtitle_zh = escape(site.get("subtitle_zh", "日常信息摄入入口。"))
-    generated_at = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    title = escape(site.get("title", "Today’s Arrival"))
+    title_zh = escape(site.get("title_zh", "本日入荷"))
+    opened_at = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
     daily_postcard_html = load_fragment("daily_postcard.html")
     daily_field_sample_html = load_fragment("daily_field_sample.html")
@@ -234,34 +234,30 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
     }}
 
     .title-zh {{
-      margin: 0 0 12px;
+      margin: 0 0 22px;
       color: var(--text);
       font-size: 1.15rem;
       font-weight: 500;
     }}
 
-    .subtitle,
-    .subtitle-zh {{
+    .kicker {{
+      margin: 16px 0 2px;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }}
+
+    .kicker-value {{
       margin: 0;
-      color: var(--muted);
-      max-width: 760px;
-    }}
-
-    .subtitle-zh {{
-      margin-top: 4px;
-    }}
-
-    .generated {{
-      margin-top: 10px;
-      color: var(--muted);
-      font-size: 0.9rem;
+      color: var(--text);
+      font-size: 1.05rem;
+      font-weight: 600;
     }}
 
     nav {{
       display: flex;
       flex-wrap: wrap;
       gap: 10px;
-      margin-top: 22px;
+      margin-top: 8px;
     }}
 
     nav a {{
@@ -339,56 +335,33 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
       margin: 0;
     }}
 
-    .daily-field-sample h2 {{
-      margin-bottom: 14px;
+    .empty {{
+      color: var(--muted);
     }}
 
-    .daily-field-sample p {{
-      margin: 12px 0;
-    }}
-
-    .daily-field-sample a,
-    .postcard-mail a {{
-      color: var(--link);
-      text-decoration: none;
-    }}
-
-    .daily-field-sample a:hover,
-    .postcard-mail a:hover {{
-      text-decoration: underline;
-    }}
-
+    .postcard-mail pre,
     .mail-header {{
-      margin: 0 0 18px;
-      padding: 0;
+      margin: 0 0 16px;
       white-space: pre-wrap;
-      word-break: break-word;
-      color: #d7dce5;
-      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      color: var(--text);
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
       font-size: 0.9rem;
       line-height: 1.55;
     }}
 
-    .mail-label {{
-      margin: 0 0 10px;
-      color: var(--text);
-      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-      font-size: 0.9rem;
-    }}
-
-    .postcard-image-link {{
+    .postcard-mail img {{
       display: block;
-      line-height: 0;
-    }}
-
-    .postcard-image {{
-      display: block;
-      width: 100%;
-      max-height: 620px;
-      object-fit: contain;
+      max-width: 100%;
+      max-height: 640px;
+      height: auto;
       border-radius: 10px;
       border: 1px solid var(--border);
-      background: #0b0d12;
+    }}
+
+    .mail-label {{
+      margin: 0 0 8px;
+      color: var(--muted);
+      font-size: 0.95rem;
     }}
 
     .postcard-original {{
@@ -402,16 +375,16 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
       color: var(--muted);
     }}
 
-    .empty {{
-      color: var(--muted);
-    }}
-
     footer {{
       margin-top: 48px;
       padding-top: 20px;
       border-top: 1px solid var(--border);
       color: var(--muted);
       font-size: 0.9rem;
+    }}
+
+    footer p {{
+      margin: 6px 0;
     }}
 
     code {{
@@ -424,20 +397,25 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
     <header>
       <h1>{title}</h1>
       <p class="title-zh">{title_zh}</p>
-      <p class="subtitle">{subtitle}</p>
-      <p class="subtitle-zh">{subtitle_zh}</p>
-      <p class="generated">Generated at {generated_at}</p>
+
+      <p class="kicker">Courier on duty / 今日投递员：</p>
+      <p class="kicker-value">GitHub Actions</p>
+
+      <p class="kicker">Shift opened / 到店时间：</p>
+      <p class="kicker-value">{opened_at}</p>
+
+      <p class="kicker">On the shelf / 今日上架：</p>
       <nav>
         {nav_html}
       </nav>
     </header>
 
     {modules_html}
-
     {sections_html}
 
     <footer>
-      Generated from <code>intake/feeds.yml</code>. This page is a daily intake surface, not a permanent note archive.
+      <p>Generated from <code>intake/feeds.yml</code> and daily sampling scripts.</p>
+      <p>本页由 GitHub Actions 自动生成，数据来自 RSS 源、Wikimedia Commons 与每日采样脚本；用于轻量阅读，不作为长期笔记归档。</p>
     </footer>
   </main>
 </body>
