@@ -46,6 +46,23 @@ intake/
 - `build.py` fetches RSS feeds, loads the daily fragments, and generates `index.html`.
 - `index.html` is the public page served at `/intake/`.
 
+## Header model
+
+The generated page uses a lightweight convenience-store/newspaper-stand frame:
+
+```text
+Courier on duty / 今日投递员：
+GitHub Actions
+
+Shift opened / 到店时间：
+YYYY-MM-DD HH:MM UTC
+
+On the shelf / 今日上架：
+[section tags]
+```
+
+Operational notes stay in the footer so the top of the page reads like a daily arrival shelf rather than a project description.
+
 ## Update model
 
 The page is designed to be regenerated automatically by GitHub Actions.
