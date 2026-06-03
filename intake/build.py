@@ -146,8 +146,10 @@ def render_article(item: dict[str, Any]) -> str:
 
 def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, Any]]]) -> str:
     site = config.get("site", {})
-    title = escape(site.get("title", "Daily News Radar"))
-    subtitle = escape(site.get("subtitle", "A lightweight daily reading surface."))
+    title = escape(site.get("title", "fivsevn / intake"))
+    title_zh = escape(site.get("title_zh", "fivsevn / 日常摄入"))
+    subtitle = escape(site.get("subtitle", "A daily intake surface."))
+    subtitle_zh = escape(site.get("subtitle_zh", "日常信息摄入入口。"))
     generated_at = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
     nav_parts = []
@@ -155,10 +157,16 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
 
     for section_key, section in config.get("sections", {}).items():
         section_title = escape(section.get("title", section_key))
+        section_title_zh = escape(section.get("title_zh", ""))
         section_description = escape(section.get("description", ""))
+        section_description_zh = escape(section.get("description_zh", ""))
         items = sections_data.get(section_key, [])
 
-        nav_parts.append(f'<a href="#{escape(section_key)}">{section_title}</a>')
+        nav_label = section_title
+        if section_title_zh:
+            nav_label = f"{section_title} / {section_title_zh}"
+
+        nav_parts.append(f'<a href="#{escape(section_key)}">{nav_label}</a>')
 
         article_parts = []
         if items:
@@ -167,15 +175,25 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
         else:
             article_parts.append("<p class='empty'>No items fetched.</p>")
 
+        title_zh_html = ""
+        if section_title_zh:
+            title_zh_html = f"<p class='section-title-zh'>{section_title_zh}</p>"
+
         description_html = ""
         if section_description:
             description_html = f"<p class='section-description'>{section_description}</p>"
+
+        description_zh_html = ""
+        if section_description_zh:
+            description_zh_html = f"<p class='section-description-zh'>{section_description_zh}</p>"
 
         section_parts.append(
             f"""
 <section id="{escape(section_key)}">
   <h2>{section_title}</h2>
+  {title_zh_html}
   {description_html}
+  {description_zh_html}
   {''.join(article_parts)}
 </section>
 """.strip()
@@ -231,10 +249,22 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
       line-height: 1.1;
     }}
 
-    .subtitle {{
+    .title-zh {{
+      margin: 0 0 12px;
+      color: var(--text);
+      font-size: 1.15rem;
+      font-weight: 500;
+    }}
+
+    .subtitle,
+    .subtitle-zh {{
       margin: 0;
       color: var(--muted);
-      max-width: 720px;
+      max-width: 760px;
+    }}
+
+    .subtitle-zh {{
+      margin-top: 4px;
     }}
 
     .generated {{
@@ -264,15 +294,28 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
     }}
 
     h2 {{
-      margin: 0 0 6px;
+      margin: 0 0 2px;
       padding-bottom: 8px;
       border-bottom: 1px solid var(--border);
       font-size: 1.4rem;
     }}
 
-    .section-description {{
+    .section-title-zh {{
+      margin: -2px 0 6px;
+      color: var(--text);
+      font-size: 1rem;
+      font-weight: 500;
+    }}
+
+    .section-description,
+    .section-description-zh {{
       color: var(--muted);
-      margin: 0 0 18px;
+      margin: 0;
+    }}
+
+    .section-description-zh {{
+      margin-top: 4px;
+      margin-bottom: 18px;
     }}
 
     .article {{
@@ -331,7 +374,9 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
   <main>
     <header>
       <h1>{title}</h1>
+      <p class="title-zh">{title_zh}</p>
       <p class="subtitle">{subtitle}</p>
+      <p class="subtitle-zh">{subtitle_zh}</p>
       <p class="generated">Generated at {generated_at}</p>
       <nav>
         {nav_html}
@@ -341,7 +386,7 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
     {sections_html}
 
     <footer>
-      Generated from <code>news/feeds.yml</code>. This page is a daily intake surface, not a permanent note archive.
+      Generated from <code>intake/feeds.yml</code>. This page is a daily intake surface, not a permanent note archive.
     </footer>
   </main>
 </body>
