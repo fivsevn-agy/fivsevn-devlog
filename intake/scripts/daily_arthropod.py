@@ -96,6 +96,7 @@ def build_payload(item: dict[str, Any]) -> dict[str, Any]:
     )
 
     google_query = urllib.parse.quote_plus(scientific_name)
+    col_query = urllib.parse.quote_plus(scientific_name)
 
     return {
         "title": "Daily Field Sample / 今日野采样本",
@@ -103,8 +104,16 @@ def build_payload(item: dict[str, Any]) -> dict[str, Any]:
         "taxonomy": taxonomy,
         "source_name": "GBIF",
         "source_url": f"https://www.gbif.org/species/{usage_key}",
-        "search_name": "Google",
-        "search_url": f"https://www.google.com/search?q={google_query}",
+        "search_links": [
+            {
+                "name": "Google",
+                "url": f"https://www.google.com/search?q={google_query}",
+            },
+            {
+                "name": "COL",
+                "url": f"https://www.catalogueoflife.org/data/search?q={col_query}",
+            },
+        ],
         "generated_at": datetime.now(timezone.utc).isoformat(),
     }
 
@@ -115,8 +124,10 @@ def render_html(payload: dict[str, Any]) -> str:
     taxonomy = html.escape(payload["taxonomy"])
     source_name = html.escape(payload["source_name"])
     source_url = html.escape(payload["source_url"], quote=True)
-    search_name = html.escape(payload["search_name"])
-    search_url = html.escape(payload["search_url"], quote=True)
+    search_links = " · ".join(
+        f'<a href="{html.escape(link["url"], quote=True)}" target="_blank" rel="noopener noreferrer">{html.escape(link["name"])}</a>'
+        for link in payload["search_links"]
+    )
 
     return f'''<section id="daily-arthropod" class="daily-arthropod">
   <h2>{title}</h2>
@@ -138,7 +149,7 @@ def render_html(payload: dict[str, Any]) -> str:
 
   <p>
     <strong>Search / 搜索:</strong><br>
-    <a href="{search_url}" target="_blank" rel="noopener noreferrer">{search_name}</a>
+    {search_links}
   </p>
 </section>
 '''
