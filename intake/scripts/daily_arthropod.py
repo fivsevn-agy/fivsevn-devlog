@@ -36,7 +36,7 @@ def get_species_count() -> int:
     data = gbif_get(
         "/species/search",
         {
-            "higherTaxonKey": ARTHROPODA_KEY,
+            "highertaxon_key": ARTHROPODA_KEY,
             "rank": "SPECIES",
             "status": "ACCEPTED",
             "limit": 0,
@@ -52,7 +52,7 @@ def fetch_random_species(count: int) -> dict[str, Any]:
     data = gbif_get(
         "/species/search",
         {
-            "higherTaxonKey": ARTHROPODA_KEY,
+            "highertaxon_key": ARTHROPODA_KEY,
             "rank": "SPECIES",
             "status": "ACCEPTED",
             "limit": limit,
