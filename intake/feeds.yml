@@ -1,6 +1,6 @@
 site:
-  title: "📰 本日入荷｜Today’s Arrival"
-  title_zh: ""
+  title: "📰 Today’s Arrival"
+  title_zh: "本日入荷"
   subtitle: "A daily intake shelf powered by GitHub Actions."
   subtitle_zh: "由 GitHub Actions 每日自动抓取新闻。"
   max_items_per_section: 15
