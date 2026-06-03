@@ -145,13 +145,11 @@ def render_article(item: dict[str, Any]) -> str:
 
 
 
-DAILY_FIELD_SAMPLE_PATH = BASE_DIR / "data" / "daily_arthropod.html"
-
-
 def load_daily_field_sample_html() -> str:
-    if not DAILY_FIELD_SAMPLE_PATH.exists():
+    arthropod_path = BASE_DIR / "data" / "daily_arthropod.html"
+    if not arthropod_path.exists():
         return ""
-    return DAILY_FIELD_SAMPLE_PATH.read_text(encoding="utf-8").strip()
+    return arthropod_path.read_text(encoding="utf-8").strip()
 
 
 def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, Any]]]) -> str:
@@ -165,7 +163,7 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
 
     nav_parts = []
     if daily_field_sample_html:
-        nav_parts.append('<a href="#daily-field-sample">Daily Field Sample / 今日野外样本</a>')
+        nav_parts.append('<a href="#daily-field-sample">Daily Field Sample / 今日野采样本</a>')
     section_parts = []
 
     for section_key, section in config.get("sections", {}).items():
@@ -331,8 +329,7 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
       margin-bottom: 18px;
     }}
 
-    .daily-field-sample,
-    .daily-arthropod {{
+    .daily-field-sample {{
       background: var(--panel);
       border: 1px solid var(--border);
       border-radius: 14px;
@@ -340,24 +337,20 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
       margin: 34px 0 42px;
     }}
 
-    .daily-field-sample h2,
-    .daily-arthropod h2 {{
+    .daily-field-sample h2 {{
       margin-bottom: 14px;
     }}
 
-    .daily-field-sample p,
-    .daily-arthropod p {{
+    .daily-field-sample p {{
       margin: 12px 0;
     }}
 
-    .daily-field-sample a,
-    .daily-arthropod a {{
+    .daily-field-sample a {{
       color: var(--link);
       text-decoration: none;
     }}
 
-    .daily-field-sample a:hover,
-    .daily-arthropod a:hover {{
+    .daily-field-sample a:hover {{
       text-decoration: underline;
     }}
 
