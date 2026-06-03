@@ -1,5 +1,5 @@
 site:
-  title: "📰 今日上架｜本日の入荷｜Today’s Arrival"
+  title: "📰 本日入荷｜Today’s Arrival"
   title_zh: ""
   subtitle: "A daily intake shelf powered by GitHub Actions."
   subtitle_zh: "由 GitHub Actions 每日自动抓取新闻。"
