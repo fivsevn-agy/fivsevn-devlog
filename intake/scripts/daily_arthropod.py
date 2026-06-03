@@ -47,7 +47,8 @@ def get_species_count() -> int:
 
 def fetch_random_species(count: int) -> dict[str, Any]:
     limit = 20
-    offset = random.randint(0, max(0, count - limit))
+    max_offset = min(max(0, count - limit), 99980)
+    offset = random.randint(0, max_offset)
 
     data = gbif_get(
         "/species/search",
