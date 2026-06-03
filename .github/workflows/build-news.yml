@@ -1,12 +1,12 @@
-name: Build News Page
+name: Build Intake Page
 
 on:
   workflow_dispatch:
   push:
     paths:
-      - "news/feeds.yml"
-      - "news/requirements.txt"
-      - "news/build.py"
+      - "intake/feeds.yml"
+      - "intake/requirements.txt"
+      - "intake/build.py"
       - ".github/workflows/build-news.yml"
   schedule:
     - cron: "57 23 * * *"
@@ -15,7 +15,7 @@ permissions:
   contents: write
 
 jobs:
-  build-news:
+  build-intake:
     runs-on: ubuntu-latest
 
     steps:
@@ -28,13 +28,13 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install -r news/requirements.txt
+        run: pip install -r intake/requirements.txt
 
-      - name: Build news page
-        run: python news/build.py
+      - name: Build intake page
+        run: python intake/build.py
 
       - name: Commit generated page
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore(news): update generated news page"
-          file_pattern: news/index.html
+          commit_message: "chore(intake): update generated intake page"
+          file_pattern: intake/index.html
