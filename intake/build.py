@@ -455,8 +455,7 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
     {sections_html}
 
     <footer>
-      <p>Generated from <code>intake/feeds.yml</code> and daily sampling scripts.</p>
-      <p>本页由 GitHub Actions 自动生成，数据来自 RSS 源、Wikimedia Commons 与每日采样脚本；用于轻量阅读，不作为长期笔记归档。</p>
+      <p>GitHub Actions 每日生成，数据来自 RSS 与采样脚本。<a href="https://github.com/fivsevn-agy/fivsevn-devlog/tree/233c5bab2dba086446db83ee8e7b232b46c53a1a/intake">查看仓库</a></p>
     </footer>
   </main>
 </body>
