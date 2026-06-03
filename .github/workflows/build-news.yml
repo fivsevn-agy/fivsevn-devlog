@@ -1,0 +1,40 @@
+name: Build News Page
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "news/feeds.yml"
+      - "news/requirements.txt"
+      - "news/build.py"
+      - ".github/workflows/build-news.yml"
+  schedule:
+    - cron: "0 */3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r news/requirements.txt
+
+      - name: Build news page
+        run: python news/build.py
+
+      - name: Commit generated page
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(news): update generated news page"
+          file_pattern: news/index.html
