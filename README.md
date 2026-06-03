@@ -9,9 +9,9 @@
 > 会存放暂未转入正文结构的草稿
 
 ---
-🆕 [近况速报｜now page](/now/index.md)
+### 🆕 [now page｜近况速报](/now/index.md)
 
-📰 [本日の入荷｜newsstand drop](https://devlog.fivsevn.com/intake)
+### 📰 [Today’s Arrival｜本日入荷](https://devlog.fivsevn.com/intake)
 
 ---
 ## 🖋️ posts
