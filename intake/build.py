@@ -199,7 +199,7 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
       --text: #e8e8e8;
       --muted: #9ca3af;
       --border: #2a2f3a;
-      --link: #8ab4ff;
+      --link: #d6b36a;
     }}
 
     * {{
