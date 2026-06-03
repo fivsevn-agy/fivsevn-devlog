@@ -14,12 +14,14 @@ Notes, reflections, and long-form writing derived from the news should be routed
 
 ## Files
 
+```
 news/
 ├── README.md
 ├── feeds.yml
 ├── requirements.txt
 ├── build.py
 └── index.html
+```
 
 ## File roles
 
