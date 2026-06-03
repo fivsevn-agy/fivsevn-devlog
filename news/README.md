@@ -2,8 +2,9 @@
 This directory contains the daily news reading surface for:
 ```text
 devlog.fivsevn.com/news/
+```
 
-Role
+## Role
 
 news/ is a lightweight daily intake surface.
 
@@ -11,7 +12,7 @@ It is used for reading current updates from selected RSS feeds. It does not serv
 
 Notes, reflections, and long-form writing derived from the news should be routed separately into the relevant devlog sections.
 
-Files
+## Files
 
 news/
 ├── README.md
@@ -20,14 +21,14 @@ news/
 ├── build.py
 └── index.html
 
-File roles
+## File roles
 
 * feeds.yml defines the RSS sources and section structure.
 * requirements.txt defines Python dependencies for the builder.
 * build.py fetches RSS feeds and generates index.html.
 * index.html is the public page served at /news/.
 
-Update model
+## Update model
 
 The page is designed to be regenerated automatically.
 
@@ -36,7 +37,7 @@ Manual build:
 pip install -r news/requirements.txt
 python news/build.py
 
-Boundary
+## Boundary
 
 This page is for daily reading only.
 
