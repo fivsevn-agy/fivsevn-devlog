@@ -11,7 +11,7 @@
       --text: #e8e8e8;
       --muted: #9ca3af;
       --border: #2a2f3a;
-      --link: #d6b36a;
+      --link: #8ab4ff;
       --site-green: #6becae;
     }
 
@@ -47,30 +47,30 @@
     }
 
     .title-zh {
-      margin: 0 0 22px;
+      margin: 0 0 28px;
       color: var(--text);
       font-size: 1.15rem;
       font-weight: 500;
     }
 
     .kicker {
-      margin: 16px 0 2px;
+      margin: 18px 0 2px;
       color: var(--muted);
       font-size: 0.95rem;
     }
 
     .kicker-value {
-      margin: 0;
+      margin: 0 0 8px;
       color: var(--text);
       font-size: 1.05rem;
-      font-weight: 600;
+      font-weight: 650;
     }
 
     nav {
       display: flex;
       flex-wrap: wrap;
       gap: 10px;
-      margin-top: 8px;
+      margin-top: 12px;
     }
 
     nav a {
@@ -80,6 +80,10 @@
       border-radius: 999px;
       padding: 5px 12px;
       font-size: 0.9rem;
+    }
+
+    nav a:hover {
+      border-color: var(--site-green);
     }
 
     section {
@@ -121,6 +125,80 @@
       margin: 14px 0;
     }
 
+    .postcard-mail {
+      padding: 18px;
+    }
+
+    .postcard-header {
+      margin: 0 0 20px;
+      color: var(--muted);
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      font-size: 0.95rem;
+      line-height: 1.55;
+      white-space: normal;
+    }
+
+    .postcard-header div {
+      margin: 0;
+    }
+
+    .postcard-header strong {
+      color: var(--muted);
+      font-weight: 800;
+    }
+
+    .postcard-header a {
+      color: var(--muted);
+      text-decoration: underline;
+      text-underline-offset: 2px;
+    }
+
+    .postcard-label {
+      margin: 0 0 10px;
+      color: var(--muted);
+      font-weight: 650;
+    }
+
+    .postcard-image-link {
+      display: block;
+      width: fit-content;
+      max-width: 100%;
+    }
+
+    .postcard-image {
+      display: block;
+      max-width: 100%;
+      max-height: 620px;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      object-fit: contain;
+    }
+
+    .postcard-original {
+      margin: 8px 0 0;
+      color: var(--muted);
+      font-size: 0.78rem;
+      word-break: break-all;
+    }
+
+    .postcard-original a {
+      color: var(--muted);
+      text-decoration: underline;
+      text-underline-offset: 2px;
+    }
+
+    .daily-field-sample h2 {
+      margin-bottom: 18px;
+    }
+
+    .daily-field-sample p {
+      margin: 0 0 18px;
+    }
+
+    .daily-field-sample a {
+      color: var(--site-green);
+    }
+
     .article h3 {
       margin: 0 0 8px;
       font-size: 1.05rem;
@@ -152,60 +230,12 @@
       color: var(--muted);
     }
 
-    .postcard-mail pre,
-    .mail-header {
-      margin: 0 0 16px;
-      white-space: pre-wrap;
-      color: var(--text);
-      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
-      font-size: 0.9rem;
-      line-height: 1.55;
-    }
-
-    .postcard-mail img {
-      display: block;
-      max-width: 100%;
-      max-height: 640px;
-      height: auto;
-      border-radius: 10px;
-      border: 1px solid var(--border);
-    }
-
-    .mail-label {
-      margin: 0 0 8px;
-      color: var(--muted);
-      font-size: 0.95rem;
-    }
-
-    .daily-field-sample a {
-      color: var(--site-green);
-    }
-
-    .daily-field-sample a:hover {
-      color: var(--site-green);
-    }
-
-    .postcard-original {
-      margin: 8px 0 0;
-      color: var(--muted);
-      font-size: 0.78rem;
-      word-break: break-all;
-    }
-
-    .postcard-original a {
-      color: var(--muted);
-    }
-
     footer {
       margin-top: 48px;
       padding-top: 20px;
       border-top: 1px solid var(--border);
       color: var(--muted);
       font-size: 0.9rem;
-    }
-
-    footer p {
-      margin: 6px 0;
     }
 
     code {
@@ -223,7 +253,7 @@
       <p class="kicker-value">GitHub Actions</p>
 
       <p class="kicker">Shift opened / 到店时间：</p>
-      <p class="kicker-value">2026-06-03 21:36 UTC</p>
+      <p class="kicker-value">2026-06-03 22:03 UTC</p>
 
       <p class="kicker">On the shelf / 本日上架：</p>
       <nav>
@@ -237,17 +267,17 @@
     </header>
 
     <section id="daily-postcard" class="postcard-mail">
-  <pre class="mail-header">From: Wikimedia Commons &lt;picture-of-the-day@commons.wikimedia.org&gt;
-To: fivsevn &lt;intake@devlog.fivsevn.com&gt;
-Date: 2026-06-03
-Subject: You have one postcard waiting to be viewed! 你有一张明信片待查收！</pre>
+  <div class="postcard-header">
+    <div><strong>From:</strong> Wikimedia Commons &lt;picture-of-the-day@commons.wikimedia.org&gt;</div>
+    <div><strong>To:</strong> fivsevn &lt;intake@<a href="https://devlog.fivsevn.com/" target="_blank" rel="noopener noreferrer">devlog.fivsevn.com</a>&gt;</div>
+    <div><strong>Date:</strong> 2026-06-03</div>
+    <div><strong>Subject:</strong> You have one postcard waiting to be viewed! 你有一张明信片待查收！</div>
+  </div>
 
-  <p class="mail-label">View postcard:</p>
-
+  <p class="postcard-label">View postcard:</p>
   <a class="postcard-image-link" href="https://commons.wikimedia.org/wiki/File:Illuminated_wooden_shelf_with_many_glass_jars_containing_cookies_for_sale_in_Tokyo.jpg" target="_blank" rel="noopener noreferrer">
     <img class="postcard-image" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Illuminated_wooden_shelf_with_many_glass_jars_containing_cookies_for_sale_in_Tokyo.jpg" alt="Illuminated wooden shelf with many glass jars containing cookies for sale in Tokyo" loading="lazy">
   </a>
-
   <p class="postcard-original">Original: <a href="https://commons.wikimedia.org/wiki/File:Illuminated_wooden_shelf_with_many_glass_jars_containing_cookies_for_sale_in_Tokyo.jpg" target="_blank" rel="noopener noreferrer">https://commons.wikimedia.org/wiki/File:Illuminated_wooden_shelf_with_many_glass_jars_containing_cookies_for_sale_in_Tokyo.jpg</a></p>
 </section>
 <section id="daily-field-sample" class="daily-field-sample">
@@ -255,22 +285,22 @@ Subject: You have one postcard waiting to be viewed! 你有一张明信片待查
 
   <p>
     <strong>Scientific name / 学名:</strong><br>
-    <em>Rhynchites addendus Sharp, 1889</em>
+    <em>Psapharochrus abstersus (Bates, 1880)</em>
   </p>
 
   <p>
     <strong>Taxonomy / 分类:</strong><br>
-    Animalia / Arthropoda / Insecta / Coleoptera / Attelabidae
+    Animalia / Arthropoda / Insecta / Coleoptera / Cerambycidae
   </p>
 
   <p>
     <strong>Source / 来源:</strong><br>
-    <a href="https://www.gbif.org/species/1163645" target="_blank" rel="noopener noreferrer">GBIF</a>
+    <a href="https://www.gbif.org/species/1107476" target="_blank" rel="noopener noreferrer">GBIF</a>
   </p>
 
   <p>
     <strong>Search / 搜索:</strong><br>
-    <a href="https://www.google.com/search?q=Rhynchites+addendus+Sharp%2C+1889" target="_blank" rel="noopener noreferrer">Google</a> · <a href="https://www.catalogueoflife.org/data/search?q=Rhynchites+addendus+Sharp%2C+1889" target="_blank" rel="noopener noreferrer">COL</a>
+    <a href="https://www.google.com/search?q=Psapharochrus+abstersus+%28Bates%2C+1880%29" target="_blank" rel="noopener noreferrer">Google</a> · <a href="https://www.catalogueoflife.org/data/search?q=Psapharochrus+abstersus+%28Bates%2C+1880%29" target="_blank" rel="noopener noreferrer">COL</a>
   </p>
 </section>
     <section id="society">
@@ -279,29 +309,41 @@ Subject: You have one postcard waiting to be viewed! 你有一张明信片待查
   <p class='section-description'>Public life, institutions, world affairs, and social change.</p>
   <p class='section-description-zh'>公共生活、制度、世界事务与社会变化。</p>
   <article class="article">
+  <h3><a href="https://www.theguardian.com/us-news/live/2026/jun/03/us-midterm-primaries-politics-donald-trump-california-governor-latest-news-updates" target="_blank" rel="noopener noreferrer">Mitch McConnell statement suggests he considers Bill Pulte unfit for national intelligence director role – US politics live</a></h3>
+  <div class="meta">The Guardian World · 2026-06-03 21:54 UTC</div>
+  <p class='summary'>Republican senator does not name Trump pick but points to importance of eligibility requirements, which Pulte is widely considered to be lacking Sign up for the Breaking News US email Iowa voters cast their ballots in yesterday’s heated primaries, setting up for months of fervent campaigning ahead of the November midterms in contests that could determine the balance of power in Congress. A red state that the GOP has dominated for the past decade, Democrats believe they can be competitive in three of its four House races, its Senate election, and the contest to replace Kim Reynolds, the retiring Republican governor. Continue reading...</p>
+</article><article class="article">
   <h3><a href="https://www.theguardian.com/australia-news/live/2026/jun/04/australia-politics-live-capital-gains-tax-property-prices-economy-budget-jim-chalmers-anthony-albanese-angus-taylor-pauline-hanson-senate-estimates-question-time-ntwnfb" target="_blank" rel="noopener noreferrer">Australia politics live: bank expects home price reduction from budget to be more than twice government forecast</a></h3>
-  <div class="meta">The Guardian World · 2026-06-03 21:24 UTC</div>
-  <p class='summary'>Commonwealth Bank economists expect 5% drag on home prices from tax changes, compared with Treasury forecast of 2%. Follow today’s news live Get our breaking news email , free app or daily news podcast Australian dream shouldn’t only be in history books says Albanese Anthony Albanese says Angus Taylor and his Coalition will have a clear choice today to vote for tax cuts or oppose them – as they did on Labor’s tax cuts ahead of the last election. We are engaging respectfully, as we always do, right across the Parliament. My door is always open, as is the door of the Treasurer and our Senate team. Of course, we will have the inquiry before the Senate sits in a few weeks’ time. That will be an opportunity as well for people to put forward their views, and we welcome that. I don’t want the Australian dream to be something that is written about in history books of owning your own home. I want everyone to have that opportunity, aspiration. It seems there is an ideological disagreement where the United States administration has broken with what was decades-long understanding that tariffs are not positive for the country that is imposing them, that they increase the costs of goods and services in the country that is applying them to its consumers, and that free trade is in the interest of the global economy. Continue reading...</p>
+  <div class="meta">The Guardian World · 2026-06-03 21:53 UTC</div>
+  <p class='summary'>Commonwealth Bank economists expect 5% drag on home prices from tax changes, compared with Treasury forecast of 2%. Follow today’s news live Get our breaking news email , free app or daily news podcast Jim Chalmers ’ budget bill will face debate and a vote in the House today, and he poses the legislation as a “really simple choice” for the Coalition. As we know, the government has set up the bill as a wedge for the opposition, by including both tax changes to CGT and negative gearing and tax cuts for workers. Really simple choice in the parliament today: Labor lower taxes on workers, a fair go for first home buyers. The Coalition opposing both of those things. Yet another beat-up about the sensible, commonsense tax reforms at the core of the budget. Not unusual, as I said, for definitions to be settled this way, and the parliament can disallow them if they want. Continue reading...</p>
+</article><article class="article">
+  <h3><a href="https://www.npr.org/2026/06/03/nx-s1-5845102/house-iran-war-powers-vote" target="_blank" rel="noopener noreferrer">House passes war powers resolution directing Trump to end hostilities with Iran</a></h3>
+  <div class="meta">NPR News · 2026-06-03 21:49 UTC</div>
+  <p class='summary'>The vote marked a rare bipartisan rebuke of the war, but is mostly symbolic. Democrats have been unable to pass a war powers resolution in the Senate, and even if they could it would likely be vetoed.</p>
+</article><article class="article">
+  <h3><a href="https://www.npr.org/2026/06/03/g-s1-125779/senate-republicans-start-debate-on-ice-funding-package" target="_blank" rel="noopener noreferrer">Senate Republicans start debate on ICE funding package</a></h3>
+  <div class="meta">NPR News · 2026-06-03 21:42 UTC</div>
+  <p class='summary'>The Senate voted along party lines to start debate on a Republican bill to fund immigration enforcement through the end of President Trump&#x27;s term.</p>
+</article><article class="article">
+  <h3><a href="https://www.theguardian.com/world/live/2026/jun/03/us-israel-iran-war-lebanon-trump-khamenei-netanyahu-hormuz-latest-news-updates" target="_blank" rel="noopener noreferrer">Middle East crisis live: Trump claims peace deal with Iran could be reached ‘over the weekend’ as Iran claims it struck US ship</a></h3>
+  <div class="meta">The Guardian World · 2026-06-03 21:38 UTC</div>
+  <p class='summary'>President told reporters that given the strength of US military, ‘we could go another two, three weeks and just wipe everybody out’ The Kuwaiti defence ministry said it intercepted 13 ballistic missiles and 17 drones launched by Iran today. A drone and missile attack on Kuwait’s international airport killed one person, which Kuwaiti authorities identified as an Indian national. It is the first reported death in a Gulf state since the US and Iran agreed to a ceasefire in April. Continue reading...</p>
+</article><article class="article">
+  <h3><a href="https://www.theguardian.com/us-news/2026/jun/03/house-passes-war-power-resolution-trump-iran" target="_blank" rel="noopener noreferrer">US House passes war powers resolution to curb Trump’s authority in Iran</a></h3>
+  <div class="meta">The Guardian World · 2026-06-03 21:32 UTC</div>
+  <p class='summary'>Stunning rebuke to president as lawmakers vote 215-208 for measure forcing him to seek congressional approval The US House of Representatives delivered a stunning rebuke to Donald Trump over his war on Iran on Wednesday, as representatives backed a move to force him to seek approval from Congress or withdraw US forces. The House voted 215 to 208 in favor of the war powers resolution, as four Republicans voted with Democrats. Continue reading...</p>
 </article><article class="article">
   <h3><a href="https://www.theguardian.com/uk-news/2026/jun/03/chinese-spies-linkedin-uk-officials" target="_blank" rel="noopener noreferrer">Chinese spies use LinkedIn to target UK officials and military staff</a></h3>
   <div class="meta">The Guardian World · 2026-06-03 21:21 UTC</div>
-  <p class='summary'>Advertisements for non-existent jobs aim to draw in people with access to classified or sensitive information Chinese spies are targeting UK government and military staff on job websites including LinkedIn to try to get access to classified or sensitive information, MI5 has warned. A bulletin has been released by the Five Eyes powers – the UK, US, Australia, Canada and New Zealand – highlighting an “aggressive” online recruitment strategy where spies for Beijing military intelligence pose as workers acting on behalf of private businesses or thinktanks. Security clearance holders, especially those who specialise in defence, foreign affairs and security and intelligence. Military personnel, including those stationed in the Indo-Pacific region, who have knowledge of regional capabilities and general activities. People with either indirect or peripheral access to government information, including academics, journalists, freelance writers, thinktank employees, or anyone with links to the defence, security, policy and economic sectors. Continue reading...</p>
+  <p class='summary'>Advertisements for non-existent jobs aim to draw in people with access to classified or sensitive information Chinese spies are targeting UK government and military staff on job websites including LinkedIn to try to get access to classified or sensitive information, MI5 has warned. A bulletin has been released by the Five Eyes powers – the UK, US, Australia, Canada and New Zealand – highlighting an “aggressive” online recruitment strategy where spies for Beijing military intelligence pose as workers acting on behalf of private businesses or thinktanks. Security clearance holders, especially those who specialise in defence, foreign affairs and security and intelligence. Military personnel, including those stationed in the Indo-Pacific region, who have knowledge of regional capabilities and general activities. People with either indirect or peripheral access to government information, including academics, journalists, freelance writers, thinktank employees or anyone with links to the defence, security, policy and economic sectors. Continue reading...</p>
 </article><article class="article">
   <h3><a href="https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border</a></h3>
   <div class="meta">BBC World · 2026-06-03 21:19 UTC</div>
   <p class='summary'>The incidents strain a partial ceasefire agreed by Israel and the Lebanese armed group on Monday.</p>
 </article><article class="article">
-  <h3><a href="https://www.theguardian.com/world/live/2026/jun/03/us-israel-iran-war-lebanon-trump-khamenei-netanyahu-hormuz-latest-news-updates" target="_blank" rel="noopener noreferrer">Middle East crisis live: Trump claims peace deal with Iran could be reached ‘over the weekend’ as Iran claims it struck US ship</a></h3>
-  <div class="meta">The Guardian World · 2026-06-03 21:14 UTC</div>
-  <p class='summary'>President told reporters that given the strength of US military, ‘we could go another two, three weeks and just wipe everybody out’ The Kuwaiti defence ministry said it intercepted 13 ballistic missiles and 17 drones launched by Iran today. A drone and missile attack on Kuwait’s international airport killed one person, which Kuwaiti authorities identified as an Indian national. It is the first reported death in a Gulf state since the US and Iran agreed to a ceasefire in April. Continue reading...</p>
-</article><article class="article">
   <h3><a href="https://www.theguardian.com/uk-news/2026/jun/03/police-chief-warns-anti-white-bias-claims-could-drive-uk-policing-back-to-60s" target="_blank" rel="noopener noreferrer">Police chief warns anti-white bias claims could drive UK policing ‘back to 60s’</a></h3>
   <div class="meta">The Guardian World · 2026-06-03 21:09 UTC</div>
-  <p class='summary'>Senior police figures are pushing back against politicians they accuse of stoking tensions over Henry Novak’s murder Policing could be driven back to the 1960s by false claims officers are biased against white people, the leader of Britain’s black officers has said. Ch Insp Andy George, president of the National Black Police Association, spoke out amid growing concerns that politicians such as Nigel Farage were stoking tensions around the murder of teenager Henry Nowak by making baseless and provocative claims. Continue reading...</p>
-</article><article class="article">
-  <h3><a href="https://www.theguardian.com/us-news/live/2026/jun/03/us-midterm-primaries-politics-donald-trump-california-governor-latest-news-updates" target="_blank" rel="noopener noreferrer">Mitch McConnell statement suggests he considers Bill Pulte unfit for national intelligence director role – US politics live</a></h3>
-  <div class="meta">The Guardian World · 2026-06-03 20:58 UTC</div>
-  <p class='summary'>Republican senator does not name Trump pick but points to importance of eligibility requirements, which Pulte is widely considered to be lacking Sign up for the Breaking News US email Iowa voters cast their ballots in yesterday’s heated primaries, setting up for months of fervent campaigning ahead of the November midterms in contests that could determine the balance of power in Congress. A red state that the GOP has dominated for the past decade, Democrats believe they can be competitive in three of its four House races, its Senate election, and the contest to replace Kim Reynolds, the retiring Republican governor. Continue reading...</p>
+  <p class='summary'>Senior police figures are pushing back against politicians they accuse of stoking tensions over Henry Nowak’s murder Policing could be driven back to the 1960s by false claims officers are biased against white people, the leader of Britain’s black officers has said. Ch Insp Andy George, president of the National Black Police Association, spoke out amid growing concerns that politicians such as Nigel Farage were stoking tensions around the murder of teenager Henry Nowak by making baseless and provocative claims. Continue reading...</p>
 </article><article class="article">
   <h3><a href="https://www.theguardian.com/us-news/2026/jun/03/white-house-ballroom-funding-republicans" target="_blank" rel="noopener noreferrer">Senate Republicans drop plans for $1bn to fund security at Trump’s ballroom</a></h3>
   <div class="meta">The Guardian World · 2026-06-03 20:39 UTC</div>
@@ -319,10 +361,6 @@ Subject: You have one postcard waiting to be viewed! 你有一张明信片待查
   <div class="meta">BBC World · 2026-06-03 20:05 UTC</div>
   <p class='summary'>Iran says the attack on Kuwait was in retaliation for earlier US strikes on an Iranian oil tanker and island.</p>
 </article><article class="article">
-  <h3><a href="https://www.theguardian.com/film/2026/jun/03/shia-labeouf-pleads-guilty-battery-charges-new-orleans" target="_blank" rel="noopener noreferrer">Shia LaBeouf pleads guilty to battery charges over New Orleans bar incident</a></h3>
-  <div class="meta">The Guardian World · 2026-06-03 20:04 UTC</div>
-  <p class='summary'>Actor sentenced to probation for incident in which he attacked three men and yelled homophobic slurs, according to witnesses Sign up for the Breaking News US newsletter email Shia LaBeouf on Wednesday pleaded guilty to misdemeanor battery charges filed against the actor after his arrest over allegations that he struck three men at a New Orleans bar in February. After his plea in the city’s criminal district courthouse, the Transformers film franchise star received a sentence of two years’ probation, rehabilitation for alcohol abuse, sensitivity training and anger management classes. He would be required to spend six months in New Orleans’s jail if he failed to complete his probation successfully, according to the local district attorney’s office. Continue reading...</p>
-</article><article class="article">
   <h3><a href="https://www.theguardian.com/film/2026/jun/03/wim-wenders-withdraws-1975-film-featuring-13-year-old-nastassja-kinski-topless" target="_blank" rel="noopener noreferrer">Wim Wenders withdraws 1975 film featuring 13-year-old Nastassja Kinski topless</a></h3>
   <div class="meta">The Guardian World · 2026-06-03 19:56 UTC</div>
   <p class='summary'>German director says he recognises actor should have been better protected during filming of Wrong Move German director Wim Wenders has withdrawn from circulation his 1975 film Wrong Move, because of a scene featuring a child actor topless who was 13 at the time of filming. The director said in a statement released on Wednesday: “Streaming, TV and distribution partners have been instructed to no longer make the film publicly accessible.” Continue reading...</p>
@@ -330,14 +368,6 @@ Subject: You have one postcard waiting to be viewed! 你有一张明信片待查
   <h3><a href="https://www.npr.org/2026/06/03/nx-s1-5742806/trump-federal-employees-civil-service-job-protections-schedule-f" target="_blank" rel="noopener noreferrer">Trump strips job protections from 8,000 federal workers</a></h3>
   <div class="meta">NPR News · 2026-06-03 19:53 UTC</div>
   <p class='summary'>President Trump signed an executive order that puts some 8,000 high-ranking civil servants into a new category of employees who can be fired for any reason.</p>
-</article><article class="article">
-  <h3><a href="https://www.bbc.com/news/articles/czr25k7g7d7o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">From butterflies to breast milk, Uber&#x27;s list of lost items reveals wild backseat discoveries</a></h3>
-  <div class="meta">BBC World · 2026-06-03 19:07 UTC</div>
-  <p class='summary'>The rideshare company&#x27;s annual Lost &amp; Found Index also reveals America&#x27;s most forgetful city, and the most forgetful day.</p>
-</article><article class="article">
-  <h3><a href="https://www.bbc.com/news/articles/c87q9d7r57yo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">The end of Trump&#x27;s &#x27;anti-weaponisation&#x27; fund is another sign Republicans are fighting back</a></h3>
-  <div class="meta">BBC World · 2026-06-03 19:05 UTC</div>
-  <p class='summary'>The $1.8bn fund would have paid people the Trump administration decided were unjustly and politically targeted.</p>
 </article>
 </section>
 <section id="ideas">
@@ -346,6 +376,10 @@ Subject: You have one postcard waiting to be viewed! 你有一张明信片待查
   <p class='section-description'>Philosophy, essays, intellectual history, and reflective long-form reading.</p>
   <p class='section-description-zh'>哲学、随笔、思想史与反思性长文。</p>
   <article class="article">
+  <h3><a href="https://www.themarginalian.org/2026/06/03/harpy-eagle-gps/" target="_blank" rel="noopener noreferrer">Einstein and the Eagle: How Relativity Is Saving Earth’s Rarest Raptor</a></h3>
+  <div class="meta">The Marginalian · 2026-06-03 21:41 UTC</div>
+  <p class='summary'>At the hazy dawn of the twentieth century, through the byways of mental meandering and mathematical play, Albert Einstein arrived at a revelation about the nature of the universe while working as a clerk at the Swiss patent office &amp;#8212; a new relationship between space and time, the warp and weft of a single fabric that hammocks energy and matter into the lucid dream of reality. It took years for Arthur Eddington&amp;#8217;s dramatic eclipse expedition to confirm Einstein&amp;#8217;s theory by watching light bend along the curvature of spacetime against the screen of totality rather than follow the straight lines Newton&amp;#8230;&amp;#160; read&amp;#160;article</p>
+</article><article class="article">
   <h3><a href="https://www.themarginalian.org/2026/06/03/carl-rogers-good-life/" target="_blank" rel="noopener noreferrer">The Three Elements of the Good Life</a></h3>
   <div class="meta">The Marginalian · 2026-06-03 04:52 UTC</div>
   <p class='summary'>To be a true person is to be entirely oneself in every circumstance, with all the courage and vulnerability this requires. And yet because a person is a confederacy of parts often at odds and sometimes at war with each other, being true is not a pledge to be a paragon of cohesion, predictable and perfectly self-consistent &amp;#8212; the impossibility of that is the price of our complex consciousness &amp;#8212; but a promise to own every part of yourself, even those that challenge your preferred self-image and falsify the story you tell yourself about who you are. There is a&amp;#8230;&amp;#160; read&amp;#160;article</p>
@@ -401,10 +435,6 @@ Subject: You have one postcard waiting to be viewed! 你有一张明信片待查
   <h3><a href="https://aeon.co/videos/the-first-scientists-to-splice-dna-faced-a-daunting-question-should-we" target="_blank" rel="noopener noreferrer">Life recombined</a></h3>
   <div class="meta">Aeon · 2026-05-28 10:01 UTC</div>
   <p class='summary'>In the early 1970s, genetic engineers launched the most controversial revolution in science since the atomic bomb - by Aeon Video Watch on Aeon</p>
-</article><article class="article">
-  <h3><a href="https://aeon.co/essays/lets-save-the-enlightenment-baby-from-its-muddied-bathwater" target="_blank" rel="noopener noreferrer">Flickering Enlightenment</a></h3>
-  <div class="meta">Aeon · 2026-05-28 10:00 UTC</div>
-  <p class='summary'>Attacked by the Left and Right, the Enlightenment can only be saved through use of its greatest legacy: permanent critique - by Eliane Glaser Read on Aeon</p>
 </article>
 </section>
 <section id="science">
@@ -414,63 +444,63 @@ Subject: You have one postcard waiting to be viewed! 你有一张明信片待查
   <p class='section-description-zh'>研究进展、科学新闻、自然、空间与应用知识。</p>
   <article class="article">
   <h3><a href="https://www.nature.com/articles/d41586-026-01669-4" target="_blank" rel="noopener noreferrer">Surgeons in imperial China used anaesthetics — in careful doses</a></h3>
-  <div class="meta">Nature · 2026-06-03 21:36 UTC</div>
+  <div class="meta">Nature · 2026-06-03 22:03 UTC</div>
   <p class='summary'>Nature, Published online: 29 May 2026; doi:10.1038/d41586-026-01669-4 Traces on tweezers and surgical scissors suggest liquid medication was applied to the skin of patients.</p>
 </article><article class="article">
   <h3><a href="https://www.nature.com/articles/s41586-026-10665-7" target="_blank" rel="noopener noreferrer">Author Correction: Attenuated fusogenicity and pathogenicity of SARS-CoV-2 Omicron variant</a></h3>
-  <div class="meta">Nature · 2026-06-03 21:36 UTC</div>
+  <div class="meta">Nature · 2026-06-03 22:03 UTC</div>
   <p class='summary'>Nature, Published online: 29 May 2026; doi:10.1038/s41586-026-10665-7 Author Correction: Attenuated fusogenicity and pathogenicity of SARS-CoV-2 Omicron variant</p>
 </article><article class="article">
   <h3><a href="https://www.nature.com/articles/s41586-026-10605-5" target="_blank" rel="noopener noreferrer">Author Correction: US oil and gas system emissions from nearly one million aerial site measurements</a></h3>
-  <div class="meta">Nature · 2026-06-03 21:36 UTC</div>
+  <div class="meta">Nature · 2026-06-03 22:03 UTC</div>
   <p class='summary'>Nature, Published online: 29 May 2026; doi:10.1038/s41586-026-10605-5 Author Correction: US oil and gas system emissions from nearly one million aerial site measurements</p>
 </article><article class="article">
   <h3><a href="https://www.nature.com/articles/s41586-026-10717-y" target="_blank" rel="noopener noreferrer">Author Correction: Hidden states and dynamics of fractional fillings in twisted MoTe&lt;sub&gt;2&lt;/sub&gt; bilayers</a></h3>
-  <div class="meta">Nature · 2026-06-03 21:36 UTC</div>
+  <div class="meta">Nature · 2026-06-03 22:03 UTC</div>
   <p class='summary'>Nature, Published online: 29 May 2026; doi:10.1038/s41586-026-10717-y Author Correction: Hidden states and dynamics of fractional fillings in twisted MoTe 2 bilayers</p>
 </article><article class="article">
   <h3><a href="https://www.nature.com/articles/d41586-026-01760-w" target="_blank" rel="noopener noreferrer">Landmark cancer trial shows success against ‘undruggable’ cancer — raising hopes for future treatments</a></h3>
-  <div class="meta">Nature · 2026-06-03 21:36 UTC</div>
+  <div class="meta">Nature · 2026-06-03 22:03 UTC</div>
   <p class='summary'>Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01760-w Unprecedented results against a stubbornly hard-to-treat cancer are boosting optimism that other challenging tumours will be next.</p>
 </article><article class="article">
   <h3><a href="https://www.nature.com/articles/d41586-026-00821-4" target="_blank" rel="noopener noreferrer">Feynman solved the ‘restaurant dilemma’ 50 years ago — now a study confirms his mathematics</a></h3>
-  <div class="meta">Nature · 2026-06-03 21:36 UTC</div>
+  <div class="meta">Nature · 2026-06-03 22:03 UTC</div>
   <p class='summary'>Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-00821-4 An experiment with 2,520 participants backs Richard Feynman’s answer to every diner’s dilemma: do I want to try something new?</p>
 </article><article class="article">
   <h3><a href="https://www.nature.com/articles/d41586-026-01729-9" target="_blank" rel="noopener noreferrer">Obesity doesn’t equate to ill health: why the ‘disease’ label doesn’t always fit</a></h3>
-  <div class="meta">Nature · 2026-06-03 21:36 UTC</div>
+  <div class="meta">Nature · 2026-06-03 22:03 UTC</div>
   <p class='summary'>Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01729-9 Excess body weight affects individuals’ health differently. Taking this variation into account is crucial for effective health care, policy and research.</p>
 </article><article class="article">
   <h3><a href="https://www.nature.com/articles/d41586-026-01693-4" target="_blank" rel="noopener noreferrer">Poor supervision is pushing young researchers out of academia</a></h3>
-  <div class="meta">Nature · 2026-06-03 21:36 UTC</div>
+  <div class="meta">Nature · 2026-06-03 22:03 UTC</div>
   <p class='summary'>Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01693-4 A survey finds that academic supervisors can have a huge impact on their students’ mental health.</p>
 </article><article class="article">
   <h3><a href="https://www.nature.com/articles/d41586-026-01488-7" target="_blank" rel="noopener noreferrer">Smartphone camera takes users’ pulse passively during device use</a></h3>
-  <div class="meta">Nature · 2026-06-03 21:36 UTC</div>
+  <div class="meta">Nature · 2026-06-03 22:03 UTC</div>
   <p class='summary'>Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01488-7 A machine-learning system has been developed that can monitor heart rate using facial video clips that are captured passively by the user-facing camera during everyday smartphone use. The system meets industry accuracy standards for heart-rate measurement and is as accurate as wearable technology for measuring daily resting heart rate.</p>
 </article><article class="article">
   <h3><a href="https://www.nature.com/articles/d41586-026-01158-8" target="_blank" rel="noopener noreferrer">Robust projections of risks to the Amazon rainforest</a></h3>
-  <div class="meta">Nature · 2026-06-03 21:36 UTC</div>
+  <div class="meta">Nature · 2026-06-03 22:03 UTC</div>
   <p class='summary'>Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01158-8 Amazonian deforestation is altering atmospheric moisture transport; as a result, even low levels of global warming could trigger dieback of most of the remaining forest.</p>
 </article><article class="article">
   <h3><a href="https://www.nature.com/articles/d41586-026-00507-x" target="_blank" rel="noopener noreferrer">Why it’s time to bin recommendation letters in science job applications</a></h3>
-  <div class="meta">Nature · 2026-06-03 21:36 UTC</div>
+  <div class="meta">Nature · 2026-06-03 22:03 UTC</div>
   <p class='summary'>Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-00507-x If hiring organizations must ask for references, they should do so closer to the end of the process, argues Bibek Aryal.</p>
 </article><article class="article">
   <h3><a href="https://www.nature.com/articles/d41586-026-01782-4" target="_blank" rel="noopener noreferrer">Daily briefing: What it will take to stop the spiralling Ebola outbreak</a></h3>
-  <div class="meta">Nature · 2026-06-03 21:36 UTC</div>
+  <div class="meta">Nature · 2026-06-03 22:03 UTC</div>
   <p class='summary'>Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01782-4 Lessons from past epidemics could help to contain the current spread of Ebola. Plus, what a rocket explosion means for NASA&#x27;s Moon plans and whether ‘obesity’ should be split into two diagnoses.</p>
 </article><article class="article">
   <h3><a href="https://www.nature.com/articles/d41586-026-01730-2" target="_blank" rel="noopener noreferrer">Science fiction: nine lab-life novels for your holiday reading</a></h3>
-  <div class="meta">Nature · 2026-06-03 21:36 UTC</div>
+  <div class="meta">Nature · 2026-06-03 22:03 UTC</div>
   <p class='summary'>Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01730-2 With a summer break looming for many researchers, Nature’s careers team suggests science-themed page-turners.</p>
 </article><article class="article">
   <h3><a href="https://www.nature.com/articles/d41586-026-01728-w" target="_blank" rel="noopener noreferrer">How long can humans live? We simply don’t know</a></h3>
-  <div class="meta">Nature · 2026-06-03 21:36 UTC</div>
+  <div class="meta">Nature · 2026-06-03 22:03 UTC</div>
   <p class='summary'>Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01728-w Claims about the upper limits to human lifespan are characterized by hype, deficient data and shoddy science, says longevity researcher Saul Newman.</p>
 </article><article class="article">
   <h3><a href="https://www.nature.com/articles/d41586-026-01688-1" target="_blank" rel="noopener noreferrer">Polymarket vs science: why researchers are sceptical of the prediction-market hype</a></h3>
-  <div class="meta">Nature · 2026-06-03 21:36 UTC</div>
+  <div class="meta">Nature · 2026-06-03 22:03 UTC</div>
   <p class='summary'>Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01688-1 Online prediction markets are taking bets on everything from climate change to quantum computing. But researchers question their accuracy.</p>
 </article>
 </section>
