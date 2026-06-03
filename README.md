@@ -10,6 +10,8 @@
 
 - 近况速报: [/now page](/now/index.md)
 
+[📰 本日の入荷 / Newsstand Drop](https://devlog.fivsevn.com/intake)
+
 ---
 ## 🖋️ posts
 
