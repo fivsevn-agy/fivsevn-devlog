@@ -407,13 +407,13 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
       <h1>{title}</h1>
       <p class="title-zh">{title_zh}</p>
 
-      <p class="kicker">Courier on duty / 今日投递员：</p>
+      <p class="kicker">Courier on duty / 投递员：</p>
       <p class="kicker-value">GitHub Actions</p>
 
       <p class="kicker">Shift opened / 到店时间：</p>
       <p class="kicker-value">{opened_at}</p>
 
-      <p class="kicker">On the shelf / 今日上架：</p>
+      <p class="kicker">On the shelf / 本日上架：</p>
       <nav>
         {nav_html}
       </nav>
