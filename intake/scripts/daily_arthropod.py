@@ -98,7 +98,7 @@ def build_payload(item: dict[str, Any]) -> dict[str, Any]:
     google_query = urllib.parse.quote_plus(scientific_name)
 
     return {
-        "title": "Daily Arthropod / 今日节肢动物",
+        "title": "Daily Field Sample / 今日野采样本",
         "scientific_name": scientific_name,
         "taxonomy": taxonomy,
         "source_name": "GBIF",
