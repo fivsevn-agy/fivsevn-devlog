@@ -16,8 +16,8 @@ summary: >
   routing rules, boundary rules, and expansion principles.
 
 parents: [system-ai-boot-protocol]
-related: [system-module-map, system-prompt-routing, system-topology-overview-001, workspace-entry]
-tags: [system, topology, ai-entry, routing, workspace, interface-boundary]
+related: [system-module-map, system-prompt-routing, system-topology-overview-001, workspace-entry, intake]
+tags: [system, topology, ai-entry, routing, workspace, interface-boundary, intake]
 
 audience: collaborator
 languages: en
@@ -27,7 +27,7 @@ visibility: public
 source_of_truth: devlog
 
 created: 2026-05-23
-updated: 2026-06-02
+updated: 2026-06-03
 ---
 
 # System Map — fivsevn AI Orientation and Topology
@@ -343,6 +343,52 @@ It operates as a parallel subsystem.
 
 Do not classify 57store pages as `posts`, `natsci`, `netcom`, `blogops`, or `stills`.
 
+
+
+## 2.5 Intake
+
+Intake is a repository-backed daily input surface.
+
+Interface:
+
+- `https://devlog.fivsevn.com/intake/`
+
+Repository path:
+
+- `fivsevn-devlog/intake/`
+
+Role:
+
+- daily external signal intake
+- RSS-backed information shelf
+- lightweight reading surface
+- current-facing news / science / ideas / arts feed
+- non-archival awareness interface
+
+Operational model:
+
+```text
+RSS sources → GitHub Actions → generated static HTML → devlog.fivsevn.com/intake/
+```
+
+Boundary:
+
+- Intake belongs to the repository-backed archive interface.
+- Intake is not a cognitive content axis.
+- Intake is not a canonical note archive.
+- Intake does not replace `posts`, `natsci`, or `netcom`.
+- Items seen through Intake may later be routed into canonical axes only after they become notes, reflections, observations, or structured writing.
+- Intake should be treated as an operational reading surface, not as a source of structural authority.
+
+Interpretation:
+
+```text
+intake = daily input surface
+not → permanent knowledge archive
+not → content axis
+not → source registry
+```
+
 ---
 
 # 3. Structural Topology
@@ -360,6 +406,9 @@ fivsevn system
 │  ├─ presentation surfaces
 │  │  ├─ stills
 │  │  └─ motion
+│  │
+│  ├─ operational intake surface
+│  │  └─ intake
 │  │
 │  └─ meta-governance
 │     └─ blogops
@@ -820,6 +869,7 @@ For blank AI collaborators:
 7. Treat 57store as a parallel subsystem, not part of the primary blog content axes.
 8. Do not infer repository structure from public page appearance alone.
 9. Do not classify visual or motion feature pages as canonical modules unless explicit structure says so.
+10. Treat `/intake/` as a repository-backed daily input surface generated from RSS feeds by GitHub Actions; do not classify it as a cognitive content axis or permanent note archive.
 
 ---
 
