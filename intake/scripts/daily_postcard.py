@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+from __future__ import annotations
+
 import html
 import json
 import re
@@ -7,7 +10,8 @@ from urllib.parse import quote
 
 import requests
 
-OUTPUT_DIR = Path("data")
+BASE_DIR = Path(__file__).resolve().parents[1]
+OUTPUT_DIR = BASE_DIR / "data"
 OUTPUT_JSON = OUTPUT_DIR / "daily_postcard.json"
 OUTPUT_HTML = OUTPUT_DIR / "daily_postcard.html"
 
@@ -35,7 +39,6 @@ def fetch_page_wikitext(title: str) -> str | None:
             "titles": title,
         }
     )
-
     pages = data.get("query", {}).get("pages", [])
     if not pages or pages[0].get("missing"):
         return None
@@ -57,18 +60,9 @@ def clean_filename(value: str) -> str:
 
 
 def extract_filename_from_wikitext(wikitext: str) -> str | None:
-    """Extract the file name from Commons POTD template wikitext.
-
-    Commons POTD pages often contain something like:
-    {{Potd filename|1=Example.jpg|2=2026|3=06|4=04}}
-
-    Sometimes the first parameter is positional:
-    {{Potd filename|Example.jpg|2026|06|04}}
-    """
     if not wikitext:
         return None
 
-    # Most common: {{Potd filename|1=Some image.jpg|2=YYYY|3=MM|4=DD}}
     match = re.search(
         r"\{\{\s*Potd filename\s*\|\s*1\s*=\s*([^|}\n]+)",
         wikitext,
@@ -77,7 +71,6 @@ def extract_filename_from_wikitext(wikitext: str) -> str | None:
     if match:
         return clean_filename(match.group(1))
 
-    # Positional fallback: {{Potd filename|Some image.jpg|YYYY|MM|DD}}
     match = re.search(
         r"\{\{\s*Potd filename\s*\|\s*([^|}\n]+)",
         wikitext,
@@ -88,7 +81,6 @@ def extract_filename_from_wikitext(wikitext: str) -> str | None:
         if "=" not in first:
             return clean_filename(first)
 
-    # Direct file fallback.
     match = re.search(r"(?:File|Image):([^\]|\n]+)", wikitext, flags=re.IGNORECASE)
     if match:
         return clean_filename(match.group(1))
@@ -108,7 +100,6 @@ def fetch_image_info(filename: str) -> dict | None:
             "titles": title,
         }
     )
-
     pages = data.get("query", {}).get("pages", [])
     if not pages or pages[0].get("missing"):
         return None
@@ -135,8 +126,6 @@ def fetch_postcard() -> dict:
     today = datetime.now(timezone.utc).date()
     last_error = None
 
-    # Commons POTD can occasionally be missing or structured differently.
-    # Try today, then recent previous days as fallbacks.
     for delta in range(0, 10):
         day = today - timedelta(days=delta)
         template_title = f"Template:Potd/{day.isoformat()}"
@@ -197,7 +186,7 @@ Subject: {subject_line}</pre>
 
   <p class="mail-label">View postcard:</p>
 
-  <a href="{original_url}" target="_blank" rel="noopener noreferrer">
+  <a class="postcard-image-link" href="{original_url}" target="_blank" rel="noopener noreferrer">
     <img class="postcard-image" src="{image_url}" alt="{title}" loading="lazy">
   </a>
 
@@ -215,7 +204,6 @@ def main() -> None:
         encoding="utf-8",
     )
     OUTPUT_HTML.write_text(render_html(payload), encoding="utf-8")
-
     print(f"Daily postcard: {payload['date']} - {payload['title']}")
 
 
