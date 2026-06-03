@@ -8,10 +8,10 @@
 > 长文、结构化的内容  
 > 会存放暂未转入正文结构的草稿
 
-- 近况速报: [/now page](/now/index.md)
-
 ---
-📰 [本日の入荷｜Newsstand Drop](https://devlog.fivsevn.com/intake)
+🆕 [近况速报｜now page](/now/index.md)
+
+📰 [本日の入荷｜newsstand drop](https://devlog.fivsevn.com/intake)
 
 ---
 ## 🖋️ posts
