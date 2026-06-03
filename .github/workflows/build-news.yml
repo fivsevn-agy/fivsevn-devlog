@@ -1,0 +1,49 @@
+name: Build Intake Page
+
+on:
+  workflow_dispatch:
+
+  push:
+    paths:
+      - "intake/feeds.yml"
+      - "intake/requirements.txt"
+      - "intake/build.py"
+      - "intake/scripts/daily_field_sample.py"
+      - ".github/workflows/build-news.yml"
+
+  schedule:
+    - cron: "57 23 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build-intake:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r intake/requirements.txt
+
+      - name: Generate daily field sample
+        run: python intake/scripts/daily_field_sample.py
+
+      - name: Build intake page
+        run: python intake/build.py
+
+      - name: Commit generated intake files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(intake): update generated intake page"
+          file_pattern: |
+            intake/index.html
+            intake/data/daily_field_sample.json
+            intake/data/daily_field_sample.html
