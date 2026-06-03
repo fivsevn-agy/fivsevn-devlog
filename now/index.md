@@ -10,19 +10,18 @@
 ---
 ## 🫧 still here
 
-  - Updated: 2026.05.28
+  - Updated: 2026.06.03
 
 > Not much to say. Still here.  
-> 近来无话，尚在途中。
+> 用 GitHub Actions 做了一个每日自动更新的轻量信息入口 [devlog.fivsevn.com/intake](https://devlog.fivsevn.com/intake)，信息源按照个人喜好增减中。
 
 ---
 ## 🖋️ posts
 
 - [个人笔记](https://devlog.fivsevn.com/posts)
   - Updated: 2026.02.28
-
-> 最近更新了专栏【AI 话语分析】。试验中。  
-> 最近主要在[博客主页](https://fivsevn.com/post)更新。
+ 
+> 最近主要在 [https://fivsevn.com/posts](https://fivsevn.com/posts) 页面随时更新。
 
 --- 
 ## 🪲 natsci
@@ -39,7 +38,7 @@
 - [有关通讯技术的学习笔记](https://devlog.fivsevn.com/netcom)
   - Updated: 2025.03.12
 
-> 最近想试一试树莓派。
+> 空了想构思一下，如何把树莓派的使用和博客的日常维护结合一下。
 
 ---
 ## blogops
@@ -53,7 +52,7 @@
 - [个人写作规范仓库](https://github.com/fivsevn-agy/fivsevn-spec)
   - Updated: 2026.03.14
 
-> `/source`（信息来源）待整理补充。
+> `/source`（信息来源）待整理补充。  
 
 ---
 ## Contact

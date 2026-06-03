@@ -1,8 +1,8 @@
 site:
-  title: "fivsevn / intake"
-  title_zh: "fivsevn / 日常摄入"
-  subtitle: "A daily intake surface for news, science, ideas, arts, and other signals."
-  subtitle_zh: "用于汇集新闻、科学、思想、艺术与其他日常信号的阅读入口。"
+  title: "📰 今日上架｜本日の入荷｜Today’s Arrival"
+  title_zh: ""
+  subtitle: "A daily intake shelf powered by GitHub Actions."
+  subtitle_zh: "由 GitHub Actions 每日自动抓取新闻。"
   max_items_per_section: 15
 
 sections:
