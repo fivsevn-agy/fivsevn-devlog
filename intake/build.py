@@ -428,6 +428,10 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
       font-size: 0.9rem;
     }}
 
+    footer a {{
+      color: var(--site-green);
+    }}
+
     code {{
       color: var(--text);
     }}
