@@ -1,12 +1,55 @@
 site:
-  title: "Daily News Radar"
-  subtitle: "A lightweight daily reading surface for devlog.fivsevn.com/news."
-  max_items_per_section: 20
+  title: "fivsevn / intake"
+  title_zh: "fivsevn / 日常摄入"
+  subtitle: "A daily intake surface for news, science, ideas, arts, and other signals."
+  subtitle_zh: "用于汇集新闻、科学、思想、艺术与其他日常信号的阅读入口。"
+  max_items_per_section: 15
 
 sections:
+  society:
+    title: "society"
+    title_zh: "社会"
+    description: "Public life, institutions, world affairs, and social change."
+    description_zh: "公共生活、制度、世界事务与社会变化。"
+    feeds:
+      - name: "BBC World"
+        url: "https://feeds.bbci.co.uk/news/world/rss.xml"
+      - name: "The Guardian World"
+        url: "https://www.theguardian.com/world/rss"
+      - name: "NPR News"
+        url: "https://feeds.npr.org/1001/rss.xml"
+
+  ideas:
+    title: "ideas"
+    title_zh: "思想"
+    description: "Philosophy, essays, intellectual history, and reflective long-form reading."
+    description_zh: "哲学、随笔、思想史与反思性长文。"
+    feeds:
+      - name: "Aeon"
+        url: "https://aeon.co/feed.rss"
+      - name: "The Marginalian"
+        url: "https://www.themarginalian.org/feed/"
+
   science:
-    title: "Science"
-    description: "Research, science news, space, nature, and applied science."
+    title: "science"
+    title_zh: "科学"
+    description: "Research, science news, nature, space, and applied knowledge."
+    description_zh: "研究进展、科学新闻、自然、空间与应用知识。"
     feeds:
       - name: "Nature"
         url: "https://www.nature.com/nature.rss"
+      - name: "ScienceDaily"
+        url: "https://www.sciencedaily.com/rss/all.xml"
+      - name: "MIT News"
+        url: "https://news.mit.edu/rss/topic/science-technology"
+
+  arts:
+    title: "arts"
+    title_zh: "艺术"
+    description: "Art, criticism, museums, visual culture, and contemporary aesthetics."
+    description_zh: "艺术、批评、博物馆、视觉文化与当代审美。"
+    feeds:
+      - name: "Hyperallergic"
+        url: "https://hyperallergic.com/feed/"
+      - name: "The Art Newspaper"
+        url: "https://www.theartnewspaper.com/rss.xml"
