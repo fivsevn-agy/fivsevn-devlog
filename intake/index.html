@@ -45,10 +45,22 @@
       line-height: 1.1;
     }
 
-    .subtitle {
+    .title-zh {
+      margin: 0 0 12px;
+      color: var(--text);
+      font-size: 1.15rem;
+      font-weight: 500;
+    }
+
+    .subtitle,
+    .subtitle-zh {
       margin: 0;
       color: var(--muted);
-      max-width: 720px;
+      max-width: 760px;
+    }
+
+    .subtitle-zh {
+      margin-top: 4px;
     }
 
     .generated {
@@ -78,15 +90,28 @@
     }
 
     h2 {
-      margin: 0 0 6px;
+      margin: 0 0 2px;
       padding-bottom: 8px;
       border-bottom: 1px solid var(--border);
       font-size: 1.4rem;
     }
 
-    .section-description {
+    .section-title-zh {
+      margin: -2px 0 6px;
+      color: var(--text);
+      font-size: 1rem;
+      font-weight: 500;
+    }
+
+    .section-description,
+    .section-description-zh {
       color: var(--muted);
-      margin: 0 0 18px;
+      margin: 0;
+    }
+
+    .section-description-zh {
+      margin-top: 4px;
+      margin-bottom: 18px;
     }
 
     .article {
@@ -145,19 +170,23 @@
   <main>
     <header>
       <h1>fivsevn / intake</h1>
+      <p class="title-zh">fivsevn / 日常摄入</p>
       <p class="subtitle">A daily intake surface for news, science, ideas, arts, and other signals.</p>
-      <p class="generated">Generated at 2026-06-03 06:28 UTC</p>
+      <p class="subtitle-zh">用于汇集新闻、科学、思想、艺术与其他日常信号的阅读入口。</p>
+      <p class="generated">Generated at 2026-06-03 06:30 UTC</p>
       <nav>
-        <a href="#society">society</a>
-<a href="#ideas">ideas</a>
-<a href="#science">science</a>
-<a href="#arts">arts</a>
+        <a href="#society">society / 社会</a>
+<a href="#ideas">ideas / 思想</a>
+<a href="#science">science / 科学</a>
+<a href="#arts">arts / 艺术</a>
       </nav>
     </header>
 
     <section id="society">
   <h2>society</h2>
+  <p class='section-title-zh'>社会</p>
   <p class='section-description'>Public life, institutions, world affairs, and social change.</p>
+  <p class='section-description-zh'>公共生活、制度、世界事务与社会变化。</p>
   <article class="article">
   <h3><a href="https://www.theguardian.com/australia-news/2026/jun/03/hundreds-of-thousands-centrelink-payments-cancelled-illegally-albanese-government-admits" target="_blank" rel="noopener noreferrer">Hundreds of thousands of Centrelink payments cancelled illegally, Albanese government admits</a></h3>
   <div class="meta">The Guardian World · 2026-06-03 06:24 UTC</div>
@@ -222,7 +251,9 @@
 </section>
 <section id="ideas">
   <h2>ideas</h2>
+  <p class='section-title-zh'>思想</p>
   <p class='section-description'>Philosophy, essays, intellectual history, and reflective long-form reading.</p>
+  <p class='section-description-zh'>哲学、随笔、思想史与反思性长文。</p>
   <article class="article">
   <h3><a href="https://www.themarginalian.org/2026/06/03/carl-rogers-good-life/" target="_blank" rel="noopener noreferrer">The Three Elements of the Good Life</a></h3>
   <div class="meta">The Marginalian · 2026-06-03 04:52 UTC</div>
@@ -287,72 +318,76 @@
 </section>
 <section id="science">
   <h2>science</h2>
+  <p class='section-title-zh'>科学</p>
   <p class='section-description'>Research, science news, nature, space, and applied knowledge.</p>
+  <p class='section-description-zh'>研究进展、科学新闻、自然、空间与应用知识。</p>
   <article class="article">
   <h3><a href="https://www.nature.com/articles/s41586-026-10579-4" target="_blank" rel="noopener noreferrer">A direct black-hole mass measurement in a little red dot at high redshift</a></h3>
-  <div class="meta">Nature · 2026-06-03 06:28 UTC</div>
+  <div class="meta">Nature · 2026-06-03 06:30 UTC</div>
   <p class='summary'>Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10579-4 A direct, dynamical black-hole mass measurement in a strongly lensed little red dot at high redshift indicates that it is a massive black-hole seed caught in its earliest accretion phase.</p>
 </article><article class="article">
   <h3><a href="https://www.nature.com/articles/s41586-026-10607-3" target="_blank" rel="noopener noreferrer">Temporary carbon dioxide removal to offset short-lived climate forcers</a></h3>
-  <div class="meta">Nature · 2026-06-03 06:28 UTC</div>
+  <div class="meta">Nature · 2026-06-03 06:30 UTC</div>
   <p class='summary'>Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10607-3 Temporary carbon dioxide removal can offset short-lived non-CO2 climate forcers, providing a viable physical approach for crediting temporary carbon dioxide removal activities in industries in which non-CO2 emissions dominate and direct emission reductions are difficult.</p>
 </article><article class="article">
   <h3><a href="https://www.nature.com/articles/s41586-026-10496-6" target="_blank" rel="noopener noreferrer">Monolithic three-dimensional integration of silicon transistors</a></h3>
-  <div class="meta">Nature · 2026-06-03 06:28 UTC</div>
+  <div class="meta">Nature · 2026-06-03 06:30 UTC</div>
   <p class='summary'>Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10496-6 Uniformly doped, ultrathin single-crystalline silicon nanomembranes can be vertically stacked at low temperature using a roll-transfer-printing process that is scalable to wafer scale and tolerant to substrate topology and surface roughness for constructing high-performance monolithic three-dimensional integrated circuits.</p>
 </article><article class="article">
   <h3><a href="https://www.nature.com/articles/s41586-026-10595-4" target="_blank" rel="noopener noreferrer">Metamaterial-enhanced near-field radiative heat transfer</a></h3>
-  <div class="meta">Nature · 2026-06-03 06:28 UTC</div>
+  <div class="meta">Nature · 2026-06-03 06:30 UTC</div>
   <p class='summary'>Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10595-4 Near-field radiative heat transfer between silicon nitride membranes is enhanced several-fold by using metamaterials, opening opportunities for thermal energy harvesting and infrared sensing applications.</p>
 </article><article class="article">
   <h3><a href="https://www.nature.com/articles/s41586-026-10576-7" target="_blank" rel="noopener noreferrer">Genetic architecture of sugarcane traits in a polyploid genomics framework</a></h3>
-  <div class="meta">Nature · 2026-06-03 06:28 UTC</div>
+  <div class="meta">Nature · 2026-06-03 06:30 UTC</div>
   <p class='summary'>Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10576-7 A fully phased genome assembly of the sugarcane foundational cultivar POJ2878 reveals extensive subgenome recombination and non-homologous chromosomal rearrangements.</p>
 </article><article class="article">
   <h3><a href="https://www.nature.com/articles/s41586-026-10543-2" target="_blank" rel="noopener noreferrer">Rising global hail damage potential in a warming world</a></h3>
-  <div class="meta">Nature · 2026-06-03 06:28 UTC</div>
+  <div class="meta">Nature · 2026-06-03 06:30 UTC</div>
   <p class='summary'>Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10543-2 Hailstone trajectory simulations conducted under historical and future scenarios show a shift towards larger hailstones, resulting in global hailstorm-induced damage potential increasing by around 40% by the late twenty-first century.</p>
 </article><article class="article">
   <h3><a href="https://www.nature.com/articles/s41586-026-10569-6" target="_blank" rel="noopener noreferrer">Mechanism of age-related accumulation of mtDNA mutations in human blood</a></h3>
-  <div class="meta">Nature · 2026-06-03 06:28 UTC</div>
+  <div class="meta">Nature · 2026-06-03 06:30 UTC</div>
   <p class='summary'>Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10569-6 Genome-wide analyses indicate that accumulation of mitochondrial DNA mutations, a hallmark of ageing, may be caused by cryptic replication errors, which act as passenger mutations that eventually become detectable with age owing to age-related somatic mosaicism, rather than oxidative damage.</p>
 </article><article class="article">
   <h3><a href="https://www.nature.com/articles/s41586-026-10536-1" target="_blank" rel="noopener noreferrer">Redesigning algorithms to intervene on social norm misperceptions during a national election</a></h3>
-  <div class="meta">Nature · 2026-06-03 06:28 UTC</div>
+  <div class="meta">Nature · 2026-06-03 06:30 UTC</div>
   <p class='summary'>Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10536-1 Engagement-based feeds amplify intergroup, moralized, emotional (IME) and toxic content relative to reverse-chronological feeds, and a diversified extremity algorithm reduces exposure to IME and toxic content while maintaining comparable platform enjoyment.</p>
 </article><article class="article">
   <h3><a href="https://www.nature.com/articles/s41586-026-10521-8" target="_blank" rel="noopener noreferrer">Experimental randomness amplification</a></h3>
-  <div class="meta">Nature · 2026-06-03 06:28 UTC</div>
+  <div class="meta">Nature · 2026-06-03 06:30 UTC</div>
   <p class='summary'>Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10521-8 An experimental realization of device-independent randomness amplification is demonstrated using superconducting qubits, in which a source of weak, correlated randomness is converted into virtually perfect random bits, certified by a Bell test.</p>
 </article><article class="article">
   <h3><a href="https://www.nature.com/articles/s41586-026-10609-1" target="_blank" rel="noopener noreferrer">Cavity-driven attractive interactions in quantum materials</a></h3>
-  <div class="meta">Nature · 2026-06-03 06:28 UTC</div>
+  <div class="meta">Nature · 2026-06-03 06:30 UTC</div>
   <p class='summary'>Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10609-1 A broadband, sub-wavelength time-domain microscope is described, enabling the observation that terahertz light trapped within a cavity can mediate attractive interactions in a tunable van der Waals material.</p>
 </article><article class="article">
   <h3><a href="https://www.nature.com/articles/s41586-026-10585-6" target="_blank" rel="noopener noreferrer">Dynamical freezing for magnetometry in an interacting spin ensemble</a></h3>
-  <div class="meta">Nature · 2026-06-03 06:28 UTC</div>
+  <div class="meta">Nature · 2026-06-03 06:30 UTC</div>
   <p class='summary'>Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10585-6 Dynamical freezing, a mechanism by which a driven quantum system may not thermalize to a featureless ‘infinite-temperature’ state at long times, is experimentally observed in an ensemble of interacting nitrogen-vacancy spins in diamond.</p>
 </article><article class="article">
   <h3><a href="https://www.nature.com/articles/s41586-026-10545-0" target="_blank" rel="noopener noreferrer">Spatiotemporal transcriptome atlas of human embryos after gastrulation</a></h3>
-  <div class="meta">Nature · 2026-06-03 06:28 UTC</div>
+  <div class="meta">Nature · 2026-06-03 06:30 UTC</div>
   <p class='summary'>Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10545-0 A spatiotemporal transcriptome atlas of whole-human embryos after gastrulation and previously transcriptionally undescribed stages of human development are reported.</p>
 </article><article class="article">
   <h3><a href="https://www.nature.com/articles/s41586-026-10526-3" target="_blank" rel="noopener noreferrer">Transcription factor codes patterning neuronal groundplans of the cerebrum</a></h3>
-  <div class="meta">Nature · 2026-06-03 06:28 UTC</div>
+  <div class="meta">Nature · 2026-06-03 06:30 UTC</div>
   <p class='summary'>Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10526-3 Researchers mapped how transcription factors define neuron lineages in fruit fly brains, revealing hierarchical genetic programs that shape and specialize circuits controlling motivated behaviours such as mating.</p>
 </article><article class="article">
   <h3><a href="https://www.nature.com/articles/s41586-026-10582-9" target="_blank" rel="noopener noreferrer">Substrate selectivity of the human RNA m&lt;sup&gt;5&lt;/sup&gt;C methyltransferase NSUN2</a></h3>
-  <div class="meta">Nature · 2026-06-03 06:28 UTC</div>
+  <div class="meta">Nature · 2026-06-03 06:30 UTC</div>
   <p class='summary'>Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10582-9 NSUN2 is an enzyme that adds a small chemical mark to RNA molecules and uniquely selects its targets based on specific sequence patterns and structural features.</p>
 </article><article class="article">
   <h3><a href="https://www.nature.com/articles/s41586-026-10542-3" target="_blank" rel="noopener noreferrer">Universal transcriptomic hallmarks of mammalian ageing and mortality</a></h3>
-  <div class="meta">Nature · 2026-06-03 06:28 UTC</div>
+  <div class="meta">Nature · 2026-06-03 06:30 UTC</div>
   <p class='summary'>Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10542-3 Integration of gene expression data from multiple tissues across four mammalian species reveals conserved transcriptomic signatures of mammalian ageing and mortality and uncovers the modular architecture of ageing and mortality hallmarks.</p>
 </article>
 </section>
 <section id="arts">
   <h2>arts</h2>
+  <p class='section-title-zh'>艺术</p>
   <p class='section-description'>Art, criticism, museums, visual culture, and contemporary aesthetics.</p>
+  <p class='section-description-zh'>艺术、批评、博物馆、视觉文化与当代审美。</p>
   <article class="article">
   <h3><a href="https://hyperallergic.com/15-art-shows-to-see-in-los-angeles-this-summer/" target="_blank" rel="noopener noreferrer">15 Art Shows to See in Los Angeles This Summer</a></h3>
   <div class="meta">Hyperallergic · 2026-06-02 20:35 UTC</div>
@@ -417,7 +452,7 @@
 </section>
 
     <footer>
-      Generated from <code>news/feeds.yml</code>. This page is a daily intake surface, not a permanent note archive.
+      Generated from <code>intake/feeds.yml</code>. This page is a daily intake surface, not a permanent note archive.
     </footer>
   </main>
 </body>
