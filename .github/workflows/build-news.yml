@@ -2,12 +2,15 @@ name: Build Intake Page
 
 on:
   workflow_dispatch:
+
   push:
     paths:
       - "intake/feeds.yml"
       - "intake/requirements.txt"
       - "intake/build.py"
+      - "intake/scripts/daily_arthropod.py"
       - ".github/workflows/build-news.yml"
+
   schedule:
     - cron: "57 23 * * *"
 
@@ -30,6 +33,9 @@ jobs:
       - name: Install dependencies
         run: pip install -r intake/requirements.txt
 
+      - name: Generate daily arthropod
+        run: python intake/scripts/daily_arthropod.py
+
       - name: Build intake page
         run: python intake/build.py
 
@@ -37,4 +43,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore(intake): update generated intake page"
-          file_pattern: intake/index.html
+          file_pattern: |
+            intake/index.html
+            intake/data/daily_arthropod.json
+            intake/data/daily_arthropod.html
