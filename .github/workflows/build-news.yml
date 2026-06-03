@@ -9,6 +9,7 @@ on:
       - "intake/requirements.txt"
       - "intake/build.py"
       - "intake/scripts/daily_field_sample.py"
+      - "intake/scripts/daily_postcard.py"
       - ".github/workflows/build-news.yml"
 
   schedule:
@@ -33,6 +34,9 @@ jobs:
       - name: Install dependencies
         run: pip install -r intake/requirements.txt
 
+      - name: Generate daily postcard
+        run: python intake/scripts/daily_postcard.py
+
       - name: Generate daily field sample
         run: python intake/scripts/daily_field_sample.py
 
@@ -45,5 +49,7 @@ jobs:
           commit_message: "chore(intake): update generated intake page"
           file_pattern: |
             intake/index.html
+            intake/data/daily_postcard.json
+            intake/data/daily_postcard.html
             intake/data/daily_field_sample.json
             intake/data/daily_field_sample.html
