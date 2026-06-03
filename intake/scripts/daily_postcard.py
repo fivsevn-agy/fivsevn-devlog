@@ -151,7 +151,10 @@ def fetch_postcard() -> dict:
             return {
                 "date": day.isoformat(),
                 "from": "Wikimedia Commons <picture-of-the-day@commons.wikimedia.org>",
-                "to": "fivsevn <intake@devlog.fivsevn.com>",
+                "to_name": "fivsevn",
+                "to_email_prefix": "intake@",
+                "to_domain": "devlog.fivsevn.com",
+                "to_url": "https://devlog.fivsevn.com/",
                 "subject": "You have one postcard waiting to be viewed! 你有一张明信片待查收！",
                 "title": title,
                 "description": description,
@@ -171,25 +174,29 @@ def fetch_postcard() -> dict:
 
 def render_html(payload: dict) -> str:
     from_line = html.escape(payload["from"])
-    to_line = html.escape(payload["to"])
     date_line = html.escape(payload["date"])
     subject_line = html.escape(payload["subject"])
     image_url = html.escape(payload["image_url"], quote=True)
     original_url = html.escape(payload["original_url"], quote=True)
     title = html.escape(payload.get("title") or "Wikimedia Commons Picture of the Day")
 
+    to_name = html.escape(payload["to_name"])
+    to_email_prefix = html.escape(payload["to_email_prefix"])
+    to_domain = html.escape(payload["to_domain"])
+    to_url = html.escape(payload["to_url"], quote=True)
+
     return f'''<section id="daily-postcard" class="postcard-mail">
-  <pre class="mail-header">From: {from_line}
-To: {to_line}
-Date: {date_line}
-Subject: {subject_line}</pre>
+  <div class="postcard-header">
+    <div><strong>From:</strong> {from_line}</div>
+    <div><strong>To:</strong> {to_name} &lt;{to_email_prefix}<a href="{to_url}" target="_blank" rel="noopener noreferrer">{to_domain}</a>&gt;</div>
+    <div><strong>Date:</strong> {date_line}</div>
+    <div><strong>Subject:</strong> {subject_line}</div>
+  </div>
 
-  <p class="mail-label">View postcard:</p>
-
+  <p class="postcard-label">View postcard:</p>
   <a class="postcard-image-link" href="{original_url}" target="_blank" rel="noopener noreferrer">
     <img class="postcard-image" src="{image_url}" alt="{title}" loading="lazy">
   </a>
-
   <p class="postcard-original">Original: <a href="{original_url}" target="_blank" rel="noopener noreferrer">{original_url}</a></p>
 </section>
 '''

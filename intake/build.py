@@ -81,7 +81,6 @@ def fetch_feed(feed_name: str, feed_url: str) -> list[dict[str, Any]]:
                 "published": format_datetime(published_dt),
             }
         )
-
     return items
 
 
@@ -165,7 +164,10 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
             nav_label = f"{section_title} / {section_title_zh}"
         nav_parts.append(f'<a href="#{escape(section_key)}">{nav_label}</a>')
 
-        article_parts = [render_article(item) for item in items] if items else ["<p class='empty'>No items fetched.</p>"]
+        article_parts = [render_article(item) for item in items]
+        if not article_parts:
+            article_parts = ['<p class="empty">No items fetched.</p>']
+
         title_zh_html = f"<p class='section-title-zh'>{section_title_zh}</p>" if section_title_zh else ""
         description_html = f"<p class='section-description'>{section_description}</p>" if section_description else ""
         description_zh_html = f"<p class='section-description-zh'>{section_description_zh}</p>" if section_description_zh else ""
@@ -199,7 +201,7 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
       --text: #e8e8e8;
       --muted: #9ca3af;
       --border: #2a2f3a;
-      --link: #d6b36a;
+      --link: #8ab4ff;
       --site-green: #6becae;
     }}
 
@@ -235,30 +237,30 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
     }}
 
     .title-zh {{
-      margin: 0 0 22px;
+      margin: 0 0 28px;
       color: var(--text);
       font-size: 1.15rem;
       font-weight: 500;
     }}
 
     .kicker {{
-      margin: 16px 0 2px;
+      margin: 18px 0 2px;
       color: var(--muted);
       font-size: 0.95rem;
     }}
 
     .kicker-value {{
-      margin: 0;
+      margin: 0 0 8px;
       color: var(--text);
       font-size: 1.05rem;
-      font-weight: 600;
+      font-weight: 650;
     }}
 
     nav {{
       display: flex;
       flex-wrap: wrap;
       gap: 10px;
-      margin-top: 8px;
+      margin-top: 12px;
     }}
 
     nav a {{
@@ -268,6 +270,10 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
       border-radius: 999px;
       padding: 5px 12px;
       font-size: 0.9rem;
+    }}
+
+    nav a:hover {{
+      border-color: var(--site-green);
     }}
 
     section {{
@@ -309,6 +315,80 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
       margin: 14px 0;
     }}
 
+    .postcard-mail {{
+      padding: 18px;
+    }}
+
+    .postcard-header {{
+      margin: 0 0 20px;
+      color: var(--muted);
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      font-size: 0.95rem;
+      line-height: 1.55;
+      white-space: normal;
+    }}
+
+    .postcard-header div {{
+      margin: 0;
+    }}
+
+    .postcard-header strong {{
+      color: var(--muted);
+      font-weight: 800;
+    }}
+
+    .postcard-header a {{
+      color: var(--muted);
+      text-decoration: underline;
+      text-underline-offset: 2px;
+    }}
+
+    .postcard-label {{
+      margin: 0 0 10px;
+      color: var(--muted);
+      font-weight: 650;
+    }}
+
+    .postcard-image-link {{
+      display: block;
+      width: fit-content;
+      max-width: 100%;
+    }}
+
+    .postcard-image {{
+      display: block;
+      max-width: 100%;
+      max-height: 620px;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      object-fit: contain;
+    }}
+
+    .postcard-original {{
+      margin: 8px 0 0;
+      color: var(--muted);
+      font-size: 0.78rem;
+      word-break: break-all;
+    }}
+
+    .postcard-original a {{
+      color: var(--muted);
+      text-decoration: underline;
+      text-underline-offset: 2px;
+    }}
+
+    .daily-field-sample h2 {{
+      margin-bottom: 18px;
+    }}
+
+    .daily-field-sample p {{
+      margin: 0 0 18px;
+    }}
+
+    .daily-field-sample a {{
+      color: var(--site-green);
+    }}
+
     .article h3 {{
       margin: 0 0 8px;
       font-size: 1.05rem;
@@ -340,60 +420,12 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
       color: var(--muted);
     }}
 
-    .postcard-mail pre,
-    .mail-header {{
-      margin: 0 0 16px;
-      white-space: pre-wrap;
-      color: var(--text);
-      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
-      font-size: 0.9rem;
-      line-height: 1.55;
-    }}
-
-    .postcard-mail img {{
-      display: block;
-      max-width: 100%;
-      max-height: 640px;
-      height: auto;
-      border-radius: 10px;
-      border: 1px solid var(--border);
-    }}
-
-    .mail-label {{
-      margin: 0 0 8px;
-      color: var(--muted);
-      font-size: 0.95rem;
-    }}
-
-    .daily-field-sample a {{
-      color: var(--site-green);
-    }}
-
-    .daily-field-sample a:hover {{
-      color: var(--site-green);
-    }}
-
-    .postcard-original {{
-      margin: 8px 0 0;
-      color: var(--muted);
-      font-size: 0.78rem;
-      word-break: break-all;
-    }}
-
-    .postcard-original a {{
-      color: var(--muted);
-    }}
-
     footer {{
       margin-top: 48px;
       padding-top: 20px;
       border-top: 1px solid var(--border);
       color: var(--muted);
       font-size: 0.9rem;
-    }}
-
-    footer p {{
-      margin: 6px 0;
     }}
 
     code {{
