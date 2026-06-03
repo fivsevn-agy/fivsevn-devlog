@@ -51,13 +51,13 @@ intake/
 The generated page uses a lightweight convenience-store/newspaper-stand frame:
 
 ```text
-Courier on duty / 今日投递员：
+Courier on duty / 投递员：
 GitHub Actions
 
 Shift opened / 到店时间：
 YYYY-MM-DD HH:MM UTC
 
-On the shelf / 今日上架：
+On the shelf / 本日上架：
 [section tags]
 ```
 
