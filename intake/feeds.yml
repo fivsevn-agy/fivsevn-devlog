@@ -1,7 +1,7 @@
 site:
   title: "Today’s Arrival"
   title_zh: "本日入荷"
-  max_items_per_section: 23
+  max_items_per_section: 33
 
 sections:
   society:
