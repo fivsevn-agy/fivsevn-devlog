@@ -1,7 +1,7 @@
 site:
   title: "Today’s Arrival"
   title_zh: "本日入荷"
-  max_items_per_section: 33
+  max_items_per_section: 23
 
 sections:
   society:
@@ -43,8 +43,8 @@ sections:
   science:
     title: "science"
     title_zh: "科学"
-    description: "Research, science news, nature, space, and applied knowledge."
-    description_zh: "研究进展、科学新闻、自然、空间与应用知识。"
+    description: "General science news, research discoveries, space, technology, and applied knowledge."
+    description_zh: "综合科学新闻、研究发现、空间、技术与应用知识。"
     feeds:
       - name: "Nature"
         url: "https://www.nature.com/nature.rss"
@@ -52,20 +52,14 @@ sections:
         url: "https://www.sciencedaily.com/rss/all.xml"
       - name: "MIT News"
         url: "https://news.mit.edu/rss/topic/science-technology"
-      - name: "Entomology Today"
-        url: "https://entomologytoday.org/feed/"
-      - name: "ScienceDaily Insects"
-        url: "https://www.sciencedaily.com/rss/plants_animals/insects_and_butterflies.xml"
-      - name: "Hakai Magazine"
-        url: "https://hakaimagazine.com/feed/"
-      - name: "ScienceDaily Marine Biology"
-        url: "https://www.sciencedaily.com/rss/plants_animals/marine_biology.xml"
-      - name: "NOAA PMEL Highlights"
-        url: "https://www.pmel.noaa.gov/feed/rss-feed-pmel-whats-new.xml"
       - name: "Phys.org Biology"
         url: "https://phys.org/rss-feed/biology-news/"
       - name: "Quanta Magazine"
         url: "https://www.quantamagazine.org/feed/"
+      - name: "Science News"
+        url: "https://www.sciencenews.org/feed"
+      - name: "The Scientist"
+        url: "https://www.the-scientist.com/rss"
 
   arts:
     title: "arts"
@@ -83,3 +77,94 @@ sections:
         url: "https://www.artnews.com/feed/"
       - name: "e-flux"
         url: "https://www.e-flux.com/rss/"
+
+  research:
+    title: "research"
+    title_zh: "学术"
+    description: "New papers, preprints, open-access research, and scholarly alerts."
+    description_zh: "新论文、预印本、开放获取研究与学术更新。"
+    feeds:
+      - name: "bioRxiv Ecology"
+        url: "https://www.biorxiv.org/rss/collection/ecology.xml"
+      - name: "bioRxiv Evolutionary Biology"
+        url: "https://www.biorxiv.org/rss/collection/evolutionary-biology.xml"
+      - name: "bioRxiv Zoology"
+        url: "https://www.biorxiv.org/rss/collection/zoology.xml"
+      - name: "arXiv q-bio Populations and Evolution"
+        url: "https://rss.arxiv.org/rss/q-bio.PE"
+      - name: "eLife Latest"
+        url: "https://elifesciences.org/rss/recent.xml"
+      - name: "PLOS Biology"
+        url: "https://journals.plos.org/plosbiology/feed/atom"
+
+  natural_history:
+    title: "natural history"
+    title_zh: "自然史"
+    description: "Natural history, evolution, fossils, museums, biodiversity, and deep time."
+    description_zh: "自然史、演化、化石、博物馆、生物多样性与深时。"
+    feeds:
+      - name: "Smithsonian Science"
+        url: "https://www.smithsonianmag.com/rss/science/"
+      - name: "Smithsonian Smart News"
+        url: "https://www.smithsonianmag.com/rss/smart-news/"
+      - name: "Natural History Museum"
+        url: "https://www.nhm.ac.uk/discover.rss"
+      - name: "Everything Dinosaur"
+        url: "https://blog.everythingdinosaur.com/feed"
+
+  ocean:
+    title: "ocean"
+    title_zh: "海洋"
+    description: "Ocean science, marine biology, exploration, conservation, and coastal worlds."
+    description_zh: "海洋科学、海洋生物学、探索、保护与海岸世界。"
+    feeds:
+      - name: "Hakai Magazine"
+        url: "https://hakaimagazine.com/feed/"
+      - name: "ScienceDaily Marine Biology"
+        url: "https://www.sciencedaily.com/rss/plants_animals/marine_biology.xml"
+      - name: "NOAA PMEL Highlights"
+        url: "https://www.pmel.noaa.gov/feed/rss-feed-pmel-whats-new.xml"
+      - name: "NOAA Ocean Exploration"
+        url: "https://oceanexplorer.noaa.gov/news/oceanexplorer-news.xml"
+      - name: "MarineBio Conservation Society"
+        url: "https://www.marinebio.org/news/feed/"
+      - name: "Oceanographic Magazine"
+        url: "https://oceanographicmagazine.com/feed/"
+      - name: "The Revelator Oceans"
+        url: "https://therevelator.org/category/oceans/feed/"
+      - name: "Mongabay Oceans"
+        url: "https://news.mongabay.com/list/oceans/feed/"
+
+  arthropods:
+    title: "arthropods"
+    title_zh: "节肢动物"
+    description: "Arthropods, insects, arachnids, crustaceans, myriapods, pollinators, behavior, and biodiversity."
+    description_zh: "节肢动物、昆虫、蛛形纲、甲壳类、多足类、传粉者、行为与生物多样性。"
+    feeds:
+      - name: "Entomology Today"
+        url: "https://entomologytoday.org/feed/"
+      - name: "ScienceDaily Insects"
+        url: "https://www.sciencedaily.com/rss/plants_animals/insects_and_butterflies.xml"
+      - name: "Xerces Society Blog"
+        url: "https://xerces.org/blog/feed"
+      - name: "BugGuide Recent Articles"
+        url: "https://bugguide.net/rss"
+      - name: "AntWiki Recent Changes"
+        url: "https://www.antwiki.org/wiki/Special:RecentChanges?feed=atom"
+
+  books:
+    title: "books"
+    title_zh: "书籍"
+    description: "Books, publishing, libraries, archives, reviews, and reading culture."
+    description_zh: "书籍、出版、图书馆、档案、书评与阅读文化。"
+    feeds:
+      - name: "LARB"
+        url: "https://lareviewofbooks.org/feed/"
+      - name: "Bookforum"
+        url: "https://www.bookforum.com/feed"
+      - name: "New York Review of Books"
+        url: "https://www.nybooks.com/feed/"
+      - name: "Internet Archive Blog"
+        url: "https://blog.archive.org/feed/"
+      - name: "Internet Archive Books"
+        url: "https://blog.archive.org/category/books/feed/"
