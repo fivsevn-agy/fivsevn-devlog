@@ -16,6 +16,8 @@ CONFIG_PATH = BASE_DIR / "feeds.yml"
 OUTPUT_PATH = BASE_DIR / "index.html"
 DATA_DIR = BASE_DIR / "data"
 
+ITEMS_PER_FEED = 7
+
 
 def load_config() -> dict[str, Any]:
     with CONFIG_PATH.open("r", encoding="utf-8") as file:
@@ -55,17 +57,24 @@ def format_datetime(dt: datetime) -> str:
     return dt.astimezone(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
 
-def fetch_feed(feed_name: str, feed_url: str) -> list[dict[str, Any]]:
+def fetch_feed(feed_name: str, feed_url: str, limit: int = ITEMS_PER_FEED) -> list[dict[str, Any]]:
     parsed = feedparser.parse(feed_url)
     if getattr(parsed, "bozo", False):
         print(f"[warn] feed parse warning: {feed_name} — {feed_url}")
 
     items: list[dict[str, Any]] = []
+    seen_links: set[str] = set()
+
     for entry in parsed.entries:
         link = entry.get("link", "").strip()
         title = entry.get("title", "Untitled").strip()
         if not link or not title:
             continue
+
+        normalized_link = link.split("?")[0].rstrip("/")
+        if normalized_link in seen_links:
+            continue
+        seen_links.add(normalized_link)
 
         raw_summary = entry.get("summary", "") or entry.get("description", "")
         summary = strip_html(raw_summary)
@@ -81,12 +90,13 @@ def fetch_feed(feed_name: str, feed_url: str) -> list[dict[str, Any]]:
                 "published": format_datetime(published_dt),
             }
         )
-    return items
+
+    items.sort(key=lambda item: item["published_dt"], reverse=True)
+    return items[:limit]
 
 
-def build_section(section: dict[str, Any], max_items: int) -> list[dict[str, Any]]:
-    all_items: list[dict[str, Any]] = []
-    seen_links: set[str] = set()
+def build_section(section: dict[str, Any]) -> list[dict[str, Any]]:
+    section_items: list[dict[str, Any]] = []
 
     for feed in section.get("feeds", []):
         feed_name = feed.get("name", "Unknown Source")
@@ -96,20 +106,16 @@ def build_section(section: dict[str, Any], max_items: int) -> list[dict[str, Any
 
         print(f"[fetch] {feed_name}: {feed_url}")
         try:
-            items = fetch_feed(feed_name, feed_url)
+            items = fetch_feed(feed_name, feed_url, ITEMS_PER_FEED)
         except Exception as error:
             print(f"[error] failed to fetch {feed_name}: {error}")
             continue
 
-        for item in items:
-            normalized_link = item["link"].split("?")[0].rstrip("/")
-            if normalized_link in seen_links:
-                continue
-            seen_links.add(normalized_link)
-            all_items.append(item)
+        print(f"[items] {feed_name}: {len(items)}")
+        section_items.extend(items)
 
-    all_items.sort(key=lambda item: item["published_dt"], reverse=True)
-    return all_items[:max_items]
+    section_items.sort(key=lambda item: item["published_dt"], reverse=True)
+    return section_items
 
 
 def render_article(item: dict[str, Any]) -> str:
@@ -469,12 +475,11 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
 
 def main() -> None:
     config = load_config()
-    max_items = int(config.get("site", {}).get("max_items_per_section", 20))
 
     sections_data: dict[str, list[dict[str, Any]]] = {}
     for section_key, section in config.get("sections", {}).items():
         print(f"[section] {section_key}")
-        sections_data[section_key] = build_section(section, max_items)
+        sections_data[section_key] = build_section(section)
 
     OUTPUT_PATH.write_text(render_html(config, sections_data), encoding="utf-8")
     print(f"[done] generated {OUTPUT_PATH}")
