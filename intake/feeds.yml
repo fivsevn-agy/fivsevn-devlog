@@ -1,7 +1,7 @@
 site:
   title: "Today’s Arrival"
   title_zh: "本日入荷"
-  max_items_per_section: 15
+  max_items_per_section: 23
 
 sections:
   society:
@@ -16,6 +16,12 @@ sections:
         url: "https://www.theguardian.com/world/rss"
       - name: "NPR News"
         url: "https://feeds.npr.org/1001/rss.xml"
+      - name: "Al Jazeera"
+        url: "https://www.aljazeera.com/xml/rss/all.xml"
+      - name: "DW News"
+        url: "https://rss.dw.com/rdf/rss-en-all"
+      - name: "SCMP World"
+        url: "https://www.scmp.com/rss/91/feed"
 
   ideas:
     title: "ideas"
@@ -27,6 +33,12 @@ sections:
         url: "https://aeon.co/feed.rss"
       - name: "The Marginalian"
         url: "https://www.themarginalian.org/feed/"
+      - name: "JSTOR Daily"
+        url: "https://daily.jstor.org/feed/"
+      - name: "Noema Magazine"
+        url: "https://www.noemamag.com/feed/"
+      - name: "Public Books"
+        url: "https://www.publicbooks.org/feed/"
 
   science:
     title: "science"
@@ -40,6 +52,20 @@ sections:
         url: "https://www.sciencedaily.com/rss/all.xml"
       - name: "MIT News"
         url: "https://news.mit.edu/rss/topic/science-technology"
+      - name: "Entomology Today"
+        url: "https://entomologytoday.org/feed/"
+      - name: "ScienceDaily Insects"
+        url: "https://www.sciencedaily.com/rss/plants_animals/insects_and_butterflies.xml"
+      - name: "Hakai Magazine"
+        url: "https://hakaimagazine.com/feed/"
+      - name: "ScienceDaily Marine Biology"
+        url: "https://www.sciencedaily.com/rss/plants_animals/marine_biology.xml"
+      - name: "NOAA PMEL Highlights"
+        url: "https://www.pmel.noaa.gov/feed/rss-feed-pmel-whats-new.xml"
+      - name: "Phys.org Biology"
+        url: "https://phys.org/rss-feed/biology-news/"
+      - name: "Quanta Magazine"
+        url: "https://www.quantamagazine.org/feed/"
 
   arts:
     title: "arts"
@@ -51,3 +77,9 @@ sections:
         url: "https://hyperallergic.com/feed/"
       - name: "The Art Newspaper"
         url: "https://www.theartnewspaper.com/rss.xml"
+      - name: "ArtReview"
+        url: "https://artreview.com/feed/"
+      - name: "ARTnews"
+        url: "https://www.artnews.com/feed/"
+      - name: "e-flux"
+        url: "https://www.e-flux.com/rss/"
