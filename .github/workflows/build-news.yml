@@ -13,8 +13,7 @@ on:
       - ".github/workflows/build-news.yml"
 
   schedule:
-    - cron: "23 9 * * *"
-      timezone: "Asia/Tokyo"
+    - cron: "*/10 * * * *"
 
 permissions:
   contents: write
