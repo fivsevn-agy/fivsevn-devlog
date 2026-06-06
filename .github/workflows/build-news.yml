@@ -3,20 +3,16 @@ name: Build Intake Page
 on:
   workflow_dispatch:
 
-  push:
-    paths:
-      - "intake/feeds.yml"
-      - "intake/requirements.txt"
-      - "intake/build.py"
-      - "intake/scripts/daily_field_sample.py"
-      - "intake/scripts/daily_postcard.py"
-      - ".github/workflows/build-news.yml"
-
   schedule:
+    # 测试用：每 10 分钟自动跑一次
     - cron: "*/10 * * * *"
 
 permissions:
   contents: write
+
+concurrency:
+  group: build-intake
+  cancel-in-progress: false
 
 jobs:
   build-intake:
@@ -34,16 +30,16 @@ jobs:
       - name: Install dependencies
         run: pip install -r intake/requirements.txt
 
-      - name: Generate daily postcard
+      - name: Update daily image
         run: python intake/scripts/daily_postcard.py
 
-      - name: Generate daily field sample
+      - name: Update daily species
         run: python intake/scripts/daily_field_sample.py
 
-      - name: Build intake page
+      - name: Update intake page
         run: python intake/build.py
 
-      - name: Commit generated intake files
+      - name: Save generated files
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore(intake): update generated intake page"
