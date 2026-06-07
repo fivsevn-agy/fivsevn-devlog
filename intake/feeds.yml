@@ -1,305 +1,336 @@
 site:
-  title: "Today’s Arrival"
-  title_zh: "本日入荷"
-
+  title: Today’s Arrival
+  title_zh: 本日入荷
+display:
+  max_items_per_section: 12
+  default_source_cap: 4
+  section_caps:
+    world_society: 18
+    ideas: 10
+    books: 10
+    human_sciences: 10
+    mind: 8
+    science_news: 12
+    research: 14
+    natural_history: 10
+    marine_life: 12
+    mollusks: 8
+    arthropods: 8
+    ai_technology: 12
+    radio_hardware: 12
+    games: 10
+    arts_design: 10
+    fashion_style: 10
+    field_gear: 12
+  source_caps:
+    DW News: 5
+    The Guardian World: 5
+    Al Jazeera: 5
+    The Marginalian: 3
+    Nautilus: 3
+    Hackaday: 3
+    Hypebeast: 4
+    Vogue: 4
+    Gear Patrol: 3
 sections:
-  society:
-    title: "society"
-    title_zh: "社会"
-    description: "Public life, institutions, world affairs, and social change."
-    description_zh: "公共生活、制度、世界事务与社会变化。"
+  world_society:
+    title: world & society
+    title_zh: 世界与社会
+    description: World news, public life, institutions, geopolitics, social conflict, and civic change.
+    description_zh: 世界新闻、公共生活、制度、地缘政治、社会冲突与公共变化。
     feeds:
-      - name: "BBC World"
-        url: "https://feeds.bbci.co.uk/news/world/rss.xml"
-      - name: "The Guardian World"
-        url: "https://www.theguardian.com/world/rss"
-      - name: "NPR News"
-        url: "https://feeds.npr.org/1001/rss.xml"
-      - name: "Al Jazeera"
-        url: "https://www.aljazeera.com/xml/rss/all.xml"
-      - name: "DW News"
-        url: "https://rss.dw.com/rdf/rss-en-all"
-      - name: "SCMP World"
-        url: "https://www.scmp.com/rss/91/feed"
-
+    - name: BBC World
+      url: https://feeds.bbci.co.uk/news/world/rss.xml
+    - name: The Guardian World
+      url: https://www.theguardian.com/world/rss
+    - name: NPR News
+      url: https://feeds.npr.org/1001/rss.xml
+    - name: Al Jazeera
+      url: https://www.aljazeera.com/xml/rss/all.xml
+    - name: DW News
+      url: https://rss.dw.com/rdf/rss-en-all
+    - name: SCMP World
+      url: https://www.scmp.com/rss/91/feed
   ideas:
-    title: "ideas"
-    title_zh: "思想"
-    description: "Philosophy, essays, intellectual history, and reflective long-form reading."
-    description_zh: "哲学、随笔、思想史与反思性长文。"
+    title: ideas
+    title_zh: 思想
+    description: Essays, philosophy, intellectual history, reflective magazines, and speculative thinking.
+    description_zh: 随笔、哲学、思想史、反思性杂志与推测性思考。
     feeds:
-      - name: "Aeon"
-        url: "https://aeon.co/feed.rss"
-      - name: "The Marginalian"
-        url: "https://www.themarginalian.org/feed/"
-      - name: "JSTOR Daily"
-        url: "https://daily.jstor.org/feed/"
-      - name: "Noema Magazine"
-        url: "https://www.noemamag.com/feed/"
-      - name: "Public Books"
-        url: "https://www.publicbooks.org/feed/"
-
-  human_sciences:
-    title: "human sciences"
-    title_zh: "人类科学"
-    description: "Anthropology, sociology, psychology, behavioral science, culture, institutions, mind, and social life."
-    description_zh: "人类学、社会学、心理学、行为科学、文化、制度、心智与社会生活。"
-    feeds:
-      - name: "SAPIENS"
-        url: "https://www.sapiens.org/feed/"
-      - name: "Anthropology News"
-        url: "https://www.anthropology-news.org/feed/"
-      - name: "Somatosphere"
-        url: "http://somatosphere.net/feed/"
-      - name: "Contexts"
-        url: "https://contexts.org/feed/"
-      - name: "The Society Pages"
-        url: "https://thesocietypages.org/feed/"
-      - name: "LSE Review of Books"
-        url: "https://blogs.lse.ac.uk/lsereviewofbooks/feed/"
-      - name: "BPS Research Digest"
-        url: "https://www.bps.org.uk/research-digest/rss.xml"
-      - name: "APA News"
-        url: "https://www.apa.org/news/rss"
-      - name: "Nautilus"
-        url: "https://nautil.us/feed/"
-      - name: "Psyche"
-        url: "https://psyche.co/feed"
-
-  science:
-    title: "science"
-    title_zh: "科学"
-    description: "General science news, research discoveries, space, technology, and applied knowledge."
-    description_zh: "综合科学新闻、研究发现、空间、技术与应用知识。"
-    feeds:
-      - name: "Nature"
-        url: "https://www.nature.com/nature.rss"
-      - name: "ScienceDaily"
-        url: "https://www.sciencedaily.com/rss/all.xml"
-      - name: "MIT News"
-        url: "https://news.mit.edu/rss/topic/science-technology"
-      - name: "Phys.org Biology"
-        url: "https://phys.org/rss-feed/biology-news/"
-      - name: "Quanta Magazine"
-        url: "https://www.quantamagazine.org/feed/"
-      - name: "Science News"
-        url: "https://www.sciencenews.org/feed"
-      - name: "The Scientist"
-        url: "https://www.the-scientist.com/rss"
-
-  ai_technology:
-    title: "AI & technology"
-    title_zh: "AI 与科技"
-    description: "Artificial intelligence, computing, platforms, hardware, software, and technology culture."
-    description_zh: "人工智能、计算、平台、硬件、软件与科技文化。"
-    feeds:
-      - name: "MIT Technology Review"
-        url: "https://www.technologyreview.com/feed/"
-      - name: "Google AI Blog"
-        url: "https://blog.google/technology/ai/rss/"
-      - name: "Google DeepMind"
-        url: "https://deepmind.google/blog/rss.xml"
-      - name: "The Verge AI"
-        url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
-      - name: "Ars Technica"
-        url: "https://feeds.arstechnica.com/arstechnica/index"
-      - name: "IEEE Spectrum"
-        url: "https://spectrum.ieee.org/feeds/feed.rss"
-      - name: "The Gradient"
-        url: "https://thegradient.pub/rss/"
-
-  games:
-    title: "games"
-    title_zh: "游戏"
-    description: "Video games, game culture, criticism, platforms, studios, development, and interactive media."
-    description_zh: "电子游戏、游戏文化、评论、平台、工作室、开发与互动媒体。"
-    feeds:
-      - name: "Polygon"
-        url: "https://www.polygon.com/rss/index.xml"
-      - name: "Eurogamer"
-        url: "https://www.eurogamer.net/feed"
-      - name: "Rock Paper Shotgun"
-        url: "https://www.rockpapershotgun.com/feed"
-      - name: "Game Developer"
-        url: "https://www.gamedeveloper.com/rss.xml"
-      - name: "PC Gamer"
-        url: "https://www.pcgamer.com/rss/"
-
-  radio:
-    title: "radio"
-    title_zh: "无线电"
-    description: "Radio technology, amateur radio, SDR, signal monitoring, antennas, RF systems, and communication hardware."
-    description_zh: "无线电技术、业余无线电、软件定义无线电、信号监听、天线、射频系统与通信硬件。"
-    feeds:
-      - name: "ARRL News"
-        url: "https://www.arrl.org/arrl.rss"
-      - name: "RTL-SDR Blog"
-        url: "https://www.rtl-sdr.com/feed/"
-      - name: "Hackaday"
-        url: "https://hackaday.com/blog/feed/"
-      - name: "SWLing Post"
-        url: "https://swling.com/blog/feed/"
-      - name: "Radio Society of Great Britain"
-        url: "https://rsgb.org/main/feed/"
-
-  research:
-    title: "research"
-    title_zh: "学术"
-    description: "New papers, preprints, open-access research, and scholarly alerts."
-    description_zh: "新论文、预印本、开放获取研究与学术更新。"
-    feeds:
-      - name: "bioRxiv Ecology"
-        url: "https://www.biorxiv.org/rss/collection/ecology.xml"
-      - name: "bioRxiv Evolutionary Biology"
-        url: "https://www.biorxiv.org/rss/collection/evolutionary-biology.xml"
-      - name: "bioRxiv Zoology"
-        url: "https://www.biorxiv.org/rss/collection/zoology.xml"
-      - name: "arXiv q-bio Populations and Evolution"
-        url: "https://rss.arxiv.org/rss/q-bio.PE"
-      - name: "eLife Latest"
-        url: "https://elifesciences.org/rss/recent.xml"
-      - name: "PLOS Biology"
-        url: "https://journals.plos.org/plosbiology/feed/atom"
-      - name: "PsyArXiv"
-        url: "https://osf.io/preprints/psyarxiv/discover.rss"
-      - name: "SocArXiv"
-        url: "https://osf.io/preprints/socarxiv/discover.rss"
-
-  natural_history:
-    title: "natural history"
-    title_zh: "自然史"
-    description: "Natural history, evolution, fossils, museums, biodiversity, and deep time."
-    description_zh: "自然史、演化、化石、博物馆、生物多样性与深时。"
-    feeds:
-      - name: "Smithsonian Science"
-        url: "https://www.smithsonianmag.com/rss/science/"
-      - name: "Smithsonian Smart News"
-        url: "https://www.smithsonianmag.com/rss/smart-news/"
-      - name: "Natural History Museum"
-        url: "https://www.nhm.ac.uk/discover.rss"
-      - name: "Everything Dinosaur"
-        url: "https://blog.everythingdinosaur.com/feed"
-
-  ocean:
-    title: "ocean"
-    title_zh: "海洋"
-    description: "Ocean science, marine biology, exploration, conservation, and coastal worlds."
-    description_zh: "海洋科学、海洋生物学、探索、保护与海岸世界。"
-    feeds:
-      - name: "Hakai Magazine"
-        url: "https://hakaimagazine.com/feed/"
-      - name: "ScienceDaily Marine Biology"
-        url: "https://www.sciencedaily.com/rss/plants_animals/marine_biology.xml"
-      - name: "NOAA PMEL Highlights"
-        url: "https://www.pmel.noaa.gov/feed/rss-feed-pmel-whats-new.xml"
-      - name: "NOAA Ocean Exploration"
-        url: "https://oceanexplorer.noaa.gov/news/oceanexplorer-news.xml"
-      - name: "MarineBio Conservation Society"
-        url: "https://www.marinebio.org/news/feed/"
-      - name: "Oceanographic Magazine"
-        url: "https://oceanographicmagazine.com/feed/"
-      - name: "The Revelator Oceans"
-        url: "https://therevelator.org/category/oceans/feed/"
-      - name: "Mongabay Oceans"
-        url: "https://news.mongabay.com/list/oceans/feed/"
-
-  mollusks:
-    title: "mollusks"
-    title_zh: "贝壳与软体动物"
-    description: "Mollusks, shells, cephalopods, gastropods, bivalves, marine biodiversity, taxonomy, and shell culture."
-    description_zh: "软体动物、贝壳、头足类、腹足类、双壳类、海洋生物多样性、分类学与贝壳文化。"
-    feeds:
-      - name: "ScienceDaily Mollusks"
-        url: "https://www.sciencedaily.com/rss/plants_animals/mollusks.xml"
-      - name: "Phys.org Mollusks"
-        url: "https://phys.org/rss-feed/tags/mollusks/"
-      - name: "The Cephalopod Page"
-        url: "https://www.thecephalopodpage.org/feed/"
-      - name: "Malacological Society of London"
-        url: "https://malacsoc.org.uk/feed/"
-
-  arthropods:
-    title: "arthropods"
-    title_zh: "节肢动物"
-    description: "Arthropods, insects, arachnids, crustaceans, myriapods, pollinators, behavior, and biodiversity."
-    description_zh: "节肢动物、昆虫、蛛形纲、甲壳类、多足类、传粉者、行为与生物多样性。"
-    feeds:
-      - name: "Entomology Today"
-        url: "https://entomologytoday.org/feed/"
-      - name: "ScienceDaily Insects"
-        url: "https://www.sciencedaily.com/rss/plants_animals/insects_and_butterflies.xml"
-      - name: "Xerces Society Blog"
-        url: "https://xerces.org/blog/feed"
-      - name: "BugGuide Recent Articles"
-        url: "https://bugguide.net/rss"
-      - name: "AntWiki Recent Changes"
-        url: "https://www.antwiki.org/wiki/Special:RecentChanges?feed=atom"
-
-  arts_fashion:
-    title: "arts & fashion"
-    title_zh: "艺术与时尚"
-    description: "Art, criticism, museums, visual culture, fashion, style, design, garments, runway culture, and contemporary aesthetics."
-    description_zh: "艺术、批评、博物馆、视觉文化、时尚、风格、设计、服装、秀场文化与当代审美。"
-    feeds:
-      - name: "Hyperallergic"
-        url: "https://hyperallergic.com/feed/"
-      - name: "The Art Newspaper"
-        url: "https://www.theartnewspaper.com/rss.xml"
-      - name: "ArtReview"
-        url: "https://artreview.com/feed/"
-      - name: "ARTnews"
-        url: "https://www.artnews.com/feed/"
-      - name: "e-flux"
-        url: "https://www.e-flux.com/rss/"
-      - name: "Vogue"
-        url: "https://www.vogue.com/feed/rss"
-      - name: "Business of Fashion"
-        url: "https://www.businessoffashion.com/arc/outboundfeeds/rss/?outputType=xml"
-      - name: "Hypebeast"
-        url: "https://hypebeast.com/feed"
-      - name: "Highsnobiety"
-        url: "https://www.highsnobiety.com/feed/"
-
-  field_gear:
-    title: "field gear"
-    title_zh: "野外装备"
-    description: "Knives, firearms, tactical equipment, outdoor gear, packs, EDC, camping hardware, field tools, and material culture."
-    description_zh: "刀具、枪械、战术装备、户外装备、背包、EDC、露营硬件、野外工具与器物文化。"
-    feeds:
-      - name: "The Firearm Blog"
-        url: "https://www.thefirearmblog.com/blog/feed/"
-      - name: "Soldier Systems Daily"
-        url: "https://soldiersystems.net/feed/"
-      - name: "KnifeNews"
-        url: "https://knifenews.com/feed/"
-      - name: "BLADE Magazine Knife News"
-        url: "https://blademag.com/knife-news/feed"
-      - name: "RECOIL"
-        url: "https://www.recoilweb.com/feed"
-      - name: "Gear Patrol"
-        url: "https://www.gearpatrol.com/rss/"
-      - name: "OutdoorGearLab"
-        url: "https://www.outdoorgearlab.com/feed"
-      - name: "SectionHiker"
-        url: "https://sectionhiker.com/feed/"
-      - name: "Carryology"
-        url: "https://www.carryology.com/feed/"
-      - name: "Field Mag"
-        url: "https://www.fieldmag.com/rss"
-
+    - name: Aeon
+      url: https://aeon.co/feed.rss
+    - name: The Marginalian
+      url: https://www.themarginalian.org/feed/
+    - name: JSTOR Daily
+      url: https://daily.jstor.org/feed/
+    - name: Noema Magazine
+      url: https://www.noemamag.com/feed/
+    - name: Nautilus
+      url: https://nautil.us/feed/
   books:
-    title: "books"
-    title_zh: "书籍"
-    description: "Books, publishing, libraries, archives, reviews, and reading culture."
-    description_zh: "书籍、出版、图书馆、档案、书评与阅读文化。"
+    title: books
+    title_zh: 书籍
+    description: Books, publishing, libraries, archives, reviews, literary criticism, and reading culture.
+    description_zh: 书籍、出版、图书馆、档案、书评、文学批评与阅读文化。
     feeds:
-      - name: "LARB"
-        url: "https://lareviewofbooks.org/feed/"
-      - name: "Bookforum"
-        url: "https://www.bookforum.com/feed"
-      - name: "New York Review of Books"
-        url: "https://www.nybooks.com/feed/"
-      - name: "Internet Archive Blog"
-        url: "https://blog.archive.org/feed/"
-      - name: "Internet Archive Books"
-        url: "https://blog.archive.org/category/books/feed/"
+    - name: LARB
+      url: https://lareviewofbooks.org/feed/
+    - name: Bookforum
+      url: https://www.bookforum.com/feed
+    - name: New York Review of Books
+      url: https://www.nybooks.com/feed/
+    - name: Public Books
+      url: https://www.publicbooks.org/feed/
+    - name: LSE Review of Books
+      url: https://blogs.lse.ac.uk/lsereviewofbooks/feed/
+    - name: Internet Archive Blog
+      url: https://blog.archive.org/feed/
+    - name: Internet Archive Books
+      url: https://blog.archive.org/category/books/feed/
+  human_sciences:
+    title: human sciences
+    title_zh: 人类科学
+    description: Anthropology, sociology, culture, institutions, ethnography, medicine, and social life.
+    description_zh: 人类学、社会学、文化、制度、民族志、医学与社会生活。
+    feeds:
+    - name: SAPIENS
+      url: https://www.sapiens.org/feed/
+    - name: Anthropology News
+      url: https://www.anthropology-news.org/feed/
+    - name: Somatosphere
+      url: http://somatosphere.net/feed/
+    - name: The Society Pages
+      url: https://thesocietypages.org/feed/
+  mind:
+    title: mind
+    title_zh: 心智
+    description: Psychology, cognition, behavior, mental life, emotion, and practical reflection.
+    description_zh: 心理学、认知、行为、心理生活、情绪与实践性反思。
+    feeds:
+    - name: BPS Research Digest
+      url: https://www.bps.org.uk/research-digest/rss.xml
+    - name: APA News
+      url: https://www.apa.org/news/rss
+    - name: Psyche
+      url: https://psyche.co/feed
+  science_news:
+    title: science news
+    title_zh: 科学新闻
+    description: General science journalism, discoveries, biology, space, environment, and applied research news.
+    description_zh: 综合科学报道、研究发现、生物、空间、环境与应用研究新闻。
+    feeds:
+    - name: ScienceDaily
+      url: https://www.sciencedaily.com/rss/all.xml
+    - name: Phys.org Biology
+      url: https://phys.org/rss-feed/biology-news/
+    - name: Science News
+      url: https://www.sciencenews.org/feed
+    - name: The Scientist
+      url: https://www.the-scientist.com/rss
+    - name: MIT News
+      url: https://news.mit.edu/rss/topic/science-technology
+    - name: Quanta Magazine
+      url: https://www.quantamagazine.org/feed/
+  research:
+    title: research
+    title_zh: 学术
+    description: New papers, preprints, open-access research, journal alerts, and scholarly updates.
+    description_zh: 新论文、预印本、开放获取研究、期刊提醒与学术更新。
+    feeds:
+    - name: Nature
+      url: https://www.nature.com/nature.rss
+    - name: bioRxiv Ecology
+      url: https://www.biorxiv.org/rss/collection/ecology.xml
+    - name: bioRxiv Evolutionary Biology
+      url: https://www.biorxiv.org/rss/collection/evolutionary-biology.xml
+    - name: bioRxiv Zoology
+      url: https://www.biorxiv.org/rss/collection/zoology.xml
+    - name: arXiv q-bio Populations and Evolution
+      url: https://rss.arxiv.org/rss/q-bio.PE
+    - name: eLife Latest
+      url: https://elifesciences.org/rss/recent.xml
+    - name: PLOS Biology
+      url: https://journals.plos.org/plosbiology/feed/atom
+    - name: PsyArXiv
+      url: https://osf.io/preprints/psyarxiv/discover.rss
+    - name: SocArXiv
+      url: https://osf.io/preprints/socarxiv/discover.rss
+  natural_history:
+    title: natural history
+    title_zh: 自然史
+    description: Natural history, evolution, fossils, museums, biodiversity, taxonomy, and deep time.
+    description_zh: 自然史、演化、化石、博物馆、生物多样性、分类学与深时。
+    feeds:
+    - name: Smithsonian Science
+      url: https://www.smithsonianmag.com/rss/science/
+    - name: Smithsonian Smart News
+      url: https://www.smithsonianmag.com/rss/smart-news/
+    - name: Natural History Museum
+      url: https://www.nhm.ac.uk/discover.rss
+    - name: Everything Dinosaur
+      url: https://blog.everythingdinosaur.com/feed
+  marine_life:
+    title: marine life
+    title_zh: 海洋生命
+    description: Ocean science, marine biology, exploration, conservation, and coastal worlds.
+    description_zh: 海洋科学、海洋生物学、探索、保护与海岸世界。
+    feeds:
+    - name: Hakai Magazine
+      url: https://hakaimagazine.com/feed/
+    - name: ScienceDaily Marine Biology
+      url: https://www.sciencedaily.com/rss/plants_animals/marine_biology.xml
+    - name: NOAA PMEL Highlights
+      url: https://www.pmel.noaa.gov/feed/rss-feed-pmel-whats-new.xml
+    - name: NOAA Ocean Exploration
+      url: https://oceanexplorer.noaa.gov/news/oceanexplorer-news.xml
+    - name: MarineBio Conservation Society
+      url: https://www.marinebio.org/news/feed/
+    - name: Oceanographic Magazine
+      url: https://oceanographicmagazine.com/feed/
+    - name: The Revelator Oceans
+      url: https://therevelator.org/category/oceans/feed/
+    - name: Mongabay Oceans
+      url: https://news.mongabay.com/list/oceans/feed/
+  mollusks:
+    title: mollusks
+    title_zh: 贝壳与软体动物
+    description: Mollusks, shells, cephalopods, gastropods, bivalves, marine biodiversity, taxonomy, and shell culture.
+    description_zh: 软体动物、贝壳、头足类、腹足类、双壳类、海洋生物多样性、分类学与贝壳文化。
+    feeds:
+    - name: ScienceDaily Mollusks
+      url: https://www.sciencedaily.com/rss/plants_animals/mollusks.xml
+    - name: Phys.org Mollusks
+      url: https://phys.org/rss-feed/tags/mollusks/
+    - name: The Cephalopod Page
+      url: https://www.thecephalopodpage.org/feed/
+    - name: Malacological Society of London
+      url: https://malacsoc.org.uk/feed/
+  arthropods:
+    title: arthropods
+    title_zh: 节肢动物
+    description: Arthropods, insects, arachnids, crustaceans, myriapods, pollinators, behavior, and biodiversity.
+    description_zh: 节肢动物、昆虫、蛛形纲、甲壳类、多足类、传粉者、行为与生物多样性。
+    feeds:
+    - name: Entomology Today
+      url: https://entomologytoday.org/feed/
+    - name: ScienceDaily Insects
+      url: https://www.sciencedaily.com/rss/plants_animals/insects_and_butterflies.xml
+    - name: Xerces Society Blog
+      url: https://xerces.org/blog/feed
+    - name: BugGuide Recent Articles
+      url: https://bugguide.net/rss
+    - name: AntWiki Recent Changes
+      url: https://www.antwiki.org/wiki/Special:RecentChanges?feed=atom
+  ai_technology:
+    title: AI & technology
+    title_zh: AI 与科技
+    description: Artificial intelligence, computing, software, platforms, technology culture, and applied systems.
+    description_zh: 人工智能、计算、软件、平台、科技文化与应用系统。
+    feeds:
+    - name: MIT Technology Review
+      url: https://www.technologyreview.com/feed/
+    - name: Google AI Blog
+      url: https://blog.google/technology/ai/rss/
+    - name: Google DeepMind
+      url: https://deepmind.google/blog/rss.xml
+    - name: The Verge AI
+      url: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+    - name: Ars Technica
+      url: https://feeds.arstechnica.com/arstechnica/index
+    - name: The Gradient
+      url: https://thegradient.pub/rss/
+  radio_hardware:
+    title: radio & hardware
+    title_zh: 无线电与硬件
+    description: Radio technology, amateur radio, SDR, RF systems, electronics, hardware hacking, and engineering culture.
+    description_zh: 无线电技术、业余无线电、软件定义无线电、射频系统、电子、硬件改造与工程文化。
+    feeds:
+    - name: ARRL News
+      url: https://www.arrl.org/arrl.rss
+    - name: RTL-SDR Blog
+      url: https://www.rtl-sdr.com/feed/
+    - name: SWLing Post
+      url: https://swling.com/blog/feed/
+    - name: Radio Society of Great Britain
+      url: https://rsgb.org/main/feed/
+    - name: Hackaday
+      url: https://hackaday.com/blog/feed/
+    - name: IEEE Spectrum
+      url: https://spectrum.ieee.org/feeds/feed.rss
+  games:
+    title: games
+    title_zh: 游戏
+    description: Video games, game culture, criticism, platforms, studios, development, and interactive media.
+    description_zh: 电子游戏、游戏文化、评论、平台、工作室、开发与互动媒体。
+    feeds:
+    - name: Polygon
+      url: https://www.polygon.com/rss/index.xml
+    - name: Eurogamer
+      url: https://www.eurogamer.net/feed
+    - name: Rock Paper Shotgun
+      url: https://www.rockpapershotgun.com/feed
+    - name: Game Developer
+      url: https://www.gamedeveloper.com/rss.xml
+    - name: PC Gamer
+      url: https://www.pcgamer.com/rss/
+  arts_design:
+    title: arts & design
+    title_zh: 艺术与设计
+    description: Art, criticism, museums, visual culture, contemporary aesthetics, exhibitions, and design-adjacent culture.
+    description_zh: 艺术、批评、博物馆、视觉文化、当代审美、展览与设计相关文化。
+    feeds:
+    - name: Hyperallergic
+      url: https://hyperallergic.com/feed/
+    - name: The Art Newspaper
+      url: https://www.theartnewspaper.com/rss.xml
+    - name: ArtReview
+      url: https://artreview.com/feed/
+    - name: ARTnews
+      url: https://www.artnews.com/feed/
+    - name: e-flux
+      url: https://www.e-flux.com/rss/
+  fashion_style:
+    title: fashion & style
+    title_zh: 时尚与风格
+    description: Fashion, style, garments, runway culture, streetwear, retail, and contemporary taste-making.
+    description_zh: 时尚、风格、服装、秀场文化、街头服饰、零售与当代趣味生产。
+    feeds:
+    - name: Vogue
+      url: https://www.vogue.com/feed/rss
+    - name: Business of Fashion
+      url: https://www.businessoffashion.com/arc/outboundfeeds/rss/?outputType=xml
+    - name: Hypebeast
+      url: https://hypebeast.com/feed
+    - name: Highsnobiety
+      url: https://www.highsnobiety.com/feed/
+  field_gear:
+    title: field gear
+    title_zh: 野外装备
+    description: Outdoor equipment, carry systems, knives, tactical material culture, camping hardware, and field-use objects.
+    description_zh: 户外装备、携行系统、刀具、战术器物文化、露营硬件与野外使用物。
+    feeds:
+    - name: Gear Patrol
+      url: https://www.gearpatrol.com/rss/
+    - name: OutdoorGearLab
+      url: https://www.outdoorgearlab.com/feed
+    - name: SectionHiker
+      url: https://sectionhiker.com/feed/
+    - name: Carryology
+      url: https://www.carryology.com/feed/
+    - name: Field Mag
+      url: https://www.fieldmag.com/rss
+    - name: KnifeNews
+      url: https://knifenews.com/feed/
+    - name: BLADE Magazine Knife News
+      url: https://blademag.com/knife-news/feed
+    - name: Soldier Systems Daily
+      url: https://soldiersystems.net/feed/
+    - name: The Firearm Blog
+      url: https://www.thefirearmblog.com/blog/feed/
+    - name: RECOIL
+      url: https://www.recoilweb.com/feed
+disabled_feeds:
+- name: Contexts
+  url: https://contexts.org/feed/
+  former_section: human_sciences
+  reason: 'Quarantined: rendered intake page shows repeated casino/gambling spam from this feed. Re-enable only after the upstream feed is clean or a keyword/domain filter is added.'

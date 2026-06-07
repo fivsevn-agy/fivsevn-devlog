@@ -16,7 +16,9 @@ CONFIG_PATH = BASE_DIR / "feeds.yml"
 OUTPUT_PATH = BASE_DIR / "index.html"
 DATA_DIR = BASE_DIR / "data"
 
-ITEMS_PER_FEED = 5
+DEFAULT_SOURCE_CAP = 4
+DEFAULT_SECTION_CAP = 12
+
 
 
 def load_config() -> dict[str, Any]:
@@ -57,7 +59,26 @@ def format_datetime(dt: datetime) -> str:
     return dt.astimezone(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
 
-def fetch_feed(feed_name: str, feed_url: str, limit: int = ITEMS_PER_FEED) -> list[dict[str, Any]]:
+def get_int(value: Any, default: int) -> int:
+    try:
+        return int(value)
+    except (TypeError, ValueError):
+        return default
+
+
+def get_disabled_feed_names(config: dict[str, Any]) -> set[str]:
+    disabled_names: set[str] = set()
+    for feed in config.get("disabled_feeds", []):
+        if isinstance(feed, dict):
+            name = feed.get("name")
+        else:
+            name = feed
+        if name:
+            disabled_names.add(str(name))
+    return disabled_names
+
+
+def fetch_feed(feed_name: str, feed_url: str, limit: int = DEFAULT_SOURCE_CAP) -> list[dict[str, Any]]:
     parsed = feedparser.parse(feed_url)
     if getattr(parsed, "bozo", False):
         print(f"[warn] feed parse warning: {feed_name} — {feed_url}")
@@ -95,7 +116,15 @@ def fetch_feed(feed_name: str, feed_url: str, limit: int = ITEMS_PER_FEED) -> li
     return items[:limit]
 
 
-def build_section(section: dict[str, Any]) -> list[dict[str, Any]]:
+def build_section(section_key: str, section: dict[str, Any], config: dict[str, Any]) -> list[dict[str, Any]]:
+    display = config.get("display", {})
+    default_source_cap = get_int(display.get("default_source_cap"), DEFAULT_SOURCE_CAP)
+    default_section_cap = get_int(display.get("max_items_per_section"), DEFAULT_SECTION_CAP)
+    source_caps = display.get("source_caps", {}) or {}
+    section_caps = display.get("section_caps", {}) or {}
+    section_cap = get_int(section_caps.get(section_key), default_section_cap)
+    disabled_feed_names = get_disabled_feed_names(config)
+
     section_items: list[dict[str, Any]] = []
 
     for feed in section.get("feeds", []):
@@ -104,9 +133,18 @@ def build_section(section: dict[str, Any]) -> list[dict[str, Any]]:
         if not feed_url:
             continue
 
+        if feed_name in disabled_feed_names:
+            print(f"[skip] disabled feed: {feed_name}")
+            continue
+
+        source_cap = get_int(source_caps.get(feed_name), default_source_cap)
+        if source_cap <= 0:
+            print(f"[skip] source cap <= 0: {feed_name}")
+            continue
+
         print(f"[fetch] {feed_name}: {feed_url}")
         try:
-            items = fetch_feed(feed_name, feed_url, ITEMS_PER_FEED)
+            items = fetch_feed(feed_name, feed_url, source_cap)
         except Exception as error:
             print(f"[error] failed to fetch {feed_name}: {error}")
             continue
@@ -115,7 +153,9 @@ def build_section(section: dict[str, Any]) -> list[dict[str, Any]]:
         section_items.extend(items)
 
     section_items.sort(key=lambda item: item["published_dt"], reverse=True)
-    return section_items
+    if section_cap <= 0:
+        return section_items
+    return section_items[:section_cap]
 
 
 def render_article(item: dict[str, Any]) -> str:
@@ -480,7 +520,7 @@ def main() -> None:
     sections_data: dict[str, list[dict[str, Any]]] = {}
     for section_key, section in config.get("sections", {}).items():
         print(f"[section] {section_key}")
-        sections_data[section_key] = build_section(section)
+        sections_data[section_key] = build_section(section_key, section, config)
 
     OUTPUT_PATH.write_text(render_html(config, sections_data), encoding="utf-8")
     print(f"[done] generated {OUTPUT_PATH}")
