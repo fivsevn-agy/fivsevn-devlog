@@ -66,11 +66,30 @@
       font-weight: 650;
     }
 
+    .shelf-nav {
+      position: sticky;
+      top: 0;
+      z-index: 20;
+      background: var(--bg);
+    }
+
     nav {
       display: flex;
       flex-wrap: wrap;
       gap: 10px;
       margin-top: 12px;
+    }
+
+    .shelf-nav nav {
+      flex-wrap: nowrap;
+      overflow-x: auto;
+      overflow-y: hidden;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
+    }
+
+    .shelf-nav nav::-webkit-scrollbar {
+      display: none;
     }
 
     nav a {
@@ -80,6 +99,11 @@
       border-radius: 999px;
       padding: 5px 12px;
       font-size: 0.9rem;
+    }
+
+    .shelf-nav nav a {
+      flex: 0 0 auto;
+      white-space: nowrap;
     }
 
     nav a:hover {
@@ -258,11 +282,12 @@
       <p class="kicker-value">GitHub Actions</p>
 
       <p class="kicker">Shift opened / 到店时间：</p>
-      <p class="kicker-value">2026-06-07 22:39 UTC</p>
+      <p class="kicker-value">2026-06-07 23:01 UTC</p>
 
-      <p class="kicker">On the shelf / 本日上架：</p>
-      <nav>
-        <a href="#daily-postcard">postcard / 明信片</a>
+      <div class="shelf-nav">
+        <p class="kicker">On the shelf / 本日上架：</p>
+        <nav>
+          <a href="#daily-postcard">postcard / 明信片</a>
 <a href="#daily-field-sample">Daily Field Sample / 今日野采样本</a>
 <a href="#world_society">world &amp; society / 世界与社会</a>
 <a href="#ideas">ideas / 思想</a>
@@ -281,7 +306,8 @@
 <a href="#arts_design">arts &amp; design / 艺术与设计</a>
 <a href="#fashion_style">fashion &amp; style / 时尚与风格</a>
 <a href="#field_gear">field gear / 野外装备</a>
-      </nav>
+        </nav>
+      </div>
     </header>
 
     <section id="daily-postcard" class="postcard-mail">
@@ -303,22 +329,22 @@
 
   <p>
     <strong>Scientific name / 学名:</strong><br>
-    <em>Tychius aurichalceus Gyllenhal, 1835</em>
+    <em>Diasporidion duplicatum (Gounelle, 1909)</em>
   </p>
 
   <p>
     <strong>Taxonomy / 分类:</strong><br>
-    Animalia / Arthropoda / Insecta / Coleoptera / Curculionidae
+    Animalia / Arthropoda / Insecta / Coleoptera / Cerambycidae
   </p>
 
   <p>
     <strong>Source / 来源:</strong><br>
-    <a href="https://www.gbif.org/species/1214077" target="_blank" rel="noopener noreferrer">GBIF</a>
+    <a href="https://www.gbif.org/species/1134826" target="_blank" rel="noopener noreferrer">GBIF</a>
   </p>
 
   <p>
     <strong>Search / 搜索:</strong><br>
-    <a href="https://www.google.com/search?q=Tychius+aurichalceus+Gyllenhal%2C+1835" target="_blank" rel="noopener noreferrer">Google</a> · <a href="https://www.catalogueoflife.org/data/search?q=Tychius+aurichalceus+Gyllenhal%2C+1835" target="_blank" rel="noopener noreferrer">COL</a>
+    <a href="https://www.google.com/search?q=Diasporidion+duplicatum+%28Gounelle%2C+1909%29" target="_blank" rel="noopener noreferrer">Google</a> · <a href="https://www.catalogueoflife.org/data/search?q=Diasporidion+duplicatum+%28Gounelle%2C+1909%29" target="_blank" rel="noopener noreferrer">COL</a>
   </p>
 </section>
     <section id="world_society">
@@ -328,36 +354,44 @@
   <p class='section-description-zh'>世界新闻、公共生活、制度、地缘政治、社会冲突与公共变化。</p>
   <article class="article">
   <h3><a href="https://www.dw.com/en/somali-piracy-disrupts-global-shipping-and-trade-routes/a-77047750?maca=en-rss-en-all-1573-rdf" target="_blank" rel="noopener noreferrer">Somali piracy disrupts global shipping and trade routes</a></h3>
-  <div class="meta">DW News · 2026-06-07 22:39 UTC</div>
+  <div class="meta">DW News · 2026-06-07 23:00 UTC</div>
   <p class='summary'>As ships reroute around Africa to avoid Middle East conflict zones, piracy off Somalia is back. The resurgence is driving up insurance, transit times and security costs, putting new pressure on global supply chains.</p>
 </article><article class="article">
   <h3><a href="https://www.dw.com/en/endemic-epidemic-pandemic-what-s-the-difference/a-60295060?maca=en-rss-en-all-1573-rdf" target="_blank" rel="noopener noreferrer">Endemic, epidemic, pandemic: What&#x27;s the difference?</a></h3>
-  <div class="meta">DW News · 2026-06-07 22:39 UTC</div>
+  <div class="meta">DW News · 2026-06-07 23:00 UTC</div>
   <p class='summary'>The Andes hantavirus outbreak shows how easily disease labels are misunderstood — and why they describe patterns of spread, not how dangerous a virus is.</p>
 </article><article class="article">
   <h3><a href="https://www.dw.com/en/hantavirus-how-it-differs-from-covid/a-77122374?maca=en-rss-en-all-1573-rdf" target="_blank" rel="noopener noreferrer">Hantavirus: How it differs from COVID</a></h3>
-  <div class="meta">DW News · 2026-06-07 22:39 UTC</div>
+  <div class="meta">DW News · 2026-06-07 23:00 UTC</div>
   <p class='summary'>In 2018-2019, the Andes virus hantavirus spread person-to-person in Argentina. Eleven people died — but it was stopped. Analysis of that outbreak shows the current one can also be stopped.</p>
 </article><article class="article">
   <h3><a href="https://www.dw.com/en/hantavirus-how-is-the-outbreak-being-contained/a-77122959?maca=en-rss-en-all-1573-rdf" target="_blank" rel="noopener noreferrer">Hantavirus: How is the outbreak being contained?</a></h3>
-  <div class="meta">DW News · 2026-06-07 22:39 UTC</div>
+  <div class="meta">DW News · 2026-06-07 23:00 UTC</div>
   <p class='summary'>Passengers evacuated from the MV Hondius cruise ship are returning to their home countries, some with symptoms, many without. What happens to these people and what is being done to contain the spread?</p>
 </article><article class="article">
   <h3><a href="https://www.dw.com/en/hijab-wearing-german-beauty-contestant-takes-on-the-afd/a-77114886?maca=en-rss-en-all-1573-rdf" target="_blank" rel="noopener noreferrer">Hijab-wearing German beauty contestant takes on the AfD</a></h3>
-  <div class="meta">DW News · 2026-06-07 22:39 UTC</div>
+  <div class="meta">DW News · 2026-06-07 23:00 UTC</div>
   <p class='summary'>As a Miss Germany contestant, Büsra Sayed wore a hijab on stage. This had never happened before — and the far-right AfD didn&#x27;t like it. Her response went viral.</p>
+</article><article class="article">
+  <h3><a href="https://www.scmp.com/news/hong-kong/law-and-crime/article/3356273/hong-kong-police-warn-world-cup-fans-against-using-overseas-betting-sites?utm_source=rss_feed" target="_blank" rel="noopener noreferrer">Hong Kong police warn World Cup fans against using overseas betting sites</a></h3>
+  <div class="meta">SCMP World · 2026-06-07 23:00 UTC</div>
+  <p class='summary'>Hong Kong police have warned football fans that using overseas betting websites could breach local gambling laws even if the platforms claim to be legally registered abroad, as authorities prepare for a predicted surge in wagering over the Fifa World Cup that begins on June 11. Police issued the warning after Fifa named its first prediction market partner for the World Cup. The force stressed that anyone in Hong Kong who placed bets with a local or overseas bookmaker outside authorised channels...</p>
+</article><article class="article">
+  <h3><a href="https://www.theguardian.com/world/live/2026/jun/07/israel-lebanon-southern-beirut-hezbollah-idf-ceasefire-iran-latest-news-updates" target="_blank" rel="noopener noreferrer">Middle East crisis live: Iran launches missiles towards Israel after Lebanon airstrikes</a></h3>
+  <div class="meta">The Guardian World · 2026-06-07 22:47 UTC</div>
+  <p class='summary'>Launches appear to mark the first such attack since April ceasefire; Tehran threatened Israel with ‘painful’ response after strikes on southern Beirut Full report: Iran launches missiles at Israel Donald Trump also aggressively pushed back against claims that he broke a key campaign promise to keep the US out of new foreign conflicts. “Well, well, first of all, I didn’t guarantee no war,” Trump said during the Meet the Press interview. “Why would I have built the strongest military in the world?” Continue reading...</p>
+</article><article class="article">
+  <h3><a href="https://www.theguardian.com/science/live/2026/jun/08/australia-news-live-anthony-albanese-labor-one-nation-coalition-housing-crisis-angus-taylor-ntwnfb" target="_blank" rel="noopener noreferrer">Australia news live: Julia Gillard ‘disgusted’ by ‘ditch the witch’ ads targeting Victorian premier; One Nation ahead of Labor in new poll</a></h3>
+  <div class="meta">The Guardian World · 2026-06-07 22:43 UTC</div>
+  <p class='summary'>Former Labor prime minister angered at Melbourne brothel owner’s use of ‘tired old trope’ Get our breaking news email , free app or daily news podcast Scolyer a ‘man of warmth and hope’, NSW premier says The NSW premier, Chris Minns, says Richard Scolyer was a “great Australian, a pioneering scientist, and an inspiring example of grace in his final years”. Because of Richard’s brilliant research, advanced Melanoma went from a death sentence to a curable disease. As a result of that breakthrough, in a country with the highest melanoma rates on earth, thousands of Australians are alive today. … After being diagnosed with brain cancer, Australians got to know Richard as a man of warmth and hope. He faced his disease with optimism, with a smile, and with a deep sense of purpose. Just a few months ago, living with stage four brain cancer, he was still riding his bike through Tasmania, raising money for a cure. The selflessness and compassion with which Professor Scolyer approached his own very sad diagnosis touched the hearts of everyone in the Inner West and people across the nation. … Through his work and his example, Richard gave our people hope that we can keep walking forward through adversity. In doing so he has become a legend, whose story will be handed down from generation to generation. Continue reading...</p>
+</article><article class="article">
+  <h3><a href="https://www.aljazeera.com/video/newsfeed/2026/6/7/north-koreas-kim-jong-un-inspects-munitions-at-weapons-factory-2?traffic_source=rss" target="_blank" rel="noopener noreferrer">North Korea’s Kim Jong Un inspects munitions at weapons factory</a></h3>
+  <div class="meta">Al Jazeera · 2026-06-07 22:38 UTC</div>
+  <p class='summary'>North Korea has released photos of Kim Jong Un inspecting huge munitions at a weapons factory</p>
 </article><article class="article">
   <h3><a href="https://www.scmp.com/news/world/europe/article/3356285/uk-france-germany-back-direct-ukraine-russia-talks-joint-statement?utm_source=rss_feed" target="_blank" rel="noopener noreferrer">UK, France, Germany back direct Ukraine-Russia talks: joint statement</a></h3>
   <div class="meta">SCMP World · 2026-06-07 22:22 UTC</div>
   <p class='summary'>Ukrainian President Volodymyr Zelensky received the backing of the leaders of the UK, France and Germany in calling for direct ceasefire talks between Russia and Ukraine, according to a joint statement issued following defence talks in London on Sunday. Zelensky met British Prime Minister Keir Starmer, French President Emmanuel Macron and German Chancellor Friedrich Merz at 10 Downing Street for talks as Russia’s war has stretched into its fifth year. The leaders “supported the proposal for a...</p>
-</article><article class="article">
-  <h3><a href="https://www.theguardian.com/world/live/2026/jun/07/israel-lebanon-southern-beirut-hezbollah-idf-ceasefire-iran-latest-news-updates" target="_blank" rel="noopener noreferrer">Middle East crisis live: Iran launches missiles towards Israel after Lebanon airstrikes</a></h3>
-  <div class="meta">The Guardian World · 2026-06-07 22:22 UTC</div>
-  <p class='summary'>Launches appear to mark the first such attack since April ceasefire; Tehran threatened Israel with ‘painful’ response after strikes on southern Beirut Full report: Iran launches missiles at Israel Donald Trump also aggressively pushed back against claims that he broke a key campaign promise to keep the US out of new foreign conflicts. “Well, well, first of all, I didn’t guarantee no war,” Trump said during the Meet the Press interview. “Why would I have built the strongest military in the world?” Continue reading...</p>
-</article><article class="article">
-  <h3><a href="https://www.theguardian.com/science/live/2026/jun/08/australia-news-live-anthony-albanese-labor-one-nation-coalition-housing-crisis-angus-taylor-ntwnfb" target="_blank" rel="noopener noreferrer">Australia news live: Julia Gillard ‘disgusted’ by ‘ditch the witch’ ads targeting Victorian premier; One Nation ahead of Labor in new poll</a></h3>
-  <div class="meta">The Guardian World · 2026-06-07 22:19 UTC</div>
-  <p class='summary'>Former Labor prime minister angered at Melbourne brothel owner’s use of ‘tired old trope’ Get our breaking news email , free app or daily news podcast Tributes keep pouring in for Richard Scolyer Sydney’s Inner West council says it will create a permanent memorial to Prof Richard Scolyer , saying the council had lost “one of our greatest citizens” and a “local hero”. The selflessness and compassion with which Professor Scolyer approached his own very sad diagnosis touched the hearts of everyone in the Inner West and people across the nation. … Through his work and his example, Richard gave our people hope that we can keep walking forward through adversity. In doing so he has become a legend, whose story will be handed down from generation to generation. Continue reading...</p>
 </article><article class="article">
   <h3><a href="https://www.bbc.com/news/articles/cdep497r256o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Friendship or leverage: Why is Xi Jinping going to North Korea?</a></h3>
   <div class="meta">BBC World · 2026-06-07 22:02 UTC</div>
@@ -390,14 +424,6 @@
   <h3><a href="https://www.theguardian.com/world/2026/jun/07/italian-rescuers-recover-10-bodies-after-migrant-boat-capsizes-off-malta" target="_blank" rel="noopener noreferrer">Italian rescuers recover 10 bodies after migrant boat capsizes off Malta</a></h3>
   <div class="meta">The Guardian World · 2026-06-07 21:33 UTC</div>
   <p class='summary'>About 48 people rescued alive after vessel reportedly left Libya carrying about 60 passengers Italian rescuers have recovered 10 bodies after a migrant boat capsized in waters off Malta, a coastguard statement said on Sunday. The vessel, which had departed from Libya carrying about 60 people, overturned about 45 nautical miles east-south-east of Malta, the Italian coastguard said. Continue reading...</p>
-</article><article class="article">
-  <h3><a href="https://www.scmp.com/opinion/asia-opinion/article/3355773/asias-strategic-landscape-evolves-what-quads-purpose?utm_source=rss_feed" target="_blank" rel="noopener noreferrer">As Asia’s strategic landscape evolves, what is the Quad’s purpose?</a></h3>
-  <div class="meta">SCMP World · 2026-06-07 21:30 UTC</div>
-  <p class='summary'>When foreign ministers of countries that are part of the Quadrilateral Security Dialogue (Quad) gathered in New Delhi last week, the agenda looked familiar: supply chain resilience, telecommunications security and maritime domain awareness. The talking points have evolved, the initiatives have multiplied and the meetings have become routine. Asia is entering a new strategic era. However, its geopolitical debate remains stuck in the previous one. Across the region, governments are investing in...</p>
-</article><article class="article">
-  <h3><a href="https://www.aljazeera.com/video/newsfeed/2026/6/7/videos-show-missiles-launched-from-iran-into-israel?traffic_source=rss" target="_blank" rel="noopener noreferrer">Videos show missiles launched from Iran into Israel</a></h3>
-  <div class="meta">Al Jazeera · 2026-06-07 21:14 UTC</div>
-  <p class='summary'>Iranian media has released video showing missiles being launched towards Israel.</p>
 </article>
 </section>
 <section id="ideas">
@@ -570,6 +596,10 @@
   <p class='section-description'>General science journalism, discoveries, biology, space, environment, and applied research news.</p>
   <p class='section-description-zh'>综合科学报道、研究发现、生物、空间、环境与应用研究新闻。</p>
   <article class="article">
+  <h3><a href="https://phys.org/news/2026-06-ai-smuggled-seahorses-shark-fins.html" target="_blank" rel="noopener noreferrer">AI spots smuggled seahorses, shark fins and sea cucumbers with 92% accuracy</a></h3>
+  <div class="meta">Phys.org Biology · 2026-06-07 23:00 UTC</div>
+  <p class='summary'>When we think of wildlife trafficking, we might think of rhino horns or baby orangutans sold as pets—but the smuggling of sea creatures, a less well-known crime, is just as damaging to marine ecosystems. Unfortunately, many commonly smuggled marine wildlife items, like shark fins, can be hidden in baggage or parcels and carried across borders with relative ease, without being detected. To get around this, scientists used AI to develop an algorithm that can detect samples of commonly trafficked sea creatures—shark fins, seahorses, and sea cucumber—with 92% accuracy.</p>
+</article><article class="article">
   <h3><a href="https://phys.org/news/2026-06-platform-multiple-trait-stacking-crops.html" target="_blank" rel="noopener noreferrer">&#x27;All-in-one&#x27; platform developed for multiple trait stacking in crops</a></h3>
   <div class="meta">Phys.org Biology · 2026-06-07 22:00 UTC</div>
   <p class='summary'>A major goal of modern crop breeding is to efficiently combine multiple desirable traits by &quot;stacking&quot; the favorable gene variants (alleles) that contribute to those traits in a single crop variety. However, current strategies are often time-consuming and inefficient.</p>
@@ -581,10 +611,6 @@
   <h3><a href="https://phys.org/news/2026-06-early-life-rna-extinction-prone.html" target="_blank" rel="noopener noreferrer">Continuous stirring made early life-like RNA systems more extinction-prone, experiment shows</a></h3>
   <div class="meta">Phys.org Biology · 2026-06-07 19:40 UTC</div>
   <p class='summary'>Recent research showed that an artificially constructed self-replicating RNA system modeling primitive life at the origin of life evolved to become more prone to extinction under certain experimental conditions.</p>
-</article><article class="article">
-  <h3><a href="https://phys.org/news/2026-06-epigenetic-inherited-dna-animals.html" target="_blank" rel="noopener noreferrer">Epigenetic changes can be inherited without changing DNA in animals</a></h3>
-  <div class="meta">Phys.org Biology · 2026-06-07 17:00 UTC</div>
-  <p class='summary'>Typically, the information encoded in DNA allows organisms to develop, function, and pass traits across generations. Yet DNA alone does not explain how genes are switched on and off in different cells and environments. This regulation is partly controlled by other factors called epigenetics, such as DNA methylation, a chemical modification that can influence gene activity without changing the genetic code itself.</p>
 </article><article class="article">
   <h3><a href="https://www.sciencedaily.com/releases/2026/06/260606015144.htm" target="_blank" rel="noopener noreferrer">Ancient Chinese medicine could transform hair loss treatment</a></h3>
   <div class="meta">ScienceDaily · 2026-06-07 08:19 UTC</div>
@@ -626,24 +652,8 @@
   <p class='section-description-zh'>新论文、预印本、开放获取研究、期刊提醒与学术更新。</p>
   <article class="article">
   <h3><a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003834" target="_blank" rel="noopener noreferrer">Disrupting phage liquid crystalline droplets restores antibiotic susceptibility in &lt;i&gt;Pseudomonas aeruginosa&lt;/i&gt; biofilms</a></h3>
-  <div class="meta">PLOS Biology · 2026-06-07 22:39 UTC</div>
+  <div class="meta">PLOS Biology · 2026-06-07 23:01 UTC</div>
   <p class='summary'>by Abul K. Tarafder, Miles Graham, Luke K. Davis, Shawna Pratt, Jan Böhning, Pavithra Manivannan, Zhexin Wang, Camila M. Clemente, Aaron Weimann, R. Andres Floto, Raymond J. Owens, George A. O’Toole, Philip Pearce, Tanmay A. M. Bharat All bacterial biofilms contain an extracellular matrix rich in filamentous molecules that self-associate, conferring emergent properties to bacteria, including antibiotic tolerance. Pseudomonas aeruginosa is a human pathogen that forms biofilms in diverse infectious settings, where the upregulation of a filamentous bacteriophage Pf4, has been shown to be a key virulence factor that protects bacteria from antibiotics. Here, we modeled biophysical characteristics of biofilm-linked liquid crystalline droplets formed by Pf4, which predicted that sub-stoichiometric phage binders had the ability to disrupt liquid crystals by changing the surface properties of the phage. We tested this prediction by developing nanobodies targeting the outer surface of the Pf4 phage, which disrupted in vitro reconstituted droplets, promoted antibiotic diffusion into bacteria, disrupted P. aeruginosa biofilm formation under a variety of conditions, and abolished antibiotic tolerance of biofilms. The inhibition strategy illustrated in this study could be extended to biofilms of other pathogenic bacteria, where filamentous molecules are pervasive in the extracellular matrix. Furthermore, our findings exemplify how targeting a biophysical mechanism, rather than a defined biochemical target, is a promising avenue for intervention, with the potential of applying this concept to other disease-related contexts.</p>
-</article><article class="article">
-  <h3><a href="https://www.nature.com/articles/d41586-026-01728-w" target="_blank" rel="noopener noreferrer">How long can humans live? We simply don’t know</a></h3>
-  <div class="meta">Nature · 2026-06-07 22:39 UTC</div>
-  <p class='summary'>Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01728-w Claims about the upper limits to human lifespan are characterized by hype, deficient data and shoddy science, says longevity researcher Saul Newman.</p>
-</article><article class="article">
-  <h3><a href="https://www.nature.com/articles/d41586-026-01688-1" target="_blank" rel="noopener noreferrer">Polymarket vs science: why researchers are sceptical of the prediction-market hype</a></h3>
-  <div class="meta">Nature · 2026-06-07 22:39 UTC</div>
-  <p class='summary'>Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01688-1 Online prediction markets are taking bets on everything from climate change to quantum computing. But researchers question their accuracy.</p>
-</article><article class="article">
-  <h3><a href="https://www.nature.com/articles/s41586-026-10507-6" target="_blank" rel="noopener noreferrer">Passive heart-rate monitoring during smartphone use in everyday life</a></h3>
-  <div class="meta">Nature · 2026-06-07 22:39 UTC</div>
-  <p class='summary'>Nature, Published online: 01 June 2026; doi:10.1038/s41586-026-10507-6 A machine-learning model that uses smartphone cameras to measure heart rate in the background during normal daily phone use and subsequently estimate resting heart rate could make it easier for people to monitor heart health.</p>
-</article><article class="article">
-  <h3><a href="https://www.nature.com/articles/d41586-026-01762-8" target="_blank" rel="noopener noreferrer">Earliest signs of vision recorded in ancient sea-floor tracks</a></h3>
-  <div class="meta">Nature · 2026-06-07 22:39 UTC</div>
-  <p class='summary'>Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01762-8 Traces from some of the earliest animals reveal when they began to sense light.</p>
 </article><article class="article">
   <h3><a href="https://elifesciences.org/articles/110593" target="_blank" rel="noopener noreferrer">The NTR/prodrug revolution: Tools for controlling cell loss and regeneration</a></h3>
   <div class="meta">eLife Latest · 2026-06-05 00:00 UTC</div>
@@ -809,19 +819,19 @@
   <p class='section-description-zh'>人工智能、计算、软件、平台、科技文化与应用系统。</p>
   <article class="article">
   <h3><a href="https://www.theverge.com/podcast/942586/elon-musk-spacex-ipo-x-xai-index-funds" target="_blank" rel="noopener noreferrer">Elon Musk is steamrolling Wall Street to become a trillionaire</a></h3>
-  <div class="meta">The Verge AI · 2026-06-07 22:39 UTC</div>
+  <div class="meta">The Verge AI · 2026-06-07 23:01 UTC</div>
   <p class='summary'>Today on Decoder, I’m talking to Ryan Mac, a technology reporter at The New York Times and coauthor of the excellent book Character Limit: How Elon Musk Destroyed Twitter, which came out in 2024. I can’t recommend it enough. I wanted to have Ryan on the show because we’re on the cusp of the SpaceX [&amp;#8230;]</p>
 </article><article class="article">
   <h3><a href="https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles" target="_blank" rel="noopener noreferrer">TSMC struggles to keep up with AI demand: &amp;#8216;We can only support so much&amp;#8217;</a></h3>
-  <div class="meta">The Verge AI · 2026-06-07 22:39 UTC</div>
+  <div class="meta">The Verge AI · 2026-06-07 23:01 UTC</div>
   <p class='summary'>Taiwan Semiconductor Manufacturing Co. - the world&#x27;s biggest semiconductor-maker - is struggling to meet demands from American customers even with its factory buildout in the US, according to reports from Reuters and Bloomberg. &quot;Customer demand is so high, and we can only support so much,&quot; TSMC CEO C.C. Wei said after a shareholder meeting on [&amp;#8230;]</p>
 </article><article class="article">
   <h3><a href="https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center" target="_blank" rel="noopener noreferrer">Kevin O’Leary agrees to downsize massive Utah data center</a></h3>
-  <div class="meta">The Verge AI · 2026-06-07 22:39 UTC</div>
+  <div class="meta">The Verge AI · 2026-06-07 23:01 UTC</div>
   <p class='summary'>Kevin O&#x27;Leary agreed to halve the size of his planned 40,000-acre data center in Utah amid mounting pressure from residents and activists, as reported earlier by local affiliate ABC4. The Shark Tank star sent a letter to Utah Senate President J. Stuart Adams on Thursday, saying that he will remove 19,430 acres from the project, [&amp;#8230;]</p>
 </article><article class="article">
   <h3><a href="https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood" target="_blank" rel="noopener noreferrer">This AI startup says it can tell if a script will make a hit film</a></h3>
-  <div class="meta">The Verge AI · 2026-06-07 22:39 UTC</div>
+  <div class="meta">The Verge AI · 2026-06-07 23:01 UTC</div>
   <p class='summary'>When Quilty hit the industry trades earlier this year, the AI startup promised that its tool could accurately predict a film&#x27;s success just by reading the script. When people actually got a chance to experiment with Quilty&#x27;s product, though, they were left skeptical. Even with all the available data in the world, it predicted the [&amp;#8230;]</p>
 </article><article class="article">
   <h3><a href="https://arstechnica.com/culture/2026/06/rip-anthony-head-our-10-favorite-moments-of-buffys-giles/" target="_blank" rel="noopener noreferrer">RIP Anthony Head: Our 10 favorite moments of Buffy&#x27;s Giles</a></h3>
@@ -1013,19 +1023,19 @@
   <p class='section-description-zh'>时尚、风格、服装、秀场文化、街头服饰、零售与当代趣味生产。</p>
   <article class="article">
   <h3><a href="https://www.vogue.com/fashion-shows/resort-2027/tanya-taylor" target="_blank" rel="noopener noreferrer">Tanya Taylor Resort 2027</a></h3>
-  <div class="meta">Vogue · 2026-06-07 22:35 UTC</div>
+  <div class="meta">Vogue · 2026-06-07 22:57 UTC</div>
   
 </article><article class="article">
   <h3><a href="https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/dagmar" target="_blank" rel="noopener noreferrer">House of Dagmar Fall 2026 Ready-to-Wear</a></h3>
-  <div class="meta">Vogue · 2026-06-07 22:35 UTC</div>
+  <div class="meta">Vogue · 2026-06-07 22:57 UTC</div>
   
 </article><article class="article">
   <h3><a href="https://www.vogue.com/fashion-shows/resort-2027/ashlyn" target="_blank" rel="noopener noreferrer">Ashlyn Resort 2027</a></h3>
-  <div class="meta">Vogue · 2026-06-07 22:35 UTC</div>
+  <div class="meta">Vogue · 2026-06-07 22:57 UTC</div>
   
 </article><article class="article">
   <h3><a href="https://www.vogue.com/fashion-shows/resort-2027/norma-kamali" target="_blank" rel="noopener noreferrer">Norma Kamali Resort 2027</a></h3>
-  <div class="meta">Vogue · 2026-06-07 22:35 UTC</div>
+  <div class="meta">Vogue · 2026-06-07 22:57 UTC</div>
   
 </article><article class="article">
   <h3><a href="https://www.highsnobiety.com/p/nike-mind-002-khaki/" target="_blank" rel="noopener noreferrer">Nike’s Stimulating Sneaker Is a Soleful Experience</a></h3>
