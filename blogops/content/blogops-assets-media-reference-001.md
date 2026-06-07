@@ -109,8 +109,8 @@ https://www.youtube.com/watch?v=64mxEOPAHLc
 
 - 方便维护
 
-  > 资源可以单独管理
-  > 如有需要、也方便迁移博客
+  > 资源可以单独管理  
+  > 如有需要、也方便迁移博客  
 
 ### 3.2 缺点
 
@@ -118,7 +118,7 @@ https://www.youtube.com/watch?v=64mxEOPAHLc
 
 - 平台限制
 
-  > GitHub 不适合放太大的文件
-  > YouTube 视频受平台规则影响
+  > GitHub 不适合放太大的文件  
+  > YouTube 视频受平台规则影响  
 
 - 资源路径改了以后，博客里的链接也要同步改
