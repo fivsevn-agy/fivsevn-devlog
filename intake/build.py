@@ -270,9 +270,8 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
     }}
 
     header {{
-      padding-bottom: 24px;
-      margin-bottom: 32px;
-      border-bottom: 1px solid var(--border);
+      padding-bottom: 0;
+      margin-bottom: 0;
     }}
 
     h1 {{
@@ -307,6 +306,9 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
       top: 0;
       z-index: 20;
       background: var(--bg);
+      padding-bottom: 24px;
+      margin-bottom: 32px;
+      border-bottom: 1px solid var(--border);
     }}
 
     nav {{
@@ -520,13 +522,14 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
       <p class="kicker">Shift opened / 到店时间：</p>
       <p class="kicker-value">{opened_at}</p>
 
-      <div class="shelf-nav">
-        <p class="kicker">On the shelf / 本日上架：</p>
-        <nav>
-          {nav_html}
-        </nav>
-      </div>
     </header>
+
+    <div class="shelf-nav">
+      <p class="kicker">On the shelf / 本日上架：</p>
+      <nav>
+        {nav_html}
+      </nav>
+    </div>
 
     {modules_html}
     {sections_html}
