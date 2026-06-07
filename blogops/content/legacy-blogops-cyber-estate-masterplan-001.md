@@ -7,8 +7,8 @@ submodule: architecture
 topic: cyber-estate-masterplan
 
 type: index
-status: active
-canonical: true
+status: archived
+canonical: false
 
 summary: >
   使用“赛博地产”模型解释博客整体分层结构，
