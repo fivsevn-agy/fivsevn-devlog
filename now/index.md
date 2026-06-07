@@ -10,18 +10,17 @@
 ---
 ## 🫧 still here
 
-  - Updated: 2026.06.03
+  - Updated: 2026.06.07
 
 > Not much to say. Still here.  
-> 用 GitHub Actions 做了一个每日自动更新的轻量信息入口 [devlog.fivsevn.com/intake](https://devlog.fivsevn.com/intake)，信息源按照个人喜好增减中。
 
 ---
 ## 🖋️ posts
 
 - [个人笔记](https://devlog.fivsevn.com/posts)
-  - Updated: 2026.02.28
+  - Updated: 2026.06.07
  
-> 最近主要在 [https://fivsevn.com/posts](https://fivsevn.com/posts) 页面随时更新。
+>  [https://fivsevn.com/posts](https://fivsevn.com/posts) 这个轻量更新页面基本每天都会发点东西。
 
 --- 
 ## 🪲 natsci
@@ -29,8 +28,7 @@
 - [有关自然科学的学习笔记](https://devlog.fivsevn.com/natsci)
   - Updated: 2026.03.17
 
-> 昆虫数据库索引更新了。会持续更新。  
-> 正在整理有关软骨鱼纲的一些资料。  
+> 等有兴趣了再继续更新。
 
 ---
 ## 📟 netcom
@@ -44,13 +42,15 @@
 ## blogops
 
 - [后台日志](https://devlog.fivsevn.com/blogops)
-  - Updated: 2026.03.08
+  - Updated: 2026.06.07
+
+> 最近在 ChatGPT 的帮助下，用 GitHub Actions 实现了一些常规流程的自动化。原则是免费和简洁。
 
 ---
 ## spec
 
 - [个人写作规范仓库](https://github.com/fivsevn-agy/fivsevn-spec)
-  - Updated: 2026.03.14
+  - Updated: 2026.06.07
 
 > `/source`（信息来源）待整理补充。  
 
