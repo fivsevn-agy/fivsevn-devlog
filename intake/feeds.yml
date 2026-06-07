@@ -41,7 +41,7 @@ sections:
 
   human_sciences:
     title: "human sciences"
-    title_zh: "人类学"
+    title_zh: "人类科学"
     description: "Anthropology, sociology, psychology, behavioral science, culture, institutions, mind, and social life."
     description_zh: "人类学、社会学、心理学、行为科学、文化、制度、心智与社会生活。"
     feeds:
