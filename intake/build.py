@@ -344,7 +344,8 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
       white-space: nowrap;
     }}
 
-    nav a:hover {{
+    nav a:hover,
+    nav a[aria-current="true"] {{
       border-color: var(--site-green);
     }}
 
@@ -570,7 +571,7 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
         const margin = 16;
 
         if (linkRect.left < navRect.left + margin || linkRect.right > navRect.right - margin) {{
-          link.scrollIntoView({{ block: "nearest", inline: "center" }});
+          link.scrollIntoView({{ behavior: "smooth", block: "nearest", inline: "center" }});
         }}
       }};
 
