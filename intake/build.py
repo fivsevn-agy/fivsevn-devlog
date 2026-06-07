@@ -359,6 +359,7 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
       display: block;
       width: fit-content;
       max-width: 100%;
+      margin: 0 auto;
     }}
 
     .postcard-image {{
