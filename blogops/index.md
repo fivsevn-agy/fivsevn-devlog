@@ -42,7 +42,7 @@ updated: 2026-03-08
 
 - 2025.03.08 🎉 devlog.fivsevn.com
 
-- 2025.03.03 ☝️ ~~[五月七日赛博地产总规划说明！](content/blogops-cyber-estate-masterplan-001.md)，解说我目前内容的构成。~~（待更新）
+- 2025.03.03 ☝️ ~~五月七日赛博地产总规划说明！解说我目前内容的构成。~~（待更新）
 
 - 2025.03.01 🤌 开始使用统一的[YAML frontmatter](https://github.com/fivsevn-agy/fivsevn-spec/blob/main/gov/spec-gov-meta-frontmatter-001.md)，新建内容可以复制[这个文件](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/_tmpl_module-submodule-topic-001.md)，已经写好了格式和注释。
 
