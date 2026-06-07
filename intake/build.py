@@ -16,7 +16,7 @@ CONFIG_PATH = BASE_DIR / "feeds.yml"
 OUTPUT_PATH = BASE_DIR / "index.html"
 DATA_DIR = BASE_DIR / "data"
 
-ITEMS_PER_FEED = 7
+ITEMS_PER_FEED = 5
 
 
 def load_config() -> dict[str, Any]:
