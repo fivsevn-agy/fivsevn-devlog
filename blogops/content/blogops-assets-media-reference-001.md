@@ -79,6 +79,8 @@ https://youtube.com/@57store.fivsevn
 
 #### 2.3.1 常规视频
 
+- 直接生成分享链接
+
 ```text
 https://youtu.be/l1IdOlvnx8U?si=IXnOSa4m6ibdkmMC
 ```
