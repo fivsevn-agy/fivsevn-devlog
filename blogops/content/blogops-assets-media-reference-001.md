@@ -59,6 +59,29 @@ https://github.com/fivsevn/fivsevn-assets/blob/main/homepage/homepage20251101hea
 https://cdn.jsdelivr.net/gh/fivsevn/fivsevn-assets@main/homepage/homepage20251101head.webp
 ```
 
+### 1.4 扩展
+
+#### 1.4.1 批量导入
+
+- 示例页面
+
+``` 
+https://fivsevn.com/2026/04/20/kamakura/  
+```
+
+- 方法：AI 统一转换、并写成 markdown 图片引用格式，直接批量复制粘帖。
+
+### 1.4.2 自动更新
+
+- 示例页面
+
+```
+https://fivsevn.com/foodie/
+```
+
+- 方法：用 GitHub Actions 实现。[详见](https://github.com/fivsevn/fivsevn-assets/blob/main/README.md)
+
+
 ## 2. 视频
 
 ### 2.1 博客视频库
@@ -100,6 +123,19 @@ https://www.youtube.com/watch?v=64mxEOPAHLc
 ```
 
 - 这样可以把 Shorts 短视频窗口转成普通 YouTube 视频窗口。
+
+### 2.4 扩展
+
+#### 2.4.1 自动更新
+
+- 示例页面
+
+```
+https://fivsevn.com/motion/
+```
+
+- 方法：用 GitHub Actions 实现。[详见](https://github.com/fivsevn/fivsevn-assets/blob/main/README.md)
+
 
 ## 3. 特点
 
