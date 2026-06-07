@@ -302,11 +302,30 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
       font-weight: 650;
     }}
 
+    .shelf-nav {{
+      position: sticky;
+      top: 0;
+      z-index: 20;
+      background: var(--bg);
+    }}
+
     nav {{
       display: flex;
       flex-wrap: wrap;
       gap: 10px;
       margin-top: 12px;
+    }}
+
+    .shelf-nav nav {{
+      flex-wrap: nowrap;
+      overflow-x: auto;
+      overflow-y: hidden;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
+    }}
+
+    .shelf-nav nav::-webkit-scrollbar {{
+      display: none;
     }}
 
     nav a {{
@@ -316,6 +335,11 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
       border-radius: 999px;
       padding: 5px 12px;
       font-size: 0.9rem;
+    }}
+
+    .shelf-nav nav a {{
+      flex: 0 0 auto;
+      white-space: nowrap;
     }}
 
     nav a:hover {{
@@ -496,10 +520,12 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
       <p class="kicker">Shift opened / 到店时间：</p>
       <p class="kicker-value">{opened_at}</p>
 
-      <p class="kicker">On the shelf / 本日上架：</p>
-      <nav>
-        {nav_html}
-      </nav>
+      <div class="shelf-nav">
+        <p class="kicker">On the shelf / 本日上架：</p>
+        <nav>
+          {nav_html}
+        </nav>
+      </div>
     </header>
 
     {modules_html}
