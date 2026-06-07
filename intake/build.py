@@ -350,12 +350,12 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
 
     section {{
       margin: 42px 0;
+      scroll-margin-top: 122px;
     }}
 
     h2 {{
       margin: 0 0 2px;
       padding-bottom: 8px;
-      border-bottom: 1px solid var(--border);
       font-size: 1.4rem;
     }}
 
@@ -538,6 +538,80 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
       <p>本页面由 GitHub Actions 每日生成，数据来自 RSS 与采样脚本。<a href="https://github.com/fivsevn-agy/fivsevn-devlog/tree/233c5bab2dba086446db83ee8e7b232b46c53a1a/intake">查看仓库</a></p>
     </footer>
   </main>
+
+  <script>
+    (() => {{
+      const shelf = document.querySelector(".shelf-nav");
+      if (!shelf) return;
+
+      const nav = shelf.querySelector("nav");
+      if (!nav) return;
+
+      const links = Array.from(nav.querySelectorAll('a[href^="#"]'));
+      const targets = links
+        .map((link) => {{
+          const href = link.getAttribute("href") || "";
+          const id = decodeURIComponent(href.slice(1));
+          const target = document.getElementById(id);
+          return target ? {{ id, link, target }} : null;
+        }})
+        .filter(Boolean);
+
+      if (!targets.length) return;
+
+      let currentId = "";
+      let ticking = false;
+
+      const getOffset = () => shelf.getBoundingClientRect().height + 12;
+
+      const keepLinkVisible = (link) => {{
+        const navRect = nav.getBoundingClientRect();
+        const linkRect = link.getBoundingClientRect();
+        const margin = 16;
+
+        if (linkRect.left < navRect.left + margin || linkRect.right > navRect.right - margin) {{
+          link.scrollIntoView({{ block: "nearest", inline: "center" }});
+        }}
+      }};
+
+      const setCurrent = (item) => {{
+        if (!item || item.id === currentId) return;
+        currentId = item.id;
+
+        links.forEach((link) => link.removeAttribute("aria-current"));
+        item.link.setAttribute("aria-current", "true");
+        keepLinkVisible(item.link);
+      }};
+
+      const updateCurrent = () => {{
+        ticking = false;
+
+        const offset = getOffset();
+        let active = targets[0];
+
+        for (const item of targets) {{
+          if (item.target.getBoundingClientRect().top <= offset) {{
+            active = item;
+          }} else {{
+            break;
+          }}
+        }}
+
+        setCurrent(active);
+      }};
+
+      const requestUpdate = () => {{
+        if (ticking) return;
+        ticking = true;
+        window.requestAnimationFrame(updateCurrent);
+      }};
+
+      window.addEventListener("scroll", requestUpdate, {{ passive: true }});
+      window.addEventListener("resize", requestUpdate);
+      window.addEventListener("hashchange", requestUpdate);
+      requestUpdate();
+    }})();
+  </script>
 </body>
 </html>
 """
