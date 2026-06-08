@@ -65,6 +65,10 @@
       font-weight: 650;
     }
 
+    .intake-block {
+      position: relative;
+    }
+
     .shelf-nav {
       position: sticky;
       top: 0;
@@ -108,9 +112,27 @@
       white-space: nowrap;
     }
 
+    .section-nav {
+      margin-top: 8px;
+    }
+
+    .section-nav a {
+      color: var(--muted);
+      font-size: 0.86rem;
+    }
+
+    .section-nav a[hidden] {
+      display: none;
+    }
+
     nav a:hover,
     nav a[aria-current="true"] {
       border-color: var(--site-green);
+    }
+
+    .section-nav a:hover,
+    .section-nav a[aria-current="true"] {
+      border-color: var(--muted);
     }
 
     section {
@@ -285,36 +307,20 @@
       <p class="kicker-value">GitHub Actions</p>
 
       <p class="kicker">Shift opened / 到店时间：</p>
-      <p class="kicker-value">2026-06-08 00:18 UTC</p>
+      <p class="kicker-value">2026-06-08 01:25 UTC</p>
 
     </header>
 
-    <div class="shelf-nav">
-      <p class="kicker">On the shelf / 本日上架：</p>
-      <nav>
-        <a href="#daily-postcard">postcard / 明信片</a>
-<a href="#daily-field-sample">Daily Field Sample / 今日野采样本</a>
-<a href="#world_society">world &amp; society / 世界与社会</a>
-<a href="#ideas">ideas / 思想</a>
-<a href="#books">books / 书籍</a>
-<a href="#human_sciences">human sciences / 人类科学</a>
-<a href="#mind">mind / 心智</a>
-<a href="#science_news">science news / 科学新闻</a>
-<a href="#research">research / 学术</a>
-<a href="#natural_history">natural history / 自然史</a>
-<a href="#marine_life">marine life / 海洋生命</a>
-<a href="#mollusks">mollusks / 贝壳与软体动物</a>
-<a href="#arthropods">arthropods / 节肢动物</a>
-<a href="#ai_technology">AI &amp; technology / AI 与科技</a>
-<a href="#radio_hardware">radio &amp; hardware / 无线电与硬件</a>
-<a href="#games">games / 游戏</a>
-<a href="#arts_design">arts &amp; design / 艺术与设计</a>
-<a href="#fashion_style">fashion &amp; style / 时尚与风格</a>
-<a href="#field_gear">field gear / 野外装备</a>
-      </nav>
-    </div>
+    <section class="intake-block drawer-block">
+  <div class="shelf-nav drawer-nav">
+    <p class="kicker">Junk drawer / 杂物箱：</p>
+    <nav>
+      <a href="#daily-postcard" data-drawer-item="daily-postcard">postcard / 明信片</a>
+<a href="#daily-field-sample" data-drawer-item="daily-field-sample">Daily Field Sample / 今日野采样本</a>
+    </nav>
+  </div>
 
-    <section id="daily-postcard" class="postcard-mail">
+  <section id="daily-postcard" class="postcard-mail">
   <div class="postcard-header">
     <div><strong>From:</strong> Wikimedia Commons &lt;picture-of-the-day@commons.wikimedia.org&gt;</div>
     <div><strong>To:</strong> fivsevn &lt;intake@<a href="https://devlog.fivsevn.com/" target="_blank" rel="noopener noreferrer">devlog.fivsevn.com</a>&gt;</div>
@@ -333,101 +339,137 @@
 
   <p>
     <strong>Scientific name / 学名:</strong><br>
-    <em>Stemmiulus labbanus Chamberlin, 1923</em>
+    <em>Pseudocyriocrates strandi Breuning, 1935</em>
   </p>
 
   <p>
     <strong>Taxonomy / 分类:</strong><br>
-    Animalia / Arthropoda / Diplopoda / Stemmiulida / Stemmiulidae
+    Animalia / Arthropoda / Insecta / Coleoptera / Cerambycidae
   </p>
 
   <p>
     <strong>Source / 来源:</strong><br>
-    <a href="https://www.gbif.org/species/1021343" target="_blank" rel="noopener noreferrer">GBIF</a>
+    <a href="https://www.gbif.org/species/1115377" target="_blank" rel="noopener noreferrer">GBIF</a>
   </p>
 
   <p>
     <strong>Search / 搜索:</strong><br>
-    <a href="https://www.google.com/search?q=Stemmiulus+labbanus+Chamberlin%2C+1923" target="_blank" rel="noopener noreferrer">Google</a> · <a href="https://www.catalogueoflife.org/data/search?q=Stemmiulus+labbanus+Chamberlin%2C+1923" target="_blank" rel="noopener noreferrer">COL</a>
+    <a href="https://www.google.com/search?q=Pseudocyriocrates+strandi+Breuning%2C+1935" target="_blank" rel="noopener noreferrer">Google</a> · <a href="https://www.catalogueoflife.org/data/search?q=Pseudocyriocrates+strandi+Breuning%2C+1935" target="_blank" rel="noopener noreferrer">COL</a>
   </p>
 </section>
-    <section id="world_society">
+</section>
+
+    <section class="intake-block shelf-block">
+      <div class="shelf-nav feed-nav">
+        <p class="kicker">On the shelf / 本日上架：</p>
+        <nav class="category-nav">
+          <a href="#world_society" data-category="world">world / 世界</a>
+<a href="#ideas" data-category="thought">thought / 思想</a>
+<a href="#books" data-category="culture">culture / 文化</a>
+<a href="#human_sciences" data-category="humans">humans / 人类</a>
+<a href="#science_news" data-category="nature">nature / 自然</a>
+<a href="#ai_technology" data-category="technology">technology / 技术</a>
+<a href="#field_gear" data-category="material">material / 器物</a>
+<a href="#" data-category="margin">margin / 边缘</a>
+        </nav>
+        <nav class="section-nav">
+          <a href="#world_society" data-parent-category="world" data-section-key="world_society">world &amp; society / 世界与社会</a>
+<a href="#ideas" data-parent-category="thought" data-section-key="ideas" hidden>ideas / 思想</a>
+<a href="#books" data-parent-category="culture" data-section-key="books" hidden>books / 书籍</a>
+<a href="#games" data-parent-category="culture" data-section-key="games" hidden>games / 游戏</a>
+<a href="#arts_design" data-parent-category="culture" data-section-key="arts_design" hidden>arts &amp; design / 艺术与设计</a>
+<a href="#fashion_style" data-parent-category="culture" data-section-key="fashion_style" hidden>fashion &amp; style / 时尚与风格</a>
+<a href="#human_sciences" data-parent-category="humans" data-section-key="human_sciences" hidden>human sciences / 人类科学</a>
+<a href="#mind" data-parent-category="humans" data-section-key="mind" hidden>mind / 心智</a>
+<a href="#science_news" data-parent-category="nature" data-section-key="science_news" hidden>science news / 科学新闻</a>
+<a href="#research" data-parent-category="nature" data-section-key="research" hidden>research / 学术</a>
+<a href="#natural_history" data-parent-category="nature" data-section-key="natural_history" hidden>natural history / 自然史</a>
+<a href="#marine_life" data-parent-category="nature" data-section-key="marine_life" hidden>marine life / 海洋生命</a>
+<a href="#mollusks" data-parent-category="nature" data-section-key="mollusks" hidden>mollusks / 贝壳与软体动物</a>
+<a href="#arthropods" data-parent-category="nature" data-section-key="arthropods" hidden>arthropods / 节肢动物</a>
+<a href="#ai_technology" data-parent-category="technology" data-section-key="ai_technology" hidden>AI &amp; technology / AI 与科技</a>
+<a href="#radio_hardware" data-parent-category="technology" data-section-key="radio_hardware" hidden>radio &amp; hardware / 无线电与硬件</a>
+<a href="#field_gear" data-parent-category="material" data-section-key="field_gear" hidden>field gear / 野外装备</a>
+        </nav>
+      </div>
+
+      <section id="world_society">
   <h2>world &amp; society</h2>
   <p class='section-title-zh'>世界与社会</p>
   <p class='section-description'>World news, public life, institutions, geopolitics, social conflict, and civic change.</p>
   <p class='section-description-zh'>世界新闻、公共生活、制度、地缘政治、社会冲突与公共变化。</p>
   <article class="article">
   <h3><a href="https://www.dw.com/en/somali-piracy-disrupts-global-shipping-and-trade-routes/a-77047750?maca=en-rss-en-all-1573-rdf" target="_blank" rel="noopener noreferrer">Somali piracy disrupts global shipping and trade routes</a></h3>
-  <div class="meta">DW News · 2026-06-08 00:18 UTC</div>
+  <div class="meta">DW News · 2026-06-08 01:24 UTC</div>
   <p class='summary'>As ships reroute around Africa to avoid Middle East conflict zones, piracy off Somalia is back. The resurgence is driving up insurance, transit times and security costs, putting new pressure on global supply chains.</p>
 </article><article class="article">
   <h3><a href="https://www.dw.com/en/endemic-epidemic-pandemic-what-s-the-difference/a-60295060?maca=en-rss-en-all-1573-rdf" target="_blank" rel="noopener noreferrer">Endemic, epidemic, pandemic: What&#x27;s the difference?</a></h3>
-  <div class="meta">DW News · 2026-06-08 00:18 UTC</div>
+  <div class="meta">DW News · 2026-06-08 01:24 UTC</div>
   <p class='summary'>The Andes hantavirus outbreak shows how easily disease labels are misunderstood — and why they describe patterns of spread, not how dangerous a virus is.</p>
 </article><article class="article">
   <h3><a href="https://www.dw.com/en/hantavirus-how-it-differs-from-covid/a-77122374?maca=en-rss-en-all-1573-rdf" target="_blank" rel="noopener noreferrer">Hantavirus: How it differs from COVID</a></h3>
-  <div class="meta">DW News · 2026-06-08 00:18 UTC</div>
+  <div class="meta">DW News · 2026-06-08 01:24 UTC</div>
   <p class='summary'>In 2018-2019, the Andes virus hantavirus spread person-to-person in Argentina. Eleven people died — but it was stopped. Analysis of that outbreak shows the current one can also be stopped.</p>
 </article><article class="article">
   <h3><a href="https://www.dw.com/en/hantavirus-how-is-the-outbreak-being-contained/a-77122959?maca=en-rss-en-all-1573-rdf" target="_blank" rel="noopener noreferrer">Hantavirus: How is the outbreak being contained?</a></h3>
-  <div class="meta">DW News · 2026-06-08 00:18 UTC</div>
+  <div class="meta">DW News · 2026-06-08 01:24 UTC</div>
   <p class='summary'>Passengers evacuated from the MV Hondius cruise ship are returning to their home countries, some with symptoms, many without. What happens to these people and what is being done to contain the spread?</p>
 </article><article class="article">
   <h3><a href="https://www.dw.com/en/hijab-wearing-german-beauty-contestant-takes-on-the-afd/a-77114886?maca=en-rss-en-all-1573-rdf" target="_blank" rel="noopener noreferrer">Hijab-wearing German beauty contestant takes on the AfD</a></h3>
-  <div class="meta">DW News · 2026-06-08 00:18 UTC</div>
+  <div class="meta">DW News · 2026-06-08 01:24 UTC</div>
   <p class='summary'>As a Miss Germany contestant, Büsra Sayed wore a hijab on stage. This had never happened before — and the far-right AfD didn&#x27;t like it. Her response went viral.</p>
+</article><article class="article">
+  <h3><a href="https://www.theguardian.com/science/live/2026/jun/08/australia-news-live-anthony-albanese-labor-one-nation-coalition-housing-crisis-angus-taylor-ntwnfb" target="_blank" rel="noopener noreferrer">Australia news live: ‘We get the message,’ Plibersek says, after poll shows One Nation support surpassing Labor</a></h3>
+  <div class="meta">The Guardian World · 2026-06-08 01:18 UTC</div>
+  <p class='summary'>Social services minister says Labor agrees ‘this country needs to be changed’. Follow live Get our breaking news email , free app or daily news podcast Is Australian music at risk of extinction? Here’s what the data tells us The music that charts in Australia has changed considerably over the past couple of decades – rock is out, country is in and old tracks are new again. Because of Richard’s brilliant research, advanced Melanoma went from a death sentence to a curable disease. As a result of that breakthrough, in a country with the highest melanoma rates on earth, thousands of Australians are alive today. … After being diagnosed with brain cancer, Australians got to know Richard as a man of warmth and hope. He faced his disease with optimism, with a smile, and with a deep sense of purpose. Just a few months ago, living with stage four brain cancer, he was still riding his bike through Tasmania, raising money for a cure. Continue reading...</p>
+</article><article class="article">
+  <h3><a href="https://www.aljazeera.com/video/newsfeed/2026/6/8/oppenheimer-trump-holds-the-reins-on-netanyahus-escalation-options?traffic_source=rss" target="_blank" rel="noopener noreferrer">Oppenheimer: Trump holds the reins on Netanyahu’s escalation options</a></h3>
+  <div class="meta">Al Jazeera · 2026-06-08 01:03 UTC</div>
+  <p class='summary'>Israeli PM Benjamin Netanyahu has incentives to escalate tensions with Iran but is constrained by US President Trump.</p>
+</article><article class="article">
+  <h3><a href="https://www.scmp.com/news/china/diplomacy/article/3356288/new-strikes-trump-walkout-peace-deal-limbo-latest-iran?utm_source=rss_feed" target="_blank" rel="noopener noreferrer">New strikes, Trump walkout leave Iran peace deal in limbo 100 days on</a></h3>
+  <div class="meta">SCMP World · 2026-06-08 01:03 UTC</div>
+  <p class='summary'>As Sunday marked 100 days since the United States and Israel launched air strikes on Iran, hopes of a diplomatic breakthrough gave way to renewed violence. Iran and Israel exchanged fresh attacks and fighting intensified in Lebanon, even as US President Donald Trump remarked that Israel had no choice but to accept a potential deal after walking out of an interview on camera. Here are the key developments: Israel: missiles fired from Iran Iran launched a coordinated barrage of ballistic missiles...</p>
+</article><article class="article">
+  <h3><a href="https://www.scmp.com/news/people-culture/china-personalities/article/3355816/china-cleaner-inspired-university-students-gets-graduate-school-after-year-self-study?utm_source=rss_feed" target="_blank" rel="noopener noreferrer">China cleaner inspired by university students gets into graduate school after year of self-study</a></h3>
+  <div class="meta">SCMP World · 2026-06-08 01:00 UTC</div>
+  <p class='summary'>A university cleaner in southwestern China has secured a place in a master’s programme after a year of self-study while raising two children. Li Jia, 33, from Chengdu in Sichuan province, works full-time as a cleaner at Chengdu University of Technology. She and her husband once ran a restaurant near the campus, but it closed after struggling to stay afloat, according to local reports. Li later took a sanitation job at the university, valuing its stability, proximity to home and fixed hours,...</p>
+</article><article class="article">
+  <h3><a href="https://www.theguardian.com/world/live/2026/jun/07/israel-lebanon-southern-beirut-hezbollah-idf-ceasefire-iran-latest-news-updates" target="_blank" rel="noopener noreferrer">Middle East crisis live: Iran launches missiles towards Israel after Lebanon airstrikes</a></h3>
+  <div class="meta">The Guardian World · 2026-06-08 00:57 UTC</div>
+  <p class='summary'>Launches appear to mark the first such attack since April ceasefire; Tehran threatened Israel with ‘painful’ response after strikes on southern Beirut Full report: Iran launches missiles at Israel Donald Trump also aggressively pushed back against claims that he broke a key campaign promise to keep the US out of new foreign conflicts. “Well, well, first of all, I didn’t guarantee no war,” Trump said during the Meet the Press interview. “Why would I have built the strongest military in the world?” Continue reading...</p>
+</article><article class="article">
+  <h3><a href="https://www.npr.org/2026/06/07/g-s1-126830/7-8-magnitude-quake-hits-southern-philippines-tsunami-risk-for-some-coasts" target="_blank" rel="noopener noreferrer">7.8 magnitude quake hits southern Philippines; tsunami risk for some coasts</a></h3>
+  <div class="meta">NPR News · 2026-06-08 00:54 UTC</div>
+  <p class='summary'>The Philippine Institute of Volcanology and Seismology said the epicenter was 8 miles from General Santos city on the island of Mindanao.</p>
+</article><article class="article">
+  <h3><a href="https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Oil prices edge higher after strikes on Israel test ceasefire</a></h3>
+  <div class="meta">BBC World · 2026-06-08 00:49 UTC</div>
+  <p class='summary'>Iran said the attacks, its first since an April ceasefire, are the start of &quot;a full week&quot; of strikes</p>
+</article><article class="article">
+  <h3><a href="https://www.theguardian.com/australia-news/2026/jun/08/missing-melbourne-teacher-sunil-sharma-allegedly-murdered-by-brother-india-ntwnfb" target="_blank" rel="noopener noreferrer">Missing Melbourne teacher allegedly drugged and murdered by brother in India</a></h3>
+  <div class="meta">The Guardian World · 2026-06-08 00:47 UTC</div>
+  <p class='summary'>Sunil Sharma disappeared in Punjab state on 22 May, with police arresting four people, including his brother Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast An Australian teacher who went missing in India for two weeks was allegedly murdered by his brother over a property dispute, police say. Melbourne maths teacher Sunil Sharma disappeared on 22 May after he travelled to Amritsar, in India’s north-western Punjab state. Continue reading...</p>
+</article><article class="article">
+  <h3><a href="https://www.scmp.com/news/hong-kong/politics/article/3356258/hong-kong-tycoon-bets-china-will-overtake-us-economy-next-decade-or-so?utm_source=rss_feed" target="_blank" rel="noopener noreferrer">Hong Kong tycoon bets China will overtake US economy ‘in next decade or so’</a></h3>
+  <div class="meta">SCMP World · 2026-06-08 00:30 UTC</div>
+  <p class='summary'>Hong Kong property tycoon Gordon Wu Ying-sheung has predicted that China will overtake the US as the world’s largest economy in the next decade or so, propelled by rapid technological advances while Washington is weighed down by massive defence expenditure and national debt. Yet the 90-year-old founder and chairman of Hopewell Holdings, who rarely speaks to the press, said Hong Kong should look past geopolitical tensions between Beijing and Washington to build closer ties with the United States,...</p>
+</article><article class="article">
+  <h3><a href="https://www.scmp.com/news/asia/southeast-asia/article/3356287/magnitude-82-quake-strikes-philippines-tsunami-warning-issued?utm_source=rss_feed" target="_blank" rel="noopener noreferrer">Magnitude 7.8 quake strikes Philippines, tsunami warning issued</a></h3>
+  <div class="meta">SCMP World · 2026-06-08 00:26 UTC</div>
+  <p class='summary'>Tsunami ⁠warnings were issued after an ⁠earthquake of magnitude 7.8 struck off Mindanao in the southern Philippines on Monday, the German Research Centre for Geosciences (GFZ) said. The geophysics agencies of the Philippines, Japan and Indonesia issued tsunami warnings. GFZ had earlier pegged the earthquake at 8.2. The US Tsunami Warning System issued ⁠a tsunami threat to the earthquake. The offshore quake hit at a depth of 35km (22 miles) about 24km west of Mindanao’s Sarangani province, the US...</p>
+</article><article class="article">
+  <h3><a href="https://www.aljazeera.com/news/2026/6/8/tsunami-warnings-issued-after-8-2-magnitude-earthquake-off-philippines?traffic_source=rss" target="_blank" rel="noopener noreferrer">Tsunami warnings issued after powerful earthquake off Philippines</a></h3>
+  <div class="meta">Al Jazeera · 2026-06-08 00:23 UTC</div>
+  <p class='summary'>Officials in Indonesia, Philippines and Japan warn of tsunami waves after quake off Mindanao.</p>
+</article><article class="article">
+  <h3><a href="https://www.theguardian.com/us-news/2026/jun/07/trump-walks-out-meet-the-press-nbc-interview" target="_blank" rel="noopener noreferrer">Trump walks out of interview with NBC’s Meet the Press after clash over election claims</a></h3>
+  <div class="meta">The Guardian World · 2026-06-08 00:15 UTC</div>
+  <p class='summary'>Kristen Welker questioned Trump’s allegations that races for California governor and 2020 president were ‘rigged’ Donald Trump walked out of an interview with NBC’s Meet the Press after he repeatedly made false claims that the US 2020 presidential elections was rigged in 2020 and questions around compensation for those charged in the January 6 insurrection. The US president’s abrupt exit came during a tense exchange between himself and NBC’s Kristen Welker during a Friday interview in Wisconsin that aired on Sunday . Continue reading...</p>
 </article><article class="article">
   <h3><a href="https://www.aljazeera.com/video/newsfeed/2026/6/8/iran-and-israel-trade-threats-after-tehran-launches-missiles?traffic_source=rss" target="_blank" rel="noopener noreferrer">Iran and Israel trade threats after Tehran launches missiles</a></h3>
   <div class="meta">Al Jazeera · 2026-06-08 00:13 UTC</div>
   <p class='summary'>Iran and Israel exchanged threats after Tehran launched missiles towards Israel in response to Israeli strikes on Beirut</p>
-</article><article class="article">
-  <h3><a href="https://www.theguardian.com/world/live/2026/jun/07/israel-lebanon-southern-beirut-hezbollah-idf-ceasefire-iran-latest-news-updates" target="_blank" rel="noopener noreferrer">Middle East crisis live: Iran launches missiles towards Israel after Lebanon airstrikes</a></h3>
-  <div class="meta">The Guardian World · 2026-06-08 00:01 UTC</div>
-  <p class='summary'>Launches appear to mark the first such attack since April ceasefire; Tehran threatened Israel with ‘painful’ response after strikes on southern Beirut Full report: Iran launches missiles at Israel Donald Trump also aggressively pushed back against claims that he broke a key campaign promise to keep the US out of new foreign conflicts. “Well, well, first of all, I didn’t guarantee no war,” Trump said during the Meet the Press interview. “Why would I have built the strongest military in the world?” Continue reading...</p>
-</article><article class="article">
-  <h3><a href="https://www.scmp.com/week-asia/politics/article/3356126/japan-prepares-drop-its-pacifist-mask-right-rises?utm_source=rss_feed" target="_blank" rel="noopener noreferrer">Japan prepares to drop its pacifist mask as the right rises</a></h3>
-  <div class="meta">SCMP World · 2026-06-08 00:00 UTC</div>
-  <p class='summary'>Japan appears to be edging ever closer to a referendum on its pacifist constitution, after a realignment of parliamentary forces delivered the supermajority needed to put the change to a public vote. For nearly eight decades, Article 9 of the 1947 constitution – drafted under Allied occupation and long treated as untouchable – has prevented Tokyo from formally maintaining a military with “war potential”. That article has outlasted every previous attempt to change it. But Japanese conservatives...</p>
-</article><article class="article">
-  <h3><a href="https://www.aljazeera.com/news/liveblog/2026/6/8/iran-war-live-trump-urges-restraint-after-iranian-missile-attack-on-israel?traffic_source=rss" target="_blank" rel="noopener noreferrer">Iran war live: Trump urges restraint after Iranian missile attack on Israel</a></h3>
-  <div class="meta">Al Jazeera · 2026-06-08 00:00 UTC</div>
-  <p class='summary'>Escalation comes after Israel attacked Lebanon&amp;#039;s capital, Beirut, killing at least two people and wounding 20.</p>
-</article><article class="article">
-  <h3><a href="https://www.theguardian.com/world/2026/jun/08/cockroach-janta-party-youth-movement-india-politics" target="_blank" rel="noopener noreferrer">‘What if all cockroaches came together?’ The youth movement threatening to shake up India’s politics</a></h3>
-  <div class="meta">The Guardian World · 2026-06-07 23:51 UTC</div>
-  <p class='summary'>Cockroach Janta party began as online joke but is growing into one of the most unexpected challenges to country’s rightwing government The call out to the youth of India was simple: “Get ready to swarm the streets of Delhi with peaceful and loving dissent.” They came in their thousands. The weekend marked the first public protest of the Cockroach Janta party (CJP), a movement that began as an online joke, but which has swiftly grown into one of the most unexpected challenges to the indomitable power of the country’s rightwing Narendra Modi government – driven by millions of discontented and disillusioned young people. Continue reading...</p>
-</article><article class="article">
-  <h3><a href="https://www.theguardian.com/science/live/2026/jun/08/australia-news-live-anthony-albanese-labor-one-nation-coalition-housing-crisis-angus-taylor-ntwnfb" target="_blank" rel="noopener noreferrer">Australia news live: Julia Gillard ‘disgusted’ by ‘ditch the witch’ ads targeting Victorian premier; One Nation ahead of Labor in new poll</a></h3>
-  <div class="meta">The Guardian World · 2026-06-07 23:41 UTC</div>
-  <p class='summary'>Former Labor prime minister angered at use of ‘tired old trope’. Follow live Get our breaking news email , free app or daily news podcast Is Australian music at risk of extinction? Here’s what the data tells us The music that charts in Australia has changed considerably over the past couple of decades – rock is out, country is in and old tracks are new again. Because of Richard’s brilliant research, advanced Melanoma went from a death sentence to a curable disease. As a result of that breakthrough, in a country with the highest melanoma rates on earth, thousands of Australians are alive today. … After being diagnosed with brain cancer, Australians got to know Richard as a man of warmth and hope. He faced his disease with optimism, with a smile, and with a deep sense of purpose. Just a few months ago, living with stage four brain cancer, he was still riding his bike through Tasmania, raising money for a cure. Continue reading...</p>
-</article><article class="article">
-  <h3><a href="https://www.scmp.com/sport/football/article/3356286/christian-eriksen-conscious-after-another-field-collapse-denmark-match?utm_source=rss_feed" target="_blank" rel="noopener noreferrer">Christian Eriksen ‘conscious’ after another on-field collapse in Denmark match</a></h3>
-  <div class="meta">SCMP World · 2026-06-07 23:24 UTC</div>
-  <p class='summary'>Christian Eriksen was conscious and undergoing further tests in hospital after collapsing on the field again while playing for Denmark’s national team on Sunday in a scary scene that had echoes of his cardiac arrest at the European Championship five years ago. Television footage showed the 34-year-old midfielder clutching his chest with both hands in an off-the-ball action in the 65th minute of Denmark’s international friendly against Ukraine at Nature Energy Park in Odense, Denmark. In the next...</p>
-</article><article class="article">
-  <h3><a href="https://www.theguardian.com/world/2026/jun/08/xi-jinping-kim-jong-un-meeting-north-korea" target="_blank" rel="noopener noreferrer">Xi Jinping set to meet Kim Jong-un in North Korea, as China seeks to revitalise relationship</a></h3>
-  <div class="meta">The Guardian World · 2026-06-07 23:21 UTC</div>
-  <p class='summary'>The China-North Korea relationship has been strained by a fall in trade during the pandemic and Pyongyang’s increasing ties with Russia Xi Jinping visits North Korea on Monday for a two-day trip, his first in nearly seven years, as China’s president looks to revitalise ties with his junior ally. Xi is expected to meet North Korea’s leader, Kim Jong-un, in Pyongyang. North Korea is China’s only formal treaty ally but in recent years their relationship has been strained by a virtual freeze in trade during the Covid-19 pandemic and Pyongyang’s increasingly close relationship with Russia. Continue reading...</p>
-</article><article class="article">
-  <h3><a href="https://www.theguardian.com/stage/2026/jun/07/tony-awards-2026-full-list-of-winners" target="_blank" rel="noopener noreferrer">Tony awards 2026: full list of winners</a></h3>
-  <div class="meta">The Guardian World · 2026-06-07 23:20 UTC</div>
-  <p class='summary'>This year’s Tony awards have already seen wins for musicals Schmigadoon! and Cats: The Jellicle Ball Christopher Gattelli, Schmigadoon! Ellenore Scott, Ragtime Ani Taj, The Rocky Horror Show Omari Wiles and Arturo Lyons, Cats: The Jellicle Ball – WINNER! Lauren Yalango-Grant and Christopher Cree Grant, The Lost Boys Continue reading...</p>
-</article><article class="article">
-  <h3><a href="https://www.npr.org/2026/06/07/g-s1-126826/trump-iran-wars-campaign-message" target="_blank" rel="noopener noreferrer">Trump rejects idea that Iran betrays his &quot;no new wars&quot; campaign message</a></h3>
-  <div class="meta">NPR News · 2026-06-07 23:07 UTC</div>
-  <p class='summary'>President Trump is dismissing the idea that launching the war with Iran betrayed his refrain of &quot;No new wars&quot; as he campaigned for the White House in 2024.</p>
-</article><article class="article">
-  <h3><a href="https://www.bbc.com/news/articles/cnvpn253re4o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">&#x27;No dead ends&#x27;: What the Dutch can teach us about tackling youth unemployment</a></h3>
-  <div class="meta">BBC World · 2026-06-07 23:03 UTC</div>
-  <p class='summary'>The Netherlands has one of the world&#x27;s lowest rates of 16 to 24-year-olds not in education, employment or training.</p>
-</article><article class="article">
-  <h3><a href="https://www.bbc.com/news/articles/c4gvndd2qelo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Spain&#x27;s visitor numbers hit new highs as tourists avoid Middle East</a></h3>
-  <div class="meta">BBC World · 2026-06-07 23:01 UTC</div>
-  <p class='summary'>The European country had 9.1 million international visitors in April, the most ever for that month.</p>
-</article><article class="article">
-  <h3><a href="https://www.bbc.com/news/articles/cx212p8r28eo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">&#x27;A World Cup for them not us&#x27;: Fans&#x27; anger at US travel bans and visa restrictions</a></h3>
-  <div class="meta">BBC World · 2026-06-07 23:00 UTC</div>
-  <p class='summary'>Fans across the world say US travel bans and visa regulations make them feel excluded from the World Cup.</p>
 </article>
 </section>
 <section id="ideas">
@@ -656,23 +698,23 @@
   <p class='section-description-zh'>新论文、预印本、开放获取研究、期刊提醒与学术更新。</p>
   <article class="article">
   <h3><a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003834" target="_blank" rel="noopener noreferrer">Disrupting phage liquid crystalline droplets restores antibiotic susceptibility in &lt;i&gt;Pseudomonas aeruginosa&lt;/i&gt; biofilms</a></h3>
-  <div class="meta">PLOS Biology · 2026-06-08 00:18 UTC</div>
+  <div class="meta">PLOS Biology · 2026-06-08 01:24 UTC</div>
   <p class='summary'>by Abul K. Tarafder, Miles Graham, Luke K. Davis, Shawna Pratt, Jan Böhning, Pavithra Manivannan, Zhexin Wang, Camila M. Clemente, Aaron Weimann, R. Andres Floto, Raymond J. Owens, George A. O’Toole, Philip Pearce, Tanmay A. M. Bharat All bacterial biofilms contain an extracellular matrix rich in filamentous molecules that self-associate, conferring emergent properties to bacteria, including antibiotic tolerance. Pseudomonas aeruginosa is a human pathogen that forms biofilms in diverse infectious settings, where the upregulation of a filamentous bacteriophage Pf4, has been shown to be a key virulence factor that protects bacteria from antibiotics. Here, we modeled biophysical characteristics of biofilm-linked liquid crystalline droplets formed by Pf4, which predicted that sub-stoichiometric phage binders had the ability to disrupt liquid crystals by changing the surface properties of the phage. We tested this prediction by developing nanobodies targeting the outer surface of the Pf4 phage, which disrupted in vitro reconstituted droplets, promoted antibiotic diffusion into bacteria, disrupted P. aeruginosa biofilm formation under a variety of conditions, and abolished antibiotic tolerance of biofilms. The inhibition strategy illustrated in this study could be extended to biofilms of other pathogenic bacteria, where filamentous molecules are pervasive in the extracellular matrix. Furthermore, our findings exemplify how targeting a biophysical mechanism, rather than a defined biochemical target, is a promising avenue for intervention, with the potential of applying this concept to other disease-related contexts.</p>
 </article><article class="article">
   <h3><a href="https://www.nature.com/articles/d41586-026-01728-w" target="_blank" rel="noopener noreferrer">How long can humans live? We simply don’t know</a></h3>
-  <div class="meta">Nature · 2026-06-08 00:18 UTC</div>
+  <div class="meta">Nature · 2026-06-08 01:24 UTC</div>
   <p class='summary'>Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01728-w Claims about the upper limits to human lifespan are characterized by hype, deficient data and shoddy science, says longevity researcher Saul Newman.</p>
 </article><article class="article">
   <h3><a href="https://www.nature.com/articles/d41586-026-01688-1" target="_blank" rel="noopener noreferrer">Polymarket vs science: why researchers are sceptical of the prediction-market hype</a></h3>
-  <div class="meta">Nature · 2026-06-08 00:18 UTC</div>
+  <div class="meta">Nature · 2026-06-08 01:24 UTC</div>
   <p class='summary'>Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01688-1 Online prediction markets are taking bets on everything from climate change to quantum computing. But researchers question their accuracy.</p>
 </article><article class="article">
   <h3><a href="https://www.nature.com/articles/s41586-026-10507-6" target="_blank" rel="noopener noreferrer">Passive heart-rate monitoring during smartphone use in everyday life</a></h3>
-  <div class="meta">Nature · 2026-06-08 00:18 UTC</div>
+  <div class="meta">Nature · 2026-06-08 01:24 UTC</div>
   <p class='summary'>Nature, Published online: 01 June 2026; doi:10.1038/s41586-026-10507-6 A machine-learning model that uses smartphone cameras to measure heart rate in the background during normal daily phone use and subsequently estimate resting heart rate could make it easier for people to monitor heart health.</p>
 </article><article class="article">
   <h3><a href="https://www.nature.com/articles/d41586-026-01762-8" target="_blank" rel="noopener noreferrer">Earliest signs of vision recorded in ancient sea-floor tracks</a></h3>
-  <div class="meta">Nature · 2026-06-08 00:18 UTC</div>
+  <div class="meta">Nature · 2026-06-08 01:24 UTC</div>
   <p class='summary'>Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01762-8 Traces from some of the earliest animals reveal when they began to sense light.</p>
 </article><article class="article">
   <h3><a href="https://elifesciences.org/articles/94194" target="_blank" rel="noopener noreferrer">Growth in early infancy drives optimal brain functional connectivity which predicts cognitive flexibility in later childhood</a></h3>
@@ -839,19 +881,19 @@
   <p class='section-description-zh'>人工智能、计算、软件、平台、科技文化与应用系统。</p>
   <article class="article">
   <h3><a href="https://www.theverge.com/podcast/942586/elon-musk-spacex-ipo-x-xai-index-funds" target="_blank" rel="noopener noreferrer">Elon Musk is steamrolling Wall Street to become a trillionaire</a></h3>
-  <div class="meta">The Verge AI · 2026-06-08 00:18 UTC</div>
+  <div class="meta">The Verge AI · 2026-06-08 01:25 UTC</div>
   <p class='summary'>Today on Decoder, I’m talking to Ryan Mac, a technology reporter at The New York Times and coauthor of the excellent book Character Limit: How Elon Musk Destroyed Twitter, which came out in 2024. I can’t recommend it enough. I wanted to have Ryan on the show because we’re on the cusp of the SpaceX [&amp;#8230;]</p>
 </article><article class="article">
   <h3><a href="https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles" target="_blank" rel="noopener noreferrer">TSMC struggles to keep up with AI demand: &amp;#8216;We can only support so much&amp;#8217;</a></h3>
-  <div class="meta">The Verge AI · 2026-06-08 00:18 UTC</div>
+  <div class="meta">The Verge AI · 2026-06-08 01:25 UTC</div>
   <p class='summary'>Taiwan Semiconductor Manufacturing Co. - the world&#x27;s biggest semiconductor-maker - is struggling to meet demands from American customers even with its factory buildout in the US, according to reports from Reuters and Bloomberg. &quot;Customer demand is so high, and we can only support so much,&quot; TSMC CEO C.C. Wei said after a shareholder meeting on [&amp;#8230;]</p>
 </article><article class="article">
   <h3><a href="https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center" target="_blank" rel="noopener noreferrer">Kevin O’Leary agrees to downsize massive Utah data center</a></h3>
-  <div class="meta">The Verge AI · 2026-06-08 00:18 UTC</div>
+  <div class="meta">The Verge AI · 2026-06-08 01:25 UTC</div>
   <p class='summary'>Kevin O&#x27;Leary agreed to halve the size of his planned 40,000-acre data center in Utah amid mounting pressure from residents and activists, as reported earlier by local affiliate ABC4. The Shark Tank star sent a letter to Utah Senate President J. Stuart Adams on Thursday, saying that he will remove 19,430 acres from the project, [&amp;#8230;]</p>
 </article><article class="article">
   <h3><a href="https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood" target="_blank" rel="noopener noreferrer">This AI startup says it can tell if a script will make a hit film</a></h3>
-  <div class="meta">The Verge AI · 2026-06-08 00:18 UTC</div>
+  <div class="meta">The Verge AI · 2026-06-08 01:25 UTC</div>
   <p class='summary'>When Quilty hit the industry trades earlier this year, the AI startup promised that its tool could accurately predict a film&#x27;s success just by reading the script. When people actually got a chance to experiment with Quilty&#x27;s product, though, they were left skeptical. Even with all the available data in the world, it predicted the [&amp;#8230;]</p>
 </article><article class="article">
   <h3><a href="https://arstechnica.com/culture/2026/06/rip-anthony-head-our-10-favorite-moments-of-buffys-giles/" target="_blank" rel="noopener noreferrer">RIP Anthony Head: Our 10 favorite moments of Buffy&#x27;s Giles</a></h3>
@@ -948,6 +990,10 @@
   <p class='section-description'>Video games, game culture, criticism, platforms, studios, development, and interactive media.</p>
   <p class='section-description-zh'>电子游戏、游戏文化、评论、平台、工作室、开发与互动媒体。</p>
   <article class="article">
+  <h3><a href="https://www.polygon.com/studio-ghibli-stardew-vivarium-trailer/" target="_blank" rel="noopener noreferrer">Studio Ghibli and Stardew Valley fans need to wishlist Xbox&#x27;s Vivarium</a></h3>
+  <div class="meta">Polygon · 2026-06-08 00:49 UTC</div>
+  <p class='summary'>The biggest cozy life sim reveal of Summer Game Fest and the 2026 Xbox Showcase deserves attention from anime fans</p>
+</article><article class="article">
   <h3><a href="https://www.polygon.com/chris-pratt-best-films-the-tomorrow-war/" target="_blank" rel="noopener noreferrer">The Tomorrow War is Chris Pratt&#x27;s most underrated action movie, and it&#x27;s free on streaming</a></h3>
   <div class="meta">Polygon · 2026-06-08 00:01 UTC</div>
   <p class='summary'>The Guardians of the Galaxy star&#x27;s most underrated sci-fi film is available to stream on Tubi this June.</p>
@@ -983,10 +1029,6 @@
   <h3><a href="https://www.rockpapershotgun.com/valheim-10-release-date-announced-so-prepare-to-ward-off-ancient-evils-and-lurking-threats-in-its-treacherously-icy-final-biome" target="_blank" rel="noopener noreferrer">Valheim 1.0 release date announced, so prepare to ward off &quot;ancient evils and lurking threats&quot; in its treacherously icy final biome</a></h3>
   <div class="meta">Rock Paper Shotgun · 2026-06-07 20:45 UTC</div>
   <p class='summary'>It may, as I write this, be summer showcase season. However, you should get ready to wrap up warm. Co-op Viking survivor Valheim &#x27;s set to get very cold soon, as its 1.0 release brings a final new biome, the Deep North. &quot;A frigid land encased in ice and mystery&quot; this dangerous locale and Valheim 1.0 will arrive on September 9th. Read more</p>
-</article><article class="article">
-  <h3><a href="https://www.pcgamer.com/gaming-industry/events-conferences/every-game-trailer-and-announcement-in-the-pc-gaming-show-2026/" target="_blank" rel="noopener noreferrer">Every game, trailer, and announcement in the PC Gaming Show 2026</a></h3>
-  <div class="meta">PC Gamer · 2026-06-07 20:43 UTC</div>
-  <p class='summary'>Every Space Marine, vampire, and weird mushroom guy accounted for.</p>
 </article>
 </section>
 <section id="arts_design">
@@ -1043,19 +1085,19 @@
   <p class='section-description-zh'>时尚、风格、服装、秀场文化、街头服饰、零售与当代趣味生产。</p>
   <article class="article">
   <h3><a href="https://www.vogue.com/fashion-shows/resort-2027/tanya-taylor" target="_blank" rel="noopener noreferrer">Tanya Taylor Resort 2027</a></h3>
-  <div class="meta">Vogue · 2026-06-08 00:17 UTC</div>
+  <div class="meta">Vogue · 2026-06-08 01:23 UTC</div>
   
 </article><article class="article">
   <h3><a href="https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/dagmar" target="_blank" rel="noopener noreferrer">House of Dagmar Fall 2026 Ready-to-Wear</a></h3>
-  <div class="meta">Vogue · 2026-06-08 00:17 UTC</div>
+  <div class="meta">Vogue · 2026-06-08 01:23 UTC</div>
   
 </article><article class="article">
   <h3><a href="https://www.vogue.com/fashion-shows/resort-2027/ashlyn" target="_blank" rel="noopener noreferrer">Ashlyn Resort 2027</a></h3>
-  <div class="meta">Vogue · 2026-06-08 00:17 UTC</div>
+  <div class="meta">Vogue · 2026-06-08 01:23 UTC</div>
   
 </article><article class="article">
   <h3><a href="https://www.vogue.com/fashion-shows/resort-2027/norma-kamali" target="_blank" rel="noopener noreferrer">Norma Kamali Resort 2027</a></h3>
-  <div class="meta">Vogue · 2026-06-08 00:17 UTC</div>
+  <div class="meta">Vogue · 2026-06-08 01:23 UTC</div>
   
 </article><article class="article">
   <h3><a href="https://www.highsnobiety.com/p/nike-mind-002-khaki/" target="_blank" rel="noopener noreferrer">Nike’s Stimulating Sneaker Is a Soleful Experience</a></h3>
@@ -1138,6 +1180,7 @@
   <p class='summary'>There is a particular kind of object that achieves iconic status not by trying to be... The post How The North Face Base Camp Duffel Became an Icon appeared first on Carryology .</p>
 </article>
 </section>
+    </section>
 
     <footer>
       <p>本页面由 GitHub Actions 每日生成，数据来自 RSS 与采样脚本。<a href="https://github.com/fivsevn-agy/fivsevn-devlog/tree/233c5bab2dba086446db83ee8e7b232b46c53a1a/intake">查看仓库</a></p>
@@ -1146,30 +1189,16 @@
 
   <script>
     (() => {
-      const shelf = document.querySelector(".shelf-nav");
-      if (!shelf) return;
-
-      const nav = shelf.querySelector("nav");
-      if (!nav) return;
-
-      const links = Array.from(nav.querySelectorAll('a[href^="#"]'));
-      const targets = links
-        .map((link) => {
-          const href = link.getAttribute("href") || "";
-          const id = decodeURIComponent(href.slice(1));
-          const target = document.getElementById(id);
-          return target ? { id, link, target } : null;
-        })
-        .filter(Boolean);
-
-      if (!targets.length) return;
-
-      let currentId = "";
-      let ticking = false;
-
-      const getOffset = () => shelf.getBoundingClientRect().height + Math.min(180, window.innerHeight * 0.22);
+      const allNavs = Array.from(document.querySelectorAll(".shelf-nav nav"));
+      const categoryLinks = Array.from(document.querySelectorAll(".category-nav a[data-category]"));
+      const sectionLinks = Array.from(document.querySelectorAll(".section-nav a[data-parent-category]"));
+      const drawerLinks = Array.from(document.querySelectorAll(".drawer-nav a[href^='#']"));
+      const trackedLinks = [...drawerLinks, ...sectionLinks];
 
       const keepLinkVisible = (link) => {
+        const nav = link.closest("nav");
+        if (!nav) return;
+
         const navRect = nav.getBoundingClientRect();
         const linkRect = link.getBoundingClientRect();
         const margin = 16;
@@ -1179,17 +1208,77 @@
         }
       };
 
-      const setCurrent = (item) => {
-        if (!item || item.id === currentId) return;
-        currentId = item.id;
+      const showCategorySections = (categoryKey) => {
+        sectionLinks.forEach((link) => {
+          link.hidden = link.dataset.parentCategory !== categoryKey;
+        });
 
-        links.forEach((link) => link.removeAttribute("aria-current"));
-        item.link.setAttribute("aria-current", "true");
-        keepLinkVisible(item.link);
+        categoryLinks.forEach((link) => {
+          if (link.dataset.category === categoryKey) {
+            link.setAttribute("aria-current", "true");
+            keepLinkVisible(link);
+          } else {
+            link.removeAttribute("aria-current");
+          }
+        });
+      };
+
+      const getCategoryForSection = (sectionId) => {
+        const sectionLink = sectionLinks.find((link) => link.dataset.sectionKey === sectionId);
+        return sectionLink ? sectionLink.dataset.parentCategory : "";
+      };
+
+      const setCurrentTrackedLink = (activeId) => {
+        trackedLinks.forEach((link) => {
+          const href = link.getAttribute("href") || "";
+          const id = decodeURIComponent(href.slice(1));
+          if (id === activeId) {
+            link.setAttribute("aria-current", "true");
+            keepLinkVisible(link);
+          } else {
+            link.removeAttribute("aria-current");
+          }
+        });
+      };
+
+      const targets = trackedLinks
+        .map((link) => {
+          const href = link.getAttribute("href") || "";
+          const id = decodeURIComponent(href.slice(1));
+          const target = document.getElementById(id);
+          return target ? { id, link, target } : null;
+        })
+        .filter(Boolean);
+
+      if (!categoryLinks.length && !targets.length) return;
+
+      const initialCategory = categoryLinks[0]?.dataset.category;
+      if (initialCategory) showCategorySections(initialCategory);
+
+      categoryLinks.forEach((link) => {
+        link.addEventListener("click", () => {
+          const categoryKey = link.dataset.category;
+          if (categoryKey) showCategorySections(categoryKey);
+        });
+      });
+
+      let currentId = "";
+      let ticking = false;
+
+      const getOffset = () => {
+        const visibleStickyHeights = allNavs
+          .map((nav) => nav.closest(".shelf-nav"))
+          .filter(Boolean)
+          .map((nav) => nav.getBoundingClientRect())
+          .filter((rect) => rect.top <= 1 && rect.bottom > 0)
+          .map((rect) => rect.height);
+        const stickyHeight = visibleStickyHeights.length ? Math.max(...visibleStickyHeights) : 0;
+        return stickyHeight + Math.min(180, window.innerHeight * 0.22);
       };
 
       const updateCurrent = () => {
         ticking = false;
+        if (!targets.length) return;
 
         const offset = getOffset();
         let active = targets[0];
@@ -1202,7 +1291,12 @@
           }
         }
 
-        setCurrent(active);
+        if (!active || active.id === currentId) return;
+        currentId = active.id;
+        setCurrentTrackedLink(active.id);
+
+        const categoryKey = getCategoryForSection(active.id);
+        if (categoryKey) showCategorySections(categoryKey);
       };
 
       const requestUpdate = () => {
