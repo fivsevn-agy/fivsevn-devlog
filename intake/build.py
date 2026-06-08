@@ -19,6 +19,27 @@ DATA_DIR = BASE_DIR / "data"
 DEFAULT_SOURCE_CAP = 4
 DEFAULT_SECTION_CAP = 12
 
+REGION_LABELS: dict[str, tuple[str, str]] = {
+    "global": ("global", "国际"),
+    "north_america": ("north america", "北美"),
+    "europe": ("europe", "欧洲"),
+    "east_asia": ("east asia", "东亚"),
+    "southeast_asia": ("southeast asia", "东南亚"),
+    "china": ("china", "中国"),
+    "south_asia": ("south asia", "南亚"),
+    "middle_east": ("middle east", "中东"),
+    "latin_america": ("latin america", "拉美"),
+    "africa": ("africa", "非洲"),
+}
+
+
+def get_region_label(region_key: str) -> tuple[str, str]:
+    return REGION_LABELS.get(region_key, (region_key.replace("_", " "), ""))
+
+
+def make_region_section_key(section_key: str, region_key: str) -> str:
+    return f"{section_key}__{region_key}"
+
 
 
 def load_config() -> dict[str, Any]:
@@ -174,6 +195,9 @@ def build_section(section_key: str, section: dict[str, Any], config: dict[str, A
             continue
 
         print(f"[items] {feed_name}: {len(items)}")
+        if region:
+            for item in items:
+                item["region"] = str(region)
         section_items.extend(items)
 
     section_items.sort(key=lambda item: item["published_dt"], reverse=True)
@@ -267,6 +291,20 @@ def render_section_nav(config: dict[str, Any]) -> str:
             section = sections.get(section_key)
             if not section:
                 continue
+
+            regions = section.get("regions")
+            if isinstance(regions, dict) and regions:
+                for region_key in regions.keys():
+                    region_key = str(region_key)
+                    title, title_zh = get_region_label(region_key)
+                    label = render_label(title, title_zh)
+                    hidden = "" if str(category_key) == first_category_key else " hidden"
+                    virtual_section_key = make_region_section_key(str(section_key), region_key)
+                    parts.append(
+                        f'<a href="#{escape(virtual_section_key)}" data-parent-category="{escape(category_key)}" data-section-key="{escape(virtual_section_key)}"{hidden}>{label}</a>'
+                    )
+                continue
+
             label = render_label(section.get("title", section_key), section.get("title_zh", ""))
             hidden = "" if str(category_key) == first_category_key else " hidden"
             parts.append(
@@ -274,7 +312,6 @@ def render_section_nav(config: dict[str, Any]) -> str:
             )
 
     return "\n".join(parts)
-
 
 def load_fragment(filename: str) -> str:
     fragment_path = DATA_DIR / filename
@@ -297,9 +334,16 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
     section_nav_html = render_section_nav(config)
 
     section_to_category: dict[str, str] = {}
+    sections_config_for_map = config.get("sections", {}) or {}
     for category_key, category in (config.get("categories", {}) or {}).items():
         for mapped_section_key in category.get("sections", []) or []:
-            section_to_category[str(mapped_section_key)] = str(category_key)
+            mapped_section_key = str(mapped_section_key)
+            section_to_category[mapped_section_key] = str(category_key)
+            section_config = sections_config_for_map.get(mapped_section_key, {}) or {}
+            regions = section_config.get("regions")
+            if isinstance(regions, dict):
+                for region_key in regions.keys():
+                    section_to_category[make_region_section_key(mapped_section_key, str(region_key))] = str(category_key)
 
     def ordered_section_keys() -> list[str]:
         sections = config.get("sections", {}) or {}
@@ -331,6 +375,41 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
         section_description = escape(section.get("description", ""))
         section_description_zh = escape(section.get("description_zh", ""))
         items = sections_data.get(section_key, [])
+
+        regions = section.get("regions")
+        if isinstance(regions, dict) and regions:
+            items_by_region: dict[str, list[dict[str, Any]]] = {str(region_key): [] for region_key in regions.keys()}
+            for item in items:
+                region_key = str(item.get("region", ""))
+                if region_key in items_by_region:
+                    items_by_region[region_key].append(item)
+
+            for region_key in regions.keys():
+                region_key = str(region_key)
+                region_title, region_title_zh = get_region_label(region_key)
+                virtual_section_key = make_region_section_key(section_key, region_key)
+                region_article_parts = [render_article(item) for item in items_by_region.get(region_key, [])]
+                if not region_article_parts:
+                    region_article_parts = ['<p class="empty">No items fetched.</p>']
+
+                region_title_escaped = escape(region_title)
+                region_title_zh_escaped = escape(region_title_zh)
+                title_zh_html = f"<p class='section-title-zh'>{region_title_zh_escaped}</p>" if region_title_zh_escaped else ""
+                description_html = f"<p class='section-description'>{section_description}</p>" if section_description else ""
+                description_zh_html = f"<p class='section-description-zh'>{section_description_zh}</p>" if section_description_zh else ""
+                section_category = escape(section_to_category.get(virtual_section_key, ""))
+                section_parts.append(
+                    f"""
+<section id="{escape(virtual_section_key)}" data-section-category="{section_category}">
+  <h2>{region_title_escaped}</h2>
+  {title_zh_html}
+  {description_html}
+  {description_zh_html}
+  {''.join(region_article_parts)}
+</section>
+""".strip()
+                )
+            continue
 
         article_parts = [render_article(item) for item in items]
         if not article_parts:
