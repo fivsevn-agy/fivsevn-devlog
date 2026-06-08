@@ -367,6 +367,10 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
       box-sizing: border-box;
     }}
 
+    html {{
+      font-size: 75%;
+    }}
+
     body {{
       margin: 0;
       background: var(--bg);
