@@ -91,19 +91,49 @@ sections:
     title_zh: 世界与社会
     description: World news, public life, institutions, geopolitics, social conflict, and civic change.
     description_zh: 世界新闻、公共生活、制度、地缘政治、社会冲突与公共变化。
-    feeds:
-    - name: BBC World
-      url: https://feeds.bbci.co.uk/news/world/rss.xml
-    - name: The Guardian World
-      url: https://www.theguardian.com/world/rss
-    - name: NPR News
-      url: https://feeds.npr.org/1001/rss.xml
-    - name: Al Jazeera
-      url: https://www.aljazeera.com/xml/rss/all.xml
-    - name: DW News
-      url: https://rss.dw.com/rdf/rss-en-all
-    - name: SCMP World
-      url: https://www.scmp.com/rss/91/feed
+    regions:
+      global:
+        - name: BBC World
+          url: https://feeds.bbci.co.uk/news/world/rss.xml
+        - name: The Guardian World
+          url: https://www.theguardian.com/world/rss
+        - name: Al Jazeera
+          url: https://www.aljazeera.com/xml/rss/all.xml
+      north_america:
+        - name: NPR World
+          url: https://feeds.npr.org/1004/rss.xml
+      europe:
+        - name: DW News
+          url: https://rss.dw.com/rdf/rss-en-all
+        - name: Euronews
+          url: https://www.euronews.com/rss?level=2
+      east_asia:
+        - name: NHK News
+          url: https://www3.nhk.or.jp/rss/news/cat0.xml
+        - name: The Japan Times
+          url: https://www.japantimes.co.jp/feed/
+        - name: SCMP World
+          url: https://www.scmp.com/rss/91/feed
+      southeast_asia:
+        - name: The Straits Times – Asia
+          url: https://www.straitstimes.com/asia/rss.xml
+        - name: Channel News Asia – Asia
+          url: https://www.channelnewsasia.com/rssfeeds/8395986
+      china:
+        - name: Caixin (财新网)
+          url: https://rsshub.app/caixin/latest
+      south_asia:
+        - name: The Times of India
+          url: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+      middle_east:
+        - name: Al-Monitor
+          url: https://www.al-monitor.com/rss
+      latin_america:
+        - name: Latin America News Agency (Telesur)
+          url: https://www.telesurenglish.net/rss
+      africa:
+        - name: AllAfrica
+          url: https://allafrica.com/tools/headlines/rss.xml
   ideas:
     title: ideas
     title_zh: 思想
