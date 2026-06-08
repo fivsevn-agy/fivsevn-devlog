@@ -682,6 +682,21 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
 
   <script>
     (() => {{
+      const hasInitialHash = Boolean(window.location.hash);
+      if ("scrollRestoration" in history && !hasInitialHash) {{
+        history.scrollRestoration = "manual";
+      }}
+
+      const forceTopOnPlainEntry = () => {{
+        if (!hasInitialHash) {{
+          window.scrollTo(0, 0);
+        }}
+      }};
+
+      forceTopOnPlainEntry();
+      window.addEventListener("pageshow", forceTopOnPlainEntry);
+      window.addEventListener("load", forceTopOnPlainEntry);
+
       const allNavs = Array.from(document.querySelectorAll(".shelf-nav nav"));
       const categoryLinks = Array.from(document.querySelectorAll(".category-nav a[data-category]"));
       const sectionLinks = Array.from(document.querySelectorAll(".section-nav a[data-parent-category]"));
