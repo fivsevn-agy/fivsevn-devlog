@@ -563,7 +563,7 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
       let currentId = "";
       let ticking = false;
 
-      const getOffset = () => shelf.getBoundingClientRect().height + 12;
+      const getOffset = () => shelf.getBoundingClientRect().height + Math.min(180, window.innerHeight * 0.22);
 
       const keepLinkVisible = (link) => {{
         const navRect = nav.getBoundingClientRect();
