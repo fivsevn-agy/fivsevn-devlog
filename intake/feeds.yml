@@ -118,8 +118,6 @@ sections:
       url: https://daily.jstor.org/feed/
     - name: Noema Magazine
       url: https://www.noemamag.com/feed/
-    - name: Nautilus
-      url: https://nautil.us/feed/
   books:
     title: books
     title_zh: 书籍
@@ -184,6 +182,8 @@ sections:
       url: https://news.mit.edu/rss/topic/science-technology
     - name: Quanta Magazine
       url: https://www.quantamagazine.org/feed/
+    - name: Nautilus
+      url: https://nautil.us/feed/
   research:
     title: research
     title_zh: 学术
