@@ -62,7 +62,7 @@ fivsevn.com/
       ├─ stills/     # 静态影像存档
       ├─ motion/     # 动态影像存档
       ├─ devlog/     # 后台
-      ├─ 57store/      # 五月七日便利店
+      ├─ 57store/    # 五月七日便利店
       ├─ nvesvif/    # ???
       └─ ???/
 
