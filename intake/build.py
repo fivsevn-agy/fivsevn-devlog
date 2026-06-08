@@ -331,6 +331,16 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
 
     modules_html = "\n".join(part for part in [daily_postcard_html, daily_field_sample_html] if part)
     sections_html = "\n".join(section_parts)
+    feed_nav_inner_html = f"""
+<p class="kicker">On the shelf / 本日上架：</p>
+<nav class="category-nav">
+  {category_nav_html}
+</nav>
+<nav class="section-nav">
+  {section_nav_html}
+</nav>
+""".strip()
+
     drawer_block_html = ""
     if drawer_nav_html or modules_html:
         drawer_block_html = f"""
@@ -340,6 +350,10 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
     <nav>
       {drawer_nav_html}
     </nav>
+
+    <div class="nested-feed-nav">
+      {feed_nav_inner_html}
+    </div>
   </div>
 
   {modules_html}
@@ -458,6 +472,10 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
     .shelf-nav nav a {{
       flex: 0 0 auto;
       white-space: nowrap;
+    }}
+
+    .nested-feed-nav {{
+      margin-top: 24px;
     }}
 
     .section-nav {{
@@ -663,13 +681,7 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
 
     <section class="intake-block shelf-block">
       <div class="shelf-nav feed-nav">
-        <p class="kicker">On the shelf / 本日上架：</p>
-        <nav class="category-nav">
-          {category_nav_html}
-        </nav>
-        <nav class="section-nav">
-          {section_nav_html}
-        </nav>
+        {feed_nav_inner_html}
       </div>
 
       {sections_html}
