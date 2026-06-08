@@ -116,6 +116,28 @@ def fetch_feed(feed_name: str, feed_url: str, limit: int = DEFAULT_SOURCE_CAP) -
     return items[:limit]
 
 
+def iter_section_feeds(section: dict[str, Any]) -> list[dict[str, Any]]:
+    """Return feeds from either the legacy `feeds:` shape or the regional `regions:` shape."""
+    feeds = section.get("feeds")
+    if isinstance(feeds, list):
+        return [feed for feed in feeds if isinstance(feed, dict)]
+
+    regional_feeds: list[dict[str, Any]] = []
+    regions = section.get("regions", {}) or {}
+    if isinstance(regions, dict):
+        for region_key, feeds_in_region in regions.items():
+            if not isinstance(feeds_in_region, list):
+                continue
+            for feed in feeds_in_region:
+                if not isinstance(feed, dict):
+                    continue
+                feed_copy = dict(feed)
+                feed_copy.setdefault("region", str(region_key))
+                regional_feeds.append(feed_copy)
+
+    return regional_feeds
+
+
 def build_section(section_key: str, section: dict[str, Any], config: dict[str, Any]) -> list[dict[str, Any]]:
     display = config.get("display", {})
     default_source_cap = get_int(display.get("default_source_cap"), DEFAULT_SOURCE_CAP)
@@ -127,7 +149,7 @@ def build_section(section_key: str, section: dict[str, Any], config: dict[str, A
 
     section_items: list[dict[str, Any]] = []
 
-    for feed in section.get("feeds", []):
+    for feed in iter_section_feeds(section):
         feed_name = feed.get("name", "Unknown Source")
         feed_url = feed.get("url")
         if not feed_url:
@@ -142,7 +164,9 @@ def build_section(section_key: str, section: dict[str, Any], config: dict[str, A
             print(f"[skip] source cap <= 0: {feed_name}")
             continue
 
-        print(f"[fetch] {feed_name}: {feed_url}")
+        region = feed.get("region")
+        region_suffix = f" [{region}]" if region else ""
+        print(f"[fetch] {feed_name}{region_suffix}: {feed_url}")
         try:
             items = fetch_feed(feed_name, feed_url, source_cap)
         except Exception as error:
