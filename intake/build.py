@@ -331,38 +331,20 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
 
     modules_html = "\n".join(part for part in [daily_postcard_html, daily_field_sample_html] if part)
     sections_html = "\n".join(section_parts)
-    feed_nav_inner_html = f"""
-<p class="kicker">On the shelf / 本日上架：</p>
-<nav class="category-nav">
-  {category_nav_html}
-</nav>
-<nav class="section-nav">
-  {section_nav_html}
-</nav>
-""".strip()
-
-    intake_nav_html = ""
-    if drawer_nav_html or category_nav_html:
-        drawer_group_html = ""
-        if drawer_nav_html:
-            drawer_group_html = f"""
-    <div class="drawer-nav-group">
-      <p class="kicker">Junk drawer / 杂物箱：</p>
-      <nav>
-        {drawer_nav_html}
-      </nav>
-    </div>
-""".rstrip()
-
-        intake_nav_html = f"""
-  <div class="shelf-nav feed-nav">
-{drawer_group_html}
-
-    <div class="nested-feed-nav">
-      {feed_nav_inner_html}
-    </div>
+    drawer_block_html = ""
+    if drawer_nav_html or modules_html:
+        drawer_block_html = f"""
+<section class="intake-block drawer-block">
+  <div class="shelf-nav drawer-nav">
+    <p class="kicker">Junk drawer / 杂物箱：</p>
+    <nav>
+      {drawer_nav_html}
+    </nav>
   </div>
-""".rstrip()
+
+  {modules_html}
+</section>
+""".strip()
 
     return f"""<!doctype html>
 <html lang="zh-CN">
@@ -476,18 +458,6 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
     .shelf-nav nav a {{
       flex: 0 0 auto;
       white-space: nowrap;
-    }}
-
-    .nested-feed-nav {{
-      margin-top: 24px;
-    }}
-
-    .feed-nav.shelf-only .drawer-nav-group {{
-      display: none;
-    }}
-
-    .feed-nav.shelf-only .nested-feed-nav {{
-      margin-top: 0;
     }}
 
     .section-nav {{
@@ -689,14 +659,20 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
 
     </header>
 
-    <section class="intake-block intake-content">
-{intake_nav_html}
+    {drawer_block_html}
 
-      {modules_html}
-
-      <div class="shelf-content">
-        {sections_html}
+    <section class="intake-block shelf-block">
+      <div class="shelf-nav feed-nav">
+        <p class="kicker">On the shelf / 本日上架：</p>
+        <nav class="category-nav">
+          {category_nav_html}
+        </nav>
+        <nav class="section-nav">
+          {section_nav_html}
+        </nav>
       </div>
+
+      {sections_html}
     </section>
 
     <footer>
@@ -709,28 +685,8 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
       const allNavs = Array.from(document.querySelectorAll(".shelf-nav nav"));
       const categoryLinks = Array.from(document.querySelectorAll(".category-nav a[data-category]"));
       const sectionLinks = Array.from(document.querySelectorAll(".section-nav a[data-parent-category]"));
-      const drawerLinks = Array.from(document.querySelectorAll(".drawer-nav-group a[href^='#']"));
+      const drawerLinks = Array.from(document.querySelectorAll(".drawer-nav a[href^='#']"));
       const trackedLinks = [...drawerLinks, ...sectionLinks];
-      const feedNav = document.querySelector(".feed-nav");
-      const shelfContent = document.querySelector(".shelf-content");
-      let shelfOnlyThreshold = Number.POSITIVE_INFINITY;
-
-      const recalcShelfOnlyThreshold = () => {{
-        if (!feedNav || !shelfContent) return;
-        const wasShelfOnly = feedNav.classList.contains("shelf-only");
-        feedNav.classList.remove("shelf-only");
-        const fullNavHeight = feedNav.offsetHeight;
-        shelfOnlyThreshold = shelfContent.getBoundingClientRect().top + window.scrollY - fullNavHeight - 1;
-        feedNav.classList.toggle("shelf-only", wasShelfOnly && window.scrollY >= shelfOnlyThreshold);
-      }};
-
-      const updateShelfOnly = () => {{
-        if (!feedNav || !shelfContent) return;
-        feedNav.classList.toggle("shelf-only", window.scrollY >= shelfOnlyThreshold);
-      }};
-
-      recalcShelfOnlyThreshold();
-      updateShelfOnly();
 
       const keepLinkVisible = (link) => {{
         const nav = link.closest("nav");
