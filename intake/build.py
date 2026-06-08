@@ -175,6 +175,81 @@ def render_article(item: dict[str, Any]) -> str:
 """.strip()
 
 
+def render_label(title: Any, title_zh: Any = "") -> str:
+    title_text = escape(title)
+    title_zh_text = escape(title_zh)
+    if title_text and title_zh_text:
+        return f"{title_text} / {title_zh_text}"
+    return title_text or title_zh_text
+
+
+def get_first_category_key(config: dict[str, Any]) -> str:
+    categories = config.get("categories", {}) or {}
+    for category_key in categories.keys():
+        return str(category_key)
+    return ""
+
+
+def get_first_section_for_category(category: dict[str, Any], sections: dict[str, Any]) -> str:
+    for section_key in category.get("sections", []) or []:
+        if section_key in sections:
+            return str(section_key)
+    return ""
+
+
+def render_drawer_nav(config: dict[str, Any], daily_postcard_html: str, daily_field_sample_html: str) -> str:
+    widgets = config.get("widgets", {}) or {}
+    parts: list[str] = []
+
+    if daily_postcard_html:
+        widget = widgets.get("postcard", {}) or {}
+        label = render_label(widget.get("title", "postcard"), widget.get("title_zh", "明信片"))
+        parts.append(f'<a href="#daily-postcard" data-drawer-item="daily-postcard">{label}</a>')
+
+    if daily_field_sample_html:
+        widget = widgets.get("daily_field_sample", {}) or {}
+        label = render_label(widget.get("title", "Daily Field Sample"), widget.get("title_zh", "今日野采样本"))
+        parts.append(f'<a href="#daily-field-sample" data-drawer-item="daily-field-sample">{label}</a>')
+
+    return "\n".join(parts)
+
+
+def render_category_nav(config: dict[str, Any]) -> str:
+    categories = config.get("categories", {}) or {}
+    sections = config.get("sections", {}) or {}
+    parts: list[str] = []
+
+    for category_key, category in categories.items():
+        first_section_key = get_first_section_for_category(category, sections)
+        href = f"#{escape(first_section_key)}" if first_section_key else "#"
+        label = render_label(category.get("title", category_key), category.get("title_zh", ""))
+        parts.append(
+            f'<a href="{href}" data-category="{escape(category_key)}">{label}</a>'
+        )
+
+    return "\n".join(parts)
+
+
+def render_section_nav(config: dict[str, Any]) -> str:
+    categories = config.get("categories", {}) or {}
+    sections = config.get("sections", {}) or {}
+    first_category_key = get_first_category_key(config)
+    parts: list[str] = []
+
+    for category_key, category in categories.items():
+        for section_key in category.get("sections", []) or []:
+            section = sections.get(section_key)
+            if not section:
+                continue
+            label = render_label(section.get("title", section_key), section.get("title_zh", ""))
+            hidden = "" if str(category_key) == first_category_key else " hidden"
+            parts.append(
+                f'<a href="#{escape(section_key)}" data-parent-category="{escape(category_key)}" data-section-key="{escape(section_key)}"{hidden}>{label}</a>'
+            )
+
+    return "\n".join(parts)
+
+
 def load_fragment(filename: str) -> str:
     fragment_path = DATA_DIR / filename
     if not fragment_path.exists():
@@ -191,11 +266,9 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
     daily_postcard_html = load_fragment("daily_postcard.html")
     daily_field_sample_html = load_fragment("daily_field_sample.html")
 
-    nav_parts: list[str] = []
-    if daily_postcard_html:
-        nav_parts.append('<a href="#daily-postcard">postcard / 明信片</a>')
-    if daily_field_sample_html:
-        nav_parts.append('<a href="#daily-field-sample">Daily Field Sample / 今日野采样本</a>')
+    drawer_nav_html = render_drawer_nav(config, daily_postcard_html, daily_field_sample_html)
+    category_nav_html = render_category_nav(config)
+    section_nav_html = render_section_nav(config)
 
     section_parts: list[str] = []
     for section_key, section in config.get("sections", {}).items():
@@ -204,11 +277,6 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
         section_description = escape(section.get("description", ""))
         section_description_zh = escape(section.get("description_zh", ""))
         items = sections_data.get(section_key, [])
-
-        nav_label = section_title
-        if section_title_zh:
-            nav_label = f"{section_title} / {section_title_zh}"
-        nav_parts.append(f'<a href="#{escape(section_key)}">{nav_label}</a>')
 
         article_parts = [render_article(item) for item in items]
         if not article_parts:
@@ -230,9 +298,22 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
 """.strip()
         )
 
-    nav_html = "\n".join(nav_parts)
     modules_html = "\n".join(part for part in [daily_postcard_html, daily_field_sample_html] if part)
     sections_html = "\n".join(section_parts)
+    drawer_block_html = ""
+    if drawer_nav_html or modules_html:
+        drawer_block_html = f"""
+<section class="intake-block drawer-block">
+  <div class="shelf-nav drawer-nav">
+    <p class="kicker">Junk drawer / 杂物箱：</p>
+    <nav>
+      {drawer_nav_html}
+    </nav>
+  </div>
+
+  {modules_html}
+</section>
+""".strip()
 
     return f"""<!doctype html>
 <html lang="zh-CN">
@@ -301,6 +382,10 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
       font-weight: 650;
     }}
 
+    .intake-block {{
+      position: relative;
+    }}
+
     .shelf-nav {{
       position: sticky;
       top: 0;
@@ -344,9 +429,27 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
       white-space: nowrap;
     }}
 
+    .section-nav {{
+      margin-top: 8px;
+    }}
+
+    .section-nav a {{
+      color: var(--muted);
+      font-size: 0.86rem;
+    }}
+
+    .section-nav a[hidden] {{
+      display: none;
+    }}
+
     nav a:hover,
     nav a[aria-current="true"] {{
       border-color: var(--site-green);
+    }}
+
+    .section-nav a:hover,
+    .section-nav a[aria-current="true"] {{
+      border-color: var(--muted);
     }}
 
     section {{
@@ -525,15 +628,21 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
 
     </header>
 
-    <div class="shelf-nav">
-      <p class="kicker">On the shelf / 本日上架：</p>
-      <nav>
-        {nav_html}
-      </nav>
-    </div>
+    {drawer_block_html}
 
-    {modules_html}
-    {sections_html}
+    <section class="intake-block shelf-block">
+      <div class="shelf-nav feed-nav">
+        <p class="kicker">On the shelf / 本日上架：</p>
+        <nav class="category-nav">
+          {category_nav_html}
+        </nav>
+        <nav class="section-nav">
+          {section_nav_html}
+        </nav>
+      </div>
+
+      {sections_html}
+    </section>
 
     <footer>
       <p>本页面由 GitHub Actions 每日生成，数据来自 RSS 与采样脚本。<a href="https://github.com/fivsevn-agy/fivsevn-devlog/tree/233c5bab2dba086446db83ee8e7b232b46c53a1a/intake">查看仓库</a></p>
@@ -542,30 +651,16 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
 
   <script>
     (() => {{
-      const shelf = document.querySelector(".shelf-nav");
-      if (!shelf) return;
-
-      const nav = shelf.querySelector("nav");
-      if (!nav) return;
-
-      const links = Array.from(nav.querySelectorAll('a[href^="#"]'));
-      const targets = links
-        .map((link) => {{
-          const href = link.getAttribute("href") || "";
-          const id = decodeURIComponent(href.slice(1));
-          const target = document.getElementById(id);
-          return target ? {{ id, link, target }} : null;
-        }})
-        .filter(Boolean);
-
-      if (!targets.length) return;
-
-      let currentId = "";
-      let ticking = false;
-
-      const getOffset = () => shelf.getBoundingClientRect().height + Math.min(180, window.innerHeight * 0.22);
+      const allNavs = Array.from(document.querySelectorAll(".shelf-nav nav"));
+      const categoryLinks = Array.from(document.querySelectorAll(".category-nav a[data-category]"));
+      const sectionLinks = Array.from(document.querySelectorAll(".section-nav a[data-parent-category]"));
+      const drawerLinks = Array.from(document.querySelectorAll(".drawer-nav a[href^='#']"));
+      const trackedLinks = [...drawerLinks, ...sectionLinks];
 
       const keepLinkVisible = (link) => {{
+        const nav = link.closest("nav");
+        if (!nav) return;
+
         const navRect = nav.getBoundingClientRect();
         const linkRect = link.getBoundingClientRect();
         const margin = 16;
@@ -575,17 +670,77 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
         }}
       }};
 
-      const setCurrent = (item) => {{
-        if (!item || item.id === currentId) return;
-        currentId = item.id;
+      const showCategorySections = (categoryKey) => {{
+        sectionLinks.forEach((link) => {{
+          link.hidden = link.dataset.parentCategory !== categoryKey;
+        }});
 
-        links.forEach((link) => link.removeAttribute("aria-current"));
-        item.link.setAttribute("aria-current", "true");
-        keepLinkVisible(item.link);
+        categoryLinks.forEach((link) => {{
+          if (link.dataset.category === categoryKey) {{
+            link.setAttribute("aria-current", "true");
+            keepLinkVisible(link);
+          }} else {{
+            link.removeAttribute("aria-current");
+          }}
+        }});
+      }};
+
+      const getCategoryForSection = (sectionId) => {{
+        const sectionLink = sectionLinks.find((link) => link.dataset.sectionKey === sectionId);
+        return sectionLink ? sectionLink.dataset.parentCategory : "";
+      }};
+
+      const setCurrentTrackedLink = (activeId) => {{
+        trackedLinks.forEach((link) => {{
+          const href = link.getAttribute("href") || "";
+          const id = decodeURIComponent(href.slice(1));
+          if (id === activeId) {{
+            link.setAttribute("aria-current", "true");
+            keepLinkVisible(link);
+          }} else {{
+            link.removeAttribute("aria-current");
+          }}
+        }});
+      }};
+
+      const targets = trackedLinks
+        .map((link) => {{
+          const href = link.getAttribute("href") || "";
+          const id = decodeURIComponent(href.slice(1));
+          const target = document.getElementById(id);
+          return target ? {{ id, link, target }} : null;
+        }})
+        .filter(Boolean);
+
+      if (!categoryLinks.length && !targets.length) return;
+
+      const initialCategory = categoryLinks[0]?.dataset.category;
+      if (initialCategory) showCategorySections(initialCategory);
+
+      categoryLinks.forEach((link) => {{
+        link.addEventListener("click", () => {{
+          const categoryKey = link.dataset.category;
+          if (categoryKey) showCategorySections(categoryKey);
+        }});
+      }});
+
+      let currentId = "";
+      let ticking = false;
+
+      const getOffset = () => {{
+        const visibleStickyHeights = allNavs
+          .map((nav) => nav.closest(".shelf-nav"))
+          .filter(Boolean)
+          .map((nav) => nav.getBoundingClientRect())
+          .filter((rect) => rect.top <= 1 && rect.bottom > 0)
+          .map((rect) => rect.height);
+        const stickyHeight = visibleStickyHeights.length ? Math.max(...visibleStickyHeights) : 0;
+        return stickyHeight + Math.min(180, window.innerHeight * 0.22);
       }};
 
       const updateCurrent = () => {{
         ticking = false;
+        if (!targets.length) return;
 
         const offset = getOffset();
         let active = targets[0];
@@ -598,7 +753,12 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
           }}
         }}
 
-        setCurrent(active);
+        if (!active || active.id === currentId) return;
+        currentId = active.id;
+        setCurrentTrackedLink(active.id);
+
+        const categoryKey = getCategoryForSection(active.id);
+        if (categoryKey) showCategorySections(categoryKey);
       }};
 
       const requestUpdate = () => {{

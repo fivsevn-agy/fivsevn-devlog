@@ -32,6 +32,63 @@ display:
     Hypebeast: 4
     Vogue: 4
     Gear Patrol: 3
+widgets:
+  postcard:
+    title: postcard
+    title_zh: 明信片
+  daily_field_sample:
+    title: Daily Field Sample
+    title_zh: 今日野采样本
+categories:
+  world:
+    title: world
+    title_zh: 世界
+    sections:
+    - world_society
+  thought:
+    title: thought
+    title_zh: 思想
+    sections:
+    - ideas
+  culture:
+    title: culture
+    title_zh: 文化
+    sections:
+    - books
+    - games
+    - arts_design
+    - fashion_style
+  humans:
+    title: humans
+    title_zh: 人类
+    sections:
+    - human_sciences
+    - mind
+  nature:
+    title: nature
+    title_zh: 自然
+    sections:
+    - science_news
+    - research
+    - natural_history
+    - marine_life
+    - mollusks
+    - arthropods
+  technology:
+    title: technology
+    title_zh: 技术
+    sections:
+    - ai_technology
+    - radio_hardware
+  material:
+    title: material
+    title_zh: 器物
+    sections:
+    - field_gear
+  margin:
+    title: margin
+    title_zh: 边缘
+    sections: []
 sections:
   world_society:
     title: world & society
