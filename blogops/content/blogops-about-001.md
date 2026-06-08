@@ -26,7 +26,7 @@ visibility: public
 source_of_truth: site
 
 created: 2026-02-19
-updated: 2026-03-01
+updated: 2026-06-08
 ---
 # 关于博客（About This Blog）
 
@@ -46,6 +46,7 @@ updated: 2026-03-01
 - 主题：
   - 个人生活记录
   - 学习笔记
+  - 实验性创作
 
 ---
 ## structure
@@ -55,11 +56,13 @@ fivsevn.com/
 ├─ front-page/    
    └─ links/
       ├─ posts/      # 个人笔记
-      ├─ foodie/     # 吃吃
-      ├─ natsci/     # 自然科学学习笔记
-      ├─ netcom/     # 通讯技术学习笔记
-      ├─ devlog/     # 后台日志
-      ├─ kiosk/      # 五月七日便利店
+      ├─ foodie/     # 吃吃速报
+      ├─ natsci/     # 自然科学笔记
+      ├─ netcom/     # 通讯技术笔记
+      ├─ stills/     # 静态影像存档
+      ├─ motion/     # 动态影像存档
+      ├─ devlog/     # 后台
+      ├─ 57store/      # 五月七日便利店
       ├─ nvesvif/    # ???
       └─ ???/
 
@@ -126,4 +129,4 @@ This work is licensed under CC BY-NC-SA 4.0.
 ---
 ## 联络方式
 
-- 📮 fivsevn0507@outlook.com
+- 📮 fivsevn57@outlook.com
