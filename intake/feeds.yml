@@ -85,10 +85,6 @@ categories:
     title_zh: 器物
     sections:
     - field_gear
-  margin:
-    title: margin
-    title_zh: 边缘
-    sections: []
 sections:
   world_society:
     title: world & society

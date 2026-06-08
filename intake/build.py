@@ -221,10 +221,12 @@ def render_category_nav(config: dict[str, Any]) -> str:
 
     for category_key, category in categories.items():
         first_section_key = get_first_section_for_category(category, sections)
-        href = f"#{escape(first_section_key)}" if first_section_key else "#"
+        if not first_section_key:
+            continue
+        href = f"#{escape(first_section_key)}"
         label = render_label(category.get("title", category_key), category.get("title_zh", ""))
         parts.append(
-            f'<a href="{href}" data-category="{escape(category_key)}">{label}</a>'
+            f'<a href="{href}" data-category="{escape(category_key)}" data-first-section="{escape(first_section_key)}">{label}</a>'
         )
 
     return "\n".join(parts)
@@ -270,6 +272,11 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
     category_nav_html = render_category_nav(config)
     section_nav_html = render_section_nav(config)
 
+    section_to_category: dict[str, str] = {}
+    for category_key, category in (config.get("categories", {}) or {}).items():
+        for mapped_section_key in category.get("sections", []) or []:
+            section_to_category[str(mapped_section_key)] = str(category_key)
+
     section_parts: list[str] = []
     for section_key, section in config.get("sections", {}).items():
         section_title = escape(section.get("title", section_key))
@@ -286,9 +293,10 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
         description_html = f"<p class='section-description'>{section_description}</p>" if section_description else ""
         description_zh_html = f"<p class='section-description-zh'>{section_description_zh}</p>" if section_description_zh else ""
 
+        section_category = escape(section_to_category.get(section_key, ""))
         section_parts.append(
             f"""
-<section id="{escape(section_key)}">
+<section id="{escape(section_key)}" data-section-category="{section_category}">
   <h2>{section_title}</h2>
   {title_zh_html}
   {description_html}
@@ -714,13 +722,50 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
 
       if (!categoryLinks.length && !targets.length) return;
 
-      const initialCategory = categoryLinks[0]?.dataset.category;
+      const initialHashId = decodeURIComponent((window.location.hash || "").slice(1));
+      const initialCategory = getCategoryForSection(initialHashId) || categoryLinks[0]?.dataset.category;
       if (initialCategory) showCategorySections(initialCategory);
 
+      const scrollToTargetId = (targetId) => {{
+        const target = document.getElementById(targetId);
+        if (!target) return;
+        target.scrollIntoView({{ behavior: "smooth", block: "start" }});
+        if (history.pushState) {{
+          history.pushState(null, "", `#${{encodeURIComponent(targetId)}}`);
+        }} else {{
+          window.location.hash = targetId;
+        }}
+      }};
+
       categoryLinks.forEach((link) => {{
-        link.addEventListener("click", () => {{
+        link.addEventListener("click", (event) => {{
           const categoryKey = link.dataset.category;
+          const firstSection = link.dataset.firstSection;
+          if (!categoryKey) return;
+
+          event.preventDefault();
+          showCategorySections(categoryKey);
+
+          const firstVisibleSectionLink = sectionLinks.find((sectionLink) => {{
+            return sectionLink.dataset.parentCategory === categoryKey && !sectionLink.hidden;
+          }});
+          const targetId = firstVisibleSectionLink?.dataset.sectionKey || firstSection;
+          if (targetId) {{
+            setCurrentTrackedLink(targetId);
+            scrollToTargetId(targetId);
+          }}
+        }});
+      }});
+
+      sectionLinks.forEach((link) => {{
+        link.addEventListener("click", (event) => {{
+          const targetId = link.dataset.sectionKey;
+          if (!targetId) return;
+          event.preventDefault();
+          const categoryKey = link.dataset.parentCategory;
           if (categoryKey) showCategorySections(categoryKey);
+          setCurrentTrackedLink(targetId);
+          scrollToTargetId(targetId);
         }});
       }});
 
