@@ -108,7 +108,7 @@ https://youtube.com/@57store.fivsevn
 https://youtu.be/l1IdOlvnx8U?si=IXnOSa4m6ibdkmMC
 ```
 
-#### 2.3.1 短视频
+#### 2.3.2 短视频
 
 - 视频直接生成的分享链接：
 
