@@ -277,8 +277,31 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
         for mapped_section_key in category.get("sections", []) or []:
             section_to_category[str(mapped_section_key)] = str(category_key)
 
+    def ordered_section_keys() -> list[str]:
+        sections = config.get("sections", {}) or {}
+        categories = config.get("categories", {}) or {}
+        ordered: list[str] = []
+        seen: set[str] = set()
+
+        for category in categories.values():
+            for section_key in category.get("sections", []) or []:
+                section_key = str(section_key)
+                if section_key in sections and section_key not in seen:
+                    ordered.append(section_key)
+                    seen.add(section_key)
+
+        # Fallback: preserve any legacy/uncategorized sections instead of dropping them.
+        for section_key in sections.keys():
+            if section_key not in seen:
+                ordered.append(section_key)
+                seen.add(section_key)
+
+        return ordered
+
     section_parts: list[str] = []
-    for section_key, section in config.get("sections", {}).items():
+    sections_config = config.get("sections", {}) or {}
+    for section_key in ordered_section_keys():
+        section = sections_config[section_key]
         section_title = escape(section.get("title", section_key))
         section_title_zh = escape(section.get("title_zh", ""))
         section_description = escape(section.get("description", ""))
