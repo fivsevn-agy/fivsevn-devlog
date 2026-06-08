@@ -106,7 +106,7 @@ sections:
         - name: DW News
           url: https://rss.dw.com/rdf/rss-en-all
         - name: Euronews
-          url: https://www.euronews.com/rss?level=2
+          url: https://www.euronews.com/rss?format=mrss&level=theme&name=news
       east_asia:
         - name: NHK News
           url: https://www3.nhk.or.jp/rss/news/cat0.xml
@@ -116,9 +116,9 @@ sections:
           url: https://www.scmp.com/rss/91/feed
       southeast_asia:
         - name: The Straits Times – Asia
-          url: https://www.straitstimes.com/asia/rss.xml
+          url: https://www.straitstimes.com/news/asia/rss.xml
         - name: Channel News Asia – Asia
-          url: https://www.channelnewsasia.com/rssfeeds/8395986
+          url: https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6511
       china:
         - name: Caixin (财新网)
           url: https://rsshub.app/caixin/latest
@@ -133,7 +133,7 @@ sections:
           url: https://www.telesurenglish.net/rss
       africa:
         - name: AllAfrica
-          url: https://allafrica.com/tools/headlines/rss.xml
+          url: https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf
   ideas:
     title: ideas
     title_zh: 思想
