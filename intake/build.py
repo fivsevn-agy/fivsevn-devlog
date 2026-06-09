@@ -98,12 +98,29 @@ def escape(value: Any) -> str:
     return html.escape(str(value), quote=True).strip()
 
 
+SUMMARY_CHAR_CAP = 1100
+
+
 def strip_html(value: str) -> str:
     if not value:
         return ""
     value = re.sub(r"<[^>]+>", " ", value)
     value = re.sub(r"\s+", " ", value)
     return value.strip()
+
+
+def clamp_summary(value: str) -> str:
+    value = re.sub(r"\s+", " ", value or "").strip()
+    if not value:
+        return ""
+    if len(value) <= SUMMARY_CHAR_CAP:
+        return value
+
+    cut = value[:SUMMARY_CHAR_CAP].rstrip()
+    sentence_end = max(cut.rfind("."), cut.rfind("。"), cut.rfind("!"), cut.rfind("?"))
+    if sentence_end >= int(SUMMARY_CHAR_CAP * 0.55):
+        return cut[:sentence_end + 1]
+    return cut.rstrip(" ,;:，；：") + "…"
 
 
 def parse_entry_date(entry: Any) -> datetime:
@@ -164,7 +181,7 @@ def fetch_feed(feed_name: str, feed_url: str, limit: int = DEFAULT_SOURCE_CAP) -
         seen_links.add(normalized_link)
 
         raw_summary = entry.get("summary", "") or entry.get("description", "")
-        summary = strip_html(raw_summary)
+        summary = clamp_summary(strip_html(raw_summary))
         published_dt = parse_entry_date(entry)
 
         items.append(
