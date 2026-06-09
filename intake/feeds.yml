@@ -19,7 +19,10 @@ display:
     games: 10
     arts_design: 10
     fashion_style: 10
-    field_gear: 12
+    field_gear: 10
+    everyday_carry: 8
+    tools_workshop: 10
+    repair_maintenance: 8
     public_ideas: 10
     scholarly_ideas: 10
     civilizational_critique: 8
@@ -38,6 +41,11 @@ display:
     Hypebeast: 4
     Vogue: 4
     Gear Patrol: 3
+    Carryology: 3
+    "Make:": 3
+    Core77: 3
+    KnifeNews: 2
+    BLADE Magazine Knife News: 2
     The Point: 3
     The Hedgehog Review: 3
     Hyperallergic: 3
@@ -111,6 +119,9 @@ categories:
     title_zh: 器物
     sections:
     - field_gear
+    - everyday_carry
+    - tools_workshop
+    - repair_maintenance
 sections:
   world_society:
     title: world & society
@@ -568,29 +579,66 @@ sections:
   field_gear:
     title: field gear
     title_zh: 野外装备
-    description: Outdoor equipment, carry systems, knives, tactical material culture, camping hardware, and field-use objects.
-    description_zh: 户外装备、携行系统、刀具、战术器物文化、露营硬件与野外使用物。
+    description: Outdoor equipment, carry systems, camping hardware, field-use tools, packs, shelters, and expedition objects.
+    description_zh: 户外装备、携行系统、露营硬件、野外工具、背包、庇护装备与远行器物。
     feeds:
-    - name: Gear Patrol
-      url: https://www.gearpatrol.com/rss/
     - name: OutdoorGearLab
       url: https://www.outdoorgearlab.com/feed
     - name: SectionHiker
       url: https://sectionhiker.com/feed/
-    - name: Carryology
-      url: https://www.carryology.com/feed/
     - name: Field Mag
       url: https://www.fieldmag.com/rss
+    - name: Bikepacking.com
+      url: https://bikepacking.com/feed/
+    - name: Gear Patrol
+      url: https://www.gearpatrol.com/rss/
     - name: KnifeNews
       url: https://knifenews.com/feed/
     - name: BLADE Magazine Knife News
       url: https://blademag.com/knife-news/feed
-    - name: Soldier Systems Daily
-      url: https://soldiersystems.net/feed/
-    - name: The Firearm Blog
-      url: https://www.thefirearmblog.com/blog/feed/
-    - name: RECOIL
-      url: https://www.recoilweb.com/feed
+  everyday_carry:
+    title: everyday carry
+    title_zh: 日用携行
+    description: Everyday carry, bags, organizers, portable tools, carry systems, wallets, utility objects, and practical personal gear.
+    description_zh: 日用携行、包具、收纳、便携工具、携带系统、钱包、实用小物与个人装备。
+    feeds:
+    - name: Carryology
+      url: https://www.carryology.com/feed/
+    - name: Everyday Carry
+      url: https://everydaycarry.com/
+      type: link
+    - name: Best Damn EDC
+      url: https://www.bestdamnedc.com/
+      type: link
+  tools_workshop:
+    title: tools & workshop
+    title_zh: 工具与工坊
+    description: Hand tools, workshop practice, making, fabrication, tool culture, hardware, and practical object knowledge.
+    description_zh: 手工具、工坊实践、制作、加工、工具文化、五金与实用器物知识。
+    feeds:
+    - name: "Make:"
+      url: https://makezine.com/feed/
+    - name: Core77
+      url: https://www.core77.com/rss
+    - name: Cool Tools
+      url: https://kk.org/cooltools/
+      type: link
+    - name: Low-Tech Magazine
+      url: https://solar.lowtechmagazine.com/feeds/all-en.atom.xml
+  repair_maintenance:
+    title: repair & maintenance
+    title_zh: 维修与维护
+    description: Repair culture, maintenance, right-to-repair, durable objects, manuals, reuse, and practical care of things.
+    description_zh: 维修文化、维护、维修权、耐用物、手册、再利用与物品照护实践。
+    feeds:
+    - name: iFixit News
+      url: https://www.ifixit.com/News/feed
+    - name: Repair.org
+      url: https://www.repair.org/
+      type: link
+    - name: The Restart Project
+      url: https://therestartproject.org/
+      type: link
 disabled_feeds:
 - name: Contexts
   url: https://contexts.org/feed/
