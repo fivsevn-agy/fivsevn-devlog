@@ -79,8 +79,8 @@ categories:
     title: world
     title_zh: 世界
     sections:
-    - world_society
     - media_lens
+    - world_society
   ideas:
     title: ideas
     title_zh: 观念
@@ -112,13 +112,13 @@ categories:
     sections:
     - science_news
     - research
+    - natural_history
     - ecology_conservation
     - animal_behavior
-    - plants_fungi
-    - natural_history
     - marine_life
     - mollusks
     - arthropods
+    - plants_fungi
   technology:
     title: technology
     title_zh: 技术
