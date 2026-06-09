@@ -64,21 +64,17 @@ def get_section_regions(config: dict[str, Any], section_key: str, section: dict[
     return {}
 
 
-def is_explicit_link_source(feed: dict[str, Any]) -> bool:
-    feed_type = str(feed.get("type", "")).strip().lower()
-    return feed_type in {"link", "url", "homepage", "page"}
+def get_source_urls(feed: dict[str, Any]) -> tuple[str, str]:
+    """Return the machine-readable feed URL and the human-facing site URL."""
+    feed_url = str(feed.get("feed_url") or "").strip()
+    site_url = str(feed.get("site_url") or "").strip()
+    return feed_url, site_url
 
 
-def looks_like_feed_url(feed_url: str) -> bool:
-    value = feed_url.lower()
-    feed_markers = ("rss", "atom", "rdf", "feed", "xml")
-    return any(marker in value for marker in feed_markers)
-
-
-def make_link_source_item(feed_name: str, feed_url: str) -> dict[str, Any]:
+def make_link_source_item(feed_name: str, site_url: str) -> dict[str, Any]:
     return {
         "title": feed_name,
-        "link": feed_url,
+        "link": site_url,
         "summary": "Source homepage / 来源主页",
         "source": "URL-only source / 仅网址源",
         "published_dt": datetime.now(timezone.utc),
@@ -234,8 +230,9 @@ def build_section(section_key: str, section: dict[str, Any], config: dict[str, A
 
     for feed in iter_section_feeds(section_key, section, config):
         feed_name = feed.get("name", "Unknown Source")
-        feed_url = feed.get("url")
-        if not feed_url:
+        feed_url, site_url = get_source_urls(feed)
+        if not site_url:
+            print(f"[skip] missing site_url: {feed_name}")
             continue
 
         if feed_name in disabled_feed_names:
@@ -250,21 +247,21 @@ def build_section(section_key: str, section: dict[str, Any], config: dict[str, A
         region = feed.get("region")
         region_suffix = f" [{region}]" if region else ""
 
-        if is_explicit_link_source(feed):
-            print(f"[link] {feed_name}{region_suffix}: {feed_url}")
-            items = [make_link_source_item(feed_name, feed_url)]
+        if not feed_url:
+            print(f"[link] no feed_url; rendering source link: {feed_name}{region_suffix}: {site_url}")
+            items = [make_link_source_item(feed_name, site_url)]
         else:
             print(f"[fetch] {feed_name}{region_suffix}: {feed_url}")
             try:
                 items = fetch_feed(feed_name, feed_url, source_cap)
             except Exception as error:
                 print(f"[error] failed to fetch {feed_name}: {error}")
-                print(f"[link] fetch failed; rendering source link: {feed_name}")
-                items = [make_link_source_item(feed_name, str(feed_url))]
+                print(f"[link] fetch failed; rendering source link: {feed_name}: {site_url}")
+                items = [make_link_source_item(feed_name, site_url)]
 
             if not items:
-                print(f"[link] no RSS entries returned; rendering source link: {feed_name}")
-                items = [make_link_source_item(feed_name, str(feed_url))]
+                print(f"[link] no RSS entries returned; rendering source link: {feed_name}: {site_url}")
+                items = [make_link_source_item(feed_name, site_url)]
 
         print(f"[items] {feed_name}: {len(items)}")
         if region:
