@@ -6,6 +6,13 @@ display:
   default_source_cap: 4
   section_caps:
     world_society: 18
+    prices_markets: 12
+    energy_resources: 10
+    food_agriculture_markets: 10
+    housing_living_costs: 8
+    supply_chains_trade: 10
+    industry_business: 10
+    money_finance: 8
     books: 10
     mind: 8
     science_news: 12
@@ -86,6 +93,17 @@ categories:
     sections:
     - media_lens
     - world_society
+  economy:
+    title: economy
+    title_zh: 经济
+    sections:
+    - prices_markets
+    - energy_resources
+    - food_agriculture_markets
+    - housing_living_costs
+    - supply_chains_trade
+    - industry_business
+    - money_finance
   ideas:
     title: ideas
     title_zh: 观念
@@ -287,6 +305,136 @@ sections:
       type: link
     - name: Mediagazer
       url: https://www.mediagazer.com/
+      type: link
+  prices_markets:
+    title: prices & markets
+    title_zh: 价格与市场
+    description: Commodity prices, market movements, inflation signals, raw materials, exchange-sensitive goods, and the changing price map of everyday and industrial life.
+    description_zh: 商品价格、市场变化、通胀信号、原材料、受汇率影响的商品，以及日常生活与工业系统中的价格地图。
+    feeds:
+    - name: World Bank Commodity Markets
+      url: https://www.worldbank.org/en/research/commodity-markets
+      type: link
+    - name: IMF Primary Commodity Prices
+      url: https://www.imf.org/en/research/commodity-prices
+      type: link
+    - name: FRED Commodities
+      url: https://fred.stlouisfed.org/categories/32217
+      type: link
+    - name: Trading Economics Commodities
+      url: https://tradingeconomics.com/commodities
+      type: link
+    - name: Investing.com Commodities
+      url: https://www.investing.com/commodities/
+      type: link
+  energy_resources:
+    title: energy & resources
+    title_zh: 能源与资源
+    description: Oil, gas, electricity, coal, uranium, critical minerals, refining, utilities, energy infrastructure, and resource-price shocks.
+    description_zh: 石油、天然气、电力、煤炭、铀、关键矿物、炼化、公用事业、能源基础设施与资源价格冲击。
+    feeds:
+    - name: EIA Today in Energy
+      url: https://www.eia.gov/rss/todayinenergy.xml
+    - name: EIA What's New
+      url: https://www.eia.gov/rss/news.xml
+    - name: IEA News
+      url: https://www.iea.org/news
+      type: link
+    - name: Oilprice.com
+      url: https://oilprice.com/rss/main
+    - name: Reuters Energy
+      url: https://www.reuters.com/business/energy/
+      type: link
+  food_agriculture_markets:
+    title: food & agriculture markets
+    title_zh: 食物与农业市场
+    description: Food prices, grains, livestock, fisheries, coffee, cocoa, sugar, fertilizers, weather shocks, harvests, and agricultural trade.
+    description_zh: 食品价格、谷物、畜牧、水产、咖啡、可可、糖、化肥、天气冲击、收成与农业贸易。
+    feeds:
+    - name: FAO Food Price Index
+      url: https://www.fao.org/worldfoodsituation/foodpricesindex/en/
+      type: link
+    - name: FAO Food Price Monitoring
+      url: https://www.fao.org/giews/food-prices/home/en/
+      type: link
+    - name: USDA ERS
+      url: https://www.ers.usda.gov/
+      type: link
+    - name: USDA WASDE
+      url: https://www.usda.gov/oce/commodity/wasde
+      type: link
+    - name: Food Business News
+      url: https://www.foodbusinessnews.net/rss
+    - name: World Grain
+      url: https://www.world-grain.com/rss
+  housing_living_costs:
+    title: housing & living costs
+    title_zh: 居住与生活成本
+    description: Rent, housing prices, utilities, insurance, transport costs, household expenses, wages, inflation, and the everyday cost of living.
+    description_zh: 租金、房价、水电气、保险、交通成本、家庭支出、工资、通胀与日常生活成本。
+    feeds:
+    - name: BLS CPI Average Prices
+      url: https://www.bls.gov/cpi/factsheets/average-prices.htm
+      type: link
+    - name: FRED CPI
+      url: https://fred.stlouisfed.org/categories/9
+      type: link
+    - name: Zillow Research
+      url: https://www.zillow.com/research/feed/
+    - name: Apartment List Research
+      url: https://www.apartmentlist.com/research/feed
+    - name: Numbeo Cost of Living
+      url: https://www.numbeo.com/cost-of-living/
+      type: link
+  supply_chains_trade:
+    title: supply chains & trade
+    title_zh: 供应链与贸易
+    description: Shipping, ports, freight rates, logistics, manufacturing bottlenecks, trade flows, tariffs, export controls, and supply-chain disruptions.
+    description_zh: 航运、港口、运价、物流、制造瓶颈、贸易流、关税、出口管制与供应链中断。
+    feeds:
+    - name: FreightWaves
+      url: https://www.freightwaves.com/news/feed
+    - name: The Loadstar
+      url: https://theloadstar.com/feed/
+    - name: gCaptain
+      url: https://gcaptain.com/feed/
+    - name: Supply Chain Dive
+      url: https://www.supplychaindive.com/feeds/news/
+    - name: Port Technology
+      url: https://www.porttechnology.org/feed/
+  industry_business:
+    title: industry & business
+    title_zh: 产业与商业
+    description: Companies, retail, manufacturing, consumer industries, business models, pricing power, market structure, and industrial change.
+    description_zh: 公司、零售、制造业、消费产业、商业模式、定价权、市场结构与产业变化。
+    feeds:
+    - name: Marketplace
+      url: https://www.marketplace.org/feed/
+    - name: Retail Dive
+      url: https://www.retaildive.com/feeds/news/
+    - name: Modern Retail
+      url: https://www.modernretail.co/feed/
+    - name: Business of Fashion
+      url: https://www.businessoffashion.com/arc/outboundfeeds/rss/?outputType=xml
+    - name: Harvard Business Review
+      url: https://hbr.org/rss
+  money_finance:
+    title: money & finance
+    title_zh: 货币与金融
+    description: Interest rates, central banks, currencies, banking, credit, financial markets, and the monetary conditions behind prices and economic life.
+    description_zh: 利率、央行、汇率、银行、信贷、金融市场，以及价格与经济生活背后的货币条件。
+    feeds:
+    - name: Bank for International Settlements
+      url: https://www.bis.org/list/press_releases/index.rss
+    - name: IMF Blog
+      url: https://www.imf.org/en/Blogs/RSS
+    - name: Federal Reserve Press Releases
+      url: https://www.federalreserve.gov/feeds/press_all.xml
+    - name: Financial Times Markets
+      url: https://www.ft.com/markets
+      type: link
+    - name: Reuters Markets
+      url: https://www.reuters.com/markets/
       type: link
   public_ideas:
     title: public ideas
