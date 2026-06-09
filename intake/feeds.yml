@@ -6,9 +6,7 @@ display:
   default_source_cap: 4
   section_caps:
     world_society: 18
-    ideas: 10
     books: 10
-    human_sciences: 10
     mind: 8
     science_news: 12
     research: 14
@@ -22,6 +20,10 @@ display:
     arts_design: 10
     fashion_style: 10
     field_gear: 12
+    public_ideas: 10
+    scholarly_ideas: 10
+    civilizational_critique: 8
+    human_societies: 10
   source_caps:
     DW News: 5
     The Guardian World: 5
@@ -32,6 +34,16 @@ display:
     Hypebeast: 4
     Vogue: 4
     Gear Patrol: 3
+    The Point: 3
+    The Hedgehog Review: 3
+    Hyperallergic: 3
+    ARTnews: 3
+    The Art Newspaper: 3
+    Highsnobiety: 4
+    Internet Archive Blog: 3
+    Internet Archive Books: 3
+    PC Gamer: 3
+    APA News: 3
 widgets:
   postcard:
     title: postcard
@@ -45,24 +57,26 @@ categories:
     title_zh: 世界
     sections:
     - world_society
-  thought:
-    title: thought
-    title_zh: 思想
+  ideas:
+    title: ideas
+    title_zh: 观念
     sections:
-    - ideas
-  culture:
-    title: culture
-    title_zh: 文化
+    - public_ideas
+    - scholarly_ideas
+    - civilizational_critique
+  cultural_forms:
+    title: cultural forms
+    title_zh: 文化形式
     sections:
     - books
-    - games
     - arts_design
+    - games
     - fashion_style
-  humans:
-    title: humans
-    title_zh: 人类
+  human_studies:
+    title: human studies
+    title_zh: 人类研究
     sections:
-    - human_sciences
+    - human_societies
     - mind
   nature:
     title: nature
@@ -194,66 +208,99 @@ sections:
         type: link
       - name: Africanews
         url: https://www.africanews.com/feed/rss
-  ideas:
-    title: ideas
-    title_zh: 思想
-    description: Essays, philosophy, intellectual history, reflective magazines, and speculative thinking.
-    description_zh: 随笔、哲学、思想史、反思性杂志与推测性思考。
+  public_ideas:
+    title: public ideas
+    title_zh: 公共观念
+    description: Public-facing essays, reflective magazines, philosophical writing, cultural criticism, and speculative thinking.
+    description_zh: 面向公众的思想随笔、反思性杂志、哲学写作、文化评论与推测性思考。
     feeds:
     - name: Aeon
       url: https://aeon.co/feed.rss
-    - name: The Marginalian
-      url: https://www.themarginalian.org/feed/
-    - name: JSTOR Daily
-      url: https://daily.jstor.org/feed/
     - name: Noema Magazine
       url: https://www.noemamag.com/feed/
+    - name: The Marginalian
+      url: https://www.themarginalian.org/feed/
+  scholarly_ideas:
+    title: scholarly ideas
+    title_zh: 学术观念
+    description: Research-informed essays, intellectual history, humanities commentary, and scholarly public writing.
+    description_zh: 研究驱动的随笔、思想史、人文学科评论与学术公共写作。
+    feeds:
+    - name: JSTOR Daily
+      url: https://daily.jstor.org/feed/
+    - name: Public Books
+      url: https://www.publicbooks.org/feed/
+    - name: LSE Review of Books
+      url: https://blogs.lse.ac.uk/lsereviewofbooks/feed/
+  civilizational_critique:
+    title: civilizational critique
+    title_zh: 文明批评
+    description: Essays on modernity, technology, institutions, science, politics, and the conditions of contemporary life.
+    description_zh: 关于现代性、技术、制度、科学、政治与当代生活条件的评论与长文。
+    feeds:
+    - name: The New Atlantis
+      url: https://www.thenewatlantis.com/
+      type: link
+    - name: The Point
+      url: https://thepointmag.com/
+      type: link
+    - name: The Hedgehog Review
+      url: https://hedgehogreview.com/
+      type: link
   books:
     title: books
     title_zh: 书籍
     description: Books, publishing, libraries, archives, reviews, literary criticism, and reading culture.
     description_zh: 书籍、出版、图书馆、档案、书评、文学批评与阅读文化。
     feeds:
+    - name: New York Review of Books
+      url: https://www.nybooks.com/feed/
     - name: LARB
       url: https://lareviewofbooks.org/feed/
     - name: Bookforum
       url: https://www.bookforum.com/feed
-    - name: New York Review of Books
-      url: https://www.nybooks.com/feed/
-    - name: Public Books
-      url: https://www.publicbooks.org/feed/
-    - name: LSE Review of Books
-      url: https://blogs.lse.ac.uk/lsereviewofbooks/feed/
     - name: Internet Archive Blog
       url: https://blog.archive.org/feed/
     - name: Internet Archive Books
       url: https://blog.archive.org/category/books/feed/
-  human_sciences:
-    title: human sciences
-    title_zh: 人类科学
-    description: Anthropology, sociology, culture, institutions, ethnography, medicine, and social life.
-    description_zh: 人类学、社会学、文化、制度、民族志、医学与社会生活。
+  human_societies:
+    title: human societies
+    title_zh: 人类社会
+    description: Anthropology, sociology, institutions, ethnography, medicine, public life, and social worlds.
+    description_zh: 人类学、社会学、制度、民族志、医学、公共生活与社会世界。
     feeds:
     - name: SAPIENS
       url: https://www.sapiens.org/feed/
-    - name: Anthropology News
-      url: https://www.anthropology-news.org/feed/
     - name: Somatosphere
       url: http://somatosphere.net/feed/
+    - name: Anthropology News
+      url: https://www.anthropology-news.org/feed/
     - name: The Society Pages
       url: https://thesocietypages.org/feed/
+    - name: Society for Cultural Anthropology
+      url: https://culanth.org/
+      type: link
+    - name: Allegra Lab
+      url: https://allegralaboratory.net/
+      type: link
+    - name: Annual Reviews Magazine
+      url: https://www.annualreviews.org/magazine
+      type: link
   mind:
     title: mind
     title_zh: 心智
     description: Psychology, cognition, behavior, mental life, emotion, and practical reflection.
     description_zh: 心理学、认知、行为、心理生活、情绪与实践性反思。
     feeds:
+    - name: Psyche
+      url: https://psyche.co/feed
     - name: BPS Research Digest
       url: https://www.bps.org.uk/research-digest/rss.xml
     - name: APA News
       url: https://www.apa.org/news/rss
-    - name: Psyche
-      url: https://psyche.co/feed
+    - name: Mind & Life Institute
+      url: https://www.mindandlife.org/
+      type: link
   science_news:
     title: science news
     title_zh: 科学新闻
@@ -404,16 +451,16 @@ sections:
     title: games
     title_zh: 游戏
     description: Video games, game culture, criticism, platforms, studios, development, and interactive media.
-    description_zh: 电子游戏、游戏文化、评论、平台、工作室、开发与互动媒体。
+    description_zh: 电子游戏、游戏文化、评论、平台、工作室、开发与互动媒介。
     feeds:
-    - name: Polygon
-      url: https://www.polygon.com/rss/index.xml
-    - name: Eurogamer
-      url: https://www.eurogamer.net/feed
-    - name: Rock Paper Shotgun
-      url: https://www.rockpapershotgun.com/feed
     - name: Game Developer
       url: https://www.gamedeveloper.com/rss.xml
+    - name: Rock Paper Shotgun
+      url: https://www.rockpapershotgun.com/feed
+    - name: Eurogamer
+      url: https://www.eurogamer.net/feed
+    - name: Polygon
+      url: https://www.polygon.com/rss/index.xml
     - name: PC Gamer
       url: https://www.pcgamer.com/rss/
   arts_design:
@@ -422,26 +469,26 @@ sections:
     description: Art, criticism, museums, visual culture, contemporary aesthetics, exhibitions, and design-adjacent culture.
     description_zh: 艺术、批评、博物馆、视觉文化、当代审美、展览与设计相关文化。
     feeds:
-    - name: Hyperallergic
-      url: https://hyperallergic.com/feed/
-    - name: The Art Newspaper
-      url: https://www.theartnewspaper.com/rss.xml
-    - name: ArtReview
-      url: https://artreview.com/feed/
-    - name: ARTnews
-      url: https://www.artnews.com/feed/
     - name: e-flux
       url: https://www.e-flux.com/rss/
+    - name: ArtReview
+      url: https://artreview.com/feed/
+    - name: The Art Newspaper
+      url: https://www.theartnewspaper.com/rss.xml
+    - name: Hyperallergic
+      url: https://hyperallergic.com/feed/
+    - name: ARTnews
+      url: https://www.artnews.com/feed/
   fashion_style:
     title: fashion & style
     title_zh: 时尚与风格
     description: Fashion, style, garments, runway culture, streetwear, retail, and contemporary taste-making.
     description_zh: 时尚、风格、服装、秀场文化、街头服饰、零售与当代趣味生产。
     feeds:
-    - name: Vogue
-      url: https://www.vogue.com/feed/rss
     - name: Business of Fashion
       url: https://www.businessoffashion.com/arc/outboundfeeds/rss/?outputType=xml
+    - name: Vogue
+      url: https://www.vogue.com/feed/rss
     - name: Hypebeast
       url: https://hypebeast.com/feed
     - name: Highsnobiety
@@ -475,6 +522,6 @@ sections:
 disabled_feeds:
 - name: Contexts
   url: https://contexts.org/feed/
-  former_section: human_sciences
+  former_section: human_societies
   reason: 'Quarantined: rendered intake page shows repeated casino/gambling spam from this feed. Re-enable only after the
     upstream feed is clean or a keyword/domain filter is added.'
