@@ -61,7 +61,7 @@ display:
     Vogue: 4
     Gear Patrol: 3
     Carryology: 3
-    "Make:": 3
+    'Make:': 3
     Core77: 3
     KnifeNews: 2
     BLADE Magazine Knife News: 2
@@ -170,106 +170,128 @@ sections:
     regions:
       global:
       - name: BBC World
-        url: https://feeds.bbci.co.uk/news/world/rss.xml
+        feed_url: https://feeds.bbci.co.uk/news/world/rss.xml
+        site_url: https://www.bbc.com/news/world
       - name: The Guardian World
-        url: https://www.theguardian.com/world/rss
+        feed_url: https://www.theguardian.com/world/rss
+        site_url: https://www.theguardian.com/world
       - name: Al Jazeera
-        url: https://www.aljazeera.com/xml/rss/all.xml
+        feed_url: https://www.aljazeera.com/xml/rss/all.xml
+        site_url: https://www.aljazeera.com/
       - name: International Crisis Group
-        url: https://www.crisisgroup.org/rss.xml
+        feed_url: https://www.crisisgroup.org/rss.xml
+        site_url: https://www.crisisgroup.org/
       - name: Reuters World
-        url: https://www.reuters.com/world/
-        type: link
+        feed_url:
+        site_url: https://www.reuters.com/world/
       - name: AP World
-        url: https://apnews.com/hub/world-news
-        type: link
+        feed_url:
+        site_url: https://apnews.com/hub/world-news
       north_america:
       - name: AP U.S. News
-        url: https://apnews.com/hub/us-news
-        type: link
+        feed_url:
+        site_url: https://apnews.com/hub/us-news
       - name: Reuters U.S.
-        url: https://www.reuters.com/world/us/
-        type: link
+        feed_url:
+        site_url: https://www.reuters.com/world/us/
       - name: CBC World
-        url: https://www.cbc.ca/news/world
-        type: link
+        feed_url:
+        site_url: https://www.cbc.ca/news/world
       europe:
       - name: DW News
-        url: https://rss.dw.com/rdf/rss-en-all
+        feed_url: https://rss.dw.com/rdf/rss-en-all
+        site_url: https://www.dw.com/en/top-stories/s-9097
       - name: Euronews
-        url: https://www.euronews.com/rss?format=mrss&level=theme&name=news
+        feed_url: https://www.euronews.com/rss?format=mrss&level=theme&name=news
+        site_url: https://www.euronews.com/news
       - name: Le Monde English – Europe
-        url: https://www.lemonde.fr/en/europe/rss_full.xml
+        feed_url: https://www.lemonde.fr/en/europe/rss_full.xml
+        site_url: https://www.lemonde.fr/en/europe/
       - name: POLITICO Europe
-        url: https://www.politico.eu/
-        type: link
+        feed_url:
+        site_url: https://www.politico.eu/
       east_asia:
       - name: NHK News
-        url: https://www3.nhk.or.jp/rss/news/cat0.xml
+        feed_url: https://www3.nhk.or.jp/rss/news/cat0.xml
+        site_url: https://www3.nhk.or.jp/news/
       - name: The Japan Times
-        url: https://www.japantimes.co.jp/feed/
+        feed_url: https://www.japantimes.co.jp/feed/
+        site_url: https://www.japantimes.co.jp/
       - name: SCMP China
-        url: https://www.scmp.com/rss/4/feed
+        feed_url: https://www.scmp.com/rss/4/feed
+        site_url: https://www.scmp.com/news/china
       - name: Korea Herald
-        url: https://www.koreaherald.com/
-        type: link
+        feed_url:
+        site_url: https://www.koreaherald.com/
       southeast_asia:
       - name: The Straits Times – Asia
-        url: https://www.straitstimes.com/news/asia/rss.xml
+        feed_url: https://www.straitstimes.com/news/asia/rss.xml
+        site_url: https://www.straitstimes.com/asia
       - name: Channel News Asia – Asia
-        url: https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6511
+        feed_url: https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6511
+        site_url: https://www.channelnewsasia.com/asia
       - name: The Diplomat – Southeast Asia
-        url: https://thediplomat.com/category/regions/southeast-asia/
-        type: link
+        feed_url:
+        site_url: https://thediplomat.com/category/regions/southeast-asia/
       china:
       - name: Caixin
-        url: https://www.caixin.com/
-        type: link
+        feed_url:
+        site_url: https://www.caixin.com/
       - name: Caixin Weekly
-        url: https://weekly.caixin.com/
-        type: link
+        feed_url:
+        site_url: https://weekly.caixin.com/
       south_asia:
       - name: The Hindu
-        url: https://www.thehindu.com/news/international/feeder/default.rss
+        feed_url: https://www.thehindu.com/news/international/feeder/default.rss
+        site_url: https://www.thehindu.com/news/international/
       - name: Dawn
-        url: https://www.dawn.com/feeds/home
+        feed_url: https://www.dawn.com/feeds/home
+        site_url: https://www.dawn.com/
       - name: Scroll.in
-        url: https://scroll.in/latest/rss
+        feed_url: https://scroll.in/latest/rss
+        site_url: https://scroll.in/latest
       - name: The Times of India
-        url: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+        feed_url: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+        site_url: https://timesofindia.indiatimes.com/
       middle_east:
       - name: Al-Monitor
-        url: https://www.al-monitor.com/rss
+        feed_url: https://www.al-monitor.com/rss
+        site_url: https://www.al-monitor.com/
       - name: Middle East Eye
-        url: https://www.middleeasteye.net/rss
+        feed_url: https://www.middleeasteye.net/rss
+        site_url: https://www.middleeasteye.net/
       - name: L’Orient Today
-        url: https://today.lorientlejour.com/
-        type: link
+        feed_url:
+        site_url: https://today.lorientlejour.com/
       - name: Crisis Group – Middle East & North Africa
-        url: https://www.crisisgroup.org/middle-east-north-africa
-        type: link
+        feed_url:
+        site_url: https://www.crisisgroup.org/middle-east-north-africa
       latin_america:
       - name: El País América
-        url: https://elpais.com/america/
-        type: link
+        feed_url:
+        site_url: https://elpais.com/america/
       - name: Americas Quarterly
-        url: https://www.americasquarterly.org/
-        type: link
+        feed_url:
+        site_url: https://www.americasquarterly.org/
       - name: NACLA
-        url: https://nacla.org/
-        type: link
+        feed_url:
+        site_url: https://nacla.org/
       - name: Latinvex
-        url: https://latinvex.com/latinvex-rss/
+        feed_url: https://latinvex.com/latinvex-rss/
+        site_url: https://latinvex.com/
       africa:
       - name: AllAfrica
-        url: https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf
+        feed_url: https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf
+        site_url: https://allafrica.com/
       - name: African Arguments
-        url: https://africanarguments.org/feed/
+        feed_url: https://africanarguments.org/feed/
+        site_url: https://africanarguments.org/
       - name: ISS Africa
-        url: https://issafrica.org/
-        type: link
+        feed_url:
+        site_url: https://issafrica.org/
       - name: Africanews
-        url: https://www.africanews.com/feed/rss
+        feed_url: https://www.africanews.com/feed/rss
+        site_url: https://www.africanews.com/
   media_lens:
     title: media lens
     title_zh: 媒介透镜
@@ -277,35 +299,35 @@ sections:
     description_zh: 新闻覆盖图谱、媒体偏向参考、跨立场摘要，以及比较不同来源如何框定新闻的工具入口。
     feeds:
     - name: Google News
-      url: https://news.google.com/
-      type: link
+      feed_url:
+      site_url: https://news.google.com/
     - name: Ground News
-      url: https://ground.news/
-      type: link
+      feed_url:
+      site_url: https://ground.news/
     - name: AllSides
-      url: https://www.allsides.com/
-      type: link
+      feed_url:
+      site_url: https://www.allsides.com/
     - name: Ad Fontes Media
-      url: https://adfontesmedia.com/
-      type: link
+      feed_url:
+      site_url: https://adfontesmedia.com/
     - name: The Flip Side
-      url: https://www.theflipside.io/
-      type: link
+      feed_url:
+      site_url: https://www.theflipside.io/
     - name: Tangle
-      url: https://www.readtangle.com/
-      type: link
+      feed_url:
+      site_url: https://www.readtangle.com/
     - name: Verity / Improve the News
-      url: https://www.improvethenews.org/
-      type: link
+      feed_url:
+      site_url: https://www.improvethenews.org/
     - name: Biasly
-      url: https://www.biasly.com/
-      type: link
+      feed_url:
+      site_url: https://www.biasly.com/
     - name: SmartNews
-      url: https://www.smartnews.com/en
-      type: link
+      feed_url:
+      site_url: https://www.smartnews.com/en
     - name: Mediagazer
-      url: https://www.mediagazer.com/
-      type: link
+      feed_url:
+      site_url: https://www.mediagazer.com/
   prices_markets:
     title: prices & markets
     title_zh: 价格与市场
@@ -313,20 +335,20 @@ sections:
     description_zh: 商品价格、市场变化、通胀信号、原材料、受汇率影响的商品，以及日常生活与工业系统中的价格地图。
     feeds:
     - name: World Bank Commodity Markets
-      url: https://www.worldbank.org/en/research/commodity-markets
-      type: link
+      feed_url:
+      site_url: https://www.worldbank.org/en/research/commodity-markets
     - name: IMF Primary Commodity Prices
-      url: https://www.imf.org/en/research/commodity-prices
-      type: link
+      feed_url:
+      site_url: https://www.imf.org/en/research/commodity-prices
     - name: FRED Commodities
-      url: https://fred.stlouisfed.org/categories/32217
-      type: link
+      feed_url:
+      site_url: https://fred.stlouisfed.org/categories/32217
     - name: Trading Economics Commodities
-      url: https://tradingeconomics.com/commodities
-      type: link
+      feed_url:
+      site_url: https://tradingeconomics.com/commodities
     - name: Investing.com Commodities
-      url: https://www.investing.com/commodities/
-      type: link
+      feed_url:
+      site_url: https://www.investing.com/commodities/
   energy_resources:
     title: energy & resources
     title_zh: 能源与资源
@@ -334,17 +356,20 @@ sections:
     description_zh: 石油、天然气、电力、煤炭、铀、关键矿物、炼化、公用事业、能源基础设施与资源价格冲击。
     feeds:
     - name: EIA Today in Energy
-      url: https://www.eia.gov/rss/todayinenergy.xml
+      feed_url: https://www.eia.gov/rss/todayinenergy.xml
+      site_url: https://www.eia.gov/todayinenergy/
     - name: EIA What's New
-      url: https://www.eia.gov/rss/news.xml
+      feed_url: https://www.eia.gov/rss/news.xml
+      site_url: https://www.eia.gov/about/new/
     - name: IEA News
-      url: https://www.iea.org/news
-      type: link
+      feed_url:
+      site_url: https://www.iea.org/news
     - name: Oilprice.com
-      url: https://oilprice.com/rss/main
+      feed_url: https://oilprice.com/rss/main
+      site_url: https://oilprice.com/
     - name: Reuters Energy
-      url: https://www.reuters.com/business/energy/
-      type: link
+      feed_url:
+      site_url: https://www.reuters.com/business/energy/
   food_agriculture_markets:
     title: food & agriculture markets
     title_zh: 食物与农业市场
@@ -352,21 +377,23 @@ sections:
     description_zh: 食品价格、谷物、畜牧、水产、咖啡、可可、糖、化肥、天气冲击、收成与农业贸易。
     feeds:
     - name: FAO Food Price Index
-      url: https://www.fao.org/worldfoodsituation/foodpricesindex/en/
-      type: link
+      feed_url:
+      site_url: https://www.fao.org/worldfoodsituation/foodpricesindex/en/
     - name: FAO Food Price Monitoring
-      url: https://www.fao.org/giews/food-prices/home/en/
-      type: link
+      feed_url:
+      site_url: https://www.fao.org/giews/food-prices/home/en/
     - name: USDA ERS
-      url: https://www.ers.usda.gov/
-      type: link
+      feed_url:
+      site_url: https://www.ers.usda.gov/
     - name: USDA WASDE
-      url: https://www.usda.gov/oce/commodity/wasde
-      type: link
+      feed_url:
+      site_url: https://www.usda.gov/oce/commodity/wasde
     - name: Food Business News
-      url: https://www.foodbusinessnews.net/rss
+      feed_url: https://www.foodbusinessnews.net/rss
+      site_url: https://www.foodbusinessnews.net/
     - name: World Grain
-      url: https://www.world-grain.com/rss
+      feed_url: https://www.world-grain.com/rss
+      site_url: https://www.world-grain.com/
   housing_living_costs:
     title: housing & living costs
     title_zh: 居住与生活成本
@@ -374,18 +401,20 @@ sections:
     description_zh: 租金、房价、水电气、保险、交通成本、家庭支出、工资、通胀与日常生活成本。
     feeds:
     - name: BLS CPI Average Prices
-      url: https://www.bls.gov/cpi/factsheets/average-prices.htm
-      type: link
+      feed_url:
+      site_url: https://www.bls.gov/cpi/factsheets/average-prices.htm
     - name: FRED CPI
-      url: https://fred.stlouisfed.org/categories/9
-      type: link
+      feed_url:
+      site_url: https://fred.stlouisfed.org/categories/9
     - name: Zillow Research
-      url: https://www.zillow.com/research/feed/
+      feed_url: https://www.zillow.com/research/feed/
+      site_url: https://www.zillow.com/research/
     - name: Apartment List Research
-      url: https://www.apartmentlist.com/research/feed
+      feed_url: https://www.apartmentlist.com/research/feed
+      site_url: https://www.apartmentlist.com/research
     - name: Numbeo Cost of Living
-      url: https://www.numbeo.com/cost-of-living/
-      type: link
+      feed_url:
+      site_url: https://www.numbeo.com/cost-of-living/
   supply_chains_trade:
     title: supply chains & trade
     title_zh: 供应链与贸易
@@ -393,15 +422,20 @@ sections:
     description_zh: 航运、港口、运价、物流、制造瓶颈、贸易流、关税、出口管制与供应链中断。
     feeds:
     - name: FreightWaves
-      url: https://www.freightwaves.com/news/feed
+      feed_url: https://www.freightwaves.com/news/feed
+      site_url: https://www.freightwaves.com/news
     - name: The Loadstar
-      url: https://theloadstar.com/feed/
+      feed_url: https://theloadstar.com/feed/
+      site_url: https://theloadstar.com/
     - name: gCaptain
-      url: https://gcaptain.com/feed/
+      feed_url: https://gcaptain.com/feed/
+      site_url: https://gcaptain.com/
     - name: Supply Chain Dive
-      url: https://www.supplychaindive.com/feeds/news/
+      feed_url: https://www.supplychaindive.com/feeds/news/
+      site_url: https://www.supplychaindive.com/
     - name: Port Technology
-      url: https://www.porttechnology.org/feed/
+      feed_url: https://www.porttechnology.org/feed/
+      site_url: https://www.porttechnology.org/
   industry_business:
     title: industry & business
     title_zh: 产业与商业
@@ -409,15 +443,20 @@ sections:
     description_zh: 公司、零售、制造业、消费产业、商业模式、定价权、市场结构与产业变化。
     feeds:
     - name: Marketplace
-      url: https://www.marketplace.org/feed/
+      feed_url: https://www.marketplace.org/feed/
+      site_url: https://www.marketplace.org/
     - name: Retail Dive
-      url: https://www.retaildive.com/feeds/news/
+      feed_url: https://www.retaildive.com/feeds/news/
+      site_url: https://www.retaildive.com/
     - name: Modern Retail
-      url: https://www.modernretail.co/feed/
+      feed_url: https://www.modernretail.co/feed/
+      site_url: https://www.modernretail.co/
     - name: Business of Fashion
-      url: https://www.businessoffashion.com/arc/outboundfeeds/rss/?outputType=xml
+      feed_url: https://www.businessoffashion.com/arc/outboundfeeds/rss/?outputType=xml
+      site_url: https://www.businessoffashion.com/
     - name: Harvard Business Review
-      url: https://hbr.org/rss
+      feed_url: https://hbr.org/rss
+      site_url: https://hbr.org/
   money_finance:
     title: money & finance
     title_zh: 货币与金融
@@ -425,17 +464,20 @@ sections:
     description_zh: 利率、央行、汇率、银行、信贷、金融市场，以及价格与经济生活背后的货币条件。
     feeds:
     - name: Bank for International Settlements
-      url: https://www.bis.org/list/press_releases/index.rss
+      feed_url: https://www.bis.org/list/press_releases/index.rss
+      site_url: https://www.bis.org/
     - name: IMF Blog
-      url: https://www.imf.org/en/Blogs/RSS
+      feed_url: https://www.imf.org/en/Blogs/RSS
+      site_url: https://www.imf.org/en/Blogs
     - name: Federal Reserve Press Releases
-      url: https://www.federalreserve.gov/feeds/press_all.xml
+      feed_url: https://www.federalreserve.gov/feeds/press_all.xml
+      site_url: https://www.federalreserve.gov/newsevents/pressreleases.htm
     - name: Financial Times Markets
-      url: https://www.ft.com/markets
-      type: link
+      feed_url:
+      site_url: https://www.ft.com/markets
     - name: Reuters Markets
-      url: https://www.reuters.com/markets/
-      type: link
+      feed_url:
+      site_url: https://www.reuters.com/markets/
   public_ideas:
     title: public ideas
     title_zh: 公共观念
@@ -443,11 +485,14 @@ sections:
     description_zh: 面向公众的思想随笔、反思性杂志、哲学写作、文化评论与推测性思考。
     feeds:
     - name: Aeon
-      url: https://aeon.co/feed.rss
+      feed_url: https://aeon.co/feed.rss
+      site_url: https://aeon.co/
     - name: Noema Magazine
-      url: https://www.noemamag.com/feed/
+      feed_url: https://www.noemamag.com/feed/
+      site_url: https://www.noemamag.com/
     - name: The Marginalian
-      url: https://www.themarginalian.org/feed/
+      feed_url: https://www.themarginalian.org/feed/
+      site_url: https://www.themarginalian.org/
   scholarly_ideas:
     title: scholarly ideas
     title_zh: 学术观念
@@ -455,11 +500,14 @@ sections:
     description_zh: 研究驱动的随笔、思想史、人文学科评论与学术公共写作。
     feeds:
     - name: JSTOR Daily
-      url: https://daily.jstor.org/feed/
+      feed_url: https://daily.jstor.org/feed/
+      site_url: https://daily.jstor.org/
     - name: Public Books
-      url: https://www.publicbooks.org/feed/
+      feed_url: https://www.publicbooks.org/feed/
+      site_url: https://www.publicbooks.org/
     - name: LSE Review of Books
-      url: https://blogs.lse.ac.uk/lsereviewofbooks/feed/
+      feed_url: https://blogs.lse.ac.uk/lsereviewofbooks/feed/
+      site_url: https://blogs.lse.ac.uk/lsereviewofbooks/
   civilizational_critique:
     title: civilizational critique
     title_zh: 文明批评
@@ -467,14 +515,14 @@ sections:
     description_zh: 关于现代性、技术、制度、科学、政治与当代生活条件的评论与长文。
     feeds:
     - name: The New Atlantis
-      url: https://www.thenewatlantis.com/
-      type: link
+      feed_url:
+      site_url: https://www.thenewatlantis.com/
     - name: The Point
-      url: https://thepointmag.com/
-      type: link
+      feed_url:
+      site_url: https://thepointmag.com/
     - name: The Hedgehog Review
-      url: https://hedgehogreview.com/
-      type: link
+      feed_url:
+      site_url: https://hedgehogreview.com/
   books:
     title: books
     title_zh: 书籍
@@ -482,15 +530,20 @@ sections:
     description_zh: 书籍、出版、图书馆、档案、书评、文学批评与阅读文化。
     feeds:
     - name: New York Review of Books
-      url: https://www.nybooks.com/feed/
+      feed_url: https://www.nybooks.com/feed/
+      site_url: https://www.nybooks.com/
     - name: LARB
-      url: https://lareviewofbooks.org/feed/
+      feed_url: https://lareviewofbooks.org/feed/
+      site_url: https://lareviewofbooks.org/
     - name: Bookforum
-      url: https://www.bookforum.com/feed
+      feed_url: https://www.bookforum.com/feed
+      site_url: https://www.bookforum.com/
     - name: Internet Archive Blog
-      url: https://blog.archive.org/feed/
+      feed_url: https://blog.archive.org/feed/
+      site_url: https://blog.archive.org/
     - name: Internet Archive Books
-      url: https://blog.archive.org/category/books/feed/
+      feed_url: https://blog.archive.org/category/books/feed/
+      site_url: https://blog.archive.org/category/books/
   film_moving_image:
     title: film & moving image
     title_zh: 电影与影像
@@ -498,18 +551,20 @@ sections:
     description_zh: 电影、动态影像文化、电影批评、录像艺术、屏幕媒介、影展与视觉叙事。
     feeds:
     - name: MUBI Notebook
-      url: https://mubi.com/notebook/posts.rss
+      feed_url: https://mubi.com/notebook/posts.rss
+      site_url: https://mubi.com/notebook
     - name: Little White Lies
-      url: https://lwlies.com/feed/
+      feed_url: https://lwlies.com/feed/
+      site_url: https://lwlies.com/
     - name: Sight and Sound
-      url: https://www.bfi.org.uk/sight-and-sound
-      type: link
+      feed_url:
+      site_url: https://www.bfi.org.uk/sight-and-sound
     - name: Film Comment
-      url: https://www.filmcomment.com/
-      type: link
+      feed_url:
+      site_url: https://www.filmcomment.com/
     - name: Reverse Shot
-      url: https://reverseshot.org/
-      type: link
+      feed_url:
+      site_url: https://reverseshot.org/
   music_sound:
     title: music & sound
     title_zh: 音乐与声音
@@ -517,15 +572,20 @@ sections:
     description_zh: 音乐批评、声音文化、唱片、场景、实验音乐、俱乐部文化与聆听实践。
     feeds:
     - name: Bandcamp Daily
-      url: https://daily.bandcamp.com/feed
+      feed_url: https://daily.bandcamp.com/feed
+      site_url: https://daily.bandcamp.com/
     - name: The Quietus
-      url: https://thequietus.com/feed/
+      feed_url: https://thequietus.com/feed/
+      site_url: https://thequietus.com/
     - name: Aquarium Drunkard
-      url: https://aquariumdrunkard.com/feed/
+      feed_url: https://aquariumdrunkard.com/feed/
+      site_url: https://aquariumdrunkard.com/
     - name: Resident Advisor
-      url: https://ra.co/rss/news
+      feed_url: https://ra.co/rss/news
+      site_url: https://ra.co/news
     - name: Pitchfork Album Reviews
-      url: https://pitchfork.com/rss/reviews/albums/
+      feed_url: https://pitchfork.com/rss/reviews/albums/
+      site_url: https://pitchfork.com/reviews/albums/
   photography:
     title: photography
     title_zh: 摄影
@@ -533,8 +593,8 @@ sections:
     description_zh: 摄影、图片故事、纪实影像、视觉报道、档案、展览与摄影实践。
     feeds:
     - name: Magnum Photos
-      url: https://www.magnumphotos.com/
-      type: link
+      feed_url:
+      site_url: https://www.magnumphotos.com/
   human_societies:
     title: human societies
     title_zh: 人类社会
@@ -542,22 +602,26 @@ sections:
     description_zh: 人类学、社会学、制度、民族志、医学、公共生活与社会世界。
     feeds:
     - name: SAPIENS
-      url: https://www.sapiens.org/feed/
+      feed_url: https://www.sapiens.org/feed/
+      site_url: https://www.sapiens.org/
     - name: Somatosphere
-      url: http://somatosphere.net/feed/
+      feed_url: http://somatosphere.net/feed/
+      site_url: http://somatosphere.net/
     - name: Anthropology News
-      url: https://www.anthropology-news.org/feed/
+      feed_url: https://www.anthropology-news.org/feed/
+      site_url: https://www.anthropology-news.org/
     - name: The Society Pages
-      url: https://thesocietypages.org/feed/
+      feed_url: https://thesocietypages.org/feed/
+      site_url: https://thesocietypages.org/
     - name: Society for Cultural Anthropology
-      url: https://culanth.org/
-      type: link
+      feed_url:
+      site_url: https://culanth.org/
     - name: Allegra Lab
-      url: https://allegralaboratory.net/
-      type: link
+      feed_url:
+      site_url: https://allegralaboratory.net/
     - name: Annual Reviews Magazine
-      url: https://www.annualreviews.org/magazine
-      type: link
+      feed_url:
+      site_url: https://www.annualreviews.org/magazine
   mind:
     title: mind
     title_zh: 心智
@@ -565,14 +629,17 @@ sections:
     description_zh: 心理学、认知、行为、心理生活、情绪与实践性反思。
     feeds:
     - name: Psyche
-      url: https://psyche.co/feed
+      feed_url: https://psyche.co/feed
+      site_url: https://psyche.co/
     - name: BPS Research Digest
-      url: https://www.bps.org.uk/research-digest/rss.xml
+      feed_url: https://www.bps.org.uk/research-digest/rss.xml
+      site_url: https://www.bps.org.uk/research-digest
     - name: APA News
-      url: https://www.apa.org/news/rss
+      feed_url: https://www.apa.org/news/rss
+      site_url: https://www.apa.org/news
     - name: Mind & Life Institute
-      url: https://www.mindandlife.org/
-      type: link
+      feed_url:
+      site_url: https://www.mindandlife.org/
   science_news:
     title: science news
     title_zh: 科学新闻
@@ -580,19 +647,26 @@ sections:
     description_zh: 综合科学报道、研究发现、生物、空间、环境与应用研究新闻。
     feeds:
     - name: ScienceDaily
-      url: https://www.sciencedaily.com/rss/all.xml
+      feed_url: https://www.sciencedaily.com/rss/all.xml
+      site_url: https://www.sciencedaily.com/
     - name: Phys.org Biology
-      url: https://phys.org/rss-feed/biology-news/
+      feed_url: https://phys.org/rss-feed/biology-news/
+      site_url: https://phys.org/biology-news/
     - name: Science News
-      url: https://www.sciencenews.org/feed
+      feed_url: https://www.sciencenews.org/feed
+      site_url: https://www.sciencenews.org/
     - name: The Scientist
-      url: https://www.the-scientist.com/rss
+      feed_url: https://www.the-scientist.com/rss
+      site_url: https://www.the-scientist.com/
     - name: MIT News
-      url: https://news.mit.edu/rss/topic/science-technology
+      feed_url: https://news.mit.edu/rss/topic/science-technology
+      site_url: https://news.mit.edu/topic/science-technology
     - name: Quanta Magazine
-      url: https://www.quantamagazine.org/feed/
+      feed_url: https://www.quantamagazine.org/feed/
+      site_url: https://www.quantamagazine.org/
     - name: Nautilus
-      url: https://nautil.us/feed/
+      feed_url: https://nautil.us/feed/
+      site_url: https://nautil.us/
   research:
     title: research
     title_zh: 学术
@@ -600,23 +674,32 @@ sections:
     description_zh: 新论文、预印本、开放获取研究、期刊提醒与学术更新。
     feeds:
     - name: Nature
-      url: https://www.nature.com/nature.rss
+      feed_url: https://www.nature.com/nature.rss
+      site_url: https://www.nature.com/nature/
     - name: bioRxiv Ecology
-      url: https://www.biorxiv.org/rss/collection/ecology.xml
+      feed_url: https://www.biorxiv.org/rss/collection/ecology.xml
+      site_url: https://www.biorxiv.org/collection/ecology
     - name: bioRxiv Evolutionary Biology
-      url: https://www.biorxiv.org/rss/collection/evolutionary-biology.xml
+      feed_url: https://www.biorxiv.org/rss/collection/evolutionary-biology.xml
+      site_url: https://www.biorxiv.org/collection/evolutionary-biology
     - name: bioRxiv Zoology
-      url: https://www.biorxiv.org/rss/collection/zoology.xml
+      feed_url: https://www.biorxiv.org/rss/collection/zoology.xml
+      site_url: https://www.biorxiv.org/collection/zoology
     - name: arXiv q-bio Populations and Evolution
-      url: https://rss.arxiv.org/rss/q-bio.PE
+      feed_url: https://rss.arxiv.org/rss/q-bio.PE
+      site_url: https://arxiv.org/list/q-bio.PE/recent
     - name: eLife Latest
-      url: https://elifesciences.org/rss/recent.xml
+      feed_url: https://elifesciences.org/rss/recent.xml
+      site_url: https://elifesciences.org/
     - name: PLOS Biology
-      url: https://journals.plos.org/plosbiology/feed/atom
+      feed_url: https://journals.plos.org/plosbiology/feed/atom
+      site_url: https://journals.plos.org/plosbiology/
     - name: PsyArXiv
-      url: https://osf.io/preprints/psyarxiv/discover.rss
+      feed_url: https://osf.io/preprints/psyarxiv/discover.rss
+      site_url: https://osf.io/preprints/psyarxiv
     - name: SocArXiv
-      url: https://osf.io/preprints/socarxiv/discover.rss
+      feed_url: https://osf.io/preprints/socarxiv/discover.rss
+      site_url: https://osf.io/preprints/socarxiv
   ecology_conservation:
     title: ecology & conservation
     title_zh: 生态与保护
@@ -624,15 +707,17 @@ sections:
     description_zh: 生态学、生物多样性、保护、栖息地、保护区、再野化、生态恢复与人类—自然冲突。
     feeds:
     - name: Mongabay Conservation
-      url: https://news.mongabay.com/list/conservation/feed/
+      feed_url: https://news.mongabay.com/list/conservation/feed/
+      site_url: https://news.mongabay.com/list/conservation/
     - name: Mongabay Biodiversity
-      url: https://news.mongabay.com/list/biodiversity/feed/
+      feed_url: https://news.mongabay.com/list/biodiversity/feed/
+      site_url: https://news.mongabay.com/list/biodiversity/
     - name: bioGraphic
-      url: https://www.biographic.com/
-      type: link
+      feed_url:
+      site_url: https://www.biographic.com/
     - name: Yale Environment 360
-      url: https://e360.yale.edu/
-      type: link
+      feed_url:
+      site_url: https://e360.yale.edu/
   animal_behavior:
     title: animal behavior
     title_zh: 动物行为
@@ -640,13 +725,14 @@ sections:
     description_zh: 动物行为、认知、交流、社会生活、移动、感知世界与生态互动。
     feeds:
     - name: Mongabay Animal Behavior
-      url: https://news.mongabay.com/list/animal-behavior/feed/
+      feed_url: https://news.mongabay.com/list/animal-behavior/feed/
+      site_url: https://news.mongabay.com/list/animal-behavior/
     - name: Animal Cognition
-      url: https://www.springer.com/journal/10071
-      type: link
+      feed_url:
+      site_url: https://www.springer.com/journal/10071
     - name: Animal Behaviour
-      url: https://www.sciencedirect.com/journal/animal-behaviour
-      type: link
+      feed_url:
+      site_url: https://www.sciencedirect.com/journal/animal-behaviour
   plants_fungi:
     title: plants & fungi
     title_zh: 植物与真菌
@@ -654,11 +740,11 @@ sections:
     description_zh: 植物、真菌、植物学、菌物学、森林、植物生态、分类学与植物文化。
     feeds:
     - name: Kew Science
-      url: https://www.kew.org/science
-      type: link
+      feed_url:
+      site_url: https://www.kew.org/science
     - name: New Phytologist
-      url: https://nph.onlinelibrary.wiley.com/
-      type: link
+      feed_url:
+      site_url: https://nph.onlinelibrary.wiley.com/
   natural_history:
     title: natural history
     title_zh: 自然史
@@ -666,13 +752,17 @@ sections:
     description_zh: 自然史、演化、化石、博物馆、生物多样性、分类学与深时。
     feeds:
     - name: Smithsonian Science
-      url: https://www.smithsonianmag.com/rss/science/
+      feed_url: https://www.smithsonianmag.com/rss/science/
+      site_url: https://www.smithsonianmag.com/science-nature/
     - name: Smithsonian Smart News
-      url: https://www.smithsonianmag.com/rss/smart-news/
+      feed_url: https://www.smithsonianmag.com/rss/smart-news/
+      site_url: https://www.smithsonianmag.com/smart-news/
     - name: Natural History Museum
-      url: https://www.nhm.ac.uk/discover.rss
+      feed_url: https://www.nhm.ac.uk/discover.rss
+      site_url: https://www.nhm.ac.uk/discover.html
     - name: Everything Dinosaur
-      url: https://blog.everythingdinosaur.com/feed
+      feed_url: https://blog.everythingdinosaur.com/feed
+      site_url: https://blog.everythingdinosaur.com/
   marine_life:
     title: marine life
     title_zh: 海洋生命
@@ -680,21 +770,29 @@ sections:
     description_zh: 海洋科学、海洋生物学、探索、保护与海岸世界。
     feeds:
     - name: Hakai Magazine
-      url: https://hakaimagazine.com/feed/
+      feed_url: https://hakaimagazine.com/feed/
+      site_url: https://hakaimagazine.com/
     - name: ScienceDaily Marine Biology
-      url: https://www.sciencedaily.com/rss/plants_animals/marine_biology.xml
+      feed_url: https://www.sciencedaily.com/rss/plants_animals/marine_biology.xml
+      site_url: https://www.sciencedaily.com/news/plants_animals/marine_biology/
     - name: NOAA PMEL Highlights
-      url: https://www.pmel.noaa.gov/feed/rss-feed-pmel-whats-new.xml
+      feed_url: https://www.pmel.noaa.gov/feed/rss-feed-pmel-whats-new.xml
+      site_url: https://www.pmel.noaa.gov/
     - name: NOAA Ocean Exploration
-      url: https://oceanexplorer.noaa.gov/news/oceanexplorer-news.xml
+      feed_url: https://oceanexplorer.noaa.gov/news/oceanexplorer-news.xml
+      site_url: https://oceanexplorer.noaa.gov/news/
     - name: MarineBio Conservation Society
-      url: https://www.marinebio.org/news/feed/
+      feed_url: https://www.marinebio.org/news/feed/
+      site_url: https://www.marinebio.org/news/
     - name: Oceanographic Magazine
-      url: https://oceanographicmagazine.com/feed/
+      feed_url: https://oceanographicmagazine.com/feed/
+      site_url: https://oceanographicmagazine.com/
     - name: The Revelator Oceans
-      url: https://therevelator.org/category/oceans/feed/
+      feed_url: https://therevelator.org/category/oceans/feed/
+      site_url: https://therevelator.org/category/oceans/
     - name: Mongabay Oceans
-      url: https://news.mongabay.com/list/oceans/feed/
+      feed_url: https://news.mongabay.com/list/oceans/feed/
+      site_url: https://news.mongabay.com/list/oceans/
   mollusks:
     title: mollusks
     title_zh: 贝壳与软体动物
@@ -702,13 +800,17 @@ sections:
     description_zh: 软体动物、贝壳、头足类、腹足类、双壳类、海洋生物多样性、分类学与贝壳文化。
     feeds:
     - name: ScienceDaily Mollusks
-      url: https://www.sciencedaily.com/rss/plants_animals/mollusks.xml
+      feed_url: https://www.sciencedaily.com/rss/plants_animals/mollusks.xml
+      site_url: https://www.sciencedaily.com/news/plants_animals/mollusks/
     - name: Phys.org Mollusks
-      url: https://phys.org/rss-feed/tags/mollusks/
+      feed_url: https://phys.org/rss-feed/tags/mollusks/
+      site_url: https://phys.org/tags/mollusks/
     - name: The Cephalopod Page
-      url: https://www.thecephalopodpage.org/feed/
+      feed_url: https://www.thecephalopodpage.org/feed/
+      site_url: https://www.thecephalopodpage.org/
     - name: Malacological Society of London
-      url: https://malacsoc.org.uk/feed/
+      feed_url: https://malacsoc.org.uk/feed/
+      site_url: https://malacsoc.org.uk/
   arthropods:
     title: arthropods
     title_zh: 节肢动物
@@ -716,15 +818,20 @@ sections:
     description_zh: 节肢动物、昆虫、蛛形纲、甲壳类、多足类、传粉者、行为与生物多样性。
     feeds:
     - name: Entomology Today
-      url: https://entomologytoday.org/feed/
+      feed_url: https://entomologytoday.org/feed/
+      site_url: https://entomologytoday.org/
     - name: ScienceDaily Insects
-      url: https://www.sciencedaily.com/rss/plants_animals/insects_and_butterflies.xml
+      feed_url: https://www.sciencedaily.com/rss/plants_animals/insects_and_butterflies.xml
+      site_url: https://www.sciencedaily.com/news/plants_animals/insects_and_butterflies/
     - name: Xerces Society Blog
-      url: https://xerces.org/blog/feed
+      feed_url: https://xerces.org/blog/feed
+      site_url: https://xerces.org/blog
     - name: BugGuide Recent Articles
-      url: https://bugguide.net/rss
+      feed_url: https://bugguide.net/rss
+      site_url: https://bugguide.net/
     - name: AntWiki Recent Changes
-      url: https://www.antwiki.org/wiki/Special:RecentChanges?feed=atom
+      feed_url: https://www.antwiki.org/wiki/Special:RecentChanges?feed=atom
+      site_url: https://www.antwiki.org/wiki/Main_Page
   ai_systems:
     title: AI systems
     title_zh: AI 系统
@@ -732,17 +839,23 @@ sections:
     description_zh: 人工智能、基础模型、智能体、合成媒介、评测、对齐，以及作为社会—技术系统的 AI。
     feeds:
     - name: MIT Technology Review
-      url: https://www.technologyreview.com/feed/
+      feed_url: https://www.technologyreview.com/feed/
+      site_url: https://www.technologyreview.com/
     - name: Google AI Blog
-      url: https://blog.google/technology/ai/rss/
+      feed_url: https://blog.google/technology/ai/rss/
+      site_url: https://blog.google/technology/ai/
     - name: Google DeepMind
-      url: https://deepmind.google/blog/rss.xml
+      feed_url: https://deepmind.google/blog/rss.xml
+      site_url: https://deepmind.google/blog/
     - name: The Verge AI
-      url: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+      feed_url: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+      site_url: https://www.theverge.com/ai-artificial-intelligence
     - name: The Gradient
-      url: https://thegradient.pub/rss/
+      feed_url: https://thegradient.pub/rss/
+      site_url: https://thegradient.pub/
     - name: Hugging Face Blog
-      url: https://huggingface.co/blog/feed.xml
+      feed_url: https://huggingface.co/blog/feed.xml
+      site_url: https://huggingface.co/blog
   computing_cultures:
     title: computing cultures
     title_zh: 计算文化
@@ -750,16 +863,20 @@ sections:
     description_zh: 软件、编程文化、开源、开发者工具、黑客文化、计算史，以及人如何借助计算机思考。
     feeds:
     - name: Ars Technica
-      url: https://feeds.arstechnica.com/arstechnica/index
+      feed_url: https://feeds.arstechnica.com/arstechnica/index
+      site_url: https://arstechnica.com/
     - name: Simon Willison's Weblog
-      url: https://simonwillison.net/atom/everything/
+      feed_url: https://simonwillison.net/atom/everything/
+      site_url: https://simonwillison.net/
     - name: LWN.net
-      url: https://lwn.net/headlines/rss
+      feed_url: https://lwn.net/headlines/rss
+      site_url: https://lwn.net/
     - name: Communications of the ACM
-      url: https://cacm.acm.org/feed/
-      type: link
+      feed_url:
+      site_url: https://cacm.acm.org/feed/
     - name: Hacker News
-      url: https://news.ycombinator.com/rss
+      feed_url: https://news.ycombinator.com/rss
+      site_url: https://news.ycombinator.com/
   platforms_infrastructure:
     title: platforms & infrastructure
     title_zh: 平台与基础设施
@@ -767,17 +884,23 @@ sections:
     description_zh: 云平台、互联网基础设施、数据中心、协议、开发者平台、应用生态，以及维持数字生活运转的隐蔽系统。
     feeds:
     - name: Cloudflare Blog
-      url: https://blog.cloudflare.com/rss/
+      feed_url: https://blog.cloudflare.com/rss/
+      site_url: https://blog.cloudflare.com/
     - name: GitHub Blog
-      url: https://github.blog/feed/
+      feed_url: https://github.blog/feed/
+      site_url: https://github.blog/
     - name: GitHub Changelog
-      url: https://github.blog/changelog/feed/
+      feed_url: https://github.blog/changelog/feed/
+      site_url: https://github.blog/changelog/
     - name: Mozilla Hacks
-      url: https://hacks.mozilla.org/feed/
+      feed_url: https://hacks.mozilla.org/feed/
+      site_url: https://hacks.mozilla.org/
     - name: Vercel Blog
-      url: https://vercel.com/blog/rss.xml
+      feed_url: https://vercel.com/blog/rss.xml
+      site_url: https://vercel.com/blog
     - name: APNIC Blog
-      url: https://blog.apnic.net/feed/
+      feed_url: https://blog.apnic.net/feed/
+      site_url: https://blog.apnic.net/
   interfaces_media_technology:
     title: interfaces & media technology
     title_zh: 界面与媒介技术
@@ -785,17 +908,23 @@ sections:
     description_zh: 人机交互、搜索、推荐系统、浏览器、设备、社交媒体、空间计算，以及塑造感知与注意力的技术。
     feeds:
     - name: The Verge
-      url: https://www.theverge.com/rss/index.xml
+      feed_url: https://www.theverge.com/rss/index.xml
+      site_url: https://www.theverge.com/
     - name: Wired
-      url: https://www.wired.com/feed/rss
+      feed_url: https://www.wired.com/feed/rss
+      site_url: https://www.wired.com/
     - name: Nielsen Norman Group
-      url: https://www.nngroup.com/articles/rss/
+      feed_url: https://www.nngroup.com/articles/rss/
+      site_url: https://www.nngroup.com/articles/
     - name: Platformer
-      url: https://www.platformer.news/feed
+      feed_url: https://www.platformer.news/feed
+      site_url: https://www.platformer.news/
     - name: Garbage Day
-      url: https://www.garbageday.email/feed
+      feed_url: https://www.garbageday.email/feed
+      site_url: https://www.garbageday.email/
     - name: Search Engine Land
-      url: https://searchengineland.com/feed
+      feed_url: https://searchengineland.com/feed
+      site_url: https://searchengineland.com/
   cybernetics_automation:
     title: cybernetics & automation
     title_zh: 控制论与自动化
@@ -803,16 +932,20 @@ sections:
     description_zh: 机器人、无人机、自动化、传感器、信息物理系统、工业系统、物流、仿真，以及能够在世界中行动的机器。
     feeds:
     - name: IEEE Spectrum Robotics
-      url: https://spectrum.ieee.org/feeds/topic/robotics.rss
-      type: link
+      feed_url:
+      site_url: https://spectrum.ieee.org/feeds/topic/robotics.rss
     - name: The Robot Report
-      url: https://www.therobotreport.com/feed/
+      feed_url: https://www.therobotreport.com/feed/
+      site_url: https://www.therobotreport.com/
     - name: Robotics & Automation News
-      url: https://roboticsandautomationnews.com/feed/
+      feed_url: https://roboticsandautomationnews.com/feed/
+      site_url: https://roboticsandautomationnews.com/
     - name: DroneDJ
-      url: https://dronedj.com/feed/
+      feed_url: https://dronedj.com/feed/
+      site_url: https://dronedj.com/
     - name: MIT CSAIL News
-      url: https://www.csail.mit.edu/rss.xml
+      feed_url: https://www.csail.mit.edu/rss.xml
+      site_url: https://www.csail.mit.edu/news
   hardware_radio_embedded:
     title: hardware, radio & embedded systems
     title_zh: 硬件、无线电与嵌入式系统
@@ -820,27 +953,38 @@ sections:
     description_zh: 电子、无线电、SDR、半导体、嵌入式计算、可维修设备、开发板、芯片、传感器，以及小尺度技术器物文化。
     feeds:
     - name: ARRL News
-      url: https://www.arrl.org/arrl.rss
+      feed_url: https://www.arrl.org/arrl.rss
+      site_url: https://www.arrl.org/news
     - name: RTL-SDR Blog
-      url: https://www.rtl-sdr.com/feed/
+      feed_url: https://www.rtl-sdr.com/feed/
+      site_url: https://www.rtl-sdr.com/
     - name: SWLing Post
-      url: https://swling.com/blog/feed/
+      feed_url: https://swling.com/blog/feed/
+      site_url: https://swling.com/blog/
     - name: Radio Society of Great Britain
-      url: https://rsgb.org/main/feed/
+      feed_url: https://rsgb.org/main/feed/
+      site_url: https://rsgb.org/main/
     - name: Hackaday
-      url: https://hackaday.com/blog/feed/
+      feed_url: https://hackaday.com/blog/feed/
+      site_url: https://hackaday.com/
     - name: IEEE Spectrum
-      url: https://spectrum.ieee.org/feeds/feed.rss
+      feed_url: https://spectrum.ieee.org/feeds/feed.rss
+      site_url: https://spectrum.ieee.org/
     - name: CNX Software
-      url: https://www.cnx-software.com/feed/
+      feed_url: https://www.cnx-software.com/feed/
+      site_url: https://www.cnx-software.com/
     - name: Raspberry Pi Blog
-      url: https://www.raspberrypi.com/news/feed/
+      feed_url: https://www.raspberrypi.com/news/feed/
+      site_url: https://www.raspberrypi.com/news/
     - name: Adafruit Blog
-      url: https://blog.adafruit.com/feed/
+      feed_url: https://blog.adafruit.com/feed/
+      site_url: https://blog.adafruit.com/
     - name: SparkFun News
-      url: https://www.sparkfun.com/news/rss
+      feed_url: https://www.sparkfun.com/news/rss
+      site_url: https://www.sparkfun.com/news
     - name: iFixit News
-      url: https://www.ifixit.com/News/feed
+      feed_url: https://www.ifixit.com/News/feed
+      site_url: https://www.ifixit.com/News
   technology_politics:
     title: technology politics
     title_zh: 技术政治
@@ -848,17 +992,23 @@ sections:
     description_zh: 技术政策、平台治理、监控、隐私、劳动、反垄断、监管、标准、数字权利，以及围绕技术系统的地缘竞争。
     feeds:
     - name: Electronic Frontier Foundation
-      url: https://www.eff.org/rss/updates.xml
+      feed_url: https://www.eff.org/rss/updates.xml
+      site_url: https://www.eff.org/updates
     - name: Tech Policy Press
-      url: https://www.techpolicy.press/rss/
+      feed_url: https://www.techpolicy.press/rss/
+      site_url: https://www.techpolicy.press/
     - name: Rest of World
-      url: https://restofworld.org/feed/latest/
+      feed_url: https://restofworld.org/feed/latest/
+      site_url: https://restofworld.org/
     - name: 404 Media
-      url: https://www.404media.co/rss/
+      feed_url: https://www.404media.co/rss/
+      site_url: https://www.404media.co/
     - name: The Markup
-      url: https://themarkup.org/feeds/rss.xml
+      feed_url: https://themarkup.org/feeds/rss.xml
+      site_url: https://themarkup.org/
     - name: Access Now
-      url: https://www.accessnow.org/feed/
+      feed_url: https://www.accessnow.org/feed/
+      site_url: https://www.accessnow.org/
   games:
     title: games
     title_zh: 游戏
@@ -866,15 +1016,20 @@ sections:
     description_zh: 电子游戏、游戏文化、评论、平台、工作室、开发与互动媒介。
     feeds:
     - name: Game Developer
-      url: https://www.gamedeveloper.com/rss.xml
+      feed_url: https://www.gamedeveloper.com/rss.xml
+      site_url: https://www.gamedeveloper.com/
     - name: Rock Paper Shotgun
-      url: https://www.rockpapershotgun.com/feed
+      feed_url: https://www.rockpapershotgun.com/feed
+      site_url: https://www.rockpapershotgun.com/
     - name: Eurogamer
-      url: https://www.eurogamer.net/feed
+      feed_url: https://www.eurogamer.net/feed
+      site_url: https://www.eurogamer.net/
     - name: Polygon
-      url: https://www.polygon.com/rss/index.xml
+      feed_url: https://www.polygon.com/rss/index.xml
+      site_url: https://www.polygon.com/
     - name: PC Gamer
-      url: https://www.pcgamer.com/rss/
+      feed_url: https://www.pcgamer.com/rss/
+      site_url: https://www.pcgamer.com/
   arts_design:
     title: arts & design
     title_zh: 艺术与设计
@@ -882,15 +1037,20 @@ sections:
     description_zh: 艺术、批评、博物馆、视觉文化、当代审美、展览与设计相关文化。
     feeds:
     - name: e-flux
-      url: https://www.e-flux.com/rss/
+      feed_url: https://www.e-flux.com/rss/
+      site_url: https://www.e-flux.com/
     - name: ArtReview
-      url: https://artreview.com/feed/
+      feed_url: https://artreview.com/feed/
+      site_url: https://artreview.com/
     - name: The Art Newspaper
-      url: https://www.theartnewspaper.com/rss.xml
+      feed_url: https://www.theartnewspaper.com/rss.xml
+      site_url: https://www.theartnewspaper.com/
     - name: Hyperallergic
-      url: https://hyperallergic.com/feed/
+      feed_url: https://hyperallergic.com/feed/
+      site_url: https://hyperallergic.com/
     - name: ARTnews
-      url: https://www.artnews.com/feed/
+      feed_url: https://www.artnews.com/feed/
+      site_url: https://www.artnews.com/
   architecture_urbanism:
     title: architecture & urbanism
     title_zh: 建筑与城市
@@ -898,15 +1058,17 @@ sections:
     description_zh: 建筑、城市主义、景观、空间文化、建成环境、居住与设计批评。
     feeds:
     - name: Places Journal
-      url: https://placesjournal.org/
-      type: link
+      feed_url:
+      site_url: https://placesjournal.org/
     - name: Dezeen
-      url: https://www.dezeen.com/feed/
+      feed_url: https://www.dezeen.com/feed/
+      site_url: https://www.dezeen.com/
     - name: ArchDaily
-      url: https://www.archdaily.com/rss
+      feed_url: https://www.archdaily.com/rss
+      site_url: https://www.archdaily.com/
     - name: The Architectural Review
-      url: https://www.architectural-review.com/
-      type: link
+      feed_url:
+      site_url: https://www.architectural-review.com/
   fashion_style:
     title: fashion & style
     title_zh: 时尚与风格
@@ -914,13 +1076,17 @@ sections:
     description_zh: 时尚、风格、服装、秀场文化、街头服饰、零售与当代趣味生产。
     feeds:
     - name: Business of Fashion
-      url: https://www.businessoffashion.com/arc/outboundfeeds/rss/?outputType=xml
+      feed_url: https://www.businessoffashion.com/arc/outboundfeeds/rss/?outputType=xml
+      site_url: https://www.businessoffashion.com/
     - name: Vogue
-      url: https://www.vogue.com/feed/rss
+      feed_url: https://www.vogue.com/feed/rss
+      site_url: https://www.vogue.com/
     - name: Hypebeast
-      url: https://hypebeast.com/feed
+      feed_url: https://hypebeast.com/feed
+      site_url: https://hypebeast.com/
     - name: Highsnobiety
-      url: https://www.highsnobiety.com/feed/
+      feed_url: https://www.highsnobiety.com/feed/
+      site_url: https://www.highsnobiety.com/
   field_gear:
     title: field gear
     title_zh: 野外装备
@@ -928,19 +1094,26 @@ sections:
     description_zh: 户外装备、携行系统、露营硬件、野外工具、背包、庇护装备与远行器物。
     feeds:
     - name: OutdoorGearLab
-      url: https://www.outdoorgearlab.com/feed
+      feed_url: https://www.outdoorgearlab.com/feed
+      site_url: https://www.outdoorgearlab.com/
     - name: SectionHiker
-      url: https://sectionhiker.com/feed/
+      feed_url: https://sectionhiker.com/feed/
+      site_url: https://sectionhiker.com/
     - name: Field Mag
-      url: https://www.fieldmag.com/rss
+      feed_url: https://www.fieldmag.com/rss
+      site_url: https://www.fieldmag.com/
     - name: Bikepacking.com
-      url: https://bikepacking.com/feed/
+      feed_url: https://bikepacking.com/feed/
+      site_url: https://bikepacking.com/
     - name: Gear Patrol
-      url: https://www.gearpatrol.com/rss/
+      feed_url: https://www.gearpatrol.com/rss/
+      site_url: https://www.gearpatrol.com/
     - name: KnifeNews
-      url: https://knifenews.com/feed/
+      feed_url: https://knifenews.com/feed/
+      site_url: https://knifenews.com/
     - name: BLADE Magazine Knife News
-      url: https://blademag.com/knife-news/feed
+      feed_url: https://blademag.com/knife-news/feed
+      site_url: https://blademag.com/knife-news
   everyday_carry:
     title: everyday carry
     title_zh: 日用携行
@@ -948,28 +1121,32 @@ sections:
     description_zh: 日用携行、包具、收纳、便携工具、携带系统、钱包、实用小物与个人装备。
     feeds:
     - name: Carryology
-      url: https://www.carryology.com/feed/
+      feed_url: https://www.carryology.com/feed/
+      site_url: https://www.carryology.com/
     - name: Everyday Carry
-      url: https://everydaycarry.com/
-      type: link
+      feed_url:
+      site_url: https://everydaycarry.com/
     - name: Best Damn EDC
-      url: https://www.bestdamnedc.com/
-      type: link
+      feed_url:
+      site_url: https://www.bestdamnedc.com/
   tools_workshop:
     title: tools & workshop
     title_zh: 工具与工坊
     description: Hand tools, workshop practice, making, fabrication, tool culture, hardware, and practical object knowledge.
     description_zh: 手工具、工坊实践、制作、加工、工具文化、五金与实用器物知识。
     feeds:
-    - name: "Make:"
-      url: https://makezine.com/feed/
+    - name: 'Make:'
+      feed_url: https://makezine.com/feed/
+      site_url: https://makezine.com/
     - name: Core77
-      url: https://www.core77.com/rss
+      feed_url: https://www.core77.com/rss
+      site_url: https://www.core77.com/
     - name: Cool Tools
-      url: https://kk.org/cooltools/
-      type: link
+      feed_url:
+      site_url: https://kk.org/cooltools/
     - name: Low-Tech Magazine
-      url: https://solar.lowtechmagazine.com/feeds/all-en.atom.xml
+      feed_url: https://solar.lowtechmagazine.com/feeds/all-en.atom.xml
+      site_url: https://solar.lowtechmagazine.com/
   repair_maintenance:
     title: repair & maintenance
     title_zh: 维修与维护
@@ -977,15 +1154,17 @@ sections:
     description_zh: 维修文化、维护、维修权、耐用物、手册、再利用与物品照护实践。
     feeds:
     - name: iFixit News
-      url: https://www.ifixit.com/News/feed
+      feed_url: https://www.ifixit.com/News/feed
+      site_url: https://www.ifixit.com/News
     - name: Repair.org
-      url: https://www.repair.org/
-      type: link
+      feed_url:
+      site_url: https://www.repair.org/
     - name: The Restart Project
-      url: https://therestartproject.org/
-      type: link
+      feed_url:
+      site_url: https://therestartproject.org/
 disabled_feeds:
 - name: Contexts
-  url: https://contexts.org/feed/
+  feed_url: https://contexts.org/feed/
+  site_url: https://contexts.org/
   former_section: human_societies
   reason: 'Quarantined: rendered intake page shows repeated casino/gambling spam from this feed. Re-enable only after the upstream feed is clean or a keyword/domain filter is added.'
