@@ -10,6 +10,9 @@ display:
     mind: 8
     science_news: 12
     research: 14
+    ecology_conservation: 10
+    animal_behavior: 8
+    plants_fungi: 8
     natural_history: 10
     marine_life: 12
     mollusks: 8
@@ -37,6 +40,10 @@ display:
     Al Jazeera: 5
     The Marginalian: 3
     Nautilus: 3
+    Mongabay Conservation: 3
+    Mongabay Biodiversity: 3
+    Yale Environment 360: 3
+    Mongabay Animal Behavior: 3
     Hackaday: 3
     Hypebeast: 4
     Vogue: 4
@@ -104,6 +111,9 @@ categories:
     sections:
     - science_news
     - research
+    - ecology_conservation
+    - animal_behavior
+    - plants_fungi
     - natural_history
     - marine_life
     - mollusks
@@ -412,6 +422,48 @@ sections:
       url: https://osf.io/preprints/psyarxiv/discover.rss
     - name: SocArXiv
       url: https://osf.io/preprints/socarxiv/discover.rss
+  ecology_conservation:
+    title: ecology & conservation
+    title_zh: 生态与保护
+    description: Ecology, biodiversity, conservation, habitats, protected areas, rewilding, restoration, and human-nature conflict.
+    description_zh: 生态学、生物多样性、保护、栖息地、保护区、再野化、生态恢复与人类—自然冲突。
+    feeds:
+    - name: Mongabay Conservation
+      url: https://news.mongabay.com/list/conservation/feed/
+    - name: Mongabay Biodiversity
+      url: https://news.mongabay.com/list/biodiversity/feed/
+    - name: bioGraphic
+      url: https://www.biographic.com/
+      type: link
+    - name: Yale Environment 360
+      url: https://e360.yale.edu/
+      type: link
+  animal_behavior:
+    title: animal behavior
+    title_zh: 动物行为
+    description: Animal behavior, cognition, communication, social life, movement, sensory worlds, and ecological interactions.
+    description_zh: 动物行为、认知、交流、社会生活、移动、感知世界与生态互动。
+    feeds:
+    - name: Mongabay Animal Behavior
+      url: https://news.mongabay.com/list/animal-behavior/feed/
+    - name: Animal Cognition
+      url: https://www.springer.com/journal/10071
+      type: link
+    - name: Animal Behaviour
+      url: https://www.sciencedirect.com/journal/animal-behaviour
+      type: link
+  plants_fungi:
+    title: plants & fungi
+    title_zh: 植物与真菌
+    description: Plants, fungi, botany, mycology, forests, plant ecology, taxonomy, and botanical culture.
+    description_zh: 植物、真菌、植物学、菌物学、森林、植物生态、分类学与植物文化。
+    feeds:
+    - name: Kew Science
+      url: https://www.kew.org/science
+      type: link
+    - name: New Phytologist
+      url: https://nph.onlinelibrary.wiley.com/
+      type: link
   natural_history:
     title: natural history
     title_zh: 自然史
