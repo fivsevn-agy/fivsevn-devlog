@@ -80,6 +80,7 @@ categories:
     title_zh: 世界
     sections:
     - world_society
+    - media_lens
   ideas:
     title: ideas
     title_zh: 观念
@@ -241,6 +242,42 @@ sections:
         type: link
       - name: Africanews
         url: https://www.africanews.com/feed/rss
+  media_lens:
+    title: media lens
+    title_zh: 媒介透镜
+    description: Coverage maps, media-bias references, cross-partisan digests, and tools for comparing how news is framed across sources.
+    description_zh: 新闻覆盖图谱、媒体偏向参考、跨立场摘要，以及比较不同来源如何框定新闻的工具入口。
+    feeds:
+    - name: Google News
+      url: https://news.google.com/
+      type: link
+    - name: Ground News
+      url: https://ground.news/
+      type: link
+    - name: AllSides
+      url: https://www.allsides.com/
+      type: link
+    - name: Ad Fontes Media
+      url: https://adfontesmedia.com/
+      type: link
+    - name: The Flip Side
+      url: https://www.theflipside.io/
+      type: link
+    - name: Tangle
+      url: https://www.readtangle.com/
+      type: link
+    - name: Verity / Improve the News
+      url: https://www.improvethenews.org/
+      type: link
+    - name: Biasly
+      url: https://www.biasly.com/
+      type: link
+    - name: SmartNews
+      url: https://www.smartnews.com/en
+      type: link
+    - name: Mediagazer
+      url: https://www.mediagazer.com/
+      type: link
   public_ideas:
     title: public ideas
     title_zh: 公共观念
