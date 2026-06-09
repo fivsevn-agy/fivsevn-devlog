@@ -257,6 +257,28 @@ def build_section(section_key: str, section: dict[str, Any], config: dict[str, A
         section_items.extend(items)
 
     section_items.sort(key=lambda item: item["published_dt"], reverse=True)
+
+    # Regional sections are rendered as virtual subsections, e.g.
+    # world_society__global, world_society__europe, etc.  The old behavior
+    # applied `section_cap` once to the whole parent section before rendering;
+    # that lets active regions consume the entire quota and leaves other
+    # subscribed regions displaying "No items fetched."  Cap each virtual region
+    # independently instead.
+    regions = get_section_regions(config, section_key, section)
+    if isinstance(regions, dict) and regions:
+        capped_items: list[dict[str, Any]] = []
+        for region_key in regions.keys():
+            region_key = str(region_key)
+            virtual_section_key = make_region_section_key(section_key, region_key)
+            raw_region_cap = section_caps.get(virtual_section_key, section_caps.get(section_key, default_section_cap))
+            region_cap = get_int(raw_region_cap, default_section_cap)
+            region_items = [item for item in section_items if str(item.get("region", "")) == region_key]
+            if region_cap > 0:
+                region_items = region_items[:region_cap]
+            capped_items.extend(region_items)
+        capped_items.sort(key=lambda item: item["published_dt"], reverse=True)
+        return capped_items
+
     if section_cap <= 0:
         return section_items
     return section_items[:section_cap]
