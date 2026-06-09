@@ -24,6 +24,10 @@ display:
     scholarly_ideas: 10
     civilizational_critique: 8
     human_societies: 10
+    film_moving_image: 10
+    music_sound: 10
+    photography: 6
+    architecture_urbanism: 10
   source_caps:
     DW News: 5
     The Guardian World: 5
@@ -44,6 +48,10 @@ display:
     Internet Archive Books: 3
     PC Gamer: 3
     APA News: 3
+    Resident Advisor: 3
+    Pitchfork Album Reviews: 3
+    Dezeen: 3
+    ArchDaily: 3
 widgets:
   postcard:
     title: postcard
@@ -69,7 +77,11 @@ categories:
     title_zh: 文化形式
     sections:
     - books
+    - film_moving_image
+    - music_sound
+    - photography
     - arts_design
+    - architecture_urbanism
     - games
     - fashion_style
   human_studies:
@@ -263,6 +275,50 @@ sections:
       url: https://blog.archive.org/feed/
     - name: Internet Archive Books
       url: https://blog.archive.org/category/books/feed/
+  film_moving_image:
+    title: film & moving image
+    title_zh: 电影与影像
+    description: Cinema, moving-image culture, film criticism, video art, screen media, festivals, and visual storytelling.
+    description_zh: 电影、动态影像文化、电影批评、录像艺术、屏幕媒介、影展与视觉叙事。
+    feeds:
+    - name: MUBI Notebook
+      url: https://mubi.com/notebook/posts.rss
+    - name: Little White Lies
+      url: https://lwlies.com/feed/
+    - name: Sight and Sound
+      url: https://www.bfi.org.uk/sight-and-sound
+      type: link
+    - name: Film Comment
+      url: https://www.filmcomment.com/
+      type: link
+    - name: Reverse Shot
+      url: https://reverseshot.org/
+      type: link
+  music_sound:
+    title: music & sound
+    title_zh: 音乐与声音
+    description: Music criticism, sound culture, recordings, scenes, experimental music, club culture, and listening practices.
+    description_zh: 音乐批评、声音文化、唱片、场景、实验音乐、俱乐部文化与聆听实践。
+    feeds:
+    - name: Bandcamp Daily
+      url: https://daily.bandcamp.com/feed
+    - name: The Quietus
+      url: https://thequietus.com/feed/
+    - name: Aquarium Drunkard
+      url: https://aquariumdrunkard.com/feed/
+    - name: Resident Advisor
+      url: https://ra.co/rss/news
+    - name: Pitchfork Album Reviews
+      url: https://pitchfork.com/rss/reviews/albums/
+  photography:
+    title: photography
+    title_zh: 摄影
+    description: Photography, photo essays, documentary image-making, visual reportage, archives, exhibitions, and photographic practice.
+    description_zh: 摄影、图片故事、纪实影像、视觉报道、档案、展览与摄影实践。
+    feeds:
+    - name: Magnum Photos
+      url: https://www.magnumphotos.com/
+      type: link
   human_societies:
     title: human societies
     title_zh: 人类社会
@@ -479,6 +535,22 @@ sections:
       url: https://hyperallergic.com/feed/
     - name: ARTnews
       url: https://www.artnews.com/feed/
+  architecture_urbanism:
+    title: architecture & urbanism
+    title_zh: 建筑与城市
+    description: Architecture, urbanism, landscape, spatial culture, built environments, housing, and design criticism.
+    description_zh: 建筑、城市主义、景观、空间文化、建成环境、居住与设计批评。
+    feeds:
+    - name: Places Journal
+      url: https://placesjournal.org/
+      type: link
+    - name: Dezeen
+      url: https://www.dezeen.com/feed/
+    - name: ArchDaily
+      url: https://www.archdaily.com/rss
+    - name: The Architectural Review
+      url: https://www.architectural-review.com/
+      type: link
   fashion_style:
     title: fashion & style
     title_zh: 时尚与风格
@@ -523,5 +595,4 @@ disabled_feeds:
 - name: Contexts
   url: https://contexts.org/feed/
   former_section: human_societies
-  reason: 'Quarantined: rendered intake page shows repeated casino/gambling spam from this feed. Re-enable only after the
-    upstream feed is clean or a keyword/domain filter is added.'
+  reason: 'Quarantined: rendered intake page shows repeated casino/gambling spam from this feed. Re-enable only after the upstream feed is clean or a keyword/domain filter is added.'
