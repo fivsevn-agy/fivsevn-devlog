@@ -147,14 +147,10 @@ sections:
         type: link
       china:
       - name: Caixin
-        url: https://rsshub.app/caixin/latest
-      - name: Sixth Tone
-        url: https://www.sixthtone.com/
+        url: https://www.caixin.com/
         type: link
-      - name: SCMP China
-        url: https://www.scmp.com/rss/4/feed
-      - name: ChinaFile
-        url: https://www.chinafile.com/
+      - name: Caixin Weekly
+        url: https://weekly.caixin.com/
         type: link
       south_asia:
       - name: The Hindu
