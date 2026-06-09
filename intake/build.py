@@ -242,12 +242,11 @@ def build_section(section_key: str, section: dict[str, Any], config: dict[str, A
                 items = fetch_feed(feed_name, feed_url, source_cap)
             except Exception as error:
                 print(f"[error] failed to fetch {feed_name}: {error}")
-                if looks_like_feed_url(str(feed_url)):
-                    continue
+                print(f"[link] fetch failed; rendering source link: {feed_name}")
                 items = [make_link_source_item(feed_name, str(feed_url))]
 
-            if not items and not looks_like_feed_url(str(feed_url)):
-                print(f"[link] no RSS entries detected; rendering source link: {feed_name}")
+            if not items:
+                print(f"[link] no RSS entries returned; rendering source link: {feed_name}")
                 items = [make_link_source_item(feed_name, str(feed_url))]
 
         print(f"[items] {feed_name}: {len(items)}")
