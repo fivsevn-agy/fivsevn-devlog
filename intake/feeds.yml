@@ -17,8 +17,13 @@ display:
     marine_life: 12
     mollusks: 8
     arthropods: 8
-    ai_technology: 12
-    radio_hardware: 12
+    ai_systems: 12
+    computing_cultures: 10
+    platforms_infrastructure: 10
+    interfaces_media_technology: 10
+    cybernetics_automation: 10
+    hardware_radio_embedded: 12
+    technology_politics: 10
     games: 10
     arts_design: 10
     fashion_style: 10
@@ -123,8 +128,13 @@ categories:
     title: technology
     title_zh: 技术
     sections:
-    - ai_technology
-    - radio_hardware
+    - ai_systems
+    - computing_cultures
+    - platforms_infrastructure
+    - interfaces_media_technology
+    - cybernetics_automation
+    - hardware_radio_embedded
+    - technology_politics
   material:
     title: material
     title_zh: 器物
@@ -567,11 +577,11 @@ sections:
       url: https://bugguide.net/rss
     - name: AntWiki Recent Changes
       url: https://www.antwiki.org/wiki/Special:RecentChanges?feed=atom
-  ai_technology:
-    title: AI & technology
-    title_zh: AI 与科技
-    description: Artificial intelligence, computing, software, platforms, technology culture, and applied systems.
-    description_zh: 人工智能、计算、软件、平台、科技文化与应用系统。
+  ai_systems:
+    title: AI systems
+    title_zh: AI 系统
+    description: Artificial intelligence, foundation models, agents, synthetic media, evaluation, alignment, and AI as a social-technical system.
+    description_zh: 人工智能、基础模型、智能体、合成媒介、评测、对齐，以及作为社会—技术系统的 AI。
     feeds:
     - name: MIT Technology Review
       url: https://www.technologyreview.com/feed/
@@ -581,15 +591,85 @@ sections:
       url: https://deepmind.google/blog/rss.xml
     - name: The Verge AI
       url: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
-    - name: Ars Technica
-      url: https://feeds.arstechnica.com/arstechnica/index
     - name: The Gradient
       url: https://thegradient.pub/rss/
-  radio_hardware:
-    title: radio & hardware
-    title_zh: 无线电与硬件
-    description: Radio technology, amateur radio, SDR, RF systems, electronics, hardware hacking, and engineering culture.
-    description_zh: 无线电技术、业余无线电、软件定义无线电、射频系统、电子、硬件改造与工程文化。
+    - name: Hugging Face Blog
+      url: https://huggingface.co/blog/feed.xml
+  computing_cultures:
+    title: computing cultures
+    title_zh: 计算文化
+    description: Software, programming cultures, open source, developer tools, hacker culture, computing history, and how people think with computers.
+    description_zh: 软件、编程文化、开源、开发者工具、黑客文化、计算史，以及人如何借助计算机思考。
+    feeds:
+    - name: Ars Technica
+      url: https://feeds.arstechnica.com/arstechnica/index
+    - name: Simon Willison's Weblog
+      url: https://simonwillison.net/atom/everything/
+    - name: LWN.net
+      url: https://lwn.net/headlines/rss
+    - name: Communications of the ACM
+      url: https://cacm.acm.org/feed/
+      type: link
+    - name: Hacker News
+      url: https://news.ycombinator.com/rss
+  platforms_infrastructure:
+    title: platforms & infrastructure
+    title_zh: 平台与基础设施
+    description: Cloud platforms, internet infrastructure, data centers, protocols, developer platforms, app ecosystems, and the hidden systems that keep digital life running.
+    description_zh: 云平台、互联网基础设施、数据中心、协议、开发者平台、应用生态，以及维持数字生活运转的隐蔽系统。
+    feeds:
+    - name: Cloudflare Blog
+      url: https://blog.cloudflare.com/rss/
+    - name: GitHub Blog
+      url: https://github.blog/feed/
+    - name: GitHub Changelog
+      url: https://github.blog/changelog/feed/
+    - name: Mozilla Hacks
+      url: https://hacks.mozilla.org/feed/
+    - name: Vercel Blog
+      url: https://vercel.com/blog/rss.xml
+    - name: APNIC Blog
+      url: https://blog.apnic.net/feed/
+  interfaces_media_technology:
+    title: interfaces & media technology
+    title_zh: 界面与媒介技术
+    description: Human-computer interaction, search, recommendation systems, browsers, devices, social media, spatial computing, and technologies that shape perception and attention.
+    description_zh: 人机交互、搜索、推荐系统、浏览器、设备、社交媒体、空间计算，以及塑造感知与注意力的技术。
+    feeds:
+    - name: The Verge
+      url: https://www.theverge.com/rss/index.xml
+    - name: Wired
+      url: https://www.wired.com/feed/rss
+    - name: Nielsen Norman Group
+      url: https://www.nngroup.com/articles/rss/
+    - name: Platformer
+      url: https://www.platformer.news/feed
+    - name: Garbage Day
+      url: https://www.garbageday.email/feed
+    - name: Search Engine Land
+      url: https://searchengineland.com/feed
+  cybernetics_automation:
+    title: cybernetics & automation
+    title_zh: 控制论与自动化
+    description: Robotics, drones, automation, sensors, cyber-physical systems, industrial systems, logistics, simulation, and machines that act in the world.
+    description_zh: 机器人、无人机、自动化、传感器、信息物理系统、工业系统、物流、仿真，以及能够在世界中行动的机器。
+    feeds:
+    - name: IEEE Spectrum Robotics
+      url: https://spectrum.ieee.org/feeds/topic/robotics.rss
+      type: link
+    - name: The Robot Report
+      url: https://www.therobotreport.com/feed/
+    - name: Robotics & Automation News
+      url: https://roboticsandautomationnews.com/feed/
+    - name: DroneDJ
+      url: https://dronedj.com/feed/
+    - name: MIT CSAIL News
+      url: https://www.csail.mit.edu/rss.xml
+  hardware_radio_embedded:
+    title: hardware, radio & embedded systems
+    title_zh: 硬件、无线电与嵌入式系统
+    description: Electronics, radio, SDR, semiconductors, embedded computing, repairable devices, boards, chips, sensors, and small-scale technical material culture.
+    description_zh: 电子、无线电、SDR、半导体、嵌入式计算、可维修设备、开发板、芯片、传感器，以及小尺度技术器物文化。
     feeds:
     - name: ARRL News
       url: https://www.arrl.org/arrl.rss
@@ -603,6 +683,34 @@ sections:
       url: https://hackaday.com/blog/feed/
     - name: IEEE Spectrum
       url: https://spectrum.ieee.org/feeds/feed.rss
+    - name: CNX Software
+      url: https://www.cnx-software.com/feed/
+    - name: Raspberry Pi Blog
+      url: https://www.raspberrypi.com/news/feed/
+    - name: Adafruit Blog
+      url: https://blog.adafruit.com/feed/
+    - name: SparkFun News
+      url: https://www.sparkfun.com/news/rss
+    - name: iFixit News
+      url: https://www.ifixit.com/News/feed
+  technology_politics:
+    title: technology politics
+    title_zh: 技术政治
+    description: Technology policy, platform governance, surveillance, privacy, labor, antitrust, regulation, standards, digital rights, and geopolitical competition around technical systems.
+    description_zh: 技术政策、平台治理、监控、隐私、劳动、反垄断、监管、标准、数字权利，以及围绕技术系统的地缘竞争。
+    feeds:
+    - name: Electronic Frontier Foundation
+      url: https://www.eff.org/rss/updates.xml
+    - name: Tech Policy Press
+      url: https://www.techpolicy.press/rss/
+    - name: Rest of World
+      url: https://restofworld.org/feed/latest/
+    - name: 404 Media
+      url: https://www.404media.co/rss/
+    - name: The Markup
+      url: https://themarkup.org/feeds/rss.xml
+    - name: Access Now
+      url: https://www.accessnow.org/feed/
   games:
     title: games
     title_zh: 游戏
