@@ -91,98 +91,113 @@ sections:
     title_zh: 世界与社会
     description: World news, public life, institutions, geopolitics, social conflict, and civic change.
     description_zh: 世界新闻、公共生活、制度、地缘政治、社会冲突与公共变化。
-regions:
-  global:
-    - name: BBC World
-      url: https://feeds.bbci.co.uk/news/world/rss.xml
-    - name: The Guardian World
-      url: https://www.theguardian.com/world/rss
-    - name: Al Jazeera
-      url: https://www.aljazeera.com/xml/rss/all.xml
-    - name: International Crisis Group
-      url: https://www.crisisgroup.org/rss.xml
-    # high-quality non-RSS page, if your intake supports url-only:
-    - name: Reuters World
-      url: https://www.reuters.com/world/
-    - name: AP World
-      url: https://apnews.com/hub/world-news
-  north_america:
-    - name: AP U.S. News
-      url: https://apnews.com/hub/us-news
-    - name: Reuters U.S.
-      url: https://www.reuters.com/world/us/
-    - name: CBC World
-      url: https://www.cbc.ca/news/world
-  europe:
-    - name: DW News
-      url: https://rss.dw.com/rdf/rss-en-all
-    - name: Euronews
-      url: https://www.euronews.com/rss?format=mrss&level=theme&name=news
-    - name: Le Monde English – Europe
-      url: https://www.lemonde.fr/en/europe/rss_full.xml
-    - name: POLITICO Europe
-      url: https://www.politico.eu/
-  east_asia:
-    - name: NHK News
-      url: https://www3.nhk.or.jp/rss/news/cat0.xml
-    - name: The Japan Times
-      url: https://www.japantimes.co.jp/feed/
-    - name: SCMP China
-      url: https://www.scmp.com/rss/4/feed
-    - name: Korea Herald
-      url: https://www.koreaherald.com/
-  southeast_asia:
-    - name: The Straits Times – Asia
-      url: https://www.straitstimes.com/news/asia/rss.xml
-    - name: Channel News Asia – Asia
-      url: https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6511
-    - name: The Diplomat – Southeast Asia
-      url: https://thediplomat.com/category/regions/southeast-asia/
-  china:
-    - name: Caixin
-      url: https://rsshub.app/caixin/latest
-    - name: Sixth Tone
-      url: https://www.sixthtone.com/
-    - name: SCMP China
-      url: https://www.scmp.com/rss/4/feed
-    - name: ChinaFile
-      url: https://www.chinafile.com/
-  south_asia:
-    - name: The Hindu
-      url: https://www.thehindu.com/news/international/feeder/default.rss
-    - name: Dawn
-      url: https://www.dawn.com/feeds/home
-    - name: Scroll.in
-      url: https://scroll.in/latest/rss
-    - name: The Times of India
-      url: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
-  middle_east:
-    - name: Al-Monitor
-      url: https://www.al-monitor.com/rss
-    - name: Middle East Eye
-      url: https://www.middleeasteye.net/rss
-    - name: L’Orient Today
-      url: https://today.lorientlejour.com/
-    - name: Crisis Group – Middle East & North Africa
-      url: https://www.crisisgroup.org/middle-east-north-africa
-  latin_america:
-    - name: El País América
-      url: https://elpais.com/america/
-    - name: Americas Quarterly
-      url: https://www.americasquarterly.org/
-    - name: NACLA
-      url: https://nacla.org/
-    - name: Latinvex
-      url: https://latinvex.com/latinvex-rss/
-  africa:
-    - name: AllAfrica
-      url: https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf
-    - name: African Arguments
-      url: https://africanarguments.org/feed/
-    - name: ISS Africa
-      url: https://issafrica.org/
-    - name: Africanews
-      url: https://www.africanews.com/feed/rss
+    regions:
+      global:
+      - name: BBC World
+        url: https://feeds.bbci.co.uk/news/world/rss.xml
+      - name: The Guardian World
+        url: https://www.theguardian.com/world/rss
+      - name: Al Jazeera
+        url: https://www.aljazeera.com/xml/rss/all.xml
+      - name: International Crisis Group
+        url: https://www.crisisgroup.org/rss.xml
+      - name: Reuters World
+        url: https://www.reuters.com/world/
+        type: link
+      - name: AP World
+        url: https://apnews.com/hub/world-news
+        type: link
+      north_america:
+      - name: AP U.S. News
+        url: https://apnews.com/hub/us-news
+        type: link
+      - name: Reuters U.S.
+        url: https://www.reuters.com/world/us/
+        type: link
+      - name: CBC World
+        url: https://www.cbc.ca/news/world
+        type: link
+      europe:
+      - name: DW News
+        url: https://rss.dw.com/rdf/rss-en-all
+      - name: Euronews
+        url: https://www.euronews.com/rss?format=mrss&level=theme&name=news
+      - name: Le Monde English – Europe
+        url: https://www.lemonde.fr/en/europe/rss_full.xml
+      - name: POLITICO Europe
+        url: https://www.politico.eu/
+        type: link
+      east_asia:
+      - name: NHK News
+        url: https://www3.nhk.or.jp/rss/news/cat0.xml
+      - name: The Japan Times
+        url: https://www.japantimes.co.jp/feed/
+      - name: SCMP China
+        url: https://www.scmp.com/rss/4/feed
+      - name: Korea Herald
+        url: https://www.koreaherald.com/
+        type: link
+      southeast_asia:
+      - name: The Straits Times – Asia
+        url: https://www.straitstimes.com/news/asia/rss.xml
+      - name: Channel News Asia – Asia
+        url: https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6511
+      - name: The Diplomat – Southeast Asia
+        url: https://thediplomat.com/category/regions/southeast-asia/
+        type: link
+      china:
+      - name: Caixin
+        url: https://rsshub.app/caixin/latest
+      - name: Sixth Tone
+        url: https://www.sixthtone.com/
+        type: link
+      - name: SCMP China
+        url: https://www.scmp.com/rss/4/feed
+      - name: ChinaFile
+        url: https://www.chinafile.com/
+        type: link
+      south_asia:
+      - name: The Hindu
+        url: https://www.thehindu.com/news/international/feeder/default.rss
+      - name: Dawn
+        url: https://www.dawn.com/feeds/home
+      - name: Scroll.in
+        url: https://scroll.in/latest/rss
+      - name: The Times of India
+        url: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+      middle_east:
+      - name: Al-Monitor
+        url: https://www.al-monitor.com/rss
+      - name: Middle East Eye
+        url: https://www.middleeasteye.net/rss
+      - name: L’Orient Today
+        url: https://today.lorientlejour.com/
+        type: link
+      - name: Crisis Group – Middle East & North Africa
+        url: https://www.crisisgroup.org/middle-east-north-africa
+        type: link
+      latin_america:
+      - name: El País América
+        url: https://elpais.com/america/
+        type: link
+      - name: Americas Quarterly
+        url: https://www.americasquarterly.org/
+        type: link
+      - name: NACLA
+        url: https://nacla.org/
+        type: link
+      - name: Latinvex
+        url: https://latinvex.com/latinvex-rss/
+      africa:
+      - name: AllAfrica
+        url: https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf
+      - name: African Arguments
+        url: https://africanarguments.org/feed/
+      - name: ISS Africa
+        url: https://issafrica.org/
+        type: link
+      - name: Africanews
+        url: https://www.africanews.com/feed/rss
   ideas:
     title: ideas
     title_zh: 思想
@@ -465,4 +480,5 @@ disabled_feeds:
 - name: Contexts
   url: https://contexts.org/feed/
   former_section: human_sciences
-  reason: 'Quarantined: rendered intake page shows repeated casino/gambling spam from this feed. Re-enable only after the upstream feed is clean or a keyword/domain filter is added.'
+  reason: 'Quarantined: rendered intake page shows repeated casino/gambling spam from this feed. Re-enable only after the
+    upstream feed is clean or a keyword/domain filter is added.'

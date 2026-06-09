@@ -41,6 +41,51 @@ def make_region_section_key(section_key: str, region_key: str) -> str:
     return f"{section_key}__{region_key}"
 
 
+def get_section_regions(config: dict[str, Any], section_key: str, section: dict[str, Any]) -> dict[str, Any]:
+    """Return regional feeds for a section.
+
+    The preferred shape is `sections.<section_key>.regions`. For the world news
+    section, also accept the existing top-level `regions` block so older/current
+    configs keep working without changing the page UI.
+    """
+    regions = section.get("regions")
+    if isinstance(regions, dict):
+        return regions
+
+    if section_key == "world_society":
+        top_level_regions = config.get("regions")
+        if isinstance(top_level_regions, dict):
+            return {
+                str(region_key): feeds
+                for region_key, feeds in top_level_regions.items()
+                if str(region_key) in REGION_LABELS and isinstance(feeds, list)
+            }
+
+    return {}
+
+
+def is_explicit_link_source(feed: dict[str, Any]) -> bool:
+    feed_type = str(feed.get("type", "")).strip().lower()
+    return feed_type in {"link", "url", "homepage", "page"}
+
+
+def looks_like_feed_url(feed_url: str) -> bool:
+    value = feed_url.lower()
+    feed_markers = ("rss", "atom", "rdf", "feed", "xml")
+    return any(marker in value for marker in feed_markers)
+
+
+def make_link_source_item(feed_name: str, feed_url: str) -> dict[str, Any]:
+    return {
+        "title": feed_name,
+        "link": feed_url,
+        "summary": "Source homepage / 来源主页",
+        "source": "URL-only source / 仅网址源",
+        "published_dt": datetime.now(timezone.utc),
+        "published": "",
+        "is_source_link": True,
+    }
+
 
 def load_config() -> dict[str, Any]:
     with CONFIG_PATH.open("r", encoding="utf-8") as file:
@@ -137,14 +182,14 @@ def fetch_feed(feed_name: str, feed_url: str, limit: int = DEFAULT_SOURCE_CAP) -
     return items[:limit]
 
 
-def iter_section_feeds(section: dict[str, Any]) -> list[dict[str, Any]]:
+def iter_section_feeds(section_key: str, section: dict[str, Any], config: dict[str, Any]) -> list[dict[str, Any]]:
     """Return feeds from either the legacy `feeds:` shape or the regional `regions:` shape."""
     feeds = section.get("feeds")
     if isinstance(feeds, list):
         return [feed for feed in feeds if isinstance(feed, dict)]
 
     regional_feeds: list[dict[str, Any]] = []
-    regions = section.get("regions", {}) or {}
+    regions = get_section_regions(config, section_key, section)
     if isinstance(regions, dict):
         for region_key, feeds_in_region in regions.items():
             if not isinstance(feeds_in_region, list):
@@ -170,7 +215,7 @@ def build_section(section_key: str, section: dict[str, Any], config: dict[str, A
 
     section_items: list[dict[str, Any]] = []
 
-    for feed in iter_section_feeds(section):
+    for feed in iter_section_feeds(section_key, section, config):
         feed_name = feed.get("name", "Unknown Source")
         feed_url = feed.get("url")
         if not feed_url:
@@ -187,12 +232,23 @@ def build_section(section_key: str, section: dict[str, Any], config: dict[str, A
 
         region = feed.get("region")
         region_suffix = f" [{region}]" if region else ""
-        print(f"[fetch] {feed_name}{region_suffix}: {feed_url}")
-        try:
-            items = fetch_feed(feed_name, feed_url, source_cap)
-        except Exception as error:
-            print(f"[error] failed to fetch {feed_name}: {error}")
-            continue
+
+        if is_explicit_link_source(feed):
+            print(f"[link] {feed_name}{region_suffix}: {feed_url}")
+            items = [make_link_source_item(feed_name, feed_url)]
+        else:
+            print(f"[fetch] {feed_name}{region_suffix}: {feed_url}")
+            try:
+                items = fetch_feed(feed_name, feed_url, source_cap)
+            except Exception as error:
+                print(f"[error] failed to fetch {feed_name}: {error}")
+                if looks_like_feed_url(str(feed_url)):
+                    continue
+                items = [make_link_source_item(feed_name, str(feed_url))]
+
+            if not items and not looks_like_feed_url(str(feed_url)):
+                print(f"[link] no RSS entries detected; rendering source link: {feed_name}")
+                items = [make_link_source_item(feed_name, str(feed_url))]
 
         print(f"[items] {feed_name}: {len(items)}")
         if region:
@@ -213,11 +269,15 @@ def render_article(item: dict[str, Any]) -> str:
     published = escape(item["published"])
     summary = escape(item.get("summary", ""))
     summary_html = f"<p class='summary'>{summary}</p>" if summary else ""
+    if item.get("is_source_link") or not published:
+        meta_html = f"<div class=\"meta\">{source}</div>"
+    else:
+        meta_html = f"<div class=\"meta\">{source} · {published}</div>"
 
     return f"""
 <article class="article">
   <h3><a href="{link}" target="_blank" rel="noopener noreferrer">{title}</a></h3>
-  <div class="meta">{source} · {published}</div>
+  {meta_html}
   {summary_html}
 </article>
 """.strip()
@@ -292,7 +352,7 @@ def render_section_nav(config: dict[str, Any]) -> str:
             if not section:
                 continue
 
-            regions = section.get("regions")
+            regions = get_section_regions(config, str(section_key), section)
             if isinstance(regions, dict) and regions:
                 for region_key in regions.keys():
                     region_key = str(region_key)
@@ -340,7 +400,7 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
             mapped_section_key = str(mapped_section_key)
             section_to_category[mapped_section_key] = str(category_key)
             section_config = sections_config_for_map.get(mapped_section_key, {}) or {}
-            regions = section_config.get("regions")
+            regions = get_section_regions(config, mapped_section_key, section_config)
             if isinstance(regions, dict):
                 for region_key in regions.keys():
                     section_to_category[make_region_section_key(mapped_section_key, str(region_key))] = str(category_key)
@@ -376,7 +436,7 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
         section_description_zh = escape(section.get("description_zh", ""))
         items = sections_data.get(section_key, [])
 
-        regions = section.get("regions")
+        regions = get_section_regions(config, section_key, section)
         if isinstance(regions, dict) and regions:
             items_by_region: dict[str, list[dict[str, Any]]] = {str(region_key): [] for region_key in regions.keys()}
             for item in items:
