@@ -57,11 +57,16 @@ use_role: baseline
 
 These fields describe the source rather than individual articles.
 
-- `source_type` identifies the kind of source, such as `wire_service`, `public_broadcaster`, `institutional`, `journal`, `specialist_media`, `aggregator`, or `community`.
-- `authority_level` describes how close the source is to primary information, such as `primary`, `specialist`, `generalist`, `aggregator`, `commentary`, or `community`.
-- `reliability_score` is a 1–5 estimate of factual reliability.
-- `professional_value` is a 1–5 estimate of usefulness for the section.
-- `use_role` describes how the source is used in the page, such as `baseline`, `signal`, `reference`, `counterpoint`, or `culture_probe`.
+- `source_type`: source kind, e.g. `wire_service`, `public_broadcaster`, `institutional`, `journal`, `specialist_media`, `aggregator`, `community`.
+  来源类型，例如通讯社、公共广播、机构、期刊、专业媒体、聚合器、社区来源。
+- `authority_level`: closeness to primary information, e.g. `primary`, `specialist`, `generalist`, `aggregator`, `commentary`, `community`.
+  接近一手信息的程度，例如一手来源、专业来源、综合媒体、聚合器、评论性来源、社区来源。
+- `reliability_score`: 1–5 factual reliability score.
+  1–5 的事实可靠性评分。
+- `professional_value`: 1–5 usefulness score for this section.
+  1–5 的栏目专业价值评分。
+- `use_role`: source role on the page, e.g. `baseline`, `signal`, `reference`, `counterpoint`, `culture_probe`.
+  页面中的用途，例如基础来源、信号源、参考入口、对照视角、文化探针。
 
 The page may render this metadata in a compact form, for example:
 
