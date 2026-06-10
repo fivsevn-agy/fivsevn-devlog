@@ -33,6 +33,42 @@ intake/
 
 `feeds.yml` defines the RSS sections and feed sources.
 
+
+Each source keeps a fetch URL and a homepage URL:
+
+```yaml
+feed_url: https://example.com/feed.xml
+site_url: https://example.com/
+```
+
+If a source has no known feed, keep `feed_url` empty or `null`. `site_url` is used as the fallback link when the feed is missing, fails, or returns no items.
+
+### Source metadata
+
+Sources may also include a small metadata block used for lightweight source assessment:
+
+```yaml
+source_type: public_broadcaster
+authority_level: generalist
+reliability_score: 5
+professional_value: 4
+use_role: baseline
+```
+
+These fields describe the source rather than individual articles.
+
+- `source_type` identifies the kind of source, such as `wire_service`, `public_broadcaster`, `institutional`, `journal`, `specialist_media`, `aggregator`, or `community`.
+- `authority_level` describes how close the source is to primary information, such as `primary`, `specialist`, `generalist`, `aggregator`, `commentary`, or `community`.
+- `reliability_score` is a 1–5 estimate of factual reliability.
+- `professional_value` is a 1–5 estimate of usefulness for the section.
+- `use_role` describes how the source is used in the page, such as `baseline`, `signal`, `reference`, `counterpoint`, or `culture_probe`.
+
+The page may render this metadata in a compact form, for example:
+
+```text
+public_broadcaster · generalist · R5 · P4 · baseline
+```
+
 The daily scripts generate small HTML and JSON fragments:
 
 ```
