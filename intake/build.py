@@ -71,7 +71,17 @@ def get_source_urls(feed: dict[str, Any]) -> tuple[str, str]:
     return feed_url, site_url
 
 
-def make_link_source_item(feed_name: str, site_url: str) -> dict[str, Any]:
+def get_source_meta(feed: dict[str, Any]) -> dict[str, Any]:
+    return {
+        "source_type": feed.get("source_type"),
+        "authority_level": feed.get("authority_level"),
+        "reliability_score": feed.get("reliability_score"),
+        "professional_value": feed.get("professional_value"),
+        "use_role": feed.get("use_role"),
+    }
+
+
+def make_link_source_item(feed_name: str, site_url: str, source_meta: dict[str, Any] | None = None) -> dict[str, Any]:
     return {
         "title": feed_name,
         "link": site_url,
@@ -80,6 +90,7 @@ def make_link_source_item(feed_name: str, site_url: str) -> dict[str, Any]:
         "published_dt": datetime.now(timezone.utc),
         "published": "",
         "is_source_link": True,
+        "source_meta": source_meta or {},
     }
 
 
@@ -157,7 +168,12 @@ def get_disabled_feed_names(config: dict[str, Any]) -> set[str]:
     return disabled_names
 
 
-def fetch_feed(feed_name: str, feed_url: str, limit: int = DEFAULT_SOURCE_CAP) -> list[dict[str, Any]]:
+def fetch_feed(
+    feed_name: str,
+    feed_url: str,
+    limit: int = DEFAULT_SOURCE_CAP,
+    source_meta: dict[str, Any] | None = None,
+) -> list[dict[str, Any]]:
     parsed = feedparser.parse(feed_url)
     if getattr(parsed, "bozo", False):
         print(f"[warn] feed parse warning: {feed_name} — {feed_url}")
@@ -188,6 +204,7 @@ def fetch_feed(feed_name: str, feed_url: str, limit: int = DEFAULT_SOURCE_CAP) -
                 "source": feed_name,
                 "published_dt": published_dt,
                 "published": format_datetime(published_dt),
+                "source_meta": source_meta or {},
             }
         )
 
@@ -231,6 +248,7 @@ def build_section(section_key: str, section: dict[str, Any], config: dict[str, A
     for feed in iter_section_feeds(section_key, section, config):
         feed_name = feed.get("name", "Unknown Source")
         feed_url, site_url = get_source_urls(feed)
+        source_meta = get_source_meta(feed)
         if not site_url:
             print(f"[skip] missing site_url: {feed_name}")
             continue
@@ -249,19 +267,19 @@ def build_section(section_key: str, section: dict[str, Any], config: dict[str, A
 
         if not feed_url:
             print(f"[link] no feed_url; rendering source link: {feed_name}{region_suffix}: {site_url}")
-            items = [make_link_source_item(feed_name, site_url)]
+            items = [make_link_source_item(feed_name, site_url, source_meta)]
         else:
             print(f"[fetch] {feed_name}{region_suffix}: {feed_url}")
             try:
-                items = fetch_feed(feed_name, feed_url, source_cap)
+                items = fetch_feed(feed_name, feed_url, source_cap, source_meta)
             except Exception as error:
                 print(f"[error] failed to fetch {feed_name}: {error}")
                 print(f"[link] fetch failed; rendering source link: {feed_name}: {site_url}")
-                items = [make_link_source_item(feed_name, site_url)]
+                items = [make_link_source_item(feed_name, site_url, source_meta)]
 
             if not items:
                 print(f"[link] no RSS entries returned; rendering source link: {feed_name}: {site_url}")
-                items = [make_link_source_item(feed_name, site_url)]
+                items = [make_link_source_item(feed_name, site_url, source_meta)]
 
         print(f"[items] {feed_name}: {len(items)}")
         if region:
@@ -297,6 +315,30 @@ def build_section(section_key: str, section: dict[str, Any], config: dict[str, A
     return section_items[:section_cap]
 
 
+def format_source_quality_meta(item: dict[str, Any]) -> str:
+    meta = item.get("source_meta") or {}
+    parts: list[str] = []
+
+    source_type = meta.get("source_type")
+    authority_level = meta.get("authority_level")
+    reliability_score = meta.get("reliability_score")
+    professional_value = meta.get("professional_value")
+    use_role = meta.get("use_role")
+
+    if source_type:
+        parts.append(str(source_type))
+    if authority_level:
+        parts.append(str(authority_level))
+    if reliability_score is not None:
+        parts.append(f"R{reliability_score}")
+    if professional_value is not None:
+        parts.append(f"P{professional_value}")
+    if use_role:
+        parts.append(str(use_role))
+
+    return " · ".join(parts)
+
+
 def render_article(item: dict[str, Any]) -> str:
     title = escape(item["title"])
     link = escape(item["link"])
@@ -304,6 +346,8 @@ def render_article(item: dict[str, Any]) -> str:
     published = escape(item["published"])
     summary = escape(item.get("summary", ""))
     summary_html = f"<p class='summary'>{summary}</p>" if summary else ""
+    source_quality = escape(format_source_quality_meta(item))
+    source_quality_html = f'<div class="meta">{source_quality}</div>' if source_quality else ""
     if item.get("is_source_link") or not published:
         meta_html = f"<div class=\"meta\">{source}</div>"
     else:
@@ -314,6 +358,7 @@ def render_article(item: dict[str, Any]) -> str:
   <h3><a href="{link}" target="_blank" rel="noopener noreferrer">{title}</a></h3>
   {meta_html}
   {summary_html}
+  {source_quality_html}
 </article>
 """.strip()
 
