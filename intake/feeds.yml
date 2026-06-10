@@ -172,312 +172,740 @@ sections:
       - name: BBC World
         feed_url: https://feeds.bbci.co.uk/news/world/rss.xml
         site_url: https://www.bbc.com/news/world
+        source_type: public_broadcaster
+        authority_level: generalist
+        reliability_score: 5
+        professional_value: 4
+        use_role: baseline
       - name: The Guardian World
         feed_url: https://www.theguardian.com/world/rss
         site_url: https://www.theguardian.com/world
+        source_type: newspaper_magazine
+        authority_level: generalist
+        reliability_score: 4
+        professional_value: 4
+        use_role: baseline
       - name: Al Jazeera
         feed_url: https://www.aljazeera.com/xml/rss/all.xml
         site_url: https://www.aljazeera.com/
+        source_type: newspaper_magazine
+        authority_level: generalist
+        reliability_score: 4
+        professional_value: 4
+        use_role: baseline
       - name: International Crisis Group
         feed_url: https://www.crisisgroup.org/rss.xml
         site_url: https://www.crisisgroup.org/
+        source_type: specialist_media
+        authority_level: specialist
+        reliability_score: 5
+        professional_value: 5
+        use_role: baseline
       - name: Reuters World
-        feed_url:
+        feed_url: null
         site_url: https://www.reuters.com/world/
+        source_type: wire_service
+        authority_level: generalist
+        reliability_score: 5
+        professional_value: 5
+        use_role: baseline
       - name: AP World
-        feed_url:
+        feed_url: null
         site_url: https://apnews.com/hub/world-news
+        source_type: wire_service
+        authority_level: generalist
+        reliability_score: 5
+        professional_value: 5
+        use_role: baseline
       north_america:
       - name: AP U.S. News
-        feed_url:
+        feed_url: null
         site_url: https://apnews.com/hub/us-news
+        source_type: wire_service
+        authority_level: generalist
+        reliability_score: 5
+        professional_value: 5
+        use_role: baseline
       - name: Reuters U.S.
-        feed_url:
+        feed_url: null
         site_url: https://www.reuters.com/world/us/
+        source_type: wire_service
+        authority_level: generalist
+        reliability_score: 5
+        professional_value: 5
+        use_role: baseline
       - name: CBC World
-        feed_url:
+        feed_url: null
         site_url: https://www.cbc.ca/news/world
+        source_type: public_broadcaster
+        authority_level: generalist
+        reliability_score: 5
+        professional_value: 4
+        use_role: baseline
       europe:
       - name: DW News
         feed_url: https://rss.dw.com/rdf/rss-en-all
         site_url: https://www.dw.com/en/top-stories/s-9097
+        source_type: public_broadcaster
+        authority_level: generalist
+        reliability_score: 5
+        professional_value: 4
+        use_role: baseline
       - name: Euronews
         feed_url: https://www.euronews.com/rss?format=mrss&level=theme&name=news
         site_url: https://www.euronews.com/news
+        source_type: newspaper_magazine
+        authority_level: generalist
+        reliability_score: 4
+        professional_value: 4
+        use_role: baseline
       - name: Le Monde English – Europe
         feed_url: https://www.lemonde.fr/en/europe/rss_full.xml
         site_url: https://www.lemonde.fr/en/europe/
+        source_type: newspaper_magazine
+        authority_level: generalist
+        reliability_score: 4
+        professional_value: 4
+        use_role: baseline
       - name: POLITICO Europe
-        feed_url:
+        feed_url: null
         site_url: https://www.politico.eu/
+        source_type: specialist_media
+        authority_level: specialist
+        reliability_score: 4
+        professional_value: 4
+        use_role: baseline
       east_asia:
       - name: NHK News
         feed_url: https://www3.nhk.or.jp/rss/news/cat0.xml
         site_url: https://www3.nhk.or.jp/news/
+        source_type: public_broadcaster
+        authority_level: generalist
+        reliability_score: 5
+        professional_value: 4
+        use_role: baseline
       - name: The Japan Times
         feed_url: https://www.japantimes.co.jp/feed/
         site_url: https://www.japantimes.co.jp/
+        source_type: newspaper_magazine
+        authority_level: generalist
+        reliability_score: 4
+        professional_value: 4
+        use_role: baseline
       - name: SCMP China
         feed_url: https://www.scmp.com/rss/4/feed
         site_url: https://www.scmp.com/news/china
+        source_type: newspaper_magazine
+        authority_level: generalist
+        reliability_score: 4
+        professional_value: 4
+        use_role: baseline
       - name: Korea Herald
-        feed_url:
+        feed_url: null
         site_url: https://www.koreaherald.com/
+        source_type: newspaper_magazine
+        authority_level: generalist
+        reliability_score: 4
+        professional_value: 4
+        use_role: baseline
       southeast_asia:
       - name: The Straits Times – Asia
         feed_url: https://www.straitstimes.com/news/asia/rss.xml
         site_url: https://www.straitstimes.com/asia
+        source_type: newspaper_magazine
+        authority_level: generalist
+        reliability_score: 4
+        professional_value: 4
+        use_role: baseline
       - name: Channel News Asia – Asia
         feed_url: https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6511
         site_url: https://www.channelnewsasia.com/asia
+        source_type: public_broadcaster
+        authority_level: generalist
+        reliability_score: 5
+        professional_value: 4
+        use_role: baseline
       - name: The Diplomat – Southeast Asia
-        feed_url:
+        feed_url: null
         site_url: https://thediplomat.com/category/regions/southeast-asia/
+        source_type: specialist_media
+        authority_level: specialist
+        reliability_score: 4
+        professional_value: 4
+        use_role: baseline
       china:
       - name: Caixin
-        feed_url:
+        feed_url: null
         site_url: https://www.caixin.com/
+        source_type: specialist_media
+        authority_level: specialist
+        reliability_score: 4
+        professional_value: 4
+        use_role: baseline
       - name: Caixin Weekly
-        feed_url:
+        feed_url: null
         site_url: https://weekly.caixin.com/
+        source_type: specialist_media
+        authority_level: specialist
+        reliability_score: 4
+        professional_value: 4
+        use_role: baseline
       south_asia:
       - name: The Hindu
         feed_url: https://www.thehindu.com/news/international/feeder/default.rss
         site_url: https://www.thehindu.com/news/international/
+        source_type: newspaper_magazine
+        authority_level: generalist
+        reliability_score: 4
+        professional_value: 4
+        use_role: baseline
       - name: Dawn
         feed_url: https://www.dawn.com/feeds/home
         site_url: https://www.dawn.com/
+        source_type: newspaper_magazine
+        authority_level: generalist
+        reliability_score: 4
+        professional_value: 4
+        use_role: baseline
       - name: Scroll.in
         feed_url: https://scroll.in/latest/rss
         site_url: https://scroll.in/latest
+        source_type: newspaper_magazine
+        authority_level: generalist
+        reliability_score: 4
+        professional_value: 4
+        use_role: baseline
       - name: The Times of India
         feed_url: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
         site_url: https://timesofindia.indiatimes.com/
+        source_type: newspaper_magazine
+        authority_level: generalist
+        reliability_score: 4
+        professional_value: 4
+        use_role: baseline
       middle_east:
       - name: Al-Monitor
         feed_url: https://www.al-monitor.com/rss
         site_url: https://www.al-monitor.com/
+        source_type: newspaper_magazine
+        authority_level: generalist
+        reliability_score: 4
+        professional_value: 4
+        use_role: baseline
       - name: Middle East Eye
         feed_url: https://www.middleeasteye.net/rss
         site_url: https://www.middleeasteye.net/
+        source_type: newspaper_magazine
+        authority_level: generalist
+        reliability_score: 4
+        professional_value: 4
+        use_role: baseline
       - name: L’Orient Today
-        feed_url:
+        feed_url: null
         site_url: https://today.lorientlejour.com/
+        source_type: newspaper_magazine
+        authority_level: generalist
+        reliability_score: 4
+        professional_value: 4
+        use_role: baseline
       - name: Crisis Group – Middle East & North Africa
-        feed_url:
+        feed_url: null
         site_url: https://www.crisisgroup.org/middle-east-north-africa
+        source_type: specialist_media
+        authority_level: specialist
+        reliability_score: 5
+        professional_value: 5
+        use_role: baseline
       latin_america:
       - name: El País América
-        feed_url:
+        feed_url: null
         site_url: https://elpais.com/america/
+        source_type: newspaper_magazine
+        authority_level: generalist
+        reliability_score: 4
+        professional_value: 4
+        use_role: baseline
       - name: Americas Quarterly
-        feed_url:
+        feed_url: null
         site_url: https://www.americasquarterly.org/
+        source_type: specialist_media
+        authority_level: specialist
+        reliability_score: 4
+        professional_value: 4
+        use_role: baseline
       - name: NACLA
-        feed_url:
+        feed_url: null
         site_url: https://nacla.org/
+        source_type: specialist_media
+        authority_level: specialist
+        reliability_score: 4
+        professional_value: 4
+        use_role: baseline
       - name: Latinvex
         feed_url: https://latinvex.com/latinvex-rss/
         site_url: https://latinvex.com/
+        source_type: newspaper_magazine
+        authority_level: generalist
+        reliability_score: 4
+        professional_value: 4
+        use_role: baseline
       africa:
       - name: AllAfrica
         feed_url: https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf
         site_url: https://allafrica.com/
+        source_type: public_broadcaster
+        authority_level: generalist
+        reliability_score: 5
+        professional_value: 4
+        use_role: baseline
       - name: African Arguments
         feed_url: https://africanarguments.org/feed/
         site_url: https://africanarguments.org/
+        source_type: specialist_media
+        authority_level: specialist
+        reliability_score: 4
+        professional_value: 4
+        use_role: baseline
       - name: ISS Africa
-        feed_url:
+        feed_url: null
         site_url: https://issafrica.org/
+        source_type: specialist_media
+        authority_level: specialist
+        reliability_score: 5
+        professional_value: 5
+        use_role: baseline
       - name: Africanews
         feed_url: https://www.africanews.com/feed/rss
         site_url: https://www.africanews.com/
+        source_type: public_broadcaster
+        authority_level: generalist
+        reliability_score: 5
+        professional_value: 4
+        use_role: baseline
   media_lens:
     title: media lens
     title_zh: 媒介透镜
-    description: Coverage maps, media-bias references, cross-partisan digests, and tools for comparing how news is framed across sources.
+    description: Coverage maps, media-bias references, cross-partisan digests, and tools for comparing how news is framed
+      across sources.
     description_zh: 新闻覆盖图谱、媒体偏向参考、跨立场摘要，以及比较不同来源如何框定新闻的工具入口。
     feeds:
     - name: Google News
-      feed_url:
+      feed_url: null
       site_url: https://news.google.com/
+      source_type: aggregator
+      authority_level: aggregator
+      reliability_score: 3
+      professional_value: 3
+      use_role: reference
     - name: Ground News
-      feed_url:
+      feed_url: null
       site_url: https://ground.news/
+      source_type: reference_tool
+      authority_level: aggregator
+      reliability_score: 3
+      professional_value: 4
+      use_role: counterpoint
     - name: AllSides
-      feed_url:
+      feed_url: null
       site_url: https://www.allsides.com/
+      source_type: reference_tool
+      authority_level: aggregator
+      reliability_score: 3
+      professional_value: 4
+      use_role: counterpoint
     - name: Ad Fontes Media
-      feed_url:
+      feed_url: null
       site_url: https://adfontesmedia.com/
+      source_type: reference_tool
+      authority_level: aggregator
+      reliability_score: 3
+      professional_value: 4
+      use_role: counterpoint
     - name: The Flip Side
-      feed_url:
+      feed_url: null
       site_url: https://www.theflipside.io/
+      source_type: reference_tool
+      authority_level: aggregator
+      reliability_score: 3
+      professional_value: 4
+      use_role: counterpoint
     - name: Tangle
-      feed_url:
+      feed_url: null
       site_url: https://www.readtangle.com/
+      source_type: reference_tool
+      authority_level: aggregator
+      reliability_score: 3
+      professional_value: 4
+      use_role: counterpoint
     - name: Verity / Improve the News
-      feed_url:
+      feed_url: null
       site_url: https://www.improvethenews.org/
+      source_type: reference_tool
+      authority_level: aggregator
+      reliability_score: 3
+      professional_value: 4
+      use_role: counterpoint
     - name: Biasly
-      feed_url:
+      feed_url: null
       site_url: https://www.biasly.com/
+      source_type: reference_tool
+      authority_level: aggregator
+      reliability_score: 3
+      professional_value: 4
+      use_role: counterpoint
     - name: SmartNews
-      feed_url:
+      feed_url: null
       site_url: https://www.smartnews.com/en
+      source_type: aggregator
+      authority_level: aggregator
+      reliability_score: 3
+      professional_value: 3
+      use_role: reference
     - name: Mediagazer
-      feed_url:
+      feed_url: null
       site_url: https://www.mediagazer.com/
+      source_type: aggregator
+      authority_level: aggregator
+      reliability_score: 3
+      professional_value: 3
+      use_role: reference
   prices_markets:
     title: prices & markets
     title_zh: 价格与市场
-    description: Commodity prices, market movements, inflation signals, raw materials, exchange-sensitive goods, and the changing price map of everyday and industrial life.
+    description: Commodity prices, market movements, inflation signals, raw materials, exchange-sensitive goods, and the changing
+      price map of everyday and industrial life.
     description_zh: 商品价格、市场变化、通胀信号、原材料、受汇率影响的商品，以及日常生活与工业系统中的价格地图。
     feeds:
     - name: World Bank Commodity Markets
-      feed_url:
+      feed_url: null
       site_url: https://www.worldbank.org/en/research/commodity-markets
+      source_type: institutional
+      authority_level: primary
+      reliability_score: 5
+      professional_value: 5
+      use_role: baseline
     - name: IMF Primary Commodity Prices
-      feed_url:
+      feed_url: null
       site_url: https://www.imf.org/en/research/commodity-prices
+      source_type: institutional
+      authority_level: primary
+      reliability_score: 5
+      professional_value: 5
+      use_role: baseline
     - name: FRED Commodities
-      feed_url:
+      feed_url: null
       site_url: https://fred.stlouisfed.org/categories/32217
+      source_type: institutional
+      authority_level: primary
+      reliability_score: 5
+      professional_value: 5
+      use_role: baseline
     - name: Trading Economics Commodities
-      feed_url:
+      feed_url: null
       site_url: https://tradingeconomics.com/commodities
+      source_type: reference_tool
+      authority_level: primary
+      reliability_score: 4
+      professional_value: 4
+      use_role: reference
     - name: Investing.com Commodities
-      feed_url:
+      feed_url: null
       site_url: https://www.investing.com/commodities/
+      source_type: reference_tool
+      authority_level: primary
+      reliability_score: 4
+      professional_value: 4
+      use_role: reference
   energy_resources:
     title: energy & resources
     title_zh: 能源与资源
-    description: Oil, gas, electricity, coal, uranium, critical minerals, refining, utilities, energy infrastructure, and resource-price shocks.
+    description: Oil, gas, electricity, coal, uranium, critical minerals, refining, utilities, energy infrastructure, and
+      resource-price shocks.
     description_zh: 石油、天然气、电力、煤炭、铀、关键矿物、炼化、公用事业、能源基础设施与资源价格冲击。
     feeds:
     - name: EIA Today in Energy
       feed_url: https://www.eia.gov/rss/todayinenergy.xml
       site_url: https://www.eia.gov/todayinenergy/
+      source_type: institutional
+      authority_level: primary
+      reliability_score: 5
+      professional_value: 5
+      use_role: baseline
     - name: EIA What's New
       feed_url: https://www.eia.gov/rss/news.xml
       site_url: https://www.eia.gov/about/new/
+      source_type: institutional
+      authority_level: primary
+      reliability_score: 5
+      professional_value: 5
+      use_role: baseline
     - name: IEA News
-      feed_url:
+      feed_url: null
       site_url: https://www.iea.org/news
+      source_type: institutional
+      authority_level: primary
+      reliability_score: 5
+      professional_value: 5
+      use_role: baseline
     - name: Oilprice.com
       feed_url: https://oilprice.com/rss/main
       site_url: https://oilprice.com/
+      source_type: institutional
+      authority_level: primary
+      reliability_score: 5
+      professional_value: 5
+      use_role: baseline
     - name: Reuters Energy
-      feed_url:
+      feed_url: null
       site_url: https://www.reuters.com/business/energy/
+      source_type: wire_service
+      authority_level: generalist
+      reliability_score: 5
+      professional_value: 5
+      use_role: baseline
   food_agriculture_markets:
     title: food & agriculture markets
     title_zh: 食物与农业市场
-    description: Food prices, grains, livestock, fisheries, coffee, cocoa, sugar, fertilizers, weather shocks, harvests, and agricultural trade.
+    description: Food prices, grains, livestock, fisheries, coffee, cocoa, sugar, fertilizers, weather shocks, harvests, and
+      agricultural trade.
     description_zh: 食品价格、谷物、畜牧、水产、咖啡、可可、糖、化肥、天气冲击、收成与农业贸易。
     feeds:
     - name: FAO Food Price Index
-      feed_url:
+      feed_url: null
       site_url: https://www.fao.org/worldfoodsituation/foodpricesindex/en/
+      source_type: institutional
+      authority_level: primary
+      reliability_score: 5
+      professional_value: 5
+      use_role: baseline
     - name: FAO Food Price Monitoring
-      feed_url:
+      feed_url: null
       site_url: https://www.fao.org/giews/food-prices/home/en/
+      source_type: institutional
+      authority_level: primary
+      reliability_score: 5
+      professional_value: 5
+      use_role: baseline
     - name: USDA ERS
-      feed_url:
+      feed_url: null
       site_url: https://www.ers.usda.gov/
+      source_type: institutional
+      authority_level: primary
+      reliability_score: 5
+      professional_value: 5
+      use_role: baseline
     - name: USDA WASDE
-      feed_url:
+      feed_url: null
       site_url: https://www.usda.gov/oce/commodity/wasde
+      source_type: institutional
+      authority_level: primary
+      reliability_score: 5
+      professional_value: 5
+      use_role: baseline
     - name: Food Business News
       feed_url: https://www.foodbusinessnews.net/rss
       site_url: https://www.foodbusinessnews.net/
+      source_type: trade_publication
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: World Grain
       feed_url: https://www.world-grain.com/rss
       site_url: https://www.world-grain.com/
+      source_type: trade_publication
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
   housing_living_costs:
     title: housing & living costs
     title_zh: 居住与生活成本
-    description: Rent, housing prices, utilities, insurance, transport costs, household expenses, wages, inflation, and the everyday cost of living.
+    description: Rent, housing prices, utilities, insurance, transport costs, household expenses, wages, inflation, and the
+      everyday cost of living.
     description_zh: 租金、房价、水电气、保险、交通成本、家庭支出、工资、通胀与日常生活成本。
     feeds:
     - name: BLS CPI Average Prices
-      feed_url:
+      feed_url: null
       site_url: https://www.bls.gov/cpi/factsheets/average-prices.htm
+      source_type: institutional
+      authority_level: primary
+      reliability_score: 5
+      professional_value: 5
+      use_role: baseline
     - name: FRED CPI
-      feed_url:
+      feed_url: null
       site_url: https://fred.stlouisfed.org/categories/9
+      source_type: institutional
+      authority_level: primary
+      reliability_score: 5
+      professional_value: 5
+      use_role: baseline
     - name: Zillow Research
       feed_url: https://www.zillow.com/research/feed/
       site_url: https://www.zillow.com/research/
+      source_type: trade_publication
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Apartment List Research
       feed_url: https://www.apartmentlist.com/research/feed
       site_url: https://www.apartmentlist.com/research
+      source_type: trade_publication
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Numbeo Cost of Living
-      feed_url:
+      feed_url: null
       site_url: https://www.numbeo.com/cost-of-living/
+      source_type: reference_tool
+      authority_level: primary
+      reliability_score: 4
+      professional_value: 4
+      use_role: reference
   supply_chains_trade:
     title: supply chains & trade
     title_zh: 供应链与贸易
-    description: Shipping, ports, freight rates, logistics, manufacturing bottlenecks, trade flows, tariffs, export controls, and supply-chain disruptions.
+    description: Shipping, ports, freight rates, logistics, manufacturing bottlenecks, trade flows, tariffs, export controls,
+      and supply-chain disruptions.
     description_zh: 航运、港口、运价、物流、制造瓶颈、贸易流、关税、出口管制与供应链中断。
     feeds:
     - name: FreightWaves
       feed_url: https://www.freightwaves.com/news/feed
       site_url: https://www.freightwaves.com/news
+      source_type: newspaper_magazine
+      authority_level: generalist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: The Loadstar
       feed_url: https://theloadstar.com/feed/
       site_url: https://theloadstar.com/
+      source_type: newspaper_magazine
+      authority_level: generalist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: gCaptain
       feed_url: https://gcaptain.com/feed/
       site_url: https://gcaptain.com/
+      source_type: newspaper_magazine
+      authority_level: generalist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Supply Chain Dive
       feed_url: https://www.supplychaindive.com/feeds/news/
       site_url: https://www.supplychaindive.com/
+      source_type: newspaper_magazine
+      authority_level: generalist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Port Technology
       feed_url: https://www.porttechnology.org/feed/
       site_url: https://www.porttechnology.org/
+      source_type: newspaper_magazine
+      authority_level: generalist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
   industry_business:
     title: industry & business
     title_zh: 产业与商业
-    description: Companies, retail, manufacturing, consumer industries, business models, pricing power, market structure, and industrial change.
+    description: Companies, retail, manufacturing, consumer industries, business models, pricing power, market structure,
+      and industrial change.
     description_zh: 公司、零售、制造业、消费产业、商业模式、定价权、市场结构与产业变化。
     feeds:
     - name: Marketplace
       feed_url: https://www.marketplace.org/feed/
       site_url: https://www.marketplace.org/
+      source_type: newspaper_magazine
+      authority_level: generalist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Retail Dive
       feed_url: https://www.retaildive.com/feeds/news/
       site_url: https://www.retaildive.com/
+      source_type: newspaper_magazine
+      authority_level: generalist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Modern Retail
       feed_url: https://www.modernretail.co/feed/
       site_url: https://www.modernretail.co/
+      source_type: newspaper_magazine
+      authority_level: generalist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Business of Fashion
       feed_url: https://www.businessoffashion.com/arc/outboundfeeds/rss/?outputType=xml
       site_url: https://www.businessoffashion.com/
+      source_type: newspaper_magazine
+      authority_level: generalist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Harvard Business Review
       feed_url: https://hbr.org/rss
       site_url: https://hbr.org/
+      source_type: newspaper_magazine
+      authority_level: generalist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
   money_finance:
     title: money & finance
     title_zh: 货币与金融
-    description: Interest rates, central banks, currencies, banking, credit, financial markets, and the monetary conditions behind prices and economic life.
+    description: Interest rates, central banks, currencies, banking, credit, financial markets, and the monetary conditions
+      behind prices and economic life.
     description_zh: 利率、央行、汇率、银行、信贷、金融市场，以及价格与经济生活背后的货币条件。
     feeds:
     - name: Bank for International Settlements
       feed_url: https://www.bis.org/list/press_releases/index.rss
       site_url: https://www.bis.org/
+      source_type: institutional
+      authority_level: primary
+      reliability_score: 5
+      professional_value: 5
+      use_role: baseline
     - name: IMF Blog
       feed_url: https://www.imf.org/en/Blogs/RSS
       site_url: https://www.imf.org/en/Blogs
+      source_type: institutional
+      authority_level: primary
+      reliability_score: 5
+      professional_value: 5
+      use_role: baseline
     - name: Federal Reserve Press Releases
       feed_url: https://www.federalreserve.gov/feeds/press_all.xml
       site_url: https://www.federalreserve.gov/newsevents/pressreleases.htm
+      source_type: institutional
+      authority_level: primary
+      reliability_score: 5
+      professional_value: 5
+      use_role: baseline
     - name: Financial Times Markets
-      feed_url:
+      feed_url: null
       site_url: https://www.ft.com/markets
+      source_type: trade_publication
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Reuters Markets
-      feed_url:
+      feed_url: null
       site_url: https://www.reuters.com/markets/
+      source_type: wire_service
+      authority_level: generalist
+      reliability_score: 5
+      professional_value: 5
+      use_role: baseline
   public_ideas:
     title: public ideas
     title_zh: 公共观念
@@ -487,12 +915,27 @@ sections:
     - name: Aeon
       feed_url: https://aeon.co/feed.rss
       site_url: https://aeon.co/
+      source_type: newspaper_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Noema Magazine
       feed_url: https://www.noemamag.com/feed/
       site_url: https://www.noemamag.com/
+      source_type: newspaper_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: The Marginalian
       feed_url: https://www.themarginalian.org/feed/
       site_url: https://www.themarginalian.org/
+      source_type: newspaper_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
   scholarly_ideas:
     title: scholarly ideas
     title_zh: 学术观念
@@ -502,12 +945,27 @@ sections:
     - name: JSTOR Daily
       feed_url: https://daily.jstor.org/feed/
       site_url: https://daily.jstor.org/
+      source_type: newspaper_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Public Books
       feed_url: https://www.publicbooks.org/feed/
       site_url: https://www.publicbooks.org/
+      source_type: newspaper_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: LSE Review of Books
       feed_url: https://blogs.lse.ac.uk/lsereviewofbooks/feed/
       site_url: https://blogs.lse.ac.uk/lsereviewofbooks/
+      source_type: newspaper_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
   civilizational_critique:
     title: civilizational critique
     title_zh: 文明批评
@@ -515,14 +973,29 @@ sections:
     description_zh: 关于现代性、技术、制度、科学、政治与当代生活条件的评论与长文。
     feeds:
     - name: The New Atlantis
-      feed_url:
+      feed_url: null
       site_url: https://www.thenewatlantis.com/
+      source_type: newspaper_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: The Point
-      feed_url:
+      feed_url: null
       site_url: https://thepointmag.com/
+      source_type: newspaper_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: The Hedgehog Review
-      feed_url:
+      feed_url: null
       site_url: https://hedgehogreview.com/
+      source_type: newspaper_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
   books:
     title: books
     title_zh: 书籍
@@ -532,18 +1005,43 @@ sections:
     - name: New York Review of Books
       feed_url: https://www.nybooks.com/feed/
       site_url: https://www.nybooks.com/
+      source_type: culture_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: LARB
       feed_url: https://lareviewofbooks.org/feed/
       site_url: https://lareviewofbooks.org/
+      source_type: culture_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Bookforum
       feed_url: https://www.bookforum.com/feed
       site_url: https://www.bookforum.com/
+      source_type: culture_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Internet Archive Blog
       feed_url: https://blog.archive.org/feed/
       site_url: https://blog.archive.org/
+      source_type: culture_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Internet Archive Books
       feed_url: https://blog.archive.org/category/books/feed/
       site_url: https://blog.archive.org/category/books/
+      source_type: culture_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
   film_moving_image:
     title: film & moving image
     title_zh: 电影与影像
@@ -553,18 +1051,43 @@ sections:
     - name: MUBI Notebook
       feed_url: https://mubi.com/notebook/posts.rss
       site_url: https://mubi.com/notebook
+      source_type: culture_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: culture_probe
     - name: Little White Lies
       feed_url: https://lwlies.com/feed/
       site_url: https://lwlies.com/
+      source_type: culture_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: culture_probe
     - name: Sight and Sound
-      feed_url:
+      feed_url: null
       site_url: https://www.bfi.org.uk/sight-and-sound
+      source_type: culture_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: culture_probe
     - name: Film Comment
-      feed_url:
+      feed_url: null
       site_url: https://www.filmcomment.com/
+      source_type: culture_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: culture_probe
     - name: Reverse Shot
-      feed_url:
+      feed_url: null
       site_url: https://reverseshot.org/
+      source_type: culture_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: culture_probe
   music_sound:
     title: music & sound
     title_zh: 音乐与声音
@@ -574,27 +1097,58 @@ sections:
     - name: Bandcamp Daily
       feed_url: https://daily.bandcamp.com/feed
       site_url: https://daily.bandcamp.com/
+      source_type: culture_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: culture_probe
     - name: The Quietus
       feed_url: https://thequietus.com/feed/
       site_url: https://thequietus.com/
+      source_type: culture_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: culture_probe
     - name: Aquarium Drunkard
       feed_url: https://aquariumdrunkard.com/feed/
       site_url: https://aquariumdrunkard.com/
+      source_type: culture_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: culture_probe
     - name: Resident Advisor
       feed_url: https://ra.co/rss/news
       site_url: https://ra.co/news
+      source_type: culture_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: culture_probe
     - name: Pitchfork Album Reviews
       feed_url: https://pitchfork.com/rss/reviews/albums/
       site_url: https://pitchfork.com/reviews/albums/
+      source_type: culture_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: culture_probe
   photography:
     title: photography
     title_zh: 摄影
-    description: Photography, photo essays, documentary image-making, visual reportage, archives, exhibitions, and photographic practice.
+    description: Photography, photo essays, documentary image-making, visual reportage, archives, exhibitions, and photographic
+      practice.
     description_zh: 摄影、图片故事、纪实影像、视觉报道、档案、展览与摄影实践。
     feeds:
     - name: Magnum Photos
-      feed_url:
+      feed_url: null
       site_url: https://www.magnumphotos.com/
+      source_type: newspaper_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
   human_societies:
     title: human societies
     title_zh: 人类社会
@@ -604,24 +1158,59 @@ sections:
     - name: SAPIENS
       feed_url: https://www.sapiens.org/feed/
       site_url: https://www.sapiens.org/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Somatosphere
       feed_url: http://somatosphere.net/feed/
       site_url: http://somatosphere.net/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Anthropology News
       feed_url: https://www.anthropology-news.org/feed/
       site_url: https://www.anthropology-news.org/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: The Society Pages
       feed_url: https://thesocietypages.org/feed/
       site_url: https://thesocietypages.org/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Society for Cultural Anthropology
-      feed_url:
+      feed_url: null
       site_url: https://culanth.org/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Allegra Lab
-      feed_url:
+      feed_url: null
       site_url: https://allegralaboratory.net/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Annual Reviews Magazine
-      feed_url:
+      feed_url: null
       site_url: https://www.annualreviews.org/magazine
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
   mind:
     title: mind
     title_zh: 心智
@@ -631,15 +1220,35 @@ sections:
     - name: Psyche
       feed_url: https://psyche.co/feed
       site_url: https://psyche.co/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: BPS Research Digest
       feed_url: https://www.bps.org.uk/research-digest/rss.xml
       site_url: https://www.bps.org.uk/research-digest
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: APA News
       feed_url: https://www.apa.org/news/rss
       site_url: https://www.apa.org/news
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Mind & Life Institute
-      feed_url:
+      feed_url: null
       site_url: https://www.mindandlife.org/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
   science_news:
     title: science news
     title_zh: 科学新闻
@@ -649,24 +1258,59 @@ sections:
     - name: ScienceDaily
       feed_url: https://www.sciencedaily.com/rss/all.xml
       site_url: https://www.sciencedaily.com/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 3
+      professional_value: 3
+      use_role: signal
     - name: Phys.org Biology
       feed_url: https://phys.org/rss-feed/biology-news/
       site_url: https://phys.org/biology-news/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 3
+      professional_value: 3
+      use_role: signal
     - name: Science News
       feed_url: https://www.sciencenews.org/feed
       site_url: https://www.sciencenews.org/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: The Scientist
       feed_url: https://www.the-scientist.com/rss
       site_url: https://www.the-scientist.com/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: MIT News
       feed_url: https://news.mit.edu/rss/topic/science-technology
       site_url: https://news.mit.edu/topic/science-technology
+      source_type: institutional
+      authority_level: primary
+      reliability_score: 5
+      professional_value: 5
+      use_role: baseline
     - name: Quanta Magazine
       feed_url: https://www.quantamagazine.org/feed/
       site_url: https://www.quantamagazine.org/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Nautilus
       feed_url: https://nautil.us/feed/
       site_url: https://nautil.us/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
   research:
     title: research
     title_zh: 学术
@@ -676,48 +1320,114 @@ sections:
     - name: Nature
       feed_url: https://www.nature.com/nature.rss
       site_url: https://www.nature.com/nature/
+      source_type: journal
+      authority_level: primary
+      reliability_score: 5
+      professional_value: 5
+      use_role: baseline
     - name: bioRxiv Ecology
       feed_url: https://www.biorxiv.org/rss/collection/ecology.xml
       site_url: https://www.biorxiv.org/collection/ecology
+      source_type: preprint
+      authority_level: primary
+      reliability_score: 4
+      professional_value: 5
+      use_role: signal
     - name: bioRxiv Evolutionary Biology
       feed_url: https://www.biorxiv.org/rss/collection/evolutionary-biology.xml
       site_url: https://www.biorxiv.org/collection/evolutionary-biology
+      source_type: preprint
+      authority_level: primary
+      reliability_score: 4
+      professional_value: 5
+      use_role: signal
     - name: bioRxiv Zoology
       feed_url: https://www.biorxiv.org/rss/collection/zoology.xml
       site_url: https://www.biorxiv.org/collection/zoology
+      source_type: preprint
+      authority_level: primary
+      reliability_score: 4
+      professional_value: 5
+      use_role: signal
     - name: arXiv q-bio Populations and Evolution
       feed_url: https://rss.arxiv.org/rss/q-bio.PE
       site_url: https://arxiv.org/list/q-bio.PE/recent
+      source_type: preprint
+      authority_level: primary
+      reliability_score: 4
+      professional_value: 5
+      use_role: signal
     - name: eLife Latest
       feed_url: https://elifesciences.org/rss/recent.xml
       site_url: https://elifesciences.org/
+      source_type: journal
+      authority_level: primary
+      reliability_score: 5
+      professional_value: 5
+      use_role: baseline
     - name: PLOS Biology
       feed_url: https://journals.plos.org/plosbiology/feed/atom
       site_url: https://journals.plos.org/plosbiology/
+      source_type: journal
+      authority_level: primary
+      reliability_score: 5
+      professional_value: 5
+      use_role: baseline
     - name: PsyArXiv
       feed_url: https://osf.io/preprints/psyarxiv/discover.rss
       site_url: https://osf.io/preprints/psyarxiv
+      source_type: preprint
+      authority_level: primary
+      reliability_score: 4
+      professional_value: 5
+      use_role: signal
     - name: SocArXiv
       feed_url: https://osf.io/preprints/socarxiv/discover.rss
       site_url: https://osf.io/preprints/socarxiv
+      source_type: preprint
+      authority_level: primary
+      reliability_score: 4
+      professional_value: 5
+      use_role: signal
   ecology_conservation:
     title: ecology & conservation
     title_zh: 生态与保护
-    description: Ecology, biodiversity, conservation, habitats, protected areas, rewilding, restoration, and human-nature conflict.
+    description: Ecology, biodiversity, conservation, habitats, protected areas, rewilding, restoration, and human-nature
+      conflict.
     description_zh: 生态学、生物多样性、保护、栖息地、保护区、再野化、生态恢复与人类—自然冲突。
     feeds:
     - name: Mongabay Conservation
       feed_url: https://news.mongabay.com/list/conservation/feed/
       site_url: https://news.mongabay.com/list/conservation/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Mongabay Biodiversity
       feed_url: https://news.mongabay.com/list/biodiversity/feed/
       site_url: https://news.mongabay.com/list/biodiversity/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: bioGraphic
-      feed_url:
+      feed_url: null
       site_url: https://www.biographic.com/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Yale Environment 360
-      feed_url:
+      feed_url: null
       site_url: https://e360.yale.edu/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
   animal_behavior:
     title: animal behavior
     title_zh: 动物行为
@@ -727,12 +1437,27 @@ sections:
     - name: Mongabay Animal Behavior
       feed_url: https://news.mongabay.com/list/animal-behavior/feed/
       site_url: https://news.mongabay.com/list/animal-behavior/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Animal Cognition
-      feed_url:
+      feed_url: null
       site_url: https://www.springer.com/journal/10071
+      source_type: journal
+      authority_level: primary
+      reliability_score: 5
+      professional_value: 5
+      use_role: baseline
     - name: Animal Behaviour
-      feed_url:
+      feed_url: null
       site_url: https://www.sciencedirect.com/journal/animal-behaviour
+      source_type: journal
+      authority_level: primary
+      reliability_score: 5
+      professional_value: 5
+      use_role: baseline
   plants_fungi:
     title: plants & fungi
     title_zh: 植物与真菌
@@ -740,11 +1465,21 @@ sections:
     description_zh: 植物、真菌、植物学、菌物学、森林、植物生态、分类学与植物文化。
     feeds:
     - name: Kew Science
-      feed_url:
+      feed_url: null
       site_url: https://www.kew.org/science
+      source_type: institutional
+      authority_level: primary
+      reliability_score: 5
+      professional_value: 5
+      use_role: baseline
     - name: New Phytologist
-      feed_url:
+      feed_url: null
       site_url: https://nph.onlinelibrary.wiley.com/
+      source_type: journal
+      authority_level: primary
+      reliability_score: 5
+      professional_value: 5
+      use_role: baseline
   natural_history:
     title: natural history
     title_zh: 自然史
@@ -754,15 +1489,35 @@ sections:
     - name: Smithsonian Science
       feed_url: https://www.smithsonianmag.com/rss/science/
       site_url: https://www.smithsonianmag.com/science-nature/
+      source_type: institutional
+      authority_level: primary
+      reliability_score: 5
+      professional_value: 5
+      use_role: baseline
     - name: Smithsonian Smart News
       feed_url: https://www.smithsonianmag.com/rss/smart-news/
       site_url: https://www.smithsonianmag.com/smart-news/
+      source_type: institutional
+      authority_level: primary
+      reliability_score: 5
+      professional_value: 5
+      use_role: baseline
     - name: Natural History Museum
       feed_url: https://www.nhm.ac.uk/discover.rss
       site_url: https://www.nhm.ac.uk/discover.html
+      source_type: institutional
+      authority_level: primary
+      reliability_score: 5
+      professional_value: 5
+      use_role: baseline
     - name: Everything Dinosaur
       feed_url: https://blog.everythingdinosaur.com/feed
       site_url: https://blog.everythingdinosaur.com/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
   marine_life:
     title: marine life
     title_zh: 海洋生命
@@ -772,27 +1527,67 @@ sections:
     - name: Hakai Magazine
       feed_url: https://hakaimagazine.com/feed/
       site_url: https://hakaimagazine.com/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: ScienceDaily Marine Biology
       feed_url: https://www.sciencedaily.com/rss/plants_animals/marine_biology.xml
       site_url: https://www.sciencedaily.com/news/plants_animals/marine_biology/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 3
+      professional_value: 3
+      use_role: signal
     - name: NOAA PMEL Highlights
       feed_url: https://www.pmel.noaa.gov/feed/rss-feed-pmel-whats-new.xml
       site_url: https://www.pmel.noaa.gov/
+      source_type: institutional
+      authority_level: primary
+      reliability_score: 5
+      professional_value: 5
+      use_role: baseline
     - name: NOAA Ocean Exploration
       feed_url: https://oceanexplorer.noaa.gov/news/oceanexplorer-news.xml
       site_url: https://oceanexplorer.noaa.gov/news/
+      source_type: institutional
+      authority_level: primary
+      reliability_score: 5
+      professional_value: 5
+      use_role: baseline
     - name: MarineBio Conservation Society
       feed_url: https://www.marinebio.org/news/feed/
       site_url: https://www.marinebio.org/news/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Oceanographic Magazine
       feed_url: https://oceanographicmagazine.com/feed/
       site_url: https://oceanographicmagazine.com/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: The Revelator Oceans
       feed_url: https://therevelator.org/category/oceans/feed/
       site_url: https://therevelator.org/category/oceans/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Mongabay Oceans
       feed_url: https://news.mongabay.com/list/oceans/feed/
       site_url: https://news.mongabay.com/list/oceans/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
   mollusks:
     title: mollusks
     title_zh: 贝壳与软体动物
@@ -802,15 +1597,35 @@ sections:
     - name: ScienceDaily Mollusks
       feed_url: https://www.sciencedaily.com/rss/plants_animals/mollusks.xml
       site_url: https://www.sciencedaily.com/news/plants_animals/mollusks/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 3
+      professional_value: 3
+      use_role: signal
     - name: Phys.org Mollusks
       feed_url: https://phys.org/rss-feed/tags/mollusks/
       site_url: https://phys.org/tags/mollusks/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 3
+      professional_value: 3
+      use_role: signal
     - name: The Cephalopod Page
       feed_url: https://www.thecephalopodpage.org/feed/
       site_url: https://www.thecephalopodpage.org/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Malacological Society of London
       feed_url: https://malacsoc.org.uk/feed/
       site_url: https://malacsoc.org.uk/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
   arthropods:
     title: arthropods
     title_zh: 节肢动物
@@ -820,195 +1635,452 @@ sections:
     - name: Entomology Today
       feed_url: https://entomologytoday.org/feed/
       site_url: https://entomologytoday.org/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: ScienceDaily Insects
       feed_url: https://www.sciencedaily.com/rss/plants_animals/insects_and_butterflies.xml
       site_url: https://www.sciencedaily.com/news/plants_animals/insects_and_butterflies/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 3
+      professional_value: 3
+      use_role: signal
     - name: Xerces Society Blog
       feed_url: https://xerces.org/blog/feed
       site_url: https://xerces.org/blog
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: BugGuide Recent Articles
       feed_url: https://bugguide.net/rss
       site_url: https://bugguide.net/
+      source_type: reference_tool
+      authority_level: primary
+      reliability_score: 3
+      professional_value: 4
+      use_role: reference
     - name: AntWiki Recent Changes
       feed_url: https://www.antwiki.org/wiki/Special:RecentChanges?feed=atom
       site_url: https://www.antwiki.org/wiki/Main_Page
+      source_type: reference_tool
+      authority_level: primary
+      reliability_score: 4
+      professional_value: 4
+      use_role: reference
   ai_systems:
     title: AI systems
     title_zh: AI 系统
-    description: Artificial intelligence, foundation models, agents, synthetic media, evaluation, alignment, and AI as a social-technical system.
+    description: Artificial intelligence, foundation models, agents, synthetic media, evaluation, alignment, and AI as a social-technical
+      system.
     description_zh: 人工智能、基础模型、智能体、合成媒介、评测、对齐，以及作为社会—技术系统的 AI。
     feeds:
     - name: MIT Technology Review
       feed_url: https://www.technologyreview.com/feed/
       site_url: https://www.technologyreview.com/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Google AI Blog
       feed_url: https://blog.google/technology/ai/rss/
       site_url: https://blog.google/technology/ai/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Google DeepMind
       feed_url: https://deepmind.google/blog/rss.xml
       site_url: https://deepmind.google/blog/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: The Verge AI
       feed_url: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
       site_url: https://www.theverge.com/ai-artificial-intelligence
+      source_type: newspaper_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: The Gradient
       feed_url: https://thegradient.pub/rss/
       site_url: https://thegradient.pub/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Hugging Face Blog
       feed_url: https://huggingface.co/blog/feed.xml
       site_url: https://huggingface.co/blog
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
   computing_cultures:
     title: computing cultures
     title_zh: 计算文化
-    description: Software, programming cultures, open source, developer tools, hacker culture, computing history, and how people think with computers.
+    description: Software, programming cultures, open source, developer tools, hacker culture, computing history, and how
+      people think with computers.
     description_zh: 软件、编程文化、开源、开发者工具、黑客文化、计算史，以及人如何借助计算机思考。
     feeds:
     - name: Ars Technica
       feed_url: https://feeds.arstechnica.com/arstechnica/index
       site_url: https://arstechnica.com/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Simon Willison's Weblog
       feed_url: https://simonwillison.net/atom/everything/
       site_url: https://simonwillison.net/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: LWN.net
       feed_url: https://lwn.net/headlines/rss
       site_url: https://lwn.net/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Communications of the ACM
-      feed_url:
+      feed_url: null
       site_url: https://cacm.acm.org/feed/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Hacker News
       feed_url: https://news.ycombinator.com/rss
       site_url: https://news.ycombinator.com/
+      source_type: community
+      authority_level: community
+      reliability_score: 2
+      professional_value: 3
+      use_role: signal
   platforms_infrastructure:
     title: platforms & infrastructure
     title_zh: 平台与基础设施
-    description: Cloud platforms, internet infrastructure, data centers, protocols, developer platforms, app ecosystems, and the hidden systems that keep digital life running.
+    description: Cloud platforms, internet infrastructure, data centers, protocols, developer platforms, app ecosystems, and
+      the hidden systems that keep digital life running.
     description_zh: 云平台、互联网基础设施、数据中心、协议、开发者平台、应用生态，以及维持数字生活运转的隐蔽系统。
     feeds:
     - name: Cloudflare Blog
       feed_url: https://blog.cloudflare.com/rss/
       site_url: https://blog.cloudflare.com/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: GitHub Blog
       feed_url: https://github.blog/feed/
       site_url: https://github.blog/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: GitHub Changelog
       feed_url: https://github.blog/changelog/feed/
       site_url: https://github.blog/changelog/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Mozilla Hacks
       feed_url: https://hacks.mozilla.org/feed/
       site_url: https://hacks.mozilla.org/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Vercel Blog
       feed_url: https://vercel.com/blog/rss.xml
       site_url: https://vercel.com/blog
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: APNIC Blog
       feed_url: https://blog.apnic.net/feed/
       site_url: https://blog.apnic.net/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
   interfaces_media_technology:
     title: interfaces & media technology
     title_zh: 界面与媒介技术
-    description: Human-computer interaction, search, recommendation systems, browsers, devices, social media, spatial computing, and technologies that shape perception and attention.
+    description: Human-computer interaction, search, recommendation systems, browsers, devices, social media, spatial computing,
+      and technologies that shape perception and attention.
     description_zh: 人机交互、搜索、推荐系统、浏览器、设备、社交媒体、空间计算，以及塑造感知与注意力的技术。
     feeds:
     - name: The Verge
       feed_url: https://www.theverge.com/rss/index.xml
       site_url: https://www.theverge.com/
+      source_type: newspaper_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Wired
       feed_url: https://www.wired.com/feed/rss
       site_url: https://www.wired.com/
+      source_type: newspaper_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Nielsen Norman Group
       feed_url: https://www.nngroup.com/articles/rss/
       site_url: https://www.nngroup.com/articles/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Platformer
       feed_url: https://www.platformer.news/feed
       site_url: https://www.platformer.news/
+      source_type: newspaper_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Garbage Day
       feed_url: https://www.garbageday.email/feed
       site_url: https://www.garbageday.email/
+      source_type: newspaper_magazine
+      authority_level: commentary
+      reliability_score: 3
+      professional_value: 3
+      use_role: culture_probe
     - name: Search Engine Land
       feed_url: https://searchengineland.com/feed
       site_url: https://searchengineland.com/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
   cybernetics_automation:
     title: cybernetics & automation
     title_zh: 控制论与自动化
-    description: Robotics, drones, automation, sensors, cyber-physical systems, industrial systems, logistics, simulation, and machines that act in the world.
+    description: Robotics, drones, automation, sensors, cyber-physical systems, industrial systems, logistics, simulation,
+      and machines that act in the world.
     description_zh: 机器人、无人机、自动化、传感器、信息物理系统、工业系统、物流、仿真，以及能够在世界中行动的机器。
     feeds:
     - name: IEEE Spectrum Robotics
-      feed_url:
+      feed_url: null
       site_url: https://spectrum.ieee.org/feeds/topic/robotics.rss
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: The Robot Report
       feed_url: https://www.therobotreport.com/feed/
       site_url: https://www.therobotreport.com/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Robotics & Automation News
       feed_url: https://roboticsandautomationnews.com/feed/
       site_url: https://roboticsandautomationnews.com/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: DroneDJ
       feed_url: https://dronedj.com/feed/
       site_url: https://dronedj.com/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: MIT CSAIL News
       feed_url: https://www.csail.mit.edu/rss.xml
       site_url: https://www.csail.mit.edu/news
+      source_type: institutional
+      authority_level: primary
+      reliability_score: 5
+      professional_value: 5
+      use_role: baseline
   hardware_radio_embedded:
     title: hardware, radio & embedded systems
     title_zh: 硬件、无线电与嵌入式系统
-    description: Electronics, radio, SDR, semiconductors, embedded computing, repairable devices, boards, chips, sensors, and small-scale technical material culture.
+    description: Electronics, radio, SDR, semiconductors, embedded computing, repairable devices, boards, chips, sensors,
+      and small-scale technical material culture.
     description_zh: 电子、无线电、SDR、半导体、嵌入式计算、可维修设备、开发板、芯片、传感器，以及小尺度技术器物文化。
     feeds:
     - name: ARRL News
       feed_url: https://www.arrl.org/arrl.rss
       site_url: https://www.arrl.org/news
+      source_type: institutional
+      authority_level: primary
+      reliability_score: 5
+      professional_value: 5
+      use_role: baseline
     - name: RTL-SDR Blog
       feed_url: https://www.rtl-sdr.com/feed/
       site_url: https://www.rtl-sdr.com/
+      source_type: newspaper_magazine
+      authority_level: generalist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: SWLing Post
       feed_url: https://swling.com/blog/feed/
       site_url: https://swling.com/blog/
+      source_type: newspaper_magazine
+      authority_level: generalist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Radio Society of Great Britain
       feed_url: https://rsgb.org/main/feed/
       site_url: https://rsgb.org/main/
+      source_type: institutional
+      authority_level: primary
+      reliability_score: 5
+      professional_value: 5
+      use_role: baseline
     - name: Hackaday
       feed_url: https://hackaday.com/blog/feed/
       site_url: https://hackaday.com/
+      source_type: newspaper_magazine
+      authority_level: generalist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: IEEE Spectrum
       feed_url: https://spectrum.ieee.org/feeds/feed.rss
       site_url: https://spectrum.ieee.org/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: CNX Software
       feed_url: https://www.cnx-software.com/feed/
       site_url: https://www.cnx-software.com/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Raspberry Pi Blog
       feed_url: https://www.raspberrypi.com/news/feed/
       site_url: https://www.raspberrypi.com/news/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Adafruit Blog
       feed_url: https://blog.adafruit.com/feed/
       site_url: https://blog.adafruit.com/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: SparkFun News
       feed_url: https://www.sparkfun.com/news/rss
       site_url: https://www.sparkfun.com/news
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: iFixit News
       feed_url: https://www.ifixit.com/News/feed
       site_url: https://www.ifixit.com/News
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
   technology_politics:
     title: technology politics
     title_zh: 技术政治
-    description: Technology policy, platform governance, surveillance, privacy, labor, antitrust, regulation, standards, digital rights, and geopolitical competition around technical systems.
+    description: Technology policy, platform governance, surveillance, privacy, labor, antitrust, regulation, standards, digital
+      rights, and geopolitical competition around technical systems.
     description_zh: 技术政策、平台治理、监控、隐私、劳动、反垄断、监管、标准、数字权利，以及围绕技术系统的地缘竞争。
     feeds:
     - name: Electronic Frontier Foundation
       feed_url: https://www.eff.org/rss/updates.xml
       site_url: https://www.eff.org/updates
+      source_type: institutional
+      authority_level: primary
+      reliability_score: 5
+      professional_value: 5
+      use_role: baseline
     - name: Tech Policy Press
       feed_url: https://www.techpolicy.press/rss/
       site_url: https://www.techpolicy.press/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Rest of World
       feed_url: https://restofworld.org/feed/latest/
       site_url: https://restofworld.org/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: 404 Media
       feed_url: https://www.404media.co/rss/
       site_url: https://www.404media.co/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: The Markup
       feed_url: https://themarkup.org/feeds/rss.xml
       site_url: https://themarkup.org/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Access Now
       feed_url: https://www.accessnow.org/feed/
       site_url: https://www.accessnow.org/
+      source_type: institutional
+      authority_level: primary
+      reliability_score: 5
+      professional_value: 5
+      use_role: baseline
   games:
     title: games
     title_zh: 游戏
@@ -1018,18 +2090,43 @@ sections:
     - name: Game Developer
       feed_url: https://www.gamedeveloper.com/rss.xml
       site_url: https://www.gamedeveloper.com/
+      source_type: culture_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: culture_probe
     - name: Rock Paper Shotgun
       feed_url: https://www.rockpapershotgun.com/feed
       site_url: https://www.rockpapershotgun.com/
+      source_type: culture_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: culture_probe
     - name: Eurogamer
       feed_url: https://www.eurogamer.net/feed
       site_url: https://www.eurogamer.net/
+      source_type: culture_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: culture_probe
     - name: Polygon
       feed_url: https://www.polygon.com/rss/index.xml
       site_url: https://www.polygon.com/
+      source_type: culture_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: culture_probe
     - name: PC Gamer
       feed_url: https://www.pcgamer.com/rss/
       site_url: https://www.pcgamer.com/
+      source_type: culture_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: culture_probe
   arts_design:
     title: arts & design
     title_zh: 艺术与设计
@@ -1039,18 +2136,43 @@ sections:
     - name: e-flux
       feed_url: https://www.e-flux.com/rss/
       site_url: https://www.e-flux.com/
+      source_type: culture_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: culture_probe
     - name: ArtReview
       feed_url: https://artreview.com/feed/
       site_url: https://artreview.com/
+      source_type: culture_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: culture_probe
     - name: The Art Newspaper
       feed_url: https://www.theartnewspaper.com/rss.xml
       site_url: https://www.theartnewspaper.com/
+      source_type: culture_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: culture_probe
     - name: Hyperallergic
       feed_url: https://hyperallergic.com/feed/
       site_url: https://hyperallergic.com/
+      source_type: culture_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: culture_probe
     - name: ARTnews
       feed_url: https://www.artnews.com/feed/
       site_url: https://www.artnews.com/
+      source_type: culture_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: culture_probe
   architecture_urbanism:
     title: architecture & urbanism
     title_zh: 建筑与城市
@@ -1058,17 +2180,37 @@ sections:
     description_zh: 建筑、城市主义、景观、空间文化、建成环境、居住与设计批评。
     feeds:
     - name: Places Journal
-      feed_url:
+      feed_url: null
       site_url: https://placesjournal.org/
+      source_type: culture_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: culture_probe
     - name: Dezeen
       feed_url: https://www.dezeen.com/feed/
       site_url: https://www.dezeen.com/
+      source_type: culture_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: culture_probe
     - name: ArchDaily
       feed_url: https://www.archdaily.com/rss
       site_url: https://www.archdaily.com/
+      source_type: culture_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: culture_probe
     - name: The Architectural Review
-      feed_url:
+      feed_url: null
       site_url: https://www.architectural-review.com/
+      source_type: culture_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: culture_probe
   fashion_style:
     title: fashion & style
     title_zh: 时尚与风格
@@ -1078,15 +2220,35 @@ sections:
     - name: Business of Fashion
       feed_url: https://www.businessoffashion.com/arc/outboundfeeds/rss/?outputType=xml
       site_url: https://www.businessoffashion.com/
+      source_type: culture_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: culture_probe
     - name: Vogue
       feed_url: https://www.vogue.com/feed/rss
       site_url: https://www.vogue.com/
+      source_type: culture_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: culture_probe
     - name: Hypebeast
       feed_url: https://hypebeast.com/feed
       site_url: https://hypebeast.com/
+      source_type: culture_magazine
+      authority_level: commentary
+      reliability_score: 3
+      professional_value: 3
+      use_role: culture_probe
     - name: Highsnobiety
       feed_url: https://www.highsnobiety.com/feed/
       site_url: https://www.highsnobiety.com/
+      source_type: culture_magazine
+      authority_level: commentary
+      reliability_score: 3
+      professional_value: 3
+      use_role: culture_probe
   field_gear:
     title: field gear
     title_zh: 野外装备
@@ -1096,39 +2258,90 @@ sections:
     - name: OutdoorGearLab
       feed_url: https://www.outdoorgearlab.com/feed
       site_url: https://www.outdoorgearlab.com/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 3
+      professional_value: 4
+      use_role: culture_probe
     - name: SectionHiker
       feed_url: https://sectionhiker.com/feed/
       site_url: https://sectionhiker.com/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 3
+      professional_value: 4
+      use_role: culture_probe
     - name: Field Mag
       feed_url: https://www.fieldmag.com/rss
       site_url: https://www.fieldmag.com/
+      source_type: newspaper_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Bikepacking.com
       feed_url: https://bikepacking.com/feed/
       site_url: https://bikepacking.com/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 3
+      professional_value: 4
+      use_role: culture_probe
     - name: Gear Patrol
       feed_url: https://www.gearpatrol.com/rss/
       site_url: https://www.gearpatrol.com/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 3
+      professional_value: 3
+      use_role: culture_probe
     - name: KnifeNews
       feed_url: https://knifenews.com/feed/
       site_url: https://knifenews.com/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 3
+      professional_value: 4
+      use_role: culture_probe
     - name: BLADE Magazine Knife News
       feed_url: https://blademag.com/knife-news/feed
       site_url: https://blademag.com/knife-news
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 3
+      professional_value: 4
+      use_role: culture_probe
   everyday_carry:
     title: everyday carry
     title_zh: 日用携行
-    description: Everyday carry, bags, organizers, portable tools, carry systems, wallets, utility objects, and practical personal gear.
+    description: Everyday carry, bags, organizers, portable tools, carry systems, wallets, utility objects, and practical
+      personal gear.
     description_zh: 日用携行、包具、收纳、便携工具、携带系统、钱包、实用小物与个人装备。
     feeds:
     - name: Carryology
       feed_url: https://www.carryology.com/feed/
       site_url: https://www.carryology.com/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 3
+      professional_value: 4
+      use_role: culture_probe
     - name: Everyday Carry
-      feed_url:
+      feed_url: null
       site_url: https://everydaycarry.com/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 3
+      professional_value: 3
+      use_role: culture_probe
     - name: Best Damn EDC
-      feed_url:
+      feed_url: null
       site_url: https://www.bestdamnedc.com/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 3
+      professional_value: 3
+      use_role: culture_probe
   tools_workshop:
     title: tools & workshop
     title_zh: 工具与工坊
@@ -1138,15 +2351,35 @@ sections:
     - name: 'Make:'
       feed_url: https://makezine.com/feed/
       site_url: https://makezine.com/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 3
+      professional_value: 4
+      use_role: culture_probe
     - name: Core77
       feed_url: https://www.core77.com/rss
       site_url: https://www.core77.com/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 3
+      professional_value: 4
+      use_role: culture_probe
     - name: Cool Tools
-      feed_url:
+      feed_url: null
       site_url: https://kk.org/cooltools/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 3
+      professional_value: 4
+      use_role: culture_probe
     - name: Low-Tech Magazine
       feed_url: https://solar.lowtechmagazine.com/feeds/all-en.atom.xml
       site_url: https://solar.lowtechmagazine.com/
+      source_type: newspaper_magazine
+      authority_level: commentary
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
   repair_maintenance:
     title: repair & maintenance
     title_zh: 维修与维护
@@ -1156,15 +2389,36 @@ sections:
     - name: iFixit News
       feed_url: https://www.ifixit.com/News/feed
       site_url: https://www.ifixit.com/News
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: Repair.org
-      feed_url:
+      feed_url: null
       site_url: https://www.repair.org/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
     - name: The Restart Project
-      feed_url:
+      feed_url: null
       site_url: https://therestartproject.org/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
 disabled_feeds:
 - name: Contexts
   feed_url: https://contexts.org/feed/
   site_url: https://contexts.org/
+  source_type: newspaper_magazine
+  authority_level: community
+  reliability_score: 1
+  professional_value: 1
+  use_role: quarantine
   former_section: human_societies
-  reason: 'Quarantined: rendered intake page shows repeated casino/gambling spam from this feed. Re-enable only after the upstream feed is clean or a keyword/domain filter is added.'
+  reason: 'Quarantined: rendered intake page shows repeated casino/gambling spam from this feed. Re-enable only after the
+    upstream feed is clean or a keyword/domain filter is added.'
