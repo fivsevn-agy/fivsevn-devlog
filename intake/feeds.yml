@@ -201,6 +201,38 @@ sections:
         reliability_score: 5
         professional_value: 5
         use_role: baseline
+      - name: ProPublica
+        feed_url: null
+        site_url: https://www.propublica.org/
+        source_type: specialist_media
+        authority_level: specialist
+        reliability_score: 5
+        professional_value: 5
+        use_role: baseline
+      - name: Bellingcat
+        feed_url: https://www.bellingcat.com/feed/
+        site_url: https://www.bellingcat.com/
+        source_type: specialist_media
+        authority_level: specialist
+        reliability_score: 4
+        professional_value: 5
+        use_role: signal
+      - name: Council on Foreign Relations
+        feed_url: null
+        site_url: https://www.cfr.org/
+        source_type: specialist_media
+        authority_level: specialist
+        reliability_score: 4
+        professional_value: 5
+        use_role: baseline
+      - name: European Council on Foreign Relations
+        feed_url: null
+        site_url: https://ecfr.eu/
+        source_type: specialist_media
+        authority_level: specialist
+        reliability_score: 4
+        professional_value: 5
+        use_role: baseline
       - name: Reuters World
         feed_url: null
         site_url: https://www.reuters.com/world/
@@ -569,6 +601,22 @@ sections:
       reliability_score: 3
       professional_value: 3
       use_role: reference
+    - name: Nieman Journalism Lab
+      feed_url: null
+      site_url: https://www.niemanlab.org/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
+    - name: Nieman Reports
+      feed_url: null
+      site_url: https://niemanreports.org/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
   prices_markets:
     title: prices & markets
     title_zh: 价格与市场
@@ -616,6 +664,14 @@ sections:
       reliability_score: 4
       professional_value: 4
       use_role: reference
+    - name: Our World in Data
+      feed_url: https://ourworldindata.org/atom.xml
+      site_url: https://ourworldindata.org/
+      source_type: institutional
+      authority_level: primary
+      reliability_score: 5
+      professional_value: 5
+      use_role: reference
   energy_resources:
     title: energy & resources
     title_zh: 能源与资源
@@ -660,6 +716,14 @@ sections:
       site_url: https://www.reuters.com/business/energy/
       source_type: wire_service
       authority_level: generalist
+      reliability_score: 5
+      professional_value: 5
+      use_role: baseline
+    - name: Carbon Brief
+      feed_url: null
+      site_url: https://www.carbonbrief.org/
+      source_type: specialist_media
+      authority_level: specialist
       reliability_score: 5
       professional_value: 5
       use_role: baseline
@@ -906,6 +970,38 @@ sections:
       reliability_score: 5
       professional_value: 5
       use_role: baseline
+    - name: CEPR VoxEU
+      feed_url: https://cepr.org/rss/vox-content
+      site_url: https://cepr.org/voxeu
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 5
+      use_role: baseline
+    - name: CEPR Discussion Papers
+      feed_url: https://cepr.org/rss/discussion-paper
+      site_url: https://cepr.org/research/discussion-papers
+      source_type: preprint
+      authority_level: primary
+      reliability_score: 4
+      professional_value: 5
+      use_role: signal
+    - name: European Central Bank
+      feed_url: null
+      site_url: https://www.ecb.europa.eu/
+      source_type: institutional
+      authority_level: primary
+      reliability_score: 5
+      professional_value: 5
+      use_role: baseline
+    - name: NBER
+      feed_url: null
+      site_url: https://www.nber.org/
+      source_type: institutional
+      authority_level: primary
+      reliability_score: 5
+      professional_value: 5
+      use_role: reference
   public_ideas:
     title: public ideas
     title_zh: 公共观念
@@ -1311,6 +1407,22 @@ sections:
       reliability_score: 4
       professional_value: 4
       use_role: baseline
+    - name: Undark Magazine
+      feed_url: https://undark.org/feed/
+      site_url: https://undark.org/
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
+    - name: The Conversation Science
+      feed_url: null
+      site_url: https://theconversation.com/global/topics/science-59
+      source_type: specialist_media
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 4
+      use_role: baseline
   research:
     title: research
     title_zh: 学术
@@ -1517,6 +1629,14 @@ sections:
       authority_level: specialist
       reliability_score: 4
       professional_value: 4
+      use_role: baseline
+    - name: NASA Earth Observatory
+      feed_url: null
+      site_url: https://science.nasa.gov/earth/earth-observatory/
+      source_type: institutional
+      authority_level: primary
+      reliability_score: 5
+      professional_value: 5
       use_role: baseline
   marine_life:
     title: marine life
@@ -1727,6 +1847,22 @@ sections:
       reliability_score: 4
       professional_value: 4
       use_role: baseline
+    - name: Stanford HAI
+      feed_url: null
+      site_url: https://hai.stanford.edu/
+      source_type: institutional
+      authority_level: specialist
+      reliability_score: 4
+      professional_value: 5
+      use_role: baseline
+    - name: Stanford AI Index
+      feed_url: null
+      site_url: https://hai.stanford.edu/ai-index
+      source_type: institutional
+      authority_level: primary
+      reliability_score: 5
+      professional_value: 5
+      use_role: reference
   computing_cultures:
     title: computing cultures
     title_zh: 计算文化
