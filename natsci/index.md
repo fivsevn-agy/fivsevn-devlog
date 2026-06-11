@@ -44,24 +44,16 @@ updated: 2026-03-13
 
 > 更新中......
 
-- 2026.03.17 [昆虫及相关类群数据库索引页](taxonomy/insecta/natsci-taxonomy-insecta-database-001.md) 随时更新中
-
-- 2026.03.14 [ai译：澳大利亚被纳入全球鲨鱼与鳐类数据库](taxonomy/chondrichthyes/natsci-marine-ecology-sharks-rays-001.md)
-
-- 2026.03.14 [ai译：粉色螽斯模拟延迟变绿](taxonomy/insecta/natsci-entomology-arota-festae-001.md)
-
-- 2026.03.13 [ai译：世界上其实没有“鲨鱼”？基因组研究撼动海洋顶级捕食者的家族谱系](taxonomy/chondrichthyes/natsci-taxonomy-chondrichthyes-translation-001.md)
-
-- 2026.03.13 [软骨鱼纲目级为止的梳理&FAO资料库推荐](taxonomy/chondrichthyes/natsci-taxonomy-chondrichthyes-orders-001.md)
-
-- 2026.02.20 [文化昆虫学检索建议](ethnobiology/ethnoentomology/natsci-ethnobiology-ethnoentomology-resources-001)
-
-- 2025.07.31 [memo｜マイマイカブリ亜種索引（草案）](taxonomy/insecta/coleoptera/natsci-inecta-coleoptera-carabus-blaptoides-index-001)
-
-- 2025.04.21 [memo｜マイマイカブリ情報探索メソッド(草案)](methods/natsci-methods-retrieval-001)
-
-- 2025.03.23 [锯锯鱼](https://fivsevn.home.blog/2025/03/23/锯锯鱼/)
-
+<!-- AUTO-INDEX:NATSCI_RECENT:START -->
+- 2026.03.17 [昆虫数据库索引](taxonomy/insecta/natsci-taxonomy-insecta-database-001.md)
+- 2026.03.14 [澳大利亚被纳入全球鲨鱼与鳐类重要栖息地数据库](taxonomy/chondrichthyes/natsci-marine-ecology-sharks-rays-001.md)
+- 2026.03.13 [软骨鱼纲到目级的分类梳理](taxonomy/chondrichthyes/natsci-taxonomy-chondrichthyes-orders-001.md)
+- 2026.03.13 [世界上其实没有“鲨鱼”？基因组研究撼动海洋顶级捕食者的家族谱系（译）](taxonomy/chondrichthyes/natsci-taxonomy-chondrichthyes-translation-001.md)
+- 2026.02.20 [昆虫 × 人类学资料暂存](ethnobiology/ethnoentomology/natsci-ethnobiology-ethnoentomology-resources-001.md)
+- 2026.01.01 [粉色螽斯模拟延迟变绿](taxonomy/insecta/natsci-entomology-arota-festae-001.md)
+- 2025.07.31 [マイマイカブリ亜種索引](taxonomy/insecta/coleoptera/natsci-inecta-coleoptera-carabus-blaptoides-index-001.md)
+- 2025.04.12 [マイマイカブリ情報探索メソッド](methods/natsci-methods-retrieval-001.md)
+<!-- AUTO-INDEX:NATSCI_RECENT:END -->
 ---
 ## Contact
 
