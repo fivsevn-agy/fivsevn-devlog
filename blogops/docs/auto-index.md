@@ -1,3 +1,40 @@
+---
+id: system-docs-auto-index-manual-001
+title: 自动目录维护手册
+module: system
+submodule: docs
+topic: auto-index
+type: howto
+status: active
+canonical: true
+summary: >
+  说明 fivsevn-devlog 中 posts、natsci、netcom 三个板块的自动目录生成规则，
+  包括文件抓取范围、index.md 更新区域、frontmatter 控制字段与日常维护流程。
+parents: []
+related:
+  - spec-gov-meta-frontmatter-001
+  - spec-gov-meta-enums-001
+
+tags:
+  - system
+  - docs
+  - automation
+  - index
+  - frontmatter
+audience:
+  - self
+  - collaborator
+languages:
+  - zh
+
+maturity: stable
+confidence: 0.95
+
+visibility: public
+source_of_truth: devlog
+created: 2026-06-12
+updated: 2026-06-12
+---
 # 自动目录维护手册
 
 本仓库使用自动目录脚本维护三个主要板块的首页文章列表：
