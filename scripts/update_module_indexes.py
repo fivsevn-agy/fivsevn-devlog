@@ -54,6 +54,11 @@ LINK_STATUSES = {"active", "publish", "published"}
 TEXT_STATUSES = {"draft"}
 HIDE_STATUSES = {"hidden", "private", "archived", "archive"}
 
+TRANSLATION_TYPES = {
+    "translation",
+    "traslation",
+}
+
 DATE_RE = re.compile(r"(\d{4})[-.](\d{1,2})[-.](\d{1,2})")
 
 
@@ -62,6 +67,7 @@ class Note:
     title: str
     date: str
     status: str
+    note_type: str
     link: str | None
     source_path: str
 
@@ -77,7 +83,7 @@ def parse_frontmatter(text: str) -> dict[str, str] | None:
     """Parse simple YAML front matter using only the standard library.
 
     It intentionally extracts only scalar `key: value` fields. That is enough for
-    title/module/status/created/date/updated/original_url.
+    title/module/status/type/created/date/updated/original_url.
     """
     lines = text.splitlines()
     if not lines or lines[0].strip() != "---":
@@ -192,6 +198,8 @@ def collect_notes(module_name: str, config: dict) -> tuple[list[Note], list[str]
         if mode == "hide":
             continue
 
+        note_type = (fm.get("type") or "").strip().lower()
+
         if mode == "link":
             link = (fm.get("original_url") or "").strip() or rel_to_root
         else:
@@ -202,6 +210,7 @@ def collect_notes(module_name: str, config: dict) -> tuple[list[Note], list[str]
                 title=title,
                 date=note_date,
                 status=status,
+                note_type=note_type,
                 link=link,
                 source_path=rel_to_root,
             )
@@ -211,6 +220,15 @@ def collect_notes(module_name: str, config: dict) -> tuple[list[Note], list[str]
     return notes, warnings
 
 
+def display_title(note: Note) -> str:
+    title = note.title
+
+    if note.note_type in TRANSLATION_TYPES:
+        title = f"{title}（译文）"
+
+    return title
+
+
 def render_notes(notes: list[Note]) -> str:
     if not notes:
         return "<!-- no notes found -->"
@@ -218,10 +236,12 @@ def render_notes(notes: list[Note]) -> str:
     lines: list[str] = []
     for note in notes:
         display_date = note.date.replace("-", ".")
+        title = display_title(note)
+
         if note.link:
-            lines.append(f"- {display_date} [{note.title}]({note.link})")
+            lines.append(f"- {display_date} [{title}]({note.link})")
         else:
-            lines.append(f"- {display_date} {note.title}（更新中）")
+            lines.append(f"- {display_date} {title}（更新中）")
 
     return "\n\n".join(lines)
 
@@ -270,7 +290,10 @@ def replace_after_heading(text: str, heading: str, marker: str, body: str) -> st
             break
         content_end += 1
 
-    replacement_lines = [line if line.endswith("\n") else f"{line}\n" for line in block.splitlines()]
+    replacement_lines = [
+        line if line.endswith("\n") else f"{line}\n"
+        for line in block.splitlines()
+    ]
     new_lines = lines[:content_start] + replacement_lines + lines[content_end:]
     return "".join(new_lines)
 
