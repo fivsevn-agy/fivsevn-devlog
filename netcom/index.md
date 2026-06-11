@@ -38,7 +38,7 @@ updated: 2026-03-13
 
 > 更新中......
 
-- 2025.03.12 [简单的模型判断参数标准](ai/netcom-ai-model-evaluation-basics-001.md)
+- 2026.03.12 [简单的模型判断参数标准](ai/netcom-ai-model-evaluation-basics-001.md)
 
 - 2025.12.16 [协议（protocol）](protocol/netcom-protocol-overview-001.md)
 
