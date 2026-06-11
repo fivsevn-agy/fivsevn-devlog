@@ -1,7 +1,7 @@
 ---
 id: natsci-taxonomy-chondrichthyes-translation-001
 
-title: 世界上其实没有“鲨鱼”？基因组研究撼动海洋顶级捕食者的家族谱系（译）
+title: 世界上其实没有“鲨鱼”？基因组研究撼动海洋顶级捕食者的家族谱系
 
 module: natsci
 submodule: taxonomy
