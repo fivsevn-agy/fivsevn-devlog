@@ -222,7 +222,8 @@ def render_notes(notes: list[Note]) -> str:
             lines.append(f"- {display_date} [{note.title}]({note.link})")
         else:
             lines.append(f"- {display_date} {note.title}（更新中）")
-    return "\n".join(lines)
+
+    return "\n\n".join(lines)
 
 
 def replace_between_markers(text: str, marker: str, body: str) -> tuple[str, bool]:
