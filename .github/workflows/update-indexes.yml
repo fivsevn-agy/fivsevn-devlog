@@ -1,0 +1,41 @@
+name: Update module indexes
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "posts/**/*.md"
+      - "natsci/**/*.md"
+      - "netcom/**/*.md"
+      - "scripts/update_module_indexes.py"
+      - ".github/workflows/update-indexes.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-indexes:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update module indexes
+        run: python scripts/update_module_indexes.py
+
+      - name: Commit updated indexes
+        run: |
+          if git diff --quiet -- posts/index.md natsci/index.md netcom/index.md; then
+            echo "No index changes"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add posts/index.md natsci/index.md netcom/index.md
+          git commit -m "chore: update module indexes [skip ci]"
+          git push
