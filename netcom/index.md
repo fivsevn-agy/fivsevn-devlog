@@ -43,6 +43,8 @@ updated: 2026-03-13
 
 - 2026.03.12 [简单的模型判断参数标准](ai/netcom-ai-model-evaluation-basics-001.md)
 
+- 2026.02.28 [netcom — Module Map](netcom-map.md)
+
 - 2025.12.16 [协议（Protocol）的基本结构与分类](protocol/netcom-protocol-overview-001.md)
 
 - 2025.12.13 [模运算的基本结构与直观理解](math/netcom-math-modular-arithmetic-001.md)
