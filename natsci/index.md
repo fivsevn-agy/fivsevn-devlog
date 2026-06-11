@@ -53,8 +53,6 @@ updated: 2026-03-13
 
 - 2026.03.13 [世界上其实没有“鲨鱼”？基因组研究撼动海洋顶级捕食者的家族谱系（译文）](taxonomy/chondrichthyes/natsci-taxonomy-chondrichthyes-translation-001.md)
 
-- 2026.02.28 [natsci — Module Map](natsci-map.md)
-
 - 2026.02.20 [昆虫 × 人类学资料暂存](ethnobiology/ethnoentomology/natsci-ethnobiology-ethnoentomology-resources-001.md)
 
 - 2026.01.01 [粉色螽斯模拟延迟变绿（译文）](taxonomy/insecta/natsci-entomology-arota-festae-001.md)

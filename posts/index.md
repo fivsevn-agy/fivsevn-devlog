@@ -45,8 +45,6 @@ updated: 2026-03-01
 <!-- AUTO-INDEX:POSTS_RECENT:START -->
 - 2026.06.07 [蓝牙技术命名](2026/posts-20260607-bluetooth-naming-001.md)
 
-- 2026.02.28 [posts — Module Map](posts-map.md)
-
 - 2026.02.22 [《洞穴奇案》速记与立场对照](2026/posts-20260222-speluncean-001.md)
 
 - 2025.06.27 【授权转载】Tents in Strong Wind: What You Need to Know（更新中）
