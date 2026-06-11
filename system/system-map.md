@@ -1,51 +1,64 @@
 ---
 id: system-map
 title: System Map — fivsevn AI Orientation and Topology
-
 module: system
 submodule: topology
 topic: ai-orientation
-
 type: spec
 status: active
 canonical: true
-
 summary: >
   Single-file orientation map for AI collaborators entering the fivsevn system.
   Defines repository authority, public interfaces, structural topology,
-  routing rules, boundary rules, and expansion principles.
-
-parents: [system-ai-boot-protocol]
-related: [system-module-map, system-prompt-routing, system-topology-overview-001, workspace-entry, intake]
-tags: [system, topology, ai-entry, routing, workspace, interface-boundary, intake]
-
-audience: collaborator
-languages: en
+  routing rules, map/index conventions, and publication boundaries.
+parents:
+  - system-ai-boot-protocol
+related:
+  - system-module-map
+  - system-prompt-routing
+  - system-topology-overview-001
+  - posts-module-map
+  - natsci-module-map
+  - netcom-module-map
+  - blogops-module-map
+tags:
+  - system
+  - topology
+  - ai-entry
+  - routing
+  - repository-boundary
+  - index-map
+  - automation
+audience:
+  - collaborator
+languages:
+  - en
+  - zh
 maturity: stable
 confidence: 0.97
 visibility: public
 source_of_truth: devlog
-
 created: 2026-05-23
-updated: 2026-06-03
+updated: 2026-06-12
 ---
 
 # System Map — fivsevn AI Orientation and Topology
 
 Purpose:
 
-This file is the single orientation map for AI collaborators entering the fivsevn system.
+This file is the global orientation map for AI collaborators entering the fivsevn system.
 
 Use it to quickly understand:
 
-- which repositories exist
-- which repository has authority for what
-- how public interfaces relate to repositories
-- how the blog system is structurally organized
-- how to route tasks
-- which surfaces, assets, and subsystems must not be conflated
+- which repositories exist;
+- which repository has authority for what;
+- how public interfaces relate to repositories;
+- how the blog system is structurally organized;
+- how to route tasks;
+- how `index.md` and `map.md` differ;
+- which files and generated surfaces should not be treated as canonical writing.
 
-This file is a navigation and topology layer.
+This file is a topology layer, not an article index.
 
 Initialization behavior, if needed, is defined separately in:
 
@@ -53,15 +66,16 @@ Initialization behavior, if needed, is defined separately in:
 
 ---
 
-# 0. Core Principle
+## 0. Core Principle
 
 The fivsevn system is:
 
-- multi-repository
-- multi-interface
-- structurally layered
-- partially WordPress-presented
-- partially repository-backed
+- multi-repository;
+- multi-interface;
+- structurally layered;
+- partially WordPress-presented;
+- partially repository-backed;
+- metadata-governed.
 
 Primary rule:
 
@@ -69,17 +83,19 @@ Primary rule:
 Do not infer structural authority from public appearance alone.
 ```
 
-A public page, visual surface, asset repository, and canonical text archive may cooperate, but they do not have the same authority level.
+A public page, visual surface, asset repository, generated page, and canonical text archive may cooperate, but they do not have the same authority level.
 
 ---
 
-# 1. Repository Map and Authority
+## 1. Repository Authority
 
-## 1.1 Canonical Text Archive
+### 1.1 Canonical Text Archive
 
 Repository:
 
-- `https://github.com/fivsevn-agy/fivsevn-devlog`
+```text
+fivsevn-devlog
+```
 
 Role:
 
@@ -92,6 +108,8 @@ Contains:
 - `netcom`
 - `system`
 - `blogops`
+- `intake`
+- `now`
 
 Authority:
 
@@ -101,14 +119,17 @@ Important:
 
 - Do not assume every public page on `fivsevn.com` has a dedicated content axis here.
 - Visual presentation pages may exist outside the canonical text archive structure.
+- Generated operational surfaces are not automatically canonical articles.
 
 ---
 
-## 1.2 Structural Specification
+### 1.2 Structural Specification
 
 Repository:
 
-- `https://github.com/fivsevn-agy/fivsevn-spec`
+```text
+fivsevn-spec
+```
 
 Role:
 
@@ -116,10 +137,11 @@ Structural specification for the fivsevn system.
 
 Defines:
 
-- frontmatter schema
-- id rules
-- document conventions
-- structural consistency rules
+- frontmatter schema;
+- id rules;
+- document conventions;
+- controlled vocabulary;
+- structural consistency rules.
 
 Authority:
 
@@ -127,15 +149,13 @@ Canonical source for schema and structural-rule interpretation.
 
 ---
 
-## 1.3 Static Assets
+### 1.3 Static Assets
 
 Repository:
 
-- `https://github.com/fivsevn/fivsevn-assets`
-
-CDN:
-
-- `https://cdn.jsdelivr.net/gh/fivsevn/fivsevn-assets/`
+```text
+fivsevn-assets
+```
 
 Role:
 
@@ -143,17 +163,10 @@ Static asset repository.
 
 Contains:
 
-- images
-- photography assets
-- icons
-- static resources
-
-Used by:
-
-- blog visual presentation
-- still-image pages
-- interface assets
-- public static resource delivery
+- images;
+- photography assets;
+- icons;
+- static resources.
 
 Authority:
 
@@ -165,11 +178,13 @@ Assets may support public pages, but they do not define canonical textual meanin
 
 ---
 
-## 1.4 57store Subsystem Repository
+### 1.4 57store Subsystem
 
 Repository:
 
-- `https://github.com/fivsevn/fivsevn-57store`
+```text
+fivsevn-57store
+```
 
 Role:
 
@@ -177,27 +192,29 @@ Interactive narrative / experimental subsystem repository.
 
 Contains:
 
-- interactive HTML pages
-- mini-games
-- experimental interfaces
-- UI experiments
-- narrative subsystem assets
+- interactive HTML pages;
+- mini-games;
+- experimental interfaces;
+- UI experiments;
+- narrative subsystem assets.
 
 Authority:
 
 Canonical source for 57store-specific interface files and subsystem assets.
 
-Important:
+Boundary:
 
 57store is a parallel subsystem, not a normal blog content axis.
 
 ---
 
-## 1.5 Internal Control Layer
+### 1.5 Internal Control Layer
 
 Repository:
 
-- `https://github.com/fivsevn/fivsevn-internal`
+```text
+fivsevn-internal
+```
 
 Role:
 
@@ -205,10 +222,10 @@ Private operational and control layer.
 
 Contains:
 
-- AI configuration
-- post-by-mail console
-- rapid publishing workspace
-- operational scripts
+- AI configuration;
+- operational scripts;
+- rapid publishing workspace;
+- internal workflow material.
 
 Visibility:
 
@@ -224,27 +241,21 @@ Do not cite or assume public availability unless explicitly provided in context.
 
 ---
 
-# 2. Public Interfaces
+## 2. Public Interfaces
 
-The system exposes several public surfaces.
-
-## 2.1 Primary Blog Interface
+### 2.1 Primary Blog Interface
 
 Main presentation surface:
 
-- `https://fivsevn.com`
+```text
+fivsevn.com
+```
 
 Repository-backed archive interface:
 
-- `https://devlog.fivsevn.com`
-
-Presentation streams:
-
-- `https://fivsevn.com/posts`
-- `https://fivsevn.com/foodie`
-- `https://fivsevn.com/natsci`
-- `https://fivsevn.com/stills`
-- `https://fivsevn.com/motion`
+```text
+devlog.fivsevn.com
+```
 
 Interpretation:
 
@@ -260,138 +271,103 @@ They are related, but not identical:
 
 ---
 
-## 2.2 Stills
+### 2.2 Cognitive Content Axes
 
-Stills is a main-site photography presentation surface.
+The current repository-backed cognitive axes are:
 
-Interface:
+- `posts`
+- `natsci`
+- `netcom`
 
-- `https://fivsevn.com/stills`
+These axes contain canonical Markdown articles and notes.
 
-Role:
-
-- curated photography presentation
-- still-image archive surface
-- visual entry for photo rolls and image sets
-
-Operational model:
-
-```text
-fivsevn-assets → image source
-WordPress page → visual presentation
-fivsevn.com/stills → public interface
-```
-
-Boundary:
-
-- Stills belongs to the primary blog public interface.
-- Stills is not a canonical text axis in `fivsevn-devlog`.
-- Stills is not part of the 57store subsystem.
-- Stills is not a generic media library.
+They are maintained by frontmatter and partially surfaced through auto-generated `index.md` files.
 
 ---
 
-## 2.3 Motion
+### 2.3 Presentation Surfaces
 
-Motion is a main-site moving-image / video presentation surface.
+Presentation surfaces expose content or assets but do not automatically become canonical text axes.
 
-Interface:
+Current examples:
 
-- `https://fivsevn.com/motion`
+- `stills`
+- `motion`
 
-Role:
+Rules:
 
-- curated motion-image presentation
-- video / moving-frame archive surface
-- visual entry for clips, sequences, and motion studies
-
-Operational model:
-
-```text
-fivsevn-assets or external media source → motion asset source
-WordPress page → visual presentation
-fivsevn.com/motion → public interface
-```
-
-Boundary:
-
-- Motion belongs to the primary blog public interface.
-- Motion is not a canonical text axis in `fivsevn-devlog`.
-- Motion is not part of the 57store subsystem.
-- Motion is not a generic media library.
-- Motion should not be conflated with Stills; Stills is still-image presentation, Motion is moving-image presentation.
+- Stills is a still-image presentation surface.
+- Motion is a moving-image / video presentation surface.
+- Neither should be forced into `posts`, `natsci`, or `netcom` unless there is a separate canonical text article.
 
 ---
 
-## 2.4 57store Interfaces
-
-57store is an interactive narrative / experimental subsystem.
-
-Possible interfaces:
-
-- `https://fivsevn.com/57store`
-- `https://fivsevn.com/57store/sys`
-- `https://fivsevn.com/57store/cctv`
-- `https://57store.fivsevn.com`
-- `https://57dayshift.wordpress.com`
-
-Boundary:
-
-57store is not part of the blog content axes.
-
-It operates as a parallel subsystem.
-
-Do not classify 57store pages as `posts`, `natsci`, `netcom`, `blogops`, or `stills`.
-
-
-
-## 2.5 Intake
-
-Intake is a repository-backed daily input surface.
-
-Interface:
-
-- `https://devlog.fivsevn.com/intake/`
+### 2.4 Intake
 
 Repository path:
 
-- `fivsevn-devlog/intake/`
+```text
+intake/
+```
+
+Public interface:
+
+```text
+devlog.fivsevn.com/intake/
+```
 
 Role:
 
-- daily external signal intake
-- RSS-backed information shelf
-- lightweight reading surface
-- current-facing news / science / ideas / arts feed
-- non-archival awareness interface
-
-Operational model:
-
-```text
-RSS sources → GitHub Actions → generated static HTML → devlog.fivsevn.com/intake/
-```
+- daily external signal intake;
+- RSS-backed information shelf;
+- lightweight reading surface;
+- current-facing feed.
 
 Boundary:
 
-- Intake belongs to the repository-backed archive interface.
-- Intake is not a cognitive content axis.
-- Intake is not a canonical note archive.
-- Intake does not replace `posts`, `natsci`, or `netcom`.
-- Items seen through Intake may later be routed into canonical axes only after they become notes, reflections, observations, or structured writing.
-- Intake should be treated as an operational reading surface, not as a source of structural authority.
-
-Interpretation:
-
 ```text
 intake = daily input surface
-not → permanent knowledge archive
-not → content axis
-not → source registry
+not = permanent knowledge archive
+not = cognitive content axis
+not = source registry
 ```
+
+Do not classify Intake items as canonical notes unless they are later rewritten or routed into `posts`, `natsci`, or `netcom`.
 
 ---
 
-# 3. Structural Topology
+### 2.5 Now
+
+Repository path:
+
+```text
+now/
+```
+
+Role:
+
+Current status / now-page surface.
+
+Boundary:
+
+- `now/` is a public status page.
+- It is not a long-form content axis.
+- It should not be indexed as a normal article module.
+
+---
+
+### 2.6 57store Interfaces
+
+57store is an interactive narrative / experimental subsystem.
+
+Boundary:
+
+- 57store is not part of the blog content axes.
+- Do not classify 57store pages as `posts`, `natsci`, `netcom`, `blogops`, `stills`, or `motion`.
+
+---
+
+## 3. Repository Topology
 
 ```text
 fivsevn system
@@ -407,16 +383,19 @@ fivsevn system
 │  │  ├─ stills
 │  │  └─ motion
 │  │
-│  ├─ operational intake surface
-│  │  └─ intake
+│  ├─ operational surfaces
+│  │  ├─ intake
+│  │  └─ now
 │  │
 │  └─ meta-governance
 │     └─ blogops
 │
 ├─ kernel / protocol layer
 │  └─ system
-│     ├─ ai-boot-protocol
 │     └─ system-map
+│
+├─ structural specification
+│  └─ fivsevn-spec
 │
 ├─ static asset layer
 │  └─ fivsevn-assets
@@ -430,451 +409,294 @@ fivsevn system
 
 ---
 
-# 4. Structural Layers
+## 4. `index.md` and `map.md` Convention
 
-## 4.1 Layer 1 — Cognitive Content Axes
+### `index.md`
 
-World-facing knowledge layer of the blog system.
+`index.md` is a human-facing landing page.
 
-These axes are cognitive orientations, not menu labels.
+In the main content axes, it may contain:
 
-### posts
+- module introduction;
+- public-facing notes;
+- images;
+- contact or section links;
+- an auto-generated recent list.
 
-Temporal / reflective axis.
-
-Typical content:
-
-- essays
-- reflections
-- journal-like entries
-- mixed observations
-- project notes
-
-中文注释：
-
-`posts` 是默认内容池。只有当某类内容规模足够大，并形成稳定方法论时，才可以从 `posts` 中分化出新的轴。
-
-### natsci
-
-Object-oriented domain.
-
-Focus:
-
-- natural science
-- taxonomy
-- biological observation
-- field notes
-- specimen-oriented thinking
-
-### netcom
-
-System-oriented domain.
-
-Focus:
-
-- communications
-- networks
-- protocols
-- engineering systems
-- technical infrastructure
-
----
-
-## 4.2 Layer 2 — Kernel / Protocol
-
-Rules of the system itself.
-
-Module:
-
-- `system`
-
-Responsibilities:
-
-- boot protocol
-- topology definition
-- routing policy
-- metadata interpretation
-- structural conventions
-- interface boundary clarification
-
-This layer does not contain world-facing content.
-
----
-
-## 4.3 Layer 3 — Meta-Governance
-
-Documentation about how the system evolves.
-
-Module:
-
-- `blogops`
-
-Responsibilities:
-
-- structural adjustments
-- publishing strategy changes
-- architecture notes
-- operational logs
-- system evolution records
-
-`blogops` is meta-level documentation, not a knowledge axis.
-
----
-
-## 4.4 Presentation Surfaces
-
-Public-facing pages that present content or assets without becoming canonical text axes.
-
-Current presentation surfaces:
-
-- `stills`
-- `motion`
-
-Rule:
-
-A visual page is not automatically a cognitive axis.
-
----
-
-## 4.5 Parallel Subsystems
-
-Components outside the blog content axes and outside ordinary presentation surfaces.
-
-Current subsystem:
-
-- `57store`
-
-Typical characteristics:
-
-- fictional store-world interfaces
-- system-style UI pages
-- CCTV-style pages
-- mini-games
-- experimental interactive pages
-- playful or atmospheric presentation layers
-- project-like UI experiments
-
-中文注释：
-
-`57store` 是互动 / 叙事 / 实验子系统，不属于 `posts / natsci / netcom`。
-
----
-
-# 5. Prompt Routing Rules
-
-Routing priority:
+For `posts`, `natsci`, and `netcom`, the recent list is generated by:
 
 ```text
-Layer detection
-→ module routing
-→ presentation-surface routing
-→ subsystem override
+scripts/update_module_indexes.py
 ```
 
-Meaning:
+The script updates only marked regions:
 
-1. Identify the structural layer or interface class.
-2. Route to the correct module if it belongs to a canonical layer.
-3. If the request concerns a public presentation surface, route to that surface.
-4. If the request clearly belongs to a subsystem, route to the subsystem instead of forcing it into blog axes.
+```text
+<!-- AUTO-INDEX:...:START -->
+...
+<!-- AUTO-INDEX:...:END -->
+```
 
----
-
-## 5.1 Route to posts
-
-If the task involves:
-
-- reflection
-- updates
-- personal thinking
-- essay-like writing
-- mixed observation
-- journal-style material
-
-Route to:
-
-- `posts`
+Do not hand-edit generated regions.
 
 ---
 
-## 5.2 Route to natsci
+### `map.md`
 
-If the task involves:
+`map.md` is an AI-facing topology and routing file.
 
-- biological entities
-- taxonomy
-- natural science observation
-- specimen description
-- field-note style natural observation
+It explains:
 
-Route to:
+- module purpose;
+- structural principle;
+- directory meaning;
+- boundary rules;
+- index-generation behavior;
+- draft policy;
+- routing rules.
 
-- `natsci`
-
----
-
-## 5.3 Route to netcom
-
-If the task involves:
-
-- communications
-- networking
-- protocols
-- hardware / software systems
-- infrastructure architecture
-
-Route to:
-
-- `netcom`
+`map.md` is not an article and must not be included in auto-generated article indexes.
 
 ---
 
-## 5.4 Route to system
+### `system-map.md`
 
-If the task involves:
+`system/system-map.md` is the global map.
 
-- boot sequence
-- topology definition
-- module map
-- routing policy
-- frontmatter schema
-- metadata interpretation
-- repository boundary clarification
+It explains the whole system, not only one module.
 
-Route to:
+Module-level `map.md` files should stay smaller and should not duplicate this file.
+
+---
+
+## 5. Auto-Index Policy
+
+The auto-index script currently covers:
+
+```text
+posts/
+natsci/
+netcom/
+```
+
+It updates:
+
+```text
+posts/index.md
+natsci/index.md
+netcom/index.md
+```
+
+It does not automatically index:
 
 - `system`
-
----
-
-## 5.5 Route to blogops
-
-If the task involves:
-
-- system evolution
-- publishing workflow
-- structural adjustments
-- methodology notes
-- operational documentation
-
-Route to:
-
 - `blogops`
+- `intake`
+- `now`
+- assets
+- generated operational files.
+
+Core rules:
+
+```text
+status: active / publish / published
+→ show as link
+
+status: draft
+→ show as text with （更新中）
+
+status: hidden / private / archived
+→ do not show
+
+type: translation
+→ append （译文） to title
+
+original_url
+→ prefer external URL as link target
+```
+
+Path-level exclusions include:
+
+```text
+assets/
+_drafts/
+posts/ai-discourse-analysis/
+```
+
+File-level exclusions include:
+
+```text
+index.md
+map.md
+README.md
+```
 
 ---
 
-## 5.6 Route to stills
+## 6. Module Routing Rules
 
-If the task involves:
+### Route to `posts`
 
-- `fivsevn.com/stills`
-- photography feature layout
-- photo-roll presentation
-- visual archive presentation
-- WordPress-edited photography page
-- image display sourced from `fivsevn-assets`
+Use `posts` for:
 
-Route to:
-
-- `main blog presentation surface: stills`
-
-Rules:
-
-- Use `fivsevn-assets` for image/static asset source questions.
-- Treat WordPress as the page presentation layer.
-- Route to `posts` only if the task explicitly asks for a canonical textual post.
-- Never route Stills to 57store.
+- personal notes;
+- essays;
+- reflections;
+- updates;
+- journal-like entries;
+- mixed observations;
+- material that has not grown into a stable independent domain.
 
 ---
 
-## 5.7 Route to motion
+### Route to `natsci`
 
-If the task involves:
+Use `natsci` for:
 
-- `fivsevn.com/motion`
-- motion-image feature layout
-- video / moving-frame presentation
-- clip archive presentation
-- WordPress-edited motion page
-- moving-image assets or embedded media
-
-Route to:
-
-- `main blog presentation surface: motion`
-
-Rules:
-
-- Use the relevant asset/media source for motion/static resource questions.
-- Treat WordPress as the page presentation layer.
-- Route to `posts` only if the task explicitly asks for a canonical textual post.
-- Never route Motion to 57store.
-- Never conflate Motion with Stills.
+- natural science;
+- taxonomy;
+- organisms;
+- biological observation;
+- specimen-oriented notes;
+- field-note-derived structured writing.
 
 ---
 
-## 5.8 Route to 57store
+### Route to `netcom`
 
-If the task involves:
+Use `netcom` for:
 
-- fictional store-world UI
-- 57store sys interface
-- CCTV-style page
-- mini-game
-- interactive HTML page
-- in-world dialogue or script
-- boot capsule
-- experimental interface elements
-
-Route to:
-
-- `57store subsystem`
-
-Rule:
-
-Do not force 57store material into `posts`.
+- communications;
+- networks;
+- protocols;
+- RF systems;
+- computing systems;
+- embedded systems;
+- technical infrastructure;
+- engineering notes.
 
 ---
 
-# 6. Boundary Rules
+### Route to `blogops`
 
-Use these rules when classification is ambiguous.
+Use `blogops` for:
 
-## 6.1 Public page vs content axis
+- repository workflow;
+- publishing rules;
+- site operation;
+- automation notes;
+- editorial process;
+- system evolution records.
 
-A public page is not automatically a Layer 1 cognitive axis.
+---
 
-Example:
+### Route to `system`
+
+Use `system` for:
+
+- boot protocol;
+- topology;
+- routing rules;
+- metadata interpretation;
+- repository authority;
+- structural governance.
+
+---
+
+### Route to `intake`
+
+Use `intake` for:
+
+- RSS source configuration;
+- daily generated reading shelf;
+- generated operational feed behavior.
+
+Do not route canonical essays or notes to `intake`.
+
+---
+
+### Route to `now`
+
+Use `now` for:
+
+- current status;
+- short present-state updates;
+- now-page maintenance.
+
+Do not route long-form notes to `now`.
+
+---
+
+## 7. Boundary Rules
+
+### Public page vs content axis
+
+A public page is not automatically a cognitive content axis.
 
 ```text
 stills → presentation surface
 motion → presentation surface
-not → cognitive content axis
+now → status surface
+intake → input surface
 ```
 
 ---
 
-## 6.2 Asset source vs textual authority
+### Asset source vs textual authority
 
 An asset repository may supply images, icons, or static files.
 
 It does not define canonical textual interpretation.
 
-Example:
+---
+
+### Generated surface vs archive
+
+Generated operational pages may be public, but they are not automatically archival writing.
 
 ```text
-fivsevn-assets → image/static asset source
-not → textual source of truth
+intake/index.html → generated output
+not → canonical note
 ```
 
 ---
 
-## 6.3 Public interface vs subsystem
+### Draft path vs draft status
 
-A public page belongs to a subsystem only if it follows that subsystem's independent logic.
-
-Example:
+`_drafts/` and `status: draft` are different.
 
 ```text
-57store/sys → 57store subsystem
-stills → main blog presentation surface
-motion → main blog presentation surface
+_drafts/
+→ private buffer; excluded from index
+
+status: draft
+→ public preview; appears as text only if outside _drafts/
 ```
 
 ---
 
-## 6.4 Repository-backed archive vs WordPress presentation
+## 8. Minimal AI Working Rules
 
-Repository-backed archive and WordPress presentation may expose related material, but their authority differs.
-
-Example:
-
-```text
-fivsevn-devlog → canonical structured text
-fivsevn.com → public presentation
-```
-
----
-
-# 7. Expansion Rules
-
-## 7.1 New Cognitive Content Axis
-
-A new Layer 1 axis may emerge only if it:
-
-- develops stable methodology
-- has independent structural logic
-- is sustainable long-term
-- is not merely a temporary topic cluster
-- is not merely a visual interface or presentation page
-
-Pattern:
-
-```text
-posts → large domain → stable methodology → new axis
-```
-
----
-
-## 7.2 New Presentation Surface
-
-A new presentation surface may be created if it:
-
-- exposes existing content or assets through a specific public interface
-- has visual or navigational identity
-- does not require a new cognitive methodology
-- does not claim canonical textual authority
-
-Pattern:
-
-```text
-asset/content source + public presentation layer → presentation surface
-```
-
-Current examples:
-
-```text
-fivsevn-assets + WordPress page → stills
-motion asset source + WordPress page → motion
-```
-
----
-
-## 7.3 New Parallel Subsystem
-
-A subsystem may emerge if it:
-
-- operates with a different structural logic than the blog archive
-- contains interactive, narrative, or experimental interfaces
-- may require different repositories or platforms
-- should not be forced into existing content axes or presentation surfaces
-
-Current example:
-
-```text
-57store
-```
-
----
-
-# 8. Minimal AI Working Rules
-
-For blank AI collaborators:
-
-1. Use this file to orient yourself before classifying fivsevn work.
+1. Read this file before classifying fivsevn work.
 2. Treat `fivsevn-devlog` as the canonical structured text archive.
-3. Treat `fivsevn-spec` as the structural schema/specification source.
-4. Treat `fivsevn-assets` as static and visual asset storage, not textual authority.
-5. Treat `/stills/` as a WordPress-presented photography feature using assets from `fivsevn-assets`.
-6. Treat `/motion/` as a WordPress-presented moving-image feature using its relevant asset or media source.
-7. Treat 57store as a parallel subsystem, not part of the primary blog content axes.
-8. Do not infer repository structure from public page appearance alone.
-9. Do not classify visual or motion feature pages as canonical modules unless explicit structure says so.
-10. Treat `/intake/` as a repository-backed daily input surface generated from RSS feeds by GitHub Actions; do not classify it as a cognitive content axis or permanent note archive.
+3. Treat `fivsevn-spec` as the structural schema source.
+4. Treat `fivsevn-assets` as asset storage, not textual authority.
+5. Treat `posts`, `natsci`, and `netcom` as the current cognitive content axes.
+6. Treat `blogops` as meta-governance, not a public content axis.
+7. Treat `system` as kernel/protocol/topology.
+8. Treat `intake` as a generated daily input surface.
+9. Treat `now` as a current-status surface.
+10. Treat `map.md` as AI-facing topology, not article content.
+11. Treat `index.md` as human-facing landing page.
+12. Do not hand-edit auto-generated index regions.
+13. Do not infer structural authority from public appearance alone.
 
 ---
 
-# 9. Contact
+## 9. Contact
 
 Mail:
 
-- `fivsevn57@outlook.com`
+```text
+fivsevn57@outlook.com
+```
