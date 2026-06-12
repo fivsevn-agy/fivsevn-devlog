@@ -19,8 +19,8 @@ parents: [netcom-module-map]
 related: [netcom-rf-spectrum-bands-001]
 tags: [netcom, rf, spectrum]
 
-audience: public
-languages: zh
+audience: [public]
+languages: [zh]
 maturity: stable
 confidence: 0.97
 visibility: public

@@ -18,8 +18,8 @@ parents: [netcom-rf-spectrum-overview-001]
 related: [netcom-rf-antenna-overview-001]
 tags: [netcom, rf, spectrum, band]
 
-audience: public
-languages: zh
+audience: [public]
+languages: [zh]
 maturity: stable
 confidence: 0.98
 visibility: public

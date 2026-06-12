@@ -22,8 +22,8 @@ related: [
 ]
 tags: [netcom, rf, antenna, fundamentals]
 
-audience: public
-languages: zh
+audience: [public]
+languages: [zh]
 maturity: evolving
 confidence: 0.96
 visibility: public

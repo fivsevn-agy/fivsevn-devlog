@@ -8,7 +8,7 @@ topic: antenna-catalog
 
 type: note
 status: active
-canonical: false
+canonical: true
 
 summary: >
   按型号与应用场景整理的商品化天线速查表，
@@ -18,8 +18,8 @@ parents: [netcom-rf-antenna-overview-001]
 related: []
 tags: [netcom, rf, antenna, catalog]
 
-audience: self
-languages: zh
+audience: [self]
+languages: [zh]
 maturity: evolving
 confidence: 0.90
 visibility: public
