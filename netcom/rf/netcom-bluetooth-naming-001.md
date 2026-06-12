@@ -8,7 +8,7 @@ topic: naming
 
 type: translation
 status: active
-canonical: true
+canonical: false
 
 summary: >
   本文翻译 Jim Kardach 关于 Bluetooth 命名过程的回忆，记录蓝牙从内部代号、商标检索、SIG 成立到最终成为正式名称的关键事件。
@@ -26,10 +26,11 @@ maturity: stable
 confidence: 0.90
 
 visibility: public
-source_of_truth: translation
+source_of_truth: external
 
 original_title: Kardach - Naming Bluetooth
-original_source: https://www.kardach.com/bluetooth/naming-bluetooth
+original_source: Kardach.com
+original_url: https://www.kardach.com/bluetooth/naming-bluetooth
 original_publisher: Jim Kardach / Kardach.com
 translation_note: >
   本文为原文内容的中文翻译，仅用于学习与知识整理。
