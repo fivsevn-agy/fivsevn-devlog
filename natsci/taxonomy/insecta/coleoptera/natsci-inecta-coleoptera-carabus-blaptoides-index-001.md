@@ -1,5 +1,5 @@
 ---
-id: natsci-inecta-coleoptera-carabus-blaptoides-index-001
+id: natsci-insecta-coleoptera-carabus-blaptoides-index-001
 title: マイマイカブリ亜種索引
 
 module: natsci
