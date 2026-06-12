@@ -22,7 +22,7 @@ tags: [ethnoentomology, anthropology, entomophagy]
 audience: [self]
 languages: [zh, en]
 
-maturity: draft
+maturity: evolving
 confidence: 0.60
 
 visibility: public
