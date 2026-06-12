@@ -8,7 +8,7 @@ topic: bluetooth-naming
 
 type: note
 status: active
-canonical: false
+canonical: true
 
 summary: >
   整理蓝牙技术命名来源相关参考，包括 Bluetooth SIG、Jim Kardach、Intel、Jelling Stones、UNESCO 与 Britannica 等来源。
@@ -17,8 +17,8 @@ parents: [posts-index]
 related: [netcom-bluetooth-naming-001]
 tags: [posts, bluetooth, naming, technology, history, jelling]
 
-audience: public
-languages: zh
+audience: [public]
+languages: [zh]
 maturity: evolving
 confidence: 0.80
 visibility: public

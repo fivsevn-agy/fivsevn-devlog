@@ -8,7 +8,7 @@ topic: legal-philosophy-case
 
 type: article
 status: active
-canonical: false
+canonical: true
 
 summary: >
   对《The Case of the Speluncean Explorers》原版与扩展版法官意见进行结构化速记，
@@ -18,8 +18,8 @@ parents: [posts-index]
 related: []
 tags: [posts, reading, law, philosophy, case-study]
 
-audience: public
-languages: zh
+audience: [public]
+languages: [zh]
 maturity: stable
 confidence: 0.97
 visibility: public
