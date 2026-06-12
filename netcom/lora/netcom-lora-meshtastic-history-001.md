@@ -15,13 +15,15 @@ summary: >
   分析模块出现顺序与应用组合逻辑。
 
 parents: [netcom-module-map]
-related: [netcom-lora-meshtastic-layered-model-001]
-tags: [netcom, lora, mesh, evolution]
+related: [netcom-lora-meshtastic-layeredmodel-001]
 
-audience: public
-languages: zh
+tags: [netcom, lora, mesh, evolution]
+audience: [public]
+languages: [zh]
+
 maturity: stable
 confidence: 0.97
+
 visibility: public
 source_of_truth: devlog
 

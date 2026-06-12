@@ -1,5 +1,5 @@
 ---
-id: netcom-lora-device-inventory-001
+id: netcom-lora-meshtastic-device-inventory-001
 title: 当前 LoRa / Meshtastic 设备清单
 
 module: netcom
@@ -16,12 +16,14 @@ summary: >
 
 parents: []
 related: [netcom-lora-meshtastic-device-ecosystem-001]
-tags: [netcom, lora, device-log]
 
-audience: self
-languages: zh
+tags: [netcom, lora, device-log]
+audience: [self]
+languages: [zh]
+
 maturity: evolving
 confidence: 0.92
+
 visibility: public
 source_of_truth: devlog
 

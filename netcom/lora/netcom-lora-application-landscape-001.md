@@ -16,13 +16,15 @@ summary: >
   并列举常见应用场景与技术能力结构。
 
 parents: [netcom-module-map]
-related: [netcom-lora-modulation-overview-001, netcom-lora-meshtastic-001]
-tags: [netcom, lora, meshtastic, hardware-architecture, application]
+related: [netcom-lora-modulation-overview-001, netcom-lora-meshtastic-structure-001]
 
-audience: public
-languages: zh
+tags: [netcom, lora, meshtastic, hardware-architecture, application]
+audience: [public]
+languages: [zh]
+
 maturity: evolving
 confidence: 0.96
+
 visibility: public
 source_of_truth: devlog
 
