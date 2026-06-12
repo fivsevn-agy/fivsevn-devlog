@@ -18,8 +18,8 @@ parents: [netcom-module-map]
 related: [netcom-lora-radio-metrics-001]
 tags: [netcom, math, logarithm, rf]
 
-audience: public
-languages: zh
+audience: [public]
+languages: [zh]
 maturity: stable
 confidence: 0.98
 visibility: public

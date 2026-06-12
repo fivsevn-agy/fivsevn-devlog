@@ -19,8 +19,8 @@ parents: [netcom-module-map]
 related: [netcom-math-dynamical-system-prototypes-001]
 tags: [netcom, math, exponential, e]
 
-audience: public
-languages: zh
+audience: [public]
+languages: [zh]
 maturity: stable
 confidence: 0.98
 visibility: public
