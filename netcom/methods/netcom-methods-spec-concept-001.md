@@ -21,8 +21,8 @@ related: [
 ]
 tags: [netcom, methods, specification, engineering]
 
-audience: public
-languages: zh
+audience: [public]
+languages: [zh]
 maturity: stable
 confidence: 0.97
 visibility: public
