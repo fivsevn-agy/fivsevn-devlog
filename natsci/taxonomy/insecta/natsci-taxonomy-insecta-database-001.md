@@ -1,12 +1,9 @@
 ---
 id: natsci-taxonomy-insecta-database-001
-
 title: 昆虫数据库索引
-
 module: natsci
 submodule: taxonomy
 topic: insect-database
-
 type: index
 status: active
 canonical: true
