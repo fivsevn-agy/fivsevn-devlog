@@ -9,7 +9,7 @@ topic: arota-festae
 
 type: translation
 status: active
-canonical: true
+canonical: false
 
 summary: >
   研究人员发现一种热带螽斯能够在约两周内从亮粉色变为绿色，
