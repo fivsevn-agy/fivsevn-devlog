@@ -43,6 +43,8 @@ updated: 2026-03-01
 > 更新中......  
 
 <!-- AUTO-INDEX:POSTS_RECENT:START -->
+- 2026.06.08 [J.R.R. 托尔金论童话、语言、幻想心理学，以及为何不存在“为儿童”而写（译文）](2026/posts-literature-tolkien-fairy-stories-001.md)
+
 - 2026.06.07 [蓝牙技术命名](2026/posts-20260607-bluetooth-naming-001.md)
 
 - 2026.02.22 [《洞穴奇案》速记与立场对照](2026/posts-20260222-speluncean-001.md)
