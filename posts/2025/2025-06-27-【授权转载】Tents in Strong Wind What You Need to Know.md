@@ -1,26 +1,39 @@
 ---
-title: "【授权转载】Tents in Strong Wind: What You Need to Know"
-date: "2025-06-27 20:39:06"
-updated: "2025-09-03 13:52:20"
-author: "五月七日"
-description: "原文作者：Helen & Geoff  分享一篇关于强风环境下帐篷的选择与搭建的实用文章，内容扎实！  同时也向读者们介绍原文作者 Helen & Geoff，以及他们的博客 SlowerHiking.com。  翻译发布经原作者许可，限时"
-notes: ""
+id: posts-2025-06-27-授权转载-tents-in-strong-wind-what-you-need-to-know
+title: '【授权转载】Tents in Strong Wind: What You Need to Know'
 
-lang: "zh-CN"
-multilang: ""
+module: posts
+submodule: 2025
+topic: legacy-wordpress
 
-category: "授权转载"
+type: note
+status: active
+canonical: false
+
+summary: >
+  原文作者：Helen & Geoff 分享一篇关于强风环境下帐篷的选择与搭建的实用文章，内容扎实！ 同时也向读者们介绍原文作者 Helen &
+  Geoff，以及他们的博客 SlowerHiking.com。 翻译发布经原作者许可，限时
+
+parents: []
+related: []
+
 tags:
-  - "AuthorizedRepost"
+  - posts
+  - AuthorizedRepost
+audience: [public]
+languages: [zh]
 
-permalink: "%e3%80%90%e6%8e%88%e6%9d%83%e8%bd%ac%e8%bd%bd%e3%80%91tents-in-strong-wind-what-you-need-to-know"
-original_url: "https://fivsevn.home.blog/2025/06/27/%e3%80%90%e6%8e%88%e6%9d%83%e8%bd%ac%e8%bd%bd%e3%80%91tents-in-strong-wind-what-you-need-to-know/"
+maturity: stable
+confidence: 0.90
 
-status: "draft"
-layout: "post"
-toc: true
-comments: false
-pin: false
+visibility: public
+source_of_truth: external
+
+created: 2025-06-27
+updated: 2025-09-03
+
+original_source: WordPress
+original_url: https://fivsevn.home.blog/2025/06/27/%e3%80%90%e6%8e%88%e6%9d%83%e8%bd%ac%e8%bd%bd%e3%80%91tents-in-strong-wind-what-you-need-to-know/
 ---
 原文作者：Helen & Geoff
 
