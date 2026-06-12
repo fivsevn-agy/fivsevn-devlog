@@ -6,7 +6,7 @@ module: posts
 submodule: 2025
 topic: legacy-wordpress
 
-type: note
+type: translation
 status: hidden
 canonical: false
 
