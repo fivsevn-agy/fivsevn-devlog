@@ -1,3 +1,34 @@
+---
+id: netcom-draft-003
+title: TODO
+
+module: netcom
+submodule: drafts
+topic: draft
+
+type: note
+status: hidden
+canonical: true
+
+summary: TODO
+
+parents: []
+related: []
+
+tags: [netcom]
+audience: [self]
+languages: [zh]
+
+maturity: draft
+confidence: 0.0
+
+visibility: private
+source_of_truth: devlog
+
+created: 2026-06-12
+updated: 2026-06-12
+---
+
 烧录t echo lite
 软件下载
 nrf
