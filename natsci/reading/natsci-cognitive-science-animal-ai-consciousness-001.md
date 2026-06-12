@@ -8,7 +8,7 @@ topic: animal-ai-consciousness
 
 type: translation
 status: active
-canonical: true
+canonical: false
 
 summary: >
   本文讨论关于动物和 AI 意识的最新研究，指出判断意识不应只看外部行为，而应关注大脑与计算系统处理信息的内部机制。文章比较昆虫、无脊椎动物与大型语言模型的意识判据，并说明当前 AI 尚不足以被认定为有意识。
