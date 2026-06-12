@@ -1,11 +1,9 @@
 ---
 id: natsci-index
 title: fivsevn-natsci
-
 module: natsci
 submodule: index
 topic: object-archive
-
 type: index
 status: active
 canonical: true
@@ -17,12 +15,15 @@ summary: >
 
 parents: []
 related: [natsci-module-map, system-module-map]
+
 tags: [natsci, object-axis, taxonomy, archive]
 
-audience: public
-languages: zh
+audience: [public]
+languages: [zh]
+
 maturity: stable
 confidence: 0.97
+
 visibility: public
 source_of_truth: devlog
 
