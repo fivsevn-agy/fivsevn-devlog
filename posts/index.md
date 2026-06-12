@@ -90,8 +90,6 @@ updated: 2026-03-01
 - 2025.03.14 [更新计划](https://fivsevn.home.blog/2025/03/14/%e6%9b%b4%e6%96%b0%e8%ae%a1%e5%88%92/)
 
 - 2025.03.13 [波洛去埃及](https://fivsevn.home.blog/2025/03/13/%e6%b3%a2%e6%b4%9b%e5%8e%bb%e5%9f%83%e5%8f%8a/)
-
-- 2019.06.18 [深夜四時](https://fivsevn.home.blog/2019/06/18/%e6%b7%b1%e5%a4%9c%e5%9b%9b%e6%99%82/)
 <!-- AUTO-INDEX:POSTS_RECENT:END -->
 ---
 ## Section 专栏
