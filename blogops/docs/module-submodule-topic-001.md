@@ -1,4 +1,3 @@
-```
 ---
 # ========== Identity ==========
 id: module-submodule-topic-001
@@ -128,10 +127,8 @@ translation_note:
 
 ## 标题
   
-````text
+```
 （开场白，随便写）
-````text
+```
   
 正文开始
-
-```
