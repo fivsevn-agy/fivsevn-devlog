@@ -39,7 +39,7 @@ updated: 2026-03-13
 > 更新中......
 
 <!-- AUTO-INDEX:NETCOM_RECENT:START -->
-- 2026.06.07 [蓝牙命名的由来（译文）](rf/netcom-bluetooth-naming-001.md)
+- 2026.06.07 [蓝牙命名的由来（译文）](https://www.kardach.com/bluetooth/naming-bluetooth)
 
 - 2026.03.12 [简单的模型判断参数标准](ai/netcom-ai-model-evaluation-basics-001.md)
 
