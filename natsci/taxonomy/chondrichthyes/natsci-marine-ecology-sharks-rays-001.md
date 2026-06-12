@@ -9,7 +9,7 @@ topic: sharks-rays-isra
 
 type: translation
 status: active
-canonical: true
+canonical: false
 
 summary: >
   一项全球鲨鱼、鳐类和银鲛关键栖息地数据库扩展至澳大利亚。
