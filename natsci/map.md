@@ -7,17 +7,21 @@ topic: object-axis-definition
 type: spec
 status: active
 canonical: true
+
 summary: >
   Defines natsci as the natural-science object axis of fivsevn-devlog.
   Explains its taxonomy-driven structure, object-first routing logic,
   index behavior, draft policy, and boundary with posts and netcom.
+
 parents:
   - system-map
+
 related:
   - natsci-index
   - system-map
   - posts-module-map
   - netcom-module-map
+
 tags:
   - natsci
   - topology
@@ -25,19 +29,23 @@ tags:
   - taxonomy
   - natural-science
   - auto-index
+
 audience:
   - collaborator
+
 languages:
   - en
   - zh
+
 maturity: stable
 confidence: 0.98
+
 visibility: public
 source_of_truth: devlog
+
 created: 2026-02-28
 updated: 2026-06-12
 ---
-
 # natsci — Module Map
 
 Purpose:
