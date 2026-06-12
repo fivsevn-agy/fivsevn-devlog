@@ -9,7 +9,7 @@ topic: cultural-entomology
 
 type: note
 status: active
-canonical: false
+canonical: true
 
 summary: >
   民族昆虫学与文化昆虫学相关资料与机构链接暂存。
