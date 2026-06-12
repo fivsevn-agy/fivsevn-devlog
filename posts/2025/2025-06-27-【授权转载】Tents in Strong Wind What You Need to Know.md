@@ -7,7 +7,7 @@ submodule: 2025
 topic: legacy-wordpress
 
 type: note
-status: active
+status: hidden
 canonical: false
 
 summary: >
