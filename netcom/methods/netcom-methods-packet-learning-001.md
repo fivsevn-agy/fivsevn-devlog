@@ -8,7 +8,7 @@ topic: structural-learning-model
 
 type: article
 status: active
-canonical: false
+canonical: true
 
 summary: >
   借助计算机网络中的分组交换与路由概念，
@@ -19,8 +19,8 @@ parents: [netcom-module-map]
 related: [posts-index]
 tags: [netcom, methods, learning-model, packet-switching]
 
-audience: public
-languages: zh
+audience: [public]
+languages: [zh]
 maturity: evolving
 confidence: 0.94
 visibility: public
