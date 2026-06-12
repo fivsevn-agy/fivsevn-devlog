@@ -49,8 +49,6 @@ updated: 2026-03-01
 
 - 2026.02.22 [《洞穴奇案》速记与立场对照](2026/posts-20260222-speluncean-001.md)
 
-- 2025.06.27 [【授权转载】Tents in Strong Wind: What You Need to Know](https://fivsevn.home.blog/2025/06/27/%e3%80%90%e6%8e%88%e6%9d%83%e8%bd%ac%e8%bd%bd%e3%80%91tents-in-strong-wind-what-you-need-to-know/)
-
 - 2025.04.09 [路灯](https://fivsevn.home.blog/2025/04/09/%e8%b7%af%e7%81%af%e5%92%8c%e6%91%84%e5%83%8f%e5%a4%b4/)
 
 - 2025.04.03 [开发日志已更新！](https://fivsevn.home.blog/2025/04/03/%e5%bc%80%e5%8f%91%e6%97%a5%e5%bf%97%e5%b7%b2%e6%9b%b4%e6%96%b0%ef%bc%81/)
