@@ -1,5 +1,5 @@
 ---
-id: netcom-lora-meshtastic-layered-model-001
+id: netcom-lora-meshtastic-layeredmodel-001
 title: Meshtastic 三层模型：硬件 / 工具 / 功能
 
 module: netcom
@@ -16,16 +16,15 @@ summary: >
   用于理解系统能力来源。
 
 parents: [netcom-module-map]
-related: [
-  netcom-lora-meshtastic-structure-001,
-  netcom-lora-meshtastic-history-001
-]
-tags: [netcom, lora, meshtastic, system-model]
+related: [netcom-lora-meshtastic-structure-001, netcom-lora-meshtastic-history-001]
 
-audience: public
-languages: zh
+tags: [netcom, lora, meshtastic, system-model]
+audience: [public]
+languages: [zh]
+
 maturity: evolving
 confidence: 0.97
+
 visibility: public
 source_of_truth: devlog
 

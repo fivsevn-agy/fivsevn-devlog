@@ -17,12 +17,14 @@ summary: >
 
 parents: [netcom-module-map]
 related: [netcom-lora-application-landscape-001]
-tags: [netcom, lora, meshtastic, hardware-model]
 
-audience: public
-languages: zh
+tags: [netcom, lora, meshtastic, hardware-model]
+audience: [public]
+languages: [zh]
+
 maturity: stable
 confidence: 0.98
+
 visibility: public
 source_of_truth: devlog
 

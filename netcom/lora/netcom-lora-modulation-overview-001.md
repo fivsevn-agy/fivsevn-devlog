@@ -17,12 +17,14 @@ summary: >
 
 parents: [netcom-module-map]
 related: [netcom-architecture-four-layer-model-001, netcom-rf-spectrum-001]
-tags: [netcom, lora, modulation, rf, signal-path]
 
-audience: public
-languages: zh
+tags: [netcom, lora, modulation, rf, signal-path]
+audience: [public]
+languages: [zh]
+
 maturity: stable
 confidence: 0.98
+
 visibility: public
 source_of_truth: devlog
 
