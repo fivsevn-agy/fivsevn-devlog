@@ -20,8 +20,8 @@ parents: [netcom-module-map]
 related: [netcom-rf-spectrum-001, netcom-architecture-four-layer-model-001]
 tags: [netcom, digital-radio, ham, communication]
 
-audience: public
-languages: zh
+audience: [public]
+languages: [zh]
 maturity: evolving
 confidence: 0.95
 visibility: public
