@@ -55,7 +55,7 @@ updated: 2026-03-13
 
 - 2025.12.06 [Meshtastic 常见无线参数解析](lora/netcom-lora-radio-metrics-001.md)
 
-- 2025.12.03 [数字电台入门](digital/netcom-digital-radiointro-001.md)
+- 2025.12.03 [数字电台入门](digital/netcom-digital-radio-intro-001.md)
 
 - 2025.12.02 [电磁波频段俗称与工程命名体系](rf/netcom-rf-spectrum-bands-001.md)
 
