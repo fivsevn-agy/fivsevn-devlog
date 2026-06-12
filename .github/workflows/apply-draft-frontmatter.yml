@@ -1,0 +1,45 @@
+name: Apply Draft Frontmatter
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "posts/_drafts/**/*.md"
+      - "natsci/_drafts/**/*.md"
+      - "netcom/_drafts/**/*.md"
+      - "scripts/apply_draft_frontmatter.py"
+      - ".github/workflows/apply-draft-frontmatter.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  apply-draft-frontmatter:
+    runs-on: ubuntu-latest
+
+    if: github.actor != 'github-actions[bot]'
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Apply draft frontmatter
+        run: python scripts/apply_draft_frontmatter.py
+
+      - name: Commit changes
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add posts/_drafts natsci/_drafts netcom/_drafts
+            git commit -m "chore: apply draft frontmatter"
+            git push
+          else
+            echo "No draft frontmatter changes."
+          fi
