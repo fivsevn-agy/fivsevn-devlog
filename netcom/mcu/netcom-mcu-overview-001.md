@@ -21,8 +21,8 @@ related: [
 ]
 tags: [netcom, mcu, hardware, embedded]
 
-audience: public
-languages: zh
+audience: [public]
+languages: [zh]
 maturity: evolving
 confidence: 0.95
 visibility: public

@@ -8,8 +8,7 @@ topic: mcu-comparison
 
 type: article
 status: active
-canonical: false
-
+canonical: true
 summary: >
   基于实际设备体验，
   对 ESP32 与 nRF52 在功耗、功能与适用场景上的差异进行记录与分析。
@@ -18,8 +17,8 @@ parents: [netcom-mcu-overview-001]
 related: [netcom-lora-meshtastic-structure-001]
 tags: [netcom, mcu, esp32, nrf52, meshtastic]
 
-audience: public
-languages: zh
+audience: [public]
+languages: [zh]
 maturity: evolving
 confidence: 0.93
 visibility: public
