@@ -43,5 +43,6 @@ jobs:
           WP_SOURCE_FILE: posts/_wordpress/trigger.md
           WP_POST_TYPE: posts
           WP_TIMEZONE: Asia/Taipei
+          WP_CATEGORY_SLUG: posts
           GITHUB_SHA: ${{ github.sha }}
         run: python scripts/publish_wp_text.py
