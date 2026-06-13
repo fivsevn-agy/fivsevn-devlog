@@ -1,5 +1,5 @@
 ---
-wp_status: draft
+wp_status: publish
 category: posts
 timezone: ”Asia/Taipei“
 
@@ -8,9 +8,4 @@ timezone: ”Asia/Taipei“
 # 正文写在第二个 --- 后面
 ---
 
-以后发布文字内容可以直接更改下面这个 trigger 文档并 commit。
-
-- https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/posts/_wordpress/trigger.md
-
-我把大部分发布流程转移到 GitHub 里，直接编辑、提交、发布完成。这样既能保留完整归档，也能兼顾内容发布。
-
+简化了一下内容仓库的主页：https://devlog.fivsevn.com。
