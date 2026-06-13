@@ -1,0 +1,47 @@
+name: Publish WordPress Trigger
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "posts/_wordpress/trigger.md"
+      - "scripts/publish_wp_text.py"
+      - ".github/workflows/publish-wp-trigger.yml"
+
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: publish-wp-trigger-${{ github.sha }}
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests markdown pyyaml
+
+      - name: Publish trigger to WordPress
+        env:
+          WP_SITE_URL: ${{ secrets.WP_SITE_URL }}
+          WP_USERNAME: ${{ secrets.WP_USERNAME }}
+          WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
+          WP_SOURCE_FILE: posts/_wordpress/trigger.md
+          WP_POST_TYPE: posts
+          WP_TIMEZONE: Asia/Taipei
+          GITHUB_SHA: ${{ github.sha }}
+        run: python scripts/publish_wp_text.py
