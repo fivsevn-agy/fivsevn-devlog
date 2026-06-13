@@ -1,41 +1,41 @@
 ## 五月七日的思考札记
 
-### Status
+### ▶︎ Status
 
-- ▸ 近况速报 - [now page](/now/index.md)  
+- **近况速报** ▶︎ [ [**now page**](/now/index.md) ]
 
-- ▸ 本日入荷 - [today‘s arrival](https://devlog.fivsevn.com/intake)
-
-
-### Entry
-
-- ▸ 视觉入口 - [fivsevn.com](https://fivsevn.com)  
-
-- ▾ 内容仓库 - [devlog.fivsevn.com](https://devlog.fivsevn.com)  
-
-  - ▹ 个人笔记 - [/posts](https://devlog.fivsevn.com/posts)  
-
-  - ▹ 自然科学笔记 - [/natsci](https://devlog.fivsevn.com/natsci)  
-
-  - ▹ 通讯技术笔记 - [/netcom](https://devlog.fivsevn.com/netcom)  
-
-  - ▹ 后台日志 - [/blogops](https://devlog.fivsevn.com/blogops)
-
-- ▸ 个人写作规范 - [fivsevn-spec](https://github.com/fivsevn-agy/fivsevn-spec)
+- **本日入荷** ▶︎ [ [**today‘s arrival**](https://devlog.fivsevn.com/intake) ]
 
 
-### Listed In
+### ▶︎ Entry
 
-- ▸ 中文独立博客列表 - [listed](https://github.com/timqian/chinese-independent-blogs)  
+- **视觉入口** ▶︎ [ [**fivsevn.com**](https://fivsevn.com) ]
 
-- ▸ now page 中文组 - [listed](https://nownownow.com/CN)
+- **内容仓库** ▼ [ [**devlog.fivsevn.com**](https://devlog.fivsevn.com) ]
+
+  - 个人笔记 ▷ ./[`posts`](https://devlog.fivsevn.com/posts)  
+
+  - 自然科学笔记 ▷ ./[`natsci`](https://devlog.fivsevn.com/natsci)  
+
+  - 通讯技术笔记 ▷ ./[`netcom`](https://devlog.fivsevn.com/netcom)  
+
+  - 后台日志 ▷ ./[`blogops`](https://devlog.fivsevn.com/blogops)
+
+- **个人写作规范** ▶︎ [ [**fivsevn-spec**](https://github.com/fivsevn-agy/fivsevn-spec) ]
 
 
-### Contact
+### ▶︎ Listed In
 
-- ▸ primary - [rx57@fivsevn.com](mailto:rx57@fivsevn.com)  
+- [ [`中文独立博客列表`](https://github.com/timqian/chinese-independent-blogs) ]
 
-- ▸ backup - [fivsevn57@outlook.com](mailto:fivsevn57@outlook.com)
+- [ [`now page 中文组`](https://nownownow.com/CN) ]
+
+
+### ▶︎ Contact
+
+- primary :: [ [`rx57@fivsevn.com`](mailto:rx57@fivsevn.com) ]
+
+- backup :: [ [`fivsevn57@outlook.com`](mailto:fivsevn57@outlook.com) ]
 
 
 
