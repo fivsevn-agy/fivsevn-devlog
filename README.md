@@ -2,15 +2,15 @@
 
 ### ▶︎ Status
 
-- **近况速报** ▶︎ [ [**now page**](/now/index.md) ]
+- 近况速报 ▶︎ [ [now page](/now/index.md) ]
 
-- **本日入荷** ▶︎ [ [**today‘s arrival**](https://devlog.fivsevn.com/intake) ]
+- 本日入荷 ▶︎ [ [today‘s arrival](https://devlog.fivsevn.com/intake) ]
 
 ### ▶︎ Entry
 
-- **视觉入口** ▶︎ [ [**fivsevn.com**](https://fivsevn.com) ]
+- 视觉入口 ▶︎ [ [fivsevn.com](https://fivsevn.com) ]
 
-- **内容仓库** ▼ [ [**devlog.fivsevn.com**](https://devlog.fivsevn.com) ]
+- 内容仓库 ▼ [ [devlog.fivsevn.com](https://devlog.fivsevn.com) ]
 
   - 个人笔记 ▷ ./[`devlog.posts`](https://devlog.fivsevn.com/posts)  
 
@@ -24,9 +24,9 @@
 
 ### ▶︎ Listed In
 
-- [ [`中文独立博客列表`](https://github.com/timqian/chinese-independent-blogs) ]
+- [ [ 中文独立博客列表 ](https://github.com/timqian/chinese-independent-blogs) ]
 
-- [ [`now page 中文组`](https://nownownow.com/CN) ]
+- [ [ now page 中文组 ](https://nownownow.com/CN) ]
 
 ### ▶︎ Contact
 
