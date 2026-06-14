@@ -10,6 +10,12 @@
   --muted: #9ca3af;
   --accent: #6becae;
   --border: #2a2f3a;
+  --font-code: "Courier New", Courier, monospace;
+}
+
+/* 全站字体：Courier New */
+* {
+  font-family: var(--font-code) !important;
 }
 
 /* 整体背景 */
