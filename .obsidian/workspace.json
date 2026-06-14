@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogops/index.md",
+                "file": "posts/index.md",
                 "mode": "source",
                 "source": true
               },
@@ -185,6 +185,7 @@
   },
   "active": "dda31f6b1cf652b9",
   "lastOpenFiles": [
+    "blogops/index.md",
     "blogops/docs/post-publish-trigger.md",
     "blogops/docs/auto-index.md",
     "blogops/docs/auto-draft-frontmatter.md",
@@ -196,7 +197,6 @@
     "blogops/content/legacy-blogops-writing-and-deployment.md",
     "blogops/content/legacy-blogops-cyber-estate-masterplan-001.md",
     "README.md",
-    "blogops/index.md",
     "posts/index.md",
     "natsci/index.md",
     "netcom/index.md",
