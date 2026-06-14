@@ -17,7 +17,6 @@ summary: >
 
 parents: []
 related: []
-
 tags: [blogops, cyber-estate, architecture, system-map]
 
 audience: [self, public]
@@ -25,7 +24,6 @@ languages: [zh]
 
 maturity: stable
 confidence: 0.93
-
 visibility: public
 source_of_truth: devlog
 

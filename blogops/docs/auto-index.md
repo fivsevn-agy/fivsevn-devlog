@@ -15,15 +15,8 @@ summary: >
   包括文件抓取范围、index.md 更新区域、frontmatter 控制字段与日常维护流程。
 
 parents: []
-related:
-  - spec-gov-meta-frontmatter-001
-  - spec-gov-meta-enums-001
-tags:
-  - system
-  - docs
-  - automation
-  - index
-  - frontmatter
+related: [spec-gov-meta-frontmatter-001, spec-gov-meta-enums-001]
+tags: [system, docs, automation, index, frontmatter]
 
 audience: [self, collaborator]
 languages: [zh]

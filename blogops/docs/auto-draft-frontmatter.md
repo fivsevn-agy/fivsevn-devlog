@@ -15,8 +15,7 @@ summary: >
   包括抓取范围、占位命名、字段生成、GitHub Actions 自动提交与日常使用流程。
 
 parents: []
-related:
-  - system-docs-auto-index-manual-001
+related: [system-docs-auto-index-manual-001]
 tags: [blogops, docs, automation, draft, frontmatter]
 
 audience: [self, collaborator]

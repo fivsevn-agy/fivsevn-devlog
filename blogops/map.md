@@ -1,42 +1,34 @@
 ---
 id: blogops-module-map
 title: blogops — Module Map
+
 module: blogops
 submodule: topology
 topic: meta-governance-axis-definition
+
 type: spec
 status: active
 canonical: true
+
 summary: >
   Defines blogops as the meta-governance and publishing-operations layer of fivsevn-devlog.
   Clarifies its boundary from public content axes, system topology, generated surfaces,
   and day-to-day repository maintenance.
-parents:
-  - system-map
-related:
-  - blogops-index
-  - system-map
-  - posts-module-map
-  - natsci-module-map
-  - netcom-module-map
-tags:
-  - blogops
-  - topology
-  - meta-governance
-  - publishing
-  - workflow
-  - repository-maintenance
-audience:
-  - collaborator
-languages:
-  - en
-  - zh
+
+parents: [system-map]
+related: [blogops-index, system-map, posts-module-map, natsci-module-map, netcom-module-map]
+tags: [blogops, topology, meta-governance, publishing, workflow, repository-maintenance]
+
+audience: [collaborator]
+languages: [en, zh]
+
 maturity: stable
 confidence: 0.96
 visibility: public
 source_of_truth: devlog
+
 created: 2026-02-28
-updated: 2026-06-12
+updated: 2026-06-15
 ---
 
 # blogops — Module Map

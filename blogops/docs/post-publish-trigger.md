@@ -15,9 +15,7 @@ summary: >
   包括触发范围、执行流程、与 _drafts/frontmatter/自动目录的关系、日常发布流程与排查方法。
 
 parents: []
-related:
-  - system-docs-auto-index-manual-001
-  - blogops-docs-auto-draft-frontmatter-001
+related: [system-docs-auto-index-manual-001, blogops-docs-auto-draft-frontmatter-001]
 tags: [blogops, docs, automation, publish, trigger, github-actions, index]
 
 audience: [self, collaborator]
