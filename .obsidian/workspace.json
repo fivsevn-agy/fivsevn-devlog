@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/map.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "map"
+              "title": "README"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "dda31f6b1cf652b9",
   "lastOpenFiles": [
+    "posts/map.md",
     "README.md",
     "natsci/ethnobiology/ethnoentomology/natsci-ethnobiology-ethnoentomology-resources-001.md",
     "natsci/assets/20260313sharklikefishes.png",
@@ -211,7 +212,6 @@
     "natsci/taxonomy/insecta/虫数据库.md",
     "natsci/taxonomy/insecta/natsci-taxonomy-insecta-database-001.md",
     "natsci/taxonomy/insecta/蜘蛛数据库.md",
-    "natsci/taxonomy/insecta/natsci-entomology-arota-festae-001.md",
     "now",
     "natsci/assets",
     "natsci/taxonomy/chondrichthyes",
