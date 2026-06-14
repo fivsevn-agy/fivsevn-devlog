@@ -30,7 +30,6 @@ source_of_truth: external
 
 original_title: J.R.R. Tolkien on Fairy Tales, Language, the Psychology of Fantasy, and Why There’s No Such Thing as Writing “For Children”
 original_source: https://www.themarginalian.org/2026/06/06/j-r-r-tolkien-on-fairy-stories/
-original_url: https://www.themarginalian.org/2026/06/06/j-r-r-tolkien-on-fairy-stories/
 original_publisher: Maria Popova / The Marginalian
 translation_note: >
   本文为原文内容的中文翻译，仅用于学习与知识整理。
