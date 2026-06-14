@@ -5,9 +5,11 @@
 
 :root {
   --bg: #0f1115;
+  --panel: #171a21;
   --text: #e8e8e8;
   --muted: #9ca3af;
   --accent: #6becae;
+  --border: #2a2f3a;
 }
 
 /* 整体背景 */
@@ -17,7 +19,7 @@ body {
   color: var(--muted) !important;
 }
 
-/* 容器透明 */
+/* 主体容器保持透明，不改布局 */
 .markdown-body,
 .wrapper,
 main,
@@ -57,25 +59,39 @@ dt,
   color: var(--muted) !important;
 }
 
-/* 强调文字也先跟正文走灰色 */
+/* 粗体跟正文走灰色 */
 strong,
-b {
+b,
+.markdown-body strong,
+.markdown-body b {
   color: var(--muted) !important;
 }
 
 /* 链接绿色 */
 a,
 a:visited,
-.markdown-body a {
+.markdown-body a,
+.markdown-body a:visited {
   color: var(--accent) !important;
 }
 
-a:hover {
+a:hover,
+.markdown-body a:hover {
   color: var(--accent) !important;
   text-decoration: underline;
 }
 
-/* 页脚辅助文字灰色 */
+/* 链接里如果包了 strong / b / code，也保持绿色 */
+a strong,
+a b,
+a code,
+.markdown-body a strong,
+.markdown-body a b,
+.markdown-body a code {
+  color: var(--accent) !important;
+}
+
+/* 辅助文字灰色 */
 small,
 time,
 footer,
@@ -88,15 +104,16 @@ figcaption,
   color: var(--muted) !important;
 }
 
-/* 横线隐藏 */
+/* 隐藏横线 */
 hr {
   border: 0 !important;
   border-top: 0 !important;
   background: var(--bg) !important;
+  color: var(--bg) !important;
   height: 0 !important;
 }
 
-/* 主题自带标题/页脚边线隐藏 */
+/* 隐藏主题自带的标题/页脚边线 */
 header,
 footer,
 .site-header,
@@ -106,18 +123,80 @@ footer,
   border-color: var(--bg) !important;
 }
 
-/* 表格线也压暗 */
+/* 表格线也压暗到背景色 */
 table,
 th,
 td {
   border-color: var(--bg) !important;
 }
 
-/* 代码块 */
+/* 表格背景透明 */
+table,
+thead,
+tbody,
+tr,
+td,
+th,
+.markdown-body table,
+.markdown-body thead,
+.markdown-body tbody,
+.markdown-body tr,
+.markdown-body td,
+.markdown-body th {
+  background-color: transparent !important;
+}
+
+/* 引用块 */
+blockquote,
+.markdown-body blockquote {
+  color: var(--muted) !important;
+  border-left-color: var(--bg) !important;
+  background: transparent !important;
+}
+
+/* 代码块：沿用 intake 的深色面板感 */
 pre,
 code,
 .highlight,
-.highlight pre {
-  background-color: #171a21 !important;
+.highlight pre,
+.markdown-body pre,
+.markdown-body code,
+.markdown-body .highlight,
+.markdown-body .highlight pre {
+  background-color: var(--panel) !important;
   color: var(--text) !important;
+  border-color: var(--border) !important;
+}
+
+/* 行内代码 */
+code,
+.markdown-body code {
+  padding: 0.12em 0.35em !important;
+  border-radius: 4px !important;
+}
+
+/* 块级代码 */
+pre,
+.markdown-body pre,
+.highlight pre,
+.markdown-body .highlight pre {
+  padding: 12px 14px !important;
+  border: 1px solid var(--border) !important;
+  border-radius: 6px !important;
+  overflow-x: auto !important;
+}
+
+/* 避免 pre 里的 code 双重背景/边框 */
+pre code,
+.markdown-body pre code {
+  padding: 0 !important;
+  border: 0 !important;
+  background: transparent !important;
+}
+
+/* 页脚链接保持绿色 */
+footer a,
+.site-footer a,
+.markdown-body footer a {
+  color: var(--accent) !important;
 }
