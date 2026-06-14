@@ -28,9 +28,9 @@
 
 <br>
 
-<ul>
-  <li>primary :: [ rx57@fivsevn.com ]</li>
-  <li>standby :: [ fivsevn57@outlook.com ]</li>
-</ul>
+<div style="margin-left: 2em;">
+primary :: [ <a href="mailto:rx57@fivsevn.com">rx57@fivsevn.com</a> ]<br>
+standby :: [ <a href="mailto:fivsevn57@outlook.com">fivsevn57@outlook.com</a> ]<br>
+</div>
 
 </details>
