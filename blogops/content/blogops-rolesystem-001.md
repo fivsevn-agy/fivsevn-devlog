@@ -10,7 +10,7 @@ type: article
 status: draft
 canonical: true
 
-summary: |
+summary: >
   定义 fivsevn 内容代理系统中的各节点角色， 建立博客人格接口与表现通道的结构模型。
 
 parents:
@@ -25,13 +25,14 @@ tags:
 
 audience: public
 languages: zh
+
 maturity: evolving
-confidence: 0.96
+confidence: 0.00
 visibility: public
 source_of_truth: devlog
 
 created: 2025-06-19
-updated: 2026-03-01
+updated: 2026-06-15
 ---
 # 博客的人格化接口建模 节点① 
 

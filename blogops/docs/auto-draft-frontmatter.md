@@ -17,19 +17,18 @@ summary: >
 parents: []
 related:
   - system-docs-auto-index-manual-001
-
 tags: [blogops, docs, automation, draft, frontmatter]
+
 audience: [self, collaborator]
 languages: [zh]
 
 maturity: stable
 confidence: 0.95
-
 visibility: public
 source_of_truth: devlog
 
 created: 2026-06-12
-updated: 2026-06-12
+updated: 2026-06-15
 ---
 
 # 自动草稿 frontmatter 维护手册
