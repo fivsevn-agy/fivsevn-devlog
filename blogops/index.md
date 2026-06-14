@@ -74,8 +74,14 @@ updated: 2026-06-15
 - 2025.03.29 ✌️ 开张纪念：fivsevn-devlog！
 
 ---
-### ▶︎ Contact
+<details>
+<summary>Contact</summary>
 
-- primary :: [ [`rx57@fivsevn.com`](mailto:rx57@fivsevn.com) ]
+<br>
 
-- backup :: [ [`fivsevn57@outlook.com`](mailto:fivsevn57@outlook.com) ]
+<div style="margin-left: 2em;">
+primary :: [ <a href="mailto:rx57@fivsevn.com">rx57@fivsevn.com</a> ]<br>
+standby :: [ <a href="mailto:fivsevn57@outlook.com">fivsevn57@outlook.com</a> ]<br>
+</div>
+
+</details>
