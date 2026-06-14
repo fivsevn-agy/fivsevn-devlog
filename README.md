@@ -13,11 +13,11 @@
 
 - **内容仓库** ▼ [ [**devlog.fivsevn.com**](https://devlog.fivsevn.com) ]
 
-  - 个人笔记 ▷ ./[`posts`](https://devlog.fivsevn.com/posts)  
+  - 个人笔记 ▷ ./[`devlog.posts`](https://devlog.fivsevn.com/posts)  
 
-  - 自然科学笔记 ▷ ./[`natsci`](https://devlog.fivsevn.com/natsci)  
+  - 自然科学笔记 ▷ ./[`devlog.natsci`](https://devlog.fivsevn.com/natsci)  
 
-  - 通讯技术笔记 ▷ ./[`netcom`](https://devlog.fivsevn.com/netcom)  
+  - 通讯技术笔记 ▷ ./[`devlog.netcom`](https://devlog.fivsevn.com/netcom)  
 
   - 后台日志 ▷ ./[`blogops`](https://devlog.fivsevn.com/blogops)
 

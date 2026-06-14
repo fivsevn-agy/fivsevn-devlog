@@ -1,9 +1,11 @@
 ---
 id: natsci-index
 title: fivsevn-natsci
+
 module: natsci
 submodule: index
-topic: object-archive
+topic: 
+
 type: index
 status: active
 canonical: true
@@ -15,8 +17,7 @@ summary: >
 
 parents: []
 related: [natsci-module-map, system-module-map]
-
-tags: [natsci, object-axis, taxonomy, archive]
+tags: [natsci, taxonomy]
 
 audience: [public]
 languages: [zh]
@@ -28,20 +29,17 @@ visibility: public
 source_of_truth: devlog
 
 created: 2025-03-23
-updated: 2026-03-13
+updated: 2026-06-15
 ---
-# fivsevn-natsci
-
-![](https://cdn.jsdelivr.net/gh/fivsevn/fivsevn-assets/homepage/homepage20251105bio.webp)
-
-- ⬆️ 这是养小虫用的保温泡沫塑料箱。
-
-- [这里](https://devlog.fivsevn.com/natsci/)是有关自然科学的学习笔记。
-
-- 照片、截图和比较简短的内容[在那里](https://fivsevn.com/natsci/)。
+## 五月七日的思考札记 ▶ 自然科学笔记
 
 ---
-## Recent Notes 更新记录
+### 主站 ▷ ./[`home.natsci`](https://fivsevn.com/natsci/)  
+
+### 内容仓库 ▽ ./[`devlog.natsci`](https://devlog.fivsevn.com/natsci/)  
+
+---
+#### > Recent Notes
 
 > 更新中......
 
@@ -68,10 +66,10 @@ updated: 2026-03-13
 
 - 2025.04.12 [マイマイカブリ情報探索メソッド](methods/natsci-methods-retrieval-001.md)
 <!-- AUTO-INDEX:NATSCI_RECENT:END -->
+
 ---
-## Contact
+### ▶︎ Contact
 
-- blog: [http://fivsevn.com](http://fivsevn.com)
-   
-- mail: [fivsevn57@outlook.com](mailto:fivsevn57@outlook.com)
+- primary :: [ [`rx57@fivsevn.com`](mailto:rx57@fivsevn.com) ]
 
+- backup :: [ [`fivsevn57@outlook.com`](mailto:fivsevn57@outlook.com) ]
