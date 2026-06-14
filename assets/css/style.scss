@@ -71,7 +71,16 @@ dt,
   color: var(--muted) !important;
 }
 
-/* 一级列表里的粗体文字白色：近况速报 / 本日入荷 / 视觉入口 等 */
+/* 普通粗体白色 */
+strong,
+b,
+.markdown-body strong,
+.markdown-body b {
+  color: var(--text) !important;
+  font-weight: 700 !important;
+}
+
+/* 一级列表里的粗体文字白色 */
 .markdown-body > ul > li > strong,
 .markdown-body > ul > li > b,
 .markdown-body li > strong,
@@ -87,22 +96,13 @@ dt,
   color: var(--muted) !important;
 }
 
-/* 普通粗体默认白色 */
-strong,
-b,
-.markdown-body strong,
-.markdown-body b {
-  color: var(--text) !important;
-  font-weight: 700 !important;
-}
-
-/* 链接绿色 */
+/* 链接绿色，保持正常字重 */
 a,
 a:visited,
 .markdown-body a,
 .markdown-body a:visited {
   color: var(--accent) !important;
-  font-weight: 700 !important;
+  font-weight: 400 !important;
 }
 
 a:hover,
@@ -111,7 +111,7 @@ a:hover,
   text-decoration: underline;
 }
 
-/* 链接里如果包了 strong / b / code，也保持绿色 */
+/* 链接里如果包了 strong / b / code，也保持绿色，但不要太粗 */
 a strong,
 a b,
 a code,
@@ -119,6 +119,7 @@ a code,
 .markdown-body a b,
 .markdown-body a code {
   color: var(--accent) !important;
+  font-weight: 400 !important;
 }
 
 /* 辅助文字灰色 */
@@ -236,9 +237,17 @@ pre code,
   font-size: 1em !important;
 }
 
-/* 页脚链接保持绿色 */
+/* 代码形式的链接也保持绿色，但正常字重 */
+a code,
+.markdown-body a code {
+  color: var(--accent) !important;
+  font-weight: 400 !important;
+}
+
+/* 页脚链接保持绿色，但正常字重 */
 footer a,
 .site-footer a,
 .markdown-body footer a {
   color: var(--accent) !important;
+  font-weight: 400 !important;
 }
