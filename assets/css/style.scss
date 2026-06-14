@@ -8,7 +8,6 @@
   --text: #e8e8e8;
   --muted: #9ca3af;
   --accent: #6becae;
-  --border: #2a2f3a;
 }
 
 /* 整体背景和正文 */
@@ -18,43 +17,44 @@ body {
   color: var(--text) !important;
 }
 
-/* GitHub Pages 常见主题容器 */
-.wrapper,
-.container-lg,
-.container-xl,
+/* 主体容器保持透明，不改布局 */
 .markdown-body,
+.wrapper,
 main,
 article,
 section,
 div {
-  background-color: transparent !important;
+  background: transparent !important;
   color: var(--text) !important;
 }
 
-/* 正文文字 */
+/* 正文 */
 p,
 li,
 td,
-th,
-dd,
-dt {
+th {
   color: var(--text) !important;
 }
 
-/* 标题 */
-h1,
+/* 主标题仍然用浅色 */
+h1 {
+  color: var(--text) !important;
+}
+
+/* 小标题统一用灰色 */
 h2,
 h3,
 h4,
 h5,
 h6 {
-  color: var(--text) !important;
+  color: var(--muted) !important;
 }
 
-/* 辅助文本 */
+/* 辅助文字也用灰色 */
 small,
 time,
 footer,
+figcaption,
 .meta,
 .description,
 .subtitle,
@@ -63,7 +63,7 @@ footer,
   color: var(--muted) !important;
 }
 
-/* 链接 */
+/* 链接绿色 */
 a,
 a:visited {
   color: var(--accent) !important;
@@ -74,42 +74,43 @@ a:hover {
   text-decoration: underline;
 }
 
-/* 代码块：只调成深色，不改结构 */
+/* 隐藏横线 */
+hr {
+  border: 0 !important;
+  border-top: 0 !important;
+  background: var(--bg) !important;
+  color: var(--bg) !important;
+  height: 0 !important;
+}
+
+/* GitHub Pages 主题里常见的分割线/边框也压掉 */
+header,
+footer,
+.site-header,
+.site-footer,
+.markdown-body h1,
+.markdown-body h2 {
+  border-color: var(--bg) !important;
+}
+
+/* 表格边框也弱化成背景色 */
+table,
+th,
+td {
+  border-color: var(--bg) !important;
+}
+
+/* 代码块保持深色 */
 pre,
 code,
 .highlight,
 .highlight pre {
-  background-color: #161a22 !important;
+  background-color: #171a21 !important;
   color: var(--text) !important;
-}
-
-/* 表格和分割线 */
-hr,
-table,
-th,
-td {
-  border-color: var(--border) !important;
-}
-
-/* 表格背景 */
-table,
-thead,
-tbody,
-tr,
-td,
-th {
-  background-color: transparent !important;
 }
 
 /* 引用块 */
 blockquote {
   color: var(--muted) !important;
-  border-left-color: var(--border) !important;
-}
-
-/* 页面顶部/底部 */
-header,
-footer {
-  background-color: transparent !important;
-  color: var(--muted) !important;
+  border-left-color: var(--bg) !important;
 }
