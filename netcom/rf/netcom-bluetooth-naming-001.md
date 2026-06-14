@@ -30,7 +30,6 @@ source_of_truth: external
 
 original_title: Kardach - Naming Bluetooth
 original_source: Kardach.com
-original_url: https://www.kardach.com/bluetooth/naming-bluetooth
 original_publisher: Jim Kardach / Kardach.com
 translation_note: >
   本文为原文内容的中文翻译，仅用于学习与知识整理。
