@@ -11,16 +11,16 @@
 
 • `status  :: alive`
 
-• `updated :: 2026.06.14`
+• `updated :: 2026.06.15`
 
 - Not much to say. Still here.
 
 
 ### • Signal
 
-• `log :: 2026.06.14`
+• `log :: 2026.06.15`
 
-- 无印良品的小零食好吃😋。
+- ⚠️ spec 施工中。
 
 ---
 <details>
