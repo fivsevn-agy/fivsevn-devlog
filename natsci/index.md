@@ -33,7 +33,6 @@ updated: 2026-06-15
 ---
 ## 五月七日的思考札记 ▶ 自然科学笔记
 
----
 ### 主站 ▷ ./[`home.natsci`](https://fivsevn.com/natsci/)  
 
 ### 内容仓库 ▽ ./[`devlog.natsci`](https://devlog.fivsevn.com/natsci/)  

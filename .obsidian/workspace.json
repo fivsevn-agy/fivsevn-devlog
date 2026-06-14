@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/index.md",
+                "file": "blogops/index.md",
                 "mode": "source",
                 "source": true
               },
@@ -185,6 +185,10 @@
   },
   "active": "dda31f6b1cf652b9",
   "lastOpenFiles": [
+    "natsci/index.md",
+    "README.md",
+    "netcom/index.md",
+    "posts/index.md",
     "blogops/index.md",
     "blogops/docs/post-publish-trigger.md",
     "blogops/docs/auto-index.md",
@@ -196,10 +200,6 @@
     "blogops/content/legacy-openinglog.md",
     "blogops/content/legacy-blogops-writing-and-deployment.md",
     "blogops/content/legacy-blogops-cyber-estate-masterplan-001.md",
-    "README.md",
-    "posts/index.md",
-    "natsci/index.md",
-    "netcom/index.md",
     "now/index.md",
     "natsci/taxonomy/index.md",
     "natsci/taxonomy/insecta/虫数据库.md",
