@@ -13,62 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "8a15b937a7c7164c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/index.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "6e5df8ceb8474e0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "natsci/index.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "026f6e41edfb004f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "netcom/index.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "6df08f4de5cae2bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "blogops/index.md",
                 "mode": "source",
                 "source": true
@@ -77,8 +21,7 @@
               "title": "index"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,13 +183,23 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "6df08f4de5cae2bc",
+  "active": "dda31f6b1cf652b9",
   "lastOpenFiles": [
+    "blogops/docs/post-publish-trigger.md",
+    "blogops/docs/auto-index.md",
+    "blogops/docs/auto-draft-frontmatter.md",
+    "blogops/content/blogops-rolesystem-001.md",
+    "blogops/content/blogops-assets-media-reference-001.md",
+    "blogops/content/blogops-about-001.md",
+    "blogops/docs/module-submodule-topic-001.md",
+    "blogops/content/legacy-openinglog.md",
+    "blogops/content/legacy-blogops-writing-and-deployment.md",
+    "blogops/content/legacy-blogops-cyber-estate-masterplan-001.md",
+    "README.md",
+    "blogops/index.md",
     "posts/index.md",
     "natsci/index.md",
     "netcom/index.md",
-    "blogops/index.md",
-    "README.md",
     "now/index.md",
     "natsci/taxonomy/index.md",
     "natsci/taxonomy/insecta/虫数据库.md",
@@ -259,19 +212,9 @@
     "natsci/map.md",
     "_tmpl_module-submodule-topic-001.md",
     "natsci/taxonomy/chondrichthyes/natsci-taxonomy-chondrichthyes-orders-001.md",
-    "netcom/architecture/netcom-architecture-fourlayermodel-001.md",
-    "natsci/taxonomy/chondrichthyes/软骨鱼纲目级为止的梳理.md",
-    "netcom/ai/netcom-ai-model-evaluation-basics-001.md",
-    "natsci/taxonomy/insecta/coleoptera/natsci-inecta-coleoptera-carabus-blaptoides-index-001.md",
     "natsci/assets/20260313sharklikefishes.png",
-    "natsci/taxonomy/chondrichthyes/index.md",
-    "natsci/taxonomy/insecta/coleoptera/index.md",
-    "natsci/assets/index.md",
     "natsci/assets",
     "natsci/taxonomy/chondrichthyes",
-    "netcom/map.md",
-    "blogops/content/legacy-openinglog.md",
-    "blogops/content/blogops-cyber-estate-masterplan-001.md",
     "netcom/assets/20251119mesh.png",
     "kiosk",
     "untitled folder",

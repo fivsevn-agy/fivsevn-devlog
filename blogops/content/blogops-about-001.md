@@ -14,19 +14,20 @@ summary: >
   博客基本信息、结构说明、版权声明与免责声明。
   作为对外公开的身份与边界说明页面。
 
-parents: [blogops-map]
-related: [blogops-rolesystem-001]
+parents: []
+related: []
 tags: [blogops, identity, about]
 
-audience: public
-languages: zh
+audience: [public]
+languages: [zh]
+
 maturity: stable
 confidence: 0.99
 visibility: public
 source_of_truth: site
 
 created: 2026-02-19
-updated: 2026-06-08
+updated: 2026-06-15
 ---
 # 关于博客（About This Blog）
 

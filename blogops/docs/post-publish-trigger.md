@@ -18,19 +18,18 @@ parents: []
 related:
   - system-docs-auto-index-manual-001
   - blogops-docs-auto-draft-frontmatter-001
-
 tags: [blogops, docs, automation, publish, trigger, github-actions, index]
+
 audience: [self, collaborator]
 languages: [zh]
 
 maturity: stable
 confidence: 0.93
-
 visibility: public
 source_of_truth: devlog
 
 created: 2026-06-13
-updated: 2026-06-13
+updated: 2026-06-15
 ---
 
 # Post 发布 trigger 维护手册
