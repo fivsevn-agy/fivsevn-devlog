@@ -92,8 +92,9 @@ updated: 2026-06-15
 
 - 2025.03.13 [波洛去埃及](https://fivsevn.home.blog/2025/03/13/%e6%b3%a2%e6%b4%9b%e5%8e%bb%e5%9f%83%e5%8f%8a/)
 <!-- AUTO-INDEX:POSTS_RECENT:END -->
+
 ---
-#### > Section 专栏
+#### > Section
 
 - [AI 话语分析](ai-discourse-analysis/index.md)
 
