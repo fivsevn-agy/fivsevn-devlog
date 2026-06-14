@@ -10,14 +10,14 @@
   --accent: #6becae;
 }
 
-/* 整体背景和正文 */
+/* 整体背景 */
 html,
 body {
   background: var(--bg) !important;
-  color: var(--text) !important;
+  color: var(--muted) !important;
 }
 
-/* 主体容器保持透明，不改布局 */
+/* 容器透明 */
 .markdown-body,
 .wrapper,
 main,
@@ -25,32 +25,57 @@ article,
 section,
 div {
   background: transparent !important;
-  color: var(--text) !important;
 }
 
-/* 正文 */
-p,
-li,
-td,
-th {
-  color: var(--text) !important;
-}
-
-/* 主标题仍然用浅色 */
-h1 {
-  color: var(--text) !important;
-}
-
-/* 小标题统一用灰色 */
+/* 标题白色 */
+h1,
 h2,
 h3,
 h4,
 h5,
-h6 {
+h6,
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+  color: var(--text) !important;
+}
+
+/* 正文、列表、表格文字灰色 */
+p,
+li,
+td,
+th,
+dd,
+dt,
+.markdown-body p,
+.markdown-body li,
+.markdown-body td,
+.markdown-body th {
   color: var(--muted) !important;
 }
 
-/* 辅助文字也用灰色 */
+/* 强调文字也先跟正文走灰色 */
+strong,
+b {
+  color: var(--muted) !important;
+}
+
+/* 链接绿色 */
+a,
+a:visited,
+.markdown-body a {
+  color: var(--accent) !important;
+}
+
+a:hover {
+  color: var(--accent) !important;
+  text-decoration: underline;
+}
+
+/* 页脚辅助文字灰色 */
 small,
 time,
 footer,
@@ -63,27 +88,15 @@ figcaption,
   color: var(--muted) !important;
 }
 
-/* 链接绿色 */
-a,
-a:visited {
-  color: var(--accent) !important;
-}
-
-a:hover {
-  color: var(--accent) !important;
-  text-decoration: underline;
-}
-
-/* 隐藏横线 */
+/* 横线隐藏 */
 hr {
   border: 0 !important;
   border-top: 0 !important;
   background: var(--bg) !important;
-  color: var(--bg) !important;
   height: 0 !important;
 }
 
-/* GitHub Pages 主题里常见的分割线/边框也压掉 */
+/* 主题自带标题/页脚边线隐藏 */
 header,
 footer,
 .site-header,
@@ -93,24 +106,18 @@ footer,
   border-color: var(--bg) !important;
 }
 
-/* 表格边框也弱化成背景色 */
+/* 表格线也压暗 */
 table,
 th,
 td {
   border-color: var(--bg) !important;
 }
 
-/* 代码块保持深色 */
+/* 代码块 */
 pre,
 code,
 .highlight,
 .highlight pre {
   background-color: #171a21 !important;
   color: var(--text) !important;
-}
-
-/* 引用块 */
-blockquote {
-  color: var(--muted) !important;
-  border-left-color: var(--bg) !important;
 }
