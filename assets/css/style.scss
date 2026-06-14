@@ -13,19 +13,19 @@
   --font-code: "Courier New", Courier, monospace;
 }
 
-/* 全站字体：Courier New，增强代码感 */
+/* 全站字体：Courier New */
 * {
   font-family: var(--font-code) !important;
   text-rendering: geometricPrecision;
 }
 
-/* 整体背景 */
+/* 整体背景与字号 */
 html,
 body {
   background: var(--bg) !important;
   color: var(--muted) !important;
-  font-size: 15px;
-  line-height: 1.65;
+  font-size: 13px !important;
+  line-height: 1.62 !important;
   letter-spacing: -0.01em;
 }
 
@@ -150,15 +150,6 @@ header,
   border-color: var(--bg) !important;
 }
 
-/* footer 保留灰色分割线 */
-footer,
-.site-footer {
-  display: block !important;
-  background: transparent !important;
-  color: var(--muted) !important;
-  border-top: 1px solid var(--border) !important;
-}
-
 /* 表格线压暗 */
 table,
 th,
@@ -205,7 +196,7 @@ code,
   font-family: var(--font-code) !important;
 }
 
-/* 行内代码：更像标签/终端片段 */
+/* 行内代码 */
 code,
 .markdown-body code {
   padding: 0.1em 0.38em !important;
@@ -243,31 +234,31 @@ a code,
   font-weight: 400 !important;
 }
 
-/* 替换 GitHub Pages 默认 footer 文案 */
-.site-footer-owner,
-.site-footer-credits {
-  font-size: 0 !important;
+/* footer：保留灰色线，替换默认英文 */
+footer,
+.site-footer {
+  display: block !important;
+  background: transparent !important;
   color: transparent !important;
+  border-top: 1px solid var(--border) !important;
+  margin-top: 36px !important;
+  padding-top: 18px !important;
+  font-size: 0 !important;
 }
 
-/* 自定义 footer 文案：灰色 */
-.site-footer-owner::after {
+/* 隐藏 footer 里面原本的所有内容 */
+footer *,
+.site-footer * {
+  display: none !important;
+}
+
+/* 自定义 footer 文案 */
+footer::after,
+.site-footer::after {
   content: "© 2025–2026 五月七日的思考札记 · fivsevn.com · 内容采用 CC BY-NC-SA 4.0 许可";
-  display: inline-block;
-  font-size: 15px !important;
+  display: block !important;
   color: var(--muted) !important;
-  font-weight: 400 !important;
-}
-
-/* 隐藏第二行默认 credits */
-.site-footer-credits::after {
-  content: "";
-}
-
-/* footer 里的链接如果还有残留，保持灰色，不抢视觉 */
-footer a,
-.site-footer a,
-.markdown-body footer a {
-  color: var(--muted) !important;
+  font-size: 11px !important;
+  line-height: 1.6 !important;
   font-weight: 400 !important;
 }
