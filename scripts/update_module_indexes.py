@@ -86,6 +86,7 @@ def parse_frontmatter(text: str) -> dict[str, str] | None:
     title/module/status/type/created/date/updated/original_url.
     """
     lines = text.splitlines()
+
     if not lines or lines[0].strip() != "---":
         return None
 
@@ -104,20 +105,25 @@ def parse_frontmatter(text: str) -> dict[str, str] | None:
             continue
         if ":" not in raw_line:
             continue
+
         key, value = raw_line.split(":", 1)
         key = key.strip()
         value = strip_quotes(value)
+
         if key:
             fm[key] = value
+
     return fm
 
 
 def normalize_date(value: str | None) -> str | None:
     if not value:
         return None
+
     match = DATE_RE.search(str(value))
     if not match:
         return None
+
     year, month, day = match.groups()
     return f"{int(year):04d}-{int(month):02d}-{int(day):02d}"
 
@@ -127,17 +133,20 @@ def get_note_date(fm: dict[str, str]) -> str | None:
         date = normalize_date(fm.get(key))
         if date:
             return date
+
     return None
 
 
 def status_mode(status: str | None) -> str:
     normalized = (status or "").strip().lower()
+
     if normalized in LINK_STATUSES:
         return "link"
     if normalized in TEXT_STATUSES:
         return "text"
     if normalized in HIDE_STATUSES:
         return "hide"
+
     # 没写 status 时不进目录，避免半成品被误公开。
     return "hide"
 
@@ -171,6 +180,7 @@ def collect_notes(module_name: str, config: dict) -> tuple[list[Note], list[str]
         rel_to_root = path.relative_to(root_dir).as_posix()
         text = path.read_text(encoding="utf-8")
         fm = parse_frontmatter(text)
+
         if fm is None:
             warnings.append(f"[{module_name}] skipped, no front matter: {rel_to_root}")
             continue
@@ -195,13 +205,17 @@ def collect_notes(module_name: str, config: dict) -> tuple[list[Note], list[str]
 
         status = (fm.get("status") or "").strip().lower()
         mode = status_mode(status)
+
         if mode == "hide":
             continue
 
         note_type = (fm.get("type") or "").strip().lower()
 
         if mode == "link":
-            link = (fm.get("original_url") or "").strip() or rel_to_root
+            if note_type in TRANSLATION_TYPES:
+                link = rel_to_root
+            else:
+                link = (fm.get("original_url") or "").strip() or rel_to_root
         else:
             link = None
 
@@ -234,6 +248,7 @@ def render_notes(notes: list[Note]) -> str:
         return "<!-- no notes found -->"
 
     lines: list[str] = []
+
     for note in notes:
         display_date = note.date.replace("-", ".")
         title = display_title(note)
@@ -254,6 +269,7 @@ def replace_between_markers(text: str, marker: str, body: str) -> tuple[str, boo
 
     if pattern.search(text):
         return pattern.sub(replacement, text), True
+
     return text, False
 
 
@@ -263,6 +279,7 @@ def replace_after_heading(text: str, heading: str, marker: str, body: str) -> st
     block = f"{start}\n{body}\n{end}\n"
 
     lines = text.splitlines(keepends=True)
+
     heading_index = None
     for i, line in enumerate(lines):
         if line.strip() == heading:
@@ -294,23 +311,27 @@ def replace_after_heading(text: str, heading: str, marker: str, body: str) -> st
         line if line.endswith("\n") else f"{line}\n"
         for line in block.splitlines()
     ]
+
     new_lines = lines[:content_start] + replacement_lines + lines[content_end:]
     return "".join(new_lines)
 
 
 def update_index(config: dict, rendered: str) -> bool:
     index_path = ROOT / config["index"]
+
     if not index_path.exists():
         raise RuntimeError(f"index not found: {index_path}")
 
     old_text = index_path.read_text(encoding="utf-8")
     new_text, found = replace_between_markers(old_text, config["marker"], rendered)
+
     if not found:
         new_text = replace_after_heading(old_text, config["heading"], config["marker"], rendered)
 
     if new_text != old_text:
         index_path.write_text(new_text, encoding="utf-8")
         return True
+
     return False
 
 
@@ -321,9 +342,11 @@ def main() -> int:
     for module_name, config in MODULES.items():
         notes, warnings = collect_notes(module_name, config)
         all_warnings.extend(warnings)
+
         rendered = render_notes(notes)
         changed = update_index(config, rendered)
         changed_any = changed_any or changed
+
         print(f"{module_name}: {len(notes)} item(s), changed={changed}")
 
     if all_warnings:
@@ -335,6 +358,7 @@ def main() -> int:
         print("\nIndex files updated.")
     else:
         print("\nIndex files already up to date.")
+
     return 0
 
 
