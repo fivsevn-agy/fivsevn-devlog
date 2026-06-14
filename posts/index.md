@@ -45,7 +45,7 @@ updated: 2026-06-15
 > 更新中......  
 
 <!-- AUTO-INDEX:POSTS_RECENT:START -->
-- 2026.06.08 [J.R.R. 托尔金论童话、语言、幻想心理学，以及为何不存在“为儿童”而写（译文）](https://www.themarginalian.org/2026/06/06/j-r-r-tolkien-on-fairy-stories/)
+- 2026.06.08 [J.R.R. 托尔金论童话、语言、幻想心理学，以及为何不存在“为儿童”而写（译文）](2026/posts-literature-tolkien-fairy-stories-001.md)
 
 - 2026.06.07 [蓝牙技术命名](2026/posts-20260607-bluetooth-naming-001.md)
 
