@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogops/content/blogops-about-001.md",
+                "file": "blogops/docs/module-submodule-topic-001.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "blogops-about-001"
+              "title": "module-submodule-topic-001"
             }
           }
         ]
@@ -185,8 +185,12 @@
   },
   "active": "dda31f6b1cf652b9",
   "lastOpenFiles": [
-    "blogops/content/blogops-assets-media-reference-001.md",
+    "blogops/docs/post-publish-trigger.md",
+    "blogops/docs/module-submodule-topic-001.md",
+    "blogops/docs/auto-index.md",
+    "blogops/index.md",
     "blogops/content/blogops-about-001.md",
+    "blogops/content/blogops-assets-media-reference-001.md",
     "README.md",
     "posts/map.md",
     "natsci/ethnobiology/ethnoentomology/natsci-ethnobiology-ethnoentomology-resources-001.md",
@@ -195,10 +199,6 @@
     "intake/README.md",
     "blogops/system-map.md",
     "blogops/map.md",
-    "blogops/index.md",
-    "blogops/docs/post-publish-trigger.md",
-    "blogops/docs/auto-index.md",
-    "blogops/docs/module-submodule-topic-001.md",
     "blogops/docs/auto-draft-frontmatter.md",
     "blogops/content/blogops-rolesystem-001.md",
     "blogops/content/legacy-blogops-cyber-estate-masterplan-001.md",
