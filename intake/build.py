@@ -923,7 +923,8 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
     </section>
 
     <footer>
-      <p>本页面由 GitHub Actions 每日生成，数据来自 RSS 与采样脚本。<a href="https://github.com/fivsevn-agy/fivsevn-devlog/tree/233c5bab2dba086446db83ee8e7b232b46c53a1a/intake">查看仓库</a></p>
+      <p>本页面由 GitHub Actions 每日生成，数据来自 RSS 与采样脚本。<br>
+      <a href="https://github.com/fivsevn-agy/fivsevn-devlog/tree/233c5bab2dba086446db83ee8e7b232b46c53a1a/intake">查看仓库</a></p>
     </footer>
   </main>
 
