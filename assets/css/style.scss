@@ -1,0 +1,115 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+:root {
+  --bg: #0f1115;
+  --text: #e8e8e8;
+  --muted: #9ca3af;
+  --accent: #6becae;
+  --border: #2a2f3a;
+}
+
+/* 整体背景和正文 */
+html,
+body {
+  background: var(--bg) !important;
+  color: var(--text) !important;
+}
+
+/* GitHub Pages 常见主题容器 */
+.wrapper,
+.container-lg,
+.container-xl,
+.markdown-body,
+main,
+article,
+section,
+div {
+  background-color: transparent !important;
+  color: var(--text) !important;
+}
+
+/* 正文文字 */
+p,
+li,
+td,
+th,
+dd,
+dt {
+  color: var(--text) !important;
+}
+
+/* 标题 */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--text) !important;
+}
+
+/* 辅助文本 */
+small,
+time,
+footer,
+.meta,
+.description,
+.subtitle,
+.site-footer,
+.view {
+  color: var(--muted) !important;
+}
+
+/* 链接 */
+a,
+a:visited {
+  color: var(--accent) !important;
+}
+
+a:hover {
+  color: var(--accent) !important;
+  text-decoration: underline;
+}
+
+/* 代码块：只调成深色，不改结构 */
+pre,
+code,
+.highlight,
+.highlight pre {
+  background-color: #161a22 !important;
+  color: var(--text) !important;
+}
+
+/* 表格和分割线 */
+hr,
+table,
+th,
+td {
+  border-color: var(--border) !important;
+}
+
+/* 表格背景 */
+table,
+thead,
+tbody,
+tr,
+td,
+th {
+  background-color: transparent !important;
+}
+
+/* 引用块 */
+blockquote {
+  color: var(--muted) !important;
+  border-left-color: var(--border) !important;
+}
+
+/* 页面顶部/底部 */
+header,
+footer {
+  background-color: transparent !important;
+  color: var(--muted) !important;
+}
