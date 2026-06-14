@@ -60,10 +60,6 @@ updated: 2026-06-15
 - 2026.02.20 [昆虫 × 人类学资料暂存](ethnobiology/ethnoentomology/natsci-ethnobiology-ethnoentomology-resources-001.md)
 
 - 2026.01.01 [粉色螽斯模拟延迟变绿（译文）](taxonomy/insecta/natsci-entomology-arota-festae-001.md)
-
-- 2025.07.31 [マイマイカブリ亜種索引](taxonomy/insecta/coleoptera/natsci-insecta-coleoptera-carabus-blaptoides-index-001.md)
-
-- 2025.04.12 [マイマイカブリ情報探索メソッド](methods/natsci-methods-retrieval-001.md)
 <!-- AUTO-INDEX:NATSCI_RECENT:END -->
 
 ---
