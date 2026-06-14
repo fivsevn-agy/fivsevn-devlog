@@ -24,7 +24,7 @@
   - 后台日志 ▷ ./[`blogops`](https://devlog.fivsevn.com/blogops)
 
 
-- 个人写作规范 ▶︎ [ [fivsevn-spec](https://github.com/fivsevn-agy/fivsevn-spec) ]
+- 个人写作规范 ▶︎ [ fivsevn-spec ] (施工中)
 
 
 ### ▶︎ Listed In
