@@ -4,7 +4,7 @@ title: fivsevn-netcom
 
 module: netcom
 submodule: index
-topic: system-archive
+topic: 
 
 type: index
 status: active
@@ -17,24 +17,23 @@ summary: >
 
 parents: []
 related: [netcom-module-map, system-module-map]
-tags: [netcom, system-axis, engineering, archive]
+tags: [netcom, engineering]
 
 audience: public
 languages: zh
+
 maturity: stable
 confidence: 0.97
 visibility: public
 source_of_truth: devlog
 
 created: 2025-11-16
-updated: 2026-03-13
+updated: 2026-06-15
 ---
-# fivsevn-netcom 
-
-- 2026.03.13 等树莓派到货！
-  
+## 五月七日的思考札记 ▶ 通讯技术笔记
+ 
 ---
-## Recent Notes 更新记录
+#### > Recent Notes
 
 > 更新中......
 
@@ -93,11 +92,10 @@ updated: 2026-03-13
 
 - 2025.11.16 [Meshtastic 设备结构模型（餐盘类比）](lora/netcom-lora-meshtastic-structure-001.md)
 <!-- AUTO-INDEX:NETCOM_RECENT:END -->
+
 ---
-## Contact
+### ▶︎ Contact
 
-- blog: [http://fivsevn.com](http://fivsevn.com)
-   
-- mail: [fivsevn57@outlook.com](mailto:fivsevn57@outlook.com)
+- primary :: [ [`rx57@fivsevn.com`](mailto:rx57@fivsevn.com) ]
 
-
+- backup :: [ [`fivsevn57@outlook.com`](mailto:fivsevn57@outlook.com) ]

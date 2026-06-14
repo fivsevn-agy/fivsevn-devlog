@@ -4,7 +4,7 @@ title: fivsevn-posts
 
 module: posts
 submodule: index
-topic: temporal-archive
+topic: 
 
 type: index
 status: active
@@ -20,25 +20,28 @@ columns:
 
 parents: []
 related: [system-module-map]
-tags: [posts, temporal-axis, archive, reflection]
+tags: [posts, reflection]
 
 audience: public
 languages: zh
-maturity: evolving
+
+maturity: stable
 confidence: 0.97
 visibility: public
 source_of_truth: devlog
 
 created: 2025-03-13
-updated: 2026-03-01
+updated: 2026-06-15
 ---
-# fivsevn-posts
-
-- 图片流和短内容快速发布[戳戳](https://fivsevn.com/posts/)
-- 这里是慢速发布、历史文章存档和草稿。
+## 五月七日的思考札记 ▶ 个人笔记
 
 ---
-## Recent Posts
+### 主站 ▷ ./[`home.posts`](https://fivsevn.com/posts/)  
+
+### 内容仓库 ▽ ./[`devlog.posts`](https://devlog.fivsevn.com/posts)  
+
+---
+#### > Recent Posts
 
 > 更新中......  
 
@@ -90,15 +93,13 @@ updated: 2026-03-01
 - 2025.03.13 [波洛去埃及](https://fivsevn.home.blog/2025/03/13/%e6%b3%a2%e6%b4%9b%e5%8e%bb%e5%9f%83%e5%8f%8a/)
 <!-- AUTO-INDEX:POSTS_RECENT:END -->
 ---
-## Section 专栏
+#### > Section 专栏
 
-- [AI话语分析](ai-discourse-analysis/index.md)
+- [AI 话语分析](ai-discourse-analysis/index.md)
 
 ---
-## contact
+### ▶︎ Contact
 
-- blog: [http://fivsevn.com](http://fivsevn.com)
-   
-- mail: [fivsevn57@outlook.com](mailto:fivsevn57@outlook.com)
+- primary :: [ [`rx57@fivsevn.com`](mailto:rx57@fivsevn.com) ]
 
-
+- backup :: [ [`fivsevn57@outlook.com`](mailto:fivsevn57@outlook.com) ]

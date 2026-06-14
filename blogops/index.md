@@ -4,7 +4,7 @@ title: fivsevn-blogops
 
 module: blogops
 submodule: index
-topic: system-evolution-log
+topic: 
 
 type: index
 status: active
@@ -17,24 +17,27 @@ summary: >
 
 parents: []
 related: [posts-index]
-tags: [blogops, evolution, changelog, public-facing]
+tags: [blogops, evolution, changelog]
 
 audience: public
 languages: zh
+
 maturity: stable
-confidence: 0.96
+confidence: 0.97
 visibility: public
 source_of_truth: devlog
 
 created: 2025-03-29
-updated: 2026-03-08
+updated: 2026-06-15
 ---
-# fivsevn-blogops
+## 五月七日的思考札记 ▶ 后台日志
 
-- 【[五月七日的思考札记](http://fivsevn.com)】后台日志
+- **视觉入口** ▶︎ [ [**fivsevn.com**](https://fivsevn.com) ]
+
+- **内容仓库** ▶︎ [ [**devlog.fivsevn.com**](https://devlog.fivsevn.com) ]
 
 ---
-## Directory
+### Directory
 
 - 2026.06.07 👉 [博客各类内容的保存和引用方式](content/blogops-assets-media-reference-001.md)
 
@@ -71,10 +74,8 @@ updated: 2026-03-08
 - 2025.03.29 ✌️ 开张纪念：fivsevn-devlog！
 
 ---
-## Contact
+### ▶︎ Contact
 
-- blog: [http://fivsevn.com](http://fivsevn.com)
-   
-- mail: [fivsevn57@outlook.com](mailto:fivsevn57@outlook.com)
+- primary :: [ [`rx57@fivsevn.com`](mailto:rx57@fivsevn.com) ]
 
-
+- backup :: [ [`fivsevn57@outlook.com`](mailto:fivsevn57@outlook.com) ]
