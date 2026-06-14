@@ -39,6 +39,10 @@ updated: 2026-06-15
 ---
 ### Directory
 
+- 2026.06.15 TODO：有关博客的自动化发布等设置的说明，待更新。
+
+- 2026.06.15 🤌 修改了 devlog.fivsevn.com 的[页面样式](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/assets/css/style.scss)，改成了深色页面，与 [intake 页面](https://devlog.fivsevn.com/intake/)统一用色；与[主页](https://fivsevn.com)的风格类似。
+
 - 2026.06.07 👉 [博客各类内容的保存和引用方式](content/blogops-assets-media-reference-001.md)
 
 - 2025.03.17 ✌️加入了[中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)
@@ -49,7 +53,7 @@ updated: 2026-06-15
 
 - 2026.03.03 ☝️ ~~五月七日赛博地产总规划说明！解说我目前内容的构成。~~（待更新）
 
-- 2026.03.01 🤌 开始使用统一的[YAML frontmatter](https://github.com/fivsevn-agy/fivsevn-spec/blob/main/gov/spec-gov-meta-frontmatter-001.md)，新建内容可以复制[这个文件](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/_tmpl_module-submodule-topic-001.md)，已经写好了格式和注释。
+- 2026.03.01 🤌 ~~开始使用统一的[YAML frontmatter](https://github.com/fivsevn-agy/fivsevn-spec/blob/main/gov/spec-gov-meta-frontmatter-001.md)，新建内容可以复制[这个文件](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/_tmpl_module-submodule-topic-001.md)，已经写好了格式和注释。~~ frontmatter 有微调，正文已直接修改； spec 有点旧了，待更新。
 
 - 2025.11.19 ☝️ [关于本博客](content/blogops-about-001.md)  
 
