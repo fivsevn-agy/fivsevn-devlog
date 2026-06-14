@@ -102,4 +102,4 @@ updated: 2026-06-15
 
 - primary :: [ [`rx57@fivsevn.com`](mailto:rx57@fivsevn.com) ]
 
-- backup :: [ [`fivsevn57@outlook.com`](mailto:fivsevn57@outlook.com) ]
+- standby :: [ [`fivsevn57@outlook.com`](mailto:fivsevn57@outlook.com) ]
