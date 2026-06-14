@@ -13,15 +13,9 @@ canonical: true
 summary: >
   定义 fivsevn 内容代理系统中的各节点角色， 建立博客人格接口与表现通道的结构模型。
 
-parents:
-  - blogops-map
-related:
-  - blogops-about-001
-tags:
-  - blogops
-  - architecture
-  - persona
-  - interface
+parents: [blogops-map]
+related: [blogops-about-001]
+tags: [blogops, architecture, persona, interface]
 
 audience: public
 languages: zh
