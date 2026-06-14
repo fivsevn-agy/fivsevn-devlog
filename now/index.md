@@ -27,7 +27,10 @@
 <summary>Contact</summary>
 
 <br>
+
+<div style="margin-left: 2em;">
 primary :: [ rx57@fivsevn.com ]<br>
 standby :: [ fivsevn57@outlook.com ]<br>
+</div>
 
 </details>
