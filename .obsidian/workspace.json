@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogops/docs/module-submodule-topic-001.md",
-                "mode": "source",
+                "file": "blogops/docs/auto-translation-shortcut.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "module-submodule-topic-001"
+              "title": "auto-translation-shortcut"
             }
           }
         ]
@@ -185,15 +185,16 @@
   },
   "active": "dda31f6b1cf652b9",
   "lastOpenFiles": [
+    "blogops/docs/module-submodule-topic-001.md",
+    "blogops/docs/auto-translation-shortcut.md",
+    "blogops/docs/auto-index.md",
     "natsci/_drafts/TEMPLATE-natsci.md",
     "posts/2026/posts-neuropsychology-dementia-communication-001.md",
     "natsci/taxonomy/insecta/natsci-evolution-millipede-land-001.md",
     "natsci/taxonomy/insecta/natsci-ecology-caterpillar-diet-specialization-001.md",
     "natsci/paleontology/natsci-paleontology-whale-necropolis-001.md",
     "natsci/paleontology/natsci-paleontology-shishania-chancelloriid-001.md",
-    "blogops/docs/module-submodule-topic-001.md",
     "blogops/docs/auto-draft-frontmatter.md",
-    "blogops/docs/auto-index.md",
     "blogops/docs/post-publish-trigger.md",
     "blogops/index.md",
     "blogops/content/blogops-about-001.md",
@@ -211,7 +212,6 @@
     "blogops/content/legacy-openinglog.md",
     "natsci/index.md",
     "netcom/index.md",
-    "posts/index.md",
     "now",
     "natsci/assets",
     "natsci/taxonomy/chondrichthyes",
