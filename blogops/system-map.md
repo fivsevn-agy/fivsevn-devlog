@@ -12,8 +12,8 @@ canonical: true
 
 summary: >
   Single-file orientation map for AI collaborators entering the fivsevn system.
-  Defines repository authority, public interfaces, structural topology,
-  routing rules, map/index conventions, and publication boundaries.
+  Defines repository authority, public interfaces, structural topology, routing rules,
+  map/index conventions, and publication boundaries.
 
 parents: [system-ai-boot-protocol]
 related: [system-module-map, system-prompt-routing, system-topology-overview-001, posts-module-map, natsci-module-map, netcom-module-map, blogops-module-map]
@@ -24,7 +24,7 @@ audience: [collaborator]
 languages: [en, zh]
 
 maturity: stable
-confidence: 0.97
+confidence: 1.0
 
 visibility: public
 source_of_truth: devlog
@@ -382,7 +382,7 @@ fivsevn system
 │     └─ blogops
 │
 ├─ kernel / protocol layer
-│  └─ system
+│  └─ blogops
 │     └─ system-map
 │
 ├─ structural specification
@@ -452,7 +452,7 @@ It explains:
 
 ### `system-map.md`
 
-`system/system-map.md` is the global map.
+`blogops/system-map.md` is the global map.
 
 It explains the whole system, not only one module.
 
@@ -503,7 +503,8 @@ type: translation
 → append （译文） to title
 
 original_url
-→ prefer external URL as link target
+→ prefer external URL as link target when present
+→ may point to translated source or self-authored external original, e.g. WordPress
 ```
 
 Path-level exclusions include:
