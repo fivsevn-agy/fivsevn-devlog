@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "natsci/_drafts/TEMPLATE-natsci.md",
+                "file": "blogops/docs/module-submodule-topic-001.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "TEMPLATE-natsci"
+              "title": "module-submodule-topic-001"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "dda31f6b1cf652b9",
   "lastOpenFiles": [
+    "natsci/_drafts/TEMPLATE-natsci.md",
     "posts/2026/posts-neuropsychology-dementia-communication-001.md",
     "natsci/taxonomy/insecta/natsci-evolution-millipede-land-001.md",
     "natsci/taxonomy/insecta/natsci-ecology-caterpillar-diet-specialization-001.md",
@@ -201,7 +202,6 @@
     "posts/map.md",
     "natsci/ethnobiology/ethnoentomology/natsci-ethnobiology-ethnoentomology-resources-001.md",
     "natsci/assets/20260313sharklikefishes.png",
-    "natsci/_drafts/TEMPLATE-natsci.md",
     "intake/README.md",
     "blogops/system-map.md",
     "blogops/map.md",
