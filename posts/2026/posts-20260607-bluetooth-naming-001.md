@@ -15,12 +15,15 @@ summary: >
 
 parents: [posts-index]
 related: [netcom-bluetooth-naming-001]
+
 tags: [posts, bluetooth, naming, technology, history, jelling]
 
 audience: [public]
 languages: [zh]
+
 maturity: evolving
-confidence: 0.80
+confidence: 0.8
+
 visibility: public
 source_of_truth: devlog
 
@@ -67,4 +70,3 @@ ChatGPT给出了一些有关“蓝牙”技术的命名来源站点可以参考�
 - [https://www.britannica.com/biography/Harald-I-king-of-Denmark](https://www.britannica.com/biography/Harald-I-king-of-Denmark)
 
 ---
-
