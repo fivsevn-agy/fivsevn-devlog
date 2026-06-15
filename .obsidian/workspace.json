@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "natsci/taxonomy/chondrichthyes/鲨鱼数据库.md",
+                "file": "natsci/taxonomy/arthropod/natsci-arthropod-millipede-land-colonization-001.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "鲨鱼数据库"
+              "title": "natsci-arthropod-millipede-land-colonization-001"
             }
           }
         ]
@@ -185,6 +185,13 @@
   },
   "active": "dda31f6b1cf652b9",
   "lastOpenFiles": [
+    "natsci/taxonomy/arthropod/natsci-arthropod-caterpillar-diet-specialization-001.md",
+    "natsci/taxonomy/arthropod/natsci-arthropod-bee-ai-consciousness-001.md",
+    "natsci/taxonomy/arthropod/natsci-arthropod-arota-festae-001.md",
+    "natsci/taxonomy/chondrichthyes/鲨鱼数据库.md",
+    "natsci/taxonomy/arthropod/natsci-arthropod-millipede-land-colonization-001.md",
+    "natsci/taxonomy/arthropod",
+    "natsci/taxonomy/untitled folder",
     "natsci/taxonomy/chondrichthyes/natsci-taxonomy-shark-phylogeny-001.md.md",
     "natsci/taxonomy/chondrichthyes/natsci-marine-ecology-shark-ray-areas-001.md.md",
     "natsci/taxonomy/chondrichthyes/natsci-taxonomy-chondrichthyes-orders-001.md",
@@ -206,12 +213,7 @@
     "blogops/content/blogops-about-001.md",
     "blogops/content/blogops-assets-media-reference-001.md",
     "README.md",
-    "posts/map.md",
-    "natsci/ethnobiology/ethnoentomology/natsci-ethnobiology-ethnoentomology-resources-001.md",
     "natsci/assets/20260313sharklikefishes.png",
-    "intake/README.md",
-    "blogops/system-map.md",
-    "blogops/map.md",
     "now",
     "natsci/assets",
     "natsci/taxonomy/chondrichthyes",
@@ -222,8 +224,6 @@
     "netcom/cs",
     "netcom/untitled folder",
     "netcom/architecture",
-    "netcom/lora/meshtastic",
-    "netcom/lora/untitled folder",
     "netcom/assets/20251118mcu.png"
   ]
 }
