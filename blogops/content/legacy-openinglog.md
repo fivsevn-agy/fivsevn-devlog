@@ -1,5 +1,5 @@
 ---
-module: blogops
+module: system
 type: note
 status: archived
 canonical: false
@@ -8,7 +8,7 @@ summary: >
 tags: [archive]
 visibility: public
 source_of_truth: devlog
-updated: 2026-03-01
+updated: 2026-06-15
 ---
 # 2025.12.05｜转到了组织仓库🤌！
 

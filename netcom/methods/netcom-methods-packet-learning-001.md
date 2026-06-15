@@ -17,12 +17,15 @@ summary: >
 
 parents: [netcom-module-map]
 related: [posts-index]
+
 tags: [netcom, methods, learning-model, packet-switching]
 
 audience: [public]
 languages: [zh]
+
 maturity: evolving
 confidence: 0.94
+
 visibility: public
 source_of_truth: devlog
 

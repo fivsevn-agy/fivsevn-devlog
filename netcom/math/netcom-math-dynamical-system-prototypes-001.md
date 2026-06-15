@@ -17,12 +17,15 @@ summary: >
 
 parents: [netcom-module-map]
 related: [netcom-math-e-exponential-001]
+
 tags: [netcom, math, dynamical-systems, modeling]
 
 audience: [public]
 languages: [zh]
+
 maturity: stable
 confidence: 0.97
+
 visibility: public
 source_of_truth: devlog
 

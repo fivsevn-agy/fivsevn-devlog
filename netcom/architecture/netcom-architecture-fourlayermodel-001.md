@@ -18,12 +18,15 @@ summary: >
 
 parents: [netcom-module-map]
 related: [netcom-lora-meshtastic-001]
+
 tags: [netcom, architecture, layered-model, meshtastic, lora]
 
 audience: [public]
 languages: [zh]
+
 maturity: stable
 confidence: 0.98
+
 visibility: public
 source_of_truth: devlog
 

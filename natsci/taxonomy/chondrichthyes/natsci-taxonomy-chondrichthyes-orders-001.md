@@ -16,19 +16,10 @@ summary: >
   并记录 FAO《Sharks of the World》及相关识别图的来源，
   作为后续鲨鱼与鳐类笔记的基础框架。
 
-parents: [
-  natsci-taxonomy-index
-]
-
+parents: []
 related: []
 
-tags: [
-  chondrichthyes,
-  sharks,
-  batoidea,
-  taxonomy,
-  fao
-]
+tags: [chondrichthyes, sharks, batoidea, taxonomy]
 
 audience: [self]
 languages: [zh]

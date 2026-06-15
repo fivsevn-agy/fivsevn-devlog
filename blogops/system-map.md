@@ -17,6 +17,7 @@ summary: >
 
 parents: [system-ai-boot-protocol]
 related: [system-module-map, system-prompt-routing, system-topology-overview-001, posts-module-map, natsci-module-map, netcom-module-map, blogops-module-map]
+
 tags: [system, topology, ai-entry, routing, repository-boundary, index-map, automation]
 
 audience: [collaborator]
@@ -24,6 +25,7 @@ languages: [en, zh]
 
 maturity: stable
 confidence: 0.97
+
 visibility: public
 source_of_truth: devlog
 

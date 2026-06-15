@@ -1,5 +1,5 @@
 ---
-module: blogops
+module: system
 type: note
 status: archived
 canonical: false
@@ -8,7 +8,7 @@ summary: >
 tags: [archive]
 visibility: public
 source_of_truth: devlog
-updated: 2026-03-01
+updated: 2026-06-15
 ---
 # 博客的【写作-发布】系统
 *v20250403*

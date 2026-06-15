@@ -16,6 +16,7 @@ summary: >
 
 parents: []
 related: [spec-gov-meta-frontmatter-001, spec-gov-meta-enums-001]
+
 tags: [system, docs, automation, index, frontmatter]
 
 audience: [self, collaborator]
@@ -23,6 +24,7 @@ languages: [zh]
 
 maturity: stable
 confidence: 0.95
+
 visibility: public
 source_of_truth: devlog
 

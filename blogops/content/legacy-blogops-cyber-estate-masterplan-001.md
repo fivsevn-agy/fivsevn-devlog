@@ -1,34 +1,14 @@
 ---
-id: blogops-cyber-estate-masterplan-001
-title: 五月七日赛博地产总规划说明！
-
-module: blogops
-submodule: architecture
-topic: cyber-estate-masterplan
-
-type: index
+module: system
+type: note
 status: archived
 canonical: false
-
 summary: >
-  使用“赛博地产”模型解释博客整体分层结构，
-  将 Boot / Spec / Canonical / Stream 等概念
-  对应到实际仓库与页面位置，作为长期规划说明文件。
-
-parents: []
-related: []
-tags: [blogops, cyber-estate, architecture, system-map]
-
-audience: [self, public]
-languages: [zh]
-
-maturity: stable
-confidence: 0.93
+  archived
+tags: [archive]
 visibility: public
 source_of_truth: devlog
-
-created: 2026-03-02
-updated: 2026-03-02
+updated: 2026-06-15
 ---
 # 五月七日赛博地产总规划说明！
 

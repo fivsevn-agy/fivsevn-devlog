@@ -15,6 +15,7 @@ summary: >
 
 parents: [blogops-map]
 related: [blogops-about-001]
+
 tags: [blogops, architecture, persona, interface]
 
 audience: public
@@ -22,6 +23,7 @@ languages: zh
 
 maturity: evolving
 confidence: 0.00
+
 visibility: public
 source_of_truth: devlog
 

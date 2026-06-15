@@ -16,16 +16,16 @@ summary: >
   建立射频结构理解框架。
 
 parents: [netcom-module-map]
-related: [
-  netcom-rf-spectrum-overview-001,
-  netcom-lora-radio-metrics-001
-]
+related: [netcom-rf-spectrum-overview-001, netcom-lora-radio-metrics-001]
+
 tags: [netcom, rf, antenna, fundamentals]
 
 audience: [public]
 languages: [zh]
+
 maturity: evolving
 confidence: 0.96
+
 visibility: public
 source_of_truth: devlog
 

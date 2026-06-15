@@ -16,16 +16,16 @@ summary: >
   为理解网络与通信系统结构提供概念框架。
 
 parents: [netcom-module-map]
-related: [
-  netcom-methods-spec-concept-001,
-  netcom-architecture-four-layer-model-001
-]
+related: [netcom-methods-spec-concept-001, netcom-architecture-four-layer-model-001]
+
 tags: [netcom, protocol, networking]
 
 audience: [public]
 languages: [zh]
+
 maturity: evolving
 confidence: 0.95
+
 visibility: public
 source_of_truth: devlog
 
