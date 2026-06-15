@@ -1,6 +1,5 @@
 ---
-id: natsci-taxonomy-chondrichthyes-translation-001
-
+id: natsci-taxonomy-shark-phylogeny-001
 title: 世界上其实没有“鲨鱼”？基因组研究撼动海洋顶级捕食者的家族谱系
 
 module: natsci
@@ -9,61 +8,52 @@ topic: shark-phylogeny
 
 type: translation
 status: active
-canonical: false
+canonical: true
 
 summary: >
   对 Nature 新闻文章 “No such thing as a shark? Genomes shake up ocean predator’s family tree”
   的完整中文翻译。文章讨论新的基因组研究如何挑战传统鲨鱼分类体系，
   并提出鲨鱼可能是并系群（paraphyletic group）的假说。
 
+
 parents: []
 related: []
 
-tags:
-  - shark
-  - phylogeny
-  - evolution
-  - chondrichthyes
-  - taxonomy
+tags: [shark, phylogeny, evolution, chondrichthyes, taxonomy]
 
-audience: public
-languages: zh
+audience: [self, public]
+languages: [zh]
+
 maturity: stable
-confidence: 0.95
+confidence: 0.9
 
 visibility: public
 source_of_truth: translation
 
-original_title: ”No such thing as a shark? Genomes shake up ocean predator’s family tree“
-original_source: https://www.nature.com/articles/d41586-026-00594-w
+original_title: "No such thing as a shark? Genomes shake up ocean predator’s family tree"
+original_source: Nature
 original_publisher: Nature
+original_url: https://www.nature.com/articles/d41586-026-00594-w
 translation_note: >
   本文为原文内容的中文翻译，仅用于学习与知识整理。
-  所有版权归原作者及出版方所有。
+  原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
 
 created: 2026-03-13
 updated: 2026-03-13
 ---
+
 ## 文章翻译
 
----
-### title
+### source
 
-- 世界上其实没有“鲨鱼”？基因组研究撼动海洋顶级捕食者的家族谱系
- 
-### author
+- [原文链接](https://www.nature.com/articles/d41586-026-00594-w)
 
-- 
- 
-### published
+### note
 
-- 2026-03-12
-
-### Source￼
-
-- [https://www.nature.com/articles/d41586-026-00594-w](https://www.nature.com/articles/d41586-026-00594-w)
+本文为原文内容的中文翻译，仅用于学习与知识整理。原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
 
 ---
+
 ## 正文
 
 这条大白鲨（Carcharodon carcharias）仍然是一条鲨鱼。
@@ -121,4 +111,3 @@ Brownstein 表示：
 不过，要确定哪一种系统树正确，仍然可能需要：
 	•	对 更多鲨鱼物种进行测序
 	•	分析 其他类型的遗传标记
-

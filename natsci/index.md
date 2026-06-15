@@ -57,11 +57,11 @@ updated: 2026-06-15
 
 - 2026.03.17 [昆虫数据库索引](taxonomy/insecta/natsci-taxonomy-insecta-database-001.md)
 
-- 2026.03.14 [澳大利亚被纳入全球鲨鱼与鳐类重要栖息地数据库（译文）](taxonomy/chondrichthyes/natsci-marine-ecology-sharks-rays-001.md)
+- 2026.03.14 [澳大利亚被纳入全球鲨鱼与鳐类重要栖息地数据库（译文）](taxonomy/chondrichthyes/natsci-marine-ecology-shark-ray-areas-001.md.md)
 
 - 2026.03.13 [软骨鱼纲到目级的分类梳理](taxonomy/chondrichthyes/natsci-taxonomy-chondrichthyes-orders-001.md)
 
-- 2026.03.13 [世界上其实没有“鲨鱼”？基因组研究撼动海洋顶级捕食者的家族谱系（译文）](taxonomy/chondrichthyes/natsci-taxonomy-chondrichthyes-translation-001.md)
+- 2026.03.13 [世界上其实没有“鲨鱼”？基因组研究撼动海洋顶级捕食者的家族谱系（译文）](taxonomy/chondrichthyes/natsci-taxonomy-shark-phylogeny-001.md.md)
 
 - 2026.02.20 [昆虫 × 人类学资料暂存](ethnobiology/ethnoentomology/natsci-ethnobiology-ethnoentomology-resources-001.md)
 
