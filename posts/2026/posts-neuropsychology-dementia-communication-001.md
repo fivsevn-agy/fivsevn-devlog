@@ -7,11 +7,12 @@ submodule: neuropsychology
 topic: dementia-communication
 
 type: translation
-status: publish
+status: active
 canonical: true
 
 summary: >
   本文介绍与患有痴呆症的亲人沟通时可采用的具体方法，包括理解不同类型痴呆症对交流的影响、避免适得其反的反应、减少干扰、使用视觉辅助，以及在行为和心理症状出现时保持连接与安抚。
+
 
 parents: []
 related: []
@@ -21,18 +22,19 @@ tags: [dementia, caregiving, communication, alzheimers, neuropsychology, elder-c
 audience: [self, public]
 languages: [zh]
 
-maturity: evolving
-confidence: 0.92
+maturity: stable
+confidence: 0.9
 
 visibility: public
 source_of_truth: translation
 
 original_title: How to talk to someone who has dementia
-original_source: https://psyche.co/guides/how-to-talk-to-someone-who-has-dementia
+original_source: Psyche
 original_publisher: Psyche
+original_url: https://psyche.co/guides/how-to-talk-to-someone-who-has-dementia
 translation_note: >
   本文为原文内容的中文翻译，仅用于学习与知识整理。
-  所有版权归原作者及出版方所有。
+  原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
 
 created: 2026-06-15
 updated: 2026-06-15
@@ -43,6 +45,10 @@ updated: 2026-06-15
 ### source
 
 - [原文链接](https://psyche.co/guides/how-to-talk-to-someone-who-has-dementia)
+
+### note
+
+本文为原文内容的中文翻译，仅用于学习与知识整理。原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
 
 ---
 

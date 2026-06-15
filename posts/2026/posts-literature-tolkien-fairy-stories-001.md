@@ -8,11 +8,12 @@ topic: tolkien-fairy-stories
 
 type: translation
 status: active
-canonical: false
+canonical: true
 
 summary: >
   本文围绕 J.R.R. 托尔金《论童话故事》的核心观点，讨论童话与语言、幻想、艺术和儿童文学标签之间的关系。
   文章强调童话并非天然“为儿童”而写，幻想也不是理性的反面，而是一种高度纯粹且困难的艺术形式。
+
 
 parents: []
 related: []
@@ -23,17 +24,18 @@ audience: [self, public]
 languages: [zh]
 
 maturity: stable
-confidence: 0.92
+confidence: 0.9
 
 visibility: public
-source_of_truth: external
+source_of_truth: translation
 
 original_title: J.R.R. Tolkien on Fairy Tales, Language, the Psychology of Fantasy, and Why There’s No Such Thing as Writing “For Children”
-original_source: https://www.themarginalian.org/2026/06/06/j-r-r-tolkien-on-fairy-stories/
+original_source: The Marginalian
 original_publisher: Maria Popova / The Marginalian
+original_url: https://www.themarginalian.org/2026/06/06/j-r-r-tolkien-on-fairy-stories/
 translation_note: >
   本文为原文内容的中文翻译，仅用于学习与知识整理。
-  所有版权归原作者及出版方所有。
+  原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
 
 created: 2026-06-08
 updated: 2026-06-08
@@ -44,6 +46,10 @@ updated: 2026-06-08
 ### source
 
 - [原文链接](https://www.themarginalian.org/2026/06/06/j-r-r-tolkien-on-fairy-stories/)
+
+### note
+
+本文为原文内容的中文翻译，仅用于学习与知识整理。原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
 
 ---
 
