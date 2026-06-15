@@ -1,8 +1,10 @@
 from __future__ import annotations
 
 import re
+
 from datetime import date
 from pathlib import Path
+
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -29,20 +31,22 @@ def extract_title(text: str) -> str:
             title = line[2:].strip()
             if title:
                 return title
+
     return "TODO"
 
 
 def next_draft_id(module: str, draft_dir: Path, today: str) -> str:
     yyyymmdd = today.replace("-", "")
     pattern = MODULES[module]["draft_id_pattern"]
-
     existing_stems = {p.stem for p in draft_dir.glob("*.md")}
-    seq = 1
 
+    seq = 1
     while True:
         candidate = pattern.format(yyyymmdd=yyyymmdd, seq=seq)
+
         if candidate not in existing_stems:
             return candidate
+
         seq += 1
 
 
@@ -59,12 +63,14 @@ type: note
 status: hidden
 canonical: true
 
-summary: TODO
+summary: >
+  TODO
 
 parents: []
 related: []
 
 tags: [{module}]
+
 audience: [self]
 languages: [zh]
 
