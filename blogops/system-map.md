@@ -15,8 +15,8 @@ summary: >
   Defines repository authority, public interfaces, structural topology, routing rules,
   map/index conventions, and publication boundaries.
 
-parents: [system-ai-boot-protocol]
-related: [system-module-map, system-prompt-routing, system-topology-overview-001, posts-module-map, natsci-module-map, netcom-module-map, blogops-module-map]
+parents: []
+related: []
 
 tags: [system, topology, ai-entry, routing, repository-boundary, index-map, automation]
 
