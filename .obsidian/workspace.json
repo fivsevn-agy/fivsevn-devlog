@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "natsci/paleontology/natsci-paleontology-whale-necropolis-001.md",
+                "file": "natsci/taxonomy/chondrichthyes/natsci-taxonomy-shark-phylogeny-001.md.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "natsci-paleontology-whale-necropolis-001"
+              "title": "natsci-taxonomy-shark-phylogeny-001.md"
             }
           }
         ]
@@ -185,9 +185,14 @@
   },
   "active": "dda31f6b1cf652b9",
   "lastOpenFiles": [
-    "natsci/paleontology/natsci-paleontology-shishania-chancelloriid-001.md",
+    "natsci/taxonomy/chondrichthyes/natsci-marine-ecology-shark-ray-areas-001.md.md",
+    "natsci/taxonomy/chondrichthyes/natsci-taxonomy-chondrichthyes-orders-001.md",
+    "natsci/taxonomy/chondrichthyes/natsci-taxonomy-shark-phylogeny-001.md.md",
     "natsci/paleontology/natsci-paleontology-oxfordshire-trackway-001.md",
+    "natsci/index.md",
     "natsci/paleontology/natsci-paleontology-oxfordshire-dinosaur-tracks-001.md",
+    "natsci/paleontology/natsci-paleontology-whale-necropolis-001.md",
+    "natsci/paleontology/natsci-paleontology-shishania-chancelloriid-001.md",
     "blogops/docs/post-publish-trigger.md",
     "blogops/docs/auto-translation-shortcut.md",
     "blogops/docs/module-submodule-topic-001.md",
@@ -196,7 +201,6 @@
     "posts/2026/posts-neuropsychology-dementia-communication-001.md",
     "natsci/taxonomy/insecta/natsci-evolution-millipede-land-001.md",
     "natsci/taxonomy/insecta/natsci-ecology-caterpillar-diet-specialization-001.md",
-    "natsci/paleontology/natsci-paleontology-whale-necropolis-001.md",
     "blogops/docs/auto-draft-frontmatter.md",
     "blogops/index.md",
     "blogops/content/blogops-about-001.md",
@@ -208,10 +212,6 @@
     "intake/README.md",
     "blogops/system-map.md",
     "blogops/map.md",
-    "blogops/content/blogops-rolesystem-001.md",
-    "blogops/content/legacy-blogops-cyber-estate-masterplan-001.md",
-    "blogops/content/legacy-blogops-writing-and-deployment.md",
-    "blogops/content/legacy-openinglog.md",
     "now",
     "natsci/assets",
     "natsci/taxonomy/chondrichthyes",
