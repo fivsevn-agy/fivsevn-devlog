@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogops/docs/auto-translation-shortcut.md",
+                "file": "blogops/docs/post-publish-trigger.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "auto-translation-shortcut"
+              "title": "post-publish-trigger"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "dda31f6b1cf652b9",
   "lastOpenFiles": [
-    "blogops/docs/module-submodule-topic-001.md",
     "blogops/docs/auto-translation-shortcut.md",
+    "blogops/docs/module-submodule-topic-001.md",
     "blogops/docs/auto-index.md",
     "natsci/_drafts/TEMPLATE-natsci.md",
     "posts/2026/posts-neuropsychology-dementia-communication-001.md",
