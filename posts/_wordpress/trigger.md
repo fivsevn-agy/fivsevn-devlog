@@ -8,4 +8,4 @@ timezone: ”Asia/Taipei“
 # 正文写在第二个 --- 后面
 ---
 
-简化了一下内容仓库的主页：https://devlog.fivsevn.com。
+更新了 [spec](https://github.com/fivsevn-agy/fivsevn-spec) 🥳
