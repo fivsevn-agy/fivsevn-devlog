@@ -1,9 +1,9 @@
 ---
-id: natsci-evolution-millipede-land-001
+id: natsci-arthropod-millipede-land-colonization-001
 title: 马陆比脊椎动物早 8000 万年登陆
 
 module: natsci
-submodule: evolution
+submodule: arthropod
 topic: millipede-land-colonization
 
 type: translation
@@ -13,26 +13,28 @@ canonical: true
 summary: >
   本文介绍一项关于现生马陆所有目级类群的完整演化研究，说明马陆可能早在约 4.6 亿年前就已起源，并比脊椎动物早 8000 多万年登上陆地。研究还澄清了两个罕见马陆类群在系统发育树中的位置，并追溯了其化学防御能力的起源。
 
+
 parents: []
 related: []
 
-tags: [millipedes, evolution, terrestrial-life, fossils, phylogeny, detritivores, current-biology]
+tags: [millipedes, evolution, terrestrial-life, fossils, phylogeny, detritivores, current-biology, arthropods]
 
 audience: [self, public]
 languages: [zh]
 
 maturity: stable
-confidence: 0.92
+confidence: 0.9
 
 visibility: public
 source_of_truth: translation
 
 original_title: Millipedes beat vertebrates to land by 80 million years
-original_source: "https://www.sciencedaily.com/releases/2026/06/260613034213.htm"
+original_source: ScienceDaily
 original_publisher: ScienceDaily
+original_url: https://www.sciencedaily.com/releases/2026/06/260613034213.htm
 translation_note: >
   本文为原文内容的中文翻译，仅用于学习与知识整理。
-  所有版权归原作者及出版方所有。
+  原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
 
 created: 2026-06-15
 updated: 2026-06-15
@@ -43,6 +45,10 @@ updated: 2026-06-15
 ### source
 
 - [原文链接](https://www.sciencedaily.com/releases/2026/06/260613034213.htm)
+
+### note
+
+本文为原文内容的中文翻译，仅用于学习与知识整理。原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
 
 ---
 

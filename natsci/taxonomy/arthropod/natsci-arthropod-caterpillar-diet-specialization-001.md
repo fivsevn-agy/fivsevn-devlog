@@ -1,9 +1,9 @@
 ---
-id: bio-ecology-caterpillar-diet-specialization-001
+id: natsci-arthropod-caterpillar-diet-specialization-001
 title: 植物多样性或可解释为什么有些毛毛虫对食物很挑剔
 
-module: bio
-submodule: ecology
+module: natsci
+submodule: arthropod
 topic: caterpillar-diet-specialization
 
 type: translation
@@ -13,26 +13,28 @@ canonical: true
 summary: >
   本文介绍一项关于蝴蝶幼虫食谱宽度的研究：植物科多样性越高，毛毛虫往往越挑食，尤其是在热带地区。文章同时说明高温会扩大食谱，以及岛屿生态中存在的例外情况。
 
+
 parents: []
 related: []
 
-tags: [ecology, caterpillars, butterflies, plant-diversity, diet-specialization, biogeography, climate]
+tags: [ecology, caterpillars, butterflies, plant-diversity, diet-specialization, biogeography, climate, arthropods]
 
 audience: [self, public]
 languages: [zh]
 
 maturity: stable
-confidence: 0.94
+confidence: 0.9
 
 visibility: public
 source_of_truth: translation
 
 original_title: Plant diversity may explain why some caterpillars are fussy about their food
-original_source: https://phys.org/news/2026-06-diversity-caterpillars-fussy-food.html
+original_source: Phys.org
 original_publisher: Phys.org
+original_url: https://phys.org/news/2026-06-diversity-caterpillars-fussy-food.html
 translation_note: >
   本文为原文内容的中文翻译，仅用于学习与知识整理。
-  所有版权归原作者及出版方所有。
+  原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
 
 created: 2026-06-15
 updated: 2026-06-15
@@ -43,6 +45,10 @@ updated: 2026-06-15
 ### source
 
 - [原文链接](https://phys.org/news/2026-06-diversity-caterpillars-fussy-food.html)
+
+### note
+
+本文为原文内容的中文翻译，仅用于学习与知识整理。原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
 
 ---
 
