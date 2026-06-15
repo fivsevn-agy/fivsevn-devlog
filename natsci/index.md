@@ -49,11 +49,11 @@ updated: 2026-06-15
 
 - 2026.06.15 [印度洋海底发现 530 万年前的鲸类墓地（译文）](paleontology/natsci-paleontology-whale-necropolis-001.md)
 
-- 2026.06.13 [牛津郡恐龙足迹道可能是已知最长的蜥脚类足迹道（译文）](paleontology/natsci-palaeontology-oxfordshire-trackway-001.md)
+- 2026.06.13 [牛津郡恐龙足迹道可能是已知最长的蜥脚类足迹道（译文）](paleontology/natsci-paleontology-oxfordshire-trackway-001.md)
 
 - 2026.06.13 [牛津郡发现大规模恐龙足迹（译文）](paleontology/natsci-paleontology-oxfordshire-dinosaur-tracks-001.md)
 
-- 2026.06.10 [科学家正在认真追问：蜜蜂和 ChatGPT 是否有意识（译文）](reading/natsci-cognitive-science-animal-ai-consciousness-001.md)
+- 2026.06.10 [科学家正在认真追问：蜜蜂和 ChatGPT 是否有意识（译文）](taxonomy/insecta/natsci-cognitive-science-animal-ai-consciousness-001.md)
 
 - 2026.03.17 [昆虫数据库索引](taxonomy/insecta/natsci-taxonomy-insecta-database-001.md)
 
