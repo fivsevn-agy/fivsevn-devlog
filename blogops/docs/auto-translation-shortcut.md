@@ -430,6 +430,8 @@ netcom-bluetooth-naming-001.md
 
 ## 正文
 
+# 中文译文标题
+
 完整中文翻译正文
 
 ## frontmatter 字段结构
@@ -656,6 +658,8 @@ frontmatter 之后必须使用以下结构：
 ---
 
 ## 正文
+
+# 中文译文标题
 
 完整中文翻译正文
 
