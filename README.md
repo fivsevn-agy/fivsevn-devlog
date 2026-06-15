@@ -10,10 +10,10 @@
 
 ### ▶︎ Entry
 
-- 视觉入口 ▶︎ [ [fivsevn.com](https://fivsevn.com) ]
+- 视觉入口 ▶︎ [ [fivsevn.com](https://fivsevn.com) ]  
 
 
-- 内容仓库 ▼ [ [devlog.fivsevn.com](https://devlog.fivsevn.com) ]
+- 内容仓库 ▼ [ [devlog.fivsevn.com](https://devlog.fivsevn.com) ]  
 
   - 个人笔记 ▷ ./[`devlog.posts`](https://devlog.fivsevn.com/posts)  
 
@@ -21,10 +21,10 @@
 
   - 通讯技术笔记 ▷ ./[`devlog.netcom`](https://devlog.fivsevn.com/netcom)  
 
-  - 后台日志 ▷ ./[`blogops`](https://devlog.fivsevn.com/blogops)
+  - 后台日志 ▷ ./[`blogops`](https://devlog.fivsevn.com/blogops)  
 
 
-- 个人写作规范 ▶︎ [ fivsevn-spec ] (施工中)
+- 个人写作规范 ▶︎ [ [fivsevn-spec](https://github.com/fivsevn-agy/fivsevn-spec) ]  
 
 
 ### ▶︎ Listed In
