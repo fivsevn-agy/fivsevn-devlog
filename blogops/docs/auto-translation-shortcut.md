@@ -1,3 +1,36 @@
+---
+id: blogops-docs-auto-translation-shortcut-001
+title: 自动翻译快捷流程说明
+
+module: blogops
+submodule: docs
+topic: auto-translation-shortcut
+
+type: note
+status: active
+canonical: true
+
+summary: >
+  说明 自动翻译快捷流程说明 的使用场景、操作流程与维护规则。
+
+parents: []
+related: [spec-content-translation-001, spec-content-frontmatter-001]
+
+tags: [blogops, docs, translation, shortcuts, automation]
+
+audience: [self, internal]
+languages: [zh]
+
+maturity: stable
+confidence: 0.9
+
+visibility: public
+source_of_truth: devlog
+
+created: 2026-06-15
+updated: 2026-06-15
+---
+
 # Auto Translation Shortcut Workflow
 # 自动翻译快捷流程说明
 

@@ -6,7 +6,7 @@ module: blogops
 submodule: docs
 topic: post-publish-trigger
 
-type: howto
+type: note
 status: active
 canonical: true
 
@@ -19,19 +19,17 @@ related: [system-docs-auto-index-manual-001, blogops-docs-auto-draft-frontmatter
 
 tags: [blogops, docs, automation, publish, trigger, github-actions, index]
 
-audience: [self, collaborator]
+audience: [self, internal]
 languages: [zh]
 
 maturity: stable
-confidence: 0.93
-
+confidence: 0.9
 visibility: public
 source_of_truth: devlog
 
 created: 2026-06-13
 updated: 2026-06-15
 ---
-
 # Post 发布 trigger 维护手册
 
 本仓库的 post 发布 trigger 用于在内容文件被发布或更新后，自动刷新各板块首页目录。
@@ -209,6 +207,8 @@ status: published
 ```md
 - 2026.06.13 [文章标题](文章路径.md)
 ```
+
+链接目标由自动目录脚本决定：译文文章链接仓库内译文页面；非译文且有 `original_url` 时可以链接外部原文。
 
 ---
 
@@ -552,12 +552,14 @@ type: note
 status: active
 canonical: true
 
-summary: TODO
+summary: >
+  TODO
 
 parents: []
 related: []
 
 tags: [posts]
+
 audience: [self]
 languages: [zh]
 
@@ -587,12 +589,14 @@ type: note
 status: draft
 canonical: true
 
-summary: TODO
+summary: >
+  TODO
 
 parents: []
 related: []
 
 tags: [posts]
+
 audience: [self]
 languages: [zh]
 
