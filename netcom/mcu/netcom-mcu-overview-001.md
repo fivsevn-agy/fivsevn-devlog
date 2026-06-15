@@ -15,16 +15,16 @@ summary: >
   为理解 LoRa / Mesh 设备硬件结构提供基础背景。
 
 parents: [netcom-module-map]
-related: [
-  netcom-lora-meshtastic-structure-001,
-  netcom-mcu-meshtastic-001
-]
+related: [netcom-lora-meshtastic-structure-001, netcom-mcu-meshtastic-001]
+
 tags: [netcom, mcu, hardware, embedded]
 
 audience: [public]
 languages: [zh]
+
 maturity: evolving
 confidence: 0.95
+
 visibility: public
 source_of_truth: devlog
 

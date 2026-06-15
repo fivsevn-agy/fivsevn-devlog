@@ -15,16 +15,16 @@ summary: >
   区分技术规范、产品规格与行为约束三类使用方式。
 
 parents: [netcom-module-map]
-related: [
-  system-module-map,
-  netcom-architecture-four-layer-model-001
-]
+related: [system-module-map, netcom-architecture-four-layer-model-001]
+
 tags: [netcom, methods, specification, engineering]
 
 audience: [public]
 languages: [zh]
+
 maturity: stable
 confidence: 0.97
+
 visibility: public
 source_of_truth: devlog
 
