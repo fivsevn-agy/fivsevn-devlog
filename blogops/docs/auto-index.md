@@ -24,12 +24,14 @@ languages: [zh]
 
 maturity: stable
 confidence: 0.9
+
 visibility: public
 source_of_truth: devlog
 
 created: 2026-06-12
 updated: 2026-06-15
 ---
+
 # 自动目录维护手册
 
 本仓库使用自动目录脚本维护三个主要板块的首页文章列表：
