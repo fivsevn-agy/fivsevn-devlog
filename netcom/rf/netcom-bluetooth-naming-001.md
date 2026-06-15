@@ -45,6 +45,10 @@ updated: 2026-06-07
 
 - [原文链接](https://www.kardach.com/bluetooth/naming-bluetooth)
 
+### note
+
+本文为原文内容的中文翻译，仅用于学习与知识整理。原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+
 ---
 
 ## 正文
