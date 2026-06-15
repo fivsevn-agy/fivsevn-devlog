@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogops/docs/module-submodule-topic-001.md",
+                "file": "natsci/_drafts/TEMPLATE-natsci.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "module-submodule-topic-001"
+              "title": "TEMPLATE-natsci"
             }
           }
         ]
@@ -185,9 +185,15 @@
   },
   "active": "dda31f6b1cf652b9",
   "lastOpenFiles": [
-    "blogops/docs/post-publish-trigger.md",
+    "posts/2026/posts-neuropsychology-dementia-communication-001.md",
+    "natsci/taxonomy/insecta/natsci-evolution-millipede-land-001.md",
+    "natsci/taxonomy/insecta/natsci-ecology-caterpillar-diet-specialization-001.md",
+    "natsci/paleontology/natsci-paleontology-whale-necropolis-001.md",
+    "natsci/paleontology/natsci-paleontology-shishania-chancelloriid-001.md",
     "blogops/docs/module-submodule-topic-001.md",
+    "blogops/docs/auto-draft-frontmatter.md",
     "blogops/docs/auto-index.md",
+    "blogops/docs/post-publish-trigger.md",
     "blogops/index.md",
     "blogops/content/blogops-about-001.md",
     "blogops/content/blogops-assets-media-reference-001.md",
@@ -199,7 +205,6 @@
     "intake/README.md",
     "blogops/system-map.md",
     "blogops/map.md",
-    "blogops/docs/auto-draft-frontmatter.md",
     "blogops/content/blogops-rolesystem-001.md",
     "blogops/content/legacy-blogops-cyber-estate-masterplan-001.md",
     "blogops/content/legacy-blogops-writing-and-deployment.md",
@@ -207,11 +212,6 @@
     "natsci/index.md",
     "netcom/index.md",
     "posts/index.md",
-    "now/index.md",
-    "natsci/taxonomy/index.md",
-    "natsci/taxonomy/insecta/虫数据库.md",
-    "natsci/taxonomy/insecta/natsci-taxonomy-insecta-database-001.md",
-    "natsci/taxonomy/insecta/蜘蛛数据库.md",
     "now",
     "natsci/assets",
     "natsci/taxonomy/chondrichthyes",
