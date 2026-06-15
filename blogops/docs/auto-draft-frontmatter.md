@@ -6,7 +6,7 @@ module: blogops
 submodule: docs
 topic: auto-draft-frontmatter
 
-type: howto
+type: note
 status: active
 canonical: true
 
@@ -19,19 +19,17 @@ related: [system-docs-auto-index-manual-001]
 
 tags: [blogops, docs, automation, draft, frontmatter]
 
-audience: [self, collaborator]
+audience: [self, internal]
 languages: [zh]
 
 maturity: stable
-confidence: 0.95
-
+confidence: 0.9
 visibility: public
 source_of_truth: devlog
 
 created: 2026-06-12
 updated: 2026-06-15
 ---
-
 # 自动草稿 frontmatter 维护手册
 
 本仓库使用 `_drafts/` 作为随手草稿缓冲区。
@@ -263,12 +261,14 @@ type: note
 status: hidden
 canonical: true
 
-summary: TODO
+summary: >
+  TODO
 
 parents: []
 related: []
 
 tags: [posts]
+
 audience: [self]
 languages: [zh]
 
@@ -448,12 +448,14 @@ type: note
 status: hidden
 canonical: true
 
-summary: TODO
+summary: >
+  TODO
 
 parents: []
 related: []
 
 tags: [{module}]
+
 audience: [self]
 languages: [zh]
 
