@@ -16,18 +16,22 @@ summary: >
 
 parents: [posts-index]
 related: []
+
 tags: [posts, reading, law, philosophy, case-study]
 
 audience: [public]
 languages: [zh]
+
 maturity: stable
-confidence: 0.97
+confidence: 1.0
+
 visibility: public
 source_of_truth: devlog
 
 created: 2026-02-22
 updated: 2026-03-01
 ---
+
 ## 《洞穴奇案》速记
 
 ### 书籍链接
@@ -104,4 +108,3 @@ updated: 2026-03-01
 - Rule-utilitarian / 规则功利主义 核心：虽然此案允许例外看似有益，但若允许“生存例外”会破坏整体规则威慑力，长远害大于利。 倾向：维持有罪。
 	
 - Rights-based / 强绝对权利论 核心：生命权绝对不可侵犯，任何“多数决”或“抽签”都不能剥夺一人生命权。 倾向：维持有罪。
-
