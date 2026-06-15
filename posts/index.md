@@ -46,6 +46,8 @@ updated: 2026-06-15
 > 更新中......  
 
 <!-- AUTO-INDEX:POSTS_RECENT:START -->
+- 2026.06.16 [内感受：你如何感知身体内部状态的隐藏感觉（译文）](2026/posts-neuroscience-interoception-001.md)
+
 - 2026.06.15 [如何与患有痴呆症的人交谈（译文）](2026/posts-neuropsychology-dementia-communication-001.md)
 
 - 2026.06.08 [J.R.R. 托尔金论童话、语言、幻想心理学，以及为何不存在“为儿童”而写（译文）](2026/posts-literature-tolkien-fairy-stories-001.md)
