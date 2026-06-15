@@ -56,6 +56,8 @@ updated: 2026-01-01
 
 ## 正文
 
+# 粉色螽斯模拟延迟变绿
+
 ![Bright pink insect stands out to blend in, scientists say](https://scx1.b-cdn.net/csz/news/800a/2026/bright-pink-insect-sta-1.jpg)  
 
 > 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。

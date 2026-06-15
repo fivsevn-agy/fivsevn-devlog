@@ -49,6 +49,8 @@ updated: 2026-06-07
 
 ## 正文
 
+# 蓝牙命名的由来
+
 ![Image 1](https://lh3.googleusercontent.com/sitesv/AA5AbUAaOsXOawYqo3coy3YbDbBGCJIPzgi5OU5uJnPyjXd3wX_oPKO9wQM3V9G0W8s1uWe23IPXj19ebbyRCeHBzQfTJfjZXPixAc7H5lyauJNGFl3OsJnhcL4xzV-Mlx2KoXttUboWDYZ99_molKR-QHm3JvhEMT8MtUzMx84QpEg2f_Y_n9ICgGdYCf2bUUbM4U66l3XY2jh0Hifr=w1280)
 
 > 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
