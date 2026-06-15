@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "blogops/system-map.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "system-map"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "dda31f6b1cf652b9",
   "lastOpenFiles": [
+    "README.md",
     "posts/index.md",
     "posts/2025/2025-04-03-开发日志已更新！.md",
     "posts/2025/2025-03-31-更新预告：如何翻译 “ Profiling ”.md",
@@ -210,7 +211,6 @@
     "posts/2025/2025-03-27-🍚 🦐 🐟.md",
     "posts/2025/2025-03-28-he1l0.kt7y protocol active surveillance.md",
     "posts/2025/2025-03-31-犯罪小说当中对执法机构的描述（虚构文学研究）.md",
-    "posts/2025/2025-04-09-路灯.md",
     "natsci/assets/20260313sharklikefishes.png",
     "posts/2025.zip",
     "posts/2025 copy",
