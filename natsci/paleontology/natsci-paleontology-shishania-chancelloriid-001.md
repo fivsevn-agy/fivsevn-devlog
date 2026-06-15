@@ -13,6 +13,7 @@ canonical: true
 summary: >
   本文介绍 Shishania aculeata 化石从早期软体动物候选者被重新归类为 chancelloriid 的研究进展，并说明化石保存假象如何影响对寒武纪动物演化的判断。
 
+
 parents: []
 related: []
 
@@ -22,17 +23,18 @@ audience: [self, public]
 languages: [zh]
 
 maturity: stable
-confidence: 0.93
+confidence: 0.9
 
 visibility: public
 source_of_truth: translation
 
 original_title: Scientists solve 500-million-year fossil mystery
-original_source: https://phys.org/news/2025-05-scientists-million-year-fossil-mystery.html
+original_source: Phys.org / Durham University
 original_publisher: Durham University / Phys.org
+original_url: https://phys.org/news/2025-05-scientists-million-year-fossil-mystery.html
 translation_note: >
   本文为原文内容的中文翻译，仅用于学习与知识整理。
-  所有版权归原作者及出版方所有。
+  原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
 
 created: 2026-06-15
 updated: 2026-06-15
@@ -43,6 +45,11 @@ updated: 2026-06-15
 ### source
 
 - [原文链接](https://phys.org/news/2025-05-scientists-million-year-fossil-mystery.html)
+
+
+### note
+
+本文为原文内容的中文翻译，仅用于学习与知识整理。原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
 
 ---
 

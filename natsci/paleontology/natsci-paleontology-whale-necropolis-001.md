@@ -14,6 +14,7 @@ summary: >
   本文介绍了研究人员在印度洋东南部迪亚曼蒂纳带海底发现的大规模古老鲸类墓地，说明鲸落如何形成深海生态系统并保存鲸类演化线索。
   这一区域包含数百件鲸类化石和多个活跃鲸落，最古老记录可追溯至约 530 万年前。
 
+
 parents: []
 related: []
 
@@ -23,17 +24,18 @@ audience: [self, public]
 languages: [zh]
 
 maturity: stable
-confidence: 0.92
+confidence: 0.9
 
 visibility: public
 source_of_truth: translation
 
 original_title: A 5.3-million‑year‑old whale graveyard has been found on the floor of the Indian Ocean
-original_source: https://phys.org/news/2026-06-millionyearold-whale-graveyard-floor-indian.html
+original_source: Phys.org / The Conversation
 original_publisher: Vanessa Pirotta / The Conversation / Phys.org
+original_url: https://phys.org/news/2026-06-millionyearold-whale-graveyard-floor-indian.html
 translation_note: >
   本文为原文内容的中文翻译，仅用于学习与知识整理。
-  所有版权归原作者及出版方所有。
+  原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
 
 created: 2026-06-15
 updated: 2026-06-15
@@ -44,6 +46,11 @@ updated: 2026-06-15
 ### source
 
 - [原文链接](https://phys.org/news/2026-06-millionyearold-whale-graveyard-floor-indian.html)
+
+
+### note
+
+本文为原文内容的中文翻译，仅用于学习与知识整理。原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
 
 ---
 
