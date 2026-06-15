@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogops/docs/post-publish-trigger.md",
-                "mode": "preview",
+                "file": "natsci/paleontology/natsci-paleontology-whale-necropolis-001.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "post-publish-trigger"
+              "title": "natsci-paleontology-whale-necropolis-001"
             }
           }
         ]
@@ -185,6 +185,10 @@
   },
   "active": "dda31f6b1cf652b9",
   "lastOpenFiles": [
+    "natsci/paleontology/natsci-paleontology-shishania-chancelloriid-001.md",
+    "natsci/paleontology/natsci-paleontology-oxfordshire-trackway-001.md",
+    "natsci/paleontology/natsci-paleontology-oxfordshire-dinosaur-tracks-001.md",
+    "blogops/docs/post-publish-trigger.md",
     "blogops/docs/auto-translation-shortcut.md",
     "blogops/docs/module-submodule-topic-001.md",
     "blogops/docs/auto-index.md",
@@ -193,9 +197,7 @@
     "natsci/taxonomy/insecta/natsci-evolution-millipede-land-001.md",
     "natsci/taxonomy/insecta/natsci-ecology-caterpillar-diet-specialization-001.md",
     "natsci/paleontology/natsci-paleontology-whale-necropolis-001.md",
-    "natsci/paleontology/natsci-paleontology-shishania-chancelloriid-001.md",
     "blogops/docs/auto-draft-frontmatter.md",
-    "blogops/docs/post-publish-trigger.md",
     "blogops/index.md",
     "blogops/content/blogops-about-001.md",
     "blogops/content/blogops-assets-media-reference-001.md",
@@ -210,8 +212,6 @@
     "blogops/content/legacy-blogops-cyber-estate-masterplan-001.md",
     "blogops/content/legacy-blogops-writing-and-deployment.md",
     "blogops/content/legacy-openinglog.md",
-    "natsci/index.md",
-    "netcom/index.md",
     "now",
     "natsci/assets",
     "natsci/taxonomy/chondrichthyes",
