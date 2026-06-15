@@ -17,23 +17,22 @@ summary: >
 parents: []
 related: []
 
-tags:
-  - posts
-  - AuthorizedRepost
+tags: [posts, AuthorizedRepost]
+
 audience: [public]
 languages: [zh]
 
 maturity: stable
-confidence: 0.90
+confidence: 0.9
 
 visibility: public
 source_of_truth: external
 
-created: 2025-06-27
-updated: 2025-09-03
-
 original_source: WordPress
 original_url: https://fivsevn.home.blog/2025/06/27/%e3%80%90%e6%8e%88%e6%9d%83%e8%bd%ac%e8%bd%bd%e3%80%91tents-in-strong-wind-what-you-need-to-know/
+
+created: 2025-06-27
+updated: 2025-09-03
 ---
 原文作者：Helen & Geoff
 
