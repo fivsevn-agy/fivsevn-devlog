@@ -213,8 +213,12 @@ def collect_notes(module_name: str, config: dict) -> tuple[list[Note], list[str]
 
         if mode == "link":
             if note_type in TRANSLATION_TYPES:
+                # Translation entries link to the local translated article.
+                # original_url remains metadata for the source.
                 link = rel_to_root
             else:
+                # Non-translation entries may use original_url for self-authored
+                # external originals, such as WordPress posts.
                 link = (fm.get("original_url") or "").strip() or rel_to_root
         else:
             link = None
