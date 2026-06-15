@@ -1,8 +1,8 @@
 ---
-id: natsci-neuroscience-interoception-001
+id: posts-neuroscience-interoception-001
 title: 内感受：你如何感知身体内部状态的隐藏感觉
 
-module: natsci
+module: posts
 submodule: neuroscience
 topic: interoception
 
