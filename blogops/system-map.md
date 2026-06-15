@@ -501,10 +501,11 @@ status: hidden / private / archived
 
 type: translation
 → append （译文） to title
+→ link to local translated article
 
-original_url
-→ prefer external URL as link target when present
-→ may point to translated source or self-authored external original, e.g. WordPress
+non-translation + original_url
+→ prefer external URL as link target
+→ for self-authored external originals, e.g. WordPress
 ```
 
 Path-level exclusions include:
