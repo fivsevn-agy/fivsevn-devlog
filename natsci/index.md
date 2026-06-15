@@ -45,6 +45,8 @@ updated: 2026-06-15
 <!-- AUTO-INDEX:NATSCI_RECENT:START -->
 - 2026.06.15 [马陆比脊椎动物早 8000 万年登陆（译文）](taxonomy/insecta/natsci-evolution-millipede-land-001.md)
 
+- 2026.06.15 [科学家解开 5 亿年前化石之谜（译文）](paleontology/natsci-paleontology-shishania-chancelloriid-001.md)
+
 - 2026.06.15 [印度洋海底发现 530 万年前的鲸类墓地（译文）](paleontology/natsci-paleontology-whale-necropolis-001.md)
 
 - 2026.06.13 [牛津郡恐龙足迹道可能是已知最长的蜥脚类足迹道（译文）](paleontology/natsci-palaeontology-oxfordshire-trackway-001.md)
