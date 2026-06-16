@@ -163,6 +163,65 @@ reference:
   - communities_discussion
 ```
 
+```display
+max_items_per_section: 24
+default_source_cap: 6
+section_caps:
+  world_society: 30
+  prices_markets: 18
+  energy_resources: 18
+  food_agriculture_markets: 18
+  housing_living_costs: 14
+  supply_chains_trade: 18
+  industry_business: 18
+  money_finance: 20
+  public_ideas: 18
+  scholarly_ideas: 18
+  civilizational_critique: 16
+  books: 18
+  film_moving_image: 16
+  music_sound: 16
+  photography: 10
+  arts_design: 18
+  architecture_urbanism: 16
+  games: 16
+  fashion_style: 14
+  human_societies: 18
+  mind: 14
+  science_news: 24
+  science_magazines: 18
+  research: 30
+  space_astronomy: 18
+  natural_history: 18
+  ecology_conservation: 18
+  animal_behavior: 14
+  marine_life: 20
+  fish_ichthyology: 10
+  mollusks: 16
+  arthropods: 25
+  plants_fungi: 16
+  minerals_geology: 8
+  ai_systems: 24
+  computing_cultures: 20
+  platforms_infrastructure: 18
+  interfaces_media_technology: 18
+  cybernetics_automation: 14
+  hardware_radio_embedded: 18
+  ham_radio: 12
+  technology_politics: 18
+  field_gear: 16
+  everyday_carry: 12
+  tools_workshop: 16
+  repair_maintenance: 12
+  manuals: 8
+  reference_pool: 10
+  maps_geo_data: 10
+  document_search: 8
+  rss_feed_management: 8
+  archives_aggregators: 12
+  communities_discussion: 10
+```
+
 <a id="world"></a>
 
 # 世界 / world
