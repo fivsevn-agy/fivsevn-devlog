@@ -373,7 +373,7 @@ use_role: reference
 ```source
 name: Mediagazer
 section: media_lens
-feed_url: ''
+feed_url: https://www.mediagazer.com/feed.xml
 site_url: https://www.mediagazer.com/
 source_type: reference_tool
 authority_level: aggregator
@@ -385,7 +385,7 @@ use_role: reference
 ```source
 name: Nieman Journalism Lab
 section: media_lens
-feed_url: ''
+feed_url: https://www.niemanlab.org/feed/
 site_url: https://www.niemanlab.org/
 source_type: reference_tool
 authority_level: aggregator
@@ -397,7 +397,7 @@ use_role: reference
 ```source
 name: Nieman Reports
 section: media_lens
-feed_url: ''
+feed_url: https://niemanreports.org/feed/
 site_url: https://niemanreports.org/
 source_type: reference_tool
 authority_level: aggregator
@@ -430,6 +430,55 @@ professional_value: 4
 use_role: reference
 ```
 
+
+```source
+name: Columbia Journalism Review
+section: media_lens
+feed_url: https://www.cjr.org/feed
+site_url: https://www.cjr.org/
+source_type: specialist_media
+authority_level: specialist
+reliability_score: 4
+professional_value: 5
+use_role: reference
+```
+
+```source
+name: Poynter
+section: media_lens
+feed_url: https://www.poynter.org/feed/
+site_url: https://www.poynter.org/
+source_type: specialist_media
+authority_level: specialist
+reliability_score: 4
+professional_value: 5
+use_role: reference
+```
+
+```source
+name: Press Gazette
+section: media_lens
+feed_url: https://pressgazette.co.uk/feed/
+site_url: https://pressgazette.co.uk/
+source_type: specialist_media
+authority_level: specialist
+reliability_score: 4
+professional_value: 4
+use_role: reference
+```
+
+```source
+name: Journalism.co.uk
+section: media_lens
+feed_url: https://www.journalism.co.uk/rss/1/s2/
+site_url: https://www.journalism.co.uk/
+source_type: specialist_media
+authority_level: specialist
+reliability_score: 4
+professional_value: 4
+use_role: reference
+```
+
 <a id="world_society"></a>
 
 ## 世界与社会 / world_society
@@ -444,7 +493,7 @@ description_zh: ''
 ```source
 name: Reuters
 section: world_society
-feed_url: ''
+feed_url: https://www.reuters.com/arc/outboundfeeds/rss/?outputType=xml
 site_url: https://www.reuters.com/
 source_type: wire_service
 authority_level: generalist
@@ -456,7 +505,7 @@ use_role: baseline
 ```source
 name: Reuters World
 section: world_society
-feed_url: ''
+feed_url: https://www.reuters.com/arc/outboundfeeds/rss/category/world/?outputType=xml
 site_url: https://www.reuters.com/world/
 source_type: wire_service
 authority_level: generalist
@@ -468,7 +517,7 @@ use_role: baseline
 ```source
 name: Reuters U.S.
 section: world_society
-feed_url: ''
+feed_url: https://www.reuters.com/arc/outboundfeeds/rss/category/world/us/?outputType=xml
 site_url: https://www.reuters.com/world/us/
 source_type: wire_service
 authority_level: generalist
@@ -480,7 +529,7 @@ use_role: baseline
 ```source
 name: Associated Press / AP
 section: world_society
-feed_url: ''
+feed_url: https://apnews.com/hub/ap-top-news?output=rss
 site_url: https://apnews.com/
 source_type: wire_service
 authority_level: generalist
@@ -492,7 +541,7 @@ use_role: baseline
 ```source
 name: AP World
 section: world_society
-feed_url: ''
+feed_url: https://apnews.com/hub/world-news?output=rss
 site_url: https://apnews.com/hub/world-news
 source_type: wire_service
 authority_level: generalist
@@ -504,7 +553,7 @@ use_role: baseline
 ```source
 name: AP U.S. News
 section: world_society
-feed_url: ''
+feed_url: https://apnews.com/hub/us-news?output=rss
 site_url: https://apnews.com/hub/us-news
 source_type: wire_service
 authority_level: generalist
@@ -636,7 +685,7 @@ use_role: baseline
 ```source
 name: CNN
 section: world_society
-feed_url: ''
+feed_url: http://rss.cnn.com/rss/edition.rss
 site_url: https://www.cnn.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -648,7 +697,7 @@ use_role: baseline
 ```source
 name: NBC News
 section: world_society
-feed_url: ''
+feed_url: https://feeds.nbcnews.com/nbcnews/public/news
 site_url: https://www.nbcnews.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -672,7 +721,7 @@ use_role: baseline
 ```source
 name: ABC News
 section: world_society
-feed_url: ''
+feed_url: https://abcnews.go.com/abcnews/topstories
 site_url: https://abcnews.go.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -708,7 +757,7 @@ use_role: baseline
 ```source
 name: Sky News
 section: world_society
-feed_url: ''
+feed_url: https://feeds.skynews.com/feeds/rss/world.xml
 site_url: https://news.sky.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -816,7 +865,7 @@ use_role: baseline
 ```source
 name: The New York Times
 section: world_society
-feed_url: ''
+feed_url: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
 site_url: https://www.nytimes.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -828,7 +877,7 @@ use_role: baseline
 ```source
 name: The Washington Post
 section: world_society
-feed_url: ''
+feed_url: https://feeds.washingtonpost.com/rss/world
 site_url: https://www.washingtonpost.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -840,7 +889,7 @@ use_role: baseline
 ```source
 name: USA Today
 section: world_society
-feed_url: ''
+feed_url: https://rssfeeds.usatoday.com/usatoday-NewsTopStories
 site_url: https://www.usatoday.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -852,7 +901,7 @@ use_role: baseline
 ```source
 name: The Times
 section: world_society
-feed_url: ''
+feed_url: https://www.thetimes.co.uk/rss
 site_url: https://www.thetimes.co.uk/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -864,7 +913,7 @@ use_role: baseline
 ```source
 name: The Telegraph
 section: world_society
-feed_url: ''
+feed_url: https://www.telegraph.co.uk/rss.xml
 site_url: https://www.telegraph.co.uk/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -924,7 +973,7 @@ use_role: baseline
 ```source
 name: Die Zeit
 section: world_society
-feed_url: ''
+feed_url: https://newsfeed.zeit.de/index
 site_url: https://www.zeit.de/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1056,7 +1105,7 @@ use_role: baseline
 ```source
 name: South China Morning Post
 section: world_society
-feed_url: ''
+feed_url: https://www.scmp.com/rss/91/feed
 site_url: https://www.scmp.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1116,7 +1165,7 @@ use_role: baseline
 ```source
 name: The Paper 澎湃新闻
 section: world_society
-feed_url: ''
+feed_url: https://feedx.net/rss/thepaper.xml
 site_url: https://www.thepaper.cn/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1344,7 +1393,7 @@ use_role: baseline
 ```source
 name: ProPublica
 section: world_society
-feed_url: ''
+feed_url: https://feeds.propublica.org/propublica/main
 site_url: https://www.propublica.org/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1380,7 +1429,7 @@ use_role: baseline
 ```source
 name: Politico
 section: world_society
-feed_url: ''
+feed_url: https://www.politico.com/rss/politicopicks.xml
 site_url: https://www.politico.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1392,7 +1441,7 @@ use_role: baseline
 ```source
 name: POLITICO Europe
 section: world_society
-feed_url: ''
+feed_url: https://www.politico.eu/feed/
 site_url: https://www.politico.eu/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1404,7 +1453,7 @@ use_role: baseline
 ```source
 name: Foreign Policy
 section: world_society
-feed_url: ''
+feed_url: https://foreignpolicy.com/feed/
 site_url: https://foreignpolicy.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1416,7 +1465,7 @@ use_role: baseline
 ```source
 name: Project Syndicate
 section: world_society
-feed_url: ''
+feed_url: https://www.project-syndicate.org/rss
 site_url: https://www.project-syndicate.org/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1485,6 +1534,79 @@ professional_value: 4
 use_role: baseline
 ```
 
+
+```source
+name: NPR World
+section: world_society
+feed_url: https://feeds.npr.org/1004/rss.xml
+site_url: https://www.npr.org/sections/world/
+source_type: public_broadcaster
+authority_level: generalist
+reliability_score: 5
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: PBS NewsHour World
+section: world_society
+feed_url: https://www.pbs.org/newshour/feeds/rss/world
+site_url: https://www.pbs.org/newshour/world
+source_type: public_broadcaster
+authority_level: generalist
+reliability_score: 5
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: UN News
+section: world_society
+feed_url: https://news.un.org/feed/subscribe/en/news/all/rss.xml
+site_url: https://news.un.org/en/
+source_type: institutional
+authority_level: primary
+reliability_score: 5
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: Human Rights Watch
+section: world_society
+feed_url: https://www.hrw.org/rss/news
+site_url: https://www.hrw.org/
+source_type: specialist_media
+authority_level: specialist
+reliability_score: 4
+professional_value: 5
+use_role: signal
+```
+
+```source
+name: Amnesty International News
+section: world_society
+feed_url: https://www.amnesty.org/en/latest/news/feed/
+site_url: https://www.amnesty.org/en/latest/news/
+source_type: specialist_media
+authority_level: specialist
+reliability_score: 4
+professional_value: 5
+use_role: signal
+```
+
+```source
+name: UNHCR News
+section: world_society
+feed_url: https://www.unhcr.org/news/rss.xml
+site_url: https://www.unhcr.org/news/
+source_type: institutional
+authority_level: primary
+reliability_score: 5
+professional_value: 4
+use_role: signal
+```
+
 <a id="economy"></a>
 
 # 经济 / economy
@@ -1503,7 +1625,7 @@ description_zh: ''
 ```source
 name: World Bank Commodity Markets
 section: prices_markets
-feed_url: ''
+feed_url: https://www.worldbank.org/en/research/commodity-markets/rss
 site_url: https://www.worldbank.org/en/research/commodity-markets
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1570,6 +1692,19 @@ authority_level: generalist
 reliability_score: 4
 professional_value: 4
 use_role: baseline
+```
+
+
+```source
+name: World Bank Data Blog
+section: prices_markets
+feed_url: https://blogs.worldbank.org/en/opendata/feed
+site_url: https://blogs.worldbank.org/en/opendata
+source_type: institutional
+authority_level: primary
+reliability_score: 5
+professional_value: 5
+use_role: reference
 ```
 
 <a id="energy_resources"></a>
@@ -1880,6 +2015,43 @@ professional_value: 4
 use_role: baseline
 ```
 
+
+```source
+name: WTO News
+section: supply_chains_trade
+feed_url: https://www.wto.org/english/news_e/news_e.rss
+site_url: https://www.wto.org/english/news_e/news_e.htm
+source_type: institutional
+authority_level: primary
+reliability_score: 5
+professional_value: 5
+use_role: baseline
+```
+
+```source
+name: Supply Chain Management Review
+section: supply_chains_trade
+feed_url: https://www.scmr.com/rss/topic/all
+site_url: https://www.scmr.com/
+source_type: trade_publication
+authority_level: specialist
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: Logistics Management
+section: supply_chains_trade
+feed_url: https://www.logisticsmgmt.com/rss/topic/all
+site_url: https://www.logisticsmgmt.com/
+source_type: trade_publication
+authority_level: specialist
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
 <a id="industry_business"></a>
 
 ## 产业与商业 / industry_business
@@ -1951,6 +2123,19 @@ professional_value: 4
 use_role: baseline
 ```
 
+
+```source
+name: World Bank Blogs
+section: industry_business
+feed_url: https://blogs.worldbank.org/en/feed
+site_url: https://blogs.worldbank.org/en
+source_type: institutional
+authority_level: primary
+reliability_score: 5
+professional_value: 5
+use_role: baseline
+```
+
 <a id="money_finance"></a>
 
 ## 货币与金融 / money_finance
@@ -1989,7 +2174,7 @@ use_role: baseline
 ```source
 name: Federal Reserve Press Releases
 section: money_finance
-feed_url: ''
+feed_url: https://www.federalreserve.gov/feeds/press_all.xml
 site_url: https://www.federalreserve.gov/newsevents/pressreleases.htm
 source_type: newspaper_magazine
 authority_level: primary
@@ -2013,7 +2198,7 @@ use_role: baseline
 ```source
 name: Financial Times Markets
 section: money_finance
-feed_url: ''
+feed_url: https://www.ft.com/markets?format=rss
 site_url: https://www.ft.com/markets
 source_type: newspaper_magazine
 authority_level: generalist
@@ -2097,7 +2282,7 @@ use_role: baseline
 ```source
 name: NBER
 section: money_finance
-feed_url: ''
+feed_url: https://www.nber.org/rss/new.xml
 site_url: https://www.nber.org/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -2121,7 +2306,7 @@ use_role: baseline
 ```source
 name: Caixin Global
 section: money_finance
-feed_url: ''
+feed_url: https://www.caixinglobal.com/rss/
 site_url: https://www.caixinglobal.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -2151,6 +2336,43 @@ source_type: newspaper_magazine
 authority_level: generalist
 reliability_score: 4
 professional_value: 4
+use_role: baseline
+```
+
+
+```source
+name: OECD Newsroom
+section: money_finance
+feed_url: https://www.oecd.org/newsroom/publicationsdocuments/rss.xml
+site_url: https://www.oecd.org/newsroom/
+source_type: institutional
+authority_level: primary
+reliability_score: 5
+professional_value: 5
+use_role: baseline
+```
+
+```source
+name: Bank of England News
+section: money_finance
+feed_url: https://www.bankofengland.co.uk/rss/news
+site_url: https://www.bankofengland.co.uk/news
+source_type: institutional
+authority_level: primary
+reliability_score: 5
+professional_value: 5
+use_role: baseline
+```
+
+```source
+name: Brookings Economy
+section: money_finance
+feed_url: https://www.brookings.edu/topic/economics/feed/
+site_url: https://www.brookings.edu/topic/economics/
+source_type: specialist_media
+authority_level: specialist
+reliability_score: 4
+professional_value: 5
 use_role: baseline
 ```
 
@@ -2208,7 +2430,7 @@ use_role: baseline
 ```source
 name: Philosophy Now
 section: public_ideas
-feed_url: ''
+feed_url: https://philosophynow.org/rss
 site_url: https://philosophynow.org
 source_type: culture_magazine
 authority_level: commentary
@@ -2256,7 +2478,7 @@ use_role: baseline
 ```source
 name: LessWrong
 section: public_ideas
-feed_url: ''
+feed_url: https://www.lesswrong.com/feed.xml
 site_url: https://www.lesswrong.com
 source_type: culture_magazine
 authority_level: commentary
@@ -2268,7 +2490,7 @@ use_role: baseline
 ```source
 name: Big Think
 section: public_ideas
-feed_url: ''
+feed_url: https://bigthink.com/feed/
 site_url: https://bigthink.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -2294,6 +2516,55 @@ name: Comment Magazine
 section: public_ideas
 feed_url: ''
 site_url: https://comment.org
+source_type: culture_magazine
+authority_level: commentary
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+
+```source
+name: The Conversation Philosophy
+section: public_ideas
+feed_url: https://theconversation.com/global/topics/philosophy-38/articles.atom
+site_url: https://theconversation.com/global/topics/philosophy-38
+source_type: specialist_media
+authority_level: commentary
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: Boston Review
+section: public_ideas
+feed_url: https://www.bostonreview.net/feed/
+site_url: https://www.bostonreview.net/
+source_type: culture_magazine
+authority_level: commentary
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: Philosopher's Magazine
+section: public_ideas
+feed_url: https://www.philosophersmag.com/rss
+site_url: https://www.philosophersmag.com/
+source_type: culture_magazine
+authority_level: commentary
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: Crooked Timber
+section: public_ideas
+feed_url: https://crookedtimber.org/feed/
+site_url: https://crookedtimber.org/
 source_type: culture_magazine
 authority_level: commentary
 reliability_score: 4
@@ -2698,7 +2969,7 @@ description_zh: ''
 ```source
 name: The New Atlantis
 section: civilizational_critique
-feed_url: ''
+feed_url: https://www.thenewatlantis.com/feed
 site_url: https://www.thenewatlantis.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -2710,7 +2981,7 @@ use_role: baseline
 ```source
 name: The Point
 section: civilizational_critique
-feed_url: ''
+feed_url: https://thepointmag.com/feed/
 site_url: https://thepointmag.com/
 source_type: culture_magazine
 authority_level: primary
@@ -2722,7 +2993,7 @@ use_role: baseline
 ```source
 name: The Hedgehog Review
 section: civilizational_critique
-feed_url: ''
+feed_url: https://hedgehogreview.com/web-features.xml
 site_url: https://hedgehogreview.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -2734,7 +3005,7 @@ use_role: baseline
 ```source
 name: Palladium Magazine
 section: civilizational_critique
-feed_url: ''
+feed_url: https://www.palladiummag.com/feed/
 site_url: https://www.palladiummag.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -2806,7 +3077,7 @@ use_role: baseline
 ```source
 name: Rest of World
 section: civilizational_critique
-feed_url: ''
+feed_url: https://restofworld.org/feed/latest/
 site_url: https://restofworld.org/
 source_type: culture_magazine
 authority_level: commentary
@@ -2830,7 +3101,7 @@ use_role: baseline
 ```source
 name: The Atlantic
 section: civilizational_critique
-feed_url: ''
+feed_url: https://www.theatlantic.com/feed/all/
 site_url: https://www.theatlantic.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -2842,7 +3113,7 @@ use_role: baseline
 ```source
 name: The Economist
 section: civilizational_critique
-feed_url: ''
+feed_url: https://www.economist.com/rss.xml
 site_url: https://www.economist.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -2854,7 +3125,7 @@ use_role: baseline
 ```source
 name: The New Yorker
 section: civilizational_critique
-feed_url: ''
+feed_url: https://www.newyorker.com/feed/everything
 site_url: https://www.newyorker.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -2866,7 +3137,7 @@ use_role: baseline
 ```source
 name: Time
 section: civilizational_critique
-feed_url: ''
+feed_url: https://time.com/feed/
 site_url: https://time.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -2923,6 +3194,43 @@ professional_value: 4
 use_role: baseline
 ```
 
+
+```source
+name: Law & Liberty
+section: civilizational_critique
+feed_url: https://lawliberty.org/feed/
+site_url: https://lawliberty.org/
+source_type: culture_magazine
+authority_level: commentary
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: Dissent Magazine
+section: civilizational_critique
+feed_url: https://www.dissentmagazine.org/feed/
+site_url: https://www.dissentmagazine.org/
+source_type: culture_magazine
+authority_level: commentary
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: Persuasion
+section: civilizational_critique
+feed_url: https://www.persuasion.community/feed
+site_url: https://www.persuasion.community/
+source_type: culture_magazine
+authority_level: commentary
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
 <a id="cultural_forms"></a>
 
 # 文化形式 / cultural_forms
@@ -2953,7 +3261,7 @@ use_role: baseline
 ```source
 name: London Review of Books
 section: books
-feed_url: ''
+feed_url: https://www.lrb.co.uk/feeds/rss
 site_url: https://www.lrb.co.uk/
 source_type: culture_magazine
 authority_level: commentary
@@ -3001,7 +3309,7 @@ use_role: baseline
 ```source
 name: Literary Hub
 section: books
-feed_url: ''
+feed_url: https://lithub.com/feed/
 site_url: https://lithub.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -3082,6 +3390,43 @@ professional_value: 4
 use_role: baseline
 ```
 
+
+```source
+name: TLS
+section: books
+feed_url: https://www.the-tls.co.uk/rss
+site_url: https://www.the-tls.co.uk/
+source_type: culture_magazine
+authority_level: commentary
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: Words Without Borders
+section: books
+feed_url: https://wordswithoutborders.org/feed/
+site_url: https://wordswithoutborders.org/
+source_type: culture_magazine
+authority_level: commentary
+reliability_score: 4
+professional_value: 4
+use_role: culture_probe
+```
+
+```source
+name: Open Book Publishers Blog
+section: books
+feed_url: https://blogs.openbookpublishers.com/feed/
+site_url: https://blogs.openbookpublishers.com/
+source_type: specialist_media
+authority_level: specialist
+reliability_score: 4
+professional_value: 4
+use_role: reference
+```
+
 <a id="film_moving_image"></a>
 
 ## 电影与影像 / film_moving_image
@@ -3158,6 +3503,43 @@ name: Reverse Shot
 section: film_moving_image
 feed_url: ''
 site_url: https://reverseshot.org/
+source_type: culture_magazine
+authority_level: commentary
+reliability_score: 4
+professional_value: 4
+use_role: culture_probe
+```
+
+
+```source
+name: Criterion Current
+section: film_moving_image
+feed_url: https://www.criterion.com/current/rss
+site_url: https://www.criterion.com/current
+source_type: culture_magazine
+authority_level: commentary
+reliability_score: 4
+professional_value: 4
+use_role: culture_probe
+```
+
+```source
+name: RogerEbert.com
+section: film_moving_image
+feed_url: https://www.rogerebert.com/feed
+site_url: https://www.rogerebert.com/
+source_type: culture_magazine
+authority_level: commentary
+reliability_score: 4
+professional_value: 4
+use_role: culture_probe
+```
+
+```source
+name: The Film Stage
+section: film_moving_image
+feed_url: https://thefilmstage.com/feed/
+site_url: https://thefilmstage.com/
 source_type: culture_magazine
 authority_level: commentary
 reliability_score: 4
@@ -3248,6 +3630,43 @@ professional_value: 4
 use_role: culture_probe
 ```
 
+
+```source
+name: Stereogum
+section: music_sound
+feed_url: https://www.stereogum.com/feed/
+site_url: https://www.stereogum.com/
+source_type: culture_magazine
+authority_level: commentary
+reliability_score: 4
+professional_value: 4
+use_role: culture_probe
+```
+
+```source
+name: The Wire Magazine
+section: music_sound
+feed_url: https://www.thewire.co.uk/rss
+site_url: https://www.thewire.co.uk/
+source_type: culture_magazine
+authority_level: commentary
+reliability_score: 4
+professional_value: 4
+use_role: culture_probe
+```
+
+```source
+name: Tone Glow
+section: music_sound
+feed_url: https://toneglow.substack.com/feed
+site_url: https://toneglow.substack.com/
+source_type: culture_magazine
+authority_level: commentary
+reliability_score: 4
+professional_value: 4
+use_role: culture_probe
+```
+
 <a id="photography"></a>
 
 ## 摄影 / photography
@@ -3269,6 +3688,43 @@ authority_level: commentary
 reliability_score: 4
 professional_value: 4
 use_role: baseline
+```
+
+
+```source
+name: British Journal of Photography
+section: photography
+feed_url: https://www.1854.photography/feed/
+site_url: https://www.1854.photography/
+source_type: culture_magazine
+authority_level: commentary
+reliability_score: 4
+professional_value: 4
+use_role: culture_probe
+```
+
+```source
+name: LensCulture
+section: photography
+feed_url: https://www.lensculture.com/articles.rss
+site_url: https://www.lensculture.com/
+source_type: culture_magazine
+authority_level: commentary
+reliability_score: 4
+professional_value: 4
+use_role: culture_probe
+```
+
+```source
+name: Aperture
+section: photography
+feed_url: https://aperture.org/feed/
+site_url: https://aperture.org/
+source_type: culture_magazine
+authority_level: commentary
+reliability_score: 4
+professional_value: 4
+use_role: culture_probe
 ```
 
 <a id="arts_design"></a>
@@ -3393,8 +3849,45 @@ use_role: culture_probe
 ```source
 name: The Public Domain Review
 section: arts_design
-feed_url: ''
+feed_url: https://publicdomainreview.org/rss.xml
 site_url: https://publicdomainreview.org/
+source_type: culture_magazine
+authority_level: commentary
+reliability_score: 4
+professional_value: 4
+use_role: culture_probe
+```
+
+
+```source
+name: Frieze
+section: arts_design
+feed_url: https://www.frieze.com/rss.xml
+site_url: https://www.frieze.com/
+source_type: culture_magazine
+authority_level: commentary
+reliability_score: 4
+professional_value: 4
+use_role: culture_probe
+```
+
+```source
+name: Design Week
+section: arts_design
+feed_url: https://www.designweek.co.uk/feed/
+site_url: https://www.designweek.co.uk/
+source_type: culture_magazine
+authority_level: commentary
+reliability_score: 4
+professional_value: 4
+use_role: culture_probe
+```
+
+```source
+name: Design Observer
+section: arts_design
+feed_url: https://designobserver.com/feed/
+site_url: https://designobserver.com/
 source_type: culture_magazine
 authority_level: commentary
 reliability_score: 4
@@ -3459,6 +3952,43 @@ authority_level: commentary
 reliability_score: 4
 professional_value: 4
 use_role: culture_probe
+```
+
+
+```source
+name: The Urbanist
+section: architecture_urbanism
+feed_url: https://www.theurbanist.org/feed/
+site_url: https://www.theurbanist.org/
+source_type: culture_magazine
+authority_level: commentary
+reliability_score: 4
+professional_value: 4
+use_role: culture_probe
+```
+
+```source
+name: CityLab
+section: architecture_urbanism
+feed_url: https://www.bloomberg.com/feeds/citylab.rss
+site_url: https://www.bloomberg.com/citylab
+source_type: specialist_media
+authority_level: specialist
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: Planetizen
+section: architecture_urbanism
+feed_url: https://www.planetizen.com/news/feed
+site_url: https://www.planetizen.com/
+source_type: specialist_media
+authority_level: specialist
+reliability_score: 4
+professional_value: 4
+use_role: baseline
 ```
 
 <a id="games"></a>
@@ -3580,6 +4110,43 @@ professional_value: 4
 use_role: culture_probe
 ```
 
+
+```source
+name: Noema Games
+section: games
+feed_url: https://www.noemamag.com/tag/games/feed/
+site_url: https://www.noemamag.com/tag/games/
+source_type: culture_magazine
+authority_level: commentary
+reliability_score: 4
+professional_value: 4
+use_role: culture_probe
+```
+
+```source
+name: Critical Distance
+section: games
+feed_url: https://critical-distance.com/feed/
+site_url: https://critical-distance.com/
+source_type: culture_magazine
+authority_level: commentary
+reliability_score: 4
+professional_value: 4
+use_role: culture_probe
+```
+
+```source
+name: GamesIndustry.biz
+section: games
+feed_url: https://www.gamesindustry.biz/rss
+site_url: https://www.gamesindustry.biz/
+source_type: trade_publication
+authority_level: specialist
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
 <a id="fashion_style"></a>
 
 ## 时尚与风格 / fashion_style
@@ -3632,6 +4199,19 @@ name: Highsnobiety
 section: fashion_style
 feed_url: ''
 site_url: https://www.highsnobiety.com/
+source_type: culture_magazine
+authority_level: commentary
+reliability_score: 4
+professional_value: 4
+use_role: culture_probe
+```
+
+
+```source
+name: Vogue Runway
+section: fashion_style
+feed_url: https://www.vogue.com/fashion-shows/rss
+site_url: https://www.vogue.com/fashion-shows
 source_type: culture_magazine
 authority_level: commentary
 reliability_score: 4
@@ -3762,6 +4342,43 @@ professional_value: 4
 use_role: baseline
 ```
 
+
+```source
+name: Anthropology Today
+section: human_societies
+feed_url: https://rai.onlinelibrary.wiley.com/action/showFeed?type=etoc&feed=rss&jc=14678322
+site_url: https://rai.onlinelibrary.wiley.com/journal/14678322
+source_type: journal
+authority_level: primary
+reliability_score: 5
+professional_value: 5
+use_role: reference
+```
+
+```source
+name: American Anthropologist
+section: human_societies
+feed_url: https://anthrosource.onlinelibrary.wiley.com/action/showFeed?type=etoc&feed=rss&jc=15481433
+site_url: https://anthrosource.onlinelibrary.wiley.com/journal/15481433
+source_type: journal
+authority_level: primary
+reliability_score: 5
+professional_value: 5
+use_role: reference
+```
+
+```source
+name: Nature Human Behaviour
+section: human_societies
+feed_url: https://www.nature.com/nathumbehav.rss
+site_url: https://www.nature.com/nathumbehav/
+source_type: journal
+authority_level: primary
+reliability_score: 5
+professional_value: 5
+use_role: baseline
+```
+
 <a id="mind"></a>
 
 ## 心智 / mind
@@ -3819,6 +4436,31 @@ authority_level: specialist
 reliability_score: 4
 professional_value: 4
 use_role: baseline
+```
+
+
+```source
+name: BPS News
+section: mind
+feed_url: https://www.bps.org.uk/news-and-policy/rss.xml
+site_url: https://www.bps.org.uk/news-and-policy
+source_type: specialist_media
+authority_level: specialist
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: Psychological Science
+section: mind
+feed_url: https://journals.sagepub.com/action/showFeed?type=etoc&feed=rss&jc=pssa
+site_url: https://journals.sagepub.com/home/pss
+source_type: journal
+authority_level: primary
+reliability_score: 5
+professional_value: 5
+use_role: reference
 ```
 
 <a id="nature"></a>
@@ -4386,6 +5028,67 @@ professional_value: 5
 use_role: signal
 ```
 
+
+```source
+name: Nature Ecology & Evolution
+section: research
+feed_url: https://www.nature.com/natecolevol.rss
+site_url: https://www.nature.com/natecolevol/
+source_type: journal
+authority_level: primary
+reliability_score: 5
+professional_value: 5
+use_role: baseline
+```
+
+```source
+name: Current Biology
+section: research
+feed_url: https://www.cell.com/current-biology/inpress.rss
+site_url: https://www.cell.com/current-biology/home
+source_type: journal
+authority_level: primary
+reliability_score: 5
+professional_value: 5
+use_role: baseline
+```
+
+```source
+name: Ecology Letters
+section: research
+feed_url: https://onlinelibrary.wiley.com/action/showFeed?type=etoc&feed=rss&jc=14610248
+site_url: https://onlinelibrary.wiley.com/journal/14610248
+source_type: journal
+authority_level: primary
+reliability_score: 5
+professional_value: 5
+use_role: baseline
+```
+
+```source
+name: Methods in Ecology and Evolution
+section: research
+feed_url: https://besjournals.onlinelibrary.wiley.com/action/showFeed?type=etoc&feed=rss&jc=2041210x
+site_url: https://besjournals.onlinelibrary.wiley.com/journal/2041210x
+source_type: journal
+authority_level: primary
+reliability_score: 5
+professional_value: 5
+use_role: reference
+```
+
+```source
+name: PLOS ONE Biology
+section: research
+feed_url: https://journals.plos.org/plosone/feed/atom
+site_url: https://journals.plos.org/plosone/
+source_type: journal
+authority_level: primary
+reliability_score: 4
+professional_value: 4
+use_role: signal
+```
+
 <a id="space_astronomy"></a>
 
 ## 航天与宇宙 / space_astronomy
@@ -4481,6 +5184,19 @@ professional_value: 4
 use_role: baseline
 ```
 
+
+```source
+name: NASA Earth Observatory Image of the Day
+section: space_astronomy
+feed_url: https://earthobservatory.nasa.gov/feeds/image-of-the-day.rss
+site_url: https://earthobservatory.nasa.gov/images
+source_type: institutional
+authority_level: primary
+reliability_score: 5
+professional_value: 4
+use_role: baseline
+```
+
 <a id="natural_history"></a>
 
 ## 自然史 / natural_history
@@ -4495,7 +5211,7 @@ description_zh: ''
 ```source
 name: Smithsonian Science
 section: natural_history
-feed_url: ''
+feed_url: https://www.smithsonianmag.com/rss/science-nature/
 site_url: https://www.smithsonianmag.com/science-nature/
 source_type: specialist_media
 authority_level: specialist
@@ -4519,7 +5235,7 @@ use_role: baseline
 ```source
 name: Natural History Museum
 section: natural_history
-feed_url: ''
+feed_url: https://www.nhm.ac.uk/discover.rss
 site_url: https://www.nhm.ac.uk/discover.html
 source_type: specialist_media
 authority_level: specialist
@@ -4650,11 +5366,48 @@ use_role: baseline
 ```source
 name: Yale Environment 360
 section: ecology_conservation
-feed_url: ''
+feed_url: https://e360.yale.edu/rss.xml
 site_url: https://e360.yale.edu/
 source_type: specialist_media
 authority_level: primary
 reliability_score: 5
+professional_value: 4
+use_role: baseline
+```
+
+
+```source
+name: NOAA Climate.gov
+section: ecology_conservation
+feed_url: https://www.climate.gov/news-features/feed
+site_url: https://www.climate.gov/news-features
+source_type: institutional
+authority_level: primary
+reliability_score: 5
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: Inside Climate News
+section: ecology_conservation
+feed_url: https://insideclimatenews.org/feed/
+site_url: https://insideclimatenews.org/
+source_type: specialist_media
+authority_level: specialist
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: The Revelator
+section: ecology_conservation
+feed_url: https://therevelator.org/feed/
+site_url: https://therevelator.org/
+source_type: specialist_media
+authority_level: specialist
+reliability_score: 4
 professional_value: 4
 use_role: baseline
 ```
@@ -4697,13 +5450,38 @@ use_role: baseline
 ```source
 name: Animal Behaviour
 section: animal_behavior
-feed_url: ''
+feed_url: https://www.sciencedirect.com/journal/animal-behaviour/rss
 site_url: https://www.sciencedirect.com/journal/animal-behaviour
 source_type: specialist_media
 authority_level: specialist
 reliability_score: 4
 professional_value: 4
 use_role: baseline
+```
+
+
+```source
+name: Behavioral Ecology
+section: animal_behavior
+feed_url: https://academic.oup.com/rss/site_5271/3361.xml
+site_url: https://academic.oup.com/beheco
+source_type: journal
+authority_level: primary
+reliability_score: 5
+professional_value: 5
+use_role: reference
+```
+
+```source
+name: Journal of Experimental Biology
+section: animal_behavior
+feed_url: https://journals.biologists.com/rss/site_1006/1007.xml
+site_url: https://journals.biologists.com/jeb
+source_type: journal
+authority_level: primary
+reliability_score: 5
+professional_value: 5
+use_role: reference
 ```
 
 <a id="marine_life"></a>
@@ -4744,7 +5522,7 @@ use_role: baseline
 ```source
 name: NOAA PMEL Highlights
 section: marine_life
-feed_url: ''
+feed_url: https://www.pmel.noaa.gov/rss.xml
 site_url: https://www.pmel.noaa.gov/
 source_type: specialist_media
 authority_level: primary
@@ -4768,7 +5546,7 @@ use_role: baseline
 ```source
 name: MarineBio Conservation Society
 section: marine_life
-feed_url: ''
+feed_url: https://www.marinebio.org/feed/
 site_url: https://www.marinebio.org/news/
 source_type: specialist_media
 authority_level: specialist
@@ -4780,7 +5558,7 @@ use_role: baseline
 ```source
 name: Oceanographic Magazine
 section: marine_life
-feed_url: ''
+feed_url: https://oceanographicmagazine.com/feed/
 site_url: https://oceanographicmagazine.com/
 source_type: specialist_media
 authority_level: specialist
@@ -4792,7 +5570,7 @@ use_role: baseline
 ```source
 name: The Revelator Oceans
 section: marine_life
-feed_url: ''
+feed_url: https://therevelator.org/category/oceans/feed/
 site_url: https://therevelator.org/category/oceans/
 source_type: specialist_media
 authority_level: specialist
@@ -4811,6 +5589,31 @@ authority_level: specialist
 reliability_score: 4
 professional_value: 4
 use_role: baseline
+```
+
+
+```source
+name: ICES Journal of Marine Science
+section: marine_life
+feed_url: https://academic.oup.com/rss/site_5267/3362.xml
+site_url: https://academic.oup.com/icesjms
+source_type: journal
+authority_level: primary
+reliability_score: 5
+professional_value: 5
+use_role: reference
+```
+
+```source
+name: Marine Ecology Progress Series
+section: marine_life
+feed_url: https://www.int-res.com/rss/meps.xml
+site_url: https://www.int-res.com/journals/meps/
+source_type: journal
+authority_level: primary
+reliability_score: 5
+professional_value: 5
+use_role: reference
 ```
 
 <a id="fish_ichthyology"></a>
@@ -4860,6 +5663,31 @@ professional_value: 4
 use_role: baseline
 ```
 
+
+```source
+name: FishBase News
+section: fish_ichthyology
+feed_url: https://www.fishbase.se/rss/rss.xml
+site_url: https://www.fishbase.se/
+source_type: reference_tool
+authority_level: primary
+reliability_score: 5
+professional_value: 5
+use_role: reference
+```
+
+```source
+name: Freshwater and Marine Image Bank
+section: fish_ichthyology
+feed_url: ''
+site_url: https://digitalcollections.lib.washington.edu/digital/collection/fishimages
+source_type: reference_tool
+authority_level: primary
+reliability_score: 5
+professional_value: 4
+use_role: reference
+```
+
 <a id="mollusks"></a>
 
 ## 贝壳与软体动物 / mollusks
@@ -4886,7 +5714,7 @@ use_role: baseline
 ```source
 name: Phys.org Mollusks
 section: mollusks
-feed_url: ''
+feed_url: https://phys.org/rss-feed/search/?search=mollusks
 site_url: https://phys.org/tags/mollusks/
 source_type: specialist_media
 authority_level: specialist
@@ -5051,6 +5879,19 @@ professional_value: 3
 use_role: reference
 ```
 
+
+```source
+name: Journal of Molluscan Studies
+section: mollusks
+feed_url: https://academic.oup.com/rss/site_5275/3365.xml
+site_url: https://academic.oup.com/mollus
+source_type: journal
+authority_level: primary
+reliability_score: 5
+professional_value: 5
+use_role: reference
+```
+
 <a id="arthropods"></a>
 
 ## 节肢动物 / arthropods
@@ -5089,7 +5930,7 @@ use_role: baseline
 ```source
 name: Xerces Society Blog
 section: arthropods
-feed_url: ''
+feed_url: https://xerces.org/blog/feed
 site_url: https://xerces.org/blog
 source_type: specialist_media
 authority_level: specialist
@@ -5230,6 +6071,55 @@ professional_value: 3
 use_role: reference
 ```
 
+
+```source
+name: ZooKeys
+section: arthropods
+feed_url: https://zookeys.pensoft.net/lib/ajax_srv/article_elements_srv.php?action=rss
+site_url: https://zookeys.pensoft.net/
+source_type: journal
+authority_level: primary
+reliability_score: 5
+professional_value: 5
+use_role: reference
+```
+
+```source
+name: Insect Systematics and Diversity
+section: arthropods
+feed_url: https://academic.oup.com/rss/site_5248/3394.xml
+site_url: https://academic.oup.com/isd
+source_type: journal
+authority_level: primary
+reliability_score: 5
+professional_value: 5
+use_role: reference
+```
+
+```source
+name: Journal of Insect Science
+section: arthropods
+feed_url: https://academic.oup.com/rss/site_5248/3368.xml
+site_url: https://academic.oup.com/jinsectscience
+source_type: journal
+authority_level: primary
+reliability_score: 5
+professional_value: 5
+use_role: reference
+```
+
+```source
+name: PeerJ Arthropod Biology
+section: arthropods
+feed_url: https://peerj.com/articles/index.xml?subject=arthropod-biology
+site_url: https://peerj.com/subjects/arthropod-biology/
+source_type: journal
+authority_level: primary
+reliability_score: 4
+professional_value: 4
+use_role: signal
+```
+
 <a id="plants_fungi"></a>
 
 ## 植物与真菌 / plants_fungi
@@ -5256,7 +6146,7 @@ use_role: baseline
 ```source
 name: New Phytologist
 section: plants_fungi
-feed_url: ''
+feed_url: https://nph.onlinelibrary.wiley.com/action/showFeed?type=etoc&feed=rss&jc=14698137
 site_url: https://nph.onlinelibrary.wiley.com/
 source_type: specialist_media
 authority_level: specialist
@@ -5275,6 +6165,43 @@ authority_level: specialist
 reliability_score: 4
 professional_value: 4
 use_role: baseline
+```
+
+
+```source
+name: Botany One
+section: plants_fungi
+feed_url: https://botany.one/feed/
+site_url: https://botany.one/
+source_type: specialist_media
+authority_level: specialist
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: American Journal of Botany
+section: plants_fungi
+feed_url: https://bsapubs.onlinelibrary.wiley.com/action/showFeed?type=etoc&feed=rss&jc=15372197
+site_url: https://bsapubs.onlinelibrary.wiley.com/journal/15372197
+source_type: journal
+authority_level: primary
+reliability_score: 5
+professional_value: 5
+use_role: reference
+```
+
+```source
+name: MycoKeys
+section: plants_fungi
+feed_url: https://mycokeys.pensoft.net/lib/ajax_srv/article_elements_srv.php?action=rss
+site_url: https://mycokeys.pensoft.net/
+source_type: journal
+authority_level: primary
+reliability_score: 5
+professional_value: 5
+use_role: reference
 ```
 
 <a id="minerals_geology"></a>
@@ -5298,6 +6225,43 @@ authority_level: specialist
 reliability_score: 4
 professional_value: 4
 use_role: baseline
+```
+
+
+```source
+name: Mindat News
+section: minerals_geology
+feed_url: https://www.mindat.org/rss.php
+site_url: https://www.mindat.org/
+source_type: reference_tool
+authority_level: primary
+reliability_score: 5
+professional_value: 5
+use_role: reference
+```
+
+```source
+name: USGS News
+section: minerals_geology
+feed_url: https://www.usgs.gov/news/rss.xml
+site_url: https://www.usgs.gov/news
+source_type: institutional
+authority_level: primary
+reliability_score: 5
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: Geology Page
+section: minerals_geology
+feed_url: https://www.geologypage.com/feed
+site_url: https://www.geologypage.com/
+source_type: specialist_media
+authority_level: specialist
+reliability_score: 3
+professional_value: 3
+use_role: signal
 ```
 
 <a id="technology"></a>
@@ -5342,7 +6306,7 @@ use_role: baseline
 ```source
 name: Google DeepMind
 section: ai_systems
-feed_url: ''
+feed_url: https://deepmind.google/blog/rss.xml
 site_url: https://deepmind.google/blog/
 source_type: specialist_media
 authority_level: specialist
@@ -5378,7 +6342,7 @@ use_role: baseline
 ```source
 name: Hugging Face Blog
 section: ai_systems
-feed_url: ''
+feed_url: https://huggingface.co/blog/feed.xml
 site_url: https://huggingface.co/blog
 source_type: specialist_media
 authority_level: specialist
@@ -5390,7 +6354,7 @@ use_role: baseline
 ```source
 name: Stanford HAI
 section: ai_systems
-feed_url: ''
+feed_url: https://hai.stanford.edu/news/rss.xml
 site_url: https://hai.stanford.edu/
 source_type: specialist_media
 authority_level: primary
@@ -5409,6 +6373,67 @@ authority_level: primary
 reliability_score: 5
 professional_value: 4
 use_role: baseline
+```
+
+
+```source
+name: OpenAI News
+section: ai_systems
+feed_url: https://openai.com/news/rss.xml
+site_url: https://openai.com/news/
+source_type: institutional
+authority_level: primary
+reliability_score: 5
+professional_value: 5
+use_role: baseline
+```
+
+```source
+name: Anthropic News
+section: ai_systems
+feed_url: https://www.anthropic.com/news/rss.xml
+site_url: https://www.anthropic.com/news
+source_type: institutional
+authority_level: primary
+reliability_score: 5
+professional_value: 5
+use_role: baseline
+```
+
+```source
+name: Meta AI Blog
+section: ai_systems
+feed_url: https://ai.meta.com/blog/rss/
+site_url: https://ai.meta.com/blog/
+source_type: institutional
+authority_level: primary
+reliability_score: 5
+professional_value: 5
+use_role: baseline
+```
+
+```source
+name: Microsoft Research Blog
+section: ai_systems
+feed_url: https://www.microsoft.com/en-us/research/feed/
+site_url: https://www.microsoft.com/en-us/research/blog/
+source_type: institutional
+authority_level: primary
+reliability_score: 5
+professional_value: 5
+use_role: baseline
+```
+
+```source
+name: Distill
+section: ai_systems
+feed_url: https://distill.pub/rss.xml
+site_url: https://distill.pub/
+source_type: specialist_media
+authority_level: specialist
+reliability_score: 5
+professional_value: 5
+use_role: reference
 ```
 
 <a id="computing_cultures"></a>
@@ -5449,7 +6474,7 @@ use_role: baseline
 ```source
 name: LWN.net
 section: computing_cultures
-feed_url: ''
+feed_url: https://lwn.net/headlines/rss
 site_url: https://lwn.net/
 source_type: specialist_media
 authority_level: specialist
@@ -5461,7 +6486,7 @@ use_role: baseline
 ```source
 name: Communications of the ACM
 section: computing_cultures
-feed_url: ''
+feed_url: https://cacm.acm.org/feed/
 site_url: https://cacm.acm.org/feed/
 source_type: specialist_media
 authority_level: specialist
@@ -5533,7 +6558,7 @@ use_role: baseline
 ```source
 name: Techmeme
 section: computing_cultures
-feed_url: ''
+feed_url: https://www.techmeme.com/feed.xml
 site_url: https://www.techmeme.com/
 source_type: specialist_media
 authority_level: specialist
@@ -5571,6 +6596,55 @@ name: 数学 & 物理 & 杂项
 section: computing_cultures
 feed_url: ''
 site_url: https://t.me/math_and_physics_and_misc
+source_type: specialist_media
+authority_level: specialist
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+
+```source
+name: ACM Queue
+section: computing_cultures
+feed_url: https://queue.acm.org/rss/feeds/queuecontent.xml
+site_url: https://queue.acm.org/
+source_type: specialist_media
+authority_level: specialist
+reliability_score: 5
+professional_value: 5
+use_role: baseline
+```
+
+```source
+name: IEEE Computer Society
+section: computing_cultures
+feed_url: https://www.computer.org/csdl/rss
+site_url: https://www.computer.org/
+source_type: specialist_media
+authority_level: specialist
+reliability_score: 5
+professional_value: 4
+use_role: reference
+```
+
+```source
+name: Martin Fowler
+section: computing_cultures
+feed_url: https://martinfowler.com/feed.atom
+site_url: https://martinfowler.com/
+source_type: specialist_media
+authority_level: specialist
+reliability_score: 5
+professional_value: 5
+use_role: baseline
+```
+
+```source
+name: Julia Evans
+section: computing_cultures
+feed_url: https://jvns.ca/atom.xml
+site_url: https://jvns.ca/
 source_type: specialist_media
 authority_level: specialist
 reliability_score: 4
@@ -5628,7 +6702,7 @@ use_role: baseline
 ```source
 name: Mozilla Hacks
 section: platforms_infrastructure
-feed_url: ''
+feed_url: https://hacks.mozilla.org/feed/
 site_url: https://hacks.mozilla.org/
 source_type: specialist_media
 authority_level: specialist
@@ -5640,7 +6714,7 @@ use_role: baseline
 ```source
 name: Vercel Blog
 section: platforms_infrastructure
-feed_url: ''
+feed_url: https://vercel.com/atom
 site_url: https://vercel.com/blog
 source_type: specialist_media
 authority_level: specialist
@@ -5652,12 +6726,73 @@ use_role: baseline
 ```source
 name: APNIC Blog
 section: platforms_infrastructure
-feed_url: ''
+feed_url: https://blog.apnic.net/feed/
 site_url: https://blog.apnic.net/
 source_type: specialist_media
 authority_level: specialist
 reliability_score: 4
 professional_value: 4
+use_role: baseline
+```
+
+
+```source
+name: Kubernetes Blog
+section: platforms_infrastructure
+feed_url: https://kubernetes.io/feed.xml
+site_url: https://kubernetes.io/blog/
+source_type: institutional
+authority_level: primary
+reliability_score: 5
+professional_value: 5
+use_role: baseline
+```
+
+```source
+name: AWS News Blog
+section: platforms_infrastructure
+feed_url: https://aws.amazon.com/blogs/aws/feed/
+site_url: https://aws.amazon.com/blogs/aws/
+source_type: institutional
+authority_level: primary
+reliability_score: 5
+professional_value: 5
+use_role: baseline
+```
+
+```source
+name: Google Cloud Blog
+section: platforms_infrastructure
+feed_url: https://cloudblog.withgoogle.com/rss/
+site_url: https://cloud.google.com/blog/
+source_type: institutional
+authority_level: primary
+reliability_score: 5
+professional_value: 5
+use_role: baseline
+```
+
+```source
+name: Azure Blog
+section: platforms_infrastructure
+feed_url: https://azure.microsoft.com/en-us/blog/feed/
+site_url: https://azure.microsoft.com/en-us/blog/
+source_type: institutional
+authority_level: primary
+reliability_score: 5
+professional_value: 5
+use_role: baseline
+```
+
+```source
+name: Netflix TechBlog
+section: platforms_infrastructure
+feed_url: https://netflixtechblog.com/feed
+site_url: https://netflixtechblog.com/
+source_type: specialist_media
+authority_level: specialist
+reliability_score: 5
+professional_value: 5
 use_role: baseline
 ```
 
@@ -5723,7 +6858,7 @@ use_role: baseline
 ```source
 name: Platformer
 section: interfaces_media_technology
-feed_url: ''
+feed_url: https://www.platformer.news/feed
 site_url: https://www.platformer.news/
 source_type: specialist_media
 authority_level: specialist
@@ -5735,7 +6870,7 @@ use_role: baseline
 ```source
 name: Garbage Day
 section: interfaces_media_technology
-feed_url: ''
+feed_url: https://www.garbageday.email/feed
 site_url: https://www.garbageday.email/
 source_type: specialist_media
 authority_level: specialist
@@ -5747,7 +6882,7 @@ use_role: baseline
 ```source
 name: Search Engine Land
 section: interfaces_media_technology
-feed_url: ''
+feed_url: https://searchengineland.com/feed
 site_url: https://searchengineland.com/
 source_type: specialist_media
 authority_level: specialist
@@ -5773,6 +6908,31 @@ section: cybernetics_automation
 feed_url: https://spectrum.ieee.org/feeds/topic/robotics.rss
 site_url: https://spectrum.ieee.org/robotics
 source_type: specialist_media
+authority_level: specialist
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+
+```source
+name: IEEE Spectrum Aerospace
+section: cybernetics_automation
+feed_url: https://spectrum.ieee.org/feeds/topic/aerospace.rss
+site_url: https://spectrum.ieee.org/aerospace
+source_type: specialist_media
+authority_level: specialist
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: Robotics Business Review
+section: cybernetics_automation
+feed_url: https://www.roboticsbusinessreview.com/feed/
+site_url: https://www.roboticsbusinessreview.com/
+source_type: trade_publication
 authority_level: specialist
 reliability_score: 4
 professional_value: 4
@@ -5817,7 +6977,7 @@ use_role: baseline
 ```source
 name: SWLing Post
 section: hardware_radio_embedded
-feed_url: ''
+feed_url: https://swling.com/blog/feed/
 site_url: https://swling.com/blog/
 source_type: specialist_media
 authority_level: specialist
@@ -5829,7 +6989,7 @@ use_role: baseline
 ```source
 name: Radio Society of Great Britain
 section: hardware_radio_embedded
-feed_url: ''
+feed_url: https://rsgb.org/main/feed/
 site_url: https://rsgb.org/main/
 source_type: specialist_media
 authority_level: specialist
@@ -5865,7 +7025,7 @@ use_role: baseline
 ```source
 name: CNX Software
 section: hardware_radio_embedded
-feed_url: ''
+feed_url: https://www.cnx-software.com/feed/
 site_url: https://www.cnx-software.com/
 source_type: specialist_media
 authority_level: specialist
@@ -5889,7 +7049,7 @@ use_role: baseline
 ```source
 name: Adafruit Blog
 section: hardware_radio_embedded
-feed_url: ''
+feed_url: https://blog.adafruit.com/feed/
 site_url: https://blog.adafruit.com/
 source_type: specialist_media
 authority_level: specialist
@@ -5901,7 +7061,7 @@ use_role: baseline
 ```source
 name: SparkFun News
 section: hardware_radio_embedded
-feed_url: ''
+feed_url: https://www.sparkfun.com/news/rss
 site_url: https://www.sparkfun.com/news
 source_type: specialist_media
 authority_level: specialist
@@ -5916,6 +7076,43 @@ section: hardware_radio_embedded
 feed_url: https://www.ifixit.com/News/feed
 site_url: https://www.ifixit.com/News
 source_type: specialist_media
+authority_level: specialist
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+
+```source
+name: NVIDIA Technical Blog
+section: hardware_radio_embedded
+feed_url: https://developer.nvidia.com/blog/feed/
+site_url: https://developer.nvidia.com/blog/
+source_type: specialist_media
+authority_level: specialist
+reliability_score: 5
+professional_value: 5
+use_role: baseline
+```
+
+```source
+name: ServeTheHome
+section: hardware_radio_embedded
+feed_url: https://www.servethehome.com/feed/
+site_url: https://www.servethehome.com/
+source_type: specialist_media
+authority_level: specialist
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: EE Times
+section: hardware_radio_embedded
+feed_url: https://www.eetimes.com/feed/
+site_url: https://www.eetimes.com/
+source_type: trade_publication
 authority_level: specialist
 reliability_score: 4
 professional_value: 4
@@ -6715,7 +7912,7 @@ use_role: baseline
 ```source
 name: Rest of World
 section: technology_politics
-feed_url: ''
+feed_url: https://restofworld.org/feed/latest/
 site_url: https://restofworld.org/
 source_type: specialist_media
 authority_level: specialist
@@ -6727,7 +7924,7 @@ use_role: baseline
 ```source
 name: 404 Media
 section: technology_politics
-feed_url: ''
+feed_url: https://www.404media.co/rss/
 site_url: https://www.404media.co/
 source_type: specialist_media
 authority_level: specialist
@@ -6739,7 +7936,7 @@ use_role: baseline
 ```source
 name: The Markup
 section: technology_politics
-feed_url: ''
+feed_url: https://themarkup.org/feeds/rss.xml
 site_url: https://themarkup.org/
 source_type: specialist_media
 authority_level: specialist
@@ -6751,12 +7948,49 @@ use_role: baseline
 ```source
 name: Access Now
 section: technology_politics
-feed_url: ''
+feed_url: https://www.accessnow.org/feed/
 site_url: https://www.accessnow.org/
 source_type: specialist_media
 authority_level: specialist
 reliability_score: 4
 professional_value: 4
+use_role: baseline
+```
+
+
+```source
+name: Schneier on Security
+section: technology_politics
+feed_url: https://www.schneier.com/feed/atom/
+site_url: https://www.schneier.com/
+source_type: specialist_media
+authority_level: specialist
+reliability_score: 5
+professional_value: 5
+use_role: baseline
+```
+
+```source
+name: Krebs on Security
+section: technology_politics
+feed_url: https://krebsonsecurity.com/feed/
+site_url: https://krebsonsecurity.com/
+source_type: specialist_media
+authority_level: specialist
+reliability_score: 5
+professional_value: 5
+use_role: baseline
+```
+
+```source
+name: Lawfare Cyber
+section: technology_politics
+feed_url: https://www.lawfaremedia.org/topic/cybersecurity/feed
+site_url: https://www.lawfaremedia.org/topic/cybersecurity
+source_type: specialist_media
+authority_level: specialist
+reliability_score: 4
+professional_value: 5
 use_role: baseline
 ```
 
@@ -6790,7 +8024,7 @@ use_role: culture_probe
 ```source
 name: SectionHiker
 section: field_gear
-feed_url: ''
+feed_url: https://sectionhiker.com/feed/
 site_url: https://sectionhiker.com/
 source_type: specialist_media
 authority_level: specialist
@@ -6814,7 +8048,7 @@ use_role: culture_probe
 ```source
 name: Bikepacking.com
 section: field_gear
-feed_url: ''
+feed_url: https://bikepacking.com/feed/
 site_url: https://bikepacking.com/
 source_type: specialist_media
 authority_level: specialist
@@ -6838,7 +8072,7 @@ use_role: culture_probe
 ```source
 name: KnifeNews
 section: field_gear
-feed_url: ''
+feed_url: https://knifenews.com/feed/
 site_url: https://knifenews.com/
 source_type: specialist_media
 authority_level: specialist
@@ -6857,6 +8091,43 @@ authority_level: specialist
 reliability_score: 3
 professional_value: 4
 use_role: culture_probe
+```
+
+
+```source
+name: Wirecutter Outdoors
+section: field_gear
+feed_url: https://www.nytimes.com/wirecutter/outdoors/rss/
+site_url: https://www.nytimes.com/wirecutter/outdoors/
+source_type: specialist_media
+authority_level: specialist
+reliability_score: 4
+professional_value: 4
+use_role: reference
+```
+
+```source
+name: Adventure Journal
+section: field_gear
+feed_url: https://www.adventure-journal.com/feed/
+site_url: https://www.adventure-journal.com/
+source_type: specialist_media
+authority_level: specialist
+reliability_score: 4
+professional_value: 3
+use_role: culture_probe
+```
+
+```source
+name: Backpacking Light
+section: field_gear
+feed_url: https://backpackinglight.com/feed/
+site_url: https://backpackinglight.com/
+source_type: specialist_media
+authority_level: specialist
+reliability_score: 4
+professional_value: 4
+use_role: reference
 ```
 
 <a id="everyday_carry"></a>
@@ -6885,7 +8156,7 @@ use_role: culture_probe
 ```source
 name: Everyday Carry
 section: everyday_carry
-feed_url: ''
+feed_url: https://everydaycarry.com/rss
 site_url: https://everydaycarry.com/
 source_type: specialist_media
 authority_level: specialist
@@ -6903,6 +8174,31 @@ source_type: specialist_media
 authority_level: specialist
 reliability_score: 3
 professional_value: 4
+use_role: culture_probe
+```
+
+
+```source
+name: The Prepared
+section: everyday_carry
+feed_url: https://theprepared.com/feed/
+site_url: https://theprepared.com/
+source_type: specialist_media
+authority_level: specialist
+reliability_score: 4
+professional_value: 4
+use_role: reference
+```
+
+```source
+name: Tools and Toys
+section: everyday_carry
+feed_url: https://toolsandtoys.net/feed/
+site_url: https://toolsandtoys.net/
+source_type: specialist_media
+authority_level: commentary
+reliability_score: 3
+professional_value: 3
 use_role: culture_probe
 ```
 
@@ -6944,7 +8240,7 @@ use_role: culture_probe
 ```source
 name: Cool Tools
 section: tools_workshop
-feed_url: ''
+feed_url: https://kk.org/cooltools/feed/
 site_url: https://kk.org/cooltools/
 source_type: specialist_media
 authority_level: specialist
@@ -7001,6 +8297,31 @@ professional_value: 4
 use_role: culture_probe
 ```
 
+
+```source
+name: Fine Woodworking
+section: tools_workshop
+feed_url: https://www.finewoodworking.com/feed
+site_url: https://www.finewoodworking.com/
+source_type: trade_publication
+authority_level: specialist
+reliability_score: 4
+professional_value: 4
+use_role: reference
+```
+
+```source
+name: Popular Woodworking
+section: tools_workshop
+feed_url: https://www.popularwoodworking.com/feed/
+site_url: https://www.popularwoodworking.com/
+source_type: trade_publication
+authority_level: specialist
+reliability_score: 4
+professional_value: 4
+use_role: reference
+```
+
 <a id="repair_maintenance"></a>
 
 ## 维修与维护 / repair_maintenance
@@ -7027,7 +8348,7 @@ use_role: culture_probe
 ```source
 name: Repair.org
 section: repair_maintenance
-feed_url: ''
+feed_url: https://www.repair.org/blog?format=rss
 site_url: https://www.repair.org/
 source_type: specialist_media
 authority_level: specialist
@@ -7039,7 +8360,7 @@ use_role: culture_probe
 ```source
 name: The Restart Project
 section: repair_maintenance
-feed_url: ''
+feed_url: https://therestartproject.org/feed/
 site_url: https://therestartproject.org/
 source_type: specialist_media
 authority_level: specialist
@@ -7372,6 +8693,43 @@ professional_value: 4
 use_role: reference
 ```
 
+
+```source
+name: IEEE Xplore
+section: document_search
+feed_url: ''
+site_url: https://ieeexplore.ieee.org/
+source_type: reference_tool
+authority_level: primary
+reliability_score: 5
+professional_value: 5
+use_role: reference
+```
+
+```source
+name: OpenAlex
+section: document_search
+feed_url: ''
+site_url: https://openalex.org/
+source_type: reference_tool
+authority_level: aggregator
+reliability_score: 5
+professional_value: 5
+use_role: reference
+```
+
+```source
+name: Crossref
+section: document_search
+feed_url: ''
+site_url: https://www.crossref.org/
+source_type: reference_tool
+authority_level: primary
+reliability_score: 5
+professional_value: 5
+use_role: reference
+```
+
 <a id="rss_feed_management"></a>
 
 ## RSS 与信息管理 / rss_feed_management
@@ -7474,6 +8832,31 @@ site_url: http://www.philosophypaperboy.com
 source_type: reference_tool
 authority_level: aggregator
 reliability_score: 3
+professional_value: 4
+use_role: reference
+```
+
+
+```source
+name: Data is Plural
+section: archives_aggregators
+feed_url: https://www.data-is-plural.com/feed.xml
+site_url: https://www.data-is-plural.com/
+source_type: aggregator
+authority_level: specialist
+reliability_score: 4
+professional_value: 5
+use_role: signal
+```
+
+```source
+name: The Browser
+section: archives_aggregators
+feed_url: https://thebrowser.com/feed
+site_url: https://thebrowser.com/
+source_type: aggregator
+authority_level: commentary
+reliability_score: 4
 professional_value: 4
 use_role: reference
 ```
