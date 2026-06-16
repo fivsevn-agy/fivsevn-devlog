@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogops/index.md",
+                "file": "blogops/docs/publish-memo.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "publish-memo"
             }
           }
         ]
@@ -187,6 +187,7 @@
   "lastOpenFiles": [
     "now/index.md",
     "README.md",
+    "blogops/index.md",
     "intake/README.md",
     "intake/sources.md",
     "blogops/docs/post-publish-trigger.md",
@@ -211,7 +212,6 @@
     "natsci/paleontology/natsci-paleontology-oxfordshire-dinosaur-tracks-001.md",
     "natsci/paleontology/natsci-paleontology-oxfordshire-trackway-001.md",
     "natsci/paleontology/natsci-paleontology-shishania-chancelloriid-001.md",
-    "natsci/paleontology/natsci-paleontology-whale-necropolis-001.md",
     "natsci/assets/20260313sharklikefishes.png",
     "posts/2025.zip",
     "posts/2025 copy",
