@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intake/sources.md",
+                "file": "intake/README.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "sources"
+              "title": "README"
             }
           }
         ]
@@ -185,9 +185,14 @@
   },
   "active": "dda31f6b1cf652b9",
   "lastOpenFiles": [
-    "intake/build.py",
-    "intake/README.md",
     "intake/sources.md",
+    "intake/README.md",
+    "README.md",
+    "blogops/docs/post-publish-trigger.md",
+    "blogops/docs/auto-translation-shortcut.md",
+    "blogops/docs/auto-index.md",
+    "blogops/docs/auto-draft-frontmatter.md",
+    "intake/build.py",
     "intake/sources_with_source_cap.md",
     "intake/sources_merged_draft.md",
     "intake/sources_merged_complete_review.md",
@@ -207,10 +212,6 @@
     "natsci/paleontology/natsci-paleontology-shishania-chancelloriid-001.md",
     "natsci/paleontology/natsci-paleontology-whale-necropolis-001.md",
     "blogops/system-map.md",
-    "README.md",
-    "posts/index.md",
-    "posts/2025/2025-04-03-开发日志已更新！.md",
-    "posts/2025/2025-03-31-更新预告：如何翻译 “ Profiling ”.md",
     "natsci/assets/20260313sharklikefishes.png",
     "posts/2025.zip",
     "posts/2025 copy",
