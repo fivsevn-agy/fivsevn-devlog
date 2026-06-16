@@ -163,64 +163,6 @@ reference:
   - communities_discussion
 ```
 
-```display
-max_items_per_section: 24
-default_source_cap: 6
-section_caps:
-  world_society: 30
-  prices_markets: 18
-  energy_resources: 18
-  food_agriculture_markets: 18
-  housing_living_costs: 14
-  supply_chains_trade: 18
-  industry_business: 18
-  money_finance: 20
-  public_ideas: 18
-  scholarly_ideas: 18
-  civilizational_critique: 16
-  books: 18
-  film_moving_image: 16
-  music_sound: 16
-  photography: 10
-  arts_design: 18
-  architecture_urbanism: 16
-  games: 16
-  fashion_style: 14
-  human_societies: 18
-  mind: 14
-  science_news: 24
-  science_magazines: 18
-  research: 30
-  space_astronomy: 18
-  natural_history: 18
-  ecology_conservation: 18
-  animal_behavior: 14
-  marine_life: 20
-  fish_ichthyology: 10
-  mollusks: 16
-  arthropods: 25
-  plants_fungi: 16
-  minerals_geology: 8
-  ai_systems: 24
-  computing_cultures: 20
-  platforms_infrastructure: 18
-  interfaces_media_technology: 18
-  cybernetics_automation: 14
-  hardware_radio_embedded: 18
-  ham_radio: 12
-  technology_politics: 18
-  field_gear: 16
-  everyday_carry: 12
-  tools_workshop: 16
-  repair_maintenance: 12
-  manuals: 8
-  reference_pool: 10
-  maps_geo_data: 10
-  document_search: 8
-  rss_feed_management: 8
-  archives_aggregators: 12
-  communities_discussion: 10
-```
 
 <a id="world"></a>
 
@@ -241,6 +183,7 @@ description_zh: ''
 name: Google News
 section: media_lens
 feed_url: ''
+source_cap: 0
 site_url: https://news.google.com/
 source_type: reference_tool
 authority_level: aggregator
@@ -253,6 +196,7 @@ use_role: reference
 name: Yahoo News
 section: media_lens
 feed_url: ''
+source_cap: 0
 site_url: https://news.yahoo.com/
 source_type: reference_tool
 authority_level: aggregator
@@ -265,6 +209,7 @@ use_role: reference
 name: NewsNow
 section: media_lens
 feed_url: ''
+source_cap: 0
 site_url: https://www.newsnow.co.uk/
 source_type: reference_tool
 authority_level: aggregator
@@ -277,6 +222,7 @@ use_role: reference
 name: News Now
 section: media_lens
 feed_url: ''
+source_cap: 0
 site_url: https://newsnow.busiyi.world
 source_type: reference_tool
 authority_level: aggregator
@@ -289,6 +235,7 @@ use_role: reference
 name: Real Time
 section: media_lens
 feed_url: ''
+source_cap: 0
 site_url: http://realtime.info
 source_type: reference_tool
 authority_level: aggregator
@@ -301,6 +248,7 @@ use_role: reference
 name: Buzzing
 section: media_lens
 feed_url: ''
+source_cap: 0
 site_url: https://www.buzzing.cc
 source_type: reference_tool
 authority_level: aggregator
@@ -313,6 +261,7 @@ use_role: reference
 name: 嘎!RSS
 section: media_lens
 feed_url: ''
+source_cap: 0
 site_url: https://zhaoolee.com/garss/#/
 source_type: reference_tool
 authority_level: aggregator
@@ -325,6 +274,7 @@ use_role: reference
 name: 今日热榜
 section: media_lens
 feed_url: ''
+source_cap: 0
 site_url: https://tophub.today
 source_type: reference_tool
 authority_level: aggregator
@@ -337,6 +287,7 @@ use_role: reference
 name: Ground News
 section: media_lens
 feed_url: ''
+source_cap: 0
 site_url: https://ground.news/
 source_type: reference_tool
 authority_level: aggregator
@@ -349,6 +300,7 @@ use_role: reference
 name: AllSides
 section: media_lens
 feed_url: ''
+source_cap: 0
 site_url: https://www.allsides.com/
 source_type: reference_tool
 authority_level: aggregator
@@ -361,6 +313,7 @@ use_role: reference
 name: Ad Fontes Media
 section: media_lens
 feed_url: ''
+source_cap: 0
 site_url: https://adfontesmedia.com/
 source_type: reference_tool
 authority_level: aggregator
@@ -373,6 +326,7 @@ use_role: reference
 name: The Flip Side
 section: media_lens
 feed_url: ''
+source_cap: 0
 site_url: https://www.theflipside.io/
 source_type: reference_tool
 authority_level: aggregator
@@ -385,6 +339,7 @@ use_role: reference
 name: Tangle
 section: media_lens
 feed_url: ''
+source_cap: 0
 site_url: https://www.readtangle.com/
 source_type: reference_tool
 authority_level: aggregator
@@ -397,6 +352,7 @@ use_role: reference
 name: Verity / Improve the News
 section: media_lens
 feed_url: ''
+source_cap: 0
 site_url: https://www.improvethenews.org/
 source_type: reference_tool
 authority_level: aggregator
@@ -409,6 +365,7 @@ use_role: reference
 name: Biasly
 section: media_lens
 feed_url: ''
+source_cap: 0
 site_url: https://www.biasly.com/
 source_type: reference_tool
 authority_level: aggregator
@@ -421,6 +378,7 @@ use_role: reference
 name: SmartNews
 section: media_lens
 feed_url: ''
+source_cap: 0
 site_url: https://www.smartnews.com/en
 source_type: reference_tool
 authority_level: aggregator
@@ -433,6 +391,7 @@ use_role: reference
 name: Mediagazer
 section: media_lens
 feed_url: https://www.mediagazer.com/feed.xml
+source_cap: 6
 site_url: https://www.mediagazer.com/
 source_type: reference_tool
 authority_level: aggregator
@@ -445,6 +404,7 @@ use_role: reference
 name: Nieman Journalism Lab
 section: media_lens
 feed_url: https://www.niemanlab.org/feed/
+source_cap: 6
 site_url: https://www.niemanlab.org/
 source_type: reference_tool
 authority_level: aggregator
@@ -457,6 +417,7 @@ use_role: reference
 name: Nieman Reports
 section: media_lens
 feed_url: https://niemanreports.org/feed/
+source_cap: 6
 site_url: https://niemanreports.org/
 source_type: reference_tool
 authority_level: aggregator
@@ -469,6 +430,7 @@ use_role: reference
 name: EuroTopics
 section: media_lens
 feed_url: ''
+source_cap: 0
 site_url: https://www.eurotopics.net/
 source_type: reference_tool
 authority_level: aggregator
@@ -481,6 +443,7 @@ use_role: reference
 name: World News Map
 section: media_lens
 feed_url: ''
+source_cap: 0
 site_url: https://www.map.news/
 source_type: reference_tool
 authority_level: aggregator
@@ -494,6 +457,7 @@ use_role: reference
 name: Columbia Journalism Review
 section: media_lens
 feed_url: https://www.cjr.org/feed
+source_cap: 6
 site_url: https://www.cjr.org/
 source_type: specialist_media
 authority_level: specialist
@@ -506,6 +470,7 @@ use_role: reference
 name: Poynter
 section: media_lens
 feed_url: https://www.poynter.org/feed/
+source_cap: 6
 site_url: https://www.poynter.org/
 source_type: specialist_media
 authority_level: specialist
@@ -518,6 +483,7 @@ use_role: reference
 name: Press Gazette
 section: media_lens
 feed_url: https://pressgazette.co.uk/feed/
+source_cap: 6
 site_url: https://pressgazette.co.uk/
 source_type: specialist_media
 authority_level: specialist
@@ -530,6 +496,7 @@ use_role: reference
 name: Journalism.co.uk
 section: media_lens
 feed_url: https://www.journalism.co.uk/rss/1/s2/
+source_cap: 6
 site_url: https://www.journalism.co.uk/
 source_type: specialist_media
 authority_level: specialist
@@ -553,6 +520,7 @@ description_zh: ''
 name: Reuters
 section: world_society
 feed_url: https://www.reuters.com/arc/outboundfeeds/rss/?outputType=xml
+source_cap: 6
 site_url: https://www.reuters.com/
 source_type: wire_service
 authority_level: generalist
@@ -565,6 +533,7 @@ use_role: baseline
 name: Reuters World
 section: world_society
 feed_url: https://www.reuters.com/arc/outboundfeeds/rss/category/world/?outputType=xml
+source_cap: 6
 site_url: https://www.reuters.com/world/
 source_type: wire_service
 authority_level: generalist
@@ -577,6 +546,7 @@ use_role: baseline
 name: Reuters U.S.
 section: world_society
 feed_url: https://www.reuters.com/arc/outboundfeeds/rss/category/world/us/?outputType=xml
+source_cap: 6
 site_url: https://www.reuters.com/world/us/
 source_type: wire_service
 authority_level: generalist
@@ -589,6 +559,7 @@ use_role: baseline
 name: Associated Press / AP
 section: world_society
 feed_url: https://apnews.com/hub/ap-top-news?output=rss
+source_cap: 6
 site_url: https://apnews.com/
 source_type: wire_service
 authority_level: generalist
@@ -601,6 +572,7 @@ use_role: baseline
 name: AP World
 section: world_society
 feed_url: https://apnews.com/hub/world-news?output=rss
+source_cap: 6
 site_url: https://apnews.com/hub/world-news
 source_type: wire_service
 authority_level: generalist
@@ -613,6 +585,7 @@ use_role: baseline
 name: AP U.S. News
 section: world_society
 feed_url: https://apnews.com/hub/us-news?output=rss
+source_cap: 6
 site_url: https://apnews.com/hub/us-news
 source_type: wire_service
 authority_level: generalist
@@ -625,6 +598,7 @@ use_role: baseline
 name: Agence France-Presse / AFP
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://www.afp.com/
 source_type: wire_service
 authority_level: generalist
@@ -637,6 +611,7 @@ use_role: baseline
 name: DPA 德新社
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://www.dpa.com/
 source_type: wire_service
 authority_level: generalist
@@ -649,6 +624,7 @@ use_role: baseline
 name: Kyodo 共同通信
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://english.kyodonews.net/
 source_type: wire_service
 authority_level: generalist
@@ -661,6 +637,7 @@ use_role: baseline
 name: Jiji Press 时事通信社
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://www.jiji.com/
 source_type: wire_service
 authority_level: generalist
@@ -673,6 +650,7 @@ use_role: baseline
 name: TASS 塔斯社
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://tass.com/
 source_type: wire_service
 authority_level: generalist
@@ -685,6 +663,7 @@ use_role: baseline
 name: Xinhua 新华社
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: http://www.xinhuanet.com/english/
 source_type: wire_service
 authority_level: generalist
@@ -697,6 +676,7 @@ use_role: baseline
 name: EFE
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://efe.com/
 source_type: wire_service
 authority_level: generalist
@@ -709,6 +689,7 @@ use_role: baseline
 name: ANSA
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://www.ansa.it/english/
 source_type: wire_service
 authority_level: generalist
@@ -721,6 +702,7 @@ use_role: baseline
 name: BBC
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://www.bbc.com/
 source_type: public_broadcaster
 authority_level: generalist
@@ -733,6 +715,7 @@ use_role: baseline
 name: BBC World
 section: world_society
 feed_url: https://feeds.bbci.co.uk/news/world/rss.xml
+source_cap: 6
 site_url: https://www.bbc.com/news/world
 source_type: public_broadcaster
 authority_level: generalist
@@ -745,6 +728,7 @@ use_role: baseline
 name: CNN
 section: world_society
 feed_url: http://rss.cnn.com/rss/edition.rss
+source_cap: 6
 site_url: https://www.cnn.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -757,6 +741,7 @@ use_role: baseline
 name: NBC News
 section: world_society
 feed_url: https://feeds.nbcnews.com/nbcnews/public/news
+source_cap: 6
 site_url: https://www.nbcnews.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -769,6 +754,7 @@ use_role: baseline
 name: CBS News
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://www.cbsnews.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -781,6 +767,7 @@ use_role: baseline
 name: ABC News
 section: world_society
 feed_url: https://abcnews.go.com/abcnews/topstories
+source_cap: 6
 site_url: https://abcnews.go.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -793,6 +780,7 @@ use_role: baseline
 name: DW News
 section: world_society
 feed_url: https://rss.dw.com/rdf/rss-en-all
+source_cap: 6
 site_url: https://www.dw.com/en/top-stories/s-9097
 source_type: public_broadcaster
 authority_level: generalist
@@ -805,6 +793,7 @@ use_role: baseline
 name: France 24
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://www.france24.com/en/
 source_type: public_broadcaster
 authority_level: generalist
@@ -817,6 +806,7 @@ use_role: baseline
 name: Sky News
 section: world_society
 feed_url: https://feeds.skynews.com/feeds/rss/world.xml
+source_cap: 6
 site_url: https://news.sky.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -829,6 +819,7 @@ use_role: baseline
 name: Al Jazeera
 section: world_society
 feed_url: https://www.aljazeera.com/xml/rss/all.xml
+source_cap: 6
 site_url: https://www.aljazeera.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -841,6 +832,7 @@ use_role: baseline
 name: TRT World
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://www.trtworld.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -853,6 +845,7 @@ use_role: baseline
 name: CGTN
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://www.cgtn.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -865,6 +858,7 @@ use_role: baseline
 name: CBC World
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://www.cbc.ca/news/world
 source_type: public_broadcaster
 authority_level: generalist
@@ -877,6 +871,7 @@ use_role: baseline
 name: NHK News
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://www3.nhk.or.jp/news/
 source_type: public_broadcaster
 authority_level: generalist
@@ -889,6 +884,7 @@ use_role: baseline
 name: Euronews
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://www.euronews.com/news
 source_type: public_broadcaster
 authority_level: generalist
@@ -901,6 +897,7 @@ use_role: baseline
 name: AllAfrica
 section: world_society
 feed_url: https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf
+source_cap: 6
 site_url: https://allafrica.com/
 source_type: public_broadcaster
 authority_level: generalist
@@ -913,6 +910,7 @@ use_role: baseline
 name: Africanews
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://www.africanews.com/
 source_type: public_broadcaster
 authority_level: generalist
@@ -925,6 +923,7 @@ use_role: baseline
 name: The New York Times
 section: world_society
 feed_url: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+source_cap: 6
 site_url: https://www.nytimes.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -937,6 +936,7 @@ use_role: baseline
 name: The Washington Post
 section: world_society
 feed_url: https://feeds.washingtonpost.com/rss/world
+source_cap: 6
 site_url: https://www.washingtonpost.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -949,6 +949,7 @@ use_role: baseline
 name: USA Today
 section: world_society
 feed_url: https://rssfeeds.usatoday.com/usatoday-NewsTopStories
+source_cap: 6
 site_url: https://www.usatoday.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -961,6 +962,7 @@ use_role: baseline
 name: The Times
 section: world_society
 feed_url: https://www.thetimes.co.uk/rss
+source_cap: 6
 site_url: https://www.thetimes.co.uk/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -973,6 +975,7 @@ use_role: baseline
 name: The Telegraph
 section: world_society
 feed_url: https://www.telegraph.co.uk/rss.xml
+source_cap: 6
 site_url: https://www.telegraph.co.uk/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -985,6 +988,7 @@ use_role: baseline
 name: The Guardian
 section: world_society
 feed_url: https://www.theguardian.com/world/rss
+source_cap: 6
 site_url: https://www.theguardian.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -997,6 +1001,7 @@ use_role: baseline
 name: The Guardian World
 section: world_society
 feed_url: https://www.theguardian.com/world/rss
+source_cap: 6
 site_url: https://www.theguardian.com/world
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1009,6 +1014,7 @@ use_role: baseline
 name: Frankfurter Allgemeine Zeitung / FAZ
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://www.faz.net/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1021,6 +1027,7 @@ use_role: baseline
 name: Süddeutsche Zeitung
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://www.sueddeutsche.de/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1033,6 +1040,7 @@ use_role: baseline
 name: Die Zeit
 section: world_society
 feed_url: https://newsfeed.zeit.de/index
+source_cap: 6
 site_url: https://www.zeit.de/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1045,6 +1053,7 @@ use_role: baseline
 name: Le Monde
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://www.lemonde.fr/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1057,6 +1066,7 @@ use_role: baseline
 name: Le Monde English – Europe
 section: world_society
 feed_url: https://www.lemonde.fr/en/europe/rss_full.xml
+source_cap: 6
 site_url: https://www.lemonde.fr/en/europe/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1069,6 +1079,7 @@ use_role: baseline
 name: Le Figaro
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://www.lefigaro.fr/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1081,6 +1092,7 @@ use_role: baseline
 name: Libération
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://www.liberation.fr/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1093,6 +1105,7 @@ use_role: baseline
 name: Yomiuri Shimbun
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://www.yomiuri.co.jp/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1105,6 +1118,7 @@ use_role: baseline
 name: Asahi Shimbun
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://www.asahi.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1117,6 +1131,7 @@ use_role: baseline
 name: Mainichi Shimbun
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://mainichi.jp/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1129,6 +1144,7 @@ use_role: baseline
 name: Nikkei
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://www.nikkei.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1141,6 +1157,7 @@ use_role: baseline
 name: Tokyo Shimbun
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://www.tokyo-np.co.jp/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1153,6 +1170,7 @@ use_role: baseline
 name: The Japan Times
 section: world_society
 feed_url: https://www.japantimes.co.jp/feed/
+source_cap: 6
 site_url: https://www.japantimes.co.jp/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1165,6 +1183,7 @@ use_role: baseline
 name: South China Morning Post
 section: world_society
 feed_url: https://www.scmp.com/rss/91/feed
+source_cap: 6
 site_url: https://www.scmp.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1177,6 +1196,7 @@ use_role: baseline
 name: SCMP China
 section: world_society
 feed_url: https://www.scmp.com/rss/4/feed
+source_cap: 6
 site_url: https://www.scmp.com/news/china
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1189,6 +1209,7 @@ use_role: baseline
 name: 联合早报 Zaobao
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://www.zaobao.com.sg/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1201,6 +1222,7 @@ use_role: baseline
 name: Caixin
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://www.caixin.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1213,6 +1235,7 @@ use_role: baseline
 name: Caixin Weekly
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://weekly.caixin.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1225,6 +1248,7 @@ use_role: baseline
 name: The Paper 澎湃新闻
 section: world_society
 feed_url: https://feedx.net/rss/thepaper.xml
+source_cap: 6
 site_url: https://www.thepaper.cn/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1237,6 +1261,7 @@ use_role: baseline
 name: 南方周末
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: http://www.infzm.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1249,6 +1274,7 @@ use_role: baseline
 name: The Hindu
 section: world_society
 feed_url: https://www.thehindu.com/news/international/feeder/default.rss
+source_cap: 6
 site_url: https://www.thehindu.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1261,6 +1287,7 @@ use_role: baseline
 name: The Times of India
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://timesofindia.indiatimes.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1273,6 +1300,7 @@ use_role: baseline
 name: The Straits Times
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://www.straitstimes.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1285,6 +1313,7 @@ use_role: baseline
 name: The Straits Times – Asia
 section: world_society
 feed_url: https://www.straitstimes.com/news/asia/rss.xml
+source_cap: 6
 site_url: https://www.straitstimes.com/asia
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1297,6 +1326,7 @@ use_role: baseline
 name: The Jakarta Post
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://www.thejakartapost.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1309,6 +1339,7 @@ use_role: baseline
 name: Channel News Asia – Asia
 section: world_society
 feed_url: https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6511
+source_cap: 6
 site_url: https://www.channelnewsasia.com/asia
 source_type: public_broadcaster
 authority_level: generalist
@@ -1321,6 +1352,7 @@ use_role: baseline
 name: Korea Herald
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://www.koreaherald.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1333,6 +1365,7 @@ use_role: baseline
 name: Dawn
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://www.dawn.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1345,6 +1378,7 @@ use_role: baseline
 name: Scroll.in
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://scroll.in/latest
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1357,6 +1391,7 @@ use_role: baseline
 name: Al-Monitor
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://www.al-monitor.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1369,6 +1404,7 @@ use_role: baseline
 name: Middle East Eye
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://www.middleeasteye.net/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1381,6 +1417,7 @@ use_role: baseline
 name: L’Orient Today
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://today.lorientlejour.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1393,6 +1430,7 @@ use_role: baseline
 name: El País América
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://elpais.com/america/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1405,6 +1443,7 @@ use_role: baseline
 name: Latinvex
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://latinvex.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1417,6 +1456,7 @@ use_role: baseline
 name: International Crisis Group
 section: world_society
 feed_url: https://www.crisisgroup.org/rss.xml
+source_cap: 6
 site_url: https://www.crisisgroup.org/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1429,6 +1469,7 @@ use_role: baseline
 name: Crisis Group – Middle East & North Africa
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://www.crisisgroup.org/middle-east-north-africa
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1441,6 +1482,7 @@ use_role: baseline
 name: Bellingcat
 section: world_society
 feed_url: https://www.bellingcat.com/feed/
+source_cap: 6
 site_url: https://www.bellingcat.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1453,6 +1495,7 @@ use_role: baseline
 name: ProPublica
 section: world_society
 feed_url: https://feeds.propublica.org/propublica/main
+source_cap: 6
 site_url: https://www.propublica.org/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1465,6 +1508,7 @@ use_role: baseline
 name: Council on Foreign Relations
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://www.cfr.org/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1477,6 +1521,7 @@ use_role: baseline
 name: European Council on Foreign Relations
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://ecfr.eu/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1489,6 +1534,7 @@ use_role: baseline
 name: Politico
 section: world_society
 feed_url: https://www.politico.com/rss/politicopicks.xml
+source_cap: 6
 site_url: https://www.politico.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1501,6 +1547,7 @@ use_role: baseline
 name: POLITICO Europe
 section: world_society
 feed_url: https://www.politico.eu/feed/
+source_cap: 6
 site_url: https://www.politico.eu/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1513,6 +1560,7 @@ use_role: baseline
 name: Foreign Policy
 section: world_society
 feed_url: https://foreignpolicy.com/feed/
+source_cap: 6
 site_url: https://foreignpolicy.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1525,6 +1573,7 @@ use_role: baseline
 name: Project Syndicate
 section: world_society
 feed_url: https://www.project-syndicate.org/rss
+source_cap: 6
 site_url: https://www.project-syndicate.org/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1537,6 +1586,7 @@ use_role: baseline
 name: The Diplomat – Southeast Asia
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://thediplomat.com/category/regions/southeast-asia/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1549,6 +1599,7 @@ use_role: baseline
 name: Americas Quarterly
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://www.americasquarterly.org/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1561,6 +1612,7 @@ use_role: baseline
 name: NACLA
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://nacla.org/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1573,6 +1625,7 @@ use_role: baseline
 name: African Arguments
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://africanarguments.org/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1585,6 +1638,7 @@ use_role: baseline
 name: ISS Africa
 section: world_society
 feed_url: ''
+source_cap: 0
 site_url: https://issafrica.org/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1598,6 +1652,7 @@ use_role: baseline
 name: NPR World
 section: world_society
 feed_url: https://feeds.npr.org/1004/rss.xml
+source_cap: 6
 site_url: https://www.npr.org/sections/world/
 source_type: public_broadcaster
 authority_level: generalist
@@ -1610,6 +1665,7 @@ use_role: baseline
 name: PBS NewsHour World
 section: world_society
 feed_url: https://www.pbs.org/newshour/feeds/rss/world
+source_cap: 6
 site_url: https://www.pbs.org/newshour/world
 source_type: public_broadcaster
 authority_level: generalist
@@ -1622,6 +1678,7 @@ use_role: baseline
 name: UN News
 section: world_society
 feed_url: https://news.un.org/feed/subscribe/en/news/all/rss.xml
+source_cap: 6
 site_url: https://news.un.org/en/
 source_type: institutional
 authority_level: primary
@@ -1634,6 +1691,7 @@ use_role: baseline
 name: Human Rights Watch
 section: world_society
 feed_url: https://www.hrw.org/rss/news
+source_cap: 6
 site_url: https://www.hrw.org/
 source_type: specialist_media
 authority_level: specialist
@@ -1646,6 +1704,7 @@ use_role: signal
 name: Amnesty International News
 section: world_society
 feed_url: https://www.amnesty.org/en/latest/news/feed/
+source_cap: 6
 site_url: https://www.amnesty.org/en/latest/news/
 source_type: specialist_media
 authority_level: specialist
@@ -1658,6 +1717,7 @@ use_role: signal
 name: UNHCR News
 section: world_society
 feed_url: https://www.unhcr.org/news/rss.xml
+source_cap: 6
 site_url: https://www.unhcr.org/news/
 source_type: institutional
 authority_level: primary
@@ -1685,6 +1745,7 @@ description_zh: ''
 name: World Bank Commodity Markets
 section: prices_markets
 feed_url: https://www.worldbank.org/en/research/commodity-markets/rss
+source_cap: 6
 site_url: https://www.worldbank.org/en/research/commodity-markets
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1697,6 +1758,7 @@ use_role: baseline
 name: IMF Primary Commodity Prices
 section: prices_markets
 feed_url: ''
+source_cap: 0
 site_url: https://www.imf.org/en/research/commodity-prices
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1709,6 +1771,7 @@ use_role: baseline
 name: FRED Commodities
 section: prices_markets
 feed_url: ''
+source_cap: 0
 site_url: https://fred.stlouisfed.org/categories/32217
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1721,6 +1784,7 @@ use_role: baseline
 name: Trading Economics Commodities
 section: prices_markets
 feed_url: ''
+source_cap: 0
 site_url: https://tradingeconomics.com/commodities
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1733,6 +1797,7 @@ use_role: baseline
 name: Investing.com Commodities
 section: prices_markets
 feed_url: ''
+source_cap: 0
 site_url: https://www.investing.com/commodities/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1745,6 +1810,7 @@ use_role: baseline
 name: Our World in Data
 section: prices_markets
 feed_url: https://ourworldindata.org/atom.xml
+source_cap: 6
 site_url: https://ourworldindata.org/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1758,6 +1824,7 @@ use_role: baseline
 name: World Bank Data Blog
 section: prices_markets
 feed_url: https://blogs.worldbank.org/en/opendata/feed
+source_cap: 6
 site_url: https://blogs.worldbank.org/en/opendata
 source_type: institutional
 authority_level: primary
@@ -1781,6 +1848,7 @@ description_zh: ''
 name: EIA Today in Energy
 section: energy_resources
 feed_url: https://www.eia.gov/rss/todayinenergy.xml
+source_cap: 6
 site_url: https://www.eia.gov/todayinenergy/
 source_type: newspaper_magazine
 authority_level: primary
@@ -1793,6 +1861,7 @@ use_role: baseline
 name: EIA What's New
 section: energy_resources
 feed_url: ''
+source_cap: 0
 site_url: https://www.eia.gov/about/new/
 source_type: newspaper_magazine
 authority_level: primary
@@ -1805,6 +1874,7 @@ use_role: baseline
 name: IEA News
 section: energy_resources
 feed_url: ''
+source_cap: 0
 site_url: https://www.iea.org/news
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1817,6 +1887,7 @@ use_role: baseline
 name: Oilprice.com
 section: energy_resources
 feed_url: https://oilprice.com/rss/main
+source_cap: 6
 site_url: https://oilprice.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1829,6 +1900,7 @@ use_role: baseline
 name: Reuters Energy
 section: energy_resources
 feed_url: ''
+source_cap: 0
 site_url: https://www.reuters.com/business/energy/
 source_type: wire_service
 authority_level: generalist
@@ -1841,6 +1913,7 @@ use_role: baseline
 name: Carbon Brief
 section: energy_resources
 feed_url: ''
+source_cap: 0
 site_url: https://www.carbonbrief.org/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1864,6 +1937,7 @@ description_zh: ''
 name: FAO Food Price Index
 section: food_agriculture_markets
 feed_url: ''
+source_cap: 0
 site_url: https://www.fao.org/worldfoodsituation/foodpricesindex/en/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1876,6 +1950,7 @@ use_role: baseline
 name: FAO Food Price Monitoring
 section: food_agriculture_markets
 feed_url: ''
+source_cap: 0
 site_url: https://www.fao.org/giews/food-prices/home/en/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1888,6 +1963,7 @@ use_role: baseline
 name: USDA ERS
 section: food_agriculture_markets
 feed_url: ''
+source_cap: 0
 site_url: https://www.ers.usda.gov/
 source_type: newspaper_magazine
 authority_level: primary
@@ -1900,6 +1976,7 @@ use_role: baseline
 name: USDA WASDE
 section: food_agriculture_markets
 feed_url: ''
+source_cap: 0
 site_url: https://www.usda.gov/oce/commodity/wasde
 source_type: newspaper_magazine
 authority_level: primary
@@ -1912,6 +1989,7 @@ use_role: baseline
 name: Food Business News
 section: food_agriculture_markets
 feed_url: ''
+source_cap: 0
 site_url: https://www.foodbusinessnews.net/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1924,6 +2002,7 @@ use_role: baseline
 name: World Grain
 section: food_agriculture_markets
 feed_url: ''
+source_cap: 0
 site_url: https://www.world-grain.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1947,6 +2026,7 @@ description_zh: ''
 name: BLS CPI Average Prices
 section: housing_living_costs
 feed_url: ''
+source_cap: 0
 site_url: https://www.bls.gov/cpi/factsheets/average-prices.htm
 source_type: newspaper_magazine
 authority_level: primary
@@ -1959,6 +2039,7 @@ use_role: baseline
 name: FRED CPI
 section: housing_living_costs
 feed_url: ''
+source_cap: 0
 site_url: https://fred.stlouisfed.org/categories/9
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1971,6 +2052,7 @@ use_role: baseline
 name: Zillow Research
 section: housing_living_costs
 feed_url: ''
+source_cap: 0
 site_url: https://www.zillow.com/research/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1983,6 +2065,7 @@ use_role: baseline
 name: Apartment List Research
 section: housing_living_costs
 feed_url: ''
+source_cap: 0
 site_url: https://www.apartmentlist.com/research
 source_type: newspaper_magazine
 authority_level: generalist
@@ -1995,6 +2078,7 @@ use_role: baseline
 name: Numbeo Cost of Living
 section: housing_living_costs
 feed_url: ''
+source_cap: 0
 site_url: https://www.numbeo.com/cost-of-living/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -2018,6 +2102,7 @@ description_zh: ''
 name: FreightWaves
 section: supply_chains_trade
 feed_url: https://www.freightwaves.com/news/feed
+source_cap: 6
 site_url: https://www.freightwaves.com/news
 source_type: newspaper_magazine
 authority_level: generalist
@@ -2030,6 +2115,7 @@ use_role: baseline
 name: The Loadstar
 section: supply_chains_trade
 feed_url: https://theloadstar.com/feed/
+source_cap: 6
 site_url: https://theloadstar.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -2042,6 +2128,7 @@ use_role: baseline
 name: gCaptain
 section: supply_chains_trade
 feed_url: ''
+source_cap: 0
 site_url: https://gcaptain.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -2054,6 +2141,7 @@ use_role: baseline
 name: Supply Chain Dive
 section: supply_chains_trade
 feed_url: ''
+source_cap: 0
 site_url: https://www.supplychaindive.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -2066,6 +2154,7 @@ use_role: baseline
 name: Port Technology
 section: supply_chains_trade
 feed_url: ''
+source_cap: 0
 site_url: https://www.porttechnology.org/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -2079,6 +2168,7 @@ use_role: baseline
 name: WTO News
 section: supply_chains_trade
 feed_url: https://www.wto.org/english/news_e/news_e.rss
+source_cap: 6
 site_url: https://www.wto.org/english/news_e/news_e.htm
 source_type: institutional
 authority_level: primary
@@ -2091,6 +2181,7 @@ use_role: baseline
 name: Supply Chain Management Review
 section: supply_chains_trade
 feed_url: https://www.scmr.com/rss/topic/all
+source_cap: 6
 site_url: https://www.scmr.com/
 source_type: trade_publication
 authority_level: specialist
@@ -2103,6 +2194,7 @@ use_role: baseline
 name: Logistics Management
 section: supply_chains_trade
 feed_url: https://www.logisticsmgmt.com/rss/topic/all
+source_cap: 6
 site_url: https://www.logisticsmgmt.com/
 source_type: trade_publication
 authority_level: specialist
@@ -2126,6 +2218,7 @@ description_zh: ''
 name: Marketplace
 section: industry_business
 feed_url: https://www.marketplace.org/feed/
+source_cap: 6
 site_url: https://www.marketplace.org/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -2138,6 +2231,7 @@ use_role: baseline
 name: Retail Dive
 section: industry_business
 feed_url: ''
+source_cap: 0
 site_url: https://www.retaildive.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -2150,6 +2244,7 @@ use_role: baseline
 name: Modern Retail
 section: industry_business
 feed_url: ''
+source_cap: 0
 site_url: https://www.modernretail.co/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -2162,6 +2257,7 @@ use_role: baseline
 name: Business of Fashion
 section: industry_business
 feed_url: https://www.businessoffashion.com/arc/outboundfeeds/rss/?outputType=xml
+source_cap: 6
 site_url: https://www.businessoffashion.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -2174,6 +2270,7 @@ use_role: baseline
 name: Harvard Business Review
 section: industry_business
 feed_url: https://hbr.org/rss
+source_cap: 6
 site_url: https://hbr.org/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -2187,6 +2284,7 @@ use_role: baseline
 name: World Bank Blogs
 section: industry_business
 feed_url: https://blogs.worldbank.org/en/feed
+source_cap: 6
 site_url: https://blogs.worldbank.org/en
 source_type: institutional
 authority_level: primary
@@ -2210,6 +2308,7 @@ description_zh: ''
 name: Bank for International Settlements
 section: money_finance
 feed_url: https://www.bis.org/list/press_releases/index.rss
+source_cap: 6
 site_url: https://www.bis.org/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -2222,6 +2321,7 @@ use_role: baseline
 name: IMF Blog
 section: money_finance
 feed_url: https://www.imf.org/en/Blogs/RSS
+source_cap: 6
 site_url: https://www.imf.org/en/Blogs
 source_type: newspaper_magazine
 authority_level: generalist
@@ -2234,6 +2334,7 @@ use_role: baseline
 name: Federal Reserve Press Releases
 section: money_finance
 feed_url: https://www.federalreserve.gov/feeds/press_all.xml
+source_cap: 6
 site_url: https://www.federalreserve.gov/newsevents/pressreleases.htm
 source_type: newspaper_magazine
 authority_level: primary
@@ -2246,6 +2347,7 @@ use_role: baseline
 name: Financial Times
 section: money_finance
 feed_url: ''
+source_cap: 0
 site_url: https://www.ft.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -2258,6 +2360,7 @@ use_role: baseline
 name: Financial Times Markets
 section: money_finance
 feed_url: https://www.ft.com/markets?format=rss
+source_cap: 6
 site_url: https://www.ft.com/markets
 source_type: newspaper_magazine
 authority_level: generalist
@@ -2270,6 +2373,7 @@ use_role: baseline
 name: Wall Street Journal
 section: money_finance
 feed_url: ''
+source_cap: 0
 site_url: https://www.wsj.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -2282,6 +2386,7 @@ use_role: baseline
 name: Bloomberg
 section: money_finance
 feed_url: ''
+source_cap: 0
 site_url: https://www.bloomberg.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -2294,6 +2399,7 @@ use_role: baseline
 name: Reuters Markets
 section: money_finance
 feed_url: ''
+source_cap: 0
 site_url: https://www.reuters.com/markets/
 source_type: wire_service
 authority_level: generalist
@@ -2306,6 +2412,7 @@ use_role: baseline
 name: CEPR VoxEU
 section: money_finance
 feed_url: https://cepr.org/rss/vox-content
+source_cap: 6
 site_url: https://cepr.org/voxeu
 source_type: newspaper_magazine
 authority_level: generalist
@@ -2318,6 +2425,7 @@ use_role: baseline
 name: CEPR Discussion Papers
 section: money_finance
 feed_url: ''
+source_cap: 0
 site_url: https://cepr.org/research/discussion-papers
 source_type: newspaper_magazine
 authority_level: generalist
@@ -2330,6 +2438,7 @@ use_role: baseline
 name: European Central Bank
 section: money_finance
 feed_url: ''
+source_cap: 0
 site_url: https://www.ecb.europa.eu/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -2342,6 +2451,7 @@ use_role: baseline
 name: NBER
 section: money_finance
 feed_url: https://www.nber.org/rss/new.xml
+source_cap: 6
 site_url: https://www.nber.org/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -2354,6 +2464,7 @@ use_role: baseline
 name: Nikkei Asia
 section: money_finance
 feed_url: ''
+source_cap: 0
 site_url: https://asia.nikkei.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -2366,6 +2477,7 @@ use_role: baseline
 name: Caixin Global
 section: money_finance
 feed_url: https://www.caixinglobal.com/rss/
+source_cap: 6
 site_url: https://www.caixinglobal.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -2378,6 +2490,7 @@ use_role: baseline
 name: Handelsblatt
 section: money_finance
 feed_url: ''
+source_cap: 0
 site_url: https://www.handelsblatt.com/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -2390,6 +2503,7 @@ use_role: baseline
 name: Les Echos
 section: money_finance
 feed_url: ''
+source_cap: 0
 site_url: https://www.lesechos.fr/
 source_type: newspaper_magazine
 authority_level: generalist
@@ -2403,6 +2517,7 @@ use_role: baseline
 name: OECD Newsroom
 section: money_finance
 feed_url: https://www.oecd.org/newsroom/publicationsdocuments/rss.xml
+source_cap: 6
 site_url: https://www.oecd.org/newsroom/
 source_type: institutional
 authority_level: primary
@@ -2415,6 +2530,7 @@ use_role: baseline
 name: Bank of England News
 section: money_finance
 feed_url: https://www.bankofengland.co.uk/rss/news
+source_cap: 6
 site_url: https://www.bankofengland.co.uk/news
 source_type: institutional
 authority_level: primary
@@ -2427,6 +2543,7 @@ use_role: baseline
 name: Brookings Economy
 section: money_finance
 feed_url: https://www.brookings.edu/topic/economics/feed/
+source_cap: 6
 site_url: https://www.brookings.edu/topic/economics/
 source_type: specialist_media
 authority_level: specialist
@@ -2454,6 +2571,7 @@ description_zh: ''
 name: Aeon
 section: public_ideas
 feed_url: https://aeon.co/feed.rss
+source_cap: 6
 site_url: https://aeon.co/
 source_type: culture_magazine
 authority_level: commentary
@@ -2466,6 +2584,7 @@ use_role: baseline
 name: Noema Magazine
 section: public_ideas
 feed_url: https://www.noemamag.com/feed/
+source_cap: 6
 site_url: https://www.noemamag.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -2478,6 +2597,7 @@ use_role: baseline
 name: The Marginalian
 section: public_ideas
 feed_url: https://www.themarginalian.org/feed/
+source_cap: 6
 site_url: https://www.themarginalian.org/
 source_type: culture_magazine
 authority_level: commentary
@@ -2490,6 +2610,7 @@ use_role: baseline
 name: Philosophy Now
 section: public_ideas
 feed_url: https://philosophynow.org/rss
+source_cap: 6
 site_url: https://philosophynow.org
 source_type: culture_magazine
 authority_level: commentary
@@ -2502,6 +2623,7 @@ use_role: baseline
 name: 3:16 – Philosophy Magazine
 section: public_ideas
 feed_url: ''
+source_cap: 0
 site_url: https://www.316am.site
 source_type: culture_magazine
 authority_level: commentary
@@ -2514,6 +2636,7 @@ use_role: baseline
 name: The Philosophical Salon
 section: public_ideas
 feed_url: ''
+source_cap: 0
 site_url: https://thephilosophicalsalon.com
 source_type: culture_magazine
 authority_level: commentary
@@ -2526,6 +2649,7 @@ use_role: baseline
 name: Academy of Ideas
 section: public_ideas
 feed_url: ''
+source_cap: 0
 site_url: https://academyofideas.com
 source_type: culture_magazine
 authority_level: commentary
@@ -2538,6 +2662,7 @@ use_role: baseline
 name: LessWrong
 section: public_ideas
 feed_url: https://www.lesswrong.com/feed.xml
+source_cap: 6
 site_url: https://www.lesswrong.com
 source_type: culture_magazine
 authority_level: commentary
@@ -2550,6 +2675,7 @@ use_role: baseline
 name: Big Think
 section: public_ideas
 feed_url: https://bigthink.com/feed/
+source_cap: 6
 site_url: https://bigthink.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -2562,6 +2688,7 @@ use_role: baseline
 name: The Free Press
 section: public_ideas
 feed_url: ''
+source_cap: 0
 site_url: https://www.thefp.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -2574,6 +2701,7 @@ use_role: baseline
 name: Comment Magazine
 section: public_ideas
 feed_url: ''
+source_cap: 0
 site_url: https://comment.org
 source_type: culture_magazine
 authority_level: commentary
@@ -2587,6 +2715,7 @@ use_role: baseline
 name: The Conversation Philosophy
 section: public_ideas
 feed_url: https://theconversation.com/global/topics/philosophy-38/articles.atom
+source_cap: 6
 site_url: https://theconversation.com/global/topics/philosophy-38
 source_type: specialist_media
 authority_level: commentary
@@ -2599,6 +2728,7 @@ use_role: baseline
 name: Boston Review
 section: public_ideas
 feed_url: https://www.bostonreview.net/feed/
+source_cap: 6
 site_url: https://www.bostonreview.net/
 source_type: culture_magazine
 authority_level: commentary
@@ -2611,6 +2741,7 @@ use_role: baseline
 name: Philosopher's Magazine
 section: public_ideas
 feed_url: https://www.philosophersmag.com/rss
+source_cap: 6
 site_url: https://www.philosophersmag.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -2623,6 +2754,7 @@ use_role: baseline
 name: Crooked Timber
 section: public_ideas
 feed_url: https://crookedtimber.org/feed/
+source_cap: 6
 site_url: https://crookedtimber.org/
 source_type: culture_magazine
 authority_level: commentary
@@ -2646,6 +2778,7 @@ description_zh: ''
 name: JSTOR Daily
 section: scholarly_ideas
 feed_url: https://daily.jstor.org/feed/
+source_cap: 6
 site_url: https://daily.jstor.org/
 source_type: culture_magazine
 authority_level: commentary
@@ -2658,6 +2791,7 @@ use_role: baseline
 name: Public Books
 section: scholarly_ideas
 feed_url: https://www.publicbooks.org/feed/
+source_cap: 6
 site_url: https://www.publicbooks.org/
 source_type: culture_magazine
 authority_level: commentary
@@ -2670,6 +2804,7 @@ use_role: baseline
 name: LSE Review of Books
 section: scholarly_ideas
 feed_url: https://blogs.lse.ac.uk/lsereviewofbooks/feed/
+source_cap: 6
 site_url: https://blogs.lse.ac.uk/lsereviewofbooks/
 source_type: culture_magazine
 authority_level: commentary
@@ -2682,6 +2817,7 @@ use_role: baseline
 name: Stanford Encyclopedia of Philosophy
 section: scholarly_ideas
 feed_url: ''
+source_cap: 0
 site_url: https://plato.stanford.edu/
 source_type: culture_magazine
 authority_level: primary
@@ -2694,6 +2830,7 @@ use_role: baseline
 name: Internet Encyclopedia of Philosophy
 section: scholarly_ideas
 feed_url: ''
+source_cap: 0
 site_url: https://iep.utm.edu/
 source_type: culture_magazine
 authority_level: primary
@@ -2706,6 +2843,7 @@ use_role: baseline
 name: Britannica
 section: scholarly_ideas
 feed_url: ''
+source_cap: 0
 site_url: https://www.britannica.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -2718,6 +2856,7 @@ use_role: baseline
 name: Oxford Reference
 section: scholarly_ideas
 feed_url: ''
+source_cap: 0
 site_url: https://www.oxfordreference.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -2730,6 +2869,7 @@ use_role: baseline
 name: PhilPapers
 section: scholarly_ideas
 feed_url: ''
+source_cap: 0
 site_url: https://philpapers.org/
 source_type: culture_magazine
 authority_level: commentary
@@ -2742,6 +2882,7 @@ use_role: baseline
 name: PhilArchive
 section: scholarly_ideas
 feed_url: ''
+source_cap: 0
 site_url: https://philarchive.org/
 source_type: culture_magazine
 authority_level: commentary
@@ -2754,6 +2895,7 @@ use_role: baseline
 name: Google Scholar
 section: scholarly_ideas
 feed_url: ''
+source_cap: 0
 site_url: https://scholar.google.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -2766,6 +2908,7 @@ use_role: baseline
 name: Semantic Scholar
 section: scholarly_ideas
 feed_url: ''
+source_cap: 0
 site_url: https://www.semanticscholar.org/
 source_type: culture_magazine
 authority_level: commentary
@@ -2778,6 +2921,7 @@ use_role: baseline
 name: JSTOR
 section: scholarly_ideas
 feed_url: ''
+source_cap: 0
 site_url: https://www.jstor.org/
 source_type: culture_magazine
 authority_level: commentary
@@ -2790,6 +2934,7 @@ use_role: baseline
 name: Project MUSE
 section: scholarly_ideas
 feed_url: ''
+source_cap: 0
 site_url: https://muse.jhu.edu/
 source_type: culture_magazine
 authority_level: primary
@@ -2802,6 +2947,7 @@ use_role: baseline
 name: Notre Dame Philosophical Reviews
 section: scholarly_ideas
 feed_url: ''
+source_cap: 0
 site_url: https://ndpr.nd.edu/
 source_type: culture_magazine
 authority_level: primary
@@ -2814,6 +2960,7 @@ use_role: baseline
 name: Mind
 section: scholarly_ideas
 feed_url: ''
+source_cap: 0
 site_url: https://academic.oup.com/mind
 source_type: culture_magazine
 authority_level: commentary
@@ -2826,6 +2973,7 @@ use_role: baseline
 name: The Philosophical Review
 section: scholarly_ideas
 feed_url: ''
+source_cap: 0
 site_url: https://read.dukeupress.edu/the-philosophical-review
 source_type: culture_magazine
 authority_level: primary
@@ -2838,6 +2986,7 @@ use_role: baseline
 name: Noûs
 section: scholarly_ideas
 feed_url: ''
+source_cap: 0
 site_url: https://onlinelibrary.wiley.com/journal/14680068
 source_type: culture_magazine
 authority_level: commentary
@@ -2850,6 +2999,7 @@ use_role: baseline
 name: Philosophical Studies
 section: scholarly_ideas
 feed_url: ''
+source_cap: 0
 site_url: https://link.springer.com/journal/11098
 source_type: culture_magazine
 authority_level: commentary
@@ -2862,6 +3012,7 @@ use_role: baseline
 name: Synthese
 section: scholarly_ideas
 feed_url: ''
+source_cap: 0
 site_url: https://link.springer.com/journal/11229
 source_type: culture_magazine
 authority_level: commentary
@@ -2874,6 +3025,7 @@ use_role: baseline
 name: Ethics
 section: scholarly_ideas
 feed_url: ''
+source_cap: 0
 site_url: https://www.journals.uchicago.edu/toc/et/current
 source_type: culture_magazine
 authority_level: primary
@@ -2886,6 +3038,7 @@ use_role: baseline
 name: Philosophy & Public Affairs
 section: scholarly_ideas
 feed_url: ''
+source_cap: 0
 site_url: https://onlinelibrary.wiley.com/journal/10884963
 source_type: culture_magazine
 authority_level: commentary
@@ -2898,6 +3051,7 @@ use_role: baseline
 name: Journal of the History of Ideas
 section: scholarly_ideas
 feed_url: ''
+source_cap: 0
 site_url: https://jhi.pennpress.org
 source_type: culture_magazine
 authority_level: commentary
@@ -2910,6 +3064,7 @@ use_role: baseline
 name: European Journal of Analytic Philosophy
 section: scholarly_ideas
 feed_url: ''
+source_cap: 0
 site_url: https://ejap.lumina.org
 source_type: culture_magazine
 authority_level: commentary
@@ -2922,6 +3077,7 @@ use_role: baseline
 name: Theory, Culture & Society
 section: scholarly_ideas
 feed_url: ''
+source_cap: 0
 site_url: https://journals.sagepub.com/home/tcs
 source_type: culture_magazine
 authority_level: commentary
@@ -2934,6 +3090,7 @@ use_role: baseline
 name: Cultural Sociology
 section: scholarly_ideas
 feed_url: ''
+source_cap: 0
 site_url: https://journals.sagepub.com/home/cus
 source_type: culture_magazine
 authority_level: commentary
@@ -2946,6 +3103,7 @@ use_role: baseline
 name: Journal of Classical Sociology
 section: scholarly_ideas
 feed_url: ''
+source_cap: 0
 site_url: https://journals.sagepub.com/home/csi
 source_type: culture_magazine
 authority_level: commentary
@@ -2958,6 +3116,7 @@ use_role: baseline
 name: Poetics
 section: scholarly_ideas
 feed_url: ''
+source_cap: 0
 site_url: https://www.sciencedirect.com/journal/poetics
 source_type: culture_magazine
 authority_level: commentary
@@ -2970,6 +3129,7 @@ use_role: baseline
 name: Institute of Historical Research
 section: scholarly_ideas
 feed_url: ''
+source_cap: 0
 site_url: https://www.history.ac.uk/
 source_type: culture_magazine
 authority_level: commentary
@@ -2982,6 +3142,7 @@ use_role: baseline
 name: American Historical Association
 section: scholarly_ideas
 feed_url: ''
+source_cap: 0
 site_url: https://www.historians.org/
 source_type: culture_magazine
 authority_level: commentary
@@ -2994,6 +3155,7 @@ use_role: baseline
 name: Stanford Encyclopedia – Philosophy of Religion
 section: scholarly_ideas
 feed_url: ''
+source_cap: 0
 site_url: https://plato.stanford.edu/entries/philosophy-religion/
 source_type: culture_magazine
 authority_level: primary
@@ -3006,6 +3168,7 @@ use_role: baseline
 name: Internet Encyclopedia – Philosophy of Religion
 section: scholarly_ideas
 feed_url: ''
+source_cap: 0
 site_url: https://iep.utm.edu/philrel/
 source_type: culture_magazine
 authority_level: primary
@@ -3029,6 +3192,7 @@ description_zh: ''
 name: The New Atlantis
 section: civilizational_critique
 feed_url: https://www.thenewatlantis.com/feed
+source_cap: 6
 site_url: https://www.thenewatlantis.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -3041,6 +3205,7 @@ use_role: baseline
 name: The Point
 section: civilizational_critique
 feed_url: https://thepointmag.com/feed/
+source_cap: 6
 site_url: https://thepointmag.com/
 source_type: culture_magazine
 authority_level: primary
@@ -3053,6 +3218,7 @@ use_role: baseline
 name: The Hedgehog Review
 section: civilizational_critique
 feed_url: https://hedgehogreview.com/web-features.xml
+source_cap: 6
 site_url: https://hedgehogreview.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -3065,6 +3231,7 @@ use_role: baseline
 name: Palladium Magazine
 section: civilizational_critique
 feed_url: https://www.palladiummag.com/feed/
+source_cap: 6
 site_url: https://www.palladiummag.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -3077,6 +3244,7 @@ use_role: baseline
 name: ARENA
 section: civilizational_critique
 feed_url: ''
+source_cap: 0
 site_url: https://arena.org.au
 source_type: culture_magazine
 authority_level: commentary
@@ -3089,6 +3257,7 @@ use_role: baseline
 name: The Platypus Affiliated Society
 section: civilizational_critique
 feed_url: ''
+source_cap: 0
 site_url: https://platypus1917.org
 source_type: culture_magazine
 authority_level: commentary
@@ -3101,6 +3270,7 @@ use_role: baseline
 name: Synthetic Zero
 section: civilizational_critique
 feed_url: ''
+source_cap: 0
 site_url: https://syntheticzero.net
 source_type: culture_magazine
 authority_level: commentary
@@ -3113,6 +3283,7 @@ use_role: baseline
 name: Blue Labyrinths
 section: civilizational_critique
 feed_url: ''
+source_cap: 0
 site_url: https://bluelabyrinths.substack.com
 source_type: culture_magazine
 authority_level: primary
@@ -3125,6 +3296,7 @@ use_role: baseline
 name: Matteo Pasquinelli
 section: civilizational_critique
 feed_url: ''
+source_cap: 0
 site_url: https://matteopasquinelli.com
 source_type: culture_magazine
 authority_level: commentary
@@ -3137,6 +3309,7 @@ use_role: baseline
 name: Rest of World
 section: civilizational_critique
 feed_url: https://restofworld.org/feed/latest/
+source_cap: 6
 site_url: https://restofworld.org/
 source_type: culture_magazine
 authority_level: commentary
@@ -3149,6 +3322,7 @@ use_role: baseline
 name: Real Life
 section: civilizational_critique
 feed_url: ''
+source_cap: 0
 site_url: https://reallifemag.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -3161,6 +3335,7 @@ use_role: baseline
 name: The Atlantic
 section: civilizational_critique
 feed_url: https://www.theatlantic.com/feed/all/
+source_cap: 6
 site_url: https://www.theatlantic.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -3173,6 +3348,7 @@ use_role: baseline
 name: The Economist
 section: civilizational_critique
 feed_url: https://www.economist.com/rss.xml
+source_cap: 6
 site_url: https://www.economist.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -3185,6 +3361,7 @@ use_role: baseline
 name: The New Yorker
 section: civilizational_critique
 feed_url: https://www.newyorker.com/feed/everything
+source_cap: 6
 site_url: https://www.newyorker.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -3197,6 +3374,7 @@ use_role: baseline
 name: Time
 section: civilizational_critique
 feed_url: https://time.com/feed/
+source_cap: 6
 site_url: https://time.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -3209,6 +3387,7 @@ use_role: baseline
 name: Der Spiegel
 section: civilizational_critique
 feed_url: ''
+source_cap: 0
 site_url: https://www.spiegel.de/international/
 source_type: culture_magazine
 authority_level: commentary
@@ -3221,6 +3400,7 @@ use_role: baseline
 name: Le Point
 section: civilizational_critique
 feed_url: ''
+source_cap: 0
 site_url: https://www.lepoint.fr/
 source_type: culture_magazine
 authority_level: primary
@@ -3233,6 +3413,7 @@ use_role: baseline
 name: The Tablet
 section: civilizational_critique
 feed_url: ''
+source_cap: 0
 site_url: https://www.thetablet.co.uk/
 source_type: culture_magazine
 authority_level: commentary
@@ -3245,6 +3426,7 @@ use_role: baseline
 name: First Things
 section: civilizational_critique
 feed_url: ''
+source_cap: 0
 site_url: https://www.firstthings.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -3258,6 +3440,7 @@ use_role: baseline
 name: Law & Liberty
 section: civilizational_critique
 feed_url: https://lawliberty.org/feed/
+source_cap: 6
 site_url: https://lawliberty.org/
 source_type: culture_magazine
 authority_level: commentary
@@ -3270,6 +3453,7 @@ use_role: baseline
 name: Dissent Magazine
 section: civilizational_critique
 feed_url: https://www.dissentmagazine.org/feed/
+source_cap: 6
 site_url: https://www.dissentmagazine.org/
 source_type: culture_magazine
 authority_level: commentary
@@ -3282,6 +3466,7 @@ use_role: baseline
 name: Persuasion
 section: civilizational_critique
 feed_url: https://www.persuasion.community/feed
+source_cap: 6
 site_url: https://www.persuasion.community/
 source_type: culture_magazine
 authority_level: commentary
@@ -3309,6 +3494,7 @@ description_zh: ''
 name: New York Review of Books
 section: books
 feed_url: https://www.nybooks.com/feed/
+source_cap: 6
 site_url: https://www.nybooks.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -3321,6 +3507,7 @@ use_role: baseline
 name: London Review of Books
 section: books
 feed_url: https://www.lrb.co.uk/feeds/rss
+source_cap: 6
 site_url: https://www.lrb.co.uk/
 source_type: culture_magazine
 authority_level: commentary
@@ -3333,6 +3520,7 @@ use_role: baseline
 name: LARB
 section: books
 feed_url: https://lareviewofbooks.org/feed/
+source_cap: 6
 site_url: https://lareviewofbooks.org/
 source_type: culture_magazine
 authority_level: commentary
@@ -3345,6 +3533,7 @@ use_role: baseline
 name: Bookforum
 section: books
 feed_url: https://www.bookforum.com/feed
+source_cap: 6
 site_url: https://www.bookforum.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -3357,6 +3546,7 @@ use_role: baseline
 name: The Paris Review
 section: books
 feed_url: ''
+source_cap: 0
 site_url: https://www.theparisreview.org/
 source_type: culture_magazine
 authority_level: commentary
@@ -3369,6 +3559,7 @@ use_role: baseline
 name: Literary Hub
 section: books
 feed_url: https://lithub.com/feed/
+source_cap: 6
 site_url: https://lithub.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -3381,6 +3572,7 @@ use_role: baseline
 name: Five Books
 section: books
 feed_url: ''
+source_cap: 0
 site_url: https://fivebooks.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -3393,6 +3585,7 @@ use_role: baseline
 name: Longreads
 section: books
 feed_url: ''
+source_cap: 0
 site_url: https://longreads.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -3405,6 +3598,7 @@ use_role: baseline
 name: The Guardian – The Long Read
 section: books
 feed_url: ''
+source_cap: 0
 site_url: https://www.theguardian.com/theguardian/series/the-long-read
 source_type: culture_magazine
 authority_level: commentary
@@ -3417,6 +3611,7 @@ use_role: baseline
 name: Internet Archive
 section: books
 feed_url: ''
+source_cap: 0
 site_url: https://archive.org/
 source_type: culture_magazine
 authority_level: commentary
@@ -3429,6 +3624,7 @@ use_role: baseline
 name: Internet Archive Blog
 section: books
 feed_url: https://blog.archive.org/feed/
+source_cap: 6
 site_url: https://blog.archive.org/
 source_type: culture_magazine
 authority_level: commentary
@@ -3441,6 +3637,7 @@ use_role: baseline
 name: Internet Archive Books
 section: books
 feed_url: ''
+source_cap: 0
 site_url: https://blog.archive.org/category/books/
 source_type: culture_magazine
 authority_level: commentary
@@ -3454,6 +3651,7 @@ use_role: baseline
 name: TLS
 section: books
 feed_url: https://www.the-tls.co.uk/rss
+source_cap: 6
 site_url: https://www.the-tls.co.uk/
 source_type: culture_magazine
 authority_level: commentary
@@ -3466,6 +3664,7 @@ use_role: baseline
 name: Words Without Borders
 section: books
 feed_url: https://wordswithoutborders.org/feed/
+source_cap: 6
 site_url: https://wordswithoutborders.org/
 source_type: culture_magazine
 authority_level: commentary
@@ -3478,6 +3677,7 @@ use_role: culture_probe
 name: Open Book Publishers Blog
 section: books
 feed_url: https://blogs.openbookpublishers.com/feed/
+source_cap: 6
 site_url: https://blogs.openbookpublishers.com/
 source_type: specialist_media
 authority_level: specialist
@@ -3501,6 +3701,7 @@ description_zh: ''
 name: MUBI Notebook
 section: film_moving_image
 feed_url: https://mubi.com/notebook/posts.rss
+source_cap: 6
 site_url: https://mubi.com/notebook
 source_type: culture_magazine
 authority_level: commentary
@@ -3513,6 +3714,7 @@ use_role: culture_probe
 name: Little White Lies
 section: film_moving_image
 feed_url: ''
+source_cap: 0
 site_url: https://lwlies.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -3525,6 +3727,7 @@ use_role: culture_probe
 name: BFI
 section: film_moving_image
 feed_url: ''
+source_cap: 0
 site_url: https://www.bfi.org.uk/
 source_type: culture_magazine
 authority_level: commentary
@@ -3537,6 +3740,7 @@ use_role: culture_probe
 name: Sight and Sound
 section: film_moving_image
 feed_url: ''
+source_cap: 0
 site_url: https://www.bfi.org.uk/sight-and-sound
 source_type: culture_magazine
 authority_level: commentary
@@ -3549,6 +3753,7 @@ use_role: culture_probe
 name: Film Comment
 section: film_moving_image
 feed_url: ''
+source_cap: 0
 site_url: https://www.filmcomment.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -3561,6 +3766,7 @@ use_role: culture_probe
 name: Reverse Shot
 section: film_moving_image
 feed_url: ''
+source_cap: 0
 site_url: https://reverseshot.org/
 source_type: culture_magazine
 authority_level: commentary
@@ -3574,6 +3780,7 @@ use_role: culture_probe
 name: Criterion Current
 section: film_moving_image
 feed_url: https://www.criterion.com/current/rss
+source_cap: 6
 site_url: https://www.criterion.com/current
 source_type: culture_magazine
 authority_level: commentary
@@ -3586,6 +3793,7 @@ use_role: culture_probe
 name: RogerEbert.com
 section: film_moving_image
 feed_url: https://www.rogerebert.com/feed
+source_cap: 6
 site_url: https://www.rogerebert.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -3598,6 +3806,7 @@ use_role: culture_probe
 name: The Film Stage
 section: film_moving_image
 feed_url: https://thefilmstage.com/feed/
+source_cap: 6
 site_url: https://thefilmstage.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -3621,6 +3830,7 @@ description_zh: ''
 name: Bandcamp Daily
 section: music_sound
 feed_url: https://daily.bandcamp.com/feed
+source_cap: 6
 site_url: https://daily.bandcamp.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -3633,6 +3843,7 @@ use_role: culture_probe
 name: The Quietus
 section: music_sound
 feed_url: https://thequietus.com/feed/
+source_cap: 6
 site_url: https://thequietus.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -3645,6 +3856,7 @@ use_role: culture_probe
 name: Aquarium Drunkard
 section: music_sound
 feed_url: ''
+source_cap: 0
 site_url: https://aquariumdrunkard.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -3657,6 +3869,7 @@ use_role: culture_probe
 name: Resident Advisor
 section: music_sound
 feed_url: ''
+source_cap: 0
 site_url: https://ra.co/news
 source_type: culture_magazine
 authority_level: commentary
@@ -3669,6 +3882,7 @@ use_role: culture_probe
 name: Pitchfork
 section: music_sound
 feed_url: ''
+source_cap: 0
 site_url: https://pitchfork.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -3681,6 +3895,7 @@ use_role: culture_probe
 name: Pitchfork Album Reviews
 section: music_sound
 feed_url: https://pitchfork.com/rss/reviews/albums/
+source_cap: 6
 site_url: https://pitchfork.com/reviews/albums/
 source_type: culture_magazine
 authority_level: commentary
@@ -3694,6 +3909,7 @@ use_role: culture_probe
 name: Stereogum
 section: music_sound
 feed_url: https://www.stereogum.com/feed/
+source_cap: 6
 site_url: https://www.stereogum.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -3706,6 +3922,7 @@ use_role: culture_probe
 name: The Wire Magazine
 section: music_sound
 feed_url: https://www.thewire.co.uk/rss
+source_cap: 6
 site_url: https://www.thewire.co.uk/
 source_type: culture_magazine
 authority_level: commentary
@@ -3718,6 +3935,7 @@ use_role: culture_probe
 name: Tone Glow
 section: music_sound
 feed_url: https://toneglow.substack.com/feed
+source_cap: 6
 site_url: https://toneglow.substack.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -3741,6 +3959,7 @@ description_zh: ''
 name: Magnum Photos
 section: photography
 feed_url: ''
+source_cap: 0
 site_url: https://www.magnumphotos.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -3754,6 +3973,7 @@ use_role: baseline
 name: British Journal of Photography
 section: photography
 feed_url: https://www.1854.photography/feed/
+source_cap: 6
 site_url: https://www.1854.photography/
 source_type: culture_magazine
 authority_level: commentary
@@ -3766,6 +3986,7 @@ use_role: culture_probe
 name: LensCulture
 section: photography
 feed_url: https://www.lensculture.com/articles.rss
+source_cap: 6
 site_url: https://www.lensculture.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -3778,6 +3999,7 @@ use_role: culture_probe
 name: Aperture
 section: photography
 feed_url: https://aperture.org/feed/
+source_cap: 6
 site_url: https://aperture.org/
 source_type: culture_magazine
 authority_level: commentary
@@ -3801,6 +4023,7 @@ description_zh: ''
 name: e-flux
 section: arts_design
 feed_url: https://www.e-flux.com/rss/
+source_cap: 6
 site_url: https://www.e-flux.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -3813,6 +4036,7 @@ use_role: culture_probe
 name: ArtReview
 section: arts_design
 feed_url: https://artreview.com/feed/
+source_cap: 6
 site_url: https://artreview.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -3825,6 +4049,7 @@ use_role: culture_probe
 name: The Art Newspaper
 section: arts_design
 feed_url: ''
+source_cap: 0
 site_url: https://www.theartnewspaper.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -3837,6 +4062,7 @@ use_role: culture_probe
 name: Hyperallergic
 section: arts_design
 feed_url: ''
+source_cap: 0
 site_url: https://hyperallergic.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -3849,6 +4075,7 @@ use_role: culture_probe
 name: ARTnews
 section: arts_design
 feed_url: https://www.artnews.com/feed/
+source_cap: 6
 site_url: https://www.artnews.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -3861,6 +4088,7 @@ use_role: culture_probe
 name: Cabinet Magazine
 section: arts_design
 feed_url: ''
+source_cap: 0
 site_url: https://www.cabinetmagazine.org/
 source_type: culture_magazine
 authority_level: commentary
@@ -3873,6 +4101,7 @@ use_role: culture_probe
 name: Eye on Design
 section: arts_design
 feed_url: ''
+source_cap: 0
 site_url: https://eyeondesign.aiga.org/
 source_type: culture_magazine
 authority_level: commentary
@@ -3885,6 +4114,7 @@ use_role: culture_probe
 name: Creative Boom
 section: arts_design
 feed_url: ''
+source_cap: 0
 site_url: https://www.creativeboom.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -3897,6 +4127,7 @@ use_role: culture_probe
 name: The Artist
 section: arts_design
 feed_url: ''
+source_cap: 0
 site_url: https://theartistmagazine.co.uk/
 source_type: culture_magazine
 authority_level: commentary
@@ -3909,6 +4140,7 @@ use_role: culture_probe
 name: The Public Domain Review
 section: arts_design
 feed_url: https://publicdomainreview.org/rss.xml
+source_cap: 6
 site_url: https://publicdomainreview.org/
 source_type: culture_magazine
 authority_level: commentary
@@ -3922,6 +4154,7 @@ use_role: culture_probe
 name: Frieze
 section: arts_design
 feed_url: https://www.frieze.com/rss.xml
+source_cap: 6
 site_url: https://www.frieze.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -3934,6 +4167,7 @@ use_role: culture_probe
 name: Design Week
 section: arts_design
 feed_url: https://www.designweek.co.uk/feed/
+source_cap: 6
 site_url: https://www.designweek.co.uk/
 source_type: culture_magazine
 authority_level: commentary
@@ -3946,6 +4180,7 @@ use_role: culture_probe
 name: Design Observer
 section: arts_design
 feed_url: https://designobserver.com/feed/
+source_cap: 6
 site_url: https://designobserver.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -3969,6 +4204,7 @@ description_zh: ''
 name: Places Journal
 section: architecture_urbanism
 feed_url: ''
+source_cap: 0
 site_url: https://placesjournal.org/
 source_type: culture_magazine
 authority_level: commentary
@@ -3981,6 +4217,7 @@ use_role: culture_probe
 name: Dezeen
 section: architecture_urbanism
 feed_url: https://www.dezeen.com/feed/
+source_cap: 6
 site_url: https://www.dezeen.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -3993,6 +4230,7 @@ use_role: culture_probe
 name: ArchDaily
 section: architecture_urbanism
 feed_url: https://www.archdaily.com/rss
+source_cap: 6
 site_url: https://www.archdaily.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -4005,6 +4243,7 @@ use_role: culture_probe
 name: The Architectural Review
 section: architecture_urbanism
 feed_url: ''
+source_cap: 0
 site_url: https://www.architectural-review.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -4018,6 +4257,7 @@ use_role: culture_probe
 name: The Urbanist
 section: architecture_urbanism
 feed_url: https://www.theurbanist.org/feed/
+source_cap: 6
 site_url: https://www.theurbanist.org/
 source_type: culture_magazine
 authority_level: commentary
@@ -4030,6 +4270,7 @@ use_role: culture_probe
 name: CityLab
 section: architecture_urbanism
 feed_url: https://www.bloomberg.com/feeds/citylab.rss
+source_cap: 6
 site_url: https://www.bloomberg.com/citylab
 source_type: specialist_media
 authority_level: specialist
@@ -4042,6 +4283,7 @@ use_role: baseline
 name: Planetizen
 section: architecture_urbanism
 feed_url: https://www.planetizen.com/news/feed
+source_cap: 6
 site_url: https://www.planetizen.com/
 source_type: specialist_media
 authority_level: specialist
@@ -4065,6 +4307,7 @@ description_zh: ''
 name: Game Developer
 section: games
 feed_url: https://www.gamedeveloper.com/rss.xml
+source_cap: 6
 site_url: https://www.gamedeveloper.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -4077,6 +4320,7 @@ use_role: culture_probe
 name: Rock Paper Shotgun
 section: games
 feed_url: https://www.rockpapershotgun.com/feed
+source_cap: 6
 site_url: https://www.rockpapershotgun.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -4089,6 +4333,7 @@ use_role: culture_probe
 name: Eurogamer
 section: games
 feed_url: ''
+source_cap: 0
 site_url: https://www.eurogamer.net/
 source_type: culture_magazine
 authority_level: commentary
@@ -4101,6 +4346,7 @@ use_role: culture_probe
 name: Polygon
 section: games
 feed_url: ''
+source_cap: 0
 site_url: https://www.polygon.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -4113,6 +4359,7 @@ use_role: culture_probe
 name: PC Gamer
 section: games
 feed_url: ''
+source_cap: 0
 site_url: https://www.pcgamer.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -4125,6 +4372,7 @@ use_role: culture_probe
 name: Tor.com
 section: games
 feed_url: ''
+source_cap: 0
 site_url: https://www.tor.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -4137,6 +4385,7 @@ use_role: culture_probe
 name: Superjump Magazine
 section: games
 feed_url: ''
+source_cap: 0
 site_url: https://www.superjumpmagazine.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -4149,6 +4398,7 @@ use_role: culture_probe
 name: Game Studies
 section: games
 feed_url: ''
+source_cap: 0
 site_url: http://gamestudies.org/
 source_type: culture_magazine
 authority_level: commentary
@@ -4161,6 +4411,7 @@ use_role: culture_probe
 name: SFRA Review
 section: games
 feed_url: ''
+source_cap: 0
 site_url: https://sfra.org/sfra-review
 source_type: culture_magazine
 authority_level: commentary
@@ -4174,6 +4425,7 @@ use_role: culture_probe
 name: Noema Games
 section: games
 feed_url: https://www.noemamag.com/tag/games/feed/
+source_cap: 6
 site_url: https://www.noemamag.com/tag/games/
 source_type: culture_magazine
 authority_level: commentary
@@ -4186,6 +4438,7 @@ use_role: culture_probe
 name: Critical Distance
 section: games
 feed_url: https://critical-distance.com/feed/
+source_cap: 6
 site_url: https://critical-distance.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -4198,6 +4451,7 @@ use_role: culture_probe
 name: GamesIndustry.biz
 section: games
 feed_url: https://www.gamesindustry.biz/rss
+source_cap: 6
 site_url: https://www.gamesindustry.biz/
 source_type: trade_publication
 authority_level: specialist
@@ -4221,6 +4475,7 @@ description_zh: ''
 name: Business of Fashion
 section: fashion_style
 feed_url: https://www.businessoffashion.com/arc/outboundfeeds/rss/?outputType=xml
+source_cap: 6
 site_url: https://www.businessoffashion.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -4233,6 +4488,7 @@ use_role: culture_probe
 name: Vogue
 section: fashion_style
 feed_url: https://www.vogue.com/feed/rss
+source_cap: 6
 site_url: https://www.vogue.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -4245,6 +4501,7 @@ use_role: culture_probe
 name: Hypebeast
 section: fashion_style
 feed_url: ''
+source_cap: 0
 site_url: https://hypebeast.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -4257,6 +4514,7 @@ use_role: culture_probe
 name: Highsnobiety
 section: fashion_style
 feed_url: ''
+source_cap: 0
 site_url: https://www.highsnobiety.com/
 source_type: culture_magazine
 authority_level: commentary
@@ -4270,6 +4528,7 @@ use_role: culture_probe
 name: Vogue Runway
 section: fashion_style
 feed_url: https://www.vogue.com/fashion-shows/rss
+source_cap: 6
 site_url: https://www.vogue.com/fashion-shows
 source_type: culture_magazine
 authority_level: commentary
@@ -4297,6 +4556,7 @@ description_zh: ''
 name: SAPIENS
 section: human_societies
 feed_url: https://www.sapiens.org/feed/
+source_cap: 6
 site_url: https://www.sapiens.org/
 source_type: specialist_media
 authority_level: specialist
@@ -4309,6 +4569,7 @@ use_role: baseline
 name: Somatosphere
 section: human_societies
 feed_url: http://somatosphere.net/feed/
+source_cap: 6
 site_url: http://somatosphere.net/
 source_type: specialist_media
 authority_level: specialist
@@ -4321,6 +4582,7 @@ use_role: baseline
 name: Anthropology News
 section: human_societies
 feed_url: https://www.anthropology-news.org/feed/
+source_cap: 6
 site_url: https://www.anthropology-news.org/
 source_type: specialist_media
 authority_level: specialist
@@ -4333,6 +4595,7 @@ use_role: baseline
 name: The Society Pages
 section: human_societies
 feed_url: https://thesocietypages.org/feed/
+source_cap: 6
 site_url: https://thesocietypages.org/
 source_type: specialist_media
 authority_level: specialist
@@ -4345,6 +4608,7 @@ use_role: baseline
 name: Society for Cultural Anthropology
 section: human_societies
 feed_url: ''
+source_cap: 0
 site_url: https://culanth.org/
 source_type: specialist_media
 authority_level: specialist
@@ -4357,6 +4621,7 @@ use_role: baseline
 name: Allegra Lab
 section: human_societies
 feed_url: ''
+source_cap: 0
 site_url: https://allegralaboratory.net/
 source_type: specialist_media
 authority_level: specialist
@@ -4369,6 +4634,7 @@ use_role: baseline
 name: Annual Reviews Magazine
 section: human_societies
 feed_url: ''
+source_cap: 0
 site_url: https://www.annualreviews.org/magazine
 source_type: specialist_media
 authority_level: specialist
@@ -4381,6 +4647,7 @@ use_role: baseline
 name: The Conversation – Society
 section: human_societies
 feed_url: ''
+source_cap: 0
 site_url: https://theconversation.com/global/topics/society-63
 source_type: specialist_media
 authority_level: specialist
@@ -4393,6 +4660,7 @@ use_role: baseline
 name: Contexts
 section: human_societies
 feed_url: ''
+source_cap: 0
 site_url: https://contexts.org/
 source_type: specialist_media
 authority_level: specialist
@@ -4406,6 +4674,7 @@ use_role: baseline
 name: Anthropology Today
 section: human_societies
 feed_url: https://rai.onlinelibrary.wiley.com/action/showFeed?type=etoc&feed=rss&jc=14678322
+source_cap: 6
 site_url: https://rai.onlinelibrary.wiley.com/journal/14678322
 source_type: journal
 authority_level: primary
@@ -4418,6 +4687,7 @@ use_role: reference
 name: American Anthropologist
 section: human_societies
 feed_url: https://anthrosource.onlinelibrary.wiley.com/action/showFeed?type=etoc&feed=rss&jc=15481433
+source_cap: 6
 site_url: https://anthrosource.onlinelibrary.wiley.com/journal/15481433
 source_type: journal
 authority_level: primary
@@ -4430,6 +4700,7 @@ use_role: reference
 name: Nature Human Behaviour
 section: human_societies
 feed_url: https://www.nature.com/nathumbehav.rss
+source_cap: 6
 site_url: https://www.nature.com/nathumbehav/
 source_type: journal
 authority_level: primary
@@ -4453,6 +4724,7 @@ description_zh: ''
 name: Psyche
 section: mind
 feed_url: https://psyche.co/feed
+source_cap: 6
 site_url: https://psyche.co/
 source_type: specialist_media
 authority_level: specialist
@@ -4465,6 +4737,7 @@ use_role: baseline
 name: BPS Research Digest
 section: mind
 feed_url: https://www.bps.org.uk/research-digest/rss.xml
+source_cap: 6
 site_url: https://www.bps.org.uk/research-digest
 source_type: specialist_media
 authority_level: specialist
@@ -4477,6 +4750,7 @@ use_role: baseline
 name: APA News
 section: mind
 feed_url: https://www.apa.org/news/rss
+source_cap: 6
 site_url: https://www.apa.org/news
 source_type: specialist_media
 authority_level: specialist
@@ -4489,6 +4763,7 @@ use_role: baseline
 name: Mind & Life Institute
 section: mind
 feed_url: ''
+source_cap: 0
 site_url: https://www.mindandlife.org/
 source_type: specialist_media
 authority_level: specialist
@@ -4502,6 +4777,7 @@ use_role: baseline
 name: BPS News
 section: mind
 feed_url: https://www.bps.org.uk/news-and-policy/rss.xml
+source_cap: 6
 site_url: https://www.bps.org.uk/news-and-policy
 source_type: specialist_media
 authority_level: specialist
@@ -4514,6 +4790,7 @@ use_role: baseline
 name: Psychological Science
 section: mind
 feed_url: https://journals.sagepub.com/action/showFeed?type=etoc&feed=rss&jc=pssa
+source_cap: 6
 site_url: https://journals.sagepub.com/home/pss
 source_type: journal
 authority_level: primary
@@ -4541,6 +4818,7 @@ description_zh: ''
 name: ScienceDaily
 section: science_news
 feed_url: https://www.sciencedaily.com/rss/all.xml
+source_cap: 6
 site_url: https://www.sciencedaily.com/
 source_type: specialist_media
 authority_level: specialist
@@ -4553,6 +4831,7 @@ use_role: baseline
 name: Phys.org
 section: science_news
 feed_url: https://phys.org/rss-feed/
+source_cap: 6
 site_url: https://phys.org/
 source_type: specialist_media
 authority_level: specialist
@@ -4565,6 +4844,7 @@ use_role: baseline
 name: Phys.org Biology
 section: science_news
 feed_url: ''
+source_cap: 0
 site_url: https://phys.org/biology-news/
 source_type: specialist_media
 authority_level: specialist
@@ -4577,6 +4857,7 @@ use_role: baseline
 name: Science News
 section: science_news
 feed_url: https://www.sciencenews.org/feed
+source_cap: 6
 site_url: https://www.sciencenews.org/
 source_type: specialist_media
 authority_level: specialist
@@ -4589,6 +4870,7 @@ use_role: baseline
 name: The Scientist
 section: science_news
 feed_url: https://www.the-scientist.com/rss
+source_cap: 6
 site_url: https://www.the-scientist.com/
 source_type: specialist_media
 authority_level: specialist
@@ -4601,6 +4883,7 @@ use_role: baseline
 name: MIT News
 section: science_news
 feed_url: https://news.mit.edu/rss/topic/science-technology
+source_cap: 6
 site_url: https://news.mit.edu/topic/science-technology
 source_type: specialist_media
 authority_level: primary
@@ -4613,6 +4896,7 @@ use_role: baseline
 name: Quanta Magazine
 section: science_news
 feed_url: https://www.quantamagazine.org/feed/
+source_cap: 6
 site_url: https://www.quantamagazine.org/
 source_type: specialist_media
 authority_level: specialist
@@ -4625,6 +4909,7 @@ use_role: baseline
 name: Nautilus
 section: science_news
 feed_url: https://nautil.us/feed/
+source_cap: 6
 site_url: https://nautil.us/
 source_type: specialist_media
 authority_level: specialist
@@ -4637,6 +4922,7 @@ use_role: baseline
 name: Undark Magazine
 section: science_news
 feed_url: ''
+source_cap: 0
 site_url: https://undark.org/
 source_type: specialist_media
 authority_level: specialist
@@ -4649,6 +4935,7 @@ use_role: baseline
 name: The Conversation Science
 section: science_news
 feed_url: ''
+source_cap: 0
 site_url: https://theconversation.com/global/topics/science-59
 source_type: specialist_media
 authority_level: specialist
@@ -4661,6 +4948,7 @@ use_role: baseline
 name: SciURLs
 section: science_news
 feed_url: ''
+source_cap: 0
 site_url: https://sciurls.com/
 source_type: specialist_media
 authority_level: specialist
@@ -4673,6 +4961,7 @@ use_role: baseline
 name: Science X
 section: science_news
 feed_url: ''
+source_cap: 0
 site_url: https://sciencex.com/news/
 source_type: specialist_media
 authority_level: specialist
@@ -4685,6 +4974,7 @@ use_role: baseline
 name: Neuroscience News
 section: science_news
 feed_url: https://neurosciencenews.com/feed/
+source_cap: 6
 site_url: https://neurosciencenews.com
 source_type: specialist_media
 authority_level: specialist
@@ -4697,6 +4987,7 @@ use_role: baseline
 name: Live Science
 section: science_news
 feed_url: https://www.livescience.com/feeds/all
+source_cap: 6
 site_url: https://www.livescience.com/
 source_type: specialist_media
 authority_level: specialist
@@ -4720,6 +5011,7 @@ description_zh: ''
 name: Scientific American
 section: science_magazines
 feed_url: https://rss.sciam.com/ScientificAmerican-Global
+source_cap: 6
 site_url: https://www.scientificamerican.com
 source_type: specialist_media
 authority_level: specialist
@@ -4732,6 +5024,7 @@ use_role: baseline
 name: Discover Magazine
 section: science_magazines
 feed_url: https://www.discovermagazine.com/rss/all
+source_cap: 6
 site_url: https://www.discovermagazine.com
 source_type: specialist_media
 authority_level: specialist
@@ -4744,6 +5037,7 @@ use_role: baseline
 name: Popular Science
 section: science_magazines
 feed_url: https://www.popsci.com/feed/
+source_cap: 6
 site_url: https://www.popsci.com
 source_type: specialist_media
 authority_level: specialist
@@ -4756,6 +5050,7 @@ use_role: baseline
 name: New Scientist
 section: science_magazines
 feed_url: ''
+source_cap: 0
 site_url: https://www.newscientist.com/
 source_type: specialist_media
 authority_level: specialist
@@ -4768,6 +5063,7 @@ use_role: baseline
 name: Aeon – Science
 section: science_magazines
 feed_url: ''
+source_cap: 0
 site_url: https://aeon.co/science
 source_type: specialist_media
 authority_level: specialist
@@ -4791,6 +5087,7 @@ description_zh: ''
 name: Nature
 section: research
 feed_url: https://www.nature.com/nature.rss
+source_cap: 6
 site_url: https://www.nature.com/nature/
 source_type: journal
 authority_level: primary
@@ -4803,6 +5100,7 @@ use_role: baseline
 name: Science
 section: research
 feed_url: https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science
+source_cap: 6
 site_url: https://www.science.org/journal/science
 source_type: journal
 authority_level: primary
@@ -4815,6 +5113,7 @@ use_role: baseline
 name: PNAS
 section: research
 feed_url: https://www.pnas.org/action/showFeed?type=etoc&feed=rss&jc=pnas
+source_cap: 6
 site_url: https://www.pnas.org/
 source_type: journal
 authority_level: primary
@@ -4827,6 +5126,7 @@ use_role: baseline
 name: The Lancet
 section: research
 feed_url: https://www.thelancet.com/rssfeed/lancet_current.xml
+source_cap: 6
 site_url: https://www.thelancet.com/
 source_type: journal
 authority_level: primary
@@ -4839,6 +5139,7 @@ use_role: baseline
 name: Cell
 section: research
 feed_url: https://www.cell.com/cell/inpress.rss
+source_cap: 6
 site_url: https://www.cell.com/
 source_type: journal
 authority_level: primary
@@ -4851,6 +5152,7 @@ use_role: baseline
 name: Physical Review Letters
 section: research
 feed_url: https://feeds.aps.org/rss/recent/prl.xml
+source_cap: 6
 site_url: https://journals.aps.org/prl/
 source_type: journal
 authority_level: primary
@@ -4863,6 +5165,7 @@ use_role: baseline
 name: Journal of High Energy Physics
 section: research
 feed_url: ''
+source_cap: 0
 site_url: https://link.springer.com/journal/13130
 source_type: journal
 authority_level: primary
@@ -4875,6 +5178,7 @@ use_role: baseline
 name: Nature Medicine
 section: research
 feed_url: ''
+source_cap: 0
 site_url: https://www.nature.com/nm/
 source_type: journal
 authority_level: primary
@@ -4887,6 +5191,7 @@ use_role: baseline
 name: Nature Neuroscience
 section: research
 feed_url: ''
+source_cap: 0
 site_url: https://www.nature.com/neuro/
 source_type: journal
 authority_level: primary
@@ -4899,6 +5204,7 @@ use_role: baseline
 name: Neuron
 section: research
 feed_url: ''
+source_cap: 0
 site_url: https://www.cell.com/neuron
 source_type: journal
 authority_level: primary
@@ -4911,6 +5217,7 @@ use_role: baseline
 name: Science Advances
 section: research
 feed_url: ''
+source_cap: 0
 site_url: https://www.science.org/journal/sciadv
 source_type: journal
 authority_level: primary
@@ -4923,6 +5230,7 @@ use_role: baseline
 name: Nature Communications
 section: research
 feed_url: ''
+source_cap: 0
 site_url: https://www.nature.com/ncomms/
 source_type: journal
 authority_level: primary
@@ -4935,6 +5243,7 @@ use_role: baseline
 name: arXiv
 section: research
 feed_url: https://rss.arxiv.org/rss/physics
+source_cap: 6
 site_url: https://arxiv.org/
 source_type: preprint
 authority_level: primary
@@ -4947,6 +5256,7 @@ use_role: signal
 name: arXiv q-bio Populations and Evolution
 section: research
 feed_url: ''
+source_cap: 0
 site_url: https://arxiv.org/list/q-bio.PE/recent
 source_type: preprint
 authority_level: primary
@@ -4959,6 +5269,7 @@ use_role: signal
 name: bioRxiv
 section: research
 feed_url: https://www.biorxiv.org/rss/current.xml
+source_cap: 6
 site_url: https://www.biorxiv.org/
 source_type: preprint
 authority_level: primary
@@ -4971,6 +5282,7 @@ use_role: signal
 name: bioRxiv Ecology
 section: research
 feed_url: https://www.biorxiv.org/rss/collection/ecology.xml
+source_cap: 6
 site_url: https://www.biorxiv.org/collection/ecology
 source_type: preprint
 authority_level: primary
@@ -4983,6 +5295,7 @@ use_role: signal
 name: bioRxiv Evolutionary Biology
 section: research
 feed_url: ''
+source_cap: 0
 site_url: https://www.biorxiv.org/collection/evolutionary-biology
 source_type: preprint
 authority_level: primary
@@ -4995,6 +5308,7 @@ use_role: signal
 name: bioRxiv Zoology
 section: research
 feed_url: ''
+source_cap: 0
 site_url: https://www.biorxiv.org/collection/zoology
 source_type: preprint
 authority_level: primary
@@ -5007,6 +5321,7 @@ use_role: signal
 name: medRxiv
 section: research
 feed_url: https://www.medrxiv.org/rss/current.xml
+source_cap: 6
 site_url: https://www.medrxiv.org/
 source_type: preprint
 authority_level: primary
@@ -5019,6 +5334,7 @@ use_role: signal
 name: PubMed
 section: research
 feed_url: ''
+source_cap: 0
 site_url: https://pubmed.ncbi.nlm.nih.gov/
 source_type: reference_tool
 authority_level: primary
@@ -5031,6 +5347,7 @@ use_role: reference
 name: Semantic Scholar
 section: research
 feed_url: ''
+source_cap: 0
 site_url: https://www.semanticscholar.org/
 source_type: reference_tool
 authority_level: aggregator
@@ -5043,6 +5360,7 @@ use_role: reference
 name: eLife Latest
 section: research
 feed_url: ''
+source_cap: 0
 site_url: https://elifesciences.org/
 source_type: journal
 authority_level: primary
@@ -5055,6 +5373,7 @@ use_role: baseline
 name: PLOS Biology
 section: research
 feed_url: ''
+source_cap: 0
 site_url: https://journals.plos.org/plosbiology/
 source_type: journal
 authority_level: primary
@@ -5067,6 +5386,7 @@ use_role: baseline
 name: PsyArXiv
 section: research
 feed_url: ''
+source_cap: 0
 site_url: https://osf.io/preprints/psyarxiv
 source_type: preprint
 authority_level: primary
@@ -5079,6 +5399,7 @@ use_role: signal
 name: SocArXiv
 section: research
 feed_url: ''
+source_cap: 0
 site_url: https://osf.io/preprints/socarxiv
 source_type: preprint
 authority_level: primary
@@ -5092,6 +5413,7 @@ use_role: signal
 name: Nature Ecology & Evolution
 section: research
 feed_url: https://www.nature.com/natecolevol.rss
+source_cap: 6
 site_url: https://www.nature.com/natecolevol/
 source_type: journal
 authority_level: primary
@@ -5104,6 +5426,7 @@ use_role: baseline
 name: Current Biology
 section: research
 feed_url: https://www.cell.com/current-biology/inpress.rss
+source_cap: 6
 site_url: https://www.cell.com/current-biology/home
 source_type: journal
 authority_level: primary
@@ -5116,6 +5439,7 @@ use_role: baseline
 name: Ecology Letters
 section: research
 feed_url: https://onlinelibrary.wiley.com/action/showFeed?type=etoc&feed=rss&jc=14610248
+source_cap: 6
 site_url: https://onlinelibrary.wiley.com/journal/14610248
 source_type: journal
 authority_level: primary
@@ -5128,6 +5452,7 @@ use_role: baseline
 name: Methods in Ecology and Evolution
 section: research
 feed_url: https://besjournals.onlinelibrary.wiley.com/action/showFeed?type=etoc&feed=rss&jc=2041210x
+source_cap: 6
 site_url: https://besjournals.onlinelibrary.wiley.com/journal/2041210x
 source_type: journal
 authority_level: primary
@@ -5140,6 +5465,7 @@ use_role: reference
 name: PLOS ONE Biology
 section: research
 feed_url: https://journals.plos.org/plosone/feed/atom
+source_cap: 6
 site_url: https://journals.plos.org/plosone/
 source_type: journal
 authority_level: primary
@@ -5163,6 +5489,7 @@ description_zh: ''
 name: Space.com
 section: space_astronomy
 feed_url: https://www.space.com/feeds/all
+source_cap: 6
 site_url: https://www.space.com
 source_type: specialist_media
 authority_level: specialist
@@ -5175,6 +5502,7 @@ use_role: baseline
 name: Universe Today
 section: space_astronomy
 feed_url: https://www.universetoday.com/feed/
+source_cap: 6
 site_url: https://www.universetoday.com
 source_type: specialist_media
 authority_level: specialist
@@ -5187,6 +5515,7 @@ use_role: baseline
 name: NASA News
 section: space_astronomy
 feed_url: https://www.nasa.gov/feed/
+source_cap: 6
 site_url: https://www.nasa.gov/news/
 source_type: specialist_media
 authority_level: primary
@@ -5199,6 +5528,7 @@ use_role: baseline
 name: ESA News
 section: space_astronomy
 feed_url: https://www.esa.int/rssfeed/Our_Activities/Space_News
+source_cap: 6
 site_url: https://www.esa.int/Newsroom
 source_type: specialist_media
 authority_level: primary
@@ -5211,6 +5541,7 @@ use_role: baseline
 name: NASA Earth Observatory
 section: space_astronomy
 feed_url: ''
+source_cap: 0
 site_url: https://science.nasa.gov/earth/earth-observatory/
 source_type: specialist_media
 authority_level: primary
@@ -5223,6 +5554,7 @@ use_role: baseline
 name: 星链
 section: space_astronomy
 feed_url: ''
+source_cap: 0
 site_url: https://satellitemap.space/index.html
 source_type: specialist_media
 authority_level: specialist
@@ -5235,6 +5567,7 @@ use_role: baseline
 name: Next Rocket
 section: space_astronomy
 feed_url: ''
+source_cap: 0
 site_url: https://nextrocket.space
 source_type: specialist_media
 authority_level: specialist
@@ -5248,6 +5581,7 @@ use_role: baseline
 name: NASA Earth Observatory Image of the Day
 section: space_astronomy
 feed_url: https://earthobservatory.nasa.gov/feeds/image-of-the-day.rss
+source_cap: 6
 site_url: https://earthobservatory.nasa.gov/images
 source_type: institutional
 authority_level: primary
@@ -5271,6 +5605,7 @@ description_zh: ''
 name: Smithsonian Science
 section: natural_history
 feed_url: https://www.smithsonianmag.com/rss/science-nature/
+source_cap: 6
 site_url: https://www.smithsonianmag.com/science-nature/
 source_type: specialist_media
 authority_level: specialist
@@ -5283,6 +5618,7 @@ use_role: baseline
 name: Smithsonian Smart News
 section: natural_history
 feed_url: ''
+source_cap: 0
 site_url: https://www.smithsonianmag.com/smart-news/
 source_type: specialist_media
 authority_level: specialist
@@ -5295,6 +5631,7 @@ use_role: baseline
 name: Natural History Museum
 section: natural_history
 feed_url: https://www.nhm.ac.uk/discover.rss
+source_cap: 6
 site_url: https://www.nhm.ac.uk/discover.html
 source_type: specialist_media
 authority_level: specialist
@@ -5307,6 +5644,7 @@ use_role: baseline
 name: Everything Dinosaur
 section: natural_history
 feed_url: ''
+source_cap: 0
 site_url: https://blog.everythingdinosaur.com/
 source_type: specialist_media
 authority_level: specialist
@@ -5319,6 +5657,7 @@ use_role: baseline
 name: DNA Writer
 section: natural_history
 feed_url: ''
+source_cap: 0
 site_url: https://earthsciweb.org/js/bio/dna-writer/
 source_type: specialist_media
 authority_level: specialist
@@ -5331,6 +5670,7 @@ use_role: baseline
 name: Integbio 生命科学系データベースカタログ
 section: natural_history
 feed_url: ''
+source_cap: 0
 site_url: https://integbio.jp/dbcatalog/?lang=ja
 source_type: specialist_media
 authority_level: primary
@@ -5343,6 +5683,7 @@ use_role: baseline
 name: そらいろネット 三浦半島身近な図鑑
 section: natural_history
 feed_url: ''
+source_cap: 0
 site_url: https://sorairo-net.com/index.html
 source_type: specialist_media
 authority_level: specialist
@@ -5355,6 +5696,7 @@ use_role: baseline
 name: Maryland Nature
 section: natural_history
 feed_url: ''
+source_cap: 0
 site_url: https://youtube.com/@marylandnature
 source_type: video_channel
 authority_level: community
@@ -5367,6 +5709,7 @@ use_role: reference
 name: BBC Earth
 section: natural_history
 feed_url: ''
+source_cap: 0
 site_url: https://youtube.com/@bbcearth
 source_type: public_broadcaster
 authority_level: generalist
@@ -5390,6 +5733,7 @@ description_zh: ''
 name: Mongabay Conservation
 section: ecology_conservation
 feed_url: ''
+source_cap: 0
 site_url: https://news.mongabay.com/list/conservation/
 source_type: specialist_media
 authority_level: specialist
@@ -5402,6 +5746,7 @@ use_role: baseline
 name: Mongabay Biodiversity
 section: ecology_conservation
 feed_url: ''
+source_cap: 0
 site_url: https://news.mongabay.com/list/biodiversity/
 source_type: specialist_media
 authority_level: specialist
@@ -5414,6 +5759,7 @@ use_role: baseline
 name: bioGraphic
 section: ecology_conservation
 feed_url: ''
+source_cap: 0
 site_url: https://www.biographic.com/
 source_type: specialist_media
 authority_level: specialist
@@ -5426,6 +5772,7 @@ use_role: baseline
 name: Yale Environment 360
 section: ecology_conservation
 feed_url: https://e360.yale.edu/rss.xml
+source_cap: 6
 site_url: https://e360.yale.edu/
 source_type: specialist_media
 authority_level: primary
@@ -5439,6 +5786,7 @@ use_role: baseline
 name: NOAA Climate.gov
 section: ecology_conservation
 feed_url: https://www.climate.gov/news-features/feed
+source_cap: 6
 site_url: https://www.climate.gov/news-features
 source_type: institutional
 authority_level: primary
@@ -5451,6 +5799,7 @@ use_role: baseline
 name: Inside Climate News
 section: ecology_conservation
 feed_url: https://insideclimatenews.org/feed/
+source_cap: 6
 site_url: https://insideclimatenews.org/
 source_type: specialist_media
 authority_level: specialist
@@ -5463,6 +5812,7 @@ use_role: baseline
 name: The Revelator
 section: ecology_conservation
 feed_url: https://therevelator.org/feed/
+source_cap: 6
 site_url: https://therevelator.org/
 source_type: specialist_media
 authority_level: specialist
@@ -5486,6 +5836,7 @@ description_zh: ''
 name: Mongabay Animal Behavior
 section: animal_behavior
 feed_url: ''
+source_cap: 0
 site_url: https://news.mongabay.com/list/animal-behavior/
 source_type: specialist_media
 authority_level: specialist
@@ -5498,6 +5849,7 @@ use_role: baseline
 name: Animal Cognition
 section: animal_behavior
 feed_url: ''
+source_cap: 0
 site_url: https://www.springer.com/journal/10071
 source_type: specialist_media
 authority_level: specialist
@@ -5510,6 +5862,7 @@ use_role: baseline
 name: Animal Behaviour
 section: animal_behavior
 feed_url: https://www.sciencedirect.com/journal/animal-behaviour/rss
+source_cap: 6
 site_url: https://www.sciencedirect.com/journal/animal-behaviour
 source_type: specialist_media
 authority_level: specialist
@@ -5523,6 +5876,7 @@ use_role: baseline
 name: Behavioral Ecology
 section: animal_behavior
 feed_url: https://academic.oup.com/rss/site_5271/3361.xml
+source_cap: 6
 site_url: https://academic.oup.com/beheco
 source_type: journal
 authority_level: primary
@@ -5535,6 +5889,7 @@ use_role: reference
 name: Journal of Experimental Biology
 section: animal_behavior
 feed_url: https://journals.biologists.com/rss/site_1006/1007.xml
+source_cap: 6
 site_url: https://journals.biologists.com/jeb
 source_type: journal
 authority_level: primary
@@ -5558,6 +5913,7 @@ description_zh: ''
 name: Hakai Magazine
 section: marine_life
 feed_url: https://hakaimagazine.com/feed/
+source_cap: 6
 site_url: https://hakaimagazine.com/
 source_type: specialist_media
 authority_level: specialist
@@ -5570,6 +5926,7 @@ use_role: baseline
 name: ScienceDaily Marine Biology
 section: marine_life
 feed_url: ''
+source_cap: 0
 site_url: https://www.sciencedaily.com/news/plants_animals/marine_biology/
 source_type: specialist_media
 authority_level: specialist
@@ -5582,6 +5939,7 @@ use_role: baseline
 name: NOAA PMEL Highlights
 section: marine_life
 feed_url: https://www.pmel.noaa.gov/rss.xml
+source_cap: 6
 site_url: https://www.pmel.noaa.gov/
 source_type: specialist_media
 authority_level: primary
@@ -5594,6 +5952,7 @@ use_role: baseline
 name: NOAA Ocean Exploration
 section: marine_life
 feed_url: https://oceanexplorer.noaa.gov/news/oceanexplorer-news.xml
+source_cap: 6
 site_url: https://oceanexplorer.noaa.gov/news/
 source_type: specialist_media
 authority_level: primary
@@ -5606,6 +5965,7 @@ use_role: baseline
 name: MarineBio Conservation Society
 section: marine_life
 feed_url: https://www.marinebio.org/feed/
+source_cap: 6
 site_url: https://www.marinebio.org/news/
 source_type: specialist_media
 authority_level: specialist
@@ -5618,6 +5978,7 @@ use_role: baseline
 name: Oceanographic Magazine
 section: marine_life
 feed_url: https://oceanographicmagazine.com/feed/
+source_cap: 6
 site_url: https://oceanographicmagazine.com/
 source_type: specialist_media
 authority_level: specialist
@@ -5630,6 +5991,7 @@ use_role: baseline
 name: The Revelator Oceans
 section: marine_life
 feed_url: https://therevelator.org/category/oceans/feed/
+source_cap: 6
 site_url: https://therevelator.org/category/oceans/
 source_type: specialist_media
 authority_level: specialist
@@ -5642,6 +6004,7 @@ use_role: baseline
 name: Mongabay Oceans
 section: marine_life
 feed_url: ''
+source_cap: 0
 site_url: https://news.mongabay.com/list/oceans/
 source_type: specialist_media
 authority_level: specialist
@@ -5655,6 +6018,7 @@ use_role: baseline
 name: ICES Journal of Marine Science
 section: marine_life
 feed_url: https://academic.oup.com/rss/site_5267/3362.xml
+source_cap: 6
 site_url: https://academic.oup.com/icesjms
 source_type: journal
 authority_level: primary
@@ -5667,6 +6031,7 @@ use_role: reference
 name: Marine Ecology Progress Series
 section: marine_life
 feed_url: https://www.int-res.com/rss/meps.xml
+source_cap: 6
 site_url: https://www.int-res.com/journals/meps/
 source_type: journal
 authority_level: primary
@@ -5690,6 +6055,7 @@ description_zh: ''
 name: 我が家のHomepage 沖縄伊豆佐渡などの魚図鑑
 section: fish_ichthyology
 feed_url: ''
+source_cap: 0
 site_url: https://www.asahi-net.or.jp/~rq5y-igc/index.html
 source_type: specialist_media
 authority_level: specialist
@@ -5702,6 +6068,7 @@ use_role: baseline
 name: 沖縄の魚図鑑 ファンダイブ撮影
 section: fish_ichthyology
 feed_url: ''
+source_cap: 0
 site_url: https://okinawa-fishes.sakura.ne.jp/
 source_type: specialist_media
 authority_level: specialist
@@ -5714,6 +6081,7 @@ use_role: baseline
 name: 市場魚貝類図鑑
 section: fish_ichthyology
 feed_url: ''
+source_cap: 0
 site_url: https://www.zukan-bouz.com/
 source_type: specialist_media
 authority_level: specialist
@@ -5727,6 +6095,7 @@ use_role: baseline
 name: FishBase News
 section: fish_ichthyology
 feed_url: https://www.fishbase.se/rss/rss.xml
+source_cap: 6
 site_url: https://www.fishbase.se/
 source_type: reference_tool
 authority_level: primary
@@ -5739,6 +6108,7 @@ use_role: reference
 name: Freshwater and Marine Image Bank
 section: fish_ichthyology
 feed_url: ''
+source_cap: 0
 site_url: https://digitalcollections.lib.washington.edu/digital/collection/fishimages
 source_type: reference_tool
 authority_level: primary
@@ -5762,6 +6132,7 @@ description_zh: ''
 name: ScienceDaily Mollusks
 section: mollusks
 feed_url: https://www.sciencedaily.com/rss/plants_animals/mollusks.xml
+source_cap: 6
 site_url: https://www.sciencedaily.com/news/plants_animals/mollusks/
 source_type: specialist_media
 authority_level: specialist
@@ -5774,6 +6145,7 @@ use_role: baseline
 name: Phys.org Mollusks
 section: mollusks
 feed_url: https://phys.org/rss-feed/search/?search=mollusks
+source_cap: 6
 site_url: https://phys.org/tags/mollusks/
 source_type: specialist_media
 authority_level: specialist
@@ -5786,6 +6158,7 @@ use_role: baseline
 name: The Cephalopod Page
 section: mollusks
 feed_url: ''
+source_cap: 0
 site_url: https://www.thecephalopodpage.org/
 source_type: specialist_media
 authority_level: specialist
@@ -5798,6 +6171,7 @@ use_role: baseline
 name: Malacological Society of London
 section: mollusks
 feed_url: ''
+source_cap: 0
 site_url: https://malacsoc.org.uk/
 source_type: specialist_media
 authority_level: specialist
@@ -5810,6 +6184,7 @@ use_role: baseline
 name: 貝の図鑑 主に日本の貝
 section: mollusks
 feed_url: ''
+source_cap: 0
 site_url: https://kai-zukan.info
 source_type: specialist_media
 authority_level: specialist
@@ -5822,6 +6197,7 @@ use_role: baseline
 name: 微小貝データベース
 section: mollusks
 feed_url: ''
+source_cap: 0
 site_url: https://bishogai.com/index.html
 source_type: specialist_media
 authority_level: specialist
@@ -5834,6 +6210,7 @@ use_role: baseline
 name: 微小貝さがしサポート図鑑
 section: mollusks
 feed_url: ''
+source_cap: 0
 site_url: http://bishogai-sagashi.jp
 source_type: specialist_media
 authority_level: specialist
@@ -5846,6 +6223,7 @@ use_role: baseline
 name: 雉猫の宝
 section: mollusks
 feed_url: ''
+source_cap: 0
 site_url: https://www.cypraea.jp/
 source_type: specialist_media
 authority_level: specialist
@@ -5858,6 +6236,7 @@ use_role: baseline
 name: 月刊 沖縄と貝 with 光
 section: mollusks
 feed_url: ''
+source_cap: 0
 site_url: http://shellbox.blog106.fc2.com/
 source_type: specialist_media
 authority_level: specialist
@@ -5870,6 +6249,7 @@ use_role: baseline
 name: 台灣貝類圖鑑
 section: mollusks
 feed_url: ''
+source_cap: 0
 site_url: http://shells.tw
 source_type: specialist_media
 authority_level: specialist
@@ -5882,6 +6262,7 @@ use_role: baseline
 name: Conchology, Inc.
 section: mollusks
 feed_url: ''
+source_cap: 0
 site_url: https://conchology.be/?t=1
 source_type: specialist_media
 authority_level: specialist
@@ -5894,6 +6275,7 @@ use_role: baseline
 name: Seahorse and Co
 section: mollusks
 feed_url: ''
+source_cap: 0
 site_url: https://www.seahorseandco.com/identificationguides
 source_type: specialist_media
 authority_level: specialist
@@ -5906,6 +6288,7 @@ use_role: baseline
 name: Shell Brothers
 section: mollusks
 feed_url: ''
+source_cap: 0
 site_url: https://www.shellbrothers.be/
 source_type: specialist_media
 authority_level: specialist
@@ -5918,6 +6301,7 @@ use_role: baseline
 name: SWF Beach Life
 section: mollusks
 feed_url: ''
+source_cap: 0
 site_url: https://youtube.com/@swfbeachlife
 source_type: video_channel
 authority_level: community
@@ -5930,6 +6314,7 @@ use_role: reference
 name: Shelling Adventures
 section: mollusks
 feed_url: ''
+source_cap: 0
 site_url: https://youtube.com/@shellingadventures
 source_type: video_channel
 authority_level: community
@@ -5943,6 +6328,7 @@ use_role: reference
 name: Journal of Molluscan Studies
 section: mollusks
 feed_url: https://academic.oup.com/rss/site_5275/3365.xml
+source_cap: 6
 site_url: https://academic.oup.com/mollus
 source_type: journal
 authority_level: primary
@@ -5966,6 +6352,7 @@ description_zh: ''
 name: Entomology Today
 section: arthropods
 feed_url: https://entomologytoday.org/feed/
+source_cap: 6
 site_url: https://entomologytoday.org/
 source_type: specialist_media
 authority_level: specialist
@@ -5978,6 +6365,7 @@ use_role: baseline
 name: ScienceDaily Insects
 section: arthropods
 feed_url: ''
+source_cap: 0
 site_url: https://www.sciencedaily.com/news/plants_animals/insects_and_butterflies/
 source_type: specialist_media
 authority_level: specialist
@@ -5990,6 +6378,7 @@ use_role: baseline
 name: Xerces Society Blog
 section: arthropods
 feed_url: https://xerces.org/blog/feed
+source_cap: 6
 site_url: https://xerces.org/blog
 source_type: specialist_media
 authority_level: specialist
@@ -6002,6 +6391,7 @@ use_role: baseline
 name: BugGuide Recent Articles
 section: arthropods
 feed_url: ''
+source_cap: 0
 site_url: https://bugguide.net/
 source_type: specialist_media
 authority_level: specialist
@@ -6014,6 +6404,7 @@ use_role: baseline
 name: AntWiki Recent Changes
 section: arthropods
 feed_url: ''
+source_cap: 0
 site_url: https://www.antwiki.org/wiki/Main_Page
 source_type: specialist_media
 authority_level: specialist
@@ -6026,6 +6417,7 @@ use_role: baseline
 name: Zootaxa
 section: arthropods
 feed_url: ''
+source_cap: 0
 site_url: https://mapress.com/zt/index
 source_type: specialist_media
 authority_level: specialist
@@ -6038,6 +6430,7 @@ use_role: baseline
 name: 進化する昆虫図鑑 昆虫生態写真データベース
 section: arthropods
 feed_url: ''
+source_cap: 0
 site_url: http://www.ha.shotoku.ac.jp/~kawa/KYO/SEIBUTSU/DOUBUTSU/500KonchuTop/index.html
 source_type: specialist_media
 authority_level: specialist
@@ -6050,6 +6443,7 @@ use_role: baseline
 name: 昆虫図鑑 主に日本の昆虫
 section: arthropods
 feed_url: ''
+source_cap: 0
 site_url: https://konchu-zukan.info
 source_type: specialist_media
 authority_level: specialist
@@ -6062,6 +6456,7 @@ use_role: baseline
 name: 嘎嘎昆虫网 台灣昆蟲譜
 section: arthropods
 feed_url: ''
+source_cap: 0
 site_url: http://gaga.biodiv.tw/9701bx/in94.htm
 source_type: specialist_media
 authority_level: specialist
@@ -6074,6 +6469,7 @@ use_role: baseline
 name: 昆蟲圖庫 南港國小
 section: arthropods
 feed_url: ''
+source_cap: 0
 site_url: http://icontent.nkps.tp.edu.tw/insectinfo/OrderShow.aspx?orderID=13
 source_type: specialist_media
 authority_level: primary
@@ -6086,6 +6482,7 @@ use_role: baseline
 name: 補鳥蛛實驗室
 section: arthropods
 feed_url: ''
+source_cap: 0
 site_url: https://thetarantulalab.com
 source_type: specialist_media
 authority_level: specialist
@@ -6098,6 +6495,7 @@ use_role: baseline
 name: くわかぶプラネット
 section: arthropods
 feed_url: ''
+source_cap: 0
 site_url: https://www.kuwakabuplanet.com
 source_type: specialist_media
 authority_level: specialist
@@ -6110,6 +6508,7 @@ use_role: baseline
 name: InsecthausTV
 section: arthropods
 feed_url: ''
+source_cap: 0
 site_url: https://youtube.com/@insecthaustv
 source_type: video_channel
 authority_level: community
@@ -6122,6 +6521,7 @@ use_role: reference
 name: おーちゃんねる
 section: arthropods
 feed_url: ''
+source_cap: 0
 site_url: https://youtube.com/@ohchan_ch
 source_type: video_channel
 authority_level: community
@@ -6135,6 +6535,7 @@ use_role: reference
 name: ZooKeys
 section: arthropods
 feed_url: https://zookeys.pensoft.net/lib/ajax_srv/article_elements_srv.php?action=rss
+source_cap: 6
 site_url: https://zookeys.pensoft.net/
 source_type: journal
 authority_level: primary
@@ -6147,6 +6548,7 @@ use_role: reference
 name: Insect Systematics and Diversity
 section: arthropods
 feed_url: https://academic.oup.com/rss/site_5248/3394.xml
+source_cap: 6
 site_url: https://academic.oup.com/isd
 source_type: journal
 authority_level: primary
@@ -6159,6 +6561,7 @@ use_role: reference
 name: Journal of Insect Science
 section: arthropods
 feed_url: https://academic.oup.com/rss/site_5248/3368.xml
+source_cap: 6
 site_url: https://academic.oup.com/jinsectscience
 source_type: journal
 authority_level: primary
@@ -6171,6 +6574,7 @@ use_role: reference
 name: PeerJ Arthropod Biology
 section: arthropods
 feed_url: https://peerj.com/articles/index.xml?subject=arthropod-biology
+source_cap: 6
 site_url: https://peerj.com/subjects/arthropod-biology/
 source_type: journal
 authority_level: primary
@@ -6194,6 +6598,7 @@ description_zh: ''
 name: Kew Science
 section: plants_fungi
 feed_url: ''
+source_cap: 0
 site_url: https://www.kew.org/science
 source_type: specialist_media
 authority_level: specialist
@@ -6206,6 +6611,7 @@ use_role: baseline
 name: New Phytologist
 section: plants_fungi
 feed_url: https://nph.onlinelibrary.wiley.com/action/showFeed?type=etoc&feed=rss&jc=14698137
+source_cap: 6
 site_url: https://nph.onlinelibrary.wiley.com/
 source_type: specialist_media
 authority_level: specialist
@@ -6218,6 +6624,7 @@ use_role: baseline
 name: 植物智
 section: plants_fungi
 feed_url: ''
+source_cap: 0
 site_url: https://www.iplant.cn/
 source_type: specialist_media
 authority_level: specialist
@@ -6231,6 +6638,7 @@ use_role: baseline
 name: Botany One
 section: plants_fungi
 feed_url: https://botany.one/feed/
+source_cap: 6
 site_url: https://botany.one/
 source_type: specialist_media
 authority_level: specialist
@@ -6243,6 +6651,7 @@ use_role: baseline
 name: American Journal of Botany
 section: plants_fungi
 feed_url: https://bsapubs.onlinelibrary.wiley.com/action/showFeed?type=etoc&feed=rss&jc=15372197
+source_cap: 6
 site_url: https://bsapubs.onlinelibrary.wiley.com/journal/15372197
 source_type: journal
 authority_level: primary
@@ -6255,6 +6664,7 @@ use_role: reference
 name: MycoKeys
 section: plants_fungi
 feed_url: https://mycokeys.pensoft.net/lib/ajax_srv/article_elements_srv.php?action=rss
+source_cap: 6
 site_url: https://mycokeys.pensoft.net/
 source_type: journal
 authority_level: primary
@@ -6278,6 +6688,7 @@ description_zh: ''
 name: 鉱物たちの庭
 section: minerals_geology
 feed_url: ''
+source_cap: 0
 site_url: https://lapisps.sakura.ne.jp/index.html
 source_type: specialist_media
 authority_level: specialist
@@ -6291,6 +6702,7 @@ use_role: baseline
 name: Mindat News
 section: minerals_geology
 feed_url: https://www.mindat.org/rss.php
+source_cap: 6
 site_url: https://www.mindat.org/
 source_type: reference_tool
 authority_level: primary
@@ -6303,6 +6715,7 @@ use_role: reference
 name: USGS News
 section: minerals_geology
 feed_url: https://www.usgs.gov/news/rss.xml
+source_cap: 6
 site_url: https://www.usgs.gov/news
 source_type: institutional
 authority_level: primary
@@ -6315,6 +6728,7 @@ use_role: baseline
 name: Geology Page
 section: minerals_geology
 feed_url: https://www.geologypage.com/feed
+source_cap: 6
 site_url: https://www.geologypage.com/
 source_type: specialist_media
 authority_level: specialist
@@ -6342,6 +6756,7 @@ description_zh: ''
 name: MIT Technology Review
 section: ai_systems
 feed_url: ''
+source_cap: 0
 site_url: https://www.technologyreview.com/
 source_type: specialist_media
 authority_level: specialist
@@ -6354,6 +6769,7 @@ use_role: baseline
 name: Google AI Blog
 section: ai_systems
 feed_url: ''
+source_cap: 0
 site_url: https://blog.google/technology/ai/
 source_type: specialist_media
 authority_level: specialist
@@ -6366,6 +6782,7 @@ use_role: baseline
 name: Google DeepMind
 section: ai_systems
 feed_url: https://deepmind.google/blog/rss.xml
+source_cap: 6
 site_url: https://deepmind.google/blog/
 source_type: specialist_media
 authority_level: specialist
@@ -6378,6 +6795,7 @@ use_role: baseline
 name: The Verge AI
 section: ai_systems
 feed_url: ''
+source_cap: 0
 site_url: https://www.theverge.com/ai-artificial-intelligence
 source_type: specialist_media
 authority_level: specialist
@@ -6390,6 +6808,7 @@ use_role: baseline
 name: The Gradient
 section: ai_systems
 feed_url: ''
+source_cap: 0
 site_url: https://thegradient.pub/
 source_type: specialist_media
 authority_level: specialist
@@ -6402,6 +6821,7 @@ use_role: baseline
 name: Hugging Face Blog
 section: ai_systems
 feed_url: https://huggingface.co/blog/feed.xml
+source_cap: 6
 site_url: https://huggingface.co/blog
 source_type: specialist_media
 authority_level: specialist
@@ -6414,6 +6834,7 @@ use_role: baseline
 name: Stanford HAI
 section: ai_systems
 feed_url: https://hai.stanford.edu/news/rss.xml
+source_cap: 6
 site_url: https://hai.stanford.edu/
 source_type: specialist_media
 authority_level: primary
@@ -6426,6 +6847,7 @@ use_role: baseline
 name: Stanford AI Index
 section: ai_systems
 feed_url: ''
+source_cap: 0
 site_url: https://hai.stanford.edu/ai-index
 source_type: specialist_media
 authority_level: primary
@@ -6439,6 +6861,7 @@ use_role: baseline
 name: OpenAI News
 section: ai_systems
 feed_url: https://openai.com/news/rss.xml
+source_cap: 6
 site_url: https://openai.com/news/
 source_type: institutional
 authority_level: primary
@@ -6451,6 +6874,7 @@ use_role: baseline
 name: Anthropic News
 section: ai_systems
 feed_url: https://www.anthropic.com/news/rss.xml
+source_cap: 6
 site_url: https://www.anthropic.com/news
 source_type: institutional
 authority_level: primary
@@ -6463,6 +6887,7 @@ use_role: baseline
 name: Meta AI Blog
 section: ai_systems
 feed_url: https://ai.meta.com/blog/rss/
+source_cap: 6
 site_url: https://ai.meta.com/blog/
 source_type: institutional
 authority_level: primary
@@ -6475,6 +6900,7 @@ use_role: baseline
 name: Microsoft Research Blog
 section: ai_systems
 feed_url: https://www.microsoft.com/en-us/research/feed/
+source_cap: 6
 site_url: https://www.microsoft.com/en-us/research/blog/
 source_type: institutional
 authority_level: primary
@@ -6487,6 +6913,7 @@ use_role: baseline
 name: Distill
 section: ai_systems
 feed_url: https://distill.pub/rss.xml
+source_cap: 6
 site_url: https://distill.pub/
 source_type: specialist_media
 authority_level: specialist
@@ -6510,6 +6937,7 @@ description_zh: ''
 name: Ars Technica
 section: computing_cultures
 feed_url: https://feeds.arstechnica.com/arstechnica/index
+source_cap: 6
 site_url: https://arstechnica.com/
 source_type: specialist_media
 authority_level: specialist
@@ -6522,6 +6950,7 @@ use_role: baseline
 name: Simon Willison's Weblog
 section: computing_cultures
 feed_url: https://simonwillison.net/atom/everything/
+source_cap: 6
 site_url: https://simonwillison.net/
 source_type: specialist_media
 authority_level: specialist
@@ -6534,6 +6963,7 @@ use_role: baseline
 name: LWN.net
 section: computing_cultures
 feed_url: https://lwn.net/headlines/rss
+source_cap: 6
 site_url: https://lwn.net/
 source_type: specialist_media
 authority_level: specialist
@@ -6546,6 +6976,7 @@ use_role: baseline
 name: Communications of the ACM
 section: computing_cultures
 feed_url: https://cacm.acm.org/feed/
+source_cap: 6
 site_url: https://cacm.acm.org/feed/
 source_type: specialist_media
 authority_level: specialist
@@ -6558,6 +6989,7 @@ use_role: baseline
 name: Hacker News
 section: computing_cultures
 feed_url: https://news.ycombinator.com/rss
+source_cap: 6
 site_url: https://news.ycombinator.com/
 source_type: specialist_media
 authority_level: specialist
@@ -6570,6 +7002,7 @@ use_role: baseline
 name: hckr news
 section: computing_cultures
 feed_url: ''
+source_cap: 0
 site_url: https://hckrnews.com
 source_type: specialist_media
 authority_level: specialist
@@ -6582,6 +7015,7 @@ use_role: baseline
 name: hackertab
 section: computing_cultures
 feed_url: ''
+source_cap: 0
 site_url: https://now.hackertab.dev
 source_type: specialist_media
 authority_level: specialist
@@ -6594,6 +7028,7 @@ use_role: baseline
 name: HelloGitHub
 section: computing_cultures
 feed_url: ''
+source_cap: 0
 site_url: https://hellogithub.com
 source_type: specialist_media
 authority_level: specialist
@@ -6606,6 +7041,7 @@ use_role: baseline
 name: Product Hunt
 section: computing_cultures
 feed_url: ''
+source_cap: 0
 site_url: https://www.producthunt.com
 source_type: specialist_media
 authority_level: specialist
@@ -6618,6 +7054,7 @@ use_role: baseline
 name: Techmeme
 section: computing_cultures
 feed_url: https://www.techmeme.com/feed.xml
+source_cap: 6
 site_url: https://www.techmeme.com/
 source_type: specialist_media
 authority_level: specialist
@@ -6630,6 +7067,7 @@ use_role: baseline
 name: SoylentNews
 section: computing_cultures
 feed_url: https://soylentnews.org/index.rss
+source_cap: 6
 site_url: https://soylentnews.org
 source_type: specialist_media
 authority_level: specialist
@@ -6642,6 +7080,7 @@ use_role: baseline
 name: Sentiers
 section: computing_cultures
 feed_url: https://sentiers.media/feed/
+source_cap: 6
 site_url: https://sentiers.media
 source_type: specialist_media
 authority_level: specialist
@@ -6654,6 +7093,7 @@ use_role: baseline
 name: 数学 & 物理 & 杂项
 section: computing_cultures
 feed_url: ''
+source_cap: 0
 site_url: https://t.me/math_and_physics_and_misc
 source_type: specialist_media
 authority_level: specialist
@@ -6667,6 +7107,7 @@ use_role: baseline
 name: ACM Queue
 section: computing_cultures
 feed_url: https://queue.acm.org/rss/feeds/queuecontent.xml
+source_cap: 6
 site_url: https://queue.acm.org/
 source_type: specialist_media
 authority_level: specialist
@@ -6679,6 +7120,7 @@ use_role: baseline
 name: IEEE Computer Society
 section: computing_cultures
 feed_url: https://www.computer.org/csdl/rss
+source_cap: 6
 site_url: https://www.computer.org/
 source_type: specialist_media
 authority_level: specialist
@@ -6691,6 +7133,7 @@ use_role: reference
 name: Martin Fowler
 section: computing_cultures
 feed_url: https://martinfowler.com/feed.atom
+source_cap: 6
 site_url: https://martinfowler.com/
 source_type: specialist_media
 authority_level: specialist
@@ -6703,6 +7146,7 @@ use_role: baseline
 name: Julia Evans
 section: computing_cultures
 feed_url: https://jvns.ca/atom.xml
+source_cap: 6
 site_url: https://jvns.ca/
 source_type: specialist_media
 authority_level: specialist
@@ -6726,6 +7170,7 @@ description_zh: ''
 name: Cloudflare Blog
 section: platforms_infrastructure
 feed_url: https://blog.cloudflare.com/rss/
+source_cap: 6
 site_url: https://blog.cloudflare.com/
 source_type: specialist_media
 authority_level: specialist
@@ -6738,6 +7183,7 @@ use_role: baseline
 name: GitHub Blog
 section: platforms_infrastructure
 feed_url: https://github.blog/feed/
+source_cap: 6
 site_url: https://github.blog/
 source_type: specialist_media
 authority_level: specialist
@@ -6750,6 +7196,7 @@ use_role: baseline
 name: GitHub Changelog
 section: platforms_infrastructure
 feed_url: ''
+source_cap: 0
 site_url: https://github.blog/changelog/
 source_type: specialist_media
 authority_level: specialist
@@ -6762,6 +7209,7 @@ use_role: baseline
 name: Mozilla Hacks
 section: platforms_infrastructure
 feed_url: https://hacks.mozilla.org/feed/
+source_cap: 6
 site_url: https://hacks.mozilla.org/
 source_type: specialist_media
 authority_level: specialist
@@ -6774,6 +7222,7 @@ use_role: baseline
 name: Vercel Blog
 section: platforms_infrastructure
 feed_url: https://vercel.com/atom
+source_cap: 6
 site_url: https://vercel.com/blog
 source_type: specialist_media
 authority_level: specialist
@@ -6786,6 +7235,7 @@ use_role: baseline
 name: APNIC Blog
 section: platforms_infrastructure
 feed_url: https://blog.apnic.net/feed/
+source_cap: 6
 site_url: https://blog.apnic.net/
 source_type: specialist_media
 authority_level: specialist
@@ -6799,6 +7249,7 @@ use_role: baseline
 name: Kubernetes Blog
 section: platforms_infrastructure
 feed_url: https://kubernetes.io/feed.xml
+source_cap: 6
 site_url: https://kubernetes.io/blog/
 source_type: institutional
 authority_level: primary
@@ -6811,6 +7262,7 @@ use_role: baseline
 name: AWS News Blog
 section: platforms_infrastructure
 feed_url: https://aws.amazon.com/blogs/aws/feed/
+source_cap: 6
 site_url: https://aws.amazon.com/blogs/aws/
 source_type: institutional
 authority_level: primary
@@ -6823,6 +7275,7 @@ use_role: baseline
 name: Google Cloud Blog
 section: platforms_infrastructure
 feed_url: https://cloudblog.withgoogle.com/rss/
+source_cap: 6
 site_url: https://cloud.google.com/blog/
 source_type: institutional
 authority_level: primary
@@ -6835,6 +7288,7 @@ use_role: baseline
 name: Azure Blog
 section: platforms_infrastructure
 feed_url: https://azure.microsoft.com/en-us/blog/feed/
+source_cap: 6
 site_url: https://azure.microsoft.com/en-us/blog/
 source_type: institutional
 authority_level: primary
@@ -6847,6 +7301,7 @@ use_role: baseline
 name: Netflix TechBlog
 section: platforms_infrastructure
 feed_url: https://netflixtechblog.com/feed
+source_cap: 6
 site_url: https://netflixtechblog.com/
 source_type: specialist_media
 authority_level: specialist
@@ -6870,6 +7325,7 @@ description_zh: ''
 name: The Verge
 section: interfaces_media_technology
 feed_url: https://www.theverge.com/rss/index.xml
+source_cap: 6
 site_url: https://www.theverge.com/
 source_type: specialist_media
 authority_level: specialist
@@ -6882,6 +7338,7 @@ use_role: baseline
 name: Wired
 section: interfaces_media_technology
 feed_url: https://www.wired.com/feed/rss
+source_cap: 6
 site_url: https://www.wired.com/
 source_type: specialist_media
 authority_level: specialist
@@ -6894,6 +7351,7 @@ use_role: baseline
 name: Wired – Science
 section: interfaces_media_technology
 feed_url: ''
+source_cap: 0
 site_url: https://www.wired.com/category/science/
 source_type: specialist_media
 authority_level: specialist
@@ -6906,6 +7364,7 @@ use_role: baseline
 name: Nielsen Norman Group
 section: interfaces_media_technology
 feed_url: ''
+source_cap: 0
 site_url: https://www.nngroup.com/articles/
 source_type: specialist_media
 authority_level: specialist
@@ -6918,6 +7377,7 @@ use_role: baseline
 name: Platformer
 section: interfaces_media_technology
 feed_url: https://www.platformer.news/feed
+source_cap: 6
 site_url: https://www.platformer.news/
 source_type: specialist_media
 authority_level: specialist
@@ -6930,6 +7390,7 @@ use_role: baseline
 name: Garbage Day
 section: interfaces_media_technology
 feed_url: https://www.garbageday.email/feed
+source_cap: 6
 site_url: https://www.garbageday.email/
 source_type: specialist_media
 authority_level: specialist
@@ -6942,6 +7403,7 @@ use_role: baseline
 name: Search Engine Land
 section: interfaces_media_technology
 feed_url: https://searchengineland.com/feed
+source_cap: 6
 site_url: https://searchengineland.com/
 source_type: specialist_media
 authority_level: specialist
@@ -6965,6 +7427,7 @@ description_zh: ''
 name: IEEE Spectrum Robotics
 section: cybernetics_automation
 feed_url: https://spectrum.ieee.org/feeds/topic/robotics.rss
+source_cap: 6
 site_url: https://spectrum.ieee.org/robotics
 source_type: specialist_media
 authority_level: specialist
@@ -6978,6 +7441,7 @@ use_role: baseline
 name: IEEE Spectrum Aerospace
 section: cybernetics_automation
 feed_url: https://spectrum.ieee.org/feeds/topic/aerospace.rss
+source_cap: 6
 site_url: https://spectrum.ieee.org/aerospace
 source_type: specialist_media
 authority_level: specialist
@@ -6990,6 +7454,7 @@ use_role: baseline
 name: Robotics Business Review
 section: cybernetics_automation
 feed_url: https://www.roboticsbusinessreview.com/feed/
+source_cap: 6
 site_url: https://www.roboticsbusinessreview.com/
 source_type: trade_publication
 authority_level: specialist
@@ -7013,6 +7478,7 @@ description_zh: ''
 name: ARRL News
 section: hardware_radio_embedded
 feed_url: https://www.arrl.org/arrl.rss
+source_cap: 6
 site_url: https://www.arrl.org/news
 source_type: specialist_media
 authority_level: specialist
@@ -7025,6 +7491,7 @@ use_role: baseline
 name: RTL-SDR Blog
 section: hardware_radio_embedded
 feed_url: https://www.rtl-sdr.com/feed/
+source_cap: 6
 site_url: https://www.rtl-sdr.com/
 source_type: specialist_media
 authority_level: specialist
@@ -7037,6 +7504,7 @@ use_role: baseline
 name: SWLing Post
 section: hardware_radio_embedded
 feed_url: https://swling.com/blog/feed/
+source_cap: 6
 site_url: https://swling.com/blog/
 source_type: specialist_media
 authority_level: specialist
@@ -7049,6 +7517,7 @@ use_role: baseline
 name: Radio Society of Great Britain
 section: hardware_radio_embedded
 feed_url: https://rsgb.org/main/feed/
+source_cap: 6
 site_url: https://rsgb.org/main/
 source_type: specialist_media
 authority_level: specialist
@@ -7061,6 +7530,7 @@ use_role: baseline
 name: Hackaday
 section: hardware_radio_embedded
 feed_url: https://hackaday.com/blog/feed/
+source_cap: 6
 site_url: https://hackaday.com/
 source_type: specialist_media
 authority_level: specialist
@@ -7073,6 +7543,7 @@ use_role: baseline
 name: IEEE Spectrum
 section: hardware_radio_embedded
 feed_url: https://spectrum.ieee.org/feeds/feed.rss
+source_cap: 6
 site_url: https://spectrum.ieee.org/
 source_type: specialist_media
 authority_level: specialist
@@ -7085,6 +7556,7 @@ use_role: baseline
 name: CNX Software
 section: hardware_radio_embedded
 feed_url: https://www.cnx-software.com/feed/
+source_cap: 6
 site_url: https://www.cnx-software.com/
 source_type: specialist_media
 authority_level: specialist
@@ -7097,6 +7569,7 @@ use_role: baseline
 name: Raspberry Pi Blog
 section: hardware_radio_embedded
 feed_url: https://www.raspberrypi.com/news/feed/
+source_cap: 6
 site_url: https://www.raspberrypi.com/news/
 source_type: specialist_media
 authority_level: specialist
@@ -7109,6 +7582,7 @@ use_role: baseline
 name: Adafruit Blog
 section: hardware_radio_embedded
 feed_url: https://blog.adafruit.com/feed/
+source_cap: 6
 site_url: https://blog.adafruit.com/
 source_type: specialist_media
 authority_level: specialist
@@ -7121,6 +7595,7 @@ use_role: baseline
 name: SparkFun News
 section: hardware_radio_embedded
 feed_url: https://www.sparkfun.com/news/rss
+source_cap: 6
 site_url: https://www.sparkfun.com/news
 source_type: specialist_media
 authority_level: specialist
@@ -7133,6 +7608,7 @@ use_role: baseline
 name: iFixit News
 section: hardware_radio_embedded
 feed_url: https://www.ifixit.com/News/feed
+source_cap: 6
 site_url: https://www.ifixit.com/News
 source_type: specialist_media
 authority_level: specialist
@@ -7146,6 +7622,7 @@ use_role: baseline
 name: NVIDIA Technical Blog
 section: hardware_radio_embedded
 feed_url: https://developer.nvidia.com/blog/feed/
+source_cap: 6
 site_url: https://developer.nvidia.com/blog/
 source_type: specialist_media
 authority_level: specialist
@@ -7158,6 +7635,7 @@ use_role: baseline
 name: ServeTheHome
 section: hardware_radio_embedded
 feed_url: https://www.servethehome.com/feed/
+source_cap: 6
 site_url: https://www.servethehome.com/
 source_type: specialist_media
 authority_level: specialist
@@ -7170,6 +7648,7 @@ use_role: baseline
 name: EE Times
 section: hardware_radio_embedded
 feed_url: https://www.eetimes.com/feed/
+source_cap: 6
 site_url: https://www.eetimes.com/
 source_type: trade_publication
 authority_level: specialist
@@ -7193,6 +7672,7 @@ description_zh: ''
 name: QRZ
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://www.qrz.com
 source_type: reference_tool
 authority_level: primary
@@ -7205,6 +7685,7 @@ use_role: reference
 name: RadioID
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://radioid.net
 source_type: reference_tool
 authority_level: primary
@@ -7217,6 +7698,7 @@ use_role: reference
 name: LoTW / Logbook of The World
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://lotw.arrl.org/
 source_type: reference_tool
 authority_level: primary
@@ -7229,6 +7711,7 @@ use_role: reference
 name: Cloudlog
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://www.magicbug.co.uk/cloudlog/
 source_type: reference_tool
 authority_level: primary
@@ -7241,6 +7724,7 @@ use_role: reference
 name: BrandMeister
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://brandmeister.network/
 source_type: reference_tool
 authority_level: primary
@@ -7253,6 +7737,7 @@ use_role: reference
 name: TGIF
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://tgif.network/
 source_type: reference_tool
 authority_level: primary
@@ -7265,6 +7750,7 @@ use_role: reference
 name: D-STAR
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://www.dstar.org/
 source_type: reference_tool
 authority_level: primary
@@ -7277,6 +7763,7 @@ use_role: reference
 name: YSF / Wires-X
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://systemfusion.yaesu.com/
 source_type: reference_tool
 authority_level: primary
@@ -7289,6 +7776,7 @@ use_role: reference
 name: EchoLink
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://www.echolink.org/
 source_type: reference_tool
 authority_level: primary
@@ -7301,6 +7789,7 @@ use_role: reference
 name: IRLP
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://www.irlp.net/
 source_type: reference_tool
 authority_level: primary
@@ -7313,6 +7802,7 @@ use_role: reference
 name: AllStarLink
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://www.allstarlink.org/
 source_type: reference_tool
 authority_level: primary
@@ -7325,6 +7815,7 @@ use_role: reference
 name: HamVoIP
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://hamvoip.org/
 source_type: reference_tool
 authority_level: primary
@@ -7337,6 +7828,7 @@ use_role: reference
 name: DVSwitch
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://dvswitch.groups.io/g/main/wiki
 source_type: reference_tool
 authority_level: primary
@@ -7349,6 +7841,7 @@ use_role: reference
 name: MMDVM
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://github.com/g4klx/MMDVM
 source_type: reference_tool
 authority_level: primary
@@ -7361,6 +7854,7 @@ use_role: reference
 name: FT8 / WSJT-X
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://wsjt.sourceforge.io/
 source_type: reference_tool
 authority_level: primary
@@ -7373,6 +7867,7 @@ use_role: reference
 name: WSPR
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://www.wsprnet.org/
 source_type: reference_tool
 authority_level: primary
@@ -7385,6 +7880,7 @@ use_role: reference
 name: PSK31
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://www.psk31.com/
 source_type: reference_tool
 authority_level: primary
@@ -7397,6 +7893,7 @@ use_role: reference
 name: APRS
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://aprs.fi/
 source_type: reference_tool
 authority_level: primary
@@ -7409,6 +7906,7 @@ use_role: reference
 name: AX.25 Packet Radio
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://www.tapr.org/ax25.html
 source_type: reference_tool
 authority_level: primary
@@ -7421,6 +7919,7 @@ use_role: reference
 name: Winlink
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://winlink.org/
 source_type: reference_tool
 authority_level: primary
@@ -7433,6 +7932,7 @@ use_role: reference
 name: Maidenhead Locator System
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://ham.c5r.app/maidenhead-grid
 source_type: reference_tool
 authority_level: primary
@@ -7445,6 +7945,7 @@ use_role: reference
 name: DroidStar
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://github.com/nostar/DroidStar
 source_type: reference_tool
 authority_level: primary
@@ -7457,6 +7958,7 @@ use_role: reference
 name: DroidStar Vocoder Servers — pizzanbeer
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: http://pizzanbeer.net/
 source_type: reference_tool
 authority_level: primary
@@ -7469,6 +7971,7 @@ use_role: reference
 name: DroidStar Vocoder Servers — dudestar
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: http://dudestar.gw8szl.co.uk/Droidstar/
 source_type: reference_tool
 authority_level: primary
@@ -7481,6 +7984,7 @@ use_role: reference
 name: Pi-Star
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://www.pistar.uk/
 source_type: reference_tool
 authority_level: primary
@@ -7493,6 +7997,7 @@ use_role: reference
 name: Pi-Star Forum
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://forum.pistar.uk/
 source_type: reference_tool
 authority_level: primary
@@ -7505,6 +8010,7 @@ use_role: reference
 name: Fldigi
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://www.w1hkj.com/
 source_type: reference_tool
 authority_level: primary
@@ -7517,6 +8023,7 @@ use_role: reference
 name: CHIRP
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://chirpmyradio.com/
 source_type: reference_tool
 authority_level: primary
@@ -7529,6 +8036,7 @@ use_role: reference
 name: HAM 小工具
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://ham.c5r.app
 source_type: reference_tool
 authority_level: primary
@@ -7541,6 +8049,7 @@ use_role: reference
 name: MIIT 中国工业和信息化部
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://www.miit.gov.cn/
 source_type: reference_tool
 authority_level: primary
@@ -7553,6 +8062,7 @@ use_role: reference
 name: CRAC 中国无线电协会
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://www.crac.org.cn/
 source_type: reference_tool
 authority_level: primary
@@ -7565,6 +8075,7 @@ use_role: reference
 name: 中国题库 A 新
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://exam.ham.upall.cn/?t=a_2025
 source_type: reference_tool
 authority_level: primary
@@ -7577,6 +8088,7 @@ use_role: reference
 name: 中国题库 B 新
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://exam.ham.upall.cn/?t=b_2025
 source_type: reference_tool
 authority_level: primary
@@ -7589,6 +8101,7 @@ use_role: reference
 name: 中国题库 B 模
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://ham-exam.iots.vip
 source_type: reference_tool
 authority_level: primary
@@ -7601,6 +8114,7 @@ use_role: reference
 name: 中国题库 C 新
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://exam.ham.upall.cn/?t=c_2025
 source_type: reference_tool
 authority_level: primary
@@ -7613,6 +8127,7 @@ use_role: reference
 name: FCC Amateur Radio Service
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://www.fcc.gov/wireless/bureau-divisions/mobility-division/amateur-radio-service
 source_type: reference_tool
 authority_level: primary
@@ -7625,6 +8140,7 @@ use_role: reference
 name: ARRL Licensing & Exams
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://www.arrl.org/licensing-education-training
 source_type: reference_tool
 authority_level: primary
@@ -7637,6 +8153,7 @@ use_role: reference
 name: US 题库 T
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://exam.ham.upall.cn/?t=t
 source_type: reference_tool
 authority_level: primary
@@ -7649,6 +8166,7 @@ use_role: reference
 name: US 题库 G
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://exam.ham.upall.cn/?t=g
 source_type: reference_tool
 authority_level: primary
@@ -7661,6 +8179,7 @@ use_role: reference
 name: US 题库 E
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://exam.ham.upall.cn/?t=e
 source_type: reference_tool
 authority_level: primary
@@ -7673,6 +8192,7 @@ use_role: reference
 name: JARL
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://www.jarl.org/English/
 source_type: reference_tool
 authority_level: primary
@@ -7685,6 +8205,7 @@ use_role: reference
 name: MIC Japan
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://www.soumu.go.jp/english/
 source_type: reference_tool
 authority_level: primary
@@ -7697,6 +8218,7 @@ use_role: reference
 name: Ofcom Amateur Radio
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://www.ofcom.org.uk/spectrum/radio-equipment/amateur-radio
 source_type: reference_tool
 authority_level: primary
@@ -7709,6 +8231,7 @@ use_role: reference
 name: RSGB Training
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://rsgb.org/main/clubs-training/training/
 source_type: reference_tool
 authority_level: primary
@@ -7721,6 +8244,7 @@ use_role: reference
 name: Bundesnetzagentur
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://www.bundesnetzagentur.de/
 source_type: reference_tool
 authority_level: primary
@@ -7733,6 +8257,7 @@ use_role: reference
 name: DARC
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://www.darc.de/
 source_type: reference_tool
 authority_level: primary
@@ -7745,6 +8270,7 @@ use_role: reference
 name: CEPT
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://www.cept.org/
 source_type: reference_tool
 authority_level: primary
@@ -7757,6 +8283,7 @@ use_role: reference
 name: CEPT Amateur Radio
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://www.cept.org/ecc/topics/amateur-radio
 source_type: reference_tool
 authority_level: primary
@@ -7769,6 +8296,7 @@ use_role: reference
 name: Celestrak
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://celestrak.org/NORAD/elements/supplemental/
 source_type: reference_tool
 authority_level: primary
@@ -7781,6 +8309,7 @@ use_role: reference
 name: AMSAT Satellite Status
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://www.amsat.org/status/
 source_type: reference_tool
 authority_level: primary
@@ -7793,6 +8322,7 @@ use_role: reference
 name: GoSatWatch
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://gosoftworks.com/apps/gosatwatch/users-guide/
 source_type: reference_tool
 authority_level: primary
@@ -7805,6 +8335,7 @@ use_role: reference
 name: ISS Detector
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://issdetector.com/
 source_type: reference_tool
 authority_level: primary
@@ -7817,6 +8348,7 @@ use_role: reference
 name: AMSAT
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://www.amsat.org/
 source_type: reference_tool
 authority_level: primary
@@ -7829,6 +8361,7 @@ use_role: reference
 name: AMSAT-DL
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://amsat-dl.org/
 source_type: reference_tool
 authority_level: primary
@@ -7841,6 +8374,7 @@ use_role: reference
 name: SatNOGS
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://satnogs.org/
 source_type: reference_tool
 authority_level: primary
@@ -7853,6 +8387,7 @@ use_role: reference
 name: ARRL
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://www.arrl.org/
 source_type: reference_tool
 authority_level: primary
@@ -7865,6 +8400,7 @@ use_role: reference
 name: RSGB
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://rsgb.org/
 source_type: reference_tool
 authority_level: primary
@@ -7877,6 +8413,7 @@ use_role: reference
 name: DMR-MARC
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://www.dmr-marc.net/
 source_type: reference_tool
 authority_level: primary
@@ -7889,6 +8426,7 @@ use_role: reference
 name: FreeDV
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://freedv.org/
 source_type: reference_tool
 authority_level: primary
@@ -7901,6 +8439,7 @@ use_role: reference
 name: OARC
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://www.oarc.uk/
 source_type: reference_tool
 authority_level: primary
@@ -7913,6 +8452,7 @@ use_role: reference
 name: HRCC
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://hamradiocrashcourse.com/
 source_type: reference_tool
 authority_level: primary
@@ -7925,6 +8465,7 @@ use_role: reference
 name: eHam
 section: ham_radio
 feed_url: ''
+source_cap: 0
 site_url: https://www.eham.net/
 source_type: reference_tool
 authority_level: primary
@@ -7948,6 +8489,7 @@ description_zh: ''
 name: Electronic Frontier Foundation
 section: technology_politics
 feed_url: https://www.eff.org/rss/updates.xml
+source_cap: 6
 site_url: https://www.eff.org/updates
 source_type: specialist_media
 authority_level: specialist
@@ -7960,6 +8502,7 @@ use_role: baseline
 name: Tech Policy Press
 section: technology_politics
 feed_url: https://www.techpolicy.press/rss/
+source_cap: 6
 site_url: https://www.techpolicy.press/
 source_type: specialist_media
 authority_level: specialist
@@ -7972,6 +8515,7 @@ use_role: baseline
 name: Rest of World
 section: technology_politics
 feed_url: https://restofworld.org/feed/latest/
+source_cap: 6
 site_url: https://restofworld.org/
 source_type: specialist_media
 authority_level: specialist
@@ -7984,6 +8528,7 @@ use_role: baseline
 name: 404 Media
 section: technology_politics
 feed_url: https://www.404media.co/rss/
+source_cap: 6
 site_url: https://www.404media.co/
 source_type: specialist_media
 authority_level: specialist
@@ -7996,6 +8541,7 @@ use_role: baseline
 name: The Markup
 section: technology_politics
 feed_url: https://themarkup.org/feeds/rss.xml
+source_cap: 6
 site_url: https://themarkup.org/
 source_type: specialist_media
 authority_level: specialist
@@ -8008,6 +8554,7 @@ use_role: baseline
 name: Access Now
 section: technology_politics
 feed_url: https://www.accessnow.org/feed/
+source_cap: 6
 site_url: https://www.accessnow.org/
 source_type: specialist_media
 authority_level: specialist
@@ -8021,6 +8568,7 @@ use_role: baseline
 name: Schneier on Security
 section: technology_politics
 feed_url: https://www.schneier.com/feed/atom/
+source_cap: 6
 site_url: https://www.schneier.com/
 source_type: specialist_media
 authority_level: specialist
@@ -8033,6 +8581,7 @@ use_role: baseline
 name: Krebs on Security
 section: technology_politics
 feed_url: https://krebsonsecurity.com/feed/
+source_cap: 6
 site_url: https://krebsonsecurity.com/
 source_type: specialist_media
 authority_level: specialist
@@ -8045,6 +8594,7 @@ use_role: baseline
 name: Lawfare Cyber
 section: technology_politics
 feed_url: https://www.lawfaremedia.org/topic/cybersecurity/feed
+source_cap: 6
 site_url: https://www.lawfaremedia.org/topic/cybersecurity
 source_type: specialist_media
 authority_level: specialist
@@ -8072,6 +8622,7 @@ description_zh: ''
 name: OutdoorGearLab
 section: field_gear
 feed_url: https://www.outdoorgearlab.com/feed
+source_cap: 6
 site_url: https://www.outdoorgearlab.com/
 source_type: specialist_media
 authority_level: specialist
@@ -8084,6 +8635,7 @@ use_role: culture_probe
 name: SectionHiker
 section: field_gear
 feed_url: https://sectionhiker.com/feed/
+source_cap: 6
 site_url: https://sectionhiker.com/
 source_type: specialist_media
 authority_level: specialist
@@ -8096,6 +8648,7 @@ use_role: culture_probe
 name: Field Mag
 section: field_gear
 feed_url: https://www.fieldmag.com/rss
+source_cap: 6
 site_url: https://www.fieldmag.com/
 source_type: specialist_media
 authority_level: specialist
@@ -8108,6 +8661,7 @@ use_role: culture_probe
 name: Bikepacking.com
 section: field_gear
 feed_url: https://bikepacking.com/feed/
+source_cap: 6
 site_url: https://bikepacking.com/
 source_type: specialist_media
 authority_level: specialist
@@ -8120,6 +8674,7 @@ use_role: culture_probe
 name: Gear Patrol
 section: field_gear
 feed_url: https://www.gearpatrol.com/rss/
+source_cap: 6
 site_url: https://www.gearpatrol.com/
 source_type: specialist_media
 authority_level: specialist
@@ -8132,6 +8687,7 @@ use_role: culture_probe
 name: KnifeNews
 section: field_gear
 feed_url: https://knifenews.com/feed/
+source_cap: 6
 site_url: https://knifenews.com/
 source_type: specialist_media
 authority_level: specialist
@@ -8144,6 +8700,7 @@ use_role: culture_probe
 name: BLADE Magazine Knife News
 section: field_gear
 feed_url: ''
+source_cap: 0
 site_url: https://blademag.com/knife-news
 source_type: specialist_media
 authority_level: specialist
@@ -8157,6 +8714,7 @@ use_role: culture_probe
 name: Wirecutter Outdoors
 section: field_gear
 feed_url: https://www.nytimes.com/wirecutter/outdoors/rss/
+source_cap: 6
 site_url: https://www.nytimes.com/wirecutter/outdoors/
 source_type: specialist_media
 authority_level: specialist
@@ -8169,6 +8727,7 @@ use_role: reference
 name: Adventure Journal
 section: field_gear
 feed_url: https://www.adventure-journal.com/feed/
+source_cap: 6
 site_url: https://www.adventure-journal.com/
 source_type: specialist_media
 authority_level: specialist
@@ -8181,6 +8740,7 @@ use_role: culture_probe
 name: Backpacking Light
 section: field_gear
 feed_url: https://backpackinglight.com/feed/
+source_cap: 6
 site_url: https://backpackinglight.com/
 source_type: specialist_media
 authority_level: specialist
@@ -8204,6 +8764,7 @@ description_zh: ''
 name: Carryology
 section: everyday_carry
 feed_url: https://www.carryology.com/feed/
+source_cap: 6
 site_url: https://www.carryology.com/
 source_type: specialist_media
 authority_level: specialist
@@ -8216,6 +8777,7 @@ use_role: culture_probe
 name: Everyday Carry
 section: everyday_carry
 feed_url: https://everydaycarry.com/rss
+source_cap: 6
 site_url: https://everydaycarry.com/
 source_type: specialist_media
 authority_level: specialist
@@ -8228,6 +8790,7 @@ use_role: culture_probe
 name: Best Damn EDC
 section: everyday_carry
 feed_url: ''
+source_cap: 0
 site_url: https://www.bestdamnedc.com/
 source_type: specialist_media
 authority_level: specialist
@@ -8241,6 +8804,7 @@ use_role: culture_probe
 name: The Prepared
 section: everyday_carry
 feed_url: https://theprepared.com/feed/
+source_cap: 6
 site_url: https://theprepared.com/
 source_type: specialist_media
 authority_level: specialist
@@ -8253,6 +8817,7 @@ use_role: reference
 name: Tools and Toys
 section: everyday_carry
 feed_url: https://toolsandtoys.net/feed/
+source_cap: 6
 site_url: https://toolsandtoys.net/
 source_type: specialist_media
 authority_level: commentary
@@ -8276,6 +8841,7 @@ description_zh: ''
 name: 'Make:'
 section: tools_workshop
 feed_url: https://makezine.com/feed/
+source_cap: 6
 site_url: https://makezine.com/
 source_type: specialist_media
 authority_level: specialist
@@ -8288,6 +8854,7 @@ use_role: culture_probe
 name: Core77
 section: tools_workshop
 feed_url: https://www.core77.com/rss
+source_cap: 6
 site_url: https://www.core77.com/
 source_type: specialist_media
 authority_level: specialist
@@ -8300,6 +8867,7 @@ use_role: culture_probe
 name: Cool Tools
 section: tools_workshop
 feed_url: https://kk.org/cooltools/feed/
+source_cap: 6
 site_url: https://kk.org/cooltools/
 source_type: specialist_media
 authority_level: specialist
@@ -8312,6 +8880,7 @@ use_role: culture_probe
 name: Low-Tech Magazine
 section: tools_workshop
 feed_url: https://solar.lowtechmagazine.com/feeds/all-en.atom.xml
+source_cap: 6
 site_url: https://solar.lowtechmagazine.com/
 source_type: specialist_media
 authority_level: specialist
@@ -8324,6 +8893,7 @@ use_role: culture_probe
 name: 越後の大工道具
 section: tools_workshop
 feed_url: ''
+source_cap: 0
 site_url: https://daikuhamono.sakura.ne.jp
 source_type: specialist_media
 authority_level: specialist
@@ -8336,6 +8906,7 @@ use_role: culture_probe
 name: 大工さんが作ったページ
 section: tools_workshop
 feed_url: ''
+source_cap: 0
 site_url: https://tyouken.tendon.bz/index.html
 source_type: specialist_media
 authority_level: specialist
@@ -8348,6 +8919,7 @@ use_role: culture_probe
 name: Combination Wrench
 section: tools_workshop
 feed_url: ''
+source_cap: 0
 site_url: https://ameblo.jp/corgibell/
 source_type: specialist_media
 authority_level: specialist
@@ -8361,6 +8933,7 @@ use_role: culture_probe
 name: Fine Woodworking
 section: tools_workshop
 feed_url: https://www.finewoodworking.com/feed
+source_cap: 6
 site_url: https://www.finewoodworking.com/
 source_type: trade_publication
 authority_level: specialist
@@ -8373,6 +8946,7 @@ use_role: reference
 name: Popular Woodworking
 section: tools_workshop
 feed_url: https://www.popularwoodworking.com/feed/
+source_cap: 6
 site_url: https://www.popularwoodworking.com/
 source_type: trade_publication
 authority_level: specialist
@@ -8396,6 +8970,7 @@ description_zh: ''
 name: iFixit News
 section: repair_maintenance
 feed_url: https://www.ifixit.com/News/feed
+source_cap: 6
 site_url: https://www.ifixit.com/News
 source_type: specialist_media
 authority_level: specialist
@@ -8408,6 +8983,7 @@ use_role: culture_probe
 name: Repair.org
 section: repair_maintenance
 feed_url: https://www.repair.org/blog?format=rss
+source_cap: 6
 site_url: https://www.repair.org/
 source_type: specialist_media
 authority_level: specialist
@@ -8420,6 +8996,7 @@ use_role: culture_probe
 name: The Restart Project
 section: repair_maintenance
 feed_url: https://therestartproject.org/feed/
+source_cap: 6
 site_url: https://therestartproject.org/
 source_type: specialist_media
 authority_level: specialist
@@ -8443,6 +9020,7 @@ description_zh: ''
 name: SONY PCM-A10 Help Guide
 section: manuals
 feed_url: ''
+source_cap: 0
 site_url: https://helpguide.sony.net/icd/pcma10/v1/zh-cn/index.html
 source_type: manual
 authority_level: primary
@@ -8455,6 +9033,7 @@ use_role: reference
 name: Suunto Vertical User Guide (ZH)
 section: manuals
 feed_url: ''
+source_cap: 0
 site_url: https://ns.suunto.com/Manuals/Suunto_Vertical/Userguides//Suunto_Vertical_UserGuide_ZH.pdf
 source_type: manual
 authority_level: primary
@@ -8482,6 +9061,7 @@ description_zh: ''
 name: Open Culture
 section: reference_pool
 feed_url: ''
+source_cap: 0
 site_url: http://www.openculture.com/
 source_type: reference_tool
 authority_level: aggregator
@@ -8494,6 +9074,7 @@ use_role: reference
 name: Library Stack
 section: reference_pool
 feed_url: ''
+source_cap: 0
 site_url: https://www.librarystack.org/
 source_type: reference_tool
 authority_level: aggregator
@@ -8506,6 +9087,7 @@ use_role: reference
 name: The Collector
 section: reference_pool
 feed_url: ''
+source_cap: 0
 site_url: https://www.thecollector.com/
 source_type: reference_tool
 authority_level: aggregator
@@ -8518,6 +9100,7 @@ use_role: reference
 name: Programming Historian
 section: reference_pool
 feed_url: ''
+source_cap: 0
 site_url: https://programminghistorian.org/
 source_type: reference_tool
 authority_level: aggregator
@@ -8530,6 +9113,7 @@ use_role: reference
 name: DH Now / Digital Humanities Now
 section: reference_pool
 feed_url: ''
+source_cap: 0
 site_url: https://digitalhumanitiesnow.org/
 source_type: reference_tool
 authority_level: aggregator
@@ -8542,6 +9126,7 @@ use_role: reference
 name: Clearview Driving
 section: reference_pool
 feed_url: ''
+source_cap: 0
 site_url: https://youtube.com/@clearviewdriving
 source_type: video_channel
 authority_level: community
@@ -8565,6 +9150,7 @@ description_zh: ''
 name: Plane Crash Info
 section: maps_geo_data
 feed_url: ''
+source_cap: 0
 site_url: http://planecrashinfo.com
 source_type: reference_tool
 authority_level: aggregator
@@ -8577,6 +9163,7 @@ use_role: reference
 name: 天地图 中国国家地理信息公共服务平台
 section: maps_geo_data
 feed_url: ''
+source_cap: 0
 site_url: https://www.tianditu.gov.cn
 source_type: reference_tool
 authority_level: primary
@@ -8589,6 +9176,7 @@ use_role: reference
 name: Earth Wind Map
 section: maps_geo_data
 feed_url: ''
+source_cap: 0
 site_url: https://earth.nullschool.net/#current/wind/surface/level/orthographic=-240.00,0.00,402
 source_type: reference_tool
 authority_level: aggregator
@@ -8601,6 +9189,7 @@ use_role: reference
 name: Native Land Digital
 section: maps_geo_data
 feed_url: ''
+source_cap: 0
 site_url: https://native-land.ca
 source_type: reference_tool
 authority_level: aggregator
@@ -8613,6 +9202,7 @@ use_role: reference
 name: City Roads
 section: maps_geo_data
 feed_url: ''
+source_cap: 0
 site_url: https://anvaka.github.io/city-roads/
 source_type: reference_tool
 authority_level: aggregator
@@ -8625,6 +9215,7 @@ use_role: reference
 name: 全球光污染地图
 section: maps_geo_data
 feed_url: ''
+source_cap: 0
 site_url: https://www.darkmap.cn
 source_type: reference_tool
 authority_level: aggregator
@@ -8637,6 +9228,7 @@ use_role: reference
 name: David Rumsey Map
 section: maps_geo_data
 feed_url: ''
+source_cap: 0
 site_url: https://www.davidrumsey.com/
 source_type: reference_tool
 authority_level: aggregator
@@ -8649,6 +9241,7 @@ use_role: reference
 name: 埔里百年歷史地圖
 section: maps_geo_data
 feed_url: ''
+source_cap: 0
 site_url: https://gissrv4.sinica.edu.tw/gis/puli.html
 source_type: reference_tool
 authority_level: primary
@@ -8661,6 +9254,7 @@ use_role: reference
 name: 中国历史地图集
 section: maps_geo_data
 feed_url: ''
+source_cap: 0
 site_url: http://www.ccamc.co/chinese_historical_map/index.php
 source_type: reference_tool
 authority_level: aggregator
@@ -8673,6 +9267,7 @@ use_role: reference
 name: Manhole
 section: maps_geo_data
 feed_url: ''
+source_cap: 0
 site_url: https://manhole.co.il
 source_type: reference_tool
 authority_level: aggregator
@@ -8685,6 +9280,7 @@ use_role: reference
 name: A View From My Seat
 section: maps_geo_data
 feed_url: ''
+source_cap: 0
 site_url: https://aviewfrommyseat.com/
 source_type: reference_tool
 authority_level: aggregator
@@ -8697,6 +9293,7 @@ use_role: reference
 name: ArcGIS Story Maps
 section: maps_geo_data
 feed_url: ''
+source_cap: 0
 site_url: https://storymaps.arcgis.com/stories/e927741a6a1c4157a1e3a91a2645f3f8
 source_type: reference_tool
 authority_level: aggregator
@@ -8709,6 +9306,7 @@ use_role: reference
 name: 中国观景指数
 section: maps_geo_data
 feed_url: ''
+source_cap: 0
 site_url: https://viewpre.com
 source_type: reference_tool
 authority_level: aggregator
@@ -8732,6 +9330,7 @@ description_zh: ''
 name: sooPAT 专利搜索
 section: document_search
 feed_url: ''
+source_cap: 0
 site_url: https://www.soopat.com
 source_type: reference_tool
 authority_level: aggregator
@@ -8744,6 +9343,7 @@ use_role: reference
 name: All About RSS
 section: document_search
 feed_url: ''
+source_cap: 0
 site_url: https://github.com/AboutRSS/ALL-about-RSS
 source_type: reference_tool
 authority_level: aggregator
@@ -8757,6 +9357,7 @@ use_role: reference
 name: IEEE Xplore
 section: document_search
 feed_url: ''
+source_cap: 0
 site_url: https://ieeexplore.ieee.org/
 source_type: reference_tool
 authority_level: primary
@@ -8769,6 +9370,7 @@ use_role: reference
 name: OpenAlex
 section: document_search
 feed_url: ''
+source_cap: 0
 site_url: https://openalex.org/
 source_type: reference_tool
 authority_level: aggregator
@@ -8781,6 +9383,7 @@ use_role: reference
 name: Crossref
 section: document_search
 feed_url: ''
+source_cap: 0
 site_url: https://www.crossref.org/
 source_type: reference_tool
 authority_level: primary
@@ -8804,6 +9407,7 @@ description_zh: ''
 name: Feedly
 section: rss_feed_management
 feed_url: ''
+source_cap: 0
 site_url: https://feedly.com/
 source_type: reference_tool
 authority_level: aggregator
@@ -8816,6 +9420,7 @@ use_role: reference
 name: Inoreader
 section: rss_feed_management
 feed_url: ''
+source_cap: 0
 site_url: https://www.inoreader.com/
 source_type: reference_tool
 authority_level: aggregator
@@ -8828,6 +9433,7 @@ use_role: reference
 name: Miniflux
 section: rss_feed_management
 feed_url: ''
+source_cap: 0
 site_url: https://miniflux.app/
 source_type: reference_tool
 authority_level: aggregator
@@ -8851,6 +9457,7 @@ description_zh: ''
 name: Substack Reads
 section: archives_aggregators
 feed_url: ''
+source_cap: 0
 site_url: https://on.substack.com/p/reads
 source_type: reference_tool
 authority_level: aggregator
@@ -8863,6 +9470,7 @@ use_role: reference
 name: Medium Staff Picks
 section: archives_aggregators
 feed_url: ''
+source_cap: 0
 site_url: https://medium.com/tag/staff-picks
 source_type: reference_tool
 authority_level: aggregator
@@ -8875,6 +9483,7 @@ use_role: reference
 name: kottke.org
 section: archives_aggregators
 feed_url: ''
+source_cap: 0
 site_url: https://kottke.org/
 source_type: reference_tool
 authority_level: aggregator
@@ -8887,6 +9496,7 @@ use_role: reference
 name: Philosophy Paperboy
 section: archives_aggregators
 feed_url: ''
+source_cap: 0
 site_url: http://www.philosophypaperboy.com
 source_type: reference_tool
 authority_level: aggregator
@@ -8900,6 +9510,7 @@ use_role: reference
 name: Data is Plural
 section: archives_aggregators
 feed_url: https://www.data-is-plural.com/feed.xml
+source_cap: 6
 site_url: https://www.data-is-plural.com/
 source_type: aggregator
 authority_level: specialist
@@ -8912,6 +9523,7 @@ use_role: signal
 name: The Browser
 section: archives_aggregators
 feed_url: https://thebrowser.com/feed
+source_cap: 6
 site_url: https://thebrowser.com/
 source_type: aggregator
 authority_level: commentary
@@ -8935,6 +9547,7 @@ description_zh: ''
 name: r/worldnews
 section: communities_discussion
 feed_url: ''
+source_cap: 0
 site_url: https://www.reddit.com/r/worldnews
 source_type: newspaper_magazine
 authority_level: generalist
@@ -8947,6 +9560,7 @@ use_role: baseline
 name: r/AskSocialScience
 section: communities_discussion
 feed_url: ''
+source_cap: 0
 site_url: https://www.reddit.com/r/AskSocialScience
 source_type: newspaper_magazine
 authority_level: generalist
@@ -8959,6 +9573,7 @@ use_role: baseline
 name: r/Foodforthought
 section: communities_discussion
 feed_url: ''
+source_cap: 0
 site_url: https://www.reddit.com/r/Foodforthought
 source_type: newspaper_magazine
 authority_level: generalist
@@ -8971,6 +9586,7 @@ use_role: baseline
 name: Philosophy Stack Exchange
 section: communities_discussion
 feed_url: ''
+source_cap: 0
 site_url: https://philosophy.stackexchange.com/
 source_type: newspaper_magazine
 authority_level: generalist

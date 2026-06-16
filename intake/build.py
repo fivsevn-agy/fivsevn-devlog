@@ -378,12 +378,6 @@ def iter_section_feeds(section_key: str, section: dict[str, Any], config: dict[s
 
 
 def build_section(section_key: str, section: dict[str, Any], config: dict[str, Any]) -> list[dict[str, Any]]:
-    display = config.get("display", {})
-    default_source_cap = get_int(display.get("default_source_cap"), DEFAULT_SOURCE_CAP)
-    default_section_cap = get_int(display.get("max_items_per_section"), DEFAULT_SECTION_CAP)
-    source_caps = display.get("source_caps", {}) or {}
-    section_caps = display.get("section_caps", {}) or {}
-    section_cap = get_int(section_caps.get(section_key), default_section_cap)
     disabled_feed_names = get_disabled_feed_names(config)
 
     section_items: list[dict[str, Any]] = []
@@ -400,19 +394,23 @@ def build_section(section_key: str, section: dict[str, Any], config: dict[str, A
             print(f"[skip] disabled feed: {feed_name}")
             continue
 
-        source_cap = get_int(source_caps.get(feed_name), default_source_cap)
-        if source_cap <= 0:
-            print(f"[skip] source cap <= 0: {feed_name}")
-            continue
-
         region = feed.get("region")
         region_suffix = f" [{region}]" if region else ""
+
+        # Per-source rule only:
+        # - feed_url empty: render the website link.
+        # - feed_url present and source_cap > 0: fetch exactly up to source_cap items.
+        # - feed_url present and source_cap <= 0: do not fetch; render the website link.
+        source_cap = get_int(feed.get("source_cap"), DEFAULT_SOURCE_CAP)
 
         if not feed_url:
             print(f"[link] no feed_url; rendering source link: {feed_name}{region_suffix}: {site_url}")
             items = [make_link_source_item(feed_name, site_url, source_meta)]
+        elif source_cap <= 0:
+            print(f"[link] source_cap <= 0; rendering source link: {feed_name}{region_suffix}: {site_url}")
+            items = [make_link_source_item(feed_name, site_url, source_meta)]
         else:
-            print(f"[fetch] {feed_name}{region_suffix}: {feed_url}")
+            print(f"[fetch] {feed_name}{region_suffix}: {feed_url} (source_cap={source_cap})")
             try:
                 items = fetch_feed(feed_name, feed_url, source_cap, source_meta)
             except Exception as error:
@@ -431,31 +429,7 @@ def build_section(section_key: str, section: dict[str, Any], config: dict[str, A
         section_items.extend(items)
 
     section_items.sort(key=lambda item: item["published_dt"], reverse=True)
-
-    # Regional sections are rendered as virtual subsections, e.g.
-    # world_society__global, world_society__europe, etc.  The old behavior
-    # applied `section_cap` once to the whole parent section before rendering;
-    # that lets active regions consume the entire quota and leaves other
-    # subscribed regions displaying "No items fetched."  Cap each virtual region
-    # independently instead.
-    regions = get_section_regions(config, section_key, section)
-    if isinstance(regions, dict) and regions:
-        capped_items: list[dict[str, Any]] = []
-        for region_key in regions.keys():
-            region_key = str(region_key)
-            virtual_section_key = make_region_section_key(section_key, region_key)
-            raw_region_cap = section_caps.get(virtual_section_key, section_caps.get(section_key, default_section_cap))
-            region_cap = get_int(raw_region_cap, default_section_cap)
-            region_items = [item for item in section_items if str(item.get("region", "")) == region_key]
-            if region_cap > 0:
-                region_items = region_items[:region_cap]
-            capped_items.extend(region_items)
-        capped_items.sort(key=lambda item: item["published_dt"], reverse=True)
-        return capped_items
-
-    if section_cap <= 0:
-        return section_items
-    return section_items[:section_cap]
+    return section_items
 
 
 def format_source_quality_meta(item: dict[str, Any]) -> str:
