@@ -185,9 +185,10 @@
   },
   "active": "dda31f6b1cf652b9",
   "lastOpenFiles": [
+    "intake/README.md",
+    "intake/sources.md",
     "intake/build.py",
     "intake/sources_merged_draft.md",
-    "intake/sources.md",
     "intake/sources_merged_complete_review.md",
     "posts/2026/posts-neuropsychology-dementia-communication-001.md",
     "posts/2026/posts-literature-tolkien-fairy-stories-001.md",
@@ -222,7 +223,6 @@
     "natsci/taxonomy/chondrichthyes",
     "netcom/assets/20251119mesh.png",
     "kiosk",
-    "untitled folder",
     "netcom/assets/20251116mesh.png",
     "netcom/assets/20251118mcu.png"
   ]
