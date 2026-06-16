@@ -41,6 +41,8 @@ updated: 2026-06-16
 ---
 ### Directory
 
+- 2026.06.17 👉 [博客发布与维护流程备忘](docs/publish-memo.md)，方便速览。详细说明待更新。
+
 - 2026.06.16 🤌 整合了资料来源，更新了 [/intake](https://github.com/fivsevn-agy/fivsevn-devlog/tree/main/intake)，并降低了维护成本。这个版块主要是我平时看新闻、整理资料和收集信息源用的，今后日常只需维护 [/intake/sources.md](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/intake/sources.md)，自动化流程会自主同步并更新页面：[devlog.fivsevn.com/intake/](https://devlog.fivsevn.com/intake/)
 
 - 2026.06.16 🤌 更新了 [spec](https://github.com/fivsevn-agy/fivsevn-spec)。主要更新了 frontmatter。

@@ -11,16 +11,16 @@
 
 • `status  :: alive`
 
-• `updated :: 2026.06.15`
+• `updated :: 2026.06.17`
 
 - Not much to say. Still here.
 
 
 ### • Signal
 
-• `log :: 2026.06.15`
+• `log :: 2026.06.17`
 
-- ⚠️ spec 施工中。
+- 眠い。
 
 ---
 <details>
