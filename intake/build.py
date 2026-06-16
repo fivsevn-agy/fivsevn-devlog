@@ -96,7 +96,7 @@ def make_link_source_item(feed_name: str, site_url: str, source_meta: dict[str, 
 
 
 FENCED_BLOCK_PATTERN = re.compile(
-    r"```(?P<kind>categories|section|source)\s*\n(?P<body>.*?)\n```",
+    r"```(?P<kind>categories|display|section|source)\s*\n(?P<body>.*?)\n```",
     re.DOTALL,
 )
 
@@ -125,11 +125,16 @@ def build_config_from_sources_markdown(
     markdown_text: str,
 ) -> dict[str, Any]:
     categories: dict[str, Any] | None = None
+    display: dict[str, Any] | None = None
     sections: dict[str, Any] = {}
 
     for kind, block in read_yaml_blocks(markdown_text):
         if kind == "categories":
             categories = block
+            continue
+
+        if kind == "display":
+            display = block
             continue
 
         if kind == "section":
@@ -196,6 +201,9 @@ def build_config_from_sources_markdown(
     # Remove legacy top-level regions from feeds.yml so they do not duplicate
     # or override the registry maintained in sources.md.
     config.pop("regions", None)
+
+    if display is not None:
+        config["display"] = display
 
     config["categories"] = categories
     config["sections"] = sections
