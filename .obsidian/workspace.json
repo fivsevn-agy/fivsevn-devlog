@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/2026/posts-neuropsychology-dementia-communication-001.md",
-                "mode": "source",
+                "file": "intake/sources.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "posts-neuropsychology-dementia-communication-001"
+              "title": "sources"
             }
           }
         ]
@@ -185,6 +185,10 @@
   },
   "active": "dda31f6b1cf652b9",
   "lastOpenFiles": [
+    "intake/sources_merged_draft.md",
+    "intake/sources.md",
+    "intake/sources_merged_complete_review.md",
+    "posts/2026/posts-neuropsychology-dementia-communication-001.md",
     "posts/2026/posts-literature-tolkien-fairy-stories-001.md",
     "netcom/rf/netcom-bluetooth-naming-001.md",
     "natsci/taxonomy/chondrichthyes/natsci-taxonomy-shark-phylogeny-001.md",
@@ -207,10 +211,6 @@
     "posts/2025/2025-03-18-更新预告：锯锯🪚.md",
     "posts/2025/2025-03-15-麦麦赛博π.md",
     "posts/2025/2025-03-13-波洛去埃及.md",
-    "posts/2026/posts-20260607-bluetooth-naming-001.md",
-    "posts/2026/posts-20260222-speluncean-001.md",
-    "posts/2019/2019-06-18-深夜四時.md",
-    "posts/2019/README.md",
     "natsci/assets/20260313sharklikefishes.png",
     "posts/2025.zip",
     "posts/2025 copy",
