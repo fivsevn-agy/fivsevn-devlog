@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intake/README.md",
-                "mode": "preview",
+                "file": "blogops/index.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "index"
             }
           }
         ]
@@ -185,9 +185,10 @@
   },
   "active": "dda31f6b1cf652b9",
   "lastOpenFiles": [
-    "intake/sources.md",
-    "intake/README.md",
+    "now/index.md",
     "README.md",
+    "intake/README.md",
+    "intake/sources.md",
     "blogops/docs/post-publish-trigger.md",
     "blogops/docs/auto-translation-shortcut.md",
     "blogops/docs/auto-index.md",
@@ -211,7 +212,6 @@
     "natsci/paleontology/natsci-paleontology-oxfordshire-trackway-001.md",
     "natsci/paleontology/natsci-paleontology-shishania-chancelloriid-001.md",
     "natsci/paleontology/natsci-paleontology-whale-necropolis-001.md",
-    "blogops/system-map.md",
     "natsci/assets/20260313sharklikefishes.png",
     "posts/2025.zip",
     "posts/2025 copy",

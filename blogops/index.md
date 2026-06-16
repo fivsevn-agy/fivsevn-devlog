@@ -30,7 +30,7 @@ visibility: public
 source_of_truth: devlog
 
 created: 2025-03-29
-updated: 2026-06-15
+updated: 2026-06-16
 ---
 ## 五月七日的思考札记 ▶ 后台日志
 
@@ -41,9 +41,9 @@ updated: 2026-06-15
 ---
 ### Directory
 
-- 2026.06.16 🤌 更新了 [spec](https://github.com/fivsevn-agy/fivsevn-spec)。主要更新了 frontmatter。
+- 2026.06.16 🤌 整合了资料来源，更新了 [/intake](https://github.com/fivsevn-agy/fivsevn-devlog/tree/main/intake)，并降低了维护成本。这个版块主要是我平时看新闻、整理资料和收集信息源用的，今后日常只需维护 [/intake/sources.md](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/intake/sources.md)，自动化流程会自主同步并更新页面：[https://devlog.fivsevn.com/intake/](https://devlog.fivsevn.com/intake/)
 
-- 2026.06.15 TODO：有关博客的自动化发布等设置的说明，待更新。
+- 2026.06.16 🤌 更新了 [spec](https://github.com/fivsevn-agy/fivsevn-spec)。主要更新了 frontmatter。
 
 - 2026.06.15 🤌 修改了 devlog.fivsevn.com 的[页面样式](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/assets/css/style.scss)，改成了深色页面，与 [intake 页面](https://devlog.fivsevn.com/intake/)统一用色；与[主页](https://fivsevn.com)的风格类似。
 
