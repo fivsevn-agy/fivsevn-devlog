@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intake/sources.md",
+                "file": "intake/README.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "sources"
+              "title": "README"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "dda31f6b1cf652b9",
   "lastOpenFiles": [
-    "intake/README.md",
     "intake/sources.md",
+    "intake/README.md",
     "README.md",
     "blogops/docs/post-publish-trigger.md",
     "blogops/docs/auto-translation-shortcut.md",
