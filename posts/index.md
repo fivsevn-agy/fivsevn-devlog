@@ -46,6 +46,8 @@ updated: 2026-06-15
 > 更新中......  
 
 <!-- AUTO-INDEX:POSTS_RECENT:START -->
+- 2026.06.17 [2026 年出版趋势：科技平台超过出版商成为全球新闻来源（译文）](2026/posts-digital-news-platforms-001.md)
+
 - 2026.06.16 [内感受：你如何感知身体内部状态的隐藏感觉（译文）](2026/posts-neuroscience-interoception-001.md)
 
 - 2026.06.15 [如何与患有痴呆症的人交谈（译文）](2026/posts-neuropsychology-dementia-communication-001.md)
