@@ -1747,10 +1747,10 @@ section: prices_markets
 feed_url: https://www.worldbank.org/en/research/commodity-markets/rss
 source_cap: 6
 site_url: https://www.worldbank.org/en/research/commodity-markets
-source_type: newspaper_magazine
-authority_level: generalist
-reliability_score: 4
-professional_value: 4
+source_type: institutional
+authority_level: primary
+reliability_score: 5
+professional_value: 5
 use_role: baseline
 ```
 
@@ -1760,10 +1760,10 @@ section: prices_markets
 feed_url: ''
 source_cap: 0
 site_url: https://www.imf.org/en/research/commodity-prices
-source_type: newspaper_magazine
-authority_level: generalist
-reliability_score: 4
-professional_value: 4
+source_type: institutional
+authority_level: primary
+reliability_score: 5
+professional_value: 5
 use_role: baseline
 ```
 
@@ -1773,10 +1773,10 @@ section: prices_markets
 feed_url: ''
 source_cap: 0
 site_url: https://fred.stlouisfed.org/categories/32217
-source_type: newspaper_magazine
-authority_level: generalist
-reliability_score: 4
-professional_value: 4
+source_type: institutional
+authority_level: primary
+reliability_score: 5
+professional_value: 5
 use_role: baseline
 ```
 
@@ -1812,10 +1812,10 @@ section: prices_markets
 feed_url: https://ourworldindata.org/atom.xml
 source_cap: 6
 site_url: https://ourworldindata.org/
-source_type: newspaper_magazine
-authority_level: generalist
-reliability_score: 4
-professional_value: 4
+source_type: institutional
+authority_level: primary
+reliability_score: 5
+professional_value: 5
 use_role: baseline
 ```
 
@@ -1876,9 +1876,9 @@ section: energy_resources
 feed_url: ''
 source_cap: 0
 site_url: https://www.iea.org/news
-source_type: newspaper_magazine
-authority_level: generalist
-reliability_score: 4
+source_type: institutional
+authority_level: primary
+reliability_score: 5
 professional_value: 4
 use_role: baseline
 ```
@@ -1939,10 +1939,10 @@ section: food_agriculture_markets
 feed_url: ''
 source_cap: 0
 site_url: https://www.fao.org/worldfoodsituation/foodpricesindex/en/
-source_type: newspaper_magazine
-authority_level: generalist
-reliability_score: 4
-professional_value: 4
+source_type: institutional
+authority_level: primary
+reliability_score: 5
+professional_value: 5
 use_role: baseline
 ```
 
@@ -1952,10 +1952,10 @@ section: food_agriculture_markets
 feed_url: ''
 source_cap: 0
 site_url: https://www.fao.org/giews/food-prices/home/en/
-source_type: newspaper_magazine
-authority_level: generalist
-reliability_score: 4
-professional_value: 4
+source_type: institutional
+authority_level: primary
+reliability_score: 5
+professional_value: 5
 use_role: baseline
 ```
 
@@ -2041,10 +2041,10 @@ section: housing_living_costs
 feed_url: ''
 source_cap: 0
 site_url: https://fred.stlouisfed.org/categories/9
-source_type: newspaper_magazine
-authority_level: generalist
-reliability_score: 4
-professional_value: 4
+source_type: institutional
+authority_level: primary
+reliability_score: 5
+professional_value: 5
 use_role: baseline
 ```
 
@@ -2323,11 +2323,11 @@ section: money_finance
 feed_url: https://www.imf.org/en/Blogs/RSS
 source_cap: 6
 site_url: https://www.imf.org/en/Blogs
-source_type: newspaper_magazine
-authority_level: generalist
-reliability_score: 4
+source_type: institutional
+authority_level: primary
+reliability_score: 5
 professional_value: 4
-use_role: baseline
+use_role: reference
 ```
 
 ```source
@@ -2440,10 +2440,10 @@ section: money_finance
 feed_url: ''
 source_cap: 0
 site_url: https://www.ecb.europa.eu/
-source_type: newspaper_magazine
-authority_level: generalist
-reliability_score: 4
-professional_value: 4
+source_type: institutional
+authority_level: primary
+reliability_score: 5
+professional_value: 5
 use_role: baseline
 ```
 
@@ -2453,10 +2453,10 @@ section: money_finance
 feed_url: https://www.nber.org/rss/new.xml
 source_cap: 6
 site_url: https://www.nber.org/
-source_type: newspaper_magazine
-authority_level: generalist
-reliability_score: 4
-professional_value: 4
+source_type: institutional
+authority_level: primary
+reliability_score: 5
+professional_value: 5
 use_role: baseline
 ```
 
@@ -2819,11 +2819,11 @@ section: scholarly_ideas
 feed_url: ''
 source_cap: 0
 site_url: https://plato.stanford.edu/
-source_type: culture_magazine
+source_type: reference_tool
 authority_level: primary
 reliability_score: 5
-professional_value: 4
-use_role: baseline
+professional_value: 5
+use_role: reference
 ```
 
 ```source
@@ -2832,11 +2832,11 @@ section: scholarly_ideas
 feed_url: ''
 source_cap: 0
 site_url: https://iep.utm.edu/
-source_type: culture_magazine
+source_type: reference_tool
 authority_level: primary
 reliability_score: 5
-professional_value: 4
-use_role: baseline
+professional_value: 5
+use_role: reference
 ```
 
 ```source
@@ -2871,11 +2871,11 @@ section: scholarly_ideas
 feed_url: ''
 source_cap: 0
 site_url: https://philpapers.org/
-source_type: culture_magazine
-authority_level: commentary
-reliability_score: 4
-professional_value: 4
-use_role: baseline
+source_type: reference_tool
+authority_level: aggregator
+reliability_score: 5
+professional_value: 5
+use_role: reference
 ```
 
 ```source
@@ -2884,11 +2884,11 @@ section: scholarly_ideas
 feed_url: ''
 source_cap: 0
 site_url: https://philarchive.org/
-source_type: culture_magazine
-authority_level: commentary
+source_type: reference_tool
+authority_level: primary
 reliability_score: 4
-professional_value: 4
-use_role: baseline
+professional_value: 5
+use_role: reference
 ```
 
 ```source
@@ -2897,11 +2897,11 @@ section: scholarly_ideas
 feed_url: ''
 source_cap: 0
 site_url: https://scholar.google.com/
-source_type: culture_magazine
-authority_level: commentary
-reliability_score: 4
-professional_value: 4
-use_role: baseline
+source_type: reference_tool
+authority_level: aggregator
+reliability_score: 5
+professional_value: 5
+use_role: reference
 ```
 
 ```source
@@ -2910,11 +2910,11 @@ section: scholarly_ideas
 feed_url: ''
 source_cap: 0
 site_url: https://www.semanticscholar.org/
-source_type: culture_magazine
-authority_level: commentary
-reliability_score: 4
-professional_value: 4
-use_role: baseline
+source_type: reference_tool
+authority_level: aggregator
+reliability_score: 5
+professional_value: 5
+use_role: reference
 ```
 
 ```source
@@ -2923,11 +2923,11 @@ section: scholarly_ideas
 feed_url: ''
 source_cap: 0
 site_url: https://www.jstor.org/
-source_type: culture_magazine
-authority_level: commentary
-reliability_score: 4
-professional_value: 4
-use_role: baseline
+source_type: reference_tool
+authority_level: aggregator
+reliability_score: 5
+professional_value: 5
+use_role: reference
 ```
 
 ```source
@@ -2936,11 +2936,11 @@ section: scholarly_ideas
 feed_url: ''
 source_cap: 0
 site_url: https://muse.jhu.edu/
-source_type: culture_magazine
-authority_level: primary
+source_type: reference_tool
+authority_level: aggregator
 reliability_score: 5
 professional_value: 4
-use_role: baseline
+use_role: reference
 ```
 
 ```source
@@ -2949,11 +2949,11 @@ section: scholarly_ideas
 feed_url: ''
 source_cap: 0
 site_url: https://ndpr.nd.edu/
-source_type: culture_magazine
-authority_level: primary
-reliability_score: 5
+source_type: specialist_media
+authority_level: specialist
+reliability_score: 4
 professional_value: 4
-use_role: baseline
+use_role: reference
 ```
 
 ```source
@@ -2975,10 +2975,10 @@ section: scholarly_ideas
 feed_url: ''
 source_cap: 0
 site_url: https://read.dukeupress.edu/the-philosophical-review
-source_type: culture_magazine
+source_type: journal
 authority_level: primary
 reliability_score: 5
-professional_value: 4
+professional_value: 5
 use_role: baseline
 ```
 
@@ -3027,10 +3027,10 @@ section: scholarly_ideas
 feed_url: ''
 source_cap: 0
 site_url: https://www.journals.uchicago.edu/toc/et/current
-source_type: culture_magazine
+source_type: journal
 authority_level: primary
 reliability_score: 5
-professional_value: 4
+professional_value: 5
 use_role: baseline
 ```
 
@@ -3157,11 +3157,11 @@ section: scholarly_ideas
 feed_url: ''
 source_cap: 0
 site_url: https://plato.stanford.edu/entries/philosophy-religion/
-source_type: culture_magazine
+source_type: reference_tool
 authority_level: primary
 reliability_score: 5
-professional_value: 4
-use_role: baseline
+professional_value: 5
+use_role: reference
 ```
 
 ```source
@@ -3170,11 +3170,11 @@ section: scholarly_ideas
 feed_url: ''
 source_cap: 0
 site_url: https://iep.utm.edu/philrel/
-source_type: culture_magazine
+source_type: reference_tool
 authority_level: primary
 reliability_score: 5
-professional_value: 4
-use_role: baseline
+professional_value: 5
+use_role: reference
 ```
 
 <a id="civilizational_critique"></a>
@@ -3208,8 +3208,8 @@ feed_url: https://thepointmag.com/feed/
 source_cap: 6
 site_url: https://thepointmag.com/
 source_type: culture_magazine
-authority_level: primary
-reliability_score: 5
+authority_level: commentary
+reliability_score: 4
 professional_value: 4
 use_role: baseline
 ```
@@ -3286,10 +3286,10 @@ feed_url: ''
 source_cap: 0
 site_url: https://bluelabyrinths.substack.com
 source_type: culture_magazine
-authority_level: primary
-reliability_score: 5
+authority_level: commentary
+reliability_score: 3
 professional_value: 4
-use_role: baseline
+use_role: culture_probe
 ```
 
 ```source
@@ -3402,9 +3402,9 @@ section: civilizational_critique
 feed_url: ''
 source_cap: 0
 site_url: https://www.lepoint.fr/
-source_type: culture_magazine
-authority_level: primary
-reliability_score: 5
+source_type: newspaper_magazine
+authority_level: generalist
+reliability_score: 4
 professional_value: 4
 use_role: baseline
 ```
@@ -4885,7 +4885,7 @@ section: science_news
 feed_url: https://news.mit.edu/rss/topic/science-technology
 source_cap: 6
 site_url: https://news.mit.edu/topic/science-technology
-source_type: specialist_media
+source_type: institutional
 authority_level: primary
 reliability_score: 5
 professional_value: 4
@@ -5517,10 +5517,10 @@ section: space_astronomy
 feed_url: https://www.nasa.gov/feed/
 source_cap: 6
 site_url: https://www.nasa.gov/news/
-source_type: specialist_media
+source_type: institutional
 authority_level: primary
 reliability_score: 5
-professional_value: 4
+professional_value: 5
 use_role: baseline
 ```
 
@@ -5530,10 +5530,10 @@ section: space_astronomy
 feed_url: https://www.esa.int/rssfeed/Our_Activities/Space_News
 source_cap: 6
 site_url: https://www.esa.int/Newsroom
-source_type: specialist_media
+source_type: institutional
 authority_level: primary
 reliability_score: 5
-professional_value: 4
+professional_value: 5
 use_role: baseline
 ```
 
@@ -5543,10 +5543,10 @@ section: space_astronomy
 feed_url: ''
 source_cap: 0
 site_url: https://science.nasa.gov/earth/earth-observatory/
-source_type: specialist_media
+source_type: institutional
 authority_level: primary
 reliability_score: 5
-professional_value: 4
+professional_value: 5
 use_role: baseline
 ```
 
@@ -5672,11 +5672,11 @@ section: natural_history
 feed_url: ''
 source_cap: 0
 site_url: https://integbio.jp/dbcatalog/?lang=ja
-source_type: specialist_media
+source_type: reference_tool
 authority_level: primary
 reliability_score: 5
 professional_value: 4
-use_role: baseline
+use_role: reference
 ```
 
 ```source
@@ -5775,8 +5775,8 @@ feed_url: https://e360.yale.edu/rss.xml
 source_cap: 6
 site_url: https://e360.yale.edu/
 source_type: specialist_media
-authority_level: primary
-reliability_score: 5
+authority_level: specialist
+reliability_score: 4
 professional_value: 4
 use_role: baseline
 ```
@@ -5941,7 +5941,7 @@ section: marine_life
 feed_url: https://www.pmel.noaa.gov/rss.xml
 source_cap: 6
 site_url: https://www.pmel.noaa.gov/
-source_type: specialist_media
+source_type: institutional
 authority_level: primary
 reliability_score: 5
 professional_value: 4
@@ -5954,7 +5954,7 @@ section: marine_life
 feed_url: https://oceanexplorer.noaa.gov/news/oceanexplorer-news.xml
 source_cap: 6
 site_url: https://oceanexplorer.noaa.gov/news/
-source_type: specialist_media
+source_type: institutional
 authority_level: primary
 reliability_score: 5
 professional_value: 4
@@ -6836,7 +6836,7 @@ section: ai_systems
 feed_url: https://hai.stanford.edu/news/rss.xml
 source_cap: 6
 site_url: https://hai.stanford.edu/
-source_type: specialist_media
+source_type: institutional
 authority_level: primary
 reliability_score: 5
 professional_value: 4
@@ -6849,10 +6849,10 @@ section: ai_systems
 feed_url: ''
 source_cap: 0
 site_url: https://hai.stanford.edu/ai-index
-source_type: specialist_media
+source_type: institutional
 authority_level: primary
 reliability_score: 5
-professional_value: 4
+professional_value: 5
 use_role: baseline
 ```
 
@@ -6991,11 +6991,11 @@ section: computing_cultures
 feed_url: https://news.ycombinator.com/rss
 source_cap: 6
 site_url: https://news.ycombinator.com/
-source_type: specialist_media
-authority_level: specialist
-reliability_score: 4
+source_type: reference_tool
+authority_level: community
+reliability_score: 3
 professional_value: 4
-use_role: baseline
+use_role: signal
 ```
 
 ```source
@@ -7004,11 +7004,11 @@ section: computing_cultures
 feed_url: ''
 source_cap: 0
 site_url: https://hckrnews.com
-source_type: specialist_media
-authority_level: specialist
-reliability_score: 4
+source_type: reference_tool
+authority_level: aggregator
+reliability_score: 3
 professional_value: 4
-use_role: baseline
+use_role: reference
 ```
 
 ```source
@@ -7017,11 +7017,11 @@ section: computing_cultures
 feed_url: ''
 source_cap: 0
 site_url: https://now.hackertab.dev
-source_type: specialist_media
-authority_level: specialist
-reliability_score: 4
+source_type: reference_tool
+authority_level: aggregator
+reliability_score: 3
 professional_value: 4
-use_role: baseline
+use_role: reference
 ```
 
 ```source
@@ -7043,11 +7043,11 @@ section: computing_cultures
 feed_url: ''
 source_cap: 0
 site_url: https://www.producthunt.com
-source_type: specialist_media
-authority_level: specialist
-reliability_score: 4
+source_type: reference_tool
+authority_level: aggregator
+reliability_score: 3
 professional_value: 4
-use_role: baseline
+use_role: signal
 ```
 
 ```source
@@ -7056,11 +7056,11 @@ section: computing_cultures
 feed_url: https://www.techmeme.com/feed.xml
 source_cap: 6
 site_url: https://www.techmeme.com/
-source_type: specialist_media
-authority_level: specialist
-reliability_score: 4
+source_type: reference_tool
+authority_level: aggregator
+reliability_score: 3
 professional_value: 4
-use_role: baseline
+use_role: reference
 ```
 
 ```source
@@ -9549,11 +9549,11 @@ section: communities_discussion
 feed_url: ''
 source_cap: 0
 site_url: https://www.reddit.com/r/worldnews
-source_type: newspaper_magazine
-authority_level: generalist
-reliability_score: 4
-professional_value: 4
-use_role: baseline
+source_type: reference_tool
+authority_level: community
+reliability_score: 2
+professional_value: 3
+use_role: signal
 ```
 
 ```source
@@ -9562,11 +9562,11 @@ section: communities_discussion
 feed_url: ''
 source_cap: 0
 site_url: https://www.reddit.com/r/AskSocialScience
-source_type: newspaper_magazine
-authority_level: generalist
-reliability_score: 4
+source_type: reference_tool
+authority_level: community
+reliability_score: 3
 professional_value: 4
-use_role: baseline
+use_role: reference
 ```
 
 ```source
@@ -9575,11 +9575,11 @@ section: communities_discussion
 feed_url: ''
 source_cap: 0
 site_url: https://www.reddit.com/r/Foodforthought
-source_type: newspaper_magazine
-authority_level: generalist
-reliability_score: 4
-professional_value: 4
-use_role: baseline
+source_type: reference_tool
+authority_level: community
+reliability_score: 2
+professional_value: 3
+use_role: signal
 ```
 
 ```source
@@ -9588,11 +9588,11 @@ section: communities_discussion
 feed_url: ''
 source_cap: 0
 site_url: https://philosophy.stackexchange.com/
-source_type: newspaper_magazine
-authority_level: generalist
-reliability_score: 4
+source_type: reference_tool
+authority_level: community
+reliability_score: 3
 professional_value: 4
-use_role: baseline
+use_role: reference
 ```
 
 ---
