@@ -8,7 +8,10 @@
 
 - [世界 / world](#world)
   - [媒介透镜 / media_lens](#media_lens)
-  - [世界与社会 / world_society](#world_society)
+  - [全球新闻 / global_news](#global_news)
+  - [地区与地缘政治 / regions_geopolitics](#regions_geopolitics)
+  - [权利与人道 / rights_humanitarian](#rights_humanitarian)
+  - [调查与开源情报 / investigations_osint](#investigations_osint)
 - [经济 / economy](#economy)
   - [价格与市场 / prices_markets](#prices_markets)
   - [能源与资源 / energy_resources](#energy_resources)
@@ -19,7 +22,8 @@
   - [货币与金融 / money_finance](#money_finance)
 - [观念 / ideas](#ideas)
   - [公共观念 / public_ideas](#public_ideas)
-  - [学术观念 / scholarly_ideas](#scholarly_ideas)
+  - [学术评论 / scholarly_commentary](#scholarly_commentary)
+  - [学术参考 / academic_reference](#academic_reference)
   - [文明批评 / civilizational_critique](#civilizational_critique)
 - [文化形式 / cultural_forms](#cultural_forms)
   - [书籍 / books](#books)
@@ -28,15 +32,16 @@
   - [摄影 / photography](#photography)
   - [艺术与设计 / arts_design](#arts_design)
   - [建筑与城市 / architecture_urbanism](#architecture_urbanism)
-  - [游戏与科幻 / games](#games)
+  - [游戏 / games](#games)
+  - [科幻与幻想 / speculative_fiction](#speculative_fiction)
   - [时尚与风格 / fashion_style](#fashion_style)
 - [人类研究 / human_studies](#human_studies)
   - [人类社会 / human_societies](#human_societies)
   - [心智 / mind](#mind)
 - [自然 / nature](#nature)
-  - [科学新闻 / science_news](#science_news)
-  - [科普杂志 / science_magazines](#science_magazines)
-  - [学术研究 / research](#research)
+  - [综合科学新闻 / general_science_news](#general_science_news)
+  - [科普杂志 / popular_science](#popular_science)
+  - [学术研究 / academic_research](#academic_research)
   - [航天与宇宙 / space_astronomy](#space_astronomy)
   - [自然史 / natural_history](#natural_history)
   - [生态与保护 / ecology_conservation](#ecology_conservation)
@@ -51,10 +56,13 @@
   - [AI 系统 / ai_systems](#ai_systems)
   - [计算文化 / computing_cultures](#computing_cultures)
   - [平台与基础设施 / platforms_infrastructure](#platforms_infrastructure)
-  - [界面与媒介技术 / interfaces_media_technology](#interfaces_media_technology)
+  - [平台与媒介技术 / platform_media](#platform_media)
+  - [界面与用户体验 / interfaces_ux](#interfaces_ux)
   - [控制论与自动化 / cybernetics_automation](#cybernetics_automation)
   - [硬件、无线电与嵌入式 / hardware_radio_embedded](#hardware_radio_embedded)
-  - [业余无线电 / ham_radio](#ham_radio)
+  - [业余无线电操作 / ham_radio_operations](#ham_radio_operations)
+  - [无线电参考工具 / radio_reference_tools](#radio_reference_tools)
+  - [无线电与卫星 / radio_satellites](#radio_satellites)
   - [技术政治 / technology_politics](#technology_politics)
 - [器物 / material](#material)
   - [野外装备 / field_gear](#field_gear)
@@ -76,7 +84,10 @@ world:
   title_zh: 世界
   sections:
   - media_lens
-  - world_society
+  - global_news
+  - regions_geopolitics
+  - rights_humanitarian
+  - investigations_osint
 economy:
   title: economy
   title_zh: 经济
@@ -93,7 +104,8 @@ ideas:
   title_zh: 观念
   sections:
   - public_ideas
-  - scholarly_ideas
+  - scholarly_commentary
+  - academic_reference
   - civilizational_critique
 cultural_forms:
   title: cultural_forms
@@ -106,6 +118,7 @@ cultural_forms:
   - arts_design
   - architecture_urbanism
   - games
+  - speculative_fiction
   - fashion_style
 human_studies:
   title: human_studies
@@ -117,9 +130,9 @@ nature:
   title: nature
   title_zh: 自然
   sections:
-  - science_news
-  - science_magazines
-  - research
+  - general_science_news
+  - popular_science
+  - academic_research
   - space_astronomy
   - natural_history
   - ecology_conservation
@@ -137,10 +150,13 @@ technology:
   - ai_systems
   - computing_cultures
   - platforms_infrastructure
-  - interfaces_media_technology
+  - platform_media
+  - interfaces_ux
   - cybernetics_automation
   - hardware_radio_embedded
-  - ham_radio
+  - ham_radio_operations
+  - radio_reference_tools
+  - radio_satellites
   - technology_politics
 material:
   title: material
@@ -452,7 +468,6 @@ professional_value: 4
 use_role: reference
 ```
 
-
 ```source
 name: Columbia Journalism Review
 section: media_lens
@@ -505,20 +520,20 @@ professional_value: 4
 use_role: reference
 ```
 
-<a id="world_society"></a>
+<a id="global_news"></a>
 
-## 世界与社会 / world_society
+## 全球新闻 / global_news
 
 ```section
-id: world_society
-title: world society
-title_zh: 世界与社会
+id: global_news
+title: global news
+title_zh: 全球新闻
 description_zh: ''
 ```
 
 ```source
 name: Reuters
-section: world_society
+section: global_news
 feed_url: https://www.reuters.com/arc/outboundfeeds/rss/?outputType=xml
 source_cap: 6
 site_url: https://www.reuters.com/
@@ -531,7 +546,7 @@ use_role: baseline
 
 ```source
 name: Reuters World
-section: world_society
+section: global_news
 feed_url: https://www.reuters.com/arc/outboundfeeds/rss/category/world/?outputType=xml
 source_cap: 6
 site_url: https://www.reuters.com/world/
@@ -544,7 +559,7 @@ use_role: baseline
 
 ```source
 name: Reuters U.S.
-section: world_society
+section: global_news
 feed_url: https://www.reuters.com/arc/outboundfeeds/rss/category/world/us/?outputType=xml
 source_cap: 6
 site_url: https://www.reuters.com/world/us/
@@ -557,7 +572,7 @@ use_role: baseline
 
 ```source
 name: Associated Press / AP
-section: world_society
+section: global_news
 feed_url: https://apnews.com/hub/ap-top-news?output=rss
 source_cap: 6
 site_url: https://apnews.com/
@@ -570,7 +585,7 @@ use_role: baseline
 
 ```source
 name: AP World
-section: world_society
+section: global_news
 feed_url: https://apnews.com/hub/world-news?output=rss
 source_cap: 6
 site_url: https://apnews.com/hub/world-news
@@ -583,7 +598,7 @@ use_role: baseline
 
 ```source
 name: AP U.S. News
-section: world_society
+section: global_news
 feed_url: https://apnews.com/hub/us-news?output=rss
 source_cap: 6
 site_url: https://apnews.com/hub/us-news
@@ -596,7 +611,7 @@ use_role: baseline
 
 ```source
 name: Agence France-Presse / AFP
-section: world_society
+section: global_news
 feed_url: ''
 source_cap: 0
 site_url: https://www.afp.com/
@@ -609,7 +624,7 @@ use_role: baseline
 
 ```source
 name: DPA 德新社
-section: world_society
+section: global_news
 feed_url: ''
 source_cap: 0
 site_url: https://www.dpa.com/
@@ -622,7 +637,7 @@ use_role: baseline
 
 ```source
 name: Kyodo 共同通信
-section: world_society
+section: global_news
 feed_url: ''
 source_cap: 0
 site_url: https://english.kyodonews.net/
@@ -635,7 +650,7 @@ use_role: baseline
 
 ```source
 name: Jiji Press 时事通信社
-section: world_society
+section: global_news
 feed_url: ''
 source_cap: 0
 site_url: https://www.jiji.com/
@@ -648,7 +663,7 @@ use_role: baseline
 
 ```source
 name: TASS 塔斯社
-section: world_society
+section: global_news
 feed_url: ''
 source_cap: 0
 site_url: https://tass.com/
@@ -661,7 +676,7 @@ use_role: baseline
 
 ```source
 name: Xinhua 新华社
-section: world_society
+section: global_news
 feed_url: ''
 source_cap: 0
 site_url: http://www.xinhuanet.com/english/
@@ -674,7 +689,7 @@ use_role: baseline
 
 ```source
 name: EFE
-section: world_society
+section: global_news
 feed_url: ''
 source_cap: 0
 site_url: https://efe.com/
@@ -687,7 +702,7 @@ use_role: baseline
 
 ```source
 name: ANSA
-section: world_society
+section: global_news
 feed_url: ''
 source_cap: 0
 site_url: https://www.ansa.it/english/
@@ -700,7 +715,7 @@ use_role: baseline
 
 ```source
 name: BBC
-section: world_society
+section: global_news
 feed_url: ''
 source_cap: 0
 site_url: https://www.bbc.com/
@@ -713,7 +728,7 @@ use_role: baseline
 
 ```source
 name: BBC World
-section: world_society
+section: global_news
 feed_url: https://feeds.bbci.co.uk/news/world/rss.xml
 source_cap: 6
 site_url: https://www.bbc.com/news/world
@@ -726,7 +741,7 @@ use_role: baseline
 
 ```source
 name: CNN
-section: world_society
+section: global_news
 feed_url: http://rss.cnn.com/rss/edition.rss
 source_cap: 6
 site_url: https://www.cnn.com/
@@ -739,7 +754,7 @@ use_role: baseline
 
 ```source
 name: NBC News
-section: world_society
+section: global_news
 feed_url: https://feeds.nbcnews.com/nbcnews/public/news
 source_cap: 6
 site_url: https://www.nbcnews.com/
@@ -752,7 +767,7 @@ use_role: baseline
 
 ```source
 name: CBS News
-section: world_society
+section: global_news
 feed_url: ''
 source_cap: 0
 site_url: https://www.cbsnews.com/
@@ -765,7 +780,7 @@ use_role: baseline
 
 ```source
 name: ABC News
-section: world_society
+section: global_news
 feed_url: https://abcnews.go.com/abcnews/topstories
 source_cap: 6
 site_url: https://abcnews.go.com/
@@ -778,7 +793,7 @@ use_role: baseline
 
 ```source
 name: DW News
-section: world_society
+section: global_news
 feed_url: https://rss.dw.com/rdf/rss-en-all
 source_cap: 6
 site_url: https://www.dw.com/en/top-stories/s-9097
@@ -791,7 +806,7 @@ use_role: baseline
 
 ```source
 name: France 24
-section: world_society
+section: global_news
 feed_url: ''
 source_cap: 0
 site_url: https://www.france24.com/en/
@@ -804,7 +819,7 @@ use_role: baseline
 
 ```source
 name: Sky News
-section: world_society
+section: global_news
 feed_url: https://feeds.skynews.com/feeds/rss/world.xml
 source_cap: 6
 site_url: https://news.sky.com/
@@ -817,7 +832,7 @@ use_role: baseline
 
 ```source
 name: Al Jazeera
-section: world_society
+section: global_news
 feed_url: https://www.aljazeera.com/xml/rss/all.xml
 source_cap: 6
 site_url: https://www.aljazeera.com/
@@ -830,7 +845,7 @@ use_role: baseline
 
 ```source
 name: TRT World
-section: world_society
+section: global_news
 feed_url: ''
 source_cap: 0
 site_url: https://www.trtworld.com/
@@ -843,7 +858,7 @@ use_role: baseline
 
 ```source
 name: CGTN
-section: world_society
+section: global_news
 feed_url: ''
 source_cap: 0
 site_url: https://www.cgtn.com/
@@ -856,7 +871,7 @@ use_role: baseline
 
 ```source
 name: CBC World
-section: world_society
+section: global_news
 feed_url: ''
 source_cap: 0
 site_url: https://www.cbc.ca/news/world
@@ -869,7 +884,7 @@ use_role: baseline
 
 ```source
 name: NHK News
-section: world_society
+section: global_news
 feed_url: ''
 source_cap: 0
 site_url: https://www3.nhk.or.jp/news/
@@ -882,7 +897,7 @@ use_role: baseline
 
 ```source
 name: Euronews
-section: world_society
+section: global_news
 feed_url: ''
 source_cap: 0
 site_url: https://www.euronews.com/news
@@ -895,7 +910,7 @@ use_role: baseline
 
 ```source
 name: AllAfrica
-section: world_society
+section: global_news
 feed_url: https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf
 source_cap: 6
 site_url: https://allafrica.com/
@@ -908,7 +923,7 @@ use_role: baseline
 
 ```source
 name: Africanews
-section: world_society
+section: global_news
 feed_url: ''
 source_cap: 0
 site_url: https://www.africanews.com/
@@ -921,7 +936,7 @@ use_role: baseline
 
 ```source
 name: The New York Times
-section: world_society
+section: global_news
 feed_url: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
 source_cap: 6
 site_url: https://www.nytimes.com/
@@ -934,7 +949,7 @@ use_role: baseline
 
 ```source
 name: The Washington Post
-section: world_society
+section: global_news
 feed_url: https://feeds.washingtonpost.com/rss/world
 source_cap: 6
 site_url: https://www.washingtonpost.com/
@@ -947,7 +962,7 @@ use_role: baseline
 
 ```source
 name: USA Today
-section: world_society
+section: global_news
 feed_url: https://rssfeeds.usatoday.com/usatoday-NewsTopStories
 source_cap: 6
 site_url: https://www.usatoday.com/
@@ -960,7 +975,7 @@ use_role: baseline
 
 ```source
 name: The Times
-section: world_society
+section: global_news
 feed_url: https://www.thetimes.co.uk/rss
 source_cap: 6
 site_url: https://www.thetimes.co.uk/
@@ -973,7 +988,7 @@ use_role: baseline
 
 ```source
 name: The Telegraph
-section: world_society
+section: global_news
 feed_url: https://www.telegraph.co.uk/rss.xml
 source_cap: 6
 site_url: https://www.telegraph.co.uk/
@@ -986,7 +1001,7 @@ use_role: baseline
 
 ```source
 name: The Guardian
-section: world_society
+section: global_news
 feed_url: https://www.theguardian.com/world/rss
 source_cap: 6
 site_url: https://www.theguardian.com/
@@ -999,7 +1014,7 @@ use_role: baseline
 
 ```source
 name: The Guardian World
-section: world_society
+section: global_news
 feed_url: https://www.theguardian.com/world/rss
 source_cap: 6
 site_url: https://www.theguardian.com/world
@@ -1012,7 +1027,7 @@ use_role: baseline
 
 ```source
 name: Frankfurter Allgemeine Zeitung / FAZ
-section: world_society
+section: global_news
 feed_url: ''
 source_cap: 0
 site_url: https://www.faz.net/
@@ -1025,7 +1040,7 @@ use_role: baseline
 
 ```source
 name: Süddeutsche Zeitung
-section: world_society
+section: global_news
 feed_url: ''
 source_cap: 0
 site_url: https://www.sueddeutsche.de/
@@ -1038,7 +1053,7 @@ use_role: baseline
 
 ```source
 name: Die Zeit
-section: world_society
+section: global_news
 feed_url: https://newsfeed.zeit.de/index
 source_cap: 6
 site_url: https://www.zeit.de/
@@ -1051,7 +1066,7 @@ use_role: baseline
 
 ```source
 name: Le Monde
-section: world_society
+section: global_news
 feed_url: ''
 source_cap: 0
 site_url: https://www.lemonde.fr/
@@ -1064,7 +1079,7 @@ use_role: baseline
 
 ```source
 name: Le Monde English – Europe
-section: world_society
+section: global_news
 feed_url: https://www.lemonde.fr/en/europe/rss_full.xml
 source_cap: 6
 site_url: https://www.lemonde.fr/en/europe/
@@ -1077,7 +1092,7 @@ use_role: baseline
 
 ```source
 name: Le Figaro
-section: world_society
+section: global_news
 feed_url: ''
 source_cap: 0
 site_url: https://www.lefigaro.fr/
@@ -1090,7 +1105,7 @@ use_role: baseline
 
 ```source
 name: Libération
-section: world_society
+section: global_news
 feed_url: ''
 source_cap: 0
 site_url: https://www.liberation.fr/
@@ -1103,7 +1118,7 @@ use_role: baseline
 
 ```source
 name: Yomiuri Shimbun
-section: world_society
+section: global_news
 feed_url: ''
 source_cap: 0
 site_url: https://www.yomiuri.co.jp/
@@ -1116,7 +1131,7 @@ use_role: baseline
 
 ```source
 name: Asahi Shimbun
-section: world_society
+section: global_news
 feed_url: ''
 source_cap: 0
 site_url: https://www.asahi.com/
@@ -1129,7 +1144,7 @@ use_role: baseline
 
 ```source
 name: Mainichi Shimbun
-section: world_society
+section: global_news
 feed_url: ''
 source_cap: 0
 site_url: https://mainichi.jp/
@@ -1142,7 +1157,7 @@ use_role: baseline
 
 ```source
 name: Nikkei
-section: world_society
+section: global_news
 feed_url: ''
 source_cap: 0
 site_url: https://www.nikkei.com/
@@ -1155,7 +1170,7 @@ use_role: baseline
 
 ```source
 name: Tokyo Shimbun
-section: world_society
+section: global_news
 feed_url: ''
 source_cap: 0
 site_url: https://www.tokyo-np.co.jp/
@@ -1168,7 +1183,7 @@ use_role: baseline
 
 ```source
 name: The Japan Times
-section: world_society
+section: global_news
 feed_url: https://www.japantimes.co.jp/feed/
 source_cap: 6
 site_url: https://www.japantimes.co.jp/
@@ -1181,7 +1196,7 @@ use_role: baseline
 
 ```source
 name: South China Morning Post
-section: world_society
+section: global_news
 feed_url: https://www.scmp.com/rss/91/feed
 source_cap: 6
 site_url: https://www.scmp.com/
@@ -1194,7 +1209,7 @@ use_role: baseline
 
 ```source
 name: SCMP China
-section: world_society
+section: global_news
 feed_url: https://www.scmp.com/rss/4/feed
 source_cap: 6
 site_url: https://www.scmp.com/news/china
@@ -1207,7 +1222,7 @@ use_role: baseline
 
 ```source
 name: 联合早报 Zaobao
-section: world_society
+section: global_news
 feed_url: ''
 source_cap: 0
 site_url: https://www.zaobao.com.sg/
@@ -1220,7 +1235,7 @@ use_role: baseline
 
 ```source
 name: Caixin
-section: world_society
+section: global_news
 feed_url: ''
 source_cap: 0
 site_url: https://www.caixin.com/
@@ -1233,7 +1248,7 @@ use_role: baseline
 
 ```source
 name: Caixin Weekly
-section: world_society
+section: global_news
 feed_url: ''
 source_cap: 0
 site_url: https://weekly.caixin.com/
@@ -1246,7 +1261,7 @@ use_role: baseline
 
 ```source
 name: The Paper 澎湃新闻
-section: world_society
+section: global_news
 feed_url: https://feedx.net/rss/thepaper.xml
 source_cap: 6
 site_url: https://www.thepaper.cn/
@@ -1259,7 +1274,7 @@ use_role: baseline
 
 ```source
 name: 南方周末
-section: world_society
+section: global_news
 feed_url: ''
 source_cap: 0
 site_url: http://www.infzm.com/
@@ -1272,7 +1287,7 @@ use_role: baseline
 
 ```source
 name: The Hindu
-section: world_society
+section: global_news
 feed_url: https://www.thehindu.com/news/international/feeder/default.rss
 source_cap: 6
 site_url: https://www.thehindu.com/
@@ -1285,7 +1300,7 @@ use_role: baseline
 
 ```source
 name: The Times of India
-section: world_society
+section: global_news
 feed_url: ''
 source_cap: 0
 site_url: https://timesofindia.indiatimes.com/
@@ -1298,7 +1313,7 @@ use_role: baseline
 
 ```source
 name: The Straits Times
-section: world_society
+section: global_news
 feed_url: ''
 source_cap: 0
 site_url: https://www.straitstimes.com/
@@ -1311,7 +1326,7 @@ use_role: baseline
 
 ```source
 name: The Straits Times – Asia
-section: world_society
+section: global_news
 feed_url: https://www.straitstimes.com/news/asia/rss.xml
 source_cap: 6
 site_url: https://www.straitstimes.com/asia
@@ -1324,7 +1339,7 @@ use_role: baseline
 
 ```source
 name: The Jakarta Post
-section: world_society
+section: global_news
 feed_url: ''
 source_cap: 0
 site_url: https://www.thejakartapost.com/
@@ -1337,7 +1352,7 @@ use_role: baseline
 
 ```source
 name: Channel News Asia – Asia
-section: world_society
+section: global_news
 feed_url: https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6511
 source_cap: 6
 site_url: https://www.channelnewsasia.com/asia
@@ -1350,7 +1365,7 @@ use_role: baseline
 
 ```source
 name: Korea Herald
-section: world_society
+section: global_news
 feed_url: ''
 source_cap: 0
 site_url: https://www.koreaherald.com/
@@ -1363,7 +1378,7 @@ use_role: baseline
 
 ```source
 name: Dawn
-section: world_society
+section: global_news
 feed_url: ''
 source_cap: 0
 site_url: https://www.dawn.com/
@@ -1376,7 +1391,7 @@ use_role: baseline
 
 ```source
 name: Scroll.in
-section: world_society
+section: global_news
 feed_url: ''
 source_cap: 0
 site_url: https://scroll.in/latest
@@ -1388,269 +1403,8 @@ use_role: baseline
 ```
 
 ```source
-name: Al-Monitor
-section: world_society
-feed_url: ''
-source_cap: 0
-site_url: https://www.al-monitor.com/
-source_type: newspaper_magazine
-authority_level: generalist
-reliability_score: 4
-professional_value: 4
-use_role: baseline
-```
-
-```source
-name: Middle East Eye
-section: world_society
-feed_url: ''
-source_cap: 0
-site_url: https://www.middleeasteye.net/
-source_type: newspaper_magazine
-authority_level: generalist
-reliability_score: 4
-professional_value: 4
-use_role: baseline
-```
-
-```source
-name: L’Orient Today
-section: world_society
-feed_url: ''
-source_cap: 0
-site_url: https://today.lorientlejour.com/
-source_type: newspaper_magazine
-authority_level: generalist
-reliability_score: 4
-professional_value: 4
-use_role: baseline
-```
-
-```source
-name: El País América
-section: world_society
-feed_url: ''
-source_cap: 0
-site_url: https://elpais.com/america/
-source_type: newspaper_magazine
-authority_level: generalist
-reliability_score: 4
-professional_value: 4
-use_role: baseline
-```
-
-```source
-name: Latinvex
-section: world_society
-feed_url: ''
-source_cap: 0
-site_url: https://latinvex.com/
-source_type: newspaper_magazine
-authority_level: generalist
-reliability_score: 4
-professional_value: 4
-use_role: baseline
-```
-
-```source
-name: International Crisis Group
-section: world_society
-feed_url: https://www.crisisgroup.org/rss.xml
-source_cap: 6
-site_url: https://www.crisisgroup.org/
-source_type: newspaper_magazine
-authority_level: generalist
-reliability_score: 4
-professional_value: 4
-use_role: baseline
-```
-
-```source
-name: Crisis Group – Middle East & North Africa
-section: world_society
-feed_url: ''
-source_cap: 0
-site_url: https://www.crisisgroup.org/middle-east-north-africa
-source_type: newspaper_magazine
-authority_level: generalist
-reliability_score: 4
-professional_value: 4
-use_role: baseline
-```
-
-```source
-name: Bellingcat
-section: world_society
-feed_url: https://www.bellingcat.com/feed/
-source_cap: 6
-site_url: https://www.bellingcat.com/
-source_type: newspaper_magazine
-authority_level: generalist
-reliability_score: 4
-professional_value: 4
-use_role: baseline
-```
-
-```source
-name: ProPublica
-section: world_society
-feed_url: https://feeds.propublica.org/propublica/main
-source_cap: 6
-site_url: https://www.propublica.org/
-source_type: newspaper_magazine
-authority_level: generalist
-reliability_score: 4
-professional_value: 4
-use_role: baseline
-```
-
-```source
-name: Council on Foreign Relations
-section: world_society
-feed_url: ''
-source_cap: 0
-site_url: https://www.cfr.org/
-source_type: newspaper_magazine
-authority_level: generalist
-reliability_score: 4
-professional_value: 4
-use_role: baseline
-```
-
-```source
-name: European Council on Foreign Relations
-section: world_society
-feed_url: ''
-source_cap: 0
-site_url: https://ecfr.eu/
-source_type: newspaper_magazine
-authority_level: generalist
-reliability_score: 4
-professional_value: 4
-use_role: baseline
-```
-
-```source
-name: Politico
-section: world_society
-feed_url: https://www.politico.com/rss/politicopicks.xml
-source_cap: 6
-site_url: https://www.politico.com/
-source_type: newspaper_magazine
-authority_level: generalist
-reliability_score: 4
-professional_value: 4
-use_role: baseline
-```
-
-```source
-name: POLITICO Europe
-section: world_society
-feed_url: https://www.politico.eu/feed/
-source_cap: 6
-site_url: https://www.politico.eu/
-source_type: newspaper_magazine
-authority_level: generalist
-reliability_score: 4
-professional_value: 4
-use_role: baseline
-```
-
-```source
-name: Foreign Policy
-section: world_society
-feed_url: https://foreignpolicy.com/feed/
-source_cap: 6
-site_url: https://foreignpolicy.com/
-source_type: newspaper_magazine
-authority_level: generalist
-reliability_score: 4
-professional_value: 4
-use_role: baseline
-```
-
-```source
-name: Project Syndicate
-section: world_society
-feed_url: https://www.project-syndicate.org/rss
-source_cap: 6
-site_url: https://www.project-syndicate.org/
-source_type: newspaper_magazine
-authority_level: generalist
-reliability_score: 4
-professional_value: 4
-use_role: baseline
-```
-
-```source
-name: The Diplomat – Southeast Asia
-section: world_society
-feed_url: ''
-source_cap: 0
-site_url: https://thediplomat.com/category/regions/southeast-asia/
-source_type: newspaper_magazine
-authority_level: generalist
-reliability_score: 4
-professional_value: 4
-use_role: baseline
-```
-
-```source
-name: Americas Quarterly
-section: world_society
-feed_url: ''
-source_cap: 0
-site_url: https://www.americasquarterly.org/
-source_type: newspaper_magazine
-authority_level: generalist
-reliability_score: 4
-professional_value: 4
-use_role: baseline
-```
-
-```source
-name: NACLA
-section: world_society
-feed_url: ''
-source_cap: 0
-site_url: https://nacla.org/
-source_type: newspaper_magazine
-authority_level: generalist
-reliability_score: 4
-professional_value: 4
-use_role: baseline
-```
-
-```source
-name: African Arguments
-section: world_society
-feed_url: ''
-source_cap: 0
-site_url: https://africanarguments.org/
-source_type: newspaper_magazine
-authority_level: generalist
-reliability_score: 4
-professional_value: 4
-use_role: baseline
-```
-
-```source
-name: ISS Africa
-section: world_society
-feed_url: ''
-source_cap: 0
-site_url: https://issafrica.org/
-source_type: newspaper_magazine
-authority_level: generalist
-reliability_score: 4
-professional_value: 4
-use_role: baseline
-```
-
-
-```source
 name: NPR World
-section: world_society
+section: global_news
 feed_url: https://feeds.npr.org/1004/rss.xml
 source_cap: 6
 site_url: https://www.npr.org/sections/world/
@@ -1663,7 +1417,7 @@ use_role: baseline
 
 ```source
 name: PBS NewsHour World
-section: world_society
+section: global_news
 feed_url: https://www.pbs.org/newshour/feeds/rss/world
 source_cap: 6
 site_url: https://www.pbs.org/newshour/world
@@ -1674,9 +1428,265 @@ professional_value: 4
 use_role: baseline
 ```
 
+<a id="regions_geopolitics"></a>
+
+## 地区与地缘政治 / regions_geopolitics
+
+```section
+id: regions_geopolitics
+title: regions geopolitics
+title_zh: 地区与地缘政治
+description_zh: ''
+```
+
+```source
+name: Al-Monitor
+section: regions_geopolitics
+feed_url: ''
+source_cap: 0
+site_url: https://www.al-monitor.com/
+source_type: newspaper_magazine
+authority_level: generalist
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: Middle East Eye
+section: regions_geopolitics
+feed_url: ''
+source_cap: 0
+site_url: https://www.middleeasteye.net/
+source_type: newspaper_magazine
+authority_level: generalist
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: L’Orient Today
+section: regions_geopolitics
+feed_url: ''
+source_cap: 0
+site_url: https://today.lorientlejour.com/
+source_type: newspaper_magazine
+authority_level: generalist
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: El País América
+section: regions_geopolitics
+feed_url: ''
+source_cap: 0
+site_url: https://elpais.com/america/
+source_type: newspaper_magazine
+authority_level: generalist
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: Latinvex
+section: regions_geopolitics
+feed_url: ''
+source_cap: 0
+site_url: https://latinvex.com/
+source_type: newspaper_magazine
+authority_level: generalist
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: International Crisis Group
+section: regions_geopolitics
+feed_url: https://www.crisisgroup.org/rss.xml
+source_cap: 6
+site_url: https://www.crisisgroup.org/
+source_type: newspaper_magazine
+authority_level: generalist
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: Crisis Group – Middle East & North Africa
+section: regions_geopolitics
+feed_url: ''
+source_cap: 0
+site_url: https://www.crisisgroup.org/middle-east-north-africa
+source_type: newspaper_magazine
+authority_level: generalist
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: Council on Foreign Relations
+section: regions_geopolitics
+feed_url: ''
+source_cap: 0
+site_url: https://www.cfr.org/
+source_type: newspaper_magazine
+authority_level: generalist
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: European Council on Foreign Relations
+section: regions_geopolitics
+feed_url: ''
+source_cap: 0
+site_url: https://ecfr.eu/
+source_type: newspaper_magazine
+authority_level: generalist
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: Politico
+section: regions_geopolitics
+feed_url: https://www.politico.com/rss/politicopicks.xml
+source_cap: 6
+site_url: https://www.politico.com/
+source_type: newspaper_magazine
+authority_level: generalist
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: POLITICO Europe
+section: regions_geopolitics
+feed_url: https://www.politico.eu/feed/
+source_cap: 6
+site_url: https://www.politico.eu/
+source_type: newspaper_magazine
+authority_level: generalist
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: Foreign Policy
+section: regions_geopolitics
+feed_url: https://foreignpolicy.com/feed/
+source_cap: 6
+site_url: https://foreignpolicy.com/
+source_type: newspaper_magazine
+authority_level: generalist
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: Project Syndicate
+section: regions_geopolitics
+feed_url: https://www.project-syndicate.org/rss
+source_cap: 6
+site_url: https://www.project-syndicate.org/
+source_type: newspaper_magazine
+authority_level: generalist
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: The Diplomat – Southeast Asia
+section: regions_geopolitics
+feed_url: ''
+source_cap: 0
+site_url: https://thediplomat.com/category/regions/southeast-asia/
+source_type: newspaper_magazine
+authority_level: generalist
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: Americas Quarterly
+section: regions_geopolitics
+feed_url: ''
+source_cap: 0
+site_url: https://www.americasquarterly.org/
+source_type: newspaper_magazine
+authority_level: generalist
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: NACLA
+section: regions_geopolitics
+feed_url: ''
+source_cap: 0
+site_url: https://nacla.org/
+source_type: newspaper_magazine
+authority_level: generalist
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: African Arguments
+section: regions_geopolitics
+feed_url: ''
+source_cap: 0
+site_url: https://africanarguments.org/
+source_type: newspaper_magazine
+authority_level: generalist
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: ISS Africa
+section: regions_geopolitics
+feed_url: ''
+source_cap: 0
+site_url: https://issafrica.org/
+source_type: newspaper_magazine
+authority_level: generalist
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+<a id="rights_humanitarian"></a>
+
+## 权利与人道 / rights_humanitarian
+
+```section
+id: rights_humanitarian
+title: rights humanitarian
+title_zh: 权利与人道
+description_zh: ''
+```
+
 ```source
 name: UN News
-section: world_society
+section: rights_humanitarian
 feed_url: https://news.un.org/feed/subscribe/en/news/all/rss.xml
 source_cap: 6
 site_url: https://news.un.org/en/
@@ -1689,7 +1699,7 @@ use_role: baseline
 
 ```source
 name: Human Rights Watch
-section: world_society
+section: rights_humanitarian
 feed_url: https://www.hrw.org/rss/news
 source_cap: 6
 site_url: https://www.hrw.org/
@@ -1702,7 +1712,7 @@ use_role: signal
 
 ```source
 name: Amnesty International News
-section: world_society
+section: rights_humanitarian
 feed_url: https://www.amnesty.org/en/latest/news/feed/
 source_cap: 6
 site_url: https://www.amnesty.org/en/latest/news/
@@ -1715,7 +1725,7 @@ use_role: signal
 
 ```source
 name: UNHCR News
-section: world_society
+section: rights_humanitarian
 feed_url: https://www.unhcr.org/news/rss.xml
 source_cap: 6
 site_url: https://www.unhcr.org/news/
@@ -1725,6 +1735,44 @@ reliability_score: 5
 professional_value: 4
 use_role: signal
 ```
+
+<a id="investigations_osint"></a>
+
+## 调查与开源情报 / investigations_osint
+
+```section
+id: investigations_osint
+title: investigations osint
+title_zh: 调查与开源情报
+description_zh: ''
+```
+
+```source
+name: Bellingcat
+section: investigations_osint
+feed_url: https://www.bellingcat.com/feed/
+source_cap: 6
+site_url: https://www.bellingcat.com/
+source_type: newspaper_magazine
+authority_level: generalist
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: ProPublica
+section: investigations_osint
+feed_url: https://feeds.propublica.org/propublica/main
+source_cap: 6
+site_url: https://www.propublica.org/
+source_type: newspaper_magazine
+authority_level: generalist
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
 
 <a id="economy"></a>
 
@@ -1818,7 +1866,6 @@ reliability_score: 5
 professional_value: 5
 use_role: baseline
 ```
-
 
 ```source
 name: World Bank Data Blog
@@ -2163,7 +2210,6 @@ professional_value: 4
 use_role: baseline
 ```
 
-
 ```source
 name: WTO News
 section: supply_chains_trade
@@ -2278,7 +2324,6 @@ reliability_score: 4
 professional_value: 4
 use_role: baseline
 ```
-
 
 ```source
 name: World Bank Blogs
@@ -2512,7 +2557,6 @@ professional_value: 4
 use_role: baseline
 ```
 
-
 ```source
 name: OECD Newsroom
 section: money_finance
@@ -2551,6 +2595,7 @@ reliability_score: 4
 professional_value: 5
 use_role: baseline
 ```
+
 
 <a id="ideas"></a>
 
@@ -2710,7 +2755,6 @@ professional_value: 4
 use_role: baseline
 ```
 
-
 ```source
 name: The Conversation Philosophy
 section: public_ideas
@@ -2763,20 +2807,85 @@ professional_value: 4
 use_role: baseline
 ```
 
-<a id="scholarly_ideas"></a>
+```source
+name: Open Culture
+section: public_ideas
+feed_url: ''
+source_cap: 0
+site_url: http://www.openculture.com/
+source_type: reference_tool
+authority_level: aggregator
+reliability_score: 3
+professional_value: 4
+use_role: reference
+```
 
-## 学术观念 / scholarly_ideas
+```source
+name: Substack Reads
+section: public_ideas
+feed_url: ''
+source_cap: 0
+site_url: https://on.substack.com/p/reads
+source_type: reference_tool
+authority_level: aggregator
+reliability_score: 3
+professional_value: 4
+use_role: reference
+```
+
+```source
+name: Medium Staff Picks
+section: public_ideas
+feed_url: ''
+source_cap: 0
+site_url: https://medium.com/tag/staff-picks
+source_type: reference_tool
+authority_level: aggregator
+reliability_score: 3
+professional_value: 4
+use_role: reference
+```
+
+```source
+name: kottke.org
+section: public_ideas
+feed_url: ''
+source_cap: 0
+site_url: https://kottke.org/
+source_type: reference_tool
+authority_level: aggregator
+reliability_score: 3
+professional_value: 4
+use_role: reference
+```
+
+```source
+name: The Browser
+section: public_ideas
+feed_url: https://thebrowser.com/feed
+source_cap: 6
+site_url: https://thebrowser.com/
+source_type: aggregator
+authority_level: commentary
+reliability_score: 4
+professional_value: 4
+use_role: reference
+```
+
+<a id="scholarly_commentary"></a>
+
+## 学术评论 / scholarly_commentary
 
 ```section
-id: scholarly_ideas
-title: scholarly ideas
-title_zh: 学术观念
+id: scholarly_commentary
+title: scholarly commentary
+title_zh: 学术评论
 description_zh: ''
 ```
 
 ```source
 name: JSTOR Daily
-section: scholarly_ideas
+section: scholarly_commentary
 feed_url: https://daily.jstor.org/feed/
 source_cap: 6
 site_url: https://daily.jstor.org/
@@ -2789,7 +2898,7 @@ use_role: baseline
 
 ```source
 name: Public Books
-section: scholarly_ideas
+section: scholarly_commentary
 feed_url: https://www.publicbooks.org/feed/
 source_cap: 6
 site_url: https://www.publicbooks.org/
@@ -2802,7 +2911,7 @@ use_role: baseline
 
 ```source
 name: LSE Review of Books
-section: scholarly_ideas
+section: scholarly_commentary
 feed_url: https://blogs.lse.ac.uk/lsereviewofbooks/feed/
 source_cap: 6
 site_url: https://blogs.lse.ac.uk/lsereviewofbooks/
@@ -2814,138 +2923,8 @@ use_role: baseline
 ```
 
 ```source
-name: Stanford Encyclopedia of Philosophy
-section: scholarly_ideas
-feed_url: ''
-source_cap: 0
-site_url: https://plato.stanford.edu/
-source_type: reference_tool
-authority_level: primary
-reliability_score: 5
-professional_value: 5
-use_role: reference
-```
-
-```source
-name: Internet Encyclopedia of Philosophy
-section: scholarly_ideas
-feed_url: ''
-source_cap: 0
-site_url: https://iep.utm.edu/
-source_type: reference_tool
-authority_level: primary
-reliability_score: 5
-professional_value: 5
-use_role: reference
-```
-
-```source
-name: Britannica
-section: scholarly_ideas
-feed_url: ''
-source_cap: 0
-site_url: https://www.britannica.com/
-source_type: culture_magazine
-authority_level: commentary
-reliability_score: 4
-professional_value: 4
-use_role: baseline
-```
-
-```source
-name: Oxford Reference
-section: scholarly_ideas
-feed_url: ''
-source_cap: 0
-site_url: https://www.oxfordreference.com/
-source_type: culture_magazine
-authority_level: commentary
-reliability_score: 4
-professional_value: 4
-use_role: baseline
-```
-
-```source
-name: PhilPapers
-section: scholarly_ideas
-feed_url: ''
-source_cap: 0
-site_url: https://philpapers.org/
-source_type: reference_tool
-authority_level: aggregator
-reliability_score: 5
-professional_value: 5
-use_role: reference
-```
-
-```source
-name: PhilArchive
-section: scholarly_ideas
-feed_url: ''
-source_cap: 0
-site_url: https://philarchive.org/
-source_type: reference_tool
-authority_level: primary
-reliability_score: 4
-professional_value: 5
-use_role: reference
-```
-
-```source
-name: Google Scholar
-section: scholarly_ideas
-feed_url: ''
-source_cap: 0
-site_url: https://scholar.google.com/
-source_type: reference_tool
-authority_level: aggregator
-reliability_score: 5
-professional_value: 5
-use_role: reference
-```
-
-```source
-name: Semantic Scholar
-section: scholarly_ideas
-feed_url: ''
-source_cap: 0
-site_url: https://www.semanticscholar.org/
-source_type: reference_tool
-authority_level: aggregator
-reliability_score: 5
-professional_value: 5
-use_role: reference
-```
-
-```source
-name: JSTOR
-section: scholarly_ideas
-feed_url: ''
-source_cap: 0
-site_url: https://www.jstor.org/
-source_type: reference_tool
-authority_level: aggregator
-reliability_score: 5
-professional_value: 5
-use_role: reference
-```
-
-```source
-name: Project MUSE
-section: scholarly_ideas
-feed_url: ''
-source_cap: 0
-site_url: https://muse.jhu.edu/
-source_type: reference_tool
-authority_level: aggregator
-reliability_score: 5
-professional_value: 4
-use_role: reference
-```
-
-```source
 name: Notre Dame Philosophical Reviews
-section: scholarly_ideas
+section: scholarly_commentary
 feed_url: ''
 source_cap: 0
 site_url: https://ndpr.nd.edu/
@@ -2957,177 +2936,8 @@ use_role: reference
 ```
 
 ```source
-name: Mind
-section: scholarly_ideas
-feed_url: ''
-source_cap: 0
-site_url: https://academic.oup.com/mind
-source_type: culture_magazine
-authority_level: commentary
-reliability_score: 4
-professional_value: 4
-use_role: baseline
-```
-
-```source
-name: The Philosophical Review
-section: scholarly_ideas
-feed_url: ''
-source_cap: 0
-site_url: https://read.dukeupress.edu/the-philosophical-review
-source_type: journal
-authority_level: primary
-reliability_score: 5
-professional_value: 5
-use_role: baseline
-```
-
-```source
-name: Noûs
-section: scholarly_ideas
-feed_url: ''
-source_cap: 0
-site_url: https://onlinelibrary.wiley.com/journal/14680068
-source_type: culture_magazine
-authority_level: commentary
-reliability_score: 4
-professional_value: 4
-use_role: baseline
-```
-
-```source
-name: Philosophical Studies
-section: scholarly_ideas
-feed_url: ''
-source_cap: 0
-site_url: https://link.springer.com/journal/11098
-source_type: culture_magazine
-authority_level: commentary
-reliability_score: 4
-professional_value: 4
-use_role: baseline
-```
-
-```source
-name: Synthese
-section: scholarly_ideas
-feed_url: ''
-source_cap: 0
-site_url: https://link.springer.com/journal/11229
-source_type: culture_magazine
-authority_level: commentary
-reliability_score: 4
-professional_value: 4
-use_role: baseline
-```
-
-```source
-name: Ethics
-section: scholarly_ideas
-feed_url: ''
-source_cap: 0
-site_url: https://www.journals.uchicago.edu/toc/et/current
-source_type: journal
-authority_level: primary
-reliability_score: 5
-professional_value: 5
-use_role: baseline
-```
-
-```source
-name: Philosophy & Public Affairs
-section: scholarly_ideas
-feed_url: ''
-source_cap: 0
-site_url: https://onlinelibrary.wiley.com/journal/10884963
-source_type: culture_magazine
-authority_level: commentary
-reliability_score: 4
-professional_value: 4
-use_role: baseline
-```
-
-```source
-name: Journal of the History of Ideas
-section: scholarly_ideas
-feed_url: ''
-source_cap: 0
-site_url: https://jhi.pennpress.org
-source_type: culture_magazine
-authority_level: commentary
-reliability_score: 4
-professional_value: 4
-use_role: baseline
-```
-
-```source
-name: European Journal of Analytic Philosophy
-section: scholarly_ideas
-feed_url: ''
-source_cap: 0
-site_url: https://ejap.lumina.org
-source_type: culture_magazine
-authority_level: commentary
-reliability_score: 4
-professional_value: 4
-use_role: baseline
-```
-
-```source
-name: Theory, Culture & Society
-section: scholarly_ideas
-feed_url: ''
-source_cap: 0
-site_url: https://journals.sagepub.com/home/tcs
-source_type: culture_magazine
-authority_level: commentary
-reliability_score: 4
-professional_value: 4
-use_role: baseline
-```
-
-```source
-name: Cultural Sociology
-section: scholarly_ideas
-feed_url: ''
-source_cap: 0
-site_url: https://journals.sagepub.com/home/cus
-source_type: culture_magazine
-authority_level: commentary
-reliability_score: 4
-professional_value: 4
-use_role: baseline
-```
-
-```source
-name: Journal of Classical Sociology
-section: scholarly_ideas
-feed_url: ''
-source_cap: 0
-site_url: https://journals.sagepub.com/home/csi
-source_type: culture_magazine
-authority_level: commentary
-reliability_score: 4
-professional_value: 4
-use_role: baseline
-```
-
-```source
-name: Poetics
-section: scholarly_ideas
-feed_url: ''
-source_cap: 0
-site_url: https://www.sciencedirect.com/journal/poetics
-source_type: culture_magazine
-authority_level: commentary
-reliability_score: 4
-professional_value: 4
-use_role: baseline
-```
-
-```source
 name: Institute of Historical Research
-section: scholarly_ideas
+section: scholarly_commentary
 feed_url: ''
 source_cap: 0
 site_url: https://www.history.ac.uk/
@@ -3140,7 +2950,7 @@ use_role: baseline
 
 ```source
 name: American Historical Association
-section: scholarly_ideas
+section: scholarly_commentary
 feed_url: ''
 source_cap: 0
 site_url: https://www.historians.org/
@@ -3152,8 +2962,344 @@ use_role: baseline
 ```
 
 ```source
+name: Programming Historian
+section: scholarly_commentary
+feed_url: ''
+source_cap: 0
+site_url: https://programminghistorian.org/
+source_type: reference_tool
+authority_level: aggregator
+reliability_score: 3
+professional_value: 4
+use_role: reference
+```
+
+```source
+name: DH Now / Digital Humanities Now
+section: scholarly_commentary
+feed_url: ''
+source_cap: 0
+site_url: https://digitalhumanitiesnow.org/
+source_type: reference_tool
+authority_level: aggregator
+reliability_score: 3
+professional_value: 4
+use_role: reference
+```
+
+<a id="academic_reference"></a>
+
+## 学术参考 / academic_reference
+
+```section
+id: academic_reference
+title: academic reference
+title_zh: 学术参考
+description_zh: ''
+```
+
+```source
+name: Stanford Encyclopedia of Philosophy
+section: academic_reference
+feed_url: ''
+source_cap: 0
+site_url: https://plato.stanford.edu/
+source_type: reference_tool
+authority_level: primary
+reliability_score: 5
+professional_value: 5
+use_role: reference
+```
+
+```source
+name: Internet Encyclopedia of Philosophy
+section: academic_reference
+feed_url: ''
+source_cap: 0
+site_url: https://iep.utm.edu/
+source_type: reference_tool
+authority_level: primary
+reliability_score: 5
+professional_value: 5
+use_role: reference
+```
+
+```source
+name: Britannica
+section: academic_reference
+feed_url: ''
+source_cap: 0
+site_url: https://www.britannica.com/
+source_type: culture_magazine
+authority_level: commentary
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: Oxford Reference
+section: academic_reference
+feed_url: ''
+source_cap: 0
+site_url: https://www.oxfordreference.com/
+source_type: culture_magazine
+authority_level: commentary
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: PhilPapers
+section: academic_reference
+feed_url: ''
+source_cap: 0
+site_url: https://philpapers.org/
+source_type: reference_tool
+authority_level: aggregator
+reliability_score: 5
+professional_value: 5
+use_role: reference
+```
+
+```source
+name: PhilArchive
+section: academic_reference
+feed_url: ''
+source_cap: 0
+site_url: https://philarchive.org/
+source_type: reference_tool
+authority_level: primary
+reliability_score: 4
+professional_value: 5
+use_role: reference
+```
+
+```source
+name: Google Scholar
+section: academic_reference
+feed_url: ''
+source_cap: 0
+site_url: https://scholar.google.com/
+source_type: reference_tool
+authority_level: aggregator
+reliability_score: 5
+professional_value: 5
+use_role: reference
+```
+
+```source
+name: Semantic Scholar
+section: academic_reference
+feed_url: ''
+source_cap: 0
+site_url: https://www.semanticscholar.org/
+source_type: reference_tool
+authority_level: aggregator
+reliability_score: 5
+professional_value: 5
+use_role: reference
+```
+
+```source
+name: JSTOR
+section: academic_reference
+feed_url: ''
+source_cap: 0
+site_url: https://www.jstor.org/
+source_type: reference_tool
+authority_level: aggregator
+reliability_score: 5
+professional_value: 5
+use_role: reference
+```
+
+```source
+name: Project MUSE
+section: academic_reference
+feed_url: ''
+source_cap: 0
+site_url: https://muse.jhu.edu/
+source_type: reference_tool
+authority_level: aggregator
+reliability_score: 5
+professional_value: 4
+use_role: reference
+```
+
+```source
+name: Mind
+section: academic_reference
+feed_url: ''
+source_cap: 0
+site_url: https://academic.oup.com/mind
+source_type: culture_magazine
+authority_level: commentary
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: The Philosophical Review
+section: academic_reference
+feed_url: ''
+source_cap: 0
+site_url: https://read.dukeupress.edu/the-philosophical-review
+source_type: journal
+authority_level: primary
+reliability_score: 5
+professional_value: 5
+use_role: baseline
+```
+
+```source
+name: Noûs
+section: academic_reference
+feed_url: ''
+source_cap: 0
+site_url: https://onlinelibrary.wiley.com/journal/14680068
+source_type: culture_magazine
+authority_level: commentary
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: Philosophical Studies
+section: academic_reference
+feed_url: ''
+source_cap: 0
+site_url: https://link.springer.com/journal/11098
+source_type: culture_magazine
+authority_level: commentary
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: Synthese
+section: academic_reference
+feed_url: ''
+source_cap: 0
+site_url: https://link.springer.com/journal/11229
+source_type: culture_magazine
+authority_level: commentary
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: Ethics
+section: academic_reference
+feed_url: ''
+source_cap: 0
+site_url: https://www.journals.uchicago.edu/toc/et/current
+source_type: journal
+authority_level: primary
+reliability_score: 5
+professional_value: 5
+use_role: baseline
+```
+
+```source
+name: Philosophy & Public Affairs
+section: academic_reference
+feed_url: ''
+source_cap: 0
+site_url: https://onlinelibrary.wiley.com/journal/10884963
+source_type: culture_magazine
+authority_level: commentary
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: Journal of the History of Ideas
+section: academic_reference
+feed_url: ''
+source_cap: 0
+site_url: https://jhi.pennpress.org
+source_type: culture_magazine
+authority_level: commentary
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: European Journal of Analytic Philosophy
+section: academic_reference
+feed_url: ''
+source_cap: 0
+site_url: https://ejap.lumina.org
+source_type: culture_magazine
+authority_level: commentary
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: Theory, Culture & Society
+section: academic_reference
+feed_url: ''
+source_cap: 0
+site_url: https://journals.sagepub.com/home/tcs
+source_type: culture_magazine
+authority_level: commentary
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: Cultural Sociology
+section: academic_reference
+feed_url: ''
+source_cap: 0
+site_url: https://journals.sagepub.com/home/cus
+source_type: culture_magazine
+authority_level: commentary
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: Journal of Classical Sociology
+section: academic_reference
+feed_url: ''
+source_cap: 0
+site_url: https://journals.sagepub.com/home/csi
+source_type: culture_magazine
+authority_level: commentary
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+```source
+name: Poetics
+section: academic_reference
+feed_url: ''
+source_cap: 0
+site_url: https://www.sciencedirect.com/journal/poetics
+source_type: culture_magazine
+authority_level: commentary
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
+
+```source
 name: Stanford Encyclopedia – Philosophy of Religion
-section: scholarly_ideas
+section: academic_reference
 feed_url: ''
 source_cap: 0
 site_url: https://plato.stanford.edu/entries/philosophy-religion/
@@ -3166,7 +3312,7 @@ use_role: reference
 
 ```source
 name: Internet Encyclopedia – Philosophy of Religion
-section: scholarly_ideas
+section: academic_reference
 feed_url: ''
 source_cap: 0
 site_url: https://iep.utm.edu/philrel/
@@ -3174,6 +3320,19 @@ source_type: reference_tool
 authority_level: primary
 reliability_score: 5
 professional_value: 5
+use_role: reference
+```
+
+```source
+name: Philosophy Paperboy
+section: academic_reference
+feed_url: ''
+source_cap: 0
+site_url: http://www.philosophypaperboy.com
+source_type: reference_tool
+authority_level: aggregator
+reliability_score: 3
+professional_value: 4
 use_role: reference
 ```
 
@@ -3435,7 +3594,6 @@ professional_value: 4
 use_role: baseline
 ```
 
-
 ```source
 name: Law & Liberty
 section: civilizational_critique
@@ -3474,6 +3632,7 @@ reliability_score: 4
 professional_value: 4
 use_role: baseline
 ```
+
 
 <a id="cultural_forms"></a>
 
@@ -3646,7 +3805,6 @@ professional_value: 4
 use_role: baseline
 ```
 
-
 ```source
 name: TLS
 section: books
@@ -3774,7 +3932,6 @@ reliability_score: 4
 professional_value: 4
 use_role: culture_probe
 ```
-
 
 ```source
 name: Criterion Current
@@ -3904,7 +4061,6 @@ professional_value: 4
 use_role: culture_probe
 ```
 
-
 ```source
 name: Stereogum
 section: music_sound
@@ -3967,7 +4123,6 @@ reliability_score: 4
 professional_value: 4
 use_role: baseline
 ```
-
 
 ```source
 name: British Journal of Photography
@@ -4149,7 +4304,6 @@ professional_value: 4
 use_role: culture_probe
 ```
 
-
 ```source
 name: Frieze
 section: arts_design
@@ -4187,6 +4341,19 @@ authority_level: commentary
 reliability_score: 4
 professional_value: 4
 use_role: culture_probe
+```
+
+```source
+name: The Collector
+section: arts_design
+feed_url: ''
+source_cap: 0
+site_url: https://www.thecollector.com/
+source_type: reference_tool
+authority_level: aggregator
+reliability_score: 3
+professional_value: 4
+use_role: reference
 ```
 
 <a id="architecture_urbanism"></a>
@@ -4252,7 +4419,6 @@ professional_value: 4
 use_role: culture_probe
 ```
 
-
 ```source
 name: The Urbanist
 section: architecture_urbanism
@@ -4294,12 +4460,12 @@ use_role: baseline
 
 <a id="games"></a>
 
-## 游戏与科幻 / games
+## 游戏 / games
 
 ```section
 id: games
 title: games
-title_zh: 游戏与科幻
+title_zh: 游戏
 description_zh: ''
 ```
 
@@ -4369,19 +4535,6 @@ use_role: culture_probe
 ```
 
 ```source
-name: Tor.com
-section: games
-feed_url: ''
-source_cap: 0
-site_url: https://www.tor.com/
-source_type: culture_magazine
-authority_level: commentary
-reliability_score: 4
-professional_value: 4
-use_role: culture_probe
-```
-
-```source
 name: Superjump Magazine
 section: games
 feed_url: ''
@@ -4406,20 +4559,6 @@ reliability_score: 4
 professional_value: 4
 use_role: culture_probe
 ```
-
-```source
-name: SFRA Review
-section: games
-feed_url: ''
-source_cap: 0
-site_url: https://sfra.org/sfra-review
-source_type: culture_magazine
-authority_level: commentary
-reliability_score: 4
-professional_value: 4
-use_role: culture_probe
-```
-
 
 ```source
 name: Noema Games
@@ -4458,6 +4597,43 @@ authority_level: specialist
 reliability_score: 4
 professional_value: 4
 use_role: baseline
+```
+
+<a id="speculative_fiction"></a>
+
+## 科幻与幻想 / speculative_fiction
+
+```section
+id: speculative_fiction
+title: speculative fiction
+title_zh: 科幻与幻想
+description_zh: ''
+```
+
+```source
+name: Tor.com
+section: speculative_fiction
+feed_url: ''
+source_cap: 0
+site_url: https://www.tor.com/
+source_type: culture_magazine
+authority_level: commentary
+reliability_score: 4
+professional_value: 4
+use_role: culture_probe
+```
+
+```source
+name: SFRA Review
+section: speculative_fiction
+feed_url: ''
+source_cap: 0
+site_url: https://sfra.org/sfra-review
+source_type: culture_magazine
+authority_level: commentary
+reliability_score: 4
+professional_value: 4
+use_role: culture_probe
 ```
 
 <a id="fashion_style"></a>
@@ -4523,7 +4699,6 @@ professional_value: 4
 use_role: culture_probe
 ```
 
-
 ```source
 name: Vogue Runway
 section: fashion_style
@@ -4536,6 +4711,7 @@ reliability_score: 4
 professional_value: 4
 use_role: culture_probe
 ```
+
 
 <a id="human_studies"></a>
 
@@ -4669,7 +4845,6 @@ professional_value: 4
 use_role: baseline
 ```
 
-
 ```source
 name: Anthropology Today
 section: human_societies
@@ -4772,7 +4947,6 @@ professional_value: 4
 use_role: baseline
 ```
 
-
 ```source
 name: BPS News
 section: mind
@@ -4799,24 +4973,25 @@ professional_value: 5
 use_role: reference
 ```
 
+
 <a id="nature"></a>
 
 # 自然 / nature
 
-<a id="science_news"></a>
+<a id="general_science_news"></a>
 
-## 科学新闻 / science_news
+## 综合科学新闻 / general_science_news
 
 ```section
-id: science_news
-title: science news
-title_zh: 科学新闻
+id: general_science_news
+title: general science news
+title_zh: 综合科学新闻
 description_zh: ''
 ```
 
 ```source
 name: ScienceDaily
-section: science_news
+section: general_science_news
 feed_url: https://www.sciencedaily.com/rss/all.xml
 source_cap: 6
 site_url: https://www.sciencedaily.com/
@@ -4829,7 +5004,7 @@ use_role: baseline
 
 ```source
 name: Phys.org
-section: science_news
+section: general_science_news
 feed_url: https://phys.org/rss-feed/
 source_cap: 6
 site_url: https://phys.org/
@@ -4842,7 +5017,7 @@ use_role: baseline
 
 ```source
 name: Phys.org Biology
-section: science_news
+section: general_science_news
 feed_url: ''
 source_cap: 0
 site_url: https://phys.org/biology-news/
@@ -4855,7 +5030,7 @@ use_role: baseline
 
 ```source
 name: Science News
-section: science_news
+section: general_science_news
 feed_url: https://www.sciencenews.org/feed
 source_cap: 6
 site_url: https://www.sciencenews.org/
@@ -4868,7 +5043,7 @@ use_role: baseline
 
 ```source
 name: The Scientist
-section: science_news
+section: general_science_news
 feed_url: https://www.the-scientist.com/rss
 source_cap: 6
 site_url: https://www.the-scientist.com/
@@ -4881,7 +5056,7 @@ use_role: baseline
 
 ```source
 name: MIT News
-section: science_news
+section: general_science_news
 feed_url: https://news.mit.edu/rss/topic/science-technology
 source_cap: 6
 site_url: https://news.mit.edu/topic/science-technology
@@ -4894,7 +5069,7 @@ use_role: baseline
 
 ```source
 name: Quanta Magazine
-section: science_news
+section: general_science_news
 feed_url: https://www.quantamagazine.org/feed/
 source_cap: 6
 site_url: https://www.quantamagazine.org/
@@ -4907,7 +5082,7 @@ use_role: baseline
 
 ```source
 name: Nautilus
-section: science_news
+section: general_science_news
 feed_url: https://nautil.us/feed/
 source_cap: 6
 site_url: https://nautil.us/
@@ -4920,7 +5095,7 @@ use_role: baseline
 
 ```source
 name: Undark Magazine
-section: science_news
+section: general_science_news
 feed_url: ''
 source_cap: 0
 site_url: https://undark.org/
@@ -4933,7 +5108,7 @@ use_role: baseline
 
 ```source
 name: The Conversation Science
-section: science_news
+section: general_science_news
 feed_url: ''
 source_cap: 0
 site_url: https://theconversation.com/global/topics/science-59
@@ -4946,7 +5121,7 @@ use_role: baseline
 
 ```source
 name: SciURLs
-section: science_news
+section: general_science_news
 feed_url: ''
 source_cap: 0
 site_url: https://sciurls.com/
@@ -4959,7 +5134,7 @@ use_role: baseline
 
 ```source
 name: Science X
-section: science_news
+section: general_science_news
 feed_url: ''
 source_cap: 0
 site_url: https://sciencex.com/news/
@@ -4972,7 +5147,7 @@ use_role: baseline
 
 ```source
 name: Neuroscience News
-section: science_news
+section: general_science_news
 feed_url: https://neurosciencenews.com/feed/
 source_cap: 6
 site_url: https://neurosciencenews.com
@@ -4985,7 +5160,7 @@ use_role: baseline
 
 ```source
 name: Live Science
-section: science_news
+section: general_science_news
 feed_url: https://www.livescience.com/feeds/all
 source_cap: 6
 site_url: https://www.livescience.com/
@@ -4996,20 +5171,20 @@ professional_value: 4
 use_role: baseline
 ```
 
-<a id="science_magazines"></a>
+<a id="popular_science"></a>
 
-## 科普杂志 / science_magazines
+## 科普杂志 / popular_science
 
 ```section
-id: science_magazines
-title: science magazines
+id: popular_science
+title: popular science
 title_zh: 科普杂志
 description_zh: ''
 ```
 
 ```source
 name: Scientific American
-section: science_magazines
+section: popular_science
 feed_url: https://rss.sciam.com/ScientificAmerican-Global
 source_cap: 6
 site_url: https://www.scientificamerican.com
@@ -5022,7 +5197,7 @@ use_role: baseline
 
 ```source
 name: Discover Magazine
-section: science_magazines
+section: popular_science
 feed_url: https://www.discovermagazine.com/rss/all
 source_cap: 6
 site_url: https://www.discovermagazine.com
@@ -5035,7 +5210,7 @@ use_role: baseline
 
 ```source
 name: Popular Science
-section: science_magazines
+section: popular_science
 feed_url: https://www.popsci.com/feed/
 source_cap: 6
 site_url: https://www.popsci.com
@@ -5048,7 +5223,7 @@ use_role: baseline
 
 ```source
 name: New Scientist
-section: science_magazines
+section: popular_science
 feed_url: ''
 source_cap: 0
 site_url: https://www.newscientist.com/
@@ -5061,7 +5236,7 @@ use_role: baseline
 
 ```source
 name: Aeon – Science
-section: science_magazines
+section: popular_science
 feed_url: ''
 source_cap: 0
 site_url: https://aeon.co/science
@@ -5072,20 +5247,20 @@ professional_value: 4
 use_role: baseline
 ```
 
-<a id="research"></a>
+<a id="academic_research"></a>
 
-## 学术研究 / research
+## 学术研究 / academic_research
 
 ```section
-id: research
-title: research
+id: academic_research
+title: academic research
 title_zh: 学术研究
 description_zh: ''
 ```
 
 ```source
 name: Nature
-section: research
+section: academic_research
 feed_url: https://www.nature.com/nature.rss
 source_cap: 6
 site_url: https://www.nature.com/nature/
@@ -5098,7 +5273,7 @@ use_role: baseline
 
 ```source
 name: Science
-section: research
+section: academic_research
 feed_url: https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science
 source_cap: 6
 site_url: https://www.science.org/journal/science
@@ -5111,7 +5286,7 @@ use_role: baseline
 
 ```source
 name: PNAS
-section: research
+section: academic_research
 feed_url: https://www.pnas.org/action/showFeed?type=etoc&feed=rss&jc=pnas
 source_cap: 6
 site_url: https://www.pnas.org/
@@ -5124,7 +5299,7 @@ use_role: baseline
 
 ```source
 name: The Lancet
-section: research
+section: academic_research
 feed_url: https://www.thelancet.com/rssfeed/lancet_current.xml
 source_cap: 6
 site_url: https://www.thelancet.com/
@@ -5137,7 +5312,7 @@ use_role: baseline
 
 ```source
 name: Cell
-section: research
+section: academic_research
 feed_url: https://www.cell.com/cell/inpress.rss
 source_cap: 6
 site_url: https://www.cell.com/
@@ -5150,7 +5325,7 @@ use_role: baseline
 
 ```source
 name: Physical Review Letters
-section: research
+section: academic_research
 feed_url: https://feeds.aps.org/rss/recent/prl.xml
 source_cap: 6
 site_url: https://journals.aps.org/prl/
@@ -5163,7 +5338,7 @@ use_role: baseline
 
 ```source
 name: Journal of High Energy Physics
-section: research
+section: academic_research
 feed_url: ''
 source_cap: 0
 site_url: https://link.springer.com/journal/13130
@@ -5176,7 +5351,7 @@ use_role: baseline
 
 ```source
 name: Nature Medicine
-section: research
+section: academic_research
 feed_url: ''
 source_cap: 0
 site_url: https://www.nature.com/nm/
@@ -5189,7 +5364,7 @@ use_role: baseline
 
 ```source
 name: Nature Neuroscience
-section: research
+section: academic_research
 feed_url: ''
 source_cap: 0
 site_url: https://www.nature.com/neuro/
@@ -5202,7 +5377,7 @@ use_role: baseline
 
 ```source
 name: Neuron
-section: research
+section: academic_research
 feed_url: ''
 source_cap: 0
 site_url: https://www.cell.com/neuron
@@ -5215,7 +5390,7 @@ use_role: baseline
 
 ```source
 name: Science Advances
-section: research
+section: academic_research
 feed_url: ''
 source_cap: 0
 site_url: https://www.science.org/journal/sciadv
@@ -5228,7 +5403,7 @@ use_role: baseline
 
 ```source
 name: Nature Communications
-section: research
+section: academic_research
 feed_url: ''
 source_cap: 0
 site_url: https://www.nature.com/ncomms/
@@ -5241,7 +5416,7 @@ use_role: baseline
 
 ```source
 name: arXiv
-section: research
+section: academic_research
 feed_url: https://rss.arxiv.org/rss/physics
 source_cap: 6
 site_url: https://arxiv.org/
@@ -5254,7 +5429,7 @@ use_role: signal
 
 ```source
 name: arXiv q-bio Populations and Evolution
-section: research
+section: academic_research
 feed_url: ''
 source_cap: 0
 site_url: https://arxiv.org/list/q-bio.PE/recent
@@ -5267,7 +5442,7 @@ use_role: signal
 
 ```source
 name: bioRxiv
-section: research
+section: academic_research
 feed_url: https://www.biorxiv.org/rss/current.xml
 source_cap: 6
 site_url: https://www.biorxiv.org/
@@ -5280,7 +5455,7 @@ use_role: signal
 
 ```source
 name: bioRxiv Ecology
-section: research
+section: academic_research
 feed_url: https://www.biorxiv.org/rss/collection/ecology.xml
 source_cap: 6
 site_url: https://www.biorxiv.org/collection/ecology
@@ -5293,7 +5468,7 @@ use_role: signal
 
 ```source
 name: bioRxiv Evolutionary Biology
-section: research
+section: academic_research
 feed_url: ''
 source_cap: 0
 site_url: https://www.biorxiv.org/collection/evolutionary-biology
@@ -5306,7 +5481,7 @@ use_role: signal
 
 ```source
 name: bioRxiv Zoology
-section: research
+section: academic_research
 feed_url: ''
 source_cap: 0
 site_url: https://www.biorxiv.org/collection/zoology
@@ -5319,7 +5494,7 @@ use_role: signal
 
 ```source
 name: medRxiv
-section: research
+section: academic_research
 feed_url: https://www.medrxiv.org/rss/current.xml
 source_cap: 6
 site_url: https://www.medrxiv.org/
@@ -5332,7 +5507,7 @@ use_role: signal
 
 ```source
 name: PubMed
-section: research
+section: academic_research
 feed_url: ''
 source_cap: 0
 site_url: https://pubmed.ncbi.nlm.nih.gov/
@@ -5345,7 +5520,7 @@ use_role: reference
 
 ```source
 name: Semantic Scholar
-section: research
+section: academic_research
 feed_url: ''
 source_cap: 0
 site_url: https://www.semanticscholar.org/
@@ -5358,7 +5533,7 @@ use_role: reference
 
 ```source
 name: eLife Latest
-section: research
+section: academic_research
 feed_url: ''
 source_cap: 0
 site_url: https://elifesciences.org/
@@ -5371,7 +5546,7 @@ use_role: baseline
 
 ```source
 name: PLOS Biology
-section: research
+section: academic_research
 feed_url: ''
 source_cap: 0
 site_url: https://journals.plos.org/plosbiology/
@@ -5384,7 +5559,7 @@ use_role: baseline
 
 ```source
 name: PsyArXiv
-section: research
+section: academic_research
 feed_url: ''
 source_cap: 0
 site_url: https://osf.io/preprints/psyarxiv
@@ -5397,7 +5572,7 @@ use_role: signal
 
 ```source
 name: SocArXiv
-section: research
+section: academic_research
 feed_url: ''
 source_cap: 0
 site_url: https://osf.io/preprints/socarxiv
@@ -5408,10 +5583,9 @@ professional_value: 5
 use_role: signal
 ```
 
-
 ```source
 name: Nature Ecology & Evolution
-section: research
+section: academic_research
 feed_url: https://www.nature.com/natecolevol.rss
 source_cap: 6
 site_url: https://www.nature.com/natecolevol/
@@ -5424,7 +5598,7 @@ use_role: baseline
 
 ```source
 name: Current Biology
-section: research
+section: academic_research
 feed_url: https://www.cell.com/current-biology/inpress.rss
 source_cap: 6
 site_url: https://www.cell.com/current-biology/home
@@ -5437,7 +5611,7 @@ use_role: baseline
 
 ```source
 name: Ecology Letters
-section: research
+section: academic_research
 feed_url: https://onlinelibrary.wiley.com/action/showFeed?type=etoc&feed=rss&jc=14610248
 source_cap: 6
 site_url: https://onlinelibrary.wiley.com/journal/14610248
@@ -5450,7 +5624,7 @@ use_role: baseline
 
 ```source
 name: Methods in Ecology and Evolution
-section: research
+section: academic_research
 feed_url: https://besjournals.onlinelibrary.wiley.com/action/showFeed?type=etoc&feed=rss&jc=2041210x
 source_cap: 6
 site_url: https://besjournals.onlinelibrary.wiley.com/journal/2041210x
@@ -5463,7 +5637,7 @@ use_role: reference
 
 ```source
 name: PLOS ONE Biology
-section: research
+section: academic_research
 feed_url: https://journals.plos.org/plosone/feed/atom
 source_cap: 6
 site_url: https://journals.plos.org/plosone/
@@ -5575,7 +5749,6 @@ reliability_score: 4
 professional_value: 4
 use_role: baseline
 ```
-
 
 ```source
 name: NASA Earth Observatory Image of the Day
@@ -5781,7 +5954,6 @@ professional_value: 4
 use_role: baseline
 ```
 
-
 ```source
 name: NOAA Climate.gov
 section: ecology_conservation
@@ -5870,7 +6042,6 @@ reliability_score: 4
 professional_value: 4
 use_role: baseline
 ```
-
 
 ```source
 name: Behavioral Ecology
@@ -6013,7 +6184,6 @@ professional_value: 4
 use_role: baseline
 ```
 
-
 ```source
 name: ICES Journal of Marine Science
 section: marine_life
@@ -6089,7 +6259,6 @@ reliability_score: 4
 professional_value: 4
 use_role: baseline
 ```
-
 
 ```source
 name: FishBase News
@@ -6323,7 +6492,6 @@ professional_value: 3
 use_role: reference
 ```
 
-
 ```source
 name: Journal of Molluscan Studies
 section: mollusks
@@ -6530,7 +6698,6 @@ professional_value: 3
 use_role: reference
 ```
 
-
 ```source
 name: ZooKeys
 section: arthropods
@@ -6633,7 +6800,6 @@ professional_value: 4
 use_role: baseline
 ```
 
-
 ```source
 name: Botany One
 section: plants_fungi
@@ -6697,7 +6863,6 @@ professional_value: 4
 use_role: baseline
 ```
 
-
 ```source
 name: Mindat News
 section: minerals_geology
@@ -6736,6 +6901,7 @@ reliability_score: 3
 professional_value: 3
 use_role: signal
 ```
+
 
 <a id="technology"></a>
 
@@ -6855,7 +7021,6 @@ reliability_score: 5
 professional_value: 5
 use_role: baseline
 ```
-
 
 ```source
 name: OpenAI News
@@ -7102,7 +7267,6 @@ professional_value: 4
 use_role: baseline
 ```
 
-
 ```source
 name: ACM Queue
 section: computing_cultures
@@ -7244,7 +7408,6 @@ professional_value: 4
 use_role: baseline
 ```
 
-
 ```source
 name: Kubernetes Blog
 section: platforms_infrastructure
@@ -7310,20 +7473,33 @@ professional_value: 5
 use_role: baseline
 ```
 
-<a id="interfaces_media_technology"></a>
+```source
+name: Search Engine Land
+section: platforms_infrastructure
+feed_url: https://searchengineland.com/feed
+source_cap: 6
+site_url: https://searchengineland.com/
+source_type: specialist_media
+authority_level: specialist
+reliability_score: 4
+professional_value: 4
+use_role: baseline
+```
 
-## 界面与媒介技术 / interfaces_media_technology
+<a id="platform_media"></a>
+
+## 平台与媒介技术 / platform_media
 
 ```section
-id: interfaces_media_technology
-title: interfaces media technology
-title_zh: 界面与媒介技术
+id: platform_media
+title: platform media
+title_zh: 平台与媒介技术
 description_zh: ''
 ```
 
 ```source
 name: The Verge
-section: interfaces_media_technology
+section: platform_media
 feed_url: https://www.theverge.com/rss/index.xml
 source_cap: 6
 site_url: https://www.theverge.com/
@@ -7336,7 +7512,7 @@ use_role: baseline
 
 ```source
 name: Wired
-section: interfaces_media_technology
+section: platform_media
 feed_url: https://www.wired.com/feed/rss
 source_cap: 6
 site_url: https://www.wired.com/
@@ -7349,7 +7525,7 @@ use_role: baseline
 
 ```source
 name: Wired – Science
-section: interfaces_media_technology
+section: platform_media
 feed_url: ''
 source_cap: 0
 site_url: https://www.wired.com/category/science/
@@ -7361,21 +7537,8 @@ use_role: baseline
 ```
 
 ```source
-name: Nielsen Norman Group
-section: interfaces_media_technology
-feed_url: ''
-source_cap: 0
-site_url: https://www.nngroup.com/articles/
-source_type: specialist_media
-authority_level: specialist
-reliability_score: 4
-professional_value: 4
-use_role: baseline
-```
-
-```source
 name: Platformer
-section: interfaces_media_technology
+section: platform_media
 feed_url: https://www.platformer.news/feed
 source_cap: 6
 site_url: https://www.platformer.news/
@@ -7388,7 +7551,7 @@ use_role: baseline
 
 ```source
 name: Garbage Day
-section: interfaces_media_technology
+section: platform_media
 feed_url: https://www.garbageday.email/feed
 source_cap: 6
 site_url: https://www.garbageday.email/
@@ -7399,12 +7562,23 @@ professional_value: 4
 use_role: baseline
 ```
 
+<a id="interfaces_ux"></a>
+
+## 界面与用户体验 / interfaces_ux
+
+```section
+id: interfaces_ux
+title: interfaces ux
+title_zh: 界面与用户体验
+description_zh: ''
+```
+
 ```source
-name: Search Engine Land
-section: interfaces_media_technology
-feed_url: https://searchengineland.com/feed
-source_cap: 6
-site_url: https://searchengineland.com/
+name: Nielsen Norman Group
+section: interfaces_ux
+feed_url: ''
+source_cap: 0
+site_url: https://www.nngroup.com/articles/
 source_type: specialist_media
 authority_level: specialist
 reliability_score: 4
@@ -7435,7 +7609,6 @@ reliability_score: 4
 professional_value: 4
 use_role: baseline
 ```
-
 
 ```source
 name: IEEE Spectrum Aerospace
@@ -7617,7 +7790,6 @@ professional_value: 4
 use_role: baseline
 ```
 
-
 ```source
 name: NVIDIA Technical Blog
 section: hardware_radio_embedded
@@ -7657,46 +7829,20 @@ professional_value: 4
 use_role: baseline
 ```
 
-<a id="ham_radio"></a>
+<a id="ham_radio_operations"></a>
 
-## 业余无线电 / ham_radio
+## 业余无线电操作 / ham_radio_operations
 
 ```section
-id: ham_radio
-title: ham radio
-title_zh: 业余无线电
+id: ham_radio_operations
+title: ham radio operations
+title_zh: 业余无线电操作
 description_zh: ''
 ```
 
 ```source
-name: QRZ
-section: ham_radio
-feed_url: ''
-source_cap: 0
-site_url: https://www.qrz.com
-source_type: reference_tool
-authority_level: primary
-reliability_score: 5
-professional_value: 4
-use_role: reference
-```
-
-```source
-name: RadioID
-section: ham_radio
-feed_url: ''
-source_cap: 0
-site_url: https://radioid.net
-source_type: reference_tool
-authority_level: primary
-reliability_score: 5
-professional_value: 4
-use_role: reference
-```
-
-```source
 name: LoTW / Logbook of The World
-section: ham_radio
+section: ham_radio_operations
 feed_url: ''
 source_cap: 0
 site_url: https://lotw.arrl.org/
@@ -7708,151 +7854,8 @@ use_role: reference
 ```
 
 ```source
-name: Cloudlog
-section: ham_radio
-feed_url: ''
-source_cap: 0
-site_url: https://www.magicbug.co.uk/cloudlog/
-source_type: reference_tool
-authority_level: primary
-reliability_score: 5
-professional_value: 4
-use_role: reference
-```
-
-```source
-name: BrandMeister
-section: ham_radio
-feed_url: ''
-source_cap: 0
-site_url: https://brandmeister.network/
-source_type: reference_tool
-authority_level: primary
-reliability_score: 5
-professional_value: 4
-use_role: reference
-```
-
-```source
-name: TGIF
-section: ham_radio
-feed_url: ''
-source_cap: 0
-site_url: https://tgif.network/
-source_type: reference_tool
-authority_level: primary
-reliability_score: 5
-professional_value: 4
-use_role: reference
-```
-
-```source
-name: D-STAR
-section: ham_radio
-feed_url: ''
-source_cap: 0
-site_url: https://www.dstar.org/
-source_type: reference_tool
-authority_level: primary
-reliability_score: 5
-professional_value: 4
-use_role: reference
-```
-
-```source
-name: YSF / Wires-X
-section: ham_radio
-feed_url: ''
-source_cap: 0
-site_url: https://systemfusion.yaesu.com/
-source_type: reference_tool
-authority_level: primary
-reliability_score: 5
-professional_value: 4
-use_role: reference
-```
-
-```source
-name: EchoLink
-section: ham_radio
-feed_url: ''
-source_cap: 0
-site_url: https://www.echolink.org/
-source_type: reference_tool
-authority_level: primary
-reliability_score: 5
-professional_value: 4
-use_role: reference
-```
-
-```source
-name: IRLP
-section: ham_radio
-feed_url: ''
-source_cap: 0
-site_url: https://www.irlp.net/
-source_type: reference_tool
-authority_level: primary
-reliability_score: 5
-professional_value: 4
-use_role: reference
-```
-
-```source
-name: AllStarLink
-section: ham_radio
-feed_url: ''
-source_cap: 0
-site_url: https://www.allstarlink.org/
-source_type: reference_tool
-authority_level: primary
-reliability_score: 5
-professional_value: 4
-use_role: reference
-```
-
-```source
-name: HamVoIP
-section: ham_radio
-feed_url: ''
-source_cap: 0
-site_url: https://hamvoip.org/
-source_type: reference_tool
-authority_level: primary
-reliability_score: 5
-professional_value: 4
-use_role: reference
-```
-
-```source
-name: DVSwitch
-section: ham_radio
-feed_url: ''
-source_cap: 0
-site_url: https://dvswitch.groups.io/g/main/wiki
-source_type: reference_tool
-authority_level: primary
-reliability_score: 5
-professional_value: 4
-use_role: reference
-```
-
-```source
-name: MMDVM
-section: ham_radio
-feed_url: ''
-source_cap: 0
-site_url: https://github.com/g4klx/MMDVM
-source_type: reference_tool
-authority_level: primary
-reliability_score: 5
-professional_value: 4
-use_role: reference
-```
-
-```source
 name: FT8 / WSJT-X
-section: ham_radio
+section: ham_radio_operations
 feed_url: ''
 source_cap: 0
 site_url: https://wsjt.sourceforge.io/
@@ -7865,7 +7868,7 @@ use_role: reference
 
 ```source
 name: WSPR
-section: ham_radio
+section: ham_radio_operations
 feed_url: ''
 source_cap: 0
 site_url: https://www.wsprnet.org/
@@ -7878,7 +7881,7 @@ use_role: reference
 
 ```source
 name: PSK31
-section: ham_radio
+section: ham_radio_operations
 feed_url: ''
 source_cap: 0
 site_url: https://www.psk31.com/
@@ -7891,7 +7894,7 @@ use_role: reference
 
 ```source
 name: APRS
-section: ham_radio
+section: ham_radio_operations
 feed_url: ''
 source_cap: 0
 site_url: https://aprs.fi/
@@ -7904,7 +7907,7 @@ use_role: reference
 
 ```source
 name: AX.25 Packet Radio
-section: ham_radio
+section: ham_radio_operations
 feed_url: ''
 source_cap: 0
 site_url: https://www.tapr.org/ax25.html
@@ -7917,7 +7920,7 @@ use_role: reference
 
 ```source
 name: Winlink
-section: ham_radio
+section: ham_radio_operations
 feed_url: ''
 source_cap: 0
 site_url: https://winlink.org/
@@ -7929,125 +7932,8 @@ use_role: reference
 ```
 
 ```source
-name: Maidenhead Locator System
-section: ham_radio
-feed_url: ''
-source_cap: 0
-site_url: https://ham.c5r.app/maidenhead-grid
-source_type: reference_tool
-authority_level: primary
-reliability_score: 5
-professional_value: 4
-use_role: reference
-```
-
-```source
-name: DroidStar
-section: ham_radio
-feed_url: ''
-source_cap: 0
-site_url: https://github.com/nostar/DroidStar
-source_type: reference_tool
-authority_level: primary
-reliability_score: 5
-professional_value: 4
-use_role: reference
-```
-
-```source
-name: DroidStar Vocoder Servers — pizzanbeer
-section: ham_radio
-feed_url: ''
-source_cap: 0
-site_url: http://pizzanbeer.net/
-source_type: reference_tool
-authority_level: primary
-reliability_score: 5
-professional_value: 4
-use_role: reference
-```
-
-```source
-name: DroidStar Vocoder Servers — dudestar
-section: ham_radio
-feed_url: ''
-source_cap: 0
-site_url: http://dudestar.gw8szl.co.uk/Droidstar/
-source_type: reference_tool
-authority_level: primary
-reliability_score: 5
-professional_value: 4
-use_role: reference
-```
-
-```source
-name: Pi-Star
-section: ham_radio
-feed_url: ''
-source_cap: 0
-site_url: https://www.pistar.uk/
-source_type: reference_tool
-authority_level: primary
-reliability_score: 5
-professional_value: 4
-use_role: reference
-```
-
-```source
-name: Pi-Star Forum
-section: ham_radio
-feed_url: ''
-source_cap: 0
-site_url: https://forum.pistar.uk/
-source_type: reference_tool
-authority_level: primary
-reliability_score: 5
-professional_value: 4
-use_role: reference
-```
-
-```source
-name: Fldigi
-section: ham_radio
-feed_url: ''
-source_cap: 0
-site_url: https://www.w1hkj.com/
-source_type: reference_tool
-authority_level: primary
-reliability_score: 5
-professional_value: 4
-use_role: reference
-```
-
-```source
-name: CHIRP
-section: ham_radio
-feed_url: ''
-source_cap: 0
-site_url: https://chirpmyradio.com/
-source_type: reference_tool
-authority_level: primary
-reliability_score: 5
-professional_value: 4
-use_role: reference
-```
-
-```source
-name: HAM 小工具
-section: ham_radio
-feed_url: ''
-source_cap: 0
-site_url: https://ham.c5r.app
-source_type: reference_tool
-authority_level: primary
-reliability_score: 5
-professional_value: 4
-use_role: reference
-```
-
-```source
 name: MIIT 中国工业和信息化部
-section: ham_radio
+section: ham_radio_operations
 feed_url: ''
 source_cap: 0
 site_url: https://www.miit.gov.cn/
@@ -8060,7 +7946,7 @@ use_role: reference
 
 ```source
 name: CRAC 中国无线电协会
-section: ham_radio
+section: ham_radio_operations
 feed_url: ''
 source_cap: 0
 site_url: https://www.crac.org.cn/
@@ -8073,7 +7959,7 @@ use_role: reference
 
 ```source
 name: 中国题库 A 新
-section: ham_radio
+section: ham_radio_operations
 feed_url: ''
 source_cap: 0
 site_url: https://exam.ham.upall.cn/?t=a_2025
@@ -8086,7 +7972,7 @@ use_role: reference
 
 ```source
 name: 中国题库 B 新
-section: ham_radio
+section: ham_radio_operations
 feed_url: ''
 source_cap: 0
 site_url: https://exam.ham.upall.cn/?t=b_2025
@@ -8099,7 +7985,7 @@ use_role: reference
 
 ```source
 name: 中国题库 B 模
-section: ham_radio
+section: ham_radio_operations
 feed_url: ''
 source_cap: 0
 site_url: https://ham-exam.iots.vip
@@ -8112,7 +7998,7 @@ use_role: reference
 
 ```source
 name: 中国题库 C 新
-section: ham_radio
+section: ham_radio_operations
 feed_url: ''
 source_cap: 0
 site_url: https://exam.ham.upall.cn/?t=c_2025
@@ -8125,7 +8011,7 @@ use_role: reference
 
 ```source
 name: FCC Amateur Radio Service
-section: ham_radio
+section: ham_radio_operations
 feed_url: ''
 source_cap: 0
 site_url: https://www.fcc.gov/wireless/bureau-divisions/mobility-division/amateur-radio-service
@@ -8138,7 +8024,7 @@ use_role: reference
 
 ```source
 name: ARRL Licensing & Exams
-section: ham_radio
+section: ham_radio_operations
 feed_url: ''
 source_cap: 0
 site_url: https://www.arrl.org/licensing-education-training
@@ -8151,7 +8037,7 @@ use_role: reference
 
 ```source
 name: US 题库 T
-section: ham_radio
+section: ham_radio_operations
 feed_url: ''
 source_cap: 0
 site_url: https://exam.ham.upall.cn/?t=t
@@ -8164,7 +8050,7 @@ use_role: reference
 
 ```source
 name: US 题库 G
-section: ham_radio
+section: ham_radio_operations
 feed_url: ''
 source_cap: 0
 site_url: https://exam.ham.upall.cn/?t=g
@@ -8177,7 +8063,7 @@ use_role: reference
 
 ```source
 name: US 题库 E
-section: ham_radio
+section: ham_radio_operations
 feed_url: ''
 source_cap: 0
 site_url: https://exam.ham.upall.cn/?t=e
@@ -8190,7 +8076,7 @@ use_role: reference
 
 ```source
 name: JARL
-section: ham_radio
+section: ham_radio_operations
 feed_url: ''
 source_cap: 0
 site_url: https://www.jarl.org/English/
@@ -8203,7 +8089,7 @@ use_role: reference
 
 ```source
 name: MIC Japan
-section: ham_radio
+section: ham_radio_operations
 feed_url: ''
 source_cap: 0
 site_url: https://www.soumu.go.jp/english/
@@ -8216,7 +8102,7 @@ use_role: reference
 
 ```source
 name: Ofcom Amateur Radio
-section: ham_radio
+section: ham_radio_operations
 feed_url: ''
 source_cap: 0
 site_url: https://www.ofcom.org.uk/spectrum/radio-equipment/amateur-radio
@@ -8229,7 +8115,7 @@ use_role: reference
 
 ```source
 name: RSGB Training
-section: ham_radio
+section: ham_radio_operations
 feed_url: ''
 source_cap: 0
 site_url: https://rsgb.org/main/clubs-training/training/
@@ -8242,7 +8128,7 @@ use_role: reference
 
 ```source
 name: Bundesnetzagentur
-section: ham_radio
+section: ham_radio_operations
 feed_url: ''
 source_cap: 0
 site_url: https://www.bundesnetzagentur.de/
@@ -8255,7 +8141,7 @@ use_role: reference
 
 ```source
 name: DARC
-section: ham_radio
+section: ham_radio_operations
 feed_url: ''
 source_cap: 0
 site_url: https://www.darc.de/
@@ -8268,7 +8154,7 @@ use_role: reference
 
 ```source
 name: CEPT
-section: ham_radio
+section: ham_radio_operations
 feed_url: ''
 source_cap: 0
 site_url: https://www.cept.org/
@@ -8281,7 +8167,7 @@ use_role: reference
 
 ```source
 name: CEPT Amateur Radio
-section: ham_radio
+section: ham_radio_operations
 feed_url: ''
 source_cap: 0
 site_url: https://www.cept.org/ecc/topics/amateur-radio
@@ -8293,99 +8179,8 @@ use_role: reference
 ```
 
 ```source
-name: Celestrak
-section: ham_radio
-feed_url: ''
-source_cap: 0
-site_url: https://celestrak.org/NORAD/elements/supplemental/
-source_type: reference_tool
-authority_level: primary
-reliability_score: 5
-professional_value: 4
-use_role: reference
-```
-
-```source
-name: AMSAT Satellite Status
-section: ham_radio
-feed_url: ''
-source_cap: 0
-site_url: https://www.amsat.org/status/
-source_type: reference_tool
-authority_level: primary
-reliability_score: 5
-professional_value: 4
-use_role: reference
-```
-
-```source
-name: GoSatWatch
-section: ham_radio
-feed_url: ''
-source_cap: 0
-site_url: https://gosoftworks.com/apps/gosatwatch/users-guide/
-source_type: reference_tool
-authority_level: primary
-reliability_score: 5
-professional_value: 4
-use_role: reference
-```
-
-```source
-name: ISS Detector
-section: ham_radio
-feed_url: ''
-source_cap: 0
-site_url: https://issdetector.com/
-source_type: reference_tool
-authority_level: primary
-reliability_score: 5
-professional_value: 4
-use_role: reference
-```
-
-```source
-name: AMSAT
-section: ham_radio
-feed_url: ''
-source_cap: 0
-site_url: https://www.amsat.org/
-source_type: reference_tool
-authority_level: primary
-reliability_score: 5
-professional_value: 4
-use_role: reference
-```
-
-```source
-name: AMSAT-DL
-section: ham_radio
-feed_url: ''
-source_cap: 0
-site_url: https://amsat-dl.org/
-source_type: reference_tool
-authority_level: primary
-reliability_score: 5
-professional_value: 4
-use_role: reference
-```
-
-```source
-name: SatNOGS
-section: ham_radio
-feed_url: ''
-source_cap: 0
-site_url: https://satnogs.org/
-source_type: reference_tool
-authority_level: primary
-reliability_score: 5
-professional_value: 4
-use_role: reference
-```
-
-```source
 name: ARRL
-section: ham_radio
+section: ham_radio_operations
 feed_url: ''
 source_cap: 0
 site_url: https://www.arrl.org/
@@ -8398,7 +8193,7 @@ use_role: reference
 
 ```source
 name: RSGB
-section: ham_radio
+section: ham_radio_operations
 feed_url: ''
 source_cap: 0
 site_url: https://rsgb.org/
@@ -8410,34 +8205,8 @@ use_role: reference
 ```
 
 ```source
-name: DMR-MARC
-section: ham_radio
-feed_url: ''
-source_cap: 0
-site_url: https://www.dmr-marc.net/
-source_type: reference_tool
-authority_level: primary
-reliability_score: 5
-professional_value: 4
-use_role: reference
-```
-
-```source
-name: FreeDV
-section: ham_radio
-feed_url: ''
-source_cap: 0
-site_url: https://freedv.org/
-source_type: reference_tool
-authority_level: primary
-reliability_score: 5
-professional_value: 4
-use_role: reference
-```
-
-```source
 name: OARC
-section: ham_radio
+section: ham_radio_operations
 feed_url: ''
 source_cap: 0
 site_url: https://www.oarc.uk/
@@ -8450,7 +8219,7 @@ use_role: reference
 
 ```source
 name: HRCC
-section: ham_radio
+section: ham_radio_operations
 feed_url: ''
 source_cap: 0
 site_url: https://hamradiocrashcourse.com/
@@ -8463,10 +8232,435 @@ use_role: reference
 
 ```source
 name: eHam
-section: ham_radio
+section: ham_radio_operations
 feed_url: ''
 source_cap: 0
 site_url: https://www.eham.net/
+source_type: reference_tool
+authority_level: primary
+reliability_score: 5
+professional_value: 4
+use_role: reference
+```
+
+<a id="radio_reference_tools"></a>
+
+## 无线电参考工具 / radio_reference_tools
+
+```section
+id: radio_reference_tools
+title: radio reference tools
+title_zh: 无线电参考工具
+description_zh: ''
+```
+
+```source
+name: QRZ
+section: radio_reference_tools
+feed_url: ''
+source_cap: 0
+site_url: https://www.qrz.com
+source_type: reference_tool
+authority_level: primary
+reliability_score: 5
+professional_value: 4
+use_role: reference
+```
+
+```source
+name: RadioID
+section: radio_reference_tools
+feed_url: ''
+source_cap: 0
+site_url: https://radioid.net
+source_type: reference_tool
+authority_level: primary
+reliability_score: 5
+professional_value: 4
+use_role: reference
+```
+
+```source
+name: Cloudlog
+section: radio_reference_tools
+feed_url: ''
+source_cap: 0
+site_url: https://www.magicbug.co.uk/cloudlog/
+source_type: reference_tool
+authority_level: primary
+reliability_score: 5
+professional_value: 4
+use_role: reference
+```
+
+```source
+name: BrandMeister
+section: radio_reference_tools
+feed_url: ''
+source_cap: 0
+site_url: https://brandmeister.network/
+source_type: reference_tool
+authority_level: primary
+reliability_score: 5
+professional_value: 4
+use_role: reference
+```
+
+```source
+name: TGIF
+section: radio_reference_tools
+feed_url: ''
+source_cap: 0
+site_url: https://tgif.network/
+source_type: reference_tool
+authority_level: primary
+reliability_score: 5
+professional_value: 4
+use_role: reference
+```
+
+```source
+name: D-STAR
+section: radio_reference_tools
+feed_url: ''
+source_cap: 0
+site_url: https://www.dstar.org/
+source_type: reference_tool
+authority_level: primary
+reliability_score: 5
+professional_value: 4
+use_role: reference
+```
+
+```source
+name: YSF / Wires-X
+section: radio_reference_tools
+feed_url: ''
+source_cap: 0
+site_url: https://systemfusion.yaesu.com/
+source_type: reference_tool
+authority_level: primary
+reliability_score: 5
+professional_value: 4
+use_role: reference
+```
+
+```source
+name: EchoLink
+section: radio_reference_tools
+feed_url: ''
+source_cap: 0
+site_url: https://www.echolink.org/
+source_type: reference_tool
+authority_level: primary
+reliability_score: 5
+professional_value: 4
+use_role: reference
+```
+
+```source
+name: IRLP
+section: radio_reference_tools
+feed_url: ''
+source_cap: 0
+site_url: https://www.irlp.net/
+source_type: reference_tool
+authority_level: primary
+reliability_score: 5
+professional_value: 4
+use_role: reference
+```
+
+```source
+name: AllStarLink
+section: radio_reference_tools
+feed_url: ''
+source_cap: 0
+site_url: https://www.allstarlink.org/
+source_type: reference_tool
+authority_level: primary
+reliability_score: 5
+professional_value: 4
+use_role: reference
+```
+
+```source
+name: HamVoIP
+section: radio_reference_tools
+feed_url: ''
+source_cap: 0
+site_url: https://hamvoip.org/
+source_type: reference_tool
+authority_level: primary
+reliability_score: 5
+professional_value: 4
+use_role: reference
+```
+
+```source
+name: DVSwitch
+section: radio_reference_tools
+feed_url: ''
+source_cap: 0
+site_url: https://dvswitch.groups.io/g/main/wiki
+source_type: reference_tool
+authority_level: primary
+reliability_score: 5
+professional_value: 4
+use_role: reference
+```
+
+```source
+name: MMDVM
+section: radio_reference_tools
+feed_url: ''
+source_cap: 0
+site_url: https://github.com/g4klx/MMDVM
+source_type: reference_tool
+authority_level: primary
+reliability_score: 5
+professional_value: 4
+use_role: reference
+```
+
+```source
+name: Maidenhead Locator System
+section: radio_reference_tools
+feed_url: ''
+source_cap: 0
+site_url: https://ham.c5r.app/maidenhead-grid
+source_type: reference_tool
+authority_level: primary
+reliability_score: 5
+professional_value: 4
+use_role: reference
+```
+
+```source
+name: DroidStar
+section: radio_reference_tools
+feed_url: ''
+source_cap: 0
+site_url: https://github.com/nostar/DroidStar
+source_type: reference_tool
+authority_level: primary
+reliability_score: 5
+professional_value: 4
+use_role: reference
+```
+
+```source
+name: DroidStar Vocoder Servers — pizzanbeer
+section: radio_reference_tools
+feed_url: ''
+source_cap: 0
+site_url: http://pizzanbeer.net/
+source_type: reference_tool
+authority_level: primary
+reliability_score: 5
+professional_value: 4
+use_role: reference
+```
+
+```source
+name: DroidStar Vocoder Servers — dudestar
+section: radio_reference_tools
+feed_url: ''
+source_cap: 0
+site_url: http://dudestar.gw8szl.co.uk/Droidstar/
+source_type: reference_tool
+authority_level: primary
+reliability_score: 5
+professional_value: 4
+use_role: reference
+```
+
+```source
+name: Pi-Star
+section: radio_reference_tools
+feed_url: ''
+source_cap: 0
+site_url: https://www.pistar.uk/
+source_type: reference_tool
+authority_level: primary
+reliability_score: 5
+professional_value: 4
+use_role: reference
+```
+
+```source
+name: Pi-Star Forum
+section: radio_reference_tools
+feed_url: ''
+source_cap: 0
+site_url: https://forum.pistar.uk/
+source_type: reference_tool
+authority_level: primary
+reliability_score: 5
+professional_value: 4
+use_role: reference
+```
+
+```source
+name: Fldigi
+section: radio_reference_tools
+feed_url: ''
+source_cap: 0
+site_url: https://www.w1hkj.com/
+source_type: reference_tool
+authority_level: primary
+reliability_score: 5
+professional_value: 4
+use_role: reference
+```
+
+```source
+name: CHIRP
+section: radio_reference_tools
+feed_url: ''
+source_cap: 0
+site_url: https://chirpmyradio.com/
+source_type: reference_tool
+authority_level: primary
+reliability_score: 5
+professional_value: 4
+use_role: reference
+```
+
+```source
+name: HAM 小工具
+section: radio_reference_tools
+feed_url: ''
+source_cap: 0
+site_url: https://ham.c5r.app
+source_type: reference_tool
+authority_level: primary
+reliability_score: 5
+professional_value: 4
+use_role: reference
+```
+
+```source
+name: DMR-MARC
+section: radio_reference_tools
+feed_url: ''
+source_cap: 0
+site_url: https://www.dmr-marc.net/
+source_type: reference_tool
+authority_level: primary
+reliability_score: 5
+professional_value: 4
+use_role: reference
+```
+
+```source
+name: FreeDV
+section: radio_reference_tools
+feed_url: ''
+source_cap: 0
+site_url: https://freedv.org/
+source_type: reference_tool
+authority_level: primary
+reliability_score: 5
+professional_value: 4
+use_role: reference
+```
+
+<a id="radio_satellites"></a>
+
+## 无线电与卫星 / radio_satellites
+
+```section
+id: radio_satellites
+title: radio satellites
+title_zh: 无线电与卫星
+description_zh: ''
+```
+
+```source
+name: Celestrak
+section: radio_satellites
+feed_url: ''
+source_cap: 0
+site_url: https://celestrak.org/NORAD/elements/supplemental/
+source_type: reference_tool
+authority_level: primary
+reliability_score: 5
+professional_value: 4
+use_role: reference
+```
+
+```source
+name: AMSAT Satellite Status
+section: radio_satellites
+feed_url: ''
+source_cap: 0
+site_url: https://www.amsat.org/status/
+source_type: reference_tool
+authority_level: primary
+reliability_score: 5
+professional_value: 4
+use_role: reference
+```
+
+```source
+name: GoSatWatch
+section: radio_satellites
+feed_url: ''
+source_cap: 0
+site_url: https://gosoftworks.com/apps/gosatwatch/users-guide/
+source_type: reference_tool
+authority_level: primary
+reliability_score: 5
+professional_value: 4
+use_role: reference
+```
+
+```source
+name: ISS Detector
+section: radio_satellites
+feed_url: ''
+source_cap: 0
+site_url: https://issdetector.com/
+source_type: reference_tool
+authority_level: primary
+reliability_score: 5
+professional_value: 4
+use_role: reference
+```
+
+```source
+name: AMSAT
+section: radio_satellites
+feed_url: ''
+source_cap: 0
+site_url: https://www.amsat.org/
+source_type: reference_tool
+authority_level: primary
+reliability_score: 5
+professional_value: 4
+use_role: reference
+```
+
+```source
+name: AMSAT-DL
+section: radio_satellites
+feed_url: ''
+source_cap: 0
+site_url: https://amsat-dl.org/
+source_type: reference_tool
+authority_level: primary
+reliability_score: 5
+professional_value: 4
+use_role: reference
+```
+
+```source
+name: SatNOGS
+section: radio_satellites
+feed_url: ''
+source_cap: 0
+site_url: https://satnogs.org/
 source_type: reference_tool
 authority_level: primary
 reliability_score: 5
@@ -8563,7 +8757,6 @@ professional_value: 4
 use_role: baseline
 ```
 
-
 ```source
 name: Schneier on Security
 section: technology_politics
@@ -8602,6 +8795,7 @@ reliability_score: 4
 professional_value: 5
 use_role: baseline
 ```
+
 
 <a id="material"></a>
 
@@ -8709,7 +8903,6 @@ professional_value: 4
 use_role: culture_probe
 ```
 
-
 ```source
 name: Wirecutter Outdoors
 section: field_gear
@@ -8798,7 +8991,6 @@ reliability_score: 3
 professional_value: 4
 use_role: culture_probe
 ```
-
 
 ```source
 name: The Prepared
@@ -8928,7 +9120,6 @@ professional_value: 4
 use_role: culture_probe
 ```
 
-
 ```source
 name: Fine Woodworking
 section: tools_workshop
@@ -9042,6 +9233,20 @@ professional_value: 4
 use_role: reference
 ```
 
+```source
+name: Clearview Driving
+section: manuals
+feed_url: ''
+source_cap: 0
+site_url: https://youtube.com/@clearviewdriving
+source_type: video_channel
+authority_level: community
+reliability_score: 3
+professional_value: 3
+use_role: reference
+```
+
+
 <a id="reference"></a>
 
 # 参考 / reference
@@ -9058,81 +9263,16 @@ description_zh: ''
 ```
 
 ```source
-name: Open Culture
+name: Data is Plural
 section: reference_pool
-feed_url: ''
-source_cap: 0
-site_url: http://www.openculture.com/
-source_type: reference_tool
-authority_level: aggregator
-reliability_score: 3
-professional_value: 4
-use_role: reference
-```
-
-```source
-name: Library Stack
-section: reference_pool
-feed_url: ''
-source_cap: 0
-site_url: https://www.librarystack.org/
-source_type: reference_tool
-authority_level: aggregator
-reliability_score: 3
-professional_value: 4
-use_role: reference
-```
-
-```source
-name: The Collector
-section: reference_pool
-feed_url: ''
-source_cap: 0
-site_url: https://www.thecollector.com/
-source_type: reference_tool
-authority_level: aggregator
-reliability_score: 3
-professional_value: 4
-use_role: reference
-```
-
-```source
-name: Programming Historian
-section: reference_pool
-feed_url: ''
-source_cap: 0
-site_url: https://programminghistorian.org/
-source_type: reference_tool
-authority_level: aggregator
-reliability_score: 3
-professional_value: 4
-use_role: reference
-```
-
-```source
-name: DH Now / Digital Humanities Now
-section: reference_pool
-feed_url: ''
-source_cap: 0
-site_url: https://digitalhumanitiesnow.org/
-source_type: reference_tool
-authority_level: aggregator
-reliability_score: 3
-professional_value: 4
-use_role: reference
-```
-
-```source
-name: Clearview Driving
-section: reference_pool
-feed_url: ''
-source_cap: 0
-site_url: https://youtube.com/@clearviewdriving
-source_type: video_channel
-authority_level: community
-reliability_score: 3
-professional_value: 3
-use_role: reference
+feed_url: https://www.data-is-plural.com/feed.xml
+source_cap: 6
+site_url: https://www.data-is-plural.com/
+source_type: aggregator
+authority_level: specialist
+reliability_score: 4
+professional_value: 5
+use_role: signal
 ```
 
 <a id="maps_geo_data"></a>
@@ -9340,20 +9480,6 @@ use_role: reference
 ```
 
 ```source
-name: All About RSS
-section: document_search
-feed_url: ''
-source_cap: 0
-site_url: https://github.com/AboutRSS/ALL-about-RSS
-source_type: reference_tool
-authority_level: aggregator
-reliability_score: 3
-professional_value: 4
-use_role: reference
-```
-
-
-```source
 name: IEEE Xplore
 section: document_search
 feed_url: ''
@@ -9401,6 +9527,19 @@ id: rss_feed_management
 title: rss feed management
 title_zh: RSS 与信息管理
 description_zh: ''
+```
+
+```source
+name: All About RSS
+section: rss_feed_management
+feed_url: ''
+source_cap: 0
+site_url: https://github.com/AboutRSS/ALL-about-RSS
+source_type: reference_tool
+authority_level: aggregator
+reliability_score: 3
+professional_value: 4
+use_role: reference
 ```
 
 ```source
@@ -9454,80 +9593,14 @@ description_zh: ''
 ```
 
 ```source
-name: Substack Reads
+name: Library Stack
 section: archives_aggregators
 feed_url: ''
 source_cap: 0
-site_url: https://on.substack.com/p/reads
+site_url: https://www.librarystack.org/
 source_type: reference_tool
 authority_level: aggregator
 reliability_score: 3
-professional_value: 4
-use_role: reference
-```
-
-```source
-name: Medium Staff Picks
-section: archives_aggregators
-feed_url: ''
-source_cap: 0
-site_url: https://medium.com/tag/staff-picks
-source_type: reference_tool
-authority_level: aggregator
-reliability_score: 3
-professional_value: 4
-use_role: reference
-```
-
-```source
-name: kottke.org
-section: archives_aggregators
-feed_url: ''
-source_cap: 0
-site_url: https://kottke.org/
-source_type: reference_tool
-authority_level: aggregator
-reliability_score: 3
-professional_value: 4
-use_role: reference
-```
-
-```source
-name: Philosophy Paperboy
-section: archives_aggregators
-feed_url: ''
-source_cap: 0
-site_url: http://www.philosophypaperboy.com
-source_type: reference_tool
-authority_level: aggregator
-reliability_score: 3
-professional_value: 4
-use_role: reference
-```
-
-
-```source
-name: Data is Plural
-section: archives_aggregators
-feed_url: https://www.data-is-plural.com/feed.xml
-source_cap: 6
-site_url: https://www.data-is-plural.com/
-source_type: aggregator
-authority_level: specialist
-reliability_score: 4
-professional_value: 5
-use_role: signal
-```
-
-```source
-name: The Browser
-section: archives_aggregators
-feed_url: https://thebrowser.com/feed
-source_cap: 6
-site_url: https://thebrowser.com/
-source_type: aggregator
-authority_level: commentary
-reliability_score: 4
 professional_value: 4
 use_role: reference
 ```
@@ -9594,7 +9667,6 @@ reliability_score: 3
 professional_value: 4
 use_role: reference
 ```
-
 ---
 
 ## Notes
