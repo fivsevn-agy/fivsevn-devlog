@@ -44,6 +44,8 @@ updated: 2026-06-15
 > 更新中......
 
 <!-- AUTO-INDEX:NATSCI_RECENT:START -->
+- 2026.06.17 [科学家在日本附近海床拍到迄今最深处的鱼类（译文）](taxonomy/chondrichthyes/natsci-deepest-snailfish-001.md)
+
 - 2026.06.15 [马陆比脊椎动物早 8000 万年登陆（译文）](taxonomy/arthropod/natsci-arthropod-millipede-land-colonization-001.md)
 
 - 2026.06.15 [科学家解开 5 亿年前化石之谜（译文）](paleontology/natsci-paleontology-shishania-chancelloriid-001.md)
