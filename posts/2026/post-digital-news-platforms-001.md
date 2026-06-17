@@ -1,8 +1,8 @@
 ---
-id: netcom-digital-news-platforms-001
+id: post-digital-news-platforms-001
 title: "2026 年出版趋势：科技平台超过出版商成为全球新闻来源"
 
-module: netcom
+module: post
 submodule: digital
 topic: news-platforms
 
