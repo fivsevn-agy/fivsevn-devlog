@@ -46,6 +46,8 @@ updated: 2026-06-15
 > 更新中......  
 
 <!-- AUTO-INDEX:POSTS_RECENT:START -->
+- 2026.06.18 [新闻机构应如何向受众标注 AI 使用？新研究给出了一些答案（译文）](2026/posts-journalism-ai-labeling-001.md)
+
 - 2026.06.17 [2026 年出版趋势：科技平台超过出版商成为全球新闻来源（译文）](2026/posts-digital-news-platforms-001.md)
 
 - 2026.06.16 [内感受：你如何感知身体内部状态的隐藏感觉（译文）](2026/posts-neuroscience-interoception-001.md)
