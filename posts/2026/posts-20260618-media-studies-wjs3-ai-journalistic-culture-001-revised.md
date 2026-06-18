@@ -1,6 +1,6 @@
 ---
-id: posts-20260618-media-studies-wjs-ai-journalistic-culture-001
-title: WJS 的 39 个新闻文化问题：从测记者到测 AI
+id: posts-20260618-media-studies-wjs3-ai-journalistic-culture-001
+title: WJS3 核心问卷与 Kang et al. (2026) 的 39 个 GPT 提问题项
 
 module: posts
 submodule: media-studies
