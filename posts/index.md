@@ -46,6 +46,8 @@ updated: 2026-06-15
 > 更新中......  
 
 <!-- AUTO-INDEX:POSTS_RECENT:START -->
+- 2026.06.19 [预测市场](2026/posts-20260619-methods-prediction-market-001.md)
+
 - 2026.06.18 [新闻机构应如何向受众标注 AI 使用？新研究给出了一些答案（译文）](2026/posts-journalism-ai-labeling-001.md)
 
 - 2026.06.18 [WJS3 核心问卷与 Kang et al. (2026) 的 39 个 GPT 提问题项](2026/posts-20260618-media-studies-wjs3-ai-journalistic-culture-001-revised.md)
