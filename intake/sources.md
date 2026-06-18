@@ -520,6 +520,19 @@ professional_value: 4
 use_role: reference
 ```
 
+```source
+name: Worlds of Journalism Study
+section: media_lens
+feed_url: ’‘
+source_cap: 0
+site_url: https://worldsofjournalism.org/
+source_type: institutional
+authority_level: primary
+reliability_score: 5
+professional_value: 5
+use_role: reference
+```
+
 <a id="global_news"></a>
 
 ## 全球新闻 / global_news
