@@ -8,6 +8,20 @@ timezone: ”Asia/Taipei“
 # 正文写在第二个 --- 后面
 ---
 
-之前看哪个新闻里提到预测市场，大致学习了一下：[预测市场](https://devlog.fivsevn.com/posts/2026/posts-20260619-methods-prediction-market-001.html)
+> ...
+> [Dodds] Jinxy was just going on at me, about how pointless everthing was. 
+> My life, and his life, everyone's life. 
+> I told him out of all the people that's ever lived and... and died, 
+> in the history of humanity... 17 billion, 
+> -cos I-I checked...
+> ([Mcdonald] Yeah. I bet you did.)
+> that there is only 300 million who ever got lucky. Properly lucky. 
+> And, ma'am, if you were a white man born at the same time and the place as me and Jinxy, 
+> you would have had more advantages than any of the 17 billion. 
+> And Jinxy was one of the 300 hundred million, 
+> And I-I told him just stop being so bloody miserable.
+> "You Jinxy Jones, you are one of the luckiest of the lucky."
+> (So, then he wanted to sell the map for loads of money.)
+> And I... It never settled right with me, what I said to him.
 
-文末note：预测市场是一个外壳。你不一定要下注赌钱、或者过度地参与到他人事情的纠葛中去。了解预测市场的价值在于培养理性的思维方式。普通讨论里大家说“很可能”“不太可能”“一定会”“大概率”，这些话很模糊、难追责，消磨时间精力又无法训练思维能力；如果是预测市场的话，会把一个问题抽出变成“某件事被认为发生的概率在57%”，这个数字可以被记录、被比较、随着信息的更新而进一步校准、聚合起来进行综合判断、事后验证、辅助决策，等等。普通讨论常常会夹带太多的立场、情绪、论证和胜负；但预测市场只有：问题定义 → 概率判断 → 信息更新 → 结果验证 → 复盘校准。你要训练的不是下注能力，而是不把愿望当预测、不把立场当事实、承认未来有概率分布、愿意根据证据修改判断，等等能力。
+Mcdonald & Dodds S4E1
