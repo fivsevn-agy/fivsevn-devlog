@@ -11,7 +11,7 @@
 
 • `status  :: alive`
 
-• `updated :: 2026.06.17`
+• `updated :: 2026.06.22`
 
 - Not much to say. Still here.
 
