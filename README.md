@@ -27,6 +27,15 @@
 - 个人写作规范 ▶︎ [ [fivsevn-spec](https://github.com/fivsevn-agy/fivsevn-spec) ]  
 
 
+### ▶︎ Guide
+
+- 关于本博客 ▷ [ [`about this blog`](/blogops/content/blogops-about-001.md) ]
+
+- 内容总览 ▷ [ [`system map`](/system-map.md) ]
+
+- 给 AI 协作者 ▷ [ [`AI collaborator guide`](/ai/system-map.en.md) ]
+
+
 ### ▶︎ Listed In
 
 - [ [ 中文独立博客列表 ](https://github.com/timqian/chinese-independent-blogs) ]
