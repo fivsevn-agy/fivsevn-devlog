@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
-import concurrent.futures
 import hashlib
 import html
 import json
 import re
+import time
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -24,24 +24,19 @@ NEWS_JSON = AI_DIR / "news.json"
 NEWS_MD = AI_DIR / "news.md"
 LATEST_ITEMS_JSON = AI_DIR / "latest-items.json"
 
-MAX_ITEMS = 160
-DEFAULT_SOURCE_CAP = 6
-FETCH_TIMEOUT = 8
-MAX_WORKERS = 12
+NEWS_MAX_ITEMS = 240
+OWNED_MAX_ITEMS = 10
+OWNED_KINDS = {"owned_site"}
 
+FETCH_TIMEOUT = 20
 USER_AGENT = "fivsevn-ai-collaborator/1.0 (+https://devlog.fivsevn.com/)"
 
-SOURCE_KEYS = (
-    "name",
-    "section",
-    "feed_url",
-    "source_cap",
-    "site_url",
-    "source_type",
-    "authority_level",
-    "reliability_score",
-    "professional_value",
-    "use_role",
+FEED_CANDIDATES = (
+    "feed.xml",
+    "rss.xml",
+    "atom.xml",
+    "feed",
+    "rss",
 )
 
 
@@ -53,24 +48,35 @@ def sha16(value: str) -> str:
     return hashlib.sha256(value.encode("utf-8")).hexdigest()[:16]
 
 
-def clean_value(value: Any) -> str:
-    text = str(value or "").strip()
-    text = text.strip()
-    text = text.strip("'\"`")
-    text = text.replace("’‘", "").replace("''", "").replace('""', "")
-    text = text.strip("'\"`")
-    return text.strip()
+def fetch_url(url: str) -> tuple[str, str]:
+    request = urllib.request.Request(
+        url,
+        headers={
+            "User-Agent": USER_AGENT,
+            "Accept": (
+                "application/rss+xml, application/atom+xml, application/xml, "
+                "text/xml, text/html;q=0.8, */*;q=0.5"
+            ),
+        },
+    )
+    with urllib.request.urlopen(request, timeout=FETCH_TIMEOUT) as response:
+        content_type = response.headers.get("content-type", "")
+        raw = response.read()
+    return raw.decode("utf-8", errors="replace"), content_type
 
 
-def parse_int(value: Any, default: int = 0) -> int:
-    try:
-        return int(str(value).strip())
-    except Exception:
-        return default
+def strip_html(value: str) -> str:
+    value = re.sub(r"(?is)<script[^>]*>.*?</script>", " ", value)
+    value = re.sub(r"(?is)<style[^>]*>.*?</style>", " ", value)
+    value = re.sub(r"(?s)<[^>]+>", " ", value)
+    value = html.unescape(value)
+    value = re.sub(r"\s+", " ", value).strip()
+    return value
 
 
 def norm_url(url: str, base: str | None = None) -> str:
-    url = html.unescape(clean_value(url))
+    url = html.unescape(url).strip()
+
     if base:
         url = urllib.parse.urljoin(base, url)
 
@@ -90,94 +96,23 @@ def norm_url(url: str, base: str | None = None) -> str:
     )
 
 
-def fetch_url(url: str) -> tuple[str, str]:
-    request = urllib.request.Request(
-        url,
-        headers={
-            "User-Agent": USER_AGENT,
-            "Accept": (
-                "application/rss+xml, application/atom+xml, application/xml, "
-                "text/xml, */*;q=0.5"
-            ),
-        },
-    )
-
-    with urllib.request.urlopen(request, timeout=FETCH_TIMEOUT) as response:
-        content_type = response.headers.get("content-type", "")
-        raw = response.read(5_000_000)
-
-    return raw.decode("utf-8", errors="replace"), content_type
-
-
-def strip_html(value: str) -> str:
-    value = re.sub(r"(?is)<script[^>]*>.*?</script>", " ", value)
-    value = re.sub(r"(?is)<style[^>]*>.*?</style>", " ", value)
-    value = re.sub(r"(?s)<[^>]+>", " ", value)
-    value = html.unescape(value)
-    value = re.sub(r"\s+", " ", value).strip()
-    return value
-
-
-def parse_source_block(block: str) -> dict[str, str]:
-    text = " ".join(block.split())
-
-    key_pattern = "|".join(re.escape(key) for key in SOURCE_KEYS)
-    pattern = re.compile(
-        rf"\b({key_pattern}):\s*(.*?)(?=\s+\b(?:{key_pattern}):\s*|$)",
-        re.I,
-    )
-
-    result: dict[str, str] = {}
-    for match in pattern.finditer(text):
-        key = match.group(1).lower()
-        value = clean_value(match.group(2))
-        result[key] = value
-
-    return result
-
-
-def load_shared_sources(path: Path) -> list[dict[str, Any]]:
+def extract_urls_from_markdown(path: Path) -> list[str]:
     if not path.exists():
         print(f"[warn] missing shared sources file: {path}")
         return []
 
     text = path.read_text(encoding="utf-8", errors="replace")
-    blocks = re.findall(r"```source\s+(.*?)```", text, flags=re.S | re.I)
+    urls = re.findall(r"https?://[^\s\]\)\>\"']+", text)
 
-    result: list[dict[str, Any]] = []
-    seen_feeds: set[str] = set()
+    result: list[str] = []
+    seen: set[str] = set()
 
-    for block in blocks:
-        data = parse_source_block(block)
-
-        name = clean_value(data.get("name"))
-        section = clean_value(data.get("section"))
-        feed_url = norm_url(data.get("feed_url", ""))
-        site_url = norm_url(data.get("site_url", ""))
-        source_cap = parse_int(data.get("source_cap"), DEFAULT_SOURCE_CAP)
-
-        if source_cap <= 0:
+    for url in urls:
+        url = norm_url(url.rstrip(".,;"))
+        if not url or url in seen:
             continue
-
-        if not feed_url:
-            continue
-
-        if feed_url in seen_feeds:
-            continue
-
-        seen_feeds.add(feed_url)
-
-        result.append(
-            {
-                "name": name or urllib.parse.urlparse(feed_url).netloc,
-                "section": section,
-                "url": feed_url,
-                "feed_url": feed_url,
-                "site_url": site_url,
-                "kind": "shared",
-                "source_cap": source_cap,
-            }
-        )
+        seen.add(url)
+        result.append(url)
 
     return result
 
@@ -197,64 +132,121 @@ def load_extra_sources(path: Path) -> list[dict[str, Any]]:
         return []
 
     result: list[dict[str, Any]] = []
-    seen_feeds: set[str] = set()
 
     for item in sources:
         if not isinstance(item, dict):
             continue
 
-        feed_url = norm_url(item.get("feed_url") or item.get("url") or "")
-        if not feed_url:
+        url = norm_url(str(item.get("url", "")))
+        if not url:
             continue
-
-        source_cap = parse_int(item.get("source_cap"), DEFAULT_SOURCE_CAP)
-        if source_cap <= 0:
-            continue
-
-        if feed_url in seen_feeds:
-            continue
-
-        seen_feeds.add(feed_url)
 
         result.append(
             {
-                "name": clean_value(item.get("name")) or urllib.parse.urlparse(feed_url).netloc,
-                "section": clean_value(item.get("section")),
-                "url": feed_url,
-                "feed_url": feed_url,
-                "site_url": norm_url(item.get("site_url") or ""),
-                "kind": clean_value(item.get("kind")) or "extra",
-                "source_cap": source_cap,
+                "name": str(item.get("name") or urllib.parse.urlparse(url).netloc),
+                "url": url,
+                "kind": str(item.get("kind") or "site"),
             }
         )
 
     return result
 
 
+def looks_like_feed(text: str, content_type: str = "") -> bool:
+    head = text[:500].lower()
+    content_type = content_type.lower()
+
+    if "rss" in content_type or "atom" in content_type or "xml" in content_type:
+        return True
+
+    return "<rss" in head or "<feed" in head
+
+
+def discover_feed_links(page_url: str, html_text: str) -> list[str]:
+    feeds: list[str] = []
+
+    link_pattern = re.compile(
+        r"""<link[^>]*?(?:type=["'](?:application/rss\+xml|application/atom\+xml|application/xml|text/xml)["'][^>]*?|rel=["'][^"']*alternate[^"']*["'][^>]*?)[^>]*?>""",
+        re.I,
+    )
+    href_pattern = re.compile(r"""href=["']([^"']+)["']""", re.I)
+
+    for match in link_pattern.finditer(html_text):
+        href_match = href_pattern.search(match.group(0))
+        if not href_match:
+            continue
+
+        feed_url = norm_url(href_match.group(1), page_url)
+        if feed_url:
+            feeds.append(feed_url)
+
+    return feeds
+
+
+def candidate_feed_urls(url: str) -> list[str]:
+    parsed = urllib.parse.urlparse(url)
+    base_url = f"{parsed.scheme}://{parsed.netloc}/"
+
+    candidates = [url]
+    for suffix in FEED_CANDIDATES:
+        candidates.append(urllib.parse.urljoin(base_url, suffix))
+
+    result: list[str] = []
+    seen: set[str] = set()
+
+    for item in candidates:
+        item = norm_url(item)
+        if not item or item in seen:
+            continue
+        seen.add(item)
+        result.append(item)
+
+    return result
+
+
+def resolve_feed_url(source_url: str) -> tuple[str | None, str | None]:
+    for candidate in candidate_feed_urls(source_url):
+        try:
+            text, content_type = fetch_url(candidate)
+        except Exception:
+            continue
+
+        if looks_like_feed(text, content_type):
+            return candidate, text
+
+        if "text/html" in content_type.lower() or "<html" in text[:500].lower():
+            for feed_url in discover_feed_links(candidate, text):
+                try:
+                    feed_text, feed_content_type = fetch_url(feed_url)
+                except Exception:
+                    continue
+
+                if looks_like_feed(feed_text, feed_content_type):
+                    return feed_url, feed_text
+
+    return None, None
+
+
 def text_of(node: ET.Element | None) -> str:
-    if node is None:
+    if node is None or not node.text:
         return ""
-    return strip_html("".join(node.itertext()))
+    return strip_html(node.text)
 
 
 def find_child(node: ET.Element, names: tuple[str, ...]) -> ET.Element | None:
-    wanted = {name.lower() for name in names}
-
     for child in list(node):
         local_name = child.tag.split("}")[-1].lower()
-        if local_name in wanted:
+        if local_name in names:
             return child
-
     return None
 
 
 def find_children(node: ET.Element, names: tuple[str, ...]) -> list[ET.Element]:
-    wanted = {name.lower() for name in names}
     result: list[ET.Element] = []
 
     for child in list(node):
         local_name = child.tag.split("}")[-1].lower()
-        if local_name in wanted:
+        if local_name in names:
             result.append(child)
 
     return result
@@ -290,7 +282,6 @@ def parse_feed(feed_url: str, feed_text: str, fallback_source_name: str) -> list
         return []
 
     root_name = root.tag.split("}")[-1].lower()
-
     feed_title = fallback_source_name
     raw_items: list[ET.Element] = []
 
@@ -316,7 +307,6 @@ def parse_feed(feed_url: str, feed_text: str, fallback_source_name: str) -> list
 
     for raw_item in raw_items:
         item_name = raw_item.tag.split("}")[-1].lower()
-
         title = text_of(find_child(raw_item, ("title",)))
         summary = text_of(find_child(raw_item, ("description", "summary", "content", "encoded")))
 
@@ -329,6 +319,10 @@ def parse_feed(feed_url: str, feed_text: str, fallback_source_name: str) -> list
                 if rel == "alternate" and href:
                     link = norm_url(href, feed_url)
                     break
+
+            if not link:
+                link = norm_url(text_of(find_child(raw_item, ("id",))), feed_url)
+
         else:
             link = norm_url(text_of(find_child(raw_item, ("link",))), feed_url)
 
@@ -338,7 +332,7 @@ def parse_feed(feed_url: str, feed_text: str, fallback_source_name: str) -> list
         date_raw = ""
         date_iso = ""
 
-        for date_key in ("published", "updated", "pubdate", "pubDate", "date"):
+        for date_key in ("published", "updated", "pubdate", "date"):
             date_node = find_child(raw_item, (date_key,))
             if date_node is not None:
                 date_raw, date_iso = parse_date(text_of(date_node))
@@ -366,129 +360,118 @@ def parse_feed(feed_url: str, feed_text: str, fallback_source_name: str) -> list
     return items
 
 
-def load_sources() -> list[dict[str, Any]]:
-    sources = []
-    sources.extend(load_shared_sources(SHARED_SOURCES_MD))
+def source_name_from_url(url: str) -> str:
+    return urllib.parse.urlparse(url).netloc or url
+
+
+def dedupe_and_sort(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    deduped: dict[str, dict[str, Any]] = {}
+
+    for item in items:
+        deduped[item["id"]] = item
+
+    result = list(deduped.values())
+    result.sort(key=lambda item: item.get("published_iso") or "", reverse=True)
+    return result
+
+
+def collect_items() -> tuple[list[dict[str, Any]], list[dict[str, Any]], list[dict[str, Any]]]:
+    sources: list[dict[str, Any]] = []
+
+    for url in extract_urls_from_markdown(SHARED_SOURCES_MD):
+        sources.append(
+            {
+                "name": source_name_from_url(url),
+                "url": url,
+                "kind": "shared",
+            }
+        )
+
     sources.extend(load_extra_sources(EXTRA_SOURCES_JSON))
 
     unique_sources: list[dict[str, Any]] = []
-    seen_feeds: set[str] = set()
+    seen: set[str] = set()
 
     for source in sources:
-        feed_url = source.get("feed_url") or source.get("url")
-        if not feed_url or feed_url in seen_feeds:
+        url = source["url"]
+        if url in seen:
             continue
-
-        seen_feeds.add(feed_url)
+        seen.add(url)
         unique_sources.append(source)
 
-    return unique_sources
-
-
-def fetch_and_parse_source(source: dict[str, Any]) -> tuple[list[dict[str, Any]], dict[str, Any]]:
-    source_name = source.get("name") or source.get("feed_url") or source.get("url")
-    feed_url = source.get("feed_url") or source.get("url")
-    source_cap = parse_int(source.get("source_cap"), DEFAULT_SOURCE_CAP)
-
-    print(f"[source] {source_name}: {feed_url}")
-
-    try:
-        feed_text, content_type = fetch_url(feed_url)
-    except Exception as error:
-        report = {
-            "name": source_name,
-            "url": source.get("site_url") or feed_url,
-            "kind": source.get("kind", ""),
-            "section": source.get("section", ""),
-            "status": "failed",
-            "error": str(error)[:240],
-            "feed_url": feed_url,
-            "items": 0,
-        }
-        return [], report
-
-    if not feed_text.strip():
-        report = {
-            "name": source_name,
-            "url": source.get("site_url") or feed_url,
-            "kind": source.get("kind", ""),
-            "section": source.get("section", ""),
-            "status": "failed",
-            "error": f"empty response; content-type={content_type}",
-            "feed_url": feed_url,
-            "items": 0,
-        }
-        return [], report
-
-    items = parse_feed(feed_url, feed_text, source_name)
-    items = items[:source_cap]
-
-    report = {
-        "name": source_name,
-        "url": source.get("site_url") or feed_url,
-        "kind": source.get("kind", ""),
-        "section": source.get("section", ""),
-        "status": "ok" if items else "empty",
-        "feed_url": feed_url,
-        "items": len(items),
-    }
-
-    return items, report
-
-
-def collect_items() -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
-    sources = load_sources()
-
-    print(f"[info] explicit feed sources: {len(sources)}")
-    print("[info] site_url discovery is disabled")
-
-    all_items: list[dict[str, Any]] = []
+    news_items: list[dict[str, Any]] = []
+    owned_items: list[dict[str, Any]] = []
     source_reports: list[dict[str, Any]] = []
 
-    with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-        futures = [executor.submit(fetch_and_parse_source, source) for source in sources]
+    for source in unique_sources:
+        source_url = source["url"]
+        source_name = source["name"]
+        source_kind = str(source.get("kind", ""))
 
-        for future in concurrent.futures.as_completed(futures):
-            try:
-                items, report = future.result()
-            except Exception as error:
-                items = []
-                report = {
-                    "name": "unknown",
-                    "url": "",
-                    "kind": "",
-                    "section": "",
+        print(f"[source] {source_name}: {source_url}")
+
+        feed_url, feed_text = resolve_feed_url(source_url)
+
+        if not feed_url or not feed_text:
+            source_reports.append(
+                {
+                    "name": source_name,
+                    "url": source_url,
+                    "kind": source_kind,
                     "status": "failed",
-                    "error": str(error)[:240],
                     "feed_url": "",
                     "items": 0,
                 }
+            )
+            continue
 
-            all_items.extend(items)
-            source_reports.append(report)
+        items = parse_feed(feed_url, feed_text, source_name)
 
-    deduped: dict[str, dict[str, Any]] = {}
-    for item in all_items:
-        deduped[item["id"]] = item
+        for item in items:
+            item["source_kind"] = source_kind
+            item["source_url"] = source_url
 
-    items = list(deduped.values())
-    items.sort(key=lambda item: item.get("published_iso") or "", reverse=True)
+        source_reports.append(
+            {
+                "name": source_name,
+                "url": source_url,
+                "kind": source_kind,
+                "status": "ok",
+                "feed_url": feed_url,
+                "items": len(items),
+            }
+        )
 
-    source_reports.sort(key=lambda item: (item.get("status") != "ok", item.get("name") or ""))
+        if source_kind in OWNED_KINDS:
+            owned_items.extend(items)
+        else:
+            news_items.extend(items)
 
-    return items[:MAX_ITEMS], source_reports
+        time.sleep(0.4)
+
+    news_items = dedupe_and_sort(news_items)[:NEWS_MAX_ITEMS]
+    owned_items = dedupe_and_sort(owned_items)[:OWNED_MAX_ITEMS]
+
+    return news_items, owned_items, source_reports
 
 
 def build_payload() -> dict[str, Any]:
     generated_at = utc_now()
-    items, source_reports = collect_items()
+    items, owned_items, source_reports = collect_items()
 
     content_hash = hashlib.sha256(
-        json.dumps(items, ensure_ascii=False, sort_keys=True).encode("utf-8")
+        json.dumps(
+            {
+                "items": items,
+                "owned_items": owned_items,
+            },
+            ensure_ascii=False,
+            sort_keys=True,
+        ).encode("utf-8")
     ).hexdigest()
 
     return {
-        "schema": "fivsevn.ai.news.v1",
+        "schema": "fivsevn.ai.news.v2",
         "generated_at": generated_at,
         "content_hash": f"sha256:{content_hash}",
         "purpose": "AI-readable news bundle for scheduled review and summarization.",
@@ -496,9 +479,14 @@ def build_payload() -> dict[str, Any]:
             "shared_sources": "intake/sources.md",
             "extra_sources": "ai/sources_extra.json",
             "note": (
-                "Only explicit feed_url entries are used. Empty feed_url, "
-                "source_cap: 0, and site_url discovery are skipped."
+                "Shared sources are used for external news. Extra sources with "
+                "kind=owned_site are separated into owned_items and do not compete "
+                "with the external news item limit."
             ),
+        },
+        "limits": {
+            "news_max_items": NEWS_MAX_ITEMS,
+            "owned_max_items": OWNED_MAX_ITEMS,
         },
         "output_urls": {
             "raw_news_json": "https://raw.githubusercontent.com/fivsevn-agy/fivsevn-devlog/refs/heads/main/ai/news.json",
@@ -510,65 +498,92 @@ def build_payload() -> dict[str, Any]:
         "counts": {
             "sources": len(source_reports),
             "sources_ok": sum(1 for source in source_reports if source.get("status") == "ok"),
-            "sources_failed": sum(1 for source in source_reports if source.get("status") == "failed"),
-            "sources_empty": sum(1 for source in source_reports if source.get("status") == "empty"),
+            "sources_failed": sum(1 for source in source_reports if source.get("status") != "ok"),
             "items": len(items),
+            "owned_items": len(owned_items),
         },
         "sources": source_reports,
         "items": items,
+        "owned_items": owned_items,
     }
 
 
 def render_markdown(payload: dict[str, Any]) -> str:
     lines: list[str] = []
     counts = payload.get("counts", {}) or {}
+    limits = payload.get("limits", {}) or {}
 
     lines.append("# AI News")
     lines.append("")
     lines.append(f"- Generated at: `{payload.get('generated_at', '')}`")
     lines.append(f"- Content hash: `{payload.get('content_hash', '')}`")
-    lines.append(f"- Sources: {counts.get('sources_ok', 0)} ok / {counts.get('sources_failed', 0)} failed / {counts.get('sources_empty', 0)} empty")
-    lines.append(f"- Items: {counts.get('items', 0)}")
+    lines.append(f"- Sources: {counts.get('sources_ok', 0)} ok / {counts.get('sources_failed', 0)} failed")
+    lines.append(f"- External items: {counts.get('items', 0)} / {limits.get('news_max_items', '')}")
+    lines.append(f"- Owned items: {counts.get('owned_items', 0)} / {limits.get('owned_max_items', '')}")
     lines.append("")
 
     lines.append("## Sources")
     lines.append("")
 
     for source in payload.get("sources", []):
-        lines.append(
-            f"- `{source.get('status', '')}` {source.get('name', '')} — "
-            f"{source.get('items', 0)} items — {source.get('feed_url', '')}"
-        )
-        if source.get("error"):
-            lines.append(f"  - Error: {source.get('error')}")
+        kind = source.get("kind", "")
+        if source.get("feed_url"):
+            lines.append(
+                f"- `{source.get('status', '')}` `{kind}` {source.get('name', '')} — "
+                f"{source.get('items', 0)} items — {source.get('feed_url', '')}"
+            )
+        else:
+            lines.append(
+                f"- `{source.get('status', '')}` `{kind}` {source.get('name', '')} — "
+                f"{source.get('url', '')}"
+            )
 
     lines.append("")
-    lines.append("## Latest Items")
+    lines.append("## External Latest Items")
     lines.append("")
 
     for item in payload.get("items", []):
-        lines.append(f"### {item.get('title', '(untitled)')}")
+        append_item_markdown(lines, item)
+
+    lines.append("")
+    lines.append("## Owned Site Items")
+    lines.append("")
+
+    owned_items = payload.get("owned_items", [])
+    if not owned_items:
+        lines.append("_No owned site items found._")
         lines.append("")
-        lines.append(f"- ID: `{item.get('id', '')}`")
-        lines.append(f"- Source: {item.get('source', '')}")
-
-        if item.get("published"):
-            lines.append(f"- Published: {item.get('published')}")
-
-        if item.get("published_iso"):
-            lines.append(f"- Published ISO: `{item.get('published_iso')}`")
-
-        if item.get("url"):
-            lines.append(f"- URL: {item.get('url')}")
-
-        summary = item.get("summary", "")
-        if summary:
-            lines.append("")
-            lines.append(summary[:800])
-
-        lines.append("")
+    else:
+        for item in owned_items:
+            append_item_markdown(lines, item)
 
     return "\n".join(lines).strip() + "\n"
+
+
+def append_item_markdown(lines: list[str], item: dict[str, Any]) -> None:
+    lines.append(f"### {item.get('title', '(untitled)')}")
+    lines.append("")
+    lines.append(f"- ID: `{item.get('id', '')}`")
+    lines.append(f"- Source: {item.get('source', '')}")
+
+    if item.get("source_kind"):
+        lines.append(f"- Source kind: `{item.get('source_kind', '')}`")
+
+    if item.get("published"):
+        lines.append(f"- Published: {item.get('published')}")
+
+    if item.get("published_iso"):
+        lines.append(f"- Published ISO: `{item.get('published_iso')}`")
+
+    if item.get("url"):
+        lines.append(f"- URL: {item.get('url')}")
+
+    summary = item.get("summary", "")
+    if summary:
+        lines.append("")
+        lines.append(summary[:800])
+
+    lines.append("")
 
 
 def main() -> None:
@@ -589,10 +604,12 @@ def main() -> None:
     LATEST_ITEMS_JSON.write_text(
         json.dumps(
             {
-                "schema": "fivsevn.ai.latest_items.v1",
+                "schema": "fivsevn.ai.latest_items.v2",
                 "generated_at": payload.get("generated_at"),
                 "content_hash": payload.get("content_hash"),
+                "limits": payload.get("limits", {}),
                 "items": payload.get("items", []),
+                "owned_items": payload.get("owned_items", []),
             },
             ensure_ascii=False,
             indent=2,
