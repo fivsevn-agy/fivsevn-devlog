@@ -1,0 +1,14 @@
+{
+  "sources": [
+    {
+      "name": "fivsevn.com",
+      "url": "https://fivsevn.com/",
+      "kind": "site"
+    },
+    {
+      "name": "devlog.fivsevn.com",
+      "url": "https://devlog.fivsevn.com/",
+      "kind": "site"
+    }
+  ]
+}
