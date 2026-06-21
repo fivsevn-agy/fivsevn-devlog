@@ -1,6 +1,6 @@
 ---
 id: blogops-about-001
-title: 关于博客（About This Blog）
+title: 关于本博客（About This Blog）
 
 module: blogops
 submodule: identity
@@ -31,26 +31,40 @@ source_of_truth: site
 created: 2026-02-19
 updated: 2026-06-18
 ---
-# 关于博客
+# 关于本博客
 # About This Blog
 
 ---
 ## 基本信息
 
 - 博客名称：
-  - **五月七日的思考札记**    
+
+```
+五月七日的思考札记
+```
 
 - 其他语言版本名称：
-  - **fivsevn’s Pocket Reflection Journal**
-  - **つゆりのポケット思案帳**
+
+```
+fivsevn’s Pocket Reflection Journal
+```
+```
+つゆりのポケット思案帳
+```
 
 - 链接：
-  - [http://fivsevn.com](http://fivsevn.com)
+
+```
+http://fivsevn.com
+```
 
 - 主题：
-  - 个人生活记录
-  - 学习笔记
-  - 实验性创作
+
+```
+个人生活记录  
+学习笔记  
+实验性创作  
+```
 
 ---
 ## structure
@@ -65,7 +79,7 @@ fivsevn.com/
       ├─ netcom/     # 通讯技术笔记
       ├─ stills/     # 静态影像存档
       ├─ motion/     # 动态影像存档
-      ├─ devlog/     # 后台
+      ├─ devlog/     # 后台日志
       ├─ 57store/    # 五月七日便利店
       ├─ nvesvif/    # ???
       └─ ???/
