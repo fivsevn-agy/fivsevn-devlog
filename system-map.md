@@ -1,6 +1,6 @@
 # fivsevn system map
 
-本文是 fivsevn 的系统总览，用于说明公开入口、页面板块、内容分类、仓库职责，以及 WordPress、GitHub、assets、YouTube 之间的分工。核心原则是：低成本、可迁移、轻量、长期可维护。
+本文是 fivsevn 的内容总览，用于说明公开入口、页面板块、内容分类、仓库职责，以及 WordPress、GitHub、assets、YouTube 之间的分工。本博客维护的核心原则是：低成本、可迁移、轻量、长期可维护。
 
 ## Quick orientation
 
