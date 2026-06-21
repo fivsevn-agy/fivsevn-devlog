@@ -3,12 +3,12 @@
     {
       "name": "fivsevn.com",
       "url": "https://fivsevn.com/",
-      "kind": "site"
+      "kind": "owned_site"
     },
     {
       "name": "devlog.fivsevn.com",
       "url": "https://devlog.fivsevn.com/",
-      "kind": "site"
+      "kind": "owned_site"
     }
   ]
 }
