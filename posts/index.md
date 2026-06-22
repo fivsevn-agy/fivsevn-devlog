@@ -46,6 +46,10 @@ updated: 2026-06-15
 > 更新中......  
 
 <!-- AUTO-INDEX:POSTS_RECENT:START -->
+- 2026.06.22 [科学：公元2026年的世界末日（译文）](2026/posts-population-doomsday-2026-001.md)
+
+- 2026.06.22 [1960 年一位物理学家称世界将在 2026 年终结：具体日期如下（译文）](2026/posts-news-doomsday-prediction-001.md)
+
 - 2026.06.19 [预测市场](2026/posts-20260619-methods-prediction-market-001.md)
 
 - 2026.06.18 [新闻机构应如何向受众标注 AI 使用？新研究给出了一些答案（译文）](2026/posts-journalism-ai-labeling-001.md)
