@@ -8,5 +8,7 @@ timezone: ”Asia/Taipei“
 # 正文写在第二个 --- 后面
 ---
 
-🚧ei，wordpress 更新之后好多模块动一下就全没了，晚上要紧急施工 😖
+试一下脱离 Wordpress，用 Github Pages 做个差不多的页面：
+- [flux.fivsevn.com](flux.fivsevn.com)
 
+运行一阵子再看看效果。
