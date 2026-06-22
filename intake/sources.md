@@ -533,6 +533,19 @@ professional_value: 5
 use_role: reference
 ```
 
+```source
+name: Upstract
+section: media_lens
+feed_url: ''
+source_cap: 0
+site_url: https://upstract.com/
+source_type: reference_tool
+authority_level: aggregator
+reliability_score: 3
+professional_value: 4
+use_role: reference
+```
+
 <a id="global_news"></a>
 
 ## 全球新闻 / global_news
@@ -3857,6 +3870,19 @@ professional_value: 4
 use_role: reference
 ```
 
+```source
+name: MagazineLib
+section: books
+feed_url: ''
+source_cap: 0
+site_url: https://magazinelib.com/
+source_type: reference_tool
+authority_level: aggregator
+reliability_score: 3
+professional_value: 4
+use_role: reference
+```
+
 <a id="film_moving_image"></a>
 
 ## 电影与影像 / film_moving_image
@@ -4111,6 +4137,19 @@ authority_level: commentary
 reliability_score: 4
 professional_value: 4
 use_role: culture_probe
+```
+
+```source
+name: m3u Radio Music Playlists
+section: music_sound
+feed_url: ''
+source_cap: 0
+site_url: https://junguler.github.io/m3u-radio-music-playlists/
+source_type: reference_tool
+authority_level: aggregator
+reliability_score: 3
+professional_value: 4
+use_role: reference
 ```
 
 <a id="photography"></a>
@@ -9288,6 +9327,19 @@ professional_value: 5
 use_role: signal
 ```
 
+```source
+name: 阿虚同学储物间
+section: reference_pool
+feed_url: ''
+source_cap: 0
+site_url: https://axutongxue.cccpan.com/
+source_type: reference_tool
+authority_level: aggregator
+reliability_score: 3
+professional_value: 4
+use_role: reference
+```
+
 <a id="maps_geo_data"></a>
 
 ## 地图与地理数据 / maps_geo_data
@@ -9528,6 +9580,19 @@ source_type: reference_tool
 authority_level: primary
 reliability_score: 5
 professional_value: 5
+use_role: reference
+```
+
+```source
+name: GetZlib
+section: document_search
+feed_url: ''
+source_cap: 0
+site_url: https://getzlib.com/
+source_type: reference_tool
+authority_level: aggregator
+reliability_score: 3
+professional_value: 4
 use_role: reference
 ```
 
