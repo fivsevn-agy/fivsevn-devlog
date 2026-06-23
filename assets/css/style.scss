@@ -347,3 +347,25 @@ footer::after,
   line-height: 1.7 !important;
   font-weight: 400 !important;
 }
+/* keep cut-out image areas transparent */
+img,
+picture,
+figure,
+.markdown-body img,
+.markdown-body picture,
+.markdown-body figure,
+.markdown-body p:has(img),
+.markdown-body a:has(img),
+main img,
+main picture,
+main figure,
+main p:has(img),
+main a:has(img),
+article img,
+article picture,
+article figure,
+article p:has(img),
+article a:has(img) {
+  background: transparent !important;
+  background-color: transparent !important;
+}
