@@ -714,7 +714,7 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
   <title>{title}</title>
   <style>
     :root {{
-      --bg: #131415;
+      --bg: #0f1115;
       --panel: #171a21;
       --text: #e8e8e8;
       --muted: #9ca3af;
