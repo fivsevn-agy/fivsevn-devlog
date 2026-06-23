@@ -34,9 +34,9 @@ updated: 2026-06-16
 ---
 ## 五月七日的思考札记 ▶ 后台日志
 
-- **视觉入口** ▶︎ [ [**fivsevn.com**](https://fivsevn.com) ]
+### 回到主站 ▷ ./[`home`](https://fivsevn.com)  
 
-- **内容仓库** ▶︎ [ [**devlog.fivsevn.com**](https://devlog.fivsevn.com) ]
+### 近况速报 ▷ ./[`now page`](/now/index.md)
 
 ---
 ### Directory

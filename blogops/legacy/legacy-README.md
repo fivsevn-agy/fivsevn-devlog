@@ -1,3 +1,15 @@
+---
+module: system
+type: note
+status: archived
+canonical: false
+summary: >
+  archived
+tags: [archive]
+visibility: public
+source_of_truth: devlog
+updated: 2026-06-15
+---
 ## 五月七日的思考札记
 
 
@@ -31,7 +43,7 @@
 
 - 关于本博客 ▷ [ [`about this blog`](/blogops/content/blogops-about-001.md) ]
 
-- 内容总览 ▷ [ [`system map`](/system-map.md) ]
+- 内容总览 ▷ [ [`system map`](legacy-system-map.md) ]
 
 - 给 AI 协作者 ▷ [ [`AI collaborator guide`](/ai/system-map.en.md) ]
 

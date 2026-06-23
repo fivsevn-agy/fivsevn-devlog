@@ -34,14 +34,12 @@ updated: 2026-06-15
 ---
 ## 五月七日的思考札记 ▶ 自然科学笔记
 
-### 主站 ▷ ./[`home.natsci`](https://fivsevn.com/natsci/)  
+### 回到主站 ▷ ./[`home.natsci`](https://fivsevn.com/natsci/)  
 
-### 内容仓库 ▽ ./[`devlog.natsci`](https://devlog.fivsevn.com/natsci/)  
+### 内容仓库 ▽ ./[`devlog.natsci`](https://devlog.fivsevn.com/natsci)  
 
 ---
-#### > Recent Notes
-
-> 更新中......
+#### > Directory
 
 <!-- AUTO-INDEX:NATSCI_RECENT:START -->
 - 2026.06.17 [科学家在日本附近海床拍到迄今最深处的鱼类（译文）](taxonomy/chondrichthyes/natsci-deepest-snailfish-001.md)
