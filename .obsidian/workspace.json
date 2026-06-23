@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "blogops/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "index"
             }
           }
         ]
@@ -185,13 +185,22 @@
   },
   "active": "dda31f6b1cf652b9",
   "lastOpenFiles": [
-    "system-map.md",
-    "blogops/docs/publish-memo.md",
+    "natsci/index.md",
+    "netcom/index.md",
     "now/index.md",
-    "README.md",
+    "posts/index.md",
     "blogops/index.md",
-    "intake/README.md",
+    "README.md",
     "intake/sources.md",
+    "intake/README.md",
+    "blogops/legacy/legacy-system-map.md",
+    "blogops/legacy/legacy-README.md",
+    "blogops/legacy/legacy-blogops-cyber-estate-masterplan-001.md",
+    "blogops/content/blogops-about-001.md",
+    "blogops/content/blogops-assets-media-reference-001.md",
+    "blogops/content/blogops-rolesystem-001.md",
+    "blogops/legacy",
+    "blogops/docs/publish-memo.md",
     "blogops/docs/post-publish-trigger.md",
     "blogops/docs/auto-translation-shortcut.md",
     "blogops/docs/auto-index.md",
@@ -204,14 +213,6 @@
     "posts/2026/posts-literature-tolkien-fairy-stories-001.md",
     "netcom/rf/netcom-bluetooth-naming-001.md",
     "natsci/taxonomy/chondrichthyes/natsci-taxonomy-shark-phylogeny-001.md",
-    "natsci/taxonomy/chondrichthyes/natsci-taxonomy-chondrichthyes-orders-001.md",
-    "natsci/taxonomy/chondrichthyes/natsci-marine-ecology-shark-ray-areas-001.md",
-    "natsci/taxonomy/arthropod/natsci-arthropod-millipede-land-colonization-001.md",
-    "natsci/taxonomy/arthropod/natsci-arthropod-caterpillar-diet-specialization-001.md",
-    "natsci/taxonomy/arthropod/natsci-arthropod-bee-ai-consciousness-001.md",
-    "natsci/taxonomy/arthropod/natsci-arthropod-arota-festae-001.md",
-    "natsci/ethnobiology/ethnoentomology/natsci-ethnobiology-ethnoentomology-resources-001.md",
-    "natsci/paleontology/natsci-paleontology-oxfordshire-dinosaur-tracks-001.md",
     "natsci/assets/20260313sharklikefishes.png",
     "posts/2025.zip",
     "posts/2025 copy",
@@ -222,7 +223,6 @@
     "natsci/assets",
     "natsci/taxonomy/chondrichthyes",
     "netcom/assets/20251119mesh.png",
-    "kiosk",
     "netcom/assets/20251116mesh.png",
     "netcom/assets/20251118mcu.png"
   ]

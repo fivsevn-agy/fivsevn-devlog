@@ -34,10 +34,10 @@ updated: 2026-06-15
 ---
 ## 五月七日的思考札记 ▶ 通讯技术笔记
 
----
-#### > Recent Notes
+### 回到主站 ▷ ./[`home`](https://fivsevn.com) 
 
-> 更新中......
+---
+#### > Directory
 
 <!-- AUTO-INDEX:NETCOM_RECENT:START -->
 - 2026.06.22 [AI 需要更多工程纪律，而不是更少（译文）](software/netcom-software-engineering-ai-discipline-001.md)

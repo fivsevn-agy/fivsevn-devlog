@@ -36,14 +36,12 @@ updated: 2026-06-15
 ---
 ## 五月七日的思考札记 ▶ 个人笔记
 
-### 主站 ▷ ./[`home.posts`](https://fivsevn.com/posts/)  
+### 回到主站 ▷ ./[`home.posts`](https://fivsevn.com/posts/)  
 
 ### 内容仓库 ▽ ./[`devlog.posts`](https://devlog.fivsevn.com/posts)  
 
 ---
-#### > Recent Posts
-
-> 更新中......  
+#### > Directory
 
 <!-- AUTO-INDEX:POSTS_RECENT:START -->
 - 2026.06.22 [科学：公元2026年的世界末日（译文）](2026/posts-population-doomsday-2026-001.md)
