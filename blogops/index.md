@@ -36,7 +36,7 @@ updated: 2026-06-16
 
 ### 回到主站 ▷ ./[`home`](https://fivsevn.com)  
 
-### 近况速报 ▷ ./[`now page`](/now/index.md)
+### 近况速报 ▷ ./[`now page`](https://devlog.fivsevn.com/now)
 
 ---
 ### Directory

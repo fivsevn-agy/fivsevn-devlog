@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "blogops/index.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -185,12 +185,12 @@
   },
   "active": "dda31f6b1cf652b9",
   "lastOpenFiles": [
+    "posts/index.md",
+    "README.md",
+    "blogops/index.md",
     "natsci/index.md",
     "netcom/index.md",
     "now/index.md",
-    "posts/index.md",
-    "blogops/index.md",
-    "README.md",
     "intake/sources.md",
     "intake/README.md",
     "blogops/legacy/legacy-system-map.md",
