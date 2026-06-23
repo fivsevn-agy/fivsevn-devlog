@@ -347,17 +347,3 @@ footer::after,
   line-height: 1.7 !important;
   font-weight: 400 !important;
 }
-/* remove auto GitHub Pages title */
-header h1,
-header h1 a,
-.site-title,
-.project-name,
-.page-header h1,
-.page-header .project-name {
-  display: none !important;
-  visibility: hidden !important;
-  height: 0 !important;
-  margin: 0 !important;
-  padding: 0 !important;
-  overflow: hidden !important;
-}
