@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogops/docs/publish-memo.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "publish-memo"
+              "title": "README"
             }
           }
         ]
@@ -185,6 +185,8 @@
   },
   "active": "dda31f6b1cf652b9",
   "lastOpenFiles": [
+    "system-map.md",
+    "blogops/docs/publish-memo.md",
     "now/index.md",
     "README.md",
     "blogops/index.md",
@@ -210,8 +212,6 @@
     "natsci/taxonomy/arthropod/natsci-arthropod-arota-festae-001.md",
     "natsci/ethnobiology/ethnoentomology/natsci-ethnobiology-ethnoentomology-resources-001.md",
     "natsci/paleontology/natsci-paleontology-oxfordshire-dinosaur-tracks-001.md",
-    "natsci/paleontology/natsci-paleontology-oxfordshire-trackway-001.md",
-    "natsci/paleontology/natsci-paleontology-shishania-chancelloriid-001.md",
     "natsci/assets/20260313sharklikefishes.png",
     "posts/2025.zip",
     "posts/2025 copy",
