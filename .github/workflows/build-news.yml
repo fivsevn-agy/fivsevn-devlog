@@ -39,11 +39,12 @@ jobs:
       - name: Update intake page
         run: python intake/build.py
 
-      - name: Rename GPT reading file
+      - name: Rename LLM context file
         run: |
           test -f intake/gpt.md
-          mv intake/gpt.md intake/forgptreading.md
-          test -f intake/forgptreading.md
+          mv intake/gpt.md intake/llm-context.md
+          test -f intake/llm-context.md
+          wc -c intake/llm-context.md
 
       - name: Commit generated files
         run: |
@@ -54,14 +55,13 @@ jobs:
           git rm --cached intake/gpt.md || true
 
           git add intake/index.html
-          git add intake/forgptreading.md
-          git add intake/feeds.yml
+          git add intake/llm-context.md
 
           git status --short
 
           if git diff --cached --quiet; then
             echo "No generated changes to commit."
           else
-            git commit -m "chore(intake): update generated intake page"
+            git commit -m "chore(intake): update generated intake page and llm context"
             git push
           fi
