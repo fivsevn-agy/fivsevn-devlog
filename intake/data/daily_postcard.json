@@ -1,0 +1,17 @@
+{
+  "date": "2026-06-24",
+  "from": "Wikimedia Commons <picture-of-the-day@commons.wikimedia.org>",
+  "to_name": "fivsevn",
+  "to_email_prefix": "intake@",
+  "to_domain": "devlog.fivsevn.com",
+  "to_url": "https://devlog.fivsevn.com/",
+  "subject": "You have one postcard waiting to be viewed! 你有一张明信片待查收！",
+  "title": "Messier 24 (infrared, red, green)",
+  "description": "This 3-panel mosaic of Messier 24, the Small Sagittarius Star Cloud, was taken in the infrared, red and green bands, revealing dim red dwarfs, cool red giants, and stars hidden behind galactic dust.\nWithin this field are the open clusters NGC 6603 (left) and Collinder 469 (center), the dark nebula Barnard 92 (right), and the H-II region Sharpless 41, which permeates the field with a green tint.\nMount: Sky-Watcher Wave 150i (strain wave German equatorial mount)\nTelescope: Apertura CarbonStar RC8 (Ritchey–Chrétien telescope, 203 mm aperture, 1624 mm focal length, no reducer or flattener)\nCamera: Touptek ATR533M (IMX533 monochrome sensor)\nField size: 61.3' × 22.4'\nFilters:\n\nSVBONY 685 nm NIR (red channel) (46x60s panel 1, 46x60s panel 2, 48x60s panel 3)\nTouptek R (green channel) (33x60s panel 1, 32x60s panel 2, 35x60s panel 3)\nTouptek G (blue channel) (33x60s panel 1, 32x60s panel 2, 34x60s panel 3)\nSoftware: NINA, SIRIL, GIMP\n\nNo AI tools were used in the making of this image.",
+  "artist": "Brainandforce",
+  "license": "CC BY 4.0",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Messier_24_%28infrared%2C_red%2C_green%29.jpg",
+  "original_url": "https://commons.wikimedia.org/wiki/File:Messier_24_%28infrared%2C_red%2C_green%29.jpg",
+  "source": "Wikimedia Commons Picture of the Day",
+  "generated_at": "2026-06-24T14:55:36.417744+00:00"
+}
