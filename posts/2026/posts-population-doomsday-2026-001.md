@@ -27,7 +27,7 @@ confidence: 0.9
 visibility: public
 source_of_truth: translation
 
-original_title: Science: Doomsday in 2026 A.D.
+original_title: "Science: Doomsday in 2026 A.D."
 original_source: TIME Archive
 original_publisher: TIME
 original_url: https://time.com/archive/6647875/science-doomsday-in-2026-a-d/
