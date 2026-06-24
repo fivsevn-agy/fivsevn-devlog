@@ -1,53 +1,44 @@
 name: Build Intake Page
 
 on:
-  workflow_dispatch:
-
-  schedule:
-    - cron: "0 */5 * * *"
+workflow_dispatch:
+schedule:
+- cron: “0 */5 * * *”
 
 permissions:
-  contents: write
+contents: write
 
 concurrency:
-  group: build-intake
-  cancel-in-progress: false
+group: build-intake
+cancel-in-progress: false
 
 jobs:
-  build-intake:
-    runs-on: ubuntu-latest
+build-intake:
+runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - name: Install dependencies
-        run: pip install -r intake/requirements.txt
-
-      - name: Update daily image
-        run: python intake/scripts/daily_postcard.py
-
-      - name: Update daily species
-        run: python intake/scripts/daily_field_sample.py
-
-      - name: Update intake page
-        run: python intake/build.py
-
-      - name: Stage generated files
-        run: |
-          git add intake/index.html
-          git add intake/gpt.md
-          git add intake/data/daily_postcard.json
-          git add intake/data/daily_postcard.html
-          git add intake/data/daily_field_sample.json
-          git add intake/data/daily_field_sample.html
-
-      - name: Save generated files
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore(intake): update generated intake page"
+steps:
+  - name: Checkout repository
+    uses: actions/checkout@v4
+  - name: Set up Python
+    uses: actions/setup-python@v5
+    with:
+      python-version: "3.11"
+  - name: Install dependencies
+    run: pip install -r intake/requirements.txt
+  - name: Update daily image
+    run: python intake/scripts/daily_postcard.py
+  - name: Update daily species
+    run: python intake/scripts/daily_field_sample.py
+  - name: Update intake page
+    run: python intake/build.py
+  - name: Save generated files
+    uses: stefanzweifel/git-auto-commit-action@v5
+    with:
+      commit_message: "chore(intake): update generated intake page"
+      file_pattern: |
+        intake/index.html
+        intake/gpt.md
+        intake/data/daily_postcard.json
+        intake/data/daily_postcard.html
+        intake/data/daily_field_sample.json
+        intake/data/daily_field_sample.html
