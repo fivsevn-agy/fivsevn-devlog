@@ -38,20 +38,16 @@ jobs:
       - name: Update intake page
         run: python intake/build.py
 
-      - name: Check generated files
+      - name: Stage generated files
         run: |
-          ls -la intake
-          test -f intake/gpt.md
-          git status --short
+          git add intake/index.html
+          git add intake/gpt.md
+          git add intake/data/daily_postcard.json
+          git add intake/data/daily_postcard.html
+          git add intake/data/daily_field_sample.json
+          git add intake/data/daily_field_sample.html
 
       - name: Save generated files
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore(intake): update generated intake page"
-          file_pattern: |
-            intake/index.html
-            intake/gpt.md
-            intake/data/daily_postcard.json
-            intake/data/daily_postcard.html
-            intake/data/daily_field_sample.json
-            intake/data/daily_field_sample.html
