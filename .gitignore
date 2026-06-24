@@ -1,2 +1,38 @@
+# macOS / Finder
 .DS_Store
 **/.DS_Store
+.AppleDouble
+.LSOverride
+
+# iCloud Drive placeholder files
+*.icloud
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local environment / secrets
+.env
+.env.*
+!.env.example
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# Obsidian local UI/editor state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/core-plugins.json
