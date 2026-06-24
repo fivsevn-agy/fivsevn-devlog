@@ -1,0 +1,18 @@
+{
+  "title": "Daily Field Sample / 今日野采样本",
+  "scientific_name": "Derelomus costalis",
+  "taxonomy": "Animalia / Arthropoda / Insecta / Coleoptera / Curculionidae",
+  "source_name": "GBIF",
+  "source_url": "https://www.gbif.org/species/1189617",
+  "search_links": [
+    {
+      "name": "Google",
+      "url": "https://www.google.com/search?q=Derelomus+costalis"
+    },
+    {
+      "name": "COL",
+      "url": "https://www.catalogueoflife.org/data/search?q=Derelomus+costalis"
+    }
+  ],
+  "generated_at": "2026-06-24T14:55:39.565463+00:00"
+}
