@@ -39,27 +39,23 @@ jobs:
       - name: Update intake page
         run: python intake/build.py
 
-      - name: Verify generated files
+      - name: Rename GPT reading file
         run: |
-          echo "Generated files:"
-          ls -la intake
-          test -f intake/index.html
           test -f intake/gpt.md
-          wc -c intake/index.html
-          wc -c intake/gpt.md
+          mv intake/gpt.md intake/forgptreading.md
+          test -f intake/forgptreading.md
 
       - name: Commit generated files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
+          git rm -r --cached intake/data || true
+          git rm --cached intake/gpt.md || true
+
           git add intake/index.html
-          git add intake/gpt.md
+          git add intake/forgptreading.md
           git add intake/feeds.yml
-          git add intake/data/daily_postcard.json
-          git add intake/data/daily_postcard.html
-          git add intake/data/daily_field_sample.json
-          git add intake/data/daily_field_sample.html
 
           git status --short
 
