@@ -44,6 +44,7 @@ jobs:
           commit_message: "chore(intake): update generated intake page"
           file_pattern: |
             intake/index.html
+            intake/gpt.md
             intake/data/daily_postcard.json
             intake/data/daily_postcard.html
             intake/data/daily_field_sample.json
