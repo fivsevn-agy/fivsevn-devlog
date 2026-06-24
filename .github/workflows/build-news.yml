@@ -19,6 +19,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -37,14 +39,33 @@ jobs:
       - name: Update intake page
         run: python intake/build.py
 
-      - name: Save generated files
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore(intake): update generated intake page"
-          file_pattern: |
-            intake/index.html
-            intake/gpt.md
-            intake/data/daily_postcard.json
-            intake/data/daily_postcard.html
-            intake/data/daily_field_sample.json
-            intake/data/daily_field_sample.html
+      - name: Verify generated files
+        run: |
+          echo "Generated files:"
+          ls -la intake
+          test -f intake/index.html
+          test -f intake/gpt.md
+          wc -c intake/index.html
+          wc -c intake/gpt.md
+
+      - name: Commit generated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add intake/index.html
+          git add intake/gpt.md
+          git add intake/feeds.yml
+          git add intake/data/daily_postcard.json
+          git add intake/data/daily_postcard.html
+          git add intake/data/daily_field_sample.json
+          git add intake/data/daily_field_sample.html
+
+          git status --short
+
+          if git diff --cached --quiet; then
+            echo "No generated changes to commit."
+          else
+            git commit -m "chore(intake): update generated intake page"
+            git push
+          fi
