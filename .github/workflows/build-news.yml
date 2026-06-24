@@ -38,6 +38,12 @@ jobs:
       - name: Update intake page
         run: python intake/build.py
 
+      - name: Check generated files
+        run: |
+          ls -la intake
+          test -f intake/gpt.md
+          git status --short
+
       - name: Save generated files
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
