@@ -15,6 +15,7 @@ BASE_DIR = Path(__file__).resolve().parent
 CONFIG_PATH = BASE_DIR / "feeds.yml"
 SOURCE_REGISTRY_PATH = BASE_DIR / "sources.md"
 OUTPUT_PATH = BASE_DIR / "index.html"
+GPT_OUTPUT_PATH = BASE_DIR / "gpt.md"
 DATA_DIR = BASE_DIR / "data"
 
 DEFAULT_SOURCE_CAP = 4
@@ -1225,6 +1226,144 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
 """
 
 
+def clean_markdown_text(value: Any) -> str:
+    if value is None:
+        return ""
+    text = html.unescape(strip_html(str(value)))
+    text = re.sub(r"\s+", " ", text)
+    return text.strip()
+
+
+def render_markdown_label(title: Any, title_zh: Any = "") -> str:
+    title_text = clean_markdown_text(title)
+    title_zh_text = clean_markdown_text(title_zh)
+    if title_text and title_zh_text:
+        return f"{title_text} / {title_zh_text}"
+    return title_text or title_zh_text
+
+
+def ordered_section_keys(config: dict[str, Any]) -> list[str]:
+    sections = config.get("sections", {}) or {}
+    categories = config.get("categories", {}) or {}
+    ordered: list[str] = []
+    seen: set[str] = set()
+
+    for category in categories.values():
+        for section_key in category.get("sections", []) or []:
+            section_key = str(section_key)
+            if section_key in sections and section_key not in seen:
+                ordered.append(section_key)
+                seen.add(section_key)
+
+    for section_key in sections.keys():
+        section_key = str(section_key)
+        if section_key not in seen:
+            ordered.append(section_key)
+            seen.add(section_key)
+
+    return ordered
+
+
+def render_gpt_article(item: dict[str, Any]) -> str:
+    title = clean_markdown_text(item.get("title", "Untitled")) or "Untitled"
+    source = clean_markdown_text(item.get("source", ""))
+    published = clean_markdown_text(item.get("published", ""))
+    url = clean_markdown_text(item.get("link", ""))
+    summary = clean_markdown_text(item.get("summary", ""))
+    source_quality = clean_markdown_text(format_source_quality_meta(item))
+
+    lines = [f"### {title}"]
+    if source:
+        lines.append(f"Source: {source}")
+    if published:
+        lines.append(f"Published: {published}")
+    if url:
+        lines.append(f"URL: {url}")
+    if source_quality:
+        lines.append(f"Source meta: {source_quality}")
+    if summary:
+        lines.extend(["", summary])
+
+    return "\n".join(lines).strip()
+
+
+def render_gpt_fragment(title: Any, title_zh: Any, html_fragment: str) -> str:
+    body = clean_markdown_text(html_fragment)
+    if not body:
+        return ""
+    heading = render_markdown_label(title, title_zh)
+    return f"### {heading}\n\n{body}".strip()
+
+
+def render_gpt_markdown(config: dict[str, Any], sections_data: dict[str, list[dict[str, Any]]]) -> str:
+    site = config.get("site", {}) or {}
+    title = render_markdown_label(site.get("title", "Today’s Arrival"), site.get("title_zh", "本日入荷"))
+    opened_at = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+
+    parts: list[str] = [
+        f"# {title}",
+        "",
+        f"Generated: {opened_at}",
+        "Source registry: intake/sources.md",
+        "",
+    ]
+
+    widgets = config.get("widgets", {}) or {}
+    daily_postcard_html = load_fragment("daily_postcard.html")
+    daily_field_sample_html = load_fragment("daily_field_sample.html")
+    drawer_parts = [
+        render_gpt_fragment(
+            (widgets.get("postcard", {}) or {}).get("title", "postcard"),
+            (widgets.get("postcard", {}) or {}).get("title_zh", "明信片"),
+            daily_postcard_html,
+        ),
+        render_gpt_fragment(
+            (widgets.get("daily_field_sample", {}) or {}).get("title", "Daily Field Sample"),
+            (widgets.get("daily_field_sample", {}) or {}).get("title_zh", "今日野采样本"),
+            daily_field_sample_html,
+        ),
+    ]
+    drawer_parts = [part for part in drawer_parts if part]
+    if drawer_parts:
+        parts.extend(["## Junk drawer / 杂物箱", "", "\n\n".join(drawer_parts), ""])
+
+    parts.extend(["## On the shelf / 本日上架", ""])
+
+    sections_config = config.get("sections", {}) or {}
+    for section_key in ordered_section_keys(config):
+        section = sections_config.get(section_key, {}) or {}
+        items = sections_data.get(section_key, [])
+        regions = get_section_regions(config, section_key, section)
+
+        if isinstance(regions, dict) and regions:
+            items_by_region: dict[str, list[dict[str, Any]]] = {str(region_key): [] for region_key in regions.keys()}
+            for item in items:
+                region_key = str(item.get("region", ""))
+                if region_key in items_by_region:
+                    items_by_region[region_key].append(item)
+
+            for region_key in regions.keys():
+                region_title, region_title_zh = get_region_label(str(region_key))
+                parts.extend([f"## {render_markdown_label(region_title, region_title_zh)}", ""])
+                region_items = items_by_region.get(str(region_key), [])
+                if region_items:
+                    parts.append("\n\n".join(render_gpt_article(item) for item in region_items))
+                else:
+                    parts.append("No items fetched.")
+                parts.append("")
+            continue
+
+        section_title = render_markdown_label(section.get("title", section_key), section.get("title_zh", ""))
+        parts.extend([f"## {section_title}", ""])
+        if items:
+            parts.append("\n\n".join(render_gpt_article(item) for item in items))
+        else:
+            parts.append("No items fetched.")
+        parts.append("")
+
+    return "\n".join(parts).rstrip() + "\n"
+
+
 def main() -> None:
     config = load_config()
 
@@ -1235,6 +1374,9 @@ def main() -> None:
 
     OUTPUT_PATH.write_text(render_html(config, sections_data), encoding="utf-8")
     print(f"[done] generated {OUTPUT_PATH}")
+
+    GPT_OUTPUT_PATH.write_text(render_gpt_markdown(config, sections_data), encoding="utf-8")
+    print(f"[done] generated {GPT_OUTPUT_PATH}")
 
 
 if __name__ == "__main__":
