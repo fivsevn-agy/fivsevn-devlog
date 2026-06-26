@@ -8,7 +8,4 @@ timezone: ”Asia/Taipei“
 # 正文写在第二个 --- 后面
 ---
 
-试一下脱离 Wordpress，用 Github Pages 做个差不多的页面：
-- [flux.fivsevn.com](flux.fivsevn.com)
-
-运行一阵子再看看效果。
+[flux.fivsevn.com](flux.fivsevn.com) 目前除了还没评论区之外都还不错🫪
