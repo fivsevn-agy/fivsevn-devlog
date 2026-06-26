@@ -4,7 +4,7 @@
   
 - Directory ▶︎ [https://nownownow.com/p/kUDQ](https://nownownow.com/p/kUDQ)  
 
-- Site Entry ▶︎ [ [`五月七日的思考札记`](https://devlog.fivsevn.com) ]
+- Site Entry ▶︎ [ [`五月七日的思考札记`](https://fivsevn.com) ]
 
 
 ### ◌ Keepalive
