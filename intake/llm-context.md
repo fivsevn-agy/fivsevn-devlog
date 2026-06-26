@@ -1,6 +1,6 @@
 # Today’s Arrival / 本日入荷
 
-Generated: 2026-06-26 17:00 UTC
+Generated: 2026-06-26 21:16 UTC
 Source registry: intake/sources.md
 
 ## Junk drawer / 杂物箱
@@ -11,7 +11,7 @@ From: Wikimedia Commons <picture-of-the-day@commons.wikimedia.org> To: fivsevn <
 
 ### Daily Field Sample / 今日野采样本
 
-Daily Field Sample / 今日野采样本 Scientific name / 学名: Lagrida similis Breuning, 1938 Taxonomy / 分类: Animalia / Arthropoda / Insecta / Coleoptera / Cerambycidae Source / 来源: GBIF Search / 搜索: Google · COL
+Daily Field Sample / 今日野采样本 Scientific name / 学名: Glenea porphyrio Pascoe, 1866 Taxonomy / 分类: Animalia / Arthropoda / Insecta / Coleoptera / Cerambycidae Source / 来源: GBIF Search / 搜索: Google · COL
 
 ## On the shelf / 本日上架
 
@@ -164,6 +164,30 @@ Source meta: reference_tool · aggregator · R3 · P4 · reference
 
 Source homepage / 来源主页
 
+### Although sources suggest Paramount wouldn't sell CNN to appease state regulators overseeing the WBD deal, it may save the company from a protracted legal battle (Matthew Belloni/Puck)
+Source: Mediagazer
+Published: 2026-06-26 20:25 UTC
+URL: https://mediagazer.com/260626/p10#a260626p10
+Source meta: reference_tool · aggregator · R3 · P4 · reference
+
+Matthew Belloni / Puck : Although sources suggest Paramount wouldn't sell CNN to appease state regulators overseeing the WBD deal, it may save the company from a protracted legal battle — With Paramount's federally approved acquisition of Warner Bros. entering its endgame, the Ellisons will still need to placate regulators like California's Rob Bonta.
+
+### Dave Jorgenson's LNI is profitable with 49% of 2025 revenue coming from ads, 21% from consulting, 14% from the newsletter, and plans for a long-form show in Q3 (Christiana Sciaudone/A Media Operator)
+Source: Mediagazer
+Published: 2026-06-26 19:20 UTC
+URL: https://mediagazer.com/260626/p9#a260626p9
+Source meta: reference_tool · aggregator · R3 · P4 · reference
+
+Christiana Sciaudone / A Media Operator : Dave Jorgenson's LNI is profitable with 49% of 2025 revenue coming from ads, 21% from consulting, 14% from the newsletter, and plans for a long-form show in Q3 — It's been nearly a year since Dave Jorgenson left the Washington Post to start his own company, Local News International.
+
+### Omnicom's top 150 customers now make up 50% of its revenue, versus 350 clients accounting for that portion prior to its merger with Interpublic (Benoit Berthelot/Bloomberg)
+Source: Mediagazer
+Published: 2026-06-26 17:35 UTC
+URL: https://mediagazer.com/260626/p8#a260626p8
+Source meta: reference_tool · aggregator · R3 · P4 · reference
+
+Benoit Berthelot / Bloomberg : Omnicom's top 150 customers now make up 50% of its revenue, versus 350 clients accounting for that portion prior to its merger with Interpublic — John Wren, the chief executive officer of ad giant Omnicom Group Inc., said he's starting to see results after closing the deal for rival Interpublic Group …
+
 ### Acast shows that have opted into Apple video podcasts have seen a ~25% jump in Apple consumption; only 10 shows in the top 200 US chart currently offer video (Ashley Carman/Bloomberg)
 Source: Mediagazer
 Published: 2026-06-26 16:50 UTC
@@ -180,13 +204,13 @@ Source meta: specialist_media · specialist · R4 · P4 · reference
 
 A look ahead at the key events leading the news agenda next week, from the team at Foresight News. The post News diary 29 June – 5 July: Andy Burnham to set out economic vision, Wimbledon, Tour de France appeared first on Press Gazette .
 
-### MS Now will fill its weekend evening schedule largely with taped video podcasts, expanding its use of Crooked Media content, starting June 28 (Brian Steinberg/Variety)
+### MS Now will move away from live shows on weekend evenings, instead using prerecorded video podcasts and expanding use of Crooked Media content, starting June 28 (Brian Steinberg/Variety)
 Source: Mediagazer
 Published: 2026-06-26 15:20 UTC
 URL: https://mediagazer.com/260626/p6#a260626p6
 Source meta: reference_tool · aggregator · R3 · P4 · reference
 
-Brian Steinberg / Variety : MS Now will fill its weekend evening schedule largely with taped video podcasts, expanding its use of Crooked Media content, starting June 28 — The divide between so-called “creator media” and mainstream TV news continues to narrow — and quickly. — Starting on Sunday, June 28 …
+Brian Steinberg / Variety : MS Now will move away from live shows on weekend evenings, instead using prerecorded video podcasts and expanding use of Crooked Media content, starting June 28 — The divide between so-called “creator media” and mainstream TV news continues to narrow — and quickly.
 
 ### The NYT plans to adapt the Wirecutter Show for public radio, to be distributed by American Public Media from July 9; APM has distributed The Daily since 2018 (Tyler Falk/Current)
 Source: Mediagazer
@@ -196,22 +220,6 @@ Source meta: reference_tool · aggregator · R3 · P4 · reference
 
 Tyler Falk / Current : The NYT plans to adapt the Wirecutter Show for public radio, to be distributed by American Public Media from July 9; APM has distributed The Daily since 2018 — The New York Times is set to expand its public radio presence with the addition of The Wirecutter Show.
 
-### OpenAI's ad VP says OpenAI has attracted "thousands of advertisers"; the best-performing categories were travel, retail, health, beauty, and financial services (Benoit Berthelot/Bloomberg)
-Source: Mediagazer
-Published: 2026-06-26 13:00 UTC
-URL: https://mediagazer.com/260626/p4#a260626p4
-Source meta: reference_tool · aggregator · R3 · P4 · reference
-
-Benoit Berthelot / Bloomberg : OpenAI's ad VP says OpenAI has attracted “thousands of advertisers”; the best-performing categories were travel, retail, health, beauty, and financial services — The ChatGPT maker offers the industry a new marketing vehicle … Tech Across the Globe
-
-### The DGA ratifies a four-year deal with studios and streamers, committing them to sending key executives to DC to lobby for a federal film tax incentive (Katie Kilkenny/The Hollywood Reporter)
-Source: Mediagazer
-Published: 2026-06-26 11:55 UTC
-URL: https://mediagazer.com/260626/p3#a260626p3
-Source meta: reference_tool · aggregator · R3 · P4 · reference
-
-Katie Kilkenny / The Hollywood Reporter : The DGA ratifies a four-year deal with studios and streamers, committing them to sending key executives to DC to lobby for a federal film tax incentive — The union did not disclose what portion of its membership voted for and against the deal, but said members voted “overwhelmingly” in favor.
-
 ### Journalism job cuts in 2026 tracked: Latest at Scientific American, Sherwood News, and Dow Jones
 Source: Press Gazette
 Published: 2026-06-26 10:24 UTC
@@ -219,14 +227,6 @@ URL: https://pressgazette.co.uk/news/journalism-job-cuts-in-2026-updates/
 Source meta: specialist_media · specialist · R4 · P4 · reference
 
 Press Gazette rolling updates on redundancies made in 2026. The post Journalism job cuts in 2026 tracked: Latest at Scientific American, Sherwood News, and Dow Jones appeared first on Press Gazette .
-
-### A study of 408 teens in Australia finds 80%+ were still using social media three months after a ban came into force, citing inadequate age verification checks (Anna Bawden/The Guardian)
-Source: Mediagazer
-Published: 2026-06-26 10:20 UTC
-URL: https://mediagazer.com/260626/p2#a260626p2
-Source meta: reference_tool · aggregator · R3 · P4 · reference
-
-Anna Bawden / The Guardian : A study of 408 teens in Australia finds 80%+ were still using social media three months after a ban came into force, citing inadequate age verification checks — Experts say law not enough to stop children accessing harmful content online and more ‘convincing strategy is required’
 
 ### Who’s suing AI and who’s signing: Collective of US local newspapers sue OpenAI and Microsoft
 Source: Press Gazette
@@ -659,7 +659,7 @@ Source homepage / 来源主页
 
 ### New Ebola cases in Congo: What you need to know
 Source: DW News
-Published: 2026-06-26 16:57 UTC
+Published: 2026-06-26 21:13 UTC
 URL: https://www.dw.com/en/new-ebola-cases-in-congo-what-you-need-to-know/a-77325922?maca=en-rss-en-all-1573-rdf
 Source meta: public_broadcaster · generalist · R5 · P4 · baseline
 
@@ -667,7 +667,7 @@ The virus spreads from direct person-to-person contact. But here's what makes it
 
 ### The Superbug spill: When medicine goes rogue
 Source: DW News
-Published: 2026-06-26 16:57 UTC
+Published: 2026-06-26 21:13 UTC
 URL: https://www.dw.com/en/the-superbug-spill-when-medicine-goes-rogue/a-77172236?maca=en-rss-en-all-1573-rdf
 Source meta: public_broadcaster · generalist · R5 · P4 · baseline
 
@@ -675,7 +675,7 @@ Pharmaceuticals have been found in waterways almost everywhere in the world, fue
 
 ### Pigeons' livers may enable magnetic navigation when the sun doesn't shine, study finds
 Source: DW News
-Published: 2026-06-26 16:57 UTC
+Published: 2026-06-26 21:13 UTC
 URL: https://www.dw.com/en/pigeons-livers-may-enable-magnetic-navigation-when-the-sun-doesn-t-shine-study-finds/a-77341403?maca=en-rss-en-all-1573-rdf
 Source meta: public_broadcaster · generalist · R5 · P4 · baseline
 
@@ -683,7 +683,7 @@ A research team in Germany has published new data on how pigeons use magnetic fi
 
 ### International aid cuts complicate Congo's Ebola epidemic
 Source: DW News
-Published: 2026-06-26 16:57 UTC
+Published: 2026-06-26 21:13 UTC
 URL: https://www.dw.com/en/international-aid-cuts-complicate-congo-s-ebola-epidemic/a-77320865?maca=en-rss-en-all-1573-rdf
 Source meta: public_broadcaster · generalist · R5 · P4 · baseline
 
@@ -691,7 +691,7 @@ The scaling back of development aid has contributed to the inability to contain 
 
 ### Space race: Why Portugal is reaching for the stars
 Source: DW News
-Published: 2026-06-26 16:57 UTC
+Published: 2026-06-26 21:13 UTC
 URL: https://www.dw.com/en/space-race-why-portugal-is-reaching-for-the-stars/a-77303795?maca=en-rss-en-all-1573-rdf
 Source meta: public_broadcaster · generalist · R5 · P4 · baseline
 
@@ -699,7 +699,7 @@ A spaceport is being built on a small Portuguese island in the Atlantic. Is Port
 
 ### DNA had one rule. Bacteria didn't get the memo
 Source: DW News
-Published: 2026-06-26 16:57 UTC
+Published: 2026-06-26 21:13 UTC
 URL: https://www.dw.com/en/dna-had-one-rule-bacteria-didn-t-get-the-memo/a-77341009?maca=en-rss-en-all-1573-rdf
 Source meta: public_broadcaster · generalist · R5 · P4 · baseline
 
@@ -714,25 +714,25 @@ Source homepage / 来源主页
 
 ### Hundreds of millions at risk from Chinese shopping app malware
 Source: CNN
-Published: 2026-06-26 16:57 UTC
+Published: 2026-06-26 21:13 UTC
 URL: https://cnn.it/40OSomK
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
 
 ### Russian authorities detain suspect over St. Petersburg cafe blast
 Source: CNN
-Published: 2026-06-26 16:57 UTC
+Published: 2026-06-26 21:13 UTC
 URL: https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
 
 ### READ: Trump indictment related to hush money payment
 Source: CNN
-Published: 2026-06-26 16:57 UTC
+Published: 2026-06-26 21:13 UTC
 URL: https://cnn.it/411KYN7
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
 
 ### Trump pleads not guilty to 34 felony counts
 Source: CNN
-Published: 2026-06-26 16:57 UTC
+Published: 2026-06-26 21:13 UTC
 URL: https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
 
@@ -841,93 +841,561 @@ Source meta: wire_service · generalist · R5 · P5 · baseline
 
 Source homepage / 来源主页
 
-### Ex-Trump adviser John Bolton pleads guilty in classified information case – US politics live
+### Fußballweltmeisterschaft Gruppe I: Ousmane Dembélé führt Frankreich gegen Norwegen zum Gruppensieg
+Source: Die Zeit
+Published: 2026-06-26 21:12 UTC
+URL: https://www.zeit.de/sport/2026-06/frankreich-norwegen-fussball-wm-ousmane-dembele
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+Frankreich gewinnt gegen Norwegen und gewinnt so die Gruppe I. Dembélé erzielte in der ersten Halbzeit einen Hattrick. Im Achtelfinale könnte Deutschland der Gegner sein.
+
+### Unfälle: Rollerfahrer bei Unfall lebensgefährlich verletzt
+Source: Die Zeit
+Published: 2026-06-26 21:09 UTC
+URL: https://www.zeit.de/news/2026-06/26/rollerfahrer-bei-unfall-lebensgefaehrlich-verletzt
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+### Tödlicher Unfall: Fußgänger stirbt bei Straßenbahnunfall
+Source: Die Zeit
+Published: 2026-06-26 21:08 UTC
+URL: https://www.zeit.de/news/2026-06/26/fussgaenger-stirbt-bei-strassenbahnunfall
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+### US says it struck Iran targets after attack on cargo ship on the strait of Hormuz
 Source: The Guardian
-Published: 2026-06-26 16:54 UTC
+Published: 2026-06-26 21:07 UTC
+URL: https://www.theguardian.com/world/2026/jun/26/us-says-it-struck-iran-targets-after-attack-on-cargo-ship-on-the-strait-of-hormuz
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+Strike was in response to drone attack a day earlier on a commercial vessel The US military ⁠conducted strikes ⁠against Iran ​on Friday, ⁠Central Command said in ⁠a statement, ​adding ‌that ‌US aircraft ‌struck Iranian missile and drone storage locations and ‌coastal radar sites ​after Tehran’s attack on a ⁠commercial ship ​in the ​strait ​of ​Hormuz. The US strike was in response to a drone attack a day earlier on a cargo ship in the strait, a provocation that President Donald Trump said violated the ceasefire. Continue reading...
+
+### US says it struck Iran targets after attack on cargo ship on the strait of Hormuz
+Source: The Guardian World
+Published: 2026-06-26 21:07 UTC
+URL: https://www.theguardian.com/world/2026/jun/26/us-says-it-struck-iran-targets-after-attack-on-cargo-ship-on-the-strait-of-hormuz
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+Strike was in response to drone attack a day earlier on a commercial vessel The US military ⁠conducted strikes ⁠against Iran ​on Friday, ⁠Central Command said in ⁠a statement, ​adding ‌that ‌US aircraft ‌struck Iranian missile and drone storage locations and ‌coastal radar sites ​after Tehran’s attack on a ⁠commercial ship ​in the ​strait ​of ​Hormuz. The US strike was in response to a drone attack a day earlier on a cargo ship in the strait, a provocation that President Donald Trump said violated the ceasefire. Continue reading...
+
+### Fußball-WM: Sieg gegen Irak: Senegal wahrt Chance auf WM-Zwischenrunde
+Source: Die Zeit
+Published: 2026-06-26 21:04 UTC
+URL: https://www.zeit.de/news/2026-06/26/sieg-gegen-irak-senegal-wahrt-chance-auf-wm-zwischenrunde
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+### US-Militär greift Ziele im Iran trotz vereinbarter Waffenruhe an
+Source: Die Zeit
+Published: 2026-06-26 21:04 UTC
+URL: https://www.zeit.de/politik/2026-06/us-militaer-greift-ziele-im-iran-trotz-vereinbarter-waffenruhe-an
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+### US military strikes against Iran in response to attack on cargo ship, Pentagon says – live
+Source: The Guardian
+Published: 2026-06-26 21:02 UTC
 URL: https://www.theguardian.com/us-news/live/2026/jun/26/trump-news-john-bolton-updates-today
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
 
-Bolton pleads guilty to charges that he unlawfully retained sensitive national security information in agreement that includes $2.25m fine Former Trump adviser John Bolton pleads guilty Sign up for the Breaking News US email Hayes went on: As national security adviser to the president of the United States, Mr Bolton had access to and was responsible for safeguarding the most sensitive national defense information, including classified material. Mr Bolton knew how to handle classified information, where it should be stored, how it should be stored, and with whom he could share that information. Continue reading...
+Announcement of strikes come after Donald Trump was asked if Iran would face consequences for attack in strait of Hormuz Sign up for the Breaking News US email Hayes went on: As national security adviser to the president of the United States, Mr Bolton had access to and was responsible for safeguarding the most sensitive national defense information, including classified material. Mr Bolton knew how to handle classified information, where it should be stored, how it should be stored, and with whom he could share that information. Continue reading...
 
-### Ex-Trump adviser John Bolton pleads guilty in classified information case – US politics live
+### US military strikes against Iran in response to attack on cargo ship, Pentagon says – live
 Source: The Guardian World
-Published: 2026-06-26 16:54 UTC
+Published: 2026-06-26 21:02 UTC
 URL: https://www.theguardian.com/us-news/live/2026/jun/26/trump-news-john-bolton-updates-today
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
 
-Bolton pleads guilty to charges that he unlawfully retained sensitive national security information in agreement that includes $2.25m fine Former Trump adviser John Bolton pleads guilty Sign up for the Breaking News US email Hayes went on: As national security adviser to the president of the United States, Mr Bolton had access to and was responsible for safeguarding the most sensitive national defense information, including classified material. Mr Bolton knew how to handle classified information, where it should be stored, how it should be stored, and with whom he could share that information. Continue reading...
+Announcement of strikes come after Donald Trump was asked if Iran would face consequences for attack in strait of Hormuz Sign up for the Breaking News US email Hayes went on: As national security adviser to the president of the United States, Mr Bolton had access to and was responsible for safeguarding the most sensitive national defense information, including classified material. Mr Bolton knew how to handle classified information, where it should be stored, how it should be stored, and with whom he could share that information. Continue reading...
 
-### Judge declares mistrial in arson case against man accused of sparking Palisades Fire
-Source: The Guardian
-Published: 2026-06-26 16:50 UTC
-URL: https://www.theguardian.com/us-news/2026/jun/26/mistrial-arson-california-pacific-palisades-wildfire
+### Angriff auf Frachtschiff: US-Militär: Haben Angriffe gegen Iran durchgeführt
+Source: Die Zeit
+Published: 2026-06-26 21:02 UTC
+URL: https://www.zeit.de/news/2026-06/26/trump-zu-hormus-attacke-iran-hat-waffenruhe-gebrochen
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
 
-Jurors in California deliberated for over 13 hours, before announcing that they were deadlocked A federal judge declared a mistrial in the arson case against the 29-year-old man accused of sparking the deadly 2025 Palisades fire in Los Angeles, after the jury said it could not agree on a verdict. Jurors deliberated for over 13 hours on Thursday on whether to convict Jonathan Rinderknecht on three federal charges, before announcing that they were deadlocked. Continue reading...
-
-### Judge declares mistrial in arson case against man accused of sparking Palisades Fire
-Source: The Guardian World
-Published: 2026-06-26 16:50 UTC
-URL: https://www.theguardian.com/us-news/2026/jun/26/mistrial-arson-california-pacific-palisades-wildfire
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-Jurors in California deliberated for over 13 hours, before announcing that they were deadlocked A federal judge declared a mistrial in the arson case against the 29-year-old man accused of sparking the deadly 2025 Palisades fire in Los Angeles, after the jury said it could not agree on a verdict. Jurors deliberated for over 13 hours on Thursday on whether to convict Jonathan Rinderknecht on three federal charges, before announcing that they were deadlocked. Continue reading...
-
-### Father of 4 children found dead in NY apartment was days from seeing them following visitation battle
+### Michigan parents charged with murder after 7-year-old son dies weighing 255 pounds
 Source: NBC News
-Published: 2026-06-26 16:49 UTC
-URL: https://www.nbcnews.com/news/us-news/father-4-children-found-dead-new-york-apartment-rcna351924
+Published: 2026-06-26 21:01 UTC
+URL: https://www.nbcnews.com/news/us-news/michigan-parents-charged-murder-7-year-old-son-rcna351984
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
 
-A Utah father was days away from seeing his four children — the culmination of a years-long visitation battle — when he learned they had been killed in a heinous crime their grandmother is accused of committing.
+A Michigan couple have been charged with murder in connection with the death of their 7-year-old son, who was 255 pounds when he died, according to Genesee County Prosecutor David Leyton
 
-### Judge declares mistrial in Palisades Fire suspect's federal trial
+### Money no enough? The price of parenthood in East Asia
+Source: The Straits Times – Asia
+Published: 2026-06-26 21:01 UTC
+URL: https://www.straitstimes.com/asia/east-asia/asia-east-asia-price-of-parenthood
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+Hundreds of thousands of dollars are spent raising a child in Asia’s more developed economies.
+
+### Best Amazon Prime Day deals: Savings from the final day of 2026 sale on Lego, AirPods and Garmin
+Source: The Telegraph
+Published: 2026-06-26 21:00 UTC
+URL: https://www.telegraph.co.uk/recommended/amazon-prime-day-uk-2026-best-deals/
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+Best Amazon Prime Day deals: Savings from the final day of 2026 sale on Lego, AirPods and Garmin
+
+### Price of parenthood: ‘No choice’ but to do what everyone else is doing in Taiwan’s rat race
+Source: The Straits Times – Asia
+Published: 2026-06-26 21:00 UTC
+URL: https://www.straitstimes.com/asia/east-asia/asia-east-asia-price-of-parenthood-tw
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+For many young adults in Taiwan, raising even one child has become a difficult financial and emotional calculation.
+
+### Price of parenthood: South Koreans spend big on enrichment to get kids ahead
+Source: The Straits Times – Asia
+Published: 2026-06-26 21:00 UTC
+URL: https://www.straitstimes.com/asia/east-asia/asia-east-asia-price-of-parenthood-sk
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+According to a survey, the average cost of raising a child to age 18 in South Korea is 1.115 million won a month.
+
+### Price of parenthood: Going rural in Hong Kong for a cheaper, better childhood
+Source: The Straits Times – Asia
+Published: 2026-06-26 21:00 UTC
+URL: https://www.straitstimes.com/asia/east-asia/asia-east-asia-price-of-parenthood-hk
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+The city's sky-high property prices have long discouraged couples from having more children.
+
+### Johor polls contenders are all in on youth. The general election could hinge on what happens next
+Source: The Straits Times – Asia
+Published: 2026-06-26 21:00 UTC
+URL: https://www.straitstimes.com/asia/se-asia/johor-polls-contenders-are-all-in-on-youth-the-general-election-could-hinge-on-what-happens-next
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+Nearly half of Johor's 140 candidates are aged 20s-40s, mirroring a 42% youth electorate.
+
+### West Asia war LIVE: U.S. military conducts strikes against Iran
+Source: The Hindu
+Published: 2026-06-26 20:54 UTC
+URL: https://www.thehindu.com/news/international/west-asia-war-iran-usa-israel-conflict-washington-tehran-peace-deal-donald-trump-strait-of-hormuz-live-updates-june-26-2026/article71149347.ece
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+U.S. says it struck Iran targets after attack on cargo ship
+
+### Iran live updates: US conducts strikes on Iran over Strait of Hormuz drone attack
 Source: ABC News
-Published: 2026-06-26 16:47 UTC
-URL: https://abcnews.com/US/jury-palisades-fire-suspects-federal-trial-deadlocked-resume/story?id=134136910
+Published: 2026-06-26 20:52 UTC
+URL: https://abcnews.com/International/live-updates/iran-live-updates/?id=134086780
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
 
-Jonathan Rinderknecht was accused of "maliciously" starting a fire that six days later developed into one of the most destructive wildfires in Los Angeles history.
+U.S. forces conducted strikes on Iran on Friday in response to the Iranian drone strike on a Singapore-flagged cargo ship in the Strait of Hormuz, according to CENTCOM.
 
-### Gavin Newsom urges a national 'billionaires' tax' while fighting one in California
+### U.S. strikes Iran after attack on commercial vessel in Strait of Hormuz
+Source: NBC News
+Published: 2026-06-26 20:52 UTC
+URL: https://www.nbcnews.com/meet-the-press/video/u-s-strikes-iran-after-attack-on-commercial-vessel-in-strait-of-hormuz-265759301628
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+The Pentagon says that the U.S. military has launched retaliatory strikes on Iran after a commercial vessel was hit in the Strait of Hormuz. Trump had teased a potential retaliation against Iran while speaking to reporters at the White House, just hours after claiming that Iran had violated the ceasefire agreement signed last week.
+
+### Mistrial declared in federal arson case related to California wildfires
+Source: Al Jazeera
+Published: 2026-06-26 20:51 UTC
+URL: https://www.aljazeera.com/news/2026/6/26/mistrial-declared-in-federal-arson-case-related-to-california-wildfires?traffic_source=rss
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+New trial set to take place in October after jury fails to reach decision in closely-watched case on Palisades Fire.
+
+### ‘Release the footage’: Mississippi protest over police killing of one-year-old
 Source: The Guardian
-Published: 2026-06-26 16:46 UTC
-URL: https://www.theguardian.com/us-news/2026/jun/26/gavin-newsom-national-billionaires-tax
+Published: 2026-06-26 20:50 UTC
+URL: https://www.theguardian.com/us-news/2026/jun/26/kohen-wiley-mississippi-police-killing-protest
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
 
-California governor calls for national tax on super-wealthy and suggests the US should own a stake in AI companies US politics live – latest updates California’s governor, Gavin Newsom , called for a national “billionaires tax” on Friday as he fights a ballot measure targeting the ultra-wealthy in his home state. Newsom, who is expected to run for president in 2028, published his proposal the day after California officials certified a ballot proposal to levy a one-time 5% tax on residents worth more than $1bn. The proposal, called the California Billionaire Tax Act, was brought by the Service Employees International Union-United Healthcare Workers West (SEIU-UHW) and would fund the state’s healthcare, education and food assistance programs. Continue reading...
+About 100 marchers demand transparency after Kohen Wiley was shot dead in a car outside a Walmart About 100 people gathered on Friday morning outside of the Walmart in rural Senatobia, Mississippi, to protest about the killing of a one-year-old boy by police earlier this month. Walmart itself was closed, its doors barricaded. During a protest at the Walmart earlier in the week, officers deployed teargas on those gathered to force the crowds to disperse. Continue reading...
 
-### Gavin Newsom urges a national 'billionaires' tax' while fighting one in California
+### ‘Release the footage’: Mississippi protest over police killing of one-year-old
 Source: The Guardian World
-Published: 2026-06-26 16:46 UTC
-URL: https://www.theguardian.com/us-news/2026/jun/26/gavin-newsom-national-billionaires-tax
+Published: 2026-06-26 20:50 UTC
+URL: https://www.theguardian.com/us-news/2026/jun/26/kohen-wiley-mississippi-police-killing-protest
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
 
-California governor calls for national tax on super-wealthy and suggests the US should own a stake in AI companies US politics live – latest updates California’s governor, Gavin Newsom , called for a national “billionaires tax” on Friday as he fights a ballot measure targeting the ultra-wealthy in his home state. Newsom, who is expected to run for president in 2028, published his proposal the day after California officials certified a ballot proposal to levy a one-time 5% tax on residents worth more than $1bn. The proposal, called the California Billionaire Tax Act, was brought by the Service Employees International Union-United Healthcare Workers West (SEIU-UHW) and would fund the state’s healthcare, education and food assistance programs. Continue reading...
+About 100 marchers demand transparency after Kohen Wiley was shot dead in a car outside a Walmart About 100 people gathered on Friday morning outside of the Walmart in rural Senatobia, Mississippi, to protest about the killing of a one-year-old boy by police earlier this month. Walmart itself was closed, its doors barricaded. During a protest at the Walmart earlier in the week, officers deployed teargas on those gathered to force the crowds to disperse. Continue reading...
 
-### Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents
-Source: BBC World
-Published: 2026-06-26 16:45 UTC
-URL: https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss
+### U.S. pledges generous earthquake relief to Venezuela
+Source: NPR World
+Published: 2026-06-26 20:49 UTC
+URL: https://www.npr.org/2026/06/26/nx-s1-5872204/u-s-pledges-generous-earthquake-relief-to-venezuela
 Source meta: public_broadcaster · generalist · R5 · P4 · baseline
 
-Bolton faces a prison sentence of up to five years and has agreed to pay $2.25m in fine, prosecutors say.
+Following the earthquakes in Venezuela, the Trump administration announced what appears to be its strongest disaster response since it dismantled America's premier aid agency USAID last year.
 
-### Why Is the Supreme Court Unshackling the Presidency?
+### Saks Emerges From Bankruptcy With a New Plan and Corporate Name
 Source: The New York Times
-Published: 2026-06-26 16:40 UTC
-URL: https://www.nytimes.com/2026/06/26/opinion/supreme-court-ruling-tps-immigration-trump.html
+Published: 2026-06-26 20:46 UTC
+URL: https://www.nytimes.com/2026/06/26/business/saks-bankruptcy-exemplar-luxury-group.html
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
 
-Where is Chief Justice John Roberts? And why isn’t he putting limits on this administration?
+The retailer, renamed Exemplar Luxury Group, is ditching anything that isn’t focused on high-end department store shopping.
 
-### Pro-MAGA Groups Spur Trump Push For Cultural Change In Schools
-Source: The New York Times
-Published: 2026-06-26 16:39 UTC
-URL: https://www.nytimes.com/2026/06/26/us/politics/defending-education-smith-transgender.html
+### Hezbollah will not support Israel-Lebanon framework deal
+Source: Al Jazeera
+Published: 2026-06-26 20:46 UTC
+URL: https://www.aljazeera.com/video/newsfeed/2026/6/26/aje-onl-nf_hezbollah-rejects-israel-lebanon-framework-deal-260626?traffic_source=rss
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
 
-One nonprofit, Defending Education, initiated nearly a dozen civil rights investigations targeting diversity programs and transgender policies.
+Al Jazeera brings you the latest from Beirut as the US announces a framework agreement between Israel and Lebanon.
+
+### Agony, then ‘a miracle’: Venezuelan families describe reuniting with rescued loved ones
+Source: NBC News
+Published: 2026-06-26 20:38 UTC
+URL: https://www.nbcnews.com/world/venezuela/earthquake-venezuela-rescued-trapped-survivors-rcna351939
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+As thousands are trapped in the rubble and with time running out, some families facing the unimaginable got the outcome they were desperately hoping for.
+
+### Beijing’s ties with Bangladesh does not target any third party, says Chinese Foreign Ministry
+Source: The Hindu
+Published: 2026-06-26 20:38 UTC
+URL: https://www.thehindu.com/news/international/beijings-ties-with-bangladesh-does-not-target-any-third-party-says-chinese-foreign-ministry/article71151716.ece
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+China expressed support to Bangladesh to take up the comprehensive Teesta river project; Rahman conveys Dhaka’s commitment to ‘one China’ policy; earlier China backed Bangladesh in supporting its ‘sovereignty and territorial integrity’
+
+### Call for inquiry into Alligator Alcatraz’s ‘abuse of Everglades’ despite closure
+Source: The Guardian
+Published: 2026-06-26 20:38 UTC
+URL: https://www.theguardian.com/us-news/2026/jun/26/alligator-alcatraz-environmental-immigrant-inquiry
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+Environmentalists and immigrant-rights advocates seek accounting of damage done by notorious detention center While they welcome the recent closure of the controversial Alligator Alcatraz migrant detention center, leading environmental groups and their allies say they want an independent investigation into the environmental damage the facility inflicted on the surrounding wilderness during its 12 months of operations. Those groups made that demand alongside immigrant-rights advocates and members of Florida’s Miccosukee Tribe at a news conference on Friday outside the entrance to the shuttered detention center, where the Friends of the Everglades (FOE) executive director, Eve Samples, condemned the camp as a “failure, an obscene waste of taxpayer dollars and an abuse of the Everglades”. Continue reading...
+
+### Call for inquiry into Alligator Alcatraz’s ‘abuse of Everglades’ despite closure
+Source: The Guardian World
+Published: 2026-06-26 20:38 UTC
+URL: https://www.theguardian.com/us-news/2026/jun/26/alligator-alcatraz-environmental-immigrant-inquiry
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+Environmentalists and immigrant-rights advocates seek accounting of damage done by notorious detention center While they welcome the recent closure of the controversial Alligator Alcatraz migrant detention center, leading environmental groups and their allies say they want an independent investigation into the environmental damage the facility inflicted on the surrounding wilderness during its 12 months of operations. Those groups made that demand alongside immigrant-rights advocates and members of Florida’s Miccosukee Tribe at a news conference on Friday outside the entrance to the shuttered detention center, where the Friends of the Everglades (FOE) executive director, Eve Samples, condemned the camp as a “failure, an obscene waste of taxpayer dollars and an abuse of the Everglades”. Continue reading...
+
+### Centrist Democrats Rebuke Party’s Left Wing: ‘We Are Capitalist, Not Socialist’
+Source: The New York Times
+Published: 2026-06-26 20:37 UTC
+URL: https://www.nytimes.com/2026/06/26/us/politics/moderate-democrats-capitalist-socialism.html
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+Following high-profile primary victories by democratic socialists, some moderate Democrats are advocating a different course, highlighting tensions in the party.
+
+### Sarr marca el segundo para Senegal tras error en la salida de Irak
+Source: NBC News
+Published: 2026-06-26 20:33 UTC
+URL: https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/sarr-marca-el-segundo-para-senegal-tras-error-en-la-salida-de-irak-tmvo13197792
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+En una salida defensiva de Irak, Ismaila Sarr aprovechá el error tras el pase de Camara para ampliar la ventaja en el segundo tiempo. El equipo senegalés aprovecha los desaciertos iraquíes para asegurar el partido.
+
+### Small Plane Crashes Into Tallest Building in Beijing
+Source: The New York Times
+Published: 2026-06-26 20:32 UTC
+URL: https://www.nytimes.com/2026/06/26/world/asia/china-plane-crash-beijing.html
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+Crowds in the capital’s central business district fled as the crash sent debris falling into the streets below.
+
+### Duckett finds form of old to get England back into contest
+Source: The Telegraph
+Published: 2026-06-26 20:30 UTC
+URL: https://www.telegraph.co.uk/cricket/2026/06/26/england-vs-new-zealand-third-test-live-score-and-updates/
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+Duckett finds form of old to get England back into contest
+
+### After progressive US primary wins, Trump takes aim at ‘godless communists’
+Source: Al Jazeera
+Published: 2026-06-26 20:29 UTC
+URL: https://www.aljazeera.com/news/2026/6/26/after-progressive-us-primary-wins-trump-takes-aim-at-godless-communists?traffic_source=rss
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+Trump has repeatedly conflated democratic socialists and communists; no communist are running on the Democratic ticket.
+
+### Trump administration orders US health programs to move away from overdose prevention
+Source: The Guardian
+Published: 2026-06-26 20:25 UTC
+URL: https://www.theguardian.com/us-news/2026/jun/26/trump-administration-overdose-prevention-health-program
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+Experts say move signals greater political interference into public health and will exacerbate opioid overdose crisis Health programs receiving federal funding must agree within days to new priorities from the Trump administration , including a focus on “parental authority” in education and a move away from proven overdose-prevention methods like harm reduction, suggesting greater political control over public health. The new priorities will likely affect progress against the opioid crisis , and they could signal an attack on vaccination requirements at schools, which are set at the state and local level. The priorities may also weaponize public health to quash “public disorder.” Continue reading...
+
+### Trump administration orders US health programs to move away from overdose prevention
+Source: The Guardian World
+Published: 2026-06-26 20:25 UTC
+URL: https://www.theguardian.com/us-news/2026/jun/26/trump-administration-overdose-prevention-health-program
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+Experts say move signals greater political interference into public health and will exacerbate opioid overdose crisis Health programs receiving federal funding must agree within days to new priorities from the Trump administration , including a focus on “parental authority” in education and a move away from proven overdose-prevention methods like harm reduction, suggesting greater political control over public health. The new priorities will likely affect progress against the opioid crisis , and they could signal an attack on vaccination requirements at schools, which are set at the state and local level. The priorities may also weaponize public health to quash “public disorder.” Continue reading...
+
+### Mike Maignan le ataja un penal a Jørgen Strand Larsen y salva a Francia
+Source: NBC News
+Published: 2026-06-26 20:21 UTC
+URL: https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/mike-maignan-le-ataja-un-penal-a-jorgen-strand-larsen-y-salva-a-francia-tmvo13197790
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+Los noruegos tuvieron la oportunidad de acortar distancias, pero el arquero del AC Milan respondió a la altura.
+
+### Uruguay vs Spain LIVE: World Cup 2026
+Source: Al Jazeera
+Published: 2026-06-26 20:03 UTC
+URL: https://www.aljazeera.com/sports/liveblog/2026/6/26/uruguay-vs-spain-live-world-cup-2026?traffic_source=rss
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+All the updates, with team news coverage and our text commentary stream, as Lamine Yamal's Spain face Uruguay.
+
+### Burkina Faso cuts diplomatic ties with ex-ruler France
+Source: South China Morning Post
+Published: 2026-06-26 20:02 UTC
+URL: https://www.scmp.com/news/world/africa/article/3358571/burkina-faso-cuts-diplomatic-ties-ex-ruler-france?utm_source=rss_feed
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+Burkina Faso’s ruling junta on Friday severed diplomatic ties with former colonial ruler France, accusing Paris of persistently acting against its interests. The military regime led by Captain Ibrahim Traore, in power since a coup in September 2022, is pursuing a policy repressive towards critical voices and hostile to Westerners, particularly France. “The government of Burkina Faso hereby informs the national and international community that it has decided to sever diplomatic relations with...
+
+### US federal judge questions DOJ decision to drop Adani charges
+Source: Al Jazeera
+Published: 2026-06-26 20:02 UTC
+URL: https://www.aljazeera.com/economy/2026/6/26/us-federal-judge-questions-doj-decision-to-drop-adani-charges?traffic_source=rss
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+Judge says DOJ's reasoning for dropping Adani charges lacks clarity; orders detailed explanation from prosecutors.
+
+### On the Streets of New York’s Little Haiti, Panic After Court Ruling
+Source: The New York Times
+Published: 2026-06-26 19:51 UTC
+URL: https://www.nytimes.com/2026/06/26/nyregion/nyc-little-haiti-supreme-court-tps.html
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+Residents in the Caribbean enclave in Brooklyn worried about returning to a crime-ravaged country after President Trump was allowed a path to deport them.
+
+### Israeli attack on car in central Gaza kills three Palestinians
+Source: Al Jazeera
+Published: 2026-06-26 19:49 UTC
+URL: https://www.aljazeera.com/news/2026/6/26/israeli-attack-on-car-in-central-gaza-kills-three-palestinians?traffic_source=rss
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+Palestinian Interior Ministry says those killed in attack on Maghazi refugee camp were police officers.
+
+### Newsom proposes national 'billionaires' tax' after opposing state's initiative
+Source: ABC News
+Published: 2026-06-26 19:46 UTC
+URL: https://abcnews.com/Politics/gavin-newsom-proposes-national-billionaires-tax-after-opposing/story?id=134241648
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+Gov. Gavin Newsom is proposing a national billionaires' tax, which comes a day after the state wealth tax measure he opposes qualified for the November ballot.
+
+### Hat-Trick de Ousmane Dembélé: El Balón de Oro le roba el protagonismo a Mbappé
+Source: NBC News
+Published: 2026-06-26 19:41 UTC
+URL: https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/hat-trick-de-ousmane-dembele-el-balon-de-oro-le-roba-el-protagonismo-a-mbappe-tmvo13197787
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+Tres goles de manera contundente del jugador del Paris Saint-Germain, para colocar el 3-1 de una Selección de Francia que luce imparable.
+
+### In London, You Can Celebrate America’s 250th Birthday From the British Side
+Source: The New York Times
+Published: 2026-06-26 19:39 UTC
+URL: https://www.nytimes.com/2026/06/26/travel/america-250-birthday-london-uk.html
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+Britain may have lost the Revolutionary War, but London still holds the blueprints of the American Revolution. Follow in the founders’ footsteps at these notable places.
+
+### Gavin Newsom urges a national 'billionaires' tax' while fighting one in California
+Source: The Guardian
+Published: 2026-06-26 19:33 UTC
+URL: https://www.theguardian.com/us-news/2026/jun/26/gavin-newsom-national-billionaires-tax
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+California governor calls for national tax on super-wealthy and suggests the US should own a stake in AI companies US politics live – latest updates California’s governor, Gavin Newsom , called for a national “billionaires tax” on Friday as he fights a ballot measure targeting the ultra-wealthy in his home state. Newsom, who is expected to run for president in 2028, published his proposal the day after California officials certified a ballot proposal to levy a one-time 5% tax on residents worth more than $1bn. The proposal, called the California Billionaire Tax Act, was brought by the Service Employees International Union-United Healthcare Workers West (SEIU-UHW) and would fund the state’s healthcare, education and food assistance programs. Continue reading...
+
+### Gavin Newsom urges a national 'billionaires' tax' while fighting one in California
+Source: The Guardian World
+Published: 2026-06-26 19:33 UTC
+URL: https://www.theguardian.com/us-news/2026/jun/26/gavin-newsom-national-billionaires-tax
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+California governor calls for national tax on super-wealthy and suggests the US should own a stake in AI companies US politics live – latest updates California’s governor, Gavin Newsom , called for a national “billionaires tax” on Friday as he fights a ballot measure targeting the ultra-wealthy in his home state. Newsom, who is expected to run for president in 2028, published his proposal the day after California officials certified a ballot proposal to levy a one-time 5% tax on residents worth more than $1bn. The proposal, called the California Billionaire Tax Act, was brought by the Service Employees International Union-United Healthcare Workers West (SEIU-UHW) and would fund the state’s healthcare, education and food assistance programs. Continue reading...
+
+### Israel and Lebanon sign framework agreement after US-brokered talks
+Source: BBC World
+Published: 2026-06-26 19:29 UTC
+URL: https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss
+Source meta: public_broadcaster · generalist · R5 · P4 · baseline
+
+Previous ceasefires between Israel and Hezbollah have still seen near-daily cross-border strikes
+
+### US soldier dies after being run over by armored vehicle in training incident
+Source: ABC News
+Published: 2026-06-26 19:28 UTC
+URL: https://abcnews.com/US/us-soldier-dies-after-run-armored-vehicle-training/story?id=134250643
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+Adrian Bonsey, a 29-year-old combat engineer assigned to the 3rd Infantry Division at Fort Stewart, died during a large-scale training exercise.
+
+### Ukrainian drones drive Russia to declare emergency in occupied Crimea
+Source: The Washington Post
+Published: 2026-06-26 19:22 UTC
+URL: https://www.washingtonpost.com/world/2026/06/26/ukrainian-drones-drive-russia-declare-emergency-occupied-crimea/
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+Weeks of punishing strikes have disrupted water, fuel and electricity supplies across the peninsula, which Ukraine’s president has vowed to reclaim.
+
+### US judge won’t immediately dismiss criminal charges against India’s Adani
+Source: The Straits Times – Asia
+Published: 2026-06-26 19:06 UTC
+URL: https://www.straitstimes.com/asia/south-asia/us-judge-wont-immediately-dismiss-criminal-charges-against-indias-adani
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+Adani is accused of bribery and misleading US investors.
+
+### Trump threatens 100% tax on European imports
+Source: ABC News
+Published: 2026-06-26 19:06 UTC
+URL: https://abcnews.com/US/wireStory/trump-threatens-100-tax-european-imports-countries-impose-134249597
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+President Donald Trump is threatening a 100% tariff on imports from any country that imposes a tax on digital services provided by United States companies
+
+### Yale Seeks Trump Administration Deal in Inquiry Over Race and Admissions
+Source: The New York Times
+Published: 2026-06-26 18:46 UTC
+URL: https://www.nytimes.com/2026/06/26/us/politics/yale-trump-administration-admissions-race.html
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+The university hired a high-powered law firm to try to reach an agreement with the Justice Department over claims its admissions practices hurt white and Asian applicants.
+
+### What to know about birthright citizenship ahead of Supreme Court's ruling
+Source: ABC News
+Published: 2026-06-26 18:44 UTC
+URL: https://abcnews.com/Politics/faq-birthright-citizenship-ahead-supreme-courts-ruling/story?id=134215675
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+The ruling is one of the most highly anticipated of the year.
+
+### Debris falls after plane hits Beijing's tallest building
+Source: BBC World
+Published: 2026-06-26 18:36 UTC
+URL: https://www.bbc.co.uk/news/videos/c8j2rjrzjero?at_medium=RSS&at_campaign=rss
+Source meta: public_broadcaster · generalist · R5 · P4 · baseline
+
+Social media footage showed the moment debris from a small aircraft fell to the ground after a crash into Beijing's tallest skyscraper.
+
+### Mother dies saving daughter in Venezuela earthquakes
+Source: BBC World
+Published: 2026-06-26 18:36 UTC
+URL: https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss
+Source meta: public_broadcaster · generalist · R5 · P4 · baseline
+
+Héctor Bello wrote on social media that "you gave your own life for our daughter" in the quakes which killed at least 920 people.
+
+### Venezuela earthquake LIVE updates: Toll climbs to 920; India sends aid
+Source: The Hindu
+Published: 2026-06-26 18:33 UTC
+URL: https://www.thehindu.com/news/international/venezuela-earthquakes-terremoto-caracas-magnitude-7-damages-death-toll-live-updates-june-26-2026/article71149145.ece
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+International search and rescue teams from at least 17 countries are being scrambled to Venezuela
+
+### ​Tragic evening: On the earthquake in Venezuela
+Source: The Hindu
+Published: 2026-06-26 18:32 UTC
+URL: https://www.thehindu.com/opinion/editorial/tragic-evening-on-the-earthquake-in-venezuela/article71150773.ece
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+Venezuela’s quake holds lessons on the importance of preparedness
+
+### DC reaches settlement with man who protested troops' patrol with Darth Vader song
+Source: ABC News
+Published: 2026-06-26 18:32 UTC
+URL: https://abcnews.com/US/wireStory/dc-reaches-court-settlement-man-detained-protesting-troops-134249966
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+The District of Columbia has reached a settlement agreement for an undisclosed amount of money with a resident who claims police illegally detained him for following an Ohio National Guard patrol while playing Darth Vader’s theme song from “Star Wars” ...
+
+### Heat catches Europe's fashion industry unprepared as models face the sun in fur and wool
+Source: PBS NewsHour World
+Published: 2026-06-26 18:22 UTC
+URL: https://www.pbs.org/newshour/world/heat-catches-europes-fashion-industry-unprepared-as-models-face-the-sun-in-fur-and-wool
+Source meta: public_broadcaster · generalist · R5 · P4 · baseline
+
+The most coveted accessory at the Paris Fashion Week shows this week was not a bag, a sneaker or a watch. It was an ice pack.
+
+### Europe's deadly heatwave breaks German record and halts public events
+Source: BBC World
+Published: 2026-06-26 18:14 UTC
+URL: https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss
+Source meta: public_broadcaster · generalist · R5 · P4 · baseline
+
+Germany's highest ever temperature of 41.3C is recorded provisionally in Saarbrücken, over the border from France.
+
+### US billionaire Leon Black defends US$158 million paid to Epstein
+Source: South China Morning Post
+Published: 2026-06-26 18:12 UTC
+URL: https://www.scmp.com/news/world/united-states-canada/article/3358570/us-billionaire-leon-black-defends-us158-million-paid-epstein?utm_source=rss_feed
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+Billionaire investor Leon Black said on Friday that Jeffrey Epstein deceived him during a years-long relationship in which he paid the disgraced financier US$158 million, but insisted he committed no criminal wrongdoing as he appeared before the House Oversight Committee. Black is the 16th person to appear before the committee as part of their broader investigation into the web of wealth and influence around Epstein. Before entering the closed-door deposition, congressman James Comer, the House...
+
+### Trump accuses Iran of ceasefire breach after Strait of Hormuz attack
+Source: BBC World
+Published: 2026-06-26 18:03 UTC
+URL: https://www.bbc.co.uk/news/articles/ckg54g0ry0vo?at_medium=RSS&at_campaign=rss
+Source meta: public_broadcaster · generalist · R5 · P4 · baseline
+
+A Singapore-flagged ship was struck crossing the waterway on Thursday, prompting a large-scale evacuation to be paused.
+
+### Trump threatens 100% tariff on countries that impose digital services tax
+Source: South China Morning Post
+Published: 2026-06-26 17:48 UTC
+URL: https://www.scmp.com/news/world/united-states-canada/article/3358569/trump-threatens-100-tariff-countries-impose-digital-services-tax?utm_source=rss_feed
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+US President Donald Trump on Friday threatened a 100 per cent tax on imports from any country that imposes a tax on digital services from American companies. In a post on social media, Trump took aim at European countries that he said are discussing “imminent” implementation of taxes on US companies. The president has repeatedly sought to use tariffs as a way to deter such taxes, but many countries are looking for revenues as their economies increasingly operate in digital realms that are...
+
+### UN says Iran nuclear pledge needs 'very strong' verification
+Source: The Hindu
+Published: 2026-06-26 17:44 UTC
+URL: https://www.thehindu.com/news/international/un-says-iran-nuclear-pledge-needs-very-strong-verification/article71151927.ece
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+### The best plays and musicals in London (and beyond) to book in 2026
+Source: The Telegraph
+Published: 2026-06-26 17:36 UTC
+URL: https://www.telegraph.co.uk/theatre/what-to-see/best-theatre-shows-plays-book-tickets-london-uk-performances/
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+These shows are the finest on stage, both the best-rated productions we have already seen and those to which we are most looking forward
+
+### IMO pauses its Gulf vessel evacuation plan after Iran attacks ship
+Source: The Hindu
+Published: 2026-06-26 17:36 UTC
+URL: https://www.thehindu.com/news/international/imo-pauses-its-gulf-vessel-evacuation-plan-after-iran-attacks-ship/article71151704.ece
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+The attack followed a joint declaration by the Gulf Cooperation Council (GCC) states, including Oman, after a meeting attended by the United States, stating that there should be no “tolls, fees, or attempts to assert control over the strait.”
+
+### Trump threatens 100% tax on European imports if countries impose tax on digital services
+Source: PBS NewsHour World
+Published: 2026-06-26 17:30 UTC
+URL: https://www.pbs.org/newshour/politics/trump-threatens-100-tax-on-european-imports-if-countries-impose-tax-on-digital-services
+Source meta: public_broadcaster · generalist · R5 · P4 · baseline
+
+"Please let this statement serve to represent that any Country that imposes such a Tax will immediately be met with a 100% TARIFF on any and all Goods sent to the United States of America," Trump wrote in a post on social media.
+
+### US strikes Iran after Trump says cargo ship attack violated ceasefire
+Source: South China Morning Post
+Published: 2026-06-26 17:10 UTC
+URL: https://www.scmp.com/news/world/middle-east/article/3358568/trump-says-iran-struck-ship-hormuz-calls-it-foolish-ceasefire-violation?utm_source=rss_feed
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+The US struck Iran on Friday in response to a drone attack a day earlier on a cargo ship in the Strait of Hormuz, a provocation President Donald Trump said violated the ceasefire between the two countries. US Central Command said the military struck missile and drone sites, as well as coastal radar locations in Iran, shortly after Trump hinted at retaliation when asked whether Tehran would face consequences. “We’ll find out,” Trump told reporters. Asked whether he still considered the ceasefire...
+
+### DR Congo takes Rwanda to international court over decades of conflict
+Source: BBC World
+Published: 2026-06-26 17:05 UTC
+URL: https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss
+Source meta: public_broadcaster · generalist · R5 · P4 · baseline
+
+Kinshasa accuses its neighbour of committing various violations since the 1994 Rwanda genocide.
 
 ### Why the Trump-Xi relationship may be the weakest link in US-China ties
 Source: South China Morning Post
@@ -945,110 +1413,6 @@ Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
 
 As the summit between Chinese President Xi Jinping and US President Donald Trump fades in the rear-view mirror, marked by anaemic deliverables, poor transparency and missed opportunities, analysts and former US officials point to another disappointment: the world’s most consequential relationship has become inordinately dependent on the two nations’ top leaders. Trump’s May China trip, the first by a US president in nearly a decade, produced vague and contradictory readouts, puffed up promises,...
 
-### Wetter: Temperaturrekord in Bayern - 40,7 Grad gemessen
-Source: Die Zeit
-Published: 2026-06-26 16:36 UTC
-URL: https://www.zeit.de/news/2026-06/26/temperaturrekord-in-bayern-40-7-grad-gemessen
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-### EU to refuse military-age Ukrainian men refugee protection
-Source: The Hindu
-Published: 2026-06-26 16:35 UTC
-URL: https://www.thehindu.com/news/international/eu-to-refuse-military-age-ukrainian-men-refugee-protection/article71151630.ece
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-### John Bolton, Former Trump Adviser, Pleads Guilty in Classified Information Case
-Source: The New York Times
-Published: 2026-06-26 16:35 UTC
-URL: https://www.nytimes.com/2026/06/26/us/politics/john-bolton-trump-classified-guilty-plea.html
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-Mr. Bolton admitted to mishandling classified information and could face time in prison, in an inquiry that spanned the Trump and Biden administrations.
-
-### UK June heat record broken again, France postpones Pride and Poland warns of wildfires as heatwave grips Europe – live
-Source: The Guardian
-Published: 2026-06-26 16:35 UTC
-URL: https://www.theguardian.com/environment/live/2026/jun/26/europe-heatwave-extreme-heat-red-alert-weather-uk-england-france-climate-crisis-latest-news-updates
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-Estimated 150 million people in Europe could experience temperatures above 35C today European heatwave is worst ever and impossible without climate crisis, scientists say Over in the UK, firefighters are still trying to bring a large wildfire in Derbyshire under control. The blaze, which has burned over 500 square metres of moorland and woodland on Tintwistle Moor, near Glossop, broke out on Wednesday evening, with fire crews from Manchester and Derbyshire deploying a water-dropping helicopter and six fire engines on Thursday. Continue reading...
-
-### UK June heat record broken again, France postpones Pride and Poland warns of wildfires as heatwave grips Europe – live
-Source: The Guardian World
-Published: 2026-06-26 16:35 UTC
-URL: https://www.theguardian.com/environment/live/2026/jun/26/europe-heatwave-extreme-heat-red-alert-weather-uk-england-france-climate-crisis-latest-news-updates
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-Estimated 150 million people in Europe could experience temperatures above 35C today European heatwave is worst ever and impossible without climate crisis, scientists say Over in the UK, firefighters are still trying to bring a large wildfire in Derbyshire under control. The blaze, which has burned over 500 square metres of moorland and woodland on Tintwistle Moor, near Glossop, broke out on Wednesday evening, with fire crews from Manchester and Derbyshire deploying a water-dropping helicopter and six fire engines on Thursday. Continue reading...
-
-### Mistrial for Man Accused of Starting One of California’s Worst Fires
-Source: The New York Times
-Published: 2026-06-26 16:34 UTC
-URL: https://www.nytimes.com/2026/06/26/us/rinderknecht-mistrial-palisades-fire-los-angeles.html
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-Jonathan Rinderknecht was accused of setting a brush fire that later became the deadly Palisades fire. The jury could not reach a verdict on the three arson-related charges.
-
-### ‘This time’: The World Cup commercials capturing Egypt’s soaring hopes
-Source: Al Jazeera
-Published: 2026-06-26 16:32 UTC
-URL: https://www.aljazeera.com/news/2026/6/26/this-time-the-world-cup-commercials-capturing-egypts-soaring-hopes?traffic_source=rss
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-The advertisements play on Egypt's poor World Cup record — and the belief that 2026 is different. So far, they ring true
-
-### Senior Trump official’s claims about UK free speech arrests rejected by No 10
-Source: The Guardian
-Published: 2026-06-26 16:31 UTC
-URL: https://www.theguardian.com/uk-news/2026/jun/26/sarah-rogers-claims-uk-free-speech-arrests
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-Sarah B Rogers speech at conference in London included far-right memes and conspiracy theories about ‘Da Yookay’ Claims by a senior official in the Trump administration that British police were making thousands of “freedom of speech” arrests have been rejected by the UK government. Sarah B Rogers, who has become the public face of the US state department’s hostility to European liberal democracies, was accused by MPs of echoing far-right memes and conspiracy theories during a speech at an international rightwing conference in London. She also referenced the death of Henry Nowak and a recent incident in which a child was thrown into a zoo’s crocodile pit. Continue reading...
-
-### Senior Trump official’s claims about UK free speech arrests rejected by No 10
-Source: The Guardian World
-Published: 2026-06-26 16:31 UTC
-URL: https://www.theguardian.com/uk-news/2026/jun/26/sarah-rogers-claims-uk-free-speech-arrests
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-Sarah B Rogers speech at conference in London included far-right memes and conspiracy theories about ‘Da Yookay’ Claims by a senior official in the Trump administration that British police were making thousands of “freedom of speech” arrests have been rejected by the UK government. Sarah B Rogers, who has become the public face of the US state department’s hostility to European liberal democracies, was accused by MPs of echoing far-right memes and conspiracy theories during a speech at an international rightwing conference in London. She also referenced the death of Henry Nowak and a recent incident in which a child was thrown into a zoo’s crocodile pit. Continue reading...
-
-### Fußball-WM 2026: Bastian Schweinsteiger wehrt sich gegen Rassismus-Vorwürfe
-Source: Die Zeit
-Published: 2026-06-26 16:31 UTC
-URL: https://www.zeit.de/sport/2026-05/fussball-wm-2026-liveblog
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-Nach Äußerungen in der ARD über »afrikanischen Fußball« wird Schweinsteiger Rassismus vorgeworfen. Er wehrt sich. Uruguays Team meutert gegen den Trainer. Das Liveblog
-
-### West Asia war LIVE: Trump blames Iran for drone strike on ship in Strait of Hormuz
-Source: The Hindu
-Published: 2026-06-26 16:30 UTC
-URL: https://www.thehindu.com/news/international/west-asia-war-iran-usa-israel-conflict-washington-tehran-peace-deal-donald-trump-strait-of-hormuz-live-updates-june-26-2026/article71149347.ece
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-Taiwanese shipping operator Evergreen Marine said one of its container ships was hit by an “unidentified object” in the Strait of Hormuz, but the crew, vessel and cargo were “unharmed”
-
-### Schwitzen in der Hauptstadt: Bis zu 41 Grad erwartet – Berlin bereitet sich auf Hitze vor
-Source: Die Zeit
-Published: 2026-06-26 16:29 UTC
-URL: https://www.zeit.de/news/2026-06/26/extremhitze-in-berlin-warnstufe-am-wochenende
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-### Zweite Fußball-Liga: Cuisance verlässt Hertha BSC Richtung Lens
-Source: Die Zeit
-Published: 2026-06-26 16:29 UTC
-URL: https://www.zeit.de/news/2026-06/26/cuisance-verlaesst-hertha-bsc-richtung-lens
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-### Watch: Venezuela earthquake: death toll shoots to 589, several countries to the rescue
-Source: The Hindu
-Published: 2026-06-26 16:28 UTC
-URL: https://www.thehindu.com/videos/watch-venezuela-earthquake-death-toll-shoots-to-589-several-countries-to-the-rescue/article71151761.ece
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-The death toll from two powerful earthquakes in Venezuela rose to 589, with 2,980 injured, acting President Delcy Rodríguez said early on Friday, June 26. Rescuers were boosted by international teams, as they raced to find survivors beneath collapsed buildings. India too has stepped in to help, with two Indian Air Force C-17s taking-off with medical teams and 35 tons of emergency supplies, as well as a military field hospital, as announced by External Affairs Minister S Jaishankar on Friday.
-
 ### Hunger crisis warning as paramilitary activity escalates around new Sudanese city
 Source: The Telegraph
 Published: 2026-06-26 16:28 UTC
@@ -1056,52 +1420,6 @@ URL: https://www.telegraph.co.uk/global-health/terror-and-security/sudan-war-el-
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
 
 World Food Programme says a new wave of violence and mass displacement in El Obeid threatens to worsen an ‘already catastrophic’ scenario
-
-### Hezbollah: Israel must ‘unconditionally’ leave Lebanon
-Source: Al Jazeera
-Published: 2026-06-26 16:27 UTC
-URL: https://www.aljazeera.com/video/newsfeed/2026/6/26/aje-onl-nf_hezbollah_israel-must-unconditionally-leave-lebanon-260626?traffic_source=rss
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-Hezbollah says Israel has "no option" but to “unconditionally” withdraw from southern Lebanon and other occupied areas.
-
-### Höchsttemperatur in Deutschland: Wetterdienst misst in Saarbrücken mit 41,3 Grad neue Höchsttemperatur
-Source: Die Zeit
-Published: 2026-06-26 16:25 UTC
-URL: https://www.zeit.de/gesellschaft/zeitgeschehen/2026-06/temperaturrekord-deutschland-40-grad-hitze-juni
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-Der Deutsche Wetterdienst hat mit 41,3 Grad die höchste Temperatur registriert, die jemals in Deutschland gemessen wurde. In Saarbrücken herrschten um 17 Uhr 41,3 Grad.
-
-### Thüringer Landtag: AfD und Linke überstimmen Brombeer-Koalition
-Source: Die Zeit
-Published: 2026-06-26 16:24 UTC
-URL: https://www.zeit.de/news/2026-06/26/afd-und-linke-ueberstimmen-brombeer-koalition
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-### Iran Asserts Authority Over Strait of Hormuz After Attacking Cargo Ship
-Source: The New York Times
-Published: 2026-06-26 16:21 UTC
-URL: https://www.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-The president did not say how or whether he would respond, a day after Iran fired on a container ship that was transiting the Strait of Hormuz, an act Mr. Trump called “foolish.”
-
-### In Cuba, Where So Many Have Left, These Artists Have Stayed
-Source: The New York Times
-Published: 2026-06-26 16:20 UTC
-URL: https://www.nytimes.com/2026/06/26/opinion/cuba-migration-havana-artists.html
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-Four young Cubans grapple with what it means to stay on an island facing unprecedented migration.
-
-### Why did these World Cup ads strike a nerve in Egypt?
-Source: Al Jazeera
-Published: 2026-06-26 16:15 UTC
-URL: https://www.aljazeera.com/video/newsfeed/2026/6/26/why-did-these-world-cup-ads-strike-a-nerve-in-egypt?traffic_source=rss
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-Why did these World Cup ads strike a nerve in Egypt?
 
 ### Kenya: DPP Closes Case in Sh8.2bn Meth Bust As Six Iranians Await Fate in Landmark Drug Trafficking Trial
 Source: AllAfrica
@@ -1111,22 +1429,6 @@ Source meta: public_broadcaster · generalist · R5 · P4 · baseline
 
 [Capital FM] Nairobi -- The Office of the Director of Public Prosecutions (DPP) has closed its case against six Iranian nationals accused of trafficking more than one tonne of methamphetamine worth Sh8.2 billion, paving the way for the court to determine whether they have a case to answer.
 
-### Carney announces contest to revamp uninhabitable Canadian PM residence
-Source: The Guardian
-Published: 2026-06-26 16:09 UTC
-URL: https://www.theguardian.com/world/2026/jun/26/mark-carney-contest-canada-prime-minister-residence
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-Various issues – including a rodent infestation and mould – have left the historic, sprawling Ottawa estate empty 10 Downing Street has two things: mice and a chief mouser . For more than a decade, an officially recognized feline has kept the residence’s rodent infestation to a minimum. Over a similar period, the official residence of Canada’s prime minister has seen an unchecked explosion of rodents. Continue reading...
-
-### Carney announces contest to revamp uninhabitable Canadian PM residence
-Source: The Guardian World
-Published: 2026-06-26 16:09 UTC
-URL: https://www.theguardian.com/world/2026/jun/26/mark-carney-contest-canada-prime-minister-residence
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-Various issues – including a rodent infestation and mould – have left the historic, sprawling Ottawa estate empty 10 Downing Street has two things: mice and a chief mouser . For more than a decade, an officially recognized feline has kept the residence’s rodent infestation to a minimum. Over a similar period, the official residence of Canada’s prime minister has seen an unchecked explosion of rodents. Continue reading...
-
 ### Nigeria: President Tinubu Approves National Health Technology and Data Analytics Office, Appoints Obi Adigwe National Coordinator
 Source: AllAfrica
 Published: 2026-06-26 16:07 UTC
@@ -1134,22 +1436,6 @@ URL: https://allafrica.com/stories/202606260493.html
 Source meta: public_broadcaster · generalist · R5 · P4 · baseline
 
 [State Department] President Bola Tinubu has approved the establishment of the National Health Technology and Data Analytics Office (NHTDAO) and appointed Dr Obi Adigwe as the pioneer National Coordinator.
-
-### Mother dies saving daughter in Venezuela earthquakes
-Source: BBC World
-Published: 2026-06-26 16:07 UTC
-URL: https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss
-Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-
-Héctor Bello wrote on social media that "you gave your own life for our daughter" in the quakes which killed at least 589 people.
-
-### Watch: Eight arrested over Ram temple donations scandal | Above the Fold | 26.06.2026
-Source: The Hindu
-Published: 2026-06-26 16:05 UTC
-URL: https://www.thehindu.com/videos/watch-eight-arrested-over-ram-temple-donations-scandal-above-the-fold-26062026/article71151411.ece
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-From arrests over the alleged embezzlement of Ram temple donations and a standoff between Nihang Sikhs and the police in Uttarakhand, to the release of the names of servicemen who died during Operation Sindoor, the rising death toll from Venezuela’s earthquakes, revised fuel prices, higher Apple product prices, FIFA highlights, and more.
 
 ### South Africa: South Africans Lose Income As Immigrants Flee
 Source: AllAfrica
@@ -1167,30 +1453,6 @@ Source meta: public_broadcaster · generalist · R5 · P4 · baseline
 
 [allAfrica] Mombasa, Kenya -- The blue economy is a vital source of jobs, food security, and economic opportunity across Africa and the Western Indian Ocean region. Yet, by the admission of those driving its development, the region is still only beginning to tap into what its oceans, lakes, and rivers can truly offer.
 
-### Venezuela earthquake LIVE updates: India sends medical teams, supplies, military field hospital to Venezuela
-Source: The Hindu
-Published: 2026-06-26 16:02 UTC
-URL: https://www.thehindu.com/news/international/venezuela-earthquakes-terremoto-caracas-magnitude-7-damages-death-toll-live-updates-june-26-2026/article71149145.ece
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-The death toll from two powerful earthquakes in Venezuela rose to 589, with 2,980 injured, acting President Delcy Rodríguez said
-
-### Utah governor restricts fireworks as largest US wildfire surges uncontained
-Source: ABC News
-Published: 2026-06-26 16:00 UTC
-URL: https://abcnews.com/US/wireStory/utah-governor-restricts-fireworks-largest-us-wildfire-surges-134245225
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-Utah's governor has restricted fireworks as the largest wildfire in the nation continues to grow
-
-### Norway vs France LIVE: FIFA World Cup 2026
-Source: Al Jazeera
-Published: 2026-06-26 16:00 UTC
-URL: https://www.aljazeera.com/sports/liveblog/2026/6/26/norway-vs-france-live-fifa-world-cup-2026?traffic_source=rss
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-Follow live updates from the blockbuster clash in Group I - including the build-up, analysis and live text commentary.
-
 ### The best family hotels in Amsterdam
 Source: The Telegraph
 Published: 2026-06-26 16:00 UTC
@@ -1207,14 +1469,6 @@ Source meta: public_broadcaster · generalist · R5 · P4 · baseline
 
 [FrontPageAfrica] Vice President Jeremiah Koung has announced President Joseph Nyuma Boakai's intention to seek a second term in the 2039 Presidential and Legislative Elections and said he will serve as the president's campaign manager.
 
-### Earthquake hits close to Japan’s Mount Fuji, no tsunami expected
-Source: The Straits Times – Asia
-Published: 2026-06-26 15:46 UTC
-URL: https://www.straitstimes.com/asia/east-asia/earthquake-hits-close-to-japans-mount-fuji-no-tsunami-expected
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-There were no immediate reports of casualties.
-
 ### Palestinians grieve for a father-to-be shot by Israeli troops the day his son was born
 Source: NPR World
 Published: 2026-06-26 15:45 UTC
@@ -1222,22 +1476,6 @@ URL: https://www.npr.org/2026/06/26/nx-s1-5828767/israel-palestinian-man-killed-
 Source meta: public_broadcaster · generalist · R5 · P4 · baseline
 
 Nayef Samaro, 25, was killed in an Israeli military raid on Nablus, in the occupied West Bank, as he prepared to meet his wife at the hospital for the birth of their first child.
-
-### Utah weather conditions trigger historic red flag warning as wildfires rage in state
-Source: NBC News
-Published: 2026-06-26 15:43 UTC
-URL: https://www.nbcnews.com/news/us-news/utah-weather-conditions-trigger-historic-red-flag-warning-wildfires-ra-rcna351929
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-The National Weather Service in Salt Lake City issued a red flag warning Friday morning as emergency workers continued to battle one of the state’s largest wildfires in its history.
-
-### Four men held over child marriage in Sierra Leone appear in landmark court case
-Source: BBC World
-Published: 2026-06-26 15:34 UTC
-URL: https://www.bbc.co.uk/news/articles/c9q212y8p21o?at_medium=RSS&at_campaign=rss
-Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-
-It relates to a 17-year-old girl - four men including her father and husband face years in jail if convicted.
 
 ### Germany Christmas market attacker, a Saudi psychiatrist, sentenced to life
 Source: South China Morning Post
@@ -1247,21 +1485,13 @@ Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
 
 A German court on Friday jailed for life a Saudi psychiatrist who killed six people and wounded more than 300 when he drove a rented SUV through a crowded Christmas market in 2024. Taleb Jawad al-Abdulmohsen, 51 – an anti-Islam activist and adherent to right-wing conspiracy theories – listened to the verdict from inside a bulletproof glass box, his hands shackled. He was convicted of six counts of murder and 338 counts of attempted murder by the court in the eastern city of Magdeburg. Judges...
 
-### Pope Leo XIV to hold mass for 500,000 on Paris' Champs-Elysées in September
+### Pope Leo XIV to hold mass for 500,000 on Paris's Champs-Elysées in September
 Source: Le Monde English – Europe
 Published: 2026-06-26 15:18 UTC
 URL: https://www.lemonde.fr/en/religions/article/2026/06/26/pope-leo-xiv-to-hold-mass-for-500-000-on-paris-champs-elysees-in-september_6754906_63.html
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
 
 The September 25-28 papal travel will mark the first state visit to France by a pope in 18 years, with stops planned in Lourdes and Metz after Paris.
-
-### EU targets Somalia with visa curbs as president pushes back on returns
-Source: Al Jazeera
-Published: 2026-06-26 15:18 UTC
-URL: https://www.aljazeera.com/news/2026/6/26/eu-targets-somalia-with-visa-curbs-as-president-pushes-back-on-returns?traffic_source=rss
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-President says his country will readmit genuine nationals but insists Europe must first verify deportees' identities.
 
 ### Marlborough racing tips and best bets for today’s races
 Source: The Telegraph
@@ -1279,14 +1509,6 @@ Source meta: public_broadcaster · generalist · R5 · P4 · baseline
 
 Ukraine launched a major nighttime attack on a dozen Russian regions, Russian-held Crimea and the surrounding seas, and Russia attacked various regions of Ukraine, as their war grinds on.
 
-### From The Sports Desk: The U.S. lost, but also saw return of star Christian Pulisic
-Source: NBC News
-Published: 2026-06-26 15:06 UTC
-URL: https://www.nbcnews.com/sports/soccer/sports-newsletter-us-lost-got-star-christian-pulisic-back-injury-rcna351917
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-The United States lost last night, 3-2, on a late goal by Turkey. But the biggest development? Star Christian Pulisic returned from injury and showed he was healthy in time for the knockout stage.
-
 ### Plane crashes into Beijing's tallest building; damage reported
 Source: NPR World
 Published: 2026-06-26 15:05 UTC
@@ -1294,30 +1516,6 @@ URL: https://www.npr.org/2026/06/26/g-s1-130388/beijings-tallest-building-is-dam
 Source meta: public_broadcaster · generalist · R5 · P4 · baseline
 
 The cause of the damage could not be independently verified, and authorities did not immediately issue a statement on the incident.
-
-### Former US national security adviser John Bolton pleads guilty to illegally keeping secret info
-Source: South China Morning Post
-Published: 2026-06-26 15:01 UTC
-URL: https://www.scmp.com/news/world/united-states-canada/article/3358563/former-us-national-security-adviser-john-bolton-pleads-guilty-illegally-having-top-secret-info?utm_source=rss_feed
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-Former Trump administration national security adviser John Bolton pleaded guilty on Friday to illegally retaining classified information, sealing a deal with federal prosecutors that could allow him to avoid a prison term. Bolton, who became an outspoken critic of President Donald Trump after serving in the Republican’s first administration, is scheduled to be sentenced on October 28 by US District Judge Theodore Chuang in Greenbelt, Maryland. Bolton, 77, pleaded guilty to a single count of...
-
-### Weeds, peat-free soil and lawn stripes: Wimbledon’s head gardener answers your questions
-Source: The Telegraph
-Published: 2026-06-26 15:00 UTC
-URL: https://www.telegraph.co.uk/recommended/garden/maintenance/martyn-falconer-readers-ask/
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-Ahead of the 2026 Championships, we spoke to Martyn Falconer about his gardening tips and experiences
-
-### Why has the UN paused plans to evacuate sailors from the Strait of Hormuz?
-Source: Al Jazeera
-Published: 2026-06-26 14:59 UTC
-URL: https://www.aljazeera.com/news/2026/6/26/why-has-the-un-paused-plans-to-evacuate-sailors-from-the-strait-of-hormuz?traffic_source=rss
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-A cargo vessel had been struck by a projectile near Oman, as Iran says all ships must pass with its permission.
 
 ### Mediators worked through threats and strikes to broker the U.S.-Iran deal, and challenges remain
 Source: PBS NewsHour World
@@ -1335,51 +1533,11 @@ Source meta: public_broadcaster · generalist · R5 · P4 · baseline
 
 [allAfrica]
 
-### Stocks drop in tech sell-off
-Source: The Telegraph
-Published: 2026-06-26 14:35 UTC
-URL: https://www.telegraph.co.uk/business/2026/06/26/ai-stocks-bubble-ftse-100-wall-street-markets-apple/
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-Stocks drop in tech sell-off
-
-### Plane crashed into Beijing's tallest building, witnesses say
-Source: Sky News
-Published: 2026-06-26 14:14 UTC
-URL: https://news.sky.com/story/plane-crashed-into-beijings-tallest-building-witnesses-say-13558050
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-A plane crashed into Beijing's tallest building on Friday, witnesses said, as roads around the skyscraper were closed off.
-
-### Education Bureau to deny pay rise to worker after SMS blunder over school places
-Source: South China Morning Post
-Published: 2026-06-26 14:10 UTC
-URL: https://www.scmp.com/news/hong-kong/education/article/3358560/education-bureau-deny-pay-rise-worker-after-sms-blunder-over-school-places?utm_source=rss_feed
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-Hong Kong authorities have penalised an Education Bureau staff member over a Primary One admission allocation blunder after human error was found to be involved, with the officer to be denied a pay rise and transferred to other roles. The government on Friday revealed the results of its investigation into the incident on June 2 when parents received SMS notifications about their children’s primary school allocations, a day before the official announcement. The bureau’s hotline was flooded with...
-
 ### Small aircraft crashes into Beijing's tallest building, eyewitnesses say
 Source: Channel News Asia – Asia
 Published: 2026-06-26 14:05 UTC
 URL: https://www.channelnewsasia.com/east-asia/china-aircraft-crash-citic-tower-beijing-6213446
 Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-
-### Small aircraft crashes into Beijing's tallest building, eyewitnesses say
-Source: The Hindu
-Published: 2026-06-26 14:00 UTC
-URL: https://www.thehindu.com/news/international/small-aircraft-crashes-into-china-beijings-tallest-building-citic-tower/article71150999.ece
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-Two glass panels on a high floor were damaged. There was no immediate official comment.
-
-### Why is no one chartering China’s first privately owned research vessel?
-Source: South China Morning Post
-Published: 2026-06-26 14:00 UTC
-URL: https://www.scmp.com/news/china/science/article/3358496/why-no-one-chartering-chinas-first-privately-owned-research-vessel?utm_source=rss_feed
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-The first scientific ship built by private interests in China is still waiting for its first assignment after it launched last month near Wenling, in Zhejiang province, on the east coast, according to Chinese media reports. The 82 metre-long (269-foot), 3,500-tonne Haiying Jiake research vessel was built with 150 million yuan (US$22 million) raised by 37 Zhejiang fishermen. It is designed to operate anywhere in the world’s oceans, including in thin sea ice, and support research ranging from...
 
 ### Why is no one chartering China’s first privately owned research vessel?
 Source: SCMP China
@@ -1389,14 +1547,6 @@ Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
 
 The first scientific ship built by private interests in China is still waiting for its first assignment after it launched last month near Wenling, in Zhejiang province, on the east coast, according to Chinese media reports. The 82 metre-long (269-foot), 3,500-tonne Haiying Jiake research vessel was built with 150 million yuan (US$22 million) raised by 37 Zhejiang fishermen. It is designed to operate anywhere in the world’s oceans, including in thin sea ice, and support research ranging from...
 
-### Small aircraft crashes into Beijing’s tallest building, say witnesses
-Source: The Straits Times – Asia
-Published: 2026-06-26 13:56 UTC
-URL: https://www.straitstimes.com/asia/east-asia/small-aircraft-crashes-into-beijings-tallest-building-eyewitnesses-say
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-CITIC Tower, or China Zun, is a 108-storey skyscraper in Beijing’s central business district.
-
 ### Neighbors dig through Venezuela rubble to search for loved ones as death toll climbs
 Source: PBS NewsHour World
 Published: 2026-06-26 13:55 UTC
@@ -1404,38 +1554,6 @@ URL: https://www.pbs.org/newshour/world/neighbors-dig-through-venezuela-rubble-t
 Source meta: public_broadcaster · generalist · R5 · P4 · baseline
 
 In cities across northern Venezuela, neighbors helped each other dig through rubble to search for loved ones, after back-to-back earthquakes killed at least 589 people and left thousands injured.
-
-### WATCH: Car explosion sparks wildfire in Arizona
-Source: ABC News
-Published: 2026-06-26 13:52 UTC
-URL: https://abcnews.com/video/134234309/
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-A massive car explosion caught on camera sparked a wildfire in Arizona, forcing the closure of Highway 87 outside of Phoenix.
-
-### Can Dem veterans running for Congress reclaim the patriotism narrative from the GOP?
-Source: ABC News
-Published: 2026-06-26 13:52 UTC
-URL: https://abcnews.com/Politics/democratic-veterans-running-congress-reclaim-patriotism-narrative-gop/story?id=133798668
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-Can Democrats reclaim the mantle of patriotism? They’re leaning on a slate of military veterans running for Congress in the 2026 midterms to try.
-
-### ‘Digital ID cards’: China moves to regulate AI agents with unified identity system
-Source: South China Morning Post
-Published: 2026-06-26 13:45 UTC
-URL: https://www.scmp.com/tech/policy/article/3358559/digital-id-cards-china-moves-regulate-ai-agents-unified-identity-system?utm_source=rss_feed
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-China is establishing an identity system for artificial intelligence agents, as part of new national standards released on Friday to regulate the next frontier of autonomous technology. The State Administration for Market Regulation (SAMR) unveiled the standard for “Artificial Intelligence Agent Interconnection”, aiming to establish a “closed-loop system” with a unified identity management framework for all AI agents, according to a report from state broadcaster China Central Television...
-
-### Canada eligible to join Eurovision competition
-Source: BBC World
-Published: 2026-06-26 13:41 UTC
-URL: https://www.bbc.co.uk/news/articles/cy06yzp4r0eo?at_medium=RSS&at_campaign=rss
-Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-
-Prime Minister Mark Carney raised the idea of Canada joining the song contest in his 2025 budget.
 
 ### Strong earthquake jolts Yamanashi and Kanagawa amid landslide fears
 Source: The Japan Times
@@ -1453,14 +1571,6 @@ Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
 
 A light sport aircraft hit Beijing’s tallest skyscraper, Citic Tower, on Friday, triggering evacuations and scattering debris across the Chinese capital’s central business district. It was not immediately clear whether the crash caused any casualties or how many people had been on board the aircraft. The origin of the aerial vehicle and the circumstances leading to the crash were also unknown. Videos posted to social media showed the aircraft striking the upper floors of the 528-metre...
 
-### Venezuela earthquakes live updates: Death toll rises to at least 589, president says
-Source: ABC News
-Published: 2026-06-26 13:19 UTC
-URL: https://abcnews.com/International/live-updates/venezuela-earthquakes-updates/?id=134196335
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-Two powerful earthquakes struck Venezuela on Wednesday evening.
-
 ### Australia plans to strengthen laws banning children from social media
 Source: NPR World
 Published: 2026-06-26 13:09 UTC
@@ -1477,30 +1587,6 @@ Source meta: public_broadcaster · generalist · R5 · P4 · baseline
 
 The former first lady had previously been sentenced to four years in a separate case involving the Unification Church.
 
-### US sanctions Rwanda gold refinery accused of smuggling DR Congo's minerals
-Source: BBC World
-Published: 2026-06-26 12:54 UTC
-URL: https://www.bbc.co.uk/news/articles/c9d268xy90xo?at_medium=RSS&at_campaign=rss
-Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-
-The US alleges Gasabo Gold Refinery smuggled at least 60kg of gold in early 2026.
-
-### 6.5-magnitude tremor strikes off quake-hit southern Philippines
-Source: The Straits Times – Asia
-Published: 2026-06-26 12:53 UTC
-URL: https://www.straitstimes.com/asia/se-asia/magnitude-6-7-quake-hits-off-southern-philippines-usgs
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-A major tremor struck the same area less than three weeks earlier.
-
-### Tomatoes and radishes with buttermilk and dill
-Source: The Telegraph
-Published: 2026-06-26 12:51 UTC
-URL: https://www.telegraph.co.uk/recipes/everyday/vegetarian/tomatoes-and-radishes-with-buttermilk-and-dill/
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-Team this easy dish with salmon, cheese or even fish cakes
-
 ### Europe wants a new Plaza Accord for China – seriously?
 Source: SCMP China
 Published: 2026-06-26 12:30 UTC
@@ -1508,14 +1594,6 @@ URL: https://www.scmp.com/opinion/china-opinion/article/3358271/europe-wants-new
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
 
 Leaders of the G7 rich nations might have gone into this month’s summit in France hoping for a united front against China. But, overshadowed by the conflicts in Iran and Ukraine and alienated by a mercurial US President Donald Trump, the lacklustre gathering came up short. There was no public agreement on how to address the so-called China shock 2.0, the supposed overcapacity issues and currency manipulation that is considered to be the cause of Chinese exports flooding into Europe. Instead of...
-
-### Seoul subway to ban e-scooters, large lithium batteries from July 1
-Source: The Straits Times – Asia
-Published: 2026-06-26 12:11 UTC
-URL: https://www.straitstimes.com/asia/east-asia/seoul-subway-to-ban-e-scooters-large-lithium-batteries-from-july-1
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-Four incidents involving passengers' portable batteries have been reported in Seoul so far in 2026.
 
 ### When geography is destiny, Gulf states must diversify their defence, expert says in Dalian
 Source: SCMP China
@@ -1531,38 +1609,6 @@ Published: 2026-06-26 11:52 UTC
 URL: https://www.channelnewsasia.com/asia/malaysia-ai-chip-smuggling-foil-bid-6213141
 Source meta: public_broadcaster · generalist · R5 · P4 · baseline
 
-### UN pauses Strait of Hormuz evacuation plan after cargo ship attacked
-Source: BBC World
-Published: 2026-06-26 11:27 UTC
-URL: https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss
-Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-
-The ship was reportedly struck by an "unknown projectile" near Oman but no casualties were reported.
-
-### Iran Launches New Attack on Ship Passing Through Hormuz
-Source: NBC News
-Published: 2026-06-26 11:24 UTC
-URL: https://www.today.com/video/iran-launches-new-attack-on-ship-passing-through-hormuz-265728581995
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-There are new concerns over the fragile deal between the United States and Iran after Iran’s armed forces attacked a cargo ship passing through the Strait of Hormuz on Thursday. The attack paused traffic and is compromising efforts to restore shipping through the vital waterway. NBC’s Kelly O’Donnell reports for TODAY.
-
-### Rescuers scramble to find Venezuela earthquake survivors. And, SCOTUS rules on asylum
-Source: NPR World
-Published: 2026-06-26 11:22 UTC
-URL: https://www.npr.org/2026/06/26/g-s1-130361/up-first-newsletter-venezuela-earthquakes-asylum-claims-farmers
-Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-
-Rescuers are searching for thousands of people missing after two earthquakes struck Venezuela on Wednesday. And, the Supreme Court says the U.S. can turn away asylum seekers at the border.
-
-### Venezuelan Reporter Gives Update on Rescues After Twin Quakes
-Source: NBC News
-Published: 2026-06-26 11:15 UTC
-URL: https://www.today.com/video/on-the-ground-venezuelan-reporter-details-earthquake-rescues-265727557759
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-Ana Vanessa Herrero, a journalist based in Caracas, joins TODAY with an update on Day 2 of the rescue efforts, highlighting the challenges crews are facing and the desperate search for the missing by families, including her own search for her friend.
-
 ### EU hits France's Sanofi with flu vaccine antitrust probe
 Source: Le Monde English – Europe
 Published: 2026-06-26 11:03 UTC
@@ -1570,30 +1616,6 @@ URL: https://www.lemonde.fr/en/economy/article/2026/06/26/eu-hits-france-s-sanof
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
 
 The investigation centers on how the firm marketed an enhanced flu vaccine, offered under the brand name Efluelda and designed to provide greater protection for people over 60.
-
-### Rare coral reef blue hole found in South China Sea
-Source: The Straits Times – Asia
-Published: 2026-06-26 10:44 UTC
-URL: https://www.straitstimes.com/asia/east-asia/rare-coral-reef-blue-hole-found-in-south-china-sea
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-Typical coral reef biological communities are thriving inside the blue hole.
-
-### EU's von der Leyen to go to Armenia and Azerbaijan next week
-Source: The Straits Times – Asia
-Published: 2026-06-26 10:31 UTC
-URL: https://www.straitstimes.com/asia/eus-von-der-leyen-to-go-to-armenia-and-azerbaijan-next-week
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-BRUSSELS, June 26 - European Commission President Ursula von der Leyen will go to Armenia next week, said the EU on Friday, in a move aimed at highlighting Brussels' support for Armenia as it faces political pressure from Russia.
-
-### Supreme Court allows cancellation of TPS for Haitians, Syrians,
-Source: ABC News
-Published: 2026-06-26 10:25 UTC
-URL: https://abcnews.com/Politics/supreme-court-allows-trump-administrations-cancellation-tps-haitians/story?id=132122359
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-The Supreme Court ruled Thursday that the Trump administration can cancel the temporary protected status (TPS) for thousands of Haitian and Syrian immigrants.
 
 ### Johor polls: What to watch ahead of Nomination Day and what’s at stake
 Source: Channel News Asia – Asia
@@ -1651,15 +1673,7 @@ Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
 
 The proposed law would prohibit publicly damaging, removing or defacing the national flag in a way that "causes extreme discomfort or disgust to others."
 
-### Prime Day discounts end tonight: Shop these 369+ worth-it deals before they’re over from Apple, Le Creuset, Tarte and more
-Source: NBC News
-Published: 2026-06-26 09:09 UTC
-URL: https://www.nbcnews.com/select/shopping/best-amazon-prime-day-deals-2026-rcna351886
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-It’s the final day of Amazon Prime Day 2026, and we’re updating our list of editor-approved deals live. Shop tech, beauty, kitchen and more before the sale ends.
-
-### From foes to ‘great friends?’ Quakes test new U.S.-Venezuela relationship
+### From foes to ‘great friends’? Quakes test new U.S.-Venezuela relationship.
 Source: The Washington Post
 Published: 2026-06-26 09:00 UTC
 URL: https://www.washingtonpost.com/world/2026/06/26/quakes-give-us-opportunity-transform-venezuela-foe-friend/
@@ -1747,22 +1761,6 @@ Source meta: public_broadcaster · generalist · R5 · P4 · baseline
 
 The fight to rescue the stranded, care for the living and retrieve the dead accelerated in Venezuela after back-to-back major earthquakes centered near the capital, Caracas. The damage in places appears catastrophic and the U.S. Geological Survey estimates that a disaster of this scope may have killed as many as 10,000 people. Stephanie Sy reports.
 
-### Zelenskyy says Russia is shifting air defenses to protect Moscow and other key sites after drone strikes
-Source: PBS NewsHour World
-Published: 2026-06-25 22:52 UTC
-URL: https://www.pbs.org/newshour/world/zelenskyy-says-russia-is-shifting-air-defenses-to-protect-moscow-and-other-key-sites-after-drone-strikes
-Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-
-President Donald Trump praised Zelenskyy as "courageous," and Kyiv is hoping for continued support from G7 leaders.
-
-### Venezuela's earthquake response hindered by economic and political crises
-Source: PBS NewsHour World
-Published: 2026-06-25 22:50 UTC
-URL: https://www.pbs.org/newshour/show/venezuelas-earthquake-response-hindered-by-economic-and-political-crises
-Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-
-The U.S. and other nations are mobilizing relief efforts to assist the government in Venezuela following the twin earthquakes. Special correspondent Mónica Villamizar has extensive experience reporting in Venezuela and joined Amna Nawaz from Bogotá, Colombia, to discuss the latest developments.
-
 ### King Charles reveals his personal tax bill. Spoiler alert: He’s very rich.
 Source: The Washington Post
 Published: 2026-06-25 21:00 UTC
@@ -1786,14 +1784,6 @@ URL: https://www.washingtonpost.com/national-security/2026/06/25/rubios-new-job-
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
 
 Secretary of State Marco Rubio met with Arab Gulf leaders to reassure them that U.S. isn’t cutting them out of negotiations with Tehran.
-
-### Migrants not entitled to apply for asylum while standing on Mexico side of border, Supreme Court rules
-Source: The Washington Post
-Published: 2026-06-25 18:05 UTC
-URL: https://www.washingtonpost.com/politics/2026/06/25/migrants-not-entitled-apply-asylum-while-standing-mexico-side-border-supreme-court-rules/
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-The 6-3 decision clears the way for the Trump administration to resume allowing federal agents at the border to turn back asylum seekers before they enter.
 
 ### British TikToker could face death penalty after Dubai murder charge
 Source: Sky News
@@ -1834,6 +1824,14 @@ URL: https://news.sky.com/story/north-korean-soldier-crosses-border-into-south-k
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
 
 A North Korean soldier has been detained by South Korea's military after he crossed the heavily fortified border between the two countries.
+
+### Trump says 'courageous' Zelenskyy 'doing pretty well' in war with Russia
+Source: Sky News
+Published: 2026-06-24 22:02 UTC
+URL: https://news.sky.com/story/trump-says-courageous-zelenskyy-doing-pretty-well-in-war-with-russia-13557523
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+Donald Trump praised “courageous” Volodymyr Zelenskyy as he said the Ukrainian president was “doing pretty well” in the war against Russia.
 
 ### 澳枪击事件嫌疑人为父子：曾宣誓效忠“伊斯兰国”，行凶枪支为合法持有
 Source: The Paper 澎湃新闻
@@ -1964,6 +1962,13 @@ Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
 
 Source homepage / 来源主页
 
+### International Crisis Group
+Source: URL-only source / 仅网址源
+URL: https://www.crisisgroup.org/
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+Source homepage / 来源主页
+
 ### Latinvex
 Source: URL-only source / 仅网址源
 URL: https://latinvex.com/
@@ -1998,6 +2003,38 @@ URL: https://www.al-monitor.com/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
 
 Source homepage / 来源主页
+
+### Is Hezbollah Now More an Obligation Than an Asset to Tehran?
+Source: Foreign Policy
+Published: 2026-06-26 19:20 UTC
+URL: https://foreignpolicy.com/2026/06/26/iran-hezbollah-united-states-war-israel-lebanon-proxies/
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+How the war has shifted Iran’s relationship with its proxies.
+
+### The Art That Created Colonialism
+Source: Foreign Policy
+Published: 2026-06-26 19:00 UTC
+URL: https://foreignpolicy.com/2026/06/26/british-art-yale-east-india-company-colonialism-turner-india/
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+A new exhibition examines how Western art and colonial aggression made each other possible.
+
+### Trump threatens additional tariffs on European countries using digital service taxes
+Source: POLITICO Europe
+Published: 2026-06-26 18:11 UTC
+URL: https://www.politico.com/news/2026/06/26/trump-digital-service-taxes-europe-tariff-00978339?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+The president has previously argued such taxes discriminate against U.S. companies.
+
+### What in the World?
+Source: Foreign Policy
+Published: 2026-06-26 17:29 UTC
+URL: https://foreignpolicy.com/2026/06/26/news-quiz-colombia-election-right-wing-starmer-resign-uk-trump-rutte-nato/
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+Test yourself on the week of June 20: Colombia votes, Starmer resigns, and Rutte meets with Trump.
 
 ### Britain’s next leader faces a big call on North Sea drilling. Donald Trump is watching.
 Source: POLITICO Europe
@@ -2055,14 +2092,6 @@ Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
 
 A new report from Germany's Manager Magazin says CEO Oliver Blume has already presented his plans to the company's board.
 
-### EU Commission proposes excluding fighting-age men from Ukraine refugee scheme
-Source: POLITICO Europe
-Published: 2026-06-26 10:17 UTC
-URL: https://www.politico.eu/article/ukraine-refugees-eu-commission-excluding-fighting-age-men/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-The limitation wouldn't apply to those already under protection.
-
 ### China’s Failed Rebalancing
 Source: Project Syndicate
 Published: 2026-06-26 10:17 UTC
@@ -2103,30 +2132,6 @@ Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
 
 Should one company—and one person—have this much power?
 
-### Restocking the Pentagon
-Source: Foreign Policy
-Published: 2026-06-25 20:34 UTC
-URL: https://foreignpolicy.com/2026/06/25/trump-weapons-iran-lockheed-ukraine-nato-rutte/
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-Trump urges defense manufacturers to speed up weapons production after the Iran war.
-
-### Will Kenya’s Ruto Finally Reconcile with the Country’s Somali Minority?
-Source: Foreign Policy
-Published: 2026-06-25 20:34 UTC
-URL: https://foreignpolicy.com/2026/06/25/kenya-ruto-election-somali-democracy-nairobi-odinga/
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-The president has taken unprecedented steps to end a policy of exclusion, but suspicions remain.
-
-### As the Tide Turns Against Putin, Beware the Drowning Man
-Source: Foreign Policy
-Published: 2026-06-25 20:16 UTC
-URL: https://foreignpolicy.com/2026/06/25/russia-ukraine-war-putin-escalation-nato-europe/
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-Like a struggling swimmer, he may take desperate measures to stay afloat.
-
 ### The Tide Is Turning Against Russia
 Source: Project Syndicate
 Published: 2026-06-25 11:59 UTC
@@ -2143,54 +2148,6 @@ Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
 
 At their summit last month, US President Donald Trump and Chinese President Xi Jinping seemed to recognize that they are in the same boat. If either the United States or China tries to cripple or decouple from the other, it will harm its own firms, consumers, financial markets, and innovation ecosystem.
 
-### Washington 5 June 2026 #2
-Source: International Crisis Group
-Published: 2026-06-05 15:53 UTC
-URL: https://www.crisisgroup.org/content/washington-5-june-2026-2
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-Washington 5 June 2026 #2 lalasor Fri, 06/05/2026 - 17:53 Washington Fri, 06/05/2026 - 12:00 5 June 2026 The U.S. announced sanctions against "a network of individuals, entities and vessels responsible for shipping hundreds of millions of dollars’ worth of Iranian-origin liquid petroleum gas (LPG) - intentionally disguised as Omani LPG - to end users in South and East Asia".
-
-### Hormuz 5 June 2026 #1
-Source: International Crisis Group
-Published: 2026-06-05 15:52 UTC
-URL: https://www.crisisgroup.org/content/hormuz-5-june-2026-1
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-Hormuz 5 June 2026 #1 lalasor Fri, 06/05/2026 - 17:52 Strait of Hormuz Fri, 06/05/2026 - 12:00 5 June 2026 U.S. Indo-Pacific Command (INDOPACOM) reported that “U.S. forces carried out a maritime interdiction and right-of-visit boarding of the sanctions stateless vessel MT DAVINA located in the India Ocean… We will continue global maritime enforcement to disrupt illicit networks and interdict vessels providing material support to Iran, wherever they operate”. Iran’s army subsequently asserted that “after warning shots by the Qadir missile and the new Shahid Dana invading drones of the Islamic Republic of Iran’s Navy”, two U.S. destroyers “left the Sea of Oman toward the Indian Ocean”. U.S. Central Command denied the claim, asserting that “Iranian forces did not attack or fire at U.S. Navy warships. Doing so would be a gross violation of the ceasefire”.
-
-### Tehran 5 June 2026 #1
-Source: International Crisis Group
-Published: 2026-06-05 15:50 UTC
-URL: https://www.crisisgroup.org/content/tehran-5-june-2026-1
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-Tehran 5 June 2026 #1 lalasor Fri, 06/05/2026 - 17:50 Tehran Fri, 06/05/2026 - 12:00 5 June 2026 U.S. Indo-Pacific Command (INDOPACOM) reported that “U.S. forces carried out a maritime interdiction and right-of-visit boarding of the sanctions stateless vessel MT DAVINA located in the India Ocean… We will continue global maritime enforcement to disrupt illicit networks and interdict vessels providing material support to Iran, wherever they operate”. Iran’s army subsequently asserted that “after warning shots by the Qadir missile and the new Shahid Dana invading drones of the Islamic Republic of Iran’s Navy”, two U.S. destroyers “left the Sea of Oman toward the Indian Ocean”. U.S. Central Command denied the claim, asserting that “Iranian forces did not attack or fire at U.S. Navy warships. Doing so would be a gross violation of the ceasefire”.
-
-### Washington 5 June 2026 #1
-Source: International Crisis Group
-Published: 2026-06-05 15:49 UTC
-URL: https://www.crisisgroup.org/content/washington-5-june-2026-1
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-Washington 5 June 2026 #1 lalasor Fri, 06/05/2026 - 17:49 Washington Fri, 06/05/2026 - 12:00 5 June 2026 U.S. Indo-Pacific Command (INDOPACOM) reported that “U.S. forces carried out a maritime interdiction and right-of-visit boarding of the sanctions stateless vessel MT DAVINA located in the India Ocean… We will continue global maritime enforcement to disrupt illicit networks and interdict vessels providing material support to Iran, wherever they operate”. Iran’s army subsequently asserted that “after warning shots by the Qadir missile and the new Shahid Dana invading drones of the Islamic Republic of Iran’s Navy”, two U.S. destroyers “left the Sea of Oman toward the Indian Ocean”. U.S. Central Command denied the claim, asserting that “Iranian forces did not attack or fire at U.S. Navy warships. Doing so would be a gross violation of the ceasefire”.
-
-### Lebanon 5 June 2026 #1
-Source: International Crisis Group
-Published: 2026-06-05 15:47 UTC
-URL: https://www.crisisgroup.org/content/lebanon-5-june-2026-1
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-Lebanon 5 June 2026 #1 lalasor Fri, 06/05/2026 - 17:47 Lebanon Fri, 06/05/2026 - 12:00 5 June 2026 Hizbollah reported conducting approximately 20 attacks on Israeli troops in southern Lebanon, while the Israeli military tallied that over the previous week, “ 650-plus Hizbollah targets were struck and 125-plus were eliminated” in southern Lebanon. Meanwhile, Lebanese President Joseph Aoun warned that Iran was “using Lebanon as a bargaining chip in their negotiations with the U.S. It is unacceptable”.
-
-### Israel 5 June 2026 #1
-Source: International Crisis Group
-Published: 2026-06-05 15:46 UTC
-URL: https://www.crisisgroup.org/content/israel-5-june-2026-1
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-Israel 5 June 2026 #1 lalasor Fri, 06/05/2026 - 17:46 Israel Fri, 06/05/2026 - 12:00 5 June 2026 Hizbollah reported conducting approximately 20 attacks on Israeli troops in southern Lebanon, while the Israeli military tallied that over the previous week, “ 650-plus Hizbollah targets were struck and 125-plus were eliminated” in southern Lebanon. Meanwhile, Lebanese President Joseph Aoun warned that Iran was “using Lebanon as a bargaining chip in their negotiations with the U.S. It is unacceptable”.
-
 ## rights humanitarian / 权利与人道
 
 ### UNHCR News
@@ -2199,6 +2156,38 @@ URL: https://www.unhcr.org/news/
 Source meta: institutional · primary · R5 · P4 · signal
 
 Source homepage / 来源主页
+
+### At Seattle World Cup, FIFA Lets Rainbow Flags Fly
+Source: Human Rights Watch
+Published: 2026-06-26 20:53 UTC
+URL: https://www.hrw.org/news/2026/06/26/at-seattle-world-cup-fifa-lets-rainbow-flags-fly
+Source meta: specialist_media · specialist · R4 · P5 · signal
+
+Click to expand Image Marchers with the Greater Seattle Business Association, Washington State's LGBTQ+ and allied chamber of commerce, during the annual Seattle Pride Parade, June 25, 2023. © 2023 Lindsey Wasson/AP Photo When the Egypt and Iran teams meet at Lumen Field in Seattle tonight, soccer fans will be free to wave the rainbow flag. The Fédération Internationale de Football Association (FIFA) confirmedThursday that it would not bar the symbol from the stadium over formal objections from both countries’ football federations. It is the right call. On June 25, FIFA called the tournament “an inclusive event that welcomes people from all backgrounds,” and said rainbow flags and other flags representing sexual orientation and gender identity are permitted under its stadium code of conduct, provided they are used in line with the rules. This announcement is overdue, especially after FIFA shamefully canceled its own anti-discrimination campaign for the 2025 FIFA Club World Cup.
+
+### Türkiye: Authorities must lift blanket protest ban ahead of NATO Summit and release scores of arbitrarily detained people
+Source: Amnesty International News
+Published: 2026-06-26 18:18 UTC
+URL: https://www.amnesty.org/en/latest/news/2026/06/turkiye-authorities-must-lift-blanket-protest-ban-ahead-of-nato-summit-and-release-scores-of-arbitrarily-detained-people/
+Source meta: specialist_media · specialist · R4 · P5 · signal
+
+Reacting to the start on Sunday of a 13-day blanket ban on protests in Ankara, and the imprisonment in pretrial detention of more than 100 people including lawyers, academics and activists ahead of the 36th NATO summit in Türkiye, Esther Major, Amnesty International’s Deputy Director Research for Europe, said: “The blanket ban on all protests […] The post Türkiye: Authorities must lift blanket protest ban ahead of NATO Summit and release scores of arbitrarily detained people appeared first on Amnesty International .
+
+### Kazakhstan: Authorities must end apparent reprisals against relatives of Atajurt activists
+Source: Amnesty International News
+Published: 2026-06-26 16:47 UTC
+URL: https://www.amnesty.org/en/latest/news/2026/06/kazakhstan-authorities-must-end-apparent-reprisals-against-relatives-of-atajurt-activists/
+Source meta: specialist_media · specialist · R4 · P5 · signal
+
+Responding to news that Kazakhstani authorities have detained Batikha Bilashkyzy, whose brother, Serikzhan Bilash, is a human rights defender and the founder of the Atajurt movement, Marie Struthers, Amnesty International’s Eastern Europe and Central Asia Director, said: “Batikha Bilashkyzy’s detention on apparently politically motivated and fabricated fraud charges is deeply alarming. She must be released […] The post Kazakhstan: Authorities must end apparent reprisals against relatives of Atajurt activists appeared first on Amnesty International .
+
+### Tunisia: 25-year-prison term for prominent human rights defender Sihem Bensedrine an outrageous injustice
+Source: Amnesty International News
+Published: 2026-06-26 15:54 UTC
+URL: https://www.amnesty.org/en/latest/news/2026/06/tunisia-25-year-prison-term-for-prominent-human-rights-defender-sihem-bensedrine-an-outrageous-injustice/
+Source meta: specialist_media · specialist · R4 · P5 · signal
+
+Responding to the news that a Tunisian court has sentenced Sihem Bensedrine to 25 years in prison after being convicted on bogus charges in connection with her work as the President of the Truth and Dignity Commission (IVD), Amnesty International’s Secretary General, Agnès Callamard said: “This verdict is an utter travesty of justice. It is outrageous […] The post Tunisia: 25-year-prison term for prominent human rights defender Sihem Bensedrine an outrageous injustice appeared first on Amnesty International .
 
 ### UN Urges Niger’s Junta to Free Leading Human Rights Defender
 Source: Human Rights Watch
@@ -2216,6 +2205,38 @@ Source meta: specialist_media · specialist · R4 · P5 · signal
 
 Click to expand Image A German police officer takes a man to a deportation flight to Pakistan, February 25, 2025, Hesse, Germany. © 2025 Boris Roessler/picture-alliance/dpa/AP Photo The European Union is forging ahead on its quest to increase deportations regardless of the consequences for people’s rights. On June 17, the European Parliament approved a Return Regulation that portends increased detention, forced removals, and externalization. Two days later, 19 EU states signed an open letter encouraging “full use of the new possibilities” of “return hubs.” The idea is to send people, including families with children, to somewhere outside the EU if they cannot be deported directly to their country of origin. It is unclear whether people will be detained wherever they go and for how long, whether they will be deported onward to their country of origin despite threats to their rights, or if they will have opportunities to rebuild their lives in a country to which they have no connection.
 
+### Sudan: Window is closing to prevent wider escalation in El Obeid
+Source: UN News
+Published: 2026-06-26 12:00 UTC
+URL: https://news.un.org/feed/view/en/story/2026/06/1167821
+Source meta: institutional · primary · R5 · P4 · baseline
+
+A senior United Nations official warned on Friday that the opportunity to prevent a major escalation in the Sudanese city of El Obeid is “rapidly narrowing” as fighting intensifies in and around the North Kordofan state capital.
+
+### Guterres urges renewed commitment to multilateralism on UN Charter Day
+Source: UN News
+Published: 2026-06-26 12:00 UTC
+URL: https://news.un.org/feed/view/en/story/2026/06/1167820
+Source meta: institutional · primary · R5 · P4 · baseline
+
+Secretary-General António Guterres and General Assembly President Annalena Baerbock reaffirmed the principles outlined in the UN Charter and called for a renewed commitment to multilateralism at a General Assembly meeting on Friday marking the Charter’s 81st anniversary.
+
+### Strait of Hormuz: UN evacuates 2,500 seafarers before attack freezes rescue operation
+Source: UN News
+Published: 2026-06-26 12:00 UTC
+URL: https://news.un.org/feed/view/en/story/2026/06/1167818
+Source meta: institutional · primary · R5 · P4 · baseline
+
+The United Nations’ maritime agency said on Friday that it had successfully evacuated about 2,500 stranded seafarers from the Persian Gulf before suspending the operation, after an attack on a commercial vessel exposed uncertainty over who can guarantee safe passage through the Strait of Hormuz.
+
+### Global drug use reaches record high as increasingly potent synthetic drugs spread
+Source: UN News
+Published: 2026-06-26 12:00 UTC
+URL: https://news.un.org/feed/view/en/story/2026/06/1167817
+Source meta: institutional · primary · R5 · P4 · baseline
+
+More people are using drugs than ever before, while synthetic substances are reshaping illicit markets and exposing vulnerable communities to greater health risks, according to the UN World Drug Report 2026, released on Friday.
+
 ### Deaths in US immigration custody must be investigated: UN rights chief
 Source: UN News
 Published: 2026-06-26 12:00 UTC
@@ -2231,14 +2252,6 @@ URL: https://news.un.org/feed/view/en/story/2026/06/1167815
 Source meta: institutional · primary · R5 · P4 · baseline
 
 Nearly seven million Venezuelans could be affected by this week’s double earthquakes as the death toll rises to at least 235 people amid massive, growing needs and ongoing emergency search and rescue efforts, UN agencies reported on Friday. We’re bringing you the latest news live, and UN News app users can follow here.
-
-### Venezuela quake: ‘People still terrified to re-enter what were their homes’
-Source: UN News
-Published: 2026-06-26 12:00 UTC
-URL: https://news.un.org/feed/view/en/story/2026/06/1167814
-Source meta: institutional · primary · R5 · P4 · baseline
-
-Aid agencies on Friday highlighted massive needs across Venezuela caused by a double earthquake disaster that has killed at least 235 people so far, with search and rescue for people trapped under the rubble still the top priority.
 
 ### Sweden: European Social Rights Committee calls for an end to Sweden’s two-tier healthcare system
 Source: Amnesty International News
@@ -2287,62 +2300,6 @@ URL: https://www.amnesty.org/en/latest/news/2026/06/russia-authorities-continue-
 Source meta: specialist_media · specialist · R4 · P5 · signal
 
 Reacting to news that Maksim Kruglov, deputy chair of the Russian opposition Yabloko party and former Moscow City Duma deputy, has been sentenced to seven years’ imprisonment for social media posts about civilian casualties in Bucha, Mariupol and elsewhere in Ukraine, Marie Struthers, Amnesty International’s Eastern Europe and Central Asia Director, said: “Maksim Kruglov has […] The post Russia: Authorities continue to crackdown on dissent with harsh prison sentence for opposition politician Maksim Kruglov appeared first on Amnesty International .
-
-### China Pressures UN to Slash Human Rights Funding in Haiti
-Source: Human Rights Watch
-Published: 2026-06-25 13:41 UTC
-URL: https://www.hrw.org/news/2026/06/25/china-pressures-un-to-slash-human-rights-funding-in-haiti
-Source meta: specialist_media · specialist · R4 · P5 · signal
-
-Click to expand Image A Kenyan police officer, part of a UN-backed multinational force, patrols a street in Port-au-Prince, Haiti, December 5, 2024. © 2024 Odelyn Joseph/AP Photo China is pressing the United Nations budget committee to defund numerous human rights posts in negotiations on the 2026-2027 UN peacekeeping budget, including essential personnel for the newly established UN Support Office in Haiti. China is recommending against funding for staff to monitor compliance by a new security force for Haiti with the UN’s human rights due diligence policy, according to a document summarizing member states’ positions in the UN General Assembly’s Fifth Committee, which approves the budget. Human rights due diligence in Haiti is especially important in light of numerous past abuses by peacekeepers there. Some of the funding China is opposing for 2026-2027 is for the UN support office to assist the Gang Suppression Force.
-
-### USA: Four months after horrific Minab school airstrike, accountability delayed
-Source: Amnesty International News
-Published: 2026-06-25 12:01 UTC
-URL: https://www.amnesty.org/en/latest/news/2026/06/usa-four-months-after-horrific-minab-school-airstrike-accountability-delayed/
-Source meta: specialist_media · specialist · R4 · P5 · signal
-
-Nearly four months after the U.S. airstrike on the Shajareh Tayyebeh Elementary School in Minab, Iran, which killed more than 150 people, including 120 children, Amnesty International USA’s National Director for Government Relations & Advocacy, Amanda Klasing, said: “It’s been four months since the deadliest U.S. airstrike against civilians in recent memory, yet we are no closer to getting answers from U.S. authorities about why this happened and who was responsible. What is taking so long? The public […] The post USA: Four months after horrific Minab school airstrike, accountability delayed appeared first on Amnesty International .
-
-### Security Council extends critical stabilisation force in Syria
-Source: UN News
-Published: 2026-06-25 12:00 UTC
-URL: https://news.un.org/feed/view/en/story/2026/06/1167813
-Source meta: institutional · primary · R5 · P4 · baseline
-
-The 15-member Security Council unanimously adopted a draft resolution on Thursday renewing the mandate of the UN Disengagement Observer Force (UNDOF) for six months.
-
-### World News in Brief: Ebola prevention, Yemen child deaths, Colombia elections, Japan climate campaign
-Source: UN News
-Published: 2026-06-25 12:00 UTC
-URL: https://news.un.org/feed/view/en/story/2026/06/1167812
-Source meta: institutional · primary · R5 · P4 · baseline
-
-The UN's top humanitarian official has allocated $8 million in funding to help Burundi and South Sudan prepare for the potential spread of Ebola.
-
-### From Lebanon to the Strait of Hormuz, a Middle East hanging on fragile peace talks
-Source: UN News
-Published: 2026-06-25 12:00 UTC
-URL: https://news.un.org/feed/view/en/story/2026/06/1167811
-Source meta: institutional · primary · R5 · P4 · baseline
-
-Since Tuesday, United Nations peacekeepers have detected no airstrikes or new missile fire in southern Lebanon. The lull remains fragile, however, as Israeli drones continue to fly over the area and military operations continue on the ground.
-
-### The political painting that is still on trial in South Korea: How the unending Korean War became a permanent excuse to criminalize expression
-Source: Amnesty International News
-Published: 2026-06-25 06:53 UTC
-URL: https://www.amnesty.org/en/latest/news/2026/06/the-painting-that-is-still-on-trial-how-the-unending-korean-war-became-a-permanent-excuse-to-criminalise-expression/
-Source meta: specialist_media · specialist · R4 · P5 · signal
-
-By Boram Jang, East Asia Researcher at Amnesty International In a Seoul courtroom in March this year, a prosecutor read out charges against Jeon Seung-il, a former art student, from an indictment first written in 1989. The language had not changed, nor had the charges. Thirty-seven years later, only the young defendant had grown old. In 1989, […] The post The political painting that is still on trial in South Korea: How the unending Korean War became a permanent excuse to criminalize expression appeared first on Amnesty International .
-
-### DRC: Authorities must end support for armed group suspected of war crimes
-Source: Amnesty International News
-Published: 2026-06-25 00:00 UTC
-URL: https://www.amnesty.org/en/latest/news/2026/06/drc-authorities-must-end-support-for-armed-group-suspected-of-war-crimes/
-Source meta: specialist_media · specialist · R4 · P5 · signal
-
-An armed group backed by the Congolese army (FARDC) has killed and tortured civilians, looted property, and abducted women as sexual slaves in Rutshuru territory in eastern Democratic Republic of Congo (DRC), Amnesty International said today. The Collective of Movements for Change-People’s Defence Forces (CMC-FDP) is a member of the Wazalendo (“patriots” in Swahili), a […] The post DRC: Authorities must end support for armed group suspected of war crimes appeared first on Amnesty International .
 
 ## investigations osint / 调查与开源情报
 
@@ -2453,7 +2410,7 @@ Source homepage / 来源主页
 
 ### Battery costs have declined by 99% in the last three decades, making electrified transport a reality
 Source: Our World in Data
-Published: 2026-06-26 16:57 UTC
+Published: 2026-06-26 21:14 UTC
 URL: https://ourworldindata.org/battery-price-decline
 Source meta: institutional · primary · R5 · P5 · baseline
 
@@ -2461,7 +2418,7 @@ Batteries have become much cheaper, making energy storage far more affordable.
 
 ### What do people die from in different countries?
 Source: Our World in Data
-Published: 2026-06-26 16:57 UTC
+Published: 2026-06-26 21:14 UTC
 URL: https://ourworldindata.org/what-do-people-die-from-in-different-countries
 Source meta: institutional · primary · R5 · P5 · baseline
 
@@ -2469,7 +2426,7 @@ Explore causes of death data for all countries, spanning more than four decades.
 
 ### We’re looking for a writer
 Source: Our World in Data
-Published: 2026-06-26 16:57 UTC
+Published: 2026-06-26 21:14 UTC
 URL: https://ourworldindata.org/hiring-writer-2026
 Source meta: institutional · primary · R5 · P5 · baseline
 
@@ -2477,7 +2434,7 @@ We’re hiring a writer who can make the world’s largest problems understandab
 
 ### Most people care about farm animals — our food system doesn't reflect that
 Source: Our World in Data
-Published: 2026-06-26 16:57 UTC
+Published: 2026-06-26 21:14 UTC
 URL: https://ourworldindata.org/most-people-care-about-farm-animals-our-food-system-doesnt-reflect-that
 Source meta: institutional · primary · R5 · P5 · baseline
 
@@ -2485,7 +2442,7 @@ Surveys worldwide show that most people find common animal farming practices una
 
 ### Childhood stunting fell dramatically over the 20th century
 Source: Our World in Data
-Published: 2026-06-26 16:57 UTC
+Published: 2026-06-26 21:14 UTC
 URL: https://ourworldindata.org/childhood-stunting-fell-dramatically-over-the-20th-century
 Source meta: institutional · primary · R5 · P5 · baseline
 
@@ -2493,7 +2450,7 @@ What can countries with high stunting rates today learn from Japan’s experienc
 
 ### Population tool: How will populations across the world change in the 21st century?
 Source: Our World in Data
-Published: 2026-06-26 16:57 UTC
+Published: 2026-06-26 21:14 UTC
 URL: https://ourworldindata.org/population-simulation-tool
 Source meta: institutional · primary · R5 · P5 · baseline
 
@@ -2564,6 +2521,46 @@ Source meta: newspaper_magazine · primary · R5 · P4 · baseline
 
 Source homepage / 来源主页
 
+### AI Demand, War, and Climate Pressure Push World Back To Nuclear
+Source: Oilprice.com
+Published: 2026-06-26 20:00 UTC
+URL: https://oilprice.com/Alternative-Energy/Nuclear-Power/AI-Demand-War-and-Climate-Pressure-Push-World-Back-To-Nuclear.html
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+Global energy markets are in turmoil as energy crises keep piling up. The energy-hungry AI boom, war in Iran, geopolitical instability, and climate pressures are creating a polycrisis for the global energy sector, and it’s just getting started. To solve multiple overlapping crises, we will need multiple overlapping solutions. An all-of-the-above solution to increasing energy security is therefore gaining favor on a global scale as the precariousness of over-reliance on limited energy supply chains becomes dangerously clear. While fossil fuels…
+
+### China's Battery Giant Bets Big on Sodium as Lithium Volatility Persists
+Source: Oilprice.com
+Published: 2026-06-26 19:00 UTC
+URL: https://oilprice.com/Energy/Energy-General/Chinas-Battery-Giant-Bets-Big-on-Sodium-as-Lithium-Volatility-Persists.html
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+The world’s largest battery maker is taking a step back from the eclectic vehicles sector to refocus its efforts on energy storage. China’s Contemporary Amperex Technology Co. Ltd. (better known as CATL) has been building up its energy storage portfolio for years now, but the company’s transition away from EVs and toward energy systems has been supercharged by the artificial intelligence boom. Five years ago, just 2 percent of CATL’S sales came from battery storage. Today, storage accounts for a full quarter of the megacompany’s…
+
+### The IAEA Faces a New Nuclear Puzzle Inside Iran
+Source: Oilprice.com
+Published: 2026-06-26 18:00 UTC
+URL: https://oilprice.com/Energy/Energy-General/The-IAEA-Faces-a-New-Nuclear-Puzzle-Inside-Iran.html
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+Amid an ongoing row between Washington and Tehran over whether international monitors can verify Iranian compliance with its nuclear nonproliferation commitments, former officials have told RFE/RL that the scale, scope, and degree of access are crucial to the success of inspections. Details on those have yet to be determined, though Raffael Grossi, head of the International Atomic Energy Agency (IAEA) said the UN body "will be working on the modalities -- dates, procedures, places -- very soon." That doesn't mean, according to experts, that the…
+
+### US Drillers Add Oil, Gas Rigs As Hormuz Transit Resumes
+Source: Oilprice.com
+Published: 2026-06-26 17:44 UTC
+URL: https://oilprice.com/Energy/Crude-Oil/US-Drillers-Add-Oil-Gas-Rigs-As-Hormuz-Transit-Resumes.html
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+The total number of active drilling rigs for oil and gas in the United States rose this week, according to new data that Baker Hughes published on Friday, bringing the total rig count in the US to 573, up 26 from this same time last year. The number of active oil rigs rose by 7 to 440 during the latest reporting period, according to the data. This is 8 above this same time last year. The number of gas rigs rose by 3 to 125, which is 16 more than this time last year. The miscellaneous rig stayed the same at 8. The latest EIA data showed that weekly…
+
+### Equinor Pulls Out of Japan’s Offshore Wind Market
+Source: Oilprice.com
+Published: 2026-06-26 17:30 UTC
+URL: https://oilprice.com/Latest-Energy-News/World-News/Equinor-Pulls-Out-of-Japans-Offshore-Wind-Market.html
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+Equinor is ending its offshore wind business activities in Japan and will close its Tokyo office by the end of the year as the Norwegian energy major is realigning its non-oil and gas strategy to focus on power markets. “This decision reflects a reassessment of Equinor’s strategic direction, with a strengthened focus on integrated power markets,” the Norwegian company said on Friday. While Equinor is ending its Japanese presence, Japan will remain an important country for Equinor, which will continue to invest in its longstanding…
+
 ### Canada and Japan Consider Joint Critical Mineral Projects to Counter China
 Source: Oilprice.com
 Published: 2026-06-26 16:30 UTC
@@ -2572,38 +2569,6 @@ Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
 
 Canada and Japan are considering cooperation in critical mineral projects and a potential plan of joint stockpiling of key metals as the two G7 economies look to reduce China’s outsized dominance in the market, Canada’s Minister of International Trade, Maninder Sidhu, told Reuters in an interview published on Friday. “We're offering Japan that avenue to do more with Canada in terms of critical minerals,” said Sidhu, who led a Canadian delegation on a visit to Japan. Japanese and Canadian companies signed more than C$1 billion,…
 
-### Brent Erases Iran War Premium as Hormuz Flows Show Signs of Recovery
-Source: Oilprice.com
-Published: 2026-06-26 16:19 UTC
-URL: https://oilprice.com/Energy/Energy-General/Brent-Erases-Iran-War-Premium-as-Hormuz-Flows-Show-Signs-of-Recovery.html
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-Oil prices tumbled as markets bet Strait of Hormuz disruptions will ease, with Brent down 10% on the week and Middle East crude benchmarks slipping into contango. Friday, June 26, 2026 Whilst ship transits through the Strait of Hormuz remain a fraction of their previous norm (130-140 transits per day), plunging crude oil prices suggest the commodity markets anticipate that flows would start to recover sooner than later. The two Middle Eastern crude benchmarks, Dubai and Murban, have flipped into contango, as a temporary period of oversupply is…
-
-### Russia’s Fuel Crisis Is Pushing the Kremlin Toward Kazakhstan
-Source: Oilprice.com
-Published: 2026-06-26 16:00 UTC
-URL: https://oilprice.com/Energy/Energy-General/Russias-Fuel-Crisis-Is-Pushing-the-Kremlin-Toward-Kazakhstan.html
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-Grappling with a severe shortage, Russia is seeking to purchase a significant volume of gasoline from neighboring Kazakhstan. Astana appears hesitant to fulfill the request, however, apparently concerned that doing so might entail consequences for the Central Asian nation’s own energy exports. The Reuters news agency first reported that Russian officials had approached Kazakh authorities seeking to obtain 50,000 tons of gas. Ukrainian drone attacks in recent months have devastated Russian refineries, creating a severe shortage and long lines…
-
-### China Isn’t Giving Up On Coal Despite Green Energy Goals
-Source: Oilprice.com
-Published: 2026-06-26 15:30 UTC
-URL: https://oilprice.com/Latest-Energy-News/World-News/China-Isnt-Giving-Up-On-Coal-Despite-Green-Energy-Goals.html
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-Chinese authorities are not restricting coal power growth in the new five-year energy plan as Beijing doubles down on the fossil fuel as a “bottom-line guarantee” of the electricity system amid rising shares of renewable power. China has unveiled its five-year plan for the energy sector, expecting renewable energy to boost its share of electricity supply by 2031, but also noting that it would aim to strengthen the role of coal a “bottom-line guarantee”. China targets clean energy to account for 30% of its power generation…
-
-### Baghdad Hosting EU Energy Talks After Iraq Floats OPEC Exit
-Source: Oilprice.com
-Published: 2026-06-26 14:30 UTC
-URL: https://oilprice.com/Latest-Energy-News/World-News/Baghdad-Hosting-EU-Energy-Talks-After-Iraq-Floats-OPEC-Exit.html
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-European officials are expected to visit Baghdad in the coming weeks for high-level talks on energy cooperation, just hours after Iraq warned it could leave OPEC unless the producer group grants the country a higher production quota. According to Iraqi sources cited by Shafaq News, the discussions will focus on expanding cooperation across Iraq's oil, gas and electricity sectors. Planned talks include projects to capture associated gas, increase power generation, expand energy storage capacity and strengthen crude export infrastructure. One proposal…
-
 ### Metered electricity demand in the New York ISO falls midday because of small-scale solar
 Source: EIA Today in Energy
 Published: 2026-06-26 14:00 UTC
@@ -2611,14 +2576,6 @@ URL: https://www.eia.gov/todayinenergy/detail.php?id=67806
 Source meta: newspaper_magazine · primary · R5 · P4 · baseline
 
 An increase in electricity generation from small-scale solar in New York has decreased the midday demand for metered electricity, amid overall declining load in the state. The trend is particularly notable in the early spring (March and April), when solar generation has an outsized impact because demand is relatively low and conditions for solar generation are favorable.
-
-### What Happened to Big Oil's Green Pivot?
-Source: Oilprice.com
-Published: 2026-06-26 14:00 UTC
-URL: https://oilprice.com/Energy/Energy-General/What-Happened-to-Big-Oils-Green-Pivot.html
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-Over the past 20 years, the story seemed straightforward. Big Oil would gradually become Big Energy. Over time, oil majors would use their balance sheets, engineering expertise, and global project-management skills to build wind farms, solar projects, hydrogen hubs, carbon capture networks, and renewable power businesses. Big Oil did make major investments in renewables. And that transition is still happening in parts of the energy sector. But among the oil majors, the strategy has become far more selective. The latest example is Equinor. The Norwegian…
 
 ## food agriculture markets / 食物与农业市场
 
@@ -2745,6 +2702,22 @@ Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
 
 Source homepage / 来源主页
 
+### $500K bourbon shipment stolen in alleged carrier impersonation scheme
+Source: FreightWaves
+Published: 2026-06-26 20:28 UTC
+URL: https://www.freightwaves.com/news/500k-bourbon-shipment-stolen-in-alleged-carrier-impersonation-scheme
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+A shipment of approximately 10,800 bottles of Noble Oak Bourbon valued at $500,000 was allegedly stolen after suspects posed as authorized representatives to pick up the freight. The incident highlights a growing cargo theft tactic in which criminals use legitimate shipment information and impersonation to obtain freight without using force. The post $500K bourbon shipment stolen in alleged carrier impersonation scheme appeared first on FreightWaves .
+
+### Transfix integrates Highway carrier vetting into TMS
+Source: FreightWaves
+Published: 2026-06-26 18:44 UTC
+URL: https://www.freightwaves.com/news/transfix-integrates-highway-carrier-vetting-into-tms
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+Transfix has integrated Highway's carrier vetting technology into its transportation management system, allowing freight brokers and third-party logistics providers to verify carrier identity, insurance and operating authority without leaving the platform. The integration reflects a broader industry shift toward embedding fraud prevention directly into transportation management software. The post Transfix integrates Highway carrier vetting into TMS appeared first on FreightWaves .
+
 ### Samsara Ride Along pushes fleet safety AI beyond incident flagging
 Source: FreightWaves
 Published: 2026-06-26 16:35 UTC
@@ -2752,6 +2725,14 @@ URL: https://www.freightwaves.com/news/samsara-ride-along-ai-driver-safety
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
 
 Samsara’s Ride Along uses AI to review full driving sessions. Most fleet safety systems focus on individual incidents. The post Samsara Ride Along pushes fleet safety AI beyond incident flagging appeared first on FreightWaves .
+
+### Port of Long Beach, trucker launch Zero-Emission corridor to Mexico
+Source: FreightWaves
+Published: 2026-06-26 15:37 UTC
+URL: https://www.freightwaves.com/news/port-of-long-beach-trucker-launch-zero-emission-corridor-to-mexico
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+The busiest U.S. container port recognizes a local trucking provider for helping establish a “Green Truck Corridor" between the port and Mexico. The post Port of Long Beach, trucker launch Zero-Emission corridor to Mexico appeared first on FreightWaves .
 
 ### One in Three Trucks Failed. What the 2026 CVSA Blitz Number Means for Your CSA Score and Your Insurance Renewal.
 Source: FreightWaves
@@ -2768,30 +2749,6 @@ URL: https://www.freightwaves.com/news/when-rates-are-up-and-your-cash-is-still-
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
 
 Now the market turns. Spot rates in mid-2026 are running roughly 15% above where they sat a year ago, the strongest year-over-year comparison since early 2022. That load that paid $2,200 last year is paying $2,500 or $2,600 now. Good. Real money. But there is a caveat, because this is where operators fool themselves. The […] The post When Rates Are Up and Your Cash Is Still Tight. Here Is What Is Actually What Could Be Going On. appeared first on FreightWaves .
-
-### Trade uncertainty leads South Carolina Ports to temporarily shut down container terminal
-Source: FreightWaves
-Published: 2026-06-26 14:28 UTC
-URL: https://www.freightwaves.com/news/trade-uncertainty-leads-south-carolina-ports-to-temporarily-shut-down-container-terminal
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-South Carolina Ports is pausing operations at a key container terminal amid an uncertain outlook for trade and a need to reduce costs. The post Trade uncertainty leads South Carolina Ports to temporarily shut down container terminal appeared first on FreightWaves .
-
-### Driver’s biometrics case against ULH expands to class action
-Source: FreightWaves
-Published: 2026-06-26 14:21 UTC
-URL: https://www.freightwaves.com/news/biometrics-case-against-ulh-subsidiary-expands-to-a-class-action
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-A lawsuit against an arm of Universal Logistics over the Illinois BIPA law is now a class action. The post Driver’s biometrics case against ULH expands to class action appeared first on FreightWaves .
-
-### Freight distress report: Warehouse cuts mount, trucking bankruptcies continue
-Source: FreightWaves
-Published: 2026-06-26 12:30 UTC
-URL: https://www.freightwaves.com/news/freight-distress-report-warehouse-cuts-mount-trucking-bankruptcies-continue
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-More than 1,200 workers are affected by recent logistics layoffs as several small freight operators file for bankruptcy. The post Freight distress report: Warehouse cuts mount, trucking bankruptcies continue appeared first on FreightWaves .
 
 ### More confusion over escape routes as box ship is attacked in Hormuz
 Source: The Loadstar
@@ -2878,53 +2835,53 @@ Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
 
 Source homepage / 来源主页
 
-### Lululemon Shareholders Back Board After Truce With Founder
+### The BoF Podcast | Oura CEO on the Future of Health Intelligence
 Source: Business of Fashion
-Published: 2026-06-26 16:51 UTC
-URL: https://www.businessoffashion.com/news/retail/lululemon-shareholders-back-board-after-truce-with-founder/
+Published: 2026-06-26 20:05 UTC
+URL: https://www.businessoffashion.com/podcasts/beauty/the-bof-podcast-oura-ceo-on-the-future-of-health-intelligence/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
 
-Lululemon shareholders elected three management-backed directors, including former Levi Strauss chief Chip Bergh, cementing the settlement of a bruising proxy battle with its founder and paving the way for the incoming CEO to focus on reviving the athleisure brand.
+One month after filing for an IPO, Tom Hale joined Imran Amed at The Business of Beauty Global Forum to lay out the company’s central thesis: that Oura is building the world’s first large physiological model, ‘continuously monitoring your body, learning from your physiology and helping you make better decisions.’
 
-### Nike and Adidas Are Taking the World Cup to the Street
+### ERL Exits Dover Street Market Incubator
 Source: Business of Fashion
-Published: 2026-06-26 16:35 UTC
-URL: https://www.businessoffashion.com/briefings/sports/nike-and-adidas-are-taking-the-world-cup-to-the-street/
+Published: 2026-06-26 19:14 UTC
+URL: https://www.businessoffashion.com/news/luxury/erl-exits-dover-street-market-incubator/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
 
-Nike and Adidas have been jostling for position with their World Cup activations for months now. This weekend, that battle will spill into the streets of New York City.
+Designer Eli Russell Linnetz’s Venice Beach-based label has split with Dover Street Market’s brand development arm, taking full control of product development, manufacturing and distribution as it pushes into womenswear.
 
-### The Business of Beauty Global Awards 2026: Winners Announced
+### Will Extreme Heat Change Fashion’s Climate Calculus?
 Source: Business of Fashion
-Published: 2026-06-26 06:33 UTC
-URL: https://www.businessoffashion.com/articles/beauty/the-business-of-beauty-global-awards-winners-2026/
+Published: 2026-06-26 18:55 UTC
+URL: https://www.businessoffashion.com/briefings/this-week-in-fashion/will-extreme-heat-change-fashions-climate-calculus/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
 
-Wavy, Secret Alchemist, Sarelly, Dr. Diamond’s Metacine, Borntostandout and Suri are the winners of The Business of Beauty Global Awards 2026, honoured on Thursday at the Global Forum in Napa Valley, California.
+The hottest chatter in Paris and Milan this week has been, well, the heat itself.
 
-### How to Get Hired in the Age of AI
+### Is It a Vibe Shift — or Just Summer?
 Source: Business of Fashion
-Published: 2026-06-26 04:30 UTC
-URL: https://www.businessoffashion.com/articles/workplace-talent/how-to-get-hired-in-the-age-of-ai/
+Published: 2026-06-26 18:37 UTC
+URL: https://www.businessoffashion.com/briefings/luxury/is-it-a-vibe-shift-or-just-summer/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
 
-As AI makes it easier than ever to produce polished résumés, recruiters are relying on new methods to assess attributes like judgment, adaptability and potential.
+The collective effervescence of the Paris heatwave on the heels of Knicks fever in New York suggests culture is shifting. Can fashion keep up? Plus, Dior, Saint Laurent and Louis Vuitton show menswear in Paris.
 
-### Controlling Your Destiny: How Mona Kattan Reclaimed Her Voice
+### In Sweltering Paris, Louis Vuitton’s Waterfall Show Draws Scrutiny
 Source: Business of Fashion
-Published: 2026-06-26 03:03 UTC
-URL: https://www.businessoffashion.com/articles/beauty/mona-kattan-kayali-global-forum/
+Published: 2026-06-26 17:40 UTC
+URL: https://www.businessoffashion.com/news/luxury/in-sweltering-paris-louis-vuittons-waterfall-show-draws-scrutiny/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
 
-The founder of Kayali closed The Business of Beauty Global Forum by reflecting on her choice to carve out her fragrance label from the family business.
+Imagery from the installation rekindled debate over how fashion brands use the city and its landmarks ​for commercial purposes.
 
-### Building the World of Health Tech: Oura’s Tom Hale on its IPO and What’s Next
+### Zalando Probed by German Regulator Over Disclosure Issue
 Source: Business of Fashion
-Published: 2026-06-26 03:02 UTC
-URL: https://www.businessoffashion.com/articles/beauty/oura-tom-hale-ipo-trackable-wearable-health-data/
+Published: 2026-06-26 17:06 UTC
+URL: https://www.businessoffashion.com/news/retail/zalando-probed-by-german-regulator-over-disclosure-issue/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
 
-The leader of the cutting-edge wearables firm, recently valued at $11 billion, told the audience at The Business of Beauty Global Forum that the business of health tech needs to be founded on retention and habit creation.
+Germany’s financial regulator is investigating Zalando after it failed to note in its annual report that Danish billionaire and biggest shareholder Anders Holch Povlsen also held a stake in a company it bought last year.
 
 ## money finance / 货币与金融
 
@@ -2972,7 +2929,7 @@ Source homepage / 来源主页
 
 ### Empowering Inclusive Work -- by Yanyou Chen, Mitchell Hoffman, Huilan Xu, Zhe Yuan
 Source: NBER
-Published: 2026-06-26 16:57 UTC
+Published: 2026-06-26 21:14 UTC
 URL: https://www.nber.org/papers/w35372#fromrss
 Source meta: institutional · primary · R5 · P5 · baseline
 
@@ -2980,7 +2937,7 @@ Can AI improve workplace outcomes for workers with disabilities? We examine the 
 
 ### Climate and Prehistoric Migration -- by Peter Huybers, Marco Tabellini, Charles A. Taylor, Francesco Toti
 Source: NBER
-Published: 2026-06-26 16:57 UTC
+Published: 2026-06-26 21:14 UTC
 URL: https://www.nber.org/papers/w35371#fromrss
 Source meta: institutional · primary · R5 · P5 · baseline
 
@@ -2988,7 +2945,7 @@ What factors drove human migration before modern states, markets, and borders? W
 
 ### Empathy, Social Networks, and Academic Achievement: Experimental Evidence on Cross-Productivity in Skill Formation -- by Flavio Cunha, Qinyou Hu, Yiming Xia, Naibao Zhao
 Source: NBER
-Published: 2026-06-26 16:57 UTC
+Published: 2026-06-26 21:14 UTC
 URL: https://www.nber.org/papers/w35370#fromrss
 Source meta: institutional · primary · R5 · P5 · baseline
 
@@ -2996,7 +2953,7 @@ We evaluate a parent-directed empathy development program for middle school stud
 
 ### The Search Costs of Inflation in the Labor Market -- by Laura Pilossoph, Jane M. Ryngaert, Jesse J. Wedewer
 Source: NBER
-Published: 2026-06-26 16:57 UTC
+Published: 2026-06-26 21:14 UTC
 URL: https://www.nber.org/papers/w35369#fromrss
 Source meta: institutional · primary · R5 · P5 · baseline
 
@@ -3004,7 +2961,7 @@ This paper studies the effect of unanticipated inflation in the labor market. Wh
 
 ### Do Wage Floors Increase Employment Risk for Workers with Disabilities? Evidence from Minimum Wage Increases and Subminimum Wage Repeal -- by Roisin O'Neill, Shailee Manandhar, Douglas L. Kruse
 Source: NBER
-Published: 2026-06-26 16:57 UTC
+Published: 2026-06-26 21:14 UTC
 URL: https://www.nber.org/papers/w35368#fromrss
 Source meta: institutional · primary · R5 · P5 · baseline
 
@@ -3012,7 +2969,7 @@ People with disabilities are disproportionately represented in low-wage work, ra
 
 ### Air Pollution and Early Childhood Outcomes: Evidence from Georgia Childcare Providers -- by Mahta Ghafarianghadim, Garth Heutel
 Source: NBER
-Published: 2026-06-26 16:57 UTC
+Published: 2026-06-26 21:14 UTC
 URL: https://www.nber.org/papers/w35367#fromrss
 Source meta: institutional · primary · R5 · P5 · baseline
 
@@ -3074,13 +3031,29 @@ Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
 
 Source homepage / 来源主页
 
-### US stocks on track to break losing streak despite falls in chipmakers
+### S&P 500 notches longest losing streak in 10 months as chipmakers slide
 Source: Financial Times Markets
-Published: 2026-06-26 16:41 UTC
+Published: 2026-06-26 20:24 UTC
 URL: https://www.ft.com/content/bb70e272-5b09-4806-8b19-7c03c350f580
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
 
-Software stocks led a recovery in the Nasdaq Composite after early losses
+Software stock-led recovery proves fleeting as Wall Street’s main indices fall for fifth consecutive session
+
+### SpaceX hangover spreads
+Source: Financial Times Markets
+Published: 2026-06-26 18:47 UTC
+URL: https://www.ft.com/content/6a13a108-ef3e-41b5-aaba-7f61eff61ae0
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+To the moon 🚀 🚀
+
+### Ill-timed deregulation is weakening bank resilience
+Source: Financial Times Markets
+Published: 2026-06-26 17:00 UTC
+URL: https://www.ft.com/content/1bcb64c4-4489-4dfc-964a-63c199735409
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+
+Thoughtful, fundamental reform is needed in finance, not an industry checklist
 
 ### The downsides of making $13tn of profit
 Source: Financial Times Markets
@@ -3105,22 +3078,6 @@ URL: https://www.ft.com/content/f4ea27fb-9efe-4fd3-bc66-e7824916fe7e
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
 
 Move by Brussels aims to protect domestic producers and prevent valuable metal heading to US and Asia
-
-### Germany urges EU to suspend methane rules after US pressure
-Source: Financial Times Markets
-Published: 2026-06-26 12:28 UTC
-URL: https://www.ft.com/content/c5c97c40-6afe-4a22-a9b8-aea456b85326
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-Energy minister warns of risk to gas supplies if planned rules affecting imports come into force
-
-### The stocks doing the earning are mostly not the stocks doing the rallying
-Source: Financial Times Markets
-Published: 2026-06-26 12:10 UTC
-URL: https://www.ft.com/content/eda52825-e7e5-47af-b16f-22ee1e6f4d99
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-
-Alphaville’s half-year report on the US equity market
 
 ### Measuring organisational capital from employee reviews
 Source: CEPR VoxEU
@@ -3305,7 +3262,7 @@ Source homepage / 来源主页
 
 ### DNA from wolf pup’s last meal reveals new facts about woolly rhino’s extinction
 Source: The Conversation Philosophy
-Published: 2026-06-26 16:57 UTC
+Published: 2026-06-26 21:14 UTC
 URL: https://theconversation.com/dna-from-wolf-pups-last-meal-reveals-new-facts-about-woolly-rhinos-extinction-273278
 Source meta: specialist_media · commentary · R4 · P4 · baseline
 
@@ -3313,7 +3270,7 @@ A new study shows the woolly rhino was not the inbred, genetically doomed specie
 
 ### Huntington’s disease: treatments are finally on the horizon after research breakthroughs
 Source: The Conversation Philosophy
-Published: 2026-06-26 16:57 UTC
+Published: 2026-06-26 21:14 UTC
 URL: https://theconversation.com/huntingtons-disease-treatments-are-finally-on-the-horizon-after-research-breakthroughs-273376
 Source meta: specialist_media · commentary · R4 · P4 · baseline
 
@@ -3321,7 +3278,7 @@ Sadly, there is no cure for Huntington’s disease. But a couple new research pa
 
 ### Australia needs a canine brain bank to reduce the risk of dog attacks
 Source: The Conversation Philosophy
-Published: 2026-06-26 16:57 UTC
+Published: 2026-06-26 21:14 UTC
 URL: https://theconversation.com/australia-needs-a-canine-brain-bank-to-reduce-the-risk-of-dog-attacks-273220
 Source meta: specialist_media · commentary · R4 · P4 · baseline
 
@@ -3329,7 +3286,7 @@ You can’t spot an aggressive dog just from its looks or breed. Genetic testing
 
 ### What new twins study reveals about genes, environment and longevity
 Source: The Conversation Philosophy
-Published: 2026-06-26 16:57 UTC
+Published: 2026-06-26 21:14 UTC
 URL: https://theconversation.com/what-new-twins-study-reveals-about-genes-environment-and-longevity-274763
 Source meta: specialist_media · commentary · R4 · P4 · baseline
 
@@ -3337,7 +3294,7 @@ New research estimates genetic heritability of lifespan at 50% – double previo
 
 ### RNA is key to the dark matter of the genome − scientists are sequencing it to illuminate human health and disease
 Source: The Conversation Philosophy
-Published: 2026-06-26 16:57 UTC
+Published: 2026-06-26 21:14 UTC
 URL: https://theconversation.com/rna-is-key-to-the-dark-matter-of-the-genome-scientists-are-sequencing-it-to-illuminate-human-health-and-disease-274014
 Source meta: specialist_media · commentary · R4 · P4 · baseline
 
@@ -3345,7 +3302,7 @@ Researchers are embarking on the RNA equivalent of the Human Genome Project, inc
 
 ### Men lose their Y chromosome as they age. Scientists thought it didn’t matter – but now we’re learning more
 Source: The Conversation Philosophy
-Published: 2026-06-26 16:57 UTC
+Published: 2026-06-26 21:14 UTC
 URL: https://theconversation.com/men-lose-their-y-chromosome-as-they-age-scientists-thought-it-didnt-matter-but-now-were-learning-more-275823
 Source meta: specialist_media · commentary · R4 · P4 · baseline
 
@@ -3385,6 +3342,22 @@ URL: https://www.316am.site
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
 
 Source homepage / 来源主页
+
+### Randomness Testing with Bayesian Stats
+Source: LessWrong
+Published: 2026-06-26 20:28 UTC
+URL: https://www.lesswrong.com/posts/rw3wSckEXq5p5W3Bn/randomness-testing-with-bayesian-stats
+Source meta: culture_magazine · commentary · R4 · P4 · baseline
+
+If Bayesian stats is so great, it should be able to do everything that ordinary stats can do. Indeed, as a fan of Bayesian stats, I have not made much of an attempt to learn normal stats with its p-values and t-tests outside what was required for my highschool statistics class many years ago. But was this really a wise decision on my part? [1] Randomness Testing Consider the following problem: We have a random bit generator. It should generate independent random bits, each bit at 1:1 odds of being 0 vs 1. We would like to test if it is truly a good RNG, or is broken in some way. This is actually a really deep problem, and people invent barrages of statistical tests to divine subtle correlations between bits. But we will start out by setting a very humble goal for ourselves: Determine if the generator is making too many 0's or too many 1's. This is really easy for normal stats, so it had better be really easy for Bayesian methods too. First of all, what is the thing that is going to replace the p-value here? In Bayesian statistics we will use a likelihood ratio for this.
+
+### Not making a strong argument is a relief
+Source: LessWrong
+Published: 2026-06-26 18:41 UTC
+URL: https://www.lesswrong.com/posts/TDbqK8tFDJKoQCdSa/not-making-a-strong-argument-is-a-relief
+Source meta: culture_magazine · commentary · R4 · P4 · baseline
+
+When I was in middle school, one of our teachers gave us a “don’t do drugs” talk. Somebody asked him whether he had ever used drugs himself. He replied something along the lines of: I’m not going to answer that question, because it’s one that I can only lose. Either I say yes, and you can conclude that drugs aren’t so bad since I’m fine now. Or I say no, and you can conclude that since I haven’t tried them, I don’t know what I’m talking about. That stuck in my mind. I couldn’t fault the logic in what he said. But something about it still felt off. Surely it can’t be that any answer to a question makes it less likely for drugs to be bad? [1] Presumably it’s possible for drugs to really be bad. And if we are in a world where that is true... you need to be able to conclude that, somehow. He had concluded that somehow. There was also the question of, if any answer should update us against believing that drugs are bad, how does telling us that help? If he gives us the logic of why we’d update against him anyway, shouldn’t that cause us to update already?
 
 ### True Love Will Find You in the End: Kurt Vonnegut on When to Stop Trying and When to Try Again
 Source: The Marginalian
@@ -3466,14 +3439,6 @@ Source meta: culture_magazine · commentary · R4 · P4 · baseline
 
 Every society depends on violence workers, but what makes young men take a job that risks their lives and harms others? - by Raúl Zepeda Gil Read on Aeon
 
-### Don't ignore the car crashes, and remember your freshman CS
-Source: LessWrong
-Published: 2026-06-26 07:06 UTC
-URL: https://www.lesswrong.com/posts/eSZYRuEvqm7jFxYfq/don-t-ignore-the-car-crashes-and-remember-your-freshman-cs
-Source meta: culture_magazine · commentary · R4 · P4 · baseline
-
-Car crashes kill over 35,000 people in the US every year. Plane crashes, on the other hand, kill ~350 . Despite this, we have shows like Mayday/Air Disasters for entertainment on TV, and events such as the tragic death of 67 people on a commercial airline flight into DCA often make the front page of the news for a week, while the state of American roadway safety gets that same level of publicity maybe once every other year . Many of you probably recognize this as the archetypal example of the availability heuristic: the magnitude of and publicity following plane crashes causes them feel like a much bigger problem than car crashes. This is, of course, despite the fact that car crashes kill two orders of magnitude more people every year. Relatedly, I fondly recall taking my first computer science class. After the absolute basics of Python, the first real lesson we learned was to always break problems down into simpler tasks, until each task becomes rather easy to do. We later learned that this is a broader principle called decomposition.
-
 ### Ask Ethan: What super-galactic structures are we a part of?
 Source: Big Think
 Published: 2026-06-26 06:00 UTC
@@ -3489,14 +3454,6 @@ URL: https://bigthink.com/series/full-interview/brusatte-history-of-dinosaurs/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
 
 Steve Brusatte, the paleontologist behind Jurassic World’s science and author of The Rise and Fall of the Dinosaurs and The Story of Birds, walks through what fossils actually prove versus what Hollywood invented. Brusatte traces dinosaurs back to footprints smaller than a house cat, found in Poland just after the worst mass extinction in Earth’s history, and explains why those early survivors spent millions of years as background characters next to car-sized salamanders and armored crocodiles. This video The full story of the dinosaurs, from extinction to extinction is featured on Big Think .
-
-### Research note on negated reward hacking
-Source: LessWrong
-Published: 2026-06-26 02:22 UTC
-URL: https://www.lesswrong.com/posts/zigWXifnRZTfvhnLr/research-note-on-negated-reward-hacking
-Source meta: culture_magazine · commentary · R4 · P4 · baseline
-
-This work was done as part of the BlueDot's Technical AI Safety Project Sprint and should be treated as an informal report of preliminary results done over a couple of days. The code is available on GitHub , the negated dataset and model checkpoints are available on HuggingFace , also the hack rollouts are available at this viewer . Introduction Emergent misalignment (EM) is a phenomenon where narrow fine-tuning can cause broadly misaligned behaviors in current LLMs. Both Anthropic (MacDiarmid et al., 2025) and UK AISI (Golechha et al., 2026) have already demonstrated EM can arise from the model learning to reward hack during RL training on coding problems, although with varied results. The pipeline starts with teaching the model about the hacks via either explicit prompting or synthetic document fine-tuning (SDF), then do RL training on exploitable coding environments and then they evaluate the models on misalignment evaluations. I called this particular experiment group positive-SDF . Fig 1: The experimental pipeline, image from Golechha et al.
 
 ### Why do we divide politics into left vs. right? Blame France.
 Source: Big Think
@@ -3813,6 +3770,13 @@ Source meta: specialist_media · specialist · R4 · P4 · reference
 
 Source homepage / 来源主页
 
+### Public Books
+Source: URL-only source / 仅网址源
+URL: https://www.publicbooks.org/
+Source meta: culture_magazine · commentary · R4 · P4 · baseline
+
+Source homepage / 来源主页
+
 ### The Crime That Wasn’t Called Sodomy
 Source: JSTOR Daily
 Published: 2026-06-26 13:31 UTC
@@ -3820,14 +3784,6 @@ URL: https://daily.jstor.org/the-crime-that-wasnt-called-sodomy/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
 
 In the American Philippines, officials used vagrancy laws to police same-sex relations while avoiding explicit bans. The post The Crime That Wasn’t Called Sodomy appeared first on JSTOR Daily .
-
-### The “Emotional Economy” of Parenting: A Conversation with Nina Bandelj
-Source: Public Books
-Published: 2026-06-25 15:00 UTC
-URL: https://www.publicbooks.org/the-emotional-economy-of-parenting-a-conversation-with-nina-bandelj/
-Source meta: culture_magazine · commentary · R4 · P4 · baseline
-
-“I am an observer of how intellectual ideas travel and enter into everyday life, or how they come to be performed by families in ways that give those ideas a reality of their own.” The post The “Emotional Economy” of Parenting: A Conversation with Nina Bandelj appeared first on Public Books .
 
 ### How the Himalayan Blackberry Took Over the Pacific Northwest
 Source: JSTOR Daily
@@ -3845,14 +3801,6 @@ Source meta: culture_magazine · commentary · R4 · P4 · baseline
 
 In Liberal Fascisms, Slavoj Žižek offers an unsettling diagnosis of the authoritarian turn. He argues that figures like Trump are not external to liberal democracy, but expressions of one of … Continued The post Slavoj Žižek on liberalism’s hand in creating the new right first appeared on LSE Review of Books .
 
-### Julián Delgado Lopera on “Pretend You’re Dead and I Carry You”
-Source: Public Books
-Published: 2026-06-24 15:00 UTC
-URL: https://www.publicbooks.org/julian-delgado-lopera-on-pretend-youre-dead-and-i-carry-you/
-Source meta: culture_magazine · commentary · R4 · P4 · baseline
-
-“I am inhabiting many different identities, sometimes multiple identities, constantly. I feel that I'm definitely building on a legacy of Latin American literature and Latino literature in the United States.” The post Julián Delgado Lopera on “Pretend You’re Dead and I Carry You” appeared first on Public Books .
-
 ### Rollerena: New York’s Fairy Godmother
 Source: JSTOR Daily
 Published: 2026-06-24 13:31 UTC
@@ -3868,14 +3816,6 @@ URL: https://blogs.lse.ac.uk/lsereviewofbooks/2026/06/24/book-review-navigating-
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
 
 Navigating the 21st Century Business World by Dorottya Sallai and Alexander Pepper demonstrates the value of delivering management education through real-world examples rather than theory. Presenting a diverse set of … Continued The post Management education needs to move into the real world first appeared on LSE Review of Books .
-
-### “Dear Syria … ”
-Source: Public Books
-Published: 2026-06-23 15:00 UTC
-URL: https://www.publicbooks.org/dear-syria/
-Source meta: culture_magazine · commentary · R4 · P4 · baseline
-
-“Here I was, crossing from Lebanon into Syria and from the realm of other peoples’ stories into that of lived experience, including my own.” The post “Dear Syria … ” appeared first on Public Books .
 
 ### The Making of the Muscular Farmer
 Source: JSTOR Daily
@@ -3909,14 +3849,6 @@ Source meta: culture_magazine · commentary · R4 · P4 · baseline
 
 A postwar expedition to Bikini Atoll helped confirm Darwin’s theory of coral reef formation and reshaped the future of marine science. The post The Nuclear Test Site That Advanced Oceanography appeared first on JSTOR Daily .
 
-### Undoing Platform Humanitarianism
-Source: Public Books
-Published: 2026-06-18 15:00 UTC
-URL: https://www.publicbooks.org/undoing-platform-humanitarianism/
-Source meta: culture_magazine · commentary · R4 · P4 · baseline
-
-If humanitarian aid organizations embrace tech, they will only be powering the surveillance empire opposed to their goals. The post Undoing Platform Humanitarianism appeared first on Public Books .
-
 ### Ten years after the Brexit vote, Britain is still divided
 Source: LSE Review of Books
 Published: 2026-06-18 10:43 UTC
@@ -3924,14 +3856,6 @@ URL: https://blogs.lse.ac.uk/lsereviewofbooks/2026/06/18/brexit-10-issue-based-i
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
 
 Ten years after the Brexit Referendum, Tribal Politics by Sara Hobolt and James Tilley argues that the vote forged two issue-based identities that continue to shape UK politics. This extract … Continued The post Ten years after the Brexit vote, Britain is still divided first appeared on LSE Review of Books .
-
-### Who Benefits from Distorting American Studies?
-Source: Public Books
-Published: 2026-06-17 15:00 UTC
-URL: https://www.publicbooks.org/who-benefits-from-distorting-american-studies/
-Source meta: culture_magazine · commentary · R4 · P4 · baseline
-
-“There is a movement undermining, constraining, and eradicating those who document, understand, and name the experiences of systematically marginalized communities in US history.” The post Who Benefits from Distorting American Studies? appeared first on Public Books .
 
 ### Harnessing the collective energy of music fans for social change
 Source: LSE Review of Books
@@ -3948,14 +3872,6 @@ URL: https://blogs.lse.ac.uk/lsereviewofbooks/2026/06/16/stronger-tax-frameworks
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
 
 Tax is a powerful tool for improving our lives, but decades of crossborder tax abuse have undermined its potential. Drawing on his book, What Do We Know and What Should … Continued The post Stronger tax frameworks can make a fairer world first appeared on LSE Review of Books .
-
-### Edward Said, My Grandfather, and the Problem of Home
-Source: Public Books
-Published: 2026-06-16 15:00 UTC
-URL: https://www.publicbooks.org/edward-said-my-grandfather-and-the-problem-of-home/
-Source meta: culture_magazine · commentary · R4 · P4 · baseline
-
-“Said's ‘Reflections on Exile’ summoned to mind the only 7 words my grandfather ever said to me about Ireland, where he had cousins he never knew: ‘I don’t think I’ll go back there.’” The post Edward Said, My Grandfather, and the Problem of Home appeared first on Public Books .
 
 ## academic reference / 学术参考
 
@@ -4143,6 +4059,13 @@ Source homepage / 来源主页
 
 ## civilizational critique / 文明批评
 
+### Law & Liberty
+Source: URL-only source / 仅网址源
+URL: https://lawliberty.org/
+Source meta: culture_magazine · commentary · R4 · P4 · baseline
+
+Source homepage / 来源主页
+
 ### First Things
 Source: URL-only source / 仅网址源
 URL: https://www.firstthings.com/
@@ -4178,53 +4101,53 @@ Source meta: culture_magazine · commentary · R4 · P4 · baseline
 
 Source homepage / 来源主页
 
-### Trump Has a Bill Pulte Problem
+### My New Life With the Palantir Chore Coat
 Source: The Atlantic
-Published: 2026-06-26 16:57 UTC
-URL: https://www.theatlantic.com/national-security/2026/06/bill-pulte-unlawful-intelligence-director/687684/?utm_source=feed
+Published: 2026-06-26 21:14 UTC
+URL: https://www.theatlantic.com/technology/2026/06/palantir-chore-coat/687686/?utm_source=feed
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
 
-The acting director of national intelligence appears to be legally ineligible for the job.
+I bought the most confusing jacket in America.
 
-### Trump’s No-Limits Presidency
+### Alan Greenspan Was ‘Not Quite God’
 Source: The Atlantic
-Published: 2026-06-26 16:57 UTC
-URL: https://www.theatlantic.com/newsletters/2026/06/trump-no-limits-power-iran/687690/?utm_source=feed
+Published: 2026-06-26 21:14 UTC
+URL: https://www.theatlantic.com/ideas/2026/06/alan-greenspan-fed-independence/687687/?utm_source=feed
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
 
-Most presidents become chastened about their power over time. Trump is doing the opposite.
+He built an independent central bank that withstood many crises. That independence may not last forever.
 
-### The Whiplash of Trump’s Iran Capitulation
+### AI Can’t Fix the Student-Motivation Problem
 Source: The Atlantic
-Published: 2026-06-26 16:57 UTC
-URL: https://www.theatlantic.com/ideas/2026/06/trump-iran-foreign-policy/687683/?utm_source=feed
+Published: 2026-06-26 21:14 UTC
+URL: https://www.theatlantic.com/ideas/2026/06/ai-tutor-education-human-investment/687678/?utm_source=feed
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
 
-America’s foreign policy is about one man and little else.
+It turns out bots aren’t great teachers.
 
-### Trump’s Other Paint Job
+### Perhaps France Should Reconsider AC
 Source: The Atlantic
-Published: 2026-06-26 16:57 UTC
-URL: https://www.theatlantic.com/politics/2026/06/trump-reflecting-pool-paint-wall/687685/?utm_source=feed
+Published: 2026-06-26 21:14 UTC
+URL: https://www.theatlantic.com/science/2026/06/europe-heat/687692/?utm_source=feed
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
 
-Before he botched the Reflecting Pool, the president wanted the border wall black.
+Europe cannot cope with this heat.
 
-### Trump Is Making the 250th Small
+### How the World Cup Explains the World
 Source: The Atlantic
-Published: 2026-06-26 16:57 UTC
-URL: https://www.theatlantic.com/ideas/2026/06/trump-250-usa-speech/687682/?utm_source=feed
+Published: 2026-06-26 21:14 UTC
+URL: https://www.theatlantic.com/podcasts/2026/06/how-world-cup-explains-world/687688/?utm_source=feed
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
 
-The State Fair rally was an empty celebration of a man instead of a country.
+Do the games offer a lesson for politics?
 
-### The 10,000-Year Flood
+### The Truth About Steven Spielberg’s Alien Obsession
 Source: The Atlantic
-Published: 2026-06-26 16:57 UTC
-URL: https://www.theatlantic.com/ideas/2026/06/texas-guadalupe-floods-rv-park-deaths/687617/?utm_source=feed
+Published: 2026-06-26 21:14 UTC
+URL: https://www.theatlantic.com/culture/2026/06/steven-spielberg-alien-movies-disclosure-day-et/687693/?utm_source=feed
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
 
-The banks of the Guadalupe River were an idyllic spot to park an RV. Then, last summer, it started to rain harder and faster than anyone could imagine.
+The director has spent decades telling stories about extraterrestrials, but his real focus lies on Earth.
 
 ### Real Life
 Source: URL-only source / 仅网址源
@@ -4275,53 +4198,93 @@ Source meta: culture_magazine · commentary · R4 · P4 · baseline
 
 Source homepage / 来源主页
 
-### A Brazilian Startup Is Betting on AI to Fight Crime. Critics See a Surveillance State
-Source: Time
-Published: 2026-06-26 15:56 UTC
-URL: https://time.com/article/2026/06/26/ai-surveillance-brazil-gabriel/
+### The New York Left’s Super Tuesday
+Source: Dissent Magazine
+Published: 2026-06-26 21:01 UTC
+URL: https://dissentmagazine.org/online_articles/democratic-socialists-2026-primary-election/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
 
-Brazilian startup Gabriel has residents paying to mount AI cameras outside their homes while police get the footage for free. Is it a model for safer cities—or a surveillance state people pay to build?
+The Democratic Party establishment was not happy about Zohran Mamdani’s election, but most did not treat it as an existential threat. The results of the 2026 primary elections can’t be so easily dismissed.
 
-### Why Summer Travelers May Still Be Met With High Airfares Despite the U.S.-Iran Deal
-Source: Time
-Published: 2026-06-26 15:20 UTC
-URL: https://time.com/article/2026/06/26/why-summer-travelers-still-met-with-high-airfares-after-us-iran-peace-deal/
+### The Coastal Mysteries of “Romería” and “Rose of Nevada”
+Source: The New Yorker
+Published: 2026-06-26 20:50 UTC
+URL: https://www.newyorker.com/culture/the-current-cinema/the-coastal-mysteries-of-romeria-and-rose-of-nevada
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
 
-Airlines are set to encounter significantly lower fuel costs due to the interim U.S.-Iran peace agreement, but travelers are unlikely to experience immediate financial relief. Experts explain why.
+In rich, melancholy new films from the directors Carla Simón and Mark Jenkin, the restorative power of cinema turns out to be a shore thing.
 
-### Where Everyone Ends Up in the Series Finale of The Bear
+### ‘If You’re Not Kind To People, You’re Not Doing The Work’: 3 Activists on Multigenerational Organizing
 Source: Time
-Published: 2026-06-26 14:57 UTC
-URL: https://time.com/article/2026/06/26/the-bear-ending-explained/
+Published: 2026-06-26 20:24 UTC
+URL: https://time.com/collection/visionaries/2026/creating-intergenerational-change/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
 
-Carmen, Sydney, Richie, and the whole crew of the Bear end the series on a happy note. Here's how each of their stories closes.
+Activists gathered at the Obama Presidential Center in Chicago to discuss intergenerational advocacy as a part of the W.K. Kellogg Foundation’s inaugural Every Child Thrives Festival.
 
-### Is Silicone Really Better Than Plastic?
+### How Americans Can Overcome Division to Build Opportunity for Kids and Families
 Source: Time
-Published: 2026-06-26 14:47 UTC
-URL: https://time.com/article/2026/06/26/is-silicone-really-better-than-plastic/
+Published: 2026-06-26 20:22 UTC
+URL: https://time.com/collection/visionaries/2026/bridging-divides-brighter-future-for-every-child/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
 
-Silicone is used in myriad household products, but the science on the material's safety is lacking.
+At the Every Child Thrives Festival, panelists discussed how working together across differences can help build a better future.
 
-### Kylian Mbappé on a Career in the Soccer Spotlight—and What Comes After
+### How to Help Victims of the Venezuela Earthquakes
 Source: Time
-Published: 2026-06-26 14:45 UTC
-URL: https://time.com/article/2026/06/24/kylian-mbappe-world-cup-2026/
+Published: 2026-06-26 19:24 UTC
+URL: https://time.com/article/2026/06/26/how-to-help-victims-of-venezuela-earthquakes/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
 
-The captain of the French national team heads into this World Cup in America as a leader, on and off the pitch.
+"It really is a terrifying thing, but what we are seeing right now is also an international mobilization at its very best," said a spokesperson for the U.N. Office for the Coordination of Humanitarian Affairs.
 
-### 'A Relief to Rip My Heart Out of My Chest': How Olivia Wilde Turned Her Pain Into The Invite
+### The Crisis I Witnessed in Haiti
 Source: Time
-Published: 2026-06-26 14:34 UTC
-URL: https://time.com/article/2026/06/26/olivia-wilde-the-invite-interview/
+Published: 2026-06-26 19:24 UTC
+URL: https://time.com/article/2026/06/25/the-crisis-i-witnessed-in-haiti/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
 
-The director found catharsis by channeling the pain of her own past relationship into a new marital chamber comedy.
+As the Supreme Court clears the way for Trump to potentially end Temporary Protected Status for Haitians, Doctors Without Borders witnesses a growing crisis.
+
+### Controversial Billionaire Tax Will Appear on California Ballot This Fall
+Source: Time
+Published: 2026-06-26 19:18 UTC
+URL: https://time.com/article/2026/06/26/california-billionaire-tax-newsom-ballot-measure/
+Source meta: culture_magazine · commentary · R4 · P4 · baseline
+
+The proposed measure, which would impose a one-time 5% wealth tax on California billionaires, is opposed by Gov. Gavin Newsom and other top lawmakers in the state.
+
+### America at 250: A View from Britain, with “The Rest Is History”
+Source: The New Yorker
+Published: 2026-06-26 18:00 UTC
+URL: https://www.newyorker.com/podcast/the-new-yorker-radio-hour/america-at-250-a-view-from-britain-with-the-rest-is-history
+Source meta: culture_magazine · commentary · R4 · P4 · baseline
+
+The historian-podcasters Dominic Sandbrook and Tom Holland explain why losing the thirteen colonies “annoyed” the British, but “it could have been a lot worse.”
+
+### Supergirl Is a Dull, Dispiriting, Fake-Feminist Movie
+Source: Time
+Published: 2026-06-26 17:46 UTC
+URL: https://time.com/article/2026/06/25/supergirl-review/
+Source meta: culture_magazine · commentary · R4 · P4 · baseline
+
+Milly Alcock and Matthias Schoenaerts in 'Supergirl'
+
+### Pakistan Has Never Looked So Important
+Source: Persuasion
+Published: 2026-06-26 17:01 UTC
+URL: https://www.persuasion.community/p/pakistan-has-never-looked-so-important
+Source meta: culture_magazine · commentary · R4 · P4 · baseline
+
+There’s only one winner of the Iran deal—the country that made it happen.
+
+### The Supreme Court Enables Trump’s Cruel Immigration Agenda
+Source: The New Yorker
+Published: 2026-06-26 16:58 UTC
+URL: https://www.newyorker.com/news/the-lede/the-supreme-court-enables-trumps-cruel-immigration-agenda
+Source meta: culture_magazine · commentary · R4 · P4 · baseline
+
+Two new rulings make it easier for the Administration to prevent migrants from claiming asylum and to expel lawful refugees.
 
 ### This Week At Persuasion
 Source: Persuasion
@@ -4347,21 +4310,13 @@ Source meta: culture_magazine · commentary · R4 · P4 · baseline
 
 How Lukashenko exposed Putin’s weakness.
 
-### Obergefell’s Second Decade
-Source: Law & Liberty
-Published: 2026-06-26 10:02 UTC
-URL: https://lawliberty.org/obergefells-second-decade/
+### The Israeli Employers Who Want to Bring Palestinian Workers Back
+Source: The New Yorker
+Published: 2026-06-26 10:00 UTC
+URL: https://www.newyorker.com/news/the-lede/the-israeli-employers-who-want-to-bring-palestinian-workers-back
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
 
-Progressives continue to bemoan the Roberts Court's supposed "illegitimacy." But a case they venerate remains the measuring stick for judicial hubris.
-
-### A National House in Disorder
-Source: Law & Liberty
-Published: 2026-06-26 10:01 UTC
-URL: https://lawliberty.org/book-review/a-national-house-in-disorder/
-Source meta: culture_magazine · commentary · R4 · P4 · baseline
-
-Lionel Shriver pushes readers to consider for whom they want "a better life."
+More than a hundred thousand Palestinians worked in Israel before October 7th. Most can no longer cross the border—and many are now destitute.
 
 ### The Artistry of Tarot
 Source: The New Yorker
@@ -4371,22 +4326,6 @@ Source meta: culture_magazine · commentary · R4 · P4 · baseline
 
 Also: the modern reggae of Original Koffee, Tina Fey’s modern take on “The Four Seasons,” Hugh Jackman’s gory Robin Hood, and more.
 
-### The Israeli Employers Who Want to Bring Palestinian Workers Back
-Source: The New Yorker
-Published: 2026-06-26 10:00 UTC
-URL: https://www.newyorker.com/news/the-lede/the-israeli-employers-who-want-to-bring-palestinian-workers-back
-Source meta: culture_magazine · commentary · R4 · P4 · baseline
-
-More than a hundred thousand Palestinians worked in Israel before October 7th. Most can no longer cross the border—and many are now destitute.
-
-### Under Pressure
-Source: Law & Liberty
-Published: 2026-06-26 10:00 UTC
-URL: https://lawliberty.org/under-pressure/
-Source meta: culture_magazine · commentary · R4 · P4 · baseline
-
-The new D-Day film is a failed opportunity to teach younger generations about the virtues and vices of a great leader.
-
 ### Right and Left Are Seeing Two Different Worlds
 Source: Persuasion
 Published: 2026-06-25 21:02 UTC
@@ -4394,14 +4333,6 @@ URL: https://www.persuasion.community/p/how-to-understand-factual-polarization
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
 
 Even when facts are agreed upon, interpretations are wildly different.
-
-### Daily Cartoon: Thursday, June 25th
-Source: The New Yorker
-Published: 2026-06-25 14:47 UTC
-URL: https://www.newyorker.com/cartoons/daily-cartoon/thursday-june-25th-pride-crayons
-Source meta: culture_magazine · commentary · R4 · P4 · baseline
-
-A drawing that riffs on the latest news and happenings.
 
 ### Rot and Reform
 Source: Dissent Magazine
@@ -4419,14 +4350,6 @@ Source meta: culture_magazine · commentary · R4 · P4 · baseline
 
 America didn’t achieve a single one of its aims in Iran.
 
-### The Win-Win World
-Source: Law & Liberty
-Published: 2026-06-25 10:01 UTC
-URL: https://lawliberty.org/the-win-win-world/
-Source meta: culture_magazine · commentary · R4 · P4 · baseline
-
-We can push back against the politics of rage and envy by remembering the marketplace's logic of mutual gain.
-
 ### What happened to China’s overseas EV factory boom?
 Source: Rest of World
 Published: 2026-06-25 10:00 UTC
@@ -4435,30 +4358,6 @@ Source meta: culture_magazine · commentary · R4 · P4 · baseline
 
 Three charts show China’s promised overseas production hasn’t materialized — yet.
 
-### America’s Last Bookie Goes Down
-Source: The New Yorker
-Published: 2026-06-25 10:00 UTC
-URL: https://www.newyorker.com/news/annals-of-crime/americas-last-bookie-goes-down
-Source meta: culture_magazine · commentary · R4 · P4 · baseline
-
-Tim Pughsley built a sports-betting website that moved billions, then the I.R.S. got involved. In the age of FanDuel and DraftKings, where is the line between legal and illegal gambling?
-
-### Clapback to the Future
-Source: The New Yorker
-Published: 2026-06-25 10:00 UTC
-URL: https://www.newyorker.com/humor/shouts-murmurs/clapback-to-the-future
-Source meta: culture_magazine · commentary · R4 · P4 · baseline
-
-PAST: Bodysculpting. PRESENT: Looksmaxxing. FUTURE: Vibeplundering.
-
-### What Comes After the Nation-State?
-Source: Law & Liberty
-Published: 2026-06-25 10:00 UTC
-URL: https://lawliberty.org/book-review/what-comes-after-the-nation-state/
-Source meta: culture_magazine · commentary · R4 · P4 · baseline
-
-The anarcho-capitalist take on the future of world order welcomes little more than digitized oligarchy.
-
 ### We Need an International Treaty to Ban Superintelligence
 Source: Persuasion
 Published: 2026-06-24 18:30 UTC
@@ -4466,22 +4365,6 @@ URL: https://www.persuasion.community/p/time-for-a-global-moratorium-on-superint
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
 
 No country has an interest in building AI that could wipe out humanity.
-
-### The Kennedy Center Could Have Transformed American Culture
-Source: Persuasion
-Published: 2026-06-24 16:21 UTC
-URL: https://www.persuasion.community/p/the-kennedy-center-could-have-transformed
-Source meta: culture_magazine · commentary · R4 · P4 · baseline
-
-An ode to what might have been.
-
-### Turning Back the Free Speech Recession
-Source: Law & Liberty
-Published: 2026-06-24 10:01 UTC
-URL: https://lawliberty.org/book-review/turning-back-the-free-speech-recession/
-Source meta: culture_magazine · commentary · R4 · P4 · baseline
-
-The state of free speech in Europe isn't as dire as critics would have it.
 
 ### China and the West are taking opposite paths on EV battery recycling
 Source: Rest of World
@@ -4578,14 +4461,6 @@ URL: https://dissentmagazine.org/article/fetterman-manchin-senate-memoir/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
 
 The memoirs of John Fetterman and Joe Manchin offer revealing insights into two figures granted outsized importance by our broken political system.
-
-### Know Your Enemy: Leo Strauss’s Natural Right and History
-Source: Dissent Magazine
-Published: 2026-06-10 15:22 UTC
-URL: https://dissentmagazine.org/blog/know-your-enemy-leo-strauss-natural-right-and-history/
-Source meta: culture_magazine · commentary · R4 · P4 · baseline
-
-Matt and Sam talk to Matt Dinan about Leo Strauss’s 1953 book, Natural Right and History .
 
 ### The Rival Theologies of Artificial Intelligence
 Source: Palladium Magazine
@@ -5258,45 +5133,61 @@ Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
 
 Source homepage / 来源主页
 
-### deBasement Announce New EP HARDBODY: Hear “CUT THE LINE”
+### PUP – “If This Is It”
 Source: Stereogum
-Published: 2026-06-26 16:39 UTC
-URL: https://stereogum.com/2503563/debasement-announce-new-ep-hardbody-hear-cut-the-line/news/
+Published: 2026-06-26 20:28 UTC
+URL: https://stereogum.com/2503631/pup-if-this-is-it/music/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
 
-Last month, LA-based queer/trans electropop-bass duo Alli Logout and Margo XS, who release incredibly magnetic music as deBasement, dropped their knockout single " STAY IN YOUR LINE ." I'm happy to announce that that single is part of a new EP HARDBODY that's coming July 17 via In Real Life Records. They've announced the upcoming project with the new single "CUT THE LINE," which is a detailed account of all the dumb bullshit and annoying people one can encounter on a late night out. Not to mince words, but it's brilliant. The post deBasement Announce New EP <em>HARDBODY</em>: Hear “CUT THE LINE” appeared first on Stereogum .
+The reliably energized Toronto pop-punkers PUP have a long history of sick-ass videos, and they add to it today. It's been about a year since PUP released their album Who Will Look After The Dogs? , and it apparently took all that time for regular collaborator Sterling Larose to put together the video for their album track "Concrete." That video is here today, along with a new PUP song. The post PUP – “If This Is It” appeared first on Stereogum .
 
-### How Leonard Cohen, Pulse, Death Grips, “Good Music With Really Bad Vibes,” And More Influenced Brutalismus 3000’s Killer New Harmony
+### The 5 Best Songs Of The Week
 Source: Stereogum
-Published: 2026-06-26 16:21 UTC
-URL: https://stereogum.com/2503473/how-leonard-cohen-pulse-death-grips-good-music-with-really-bad-vibes-and-more-influenced-brutalismus-3000s-killer-new-harmony/interviews/under-the-influence/
+Published: 2026-06-26 20:08 UTC
+URL: https://stereogum.com/2503378/the-5-best-songs-of-the-week-632/lists/the-5-best-songs-of-the-week/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
 
-Brutalismus 3000, the duo of producer Theo Zeitner and singer Victoria Vassiliki Daldas, appear framed inside a Zoom window from their Berlin apartment, set against an art piece of Blade, half-human, half-vampire, posed in front of an American flag. The image is a fitting background for artists whose work thrives on tension, distortion, and cultural collision. It's bold, colorful, and fucking fun. The post How Leonard Cohen, <em>Pulse</em>, Death Grips, “Good Music With Really Bad Vibes,” And More Influenced Brutalismus 3000’s Killer New <em>Harmony</em> appeared first on Stereogum .
+Every week the Stereogum staff chooses the five best new songs of the week. The eligibility period begins and ends Thursdays right before midnight. You can hear this week’s picks below and on Stereogum’s Favorite New Music Spotify playlist, which is updated weekly. (An expanded playlist of our new music picks is available to subscribers on Spotify and Apple Music, updated throughout the week.) The post The 5 Best Songs Of The Week appeared first on Stereogum .
 
-### Cara Delevingne Shares New Single Co-Written By Fiona Apple
+### Miranda Lambert Announces New Album Crisco: Hear “Till The Going’s Gone”
 Source: Stereogum
-Published: 2026-06-26 16:13 UTC
-URL: https://stereogum.com/2503559/cara-delevingne-shares-new-single-co-written-by-fiona-apple/music/
+Published: 2026-06-26 19:56 UTC
+URL: https://stereogum.com/2503621/miranda-lambert-announces-new-album-crisco-hear-till-the-goings-gone/music/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
 
-Cara Delevingne is famous for being a supermodel and an actress, but she's also apparently buds with the relatively reclusive Fiona Apple. When Apple recorded her 2020 masterpiece Fetch The Bolt Cutters , Delevingne added some backup vocals, including a meow. Now, Delevingne is getting ready to release an album of her own, and she got some help from Apple. Last month, we learned that Apple co-wrote a song on Delevingne's upcoming debut LP, which doesn't have a title or a release date yet. Today, we get to hear that song. The post Cara Delevingne Shares New Single Co-Written By Fiona Apple appeared first on Stereogum .
+It's been 21 years since Miranda Lambert released Kerosene , which means she's been one of our greatest mainstream country stars for a very, very long time. She's not slowing down. This year, Lambert co-wrote and sang backup on Ella Langley's gigantic crossover hit "Choosin' Texas," and she buried the hatchet with her old adversary Kacey Musgraves in grand fashion on the duet "Horses And Divorces." Now, she's ready to release of an album of her own. The post Miranda Lambert Announces New Album <em>Crisco</em>: Hear “Till The Going’s Gone” appeared first on Stereogum .
 
-### Boy Harsher – “Jeans”
+### Dovetail – “if you let me (nsii)”
 Source: Stereogum
-Published: 2026-06-26 15:53 UTC
-URL: https://stereogum.com/2503547/boy-harsher-jeans/music/
+Published: 2026-06-26 19:49 UTC
+URL: https://stereogum.com/2503616/dovetail-if-you-let-me-nsii/music/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
 
-Jae Matthews and Augustus Muller, aka Boy Harsher, are back with a new single, “Jeans,” and it makes me want to go to the mall and do a makeover montage like in nearly every ’80s film. It’s a hairsprayed new wave track that reflects on giving up glam and rock ’n’ roll for small-town freedom. The post Boy Harsher – “Jeans” appeared first on Stereogum .
+Almost a year ago, Dovetail released a very beautiful track called " raining here, too ." In the fall, I caught them at New York's beloved Night Club 101 opening for Ken Park; the two Vassar students wore angel wings on their backs and played dreamy songs that swallowed the whole room. Now, the duo is sharing a new tune titled "if you let me (nsii)." The post Dovetail – “if you let me (nsii)” appeared first on Stereogum .
 
-### Future Announces New Album The Real Me: Hear “Radio”
+### Billy Strings Announces Metal Lineup For His Ionia Freak Fair
 Source: Stereogum
-Published: 2026-06-26 15:45 UTC
-URL: https://stereogum.com/2503544/future-announces-new-album-the-real-me-hear-radio/music/
+Published: 2026-06-26 19:10 UTC
+URL: https://stereogum.com/2503611/billy-strings-announces-metal-lineup-for-his-ionia-freak-fair/news/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
 
-Earlier this week, elder rap hedonist made his first appearance in our Number Ones column. It won't be his last. Future has been making an impact on popular music for a very, very long time. His first #1 hit was also his 125th chart hit on the Hot 100. He's a defining generational star. A couple of years ago, he helped ignite the Drake/Kendrick Lamar beef when Kendrick launched his opening volley on the Future/Metro Boomin collab " Like That. " A few months ago, old collaborators Future and Drake reunited on Drake's #2 hit " Ran To Atlanta ." Future simply continues to float above the fray, and now he's got a new album on the way. The post Future Announces New Album <em>The Real Me</em>: Hear “Radio” appeared first on Stereogum .
+Billy Strings is a virtuoso bluegrass musician and a giant star in the jammy Americana world. He's also a big fucking metalhead. Last year, Strings shredded a solo on a medley of re-recorded 1994 songs from tech-death legends Cryptopsy. Now, Strings is preparing for his own Ionia Freak Fair festival in his hometown of Ionia, Michigan, and he's booked himself an entire metal stage. The post Billy Strings Announces Metal Lineup For His Ionia Freak Fair appeared first on Stereogum .
+
+### Noah Kahan Has One Request For Fans Visiting His Hometown
+Source: Stereogum
+Published: 2026-06-26 18:59 UTC
+URL: https://stereogum.com/2503608/noah-kahan-has-one-request-for-fans-visiting-his-hometown/news/
+Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
+
+Noah Kahan's been having strange problems lately. Recently the folk-pop sensation was a bit weirded out by Kidz Bop's cop-friendly cover of his song "The Great Divide." Now, he's asking his fans to stop stealing his hometown's road sign. The post Noah Kahan Has One Request For Fans Visiting His Hometown appeared first on Stereogum .
+
+### Jazz Left Behind By Streaming
+Source: Bandcamp Daily
+Published: 2026-06-26 17:29 UTC
+URL: https://daily.bandcamp.com/lists/bandcamp-only-jazz-album-guide
+Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
+
+A selection of superb jazz albums you can’t find on the streamers. Read full story on the Bandcamp Daily .
 
 ### Charli xcx Releases New Song, ‘Wink Wink’
 Source: The Quietus
@@ -5305,14 +5196,6 @@ URL: https://thequietus.com/news/charli-xcx-releases-new-song-wink-wink/?utm_sou
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
 
 It's the third preview of forthcoming album Music, Fashion, Film Charli xcx has shared a new single, titled 'Wink Wink'. The song arrives as the third preview to forthcoming album Music, Fashion, Film following the previous release of 'Rock Music' and 'SS26'. It's Charli’s second full-length release of 2026 having started the year with her soundtrack album to Emerald Fennell’s film adaptation of Wuthering Heights. 'Wink Wink' comes with a video directed by frequent collaborator Aidan Zamiri, which you can watch below. Atlantic will release Music, Fashion, Film on 24 July 2026. https://www.youtube.com/watch?v=BAp4q27hTOc ... The post Charli xcx Releases New Song, ‘Wink Wink’ appeared first on The Quietus .
-
-### Last.fm Deleted All The Bots, And The BTS Army Is Pissed
-Source: Stereogum
-Published: 2026-06-26 15:17 UTC
-URL: https://stereogum.com/2503537/last-fm-deleted-all-the-bots-and-the-bts-army-is-pissed/news/
-Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-
-For about 20 years, the long-running music-scrobbling website Last.fm was owned by CBS and its assorted corporate overlords. Last month, as Endgadget reported , Last.fm became an independent company, breaking away from the larger Paramount Skydance umbrella. The people who ran Last.fm promised that the website would continue to work the way that it always did. You'd be able to keep track of your listening history across different platforms and share it with the world. There's been one significant change, though: No more bots. At least among one fan community, that's a controversial decision. The post Last.fm Deleted All The Bots, And The BTS Army Is Pissed appeared first on Stereogum .
 
 ### Unsound Reveals First Acts Playing 2026 Edition
 Source: The Quietus
@@ -5409,14 +5292,6 @@ URL: https://www.thewire.co.uk/audio/tracks/unlimited-editions-honiunhoni
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
 
 To accompany his article on Honiunhoni in The Wire 509, Francis Gooding compiles an annotated playlist of tracks from the Karachi based label Founded by ethnomusicologist, educator and musician Daniyal Ahmed, Karachi based label Honiunhoni (‘Possible Impossibilities’) initially came to prominence through its championing of the octogenarian Balochi benju master, Ustad Noor Bakhsh, who was profiled in The Wire 466 . Since the release of his LP Jingul in 2022, Bakhsh has become an international phenomenon, playing to adoring crowds all around the world; for some sense of his extraordinary success, it is enough to note that he has already toured more extensively and in more countries than the great Nusrat Fateh Ali Khan did during his lifetime.
-
-### Shark School, “Selachimorpha”
-Source: Bandcamp Daily
-Published: 2026-06-24 13:41 UTC
-URL: https://daily.bandcamp.com/album-of-the-day/shark-school-selachimorpha-review
-Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-
-The rising Irish "abstract garage" trio bust out of the gate with an unbridled, indignant debut. Read full story on the Bandcamp Daily .
 
 ### Tyler Bates: Priapic Throb and Unmuffled Exhaust
 Source: The Wire Magazine
@@ -5641,53 +5516,61 @@ Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
 
 Source homepage / 来源主页
 
-### Upstate Art Weekend Opens For 7th Edition—Here Are 5 Shows to See
+### Vatican Museums Launch Major Restoration of Raphael’s Famous Frescoes
 Source: ARTnews
-Published: 2026-06-26 16:37 UTC
-URL: https://www.artnews.com/list/art-news/market/upstate-art-weekend-shows-to-see-1234790323/
+Published: 2026-06-26 21:02 UTC
+URL: https://www.artnews.com/art-news/news/vatican-museums-raphael-frescoes-restoration-1234790506/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
 
-With over 150 shows on the calendar, the weekend can be a bit overwhelming to plan. We've picked out five that are worth the trek.
+Created by Raphael for Pope Leo X, the Loggias have decorated a corridor in the Apostolic Palace for centuries.
 
-### A ‘Lucky’ Orange Handbag Designed by Fiancée of Knicks Star Karl Anthony-Towns Heads to the Guggenheim
+### Committee Urges Irish Government to Establish New Laws and Policies Related to Restitution
 Source: ARTnews
-Published: 2026-06-26 16:10 UTC
-URL: https://www.artnews.com/art-news/news/handbag-jordyn-brooks-knicks-karl-anthony-towns-guggenheim-1234790443/
+Published: 2026-06-26 20:20 UTC
+URL: https://www.artnews.com/art-news/news/committee-urges-irish-government-establish-new-laws-policies-restitution-repatriation-cultural-objects-1234790490/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
 
-Tired of winning yet?
+The committee, founded in 2023, presented its final report last month.
 
-### A Mystery Seller Will Offer $60 M. in Art and Design at Sotheby’s, Including Works by Canaletto, Degas, Guardi, Fragonard, and Picasso
+### US State Department Seeks Designs ‘Exemplifying America’s Exceptionalism’ for Venice Architecture Biennale
 Source: ARTnews
-Published: 2026-06-26 14:00 UTC
-URL: https://www.artnews.com/list/art-news/market/sothebys-magnum-opus-auction-mystery-seller-degas-picasso-1234790321/
+Published: 2026-06-26 19:28 UTC
+URL: https://www.artnews.com/art-news/news/americas-exceptionalism-at-the-2027-venice-architecture-biennale-1234790489/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
 
-A series of four sales in New York in October is expected to bring in excess of $60 million for 600 objects.
+The ideal design would help “counter negative perceptions and advance safety and security in the United States and worldwide,” according to the guidelines.
 
-### Untitled Art, Houston Lines Up 95 Galleries for Sophomore Edition in October
+### White House Historical Association’s $7.2 M. Rockwells Are Finally on View
 Source: ARTnews
-Published: 2026-06-26 14:00 UTC
-URL: https://www.artnews.com/art-news/market/untitled-art-houston-2026-exhibitor-list-1234790423/
+Published: 2026-06-26 19:16 UTC
+URL: https://www.artnews.com/art-news/news/norman-rockwell-white-house-historical-association-1234790485/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
 
-The fair runs October 2–4, with a VIP preview on October 1.
+A four-panel painting was made for the Saturday Evening Post in 1943.
 
-### Christie’s Lukewarm London Sale, Researchers Decipher Mount Vesuvius Scroll, and More
+### Ancient City of Sardis Earns UNESCO World Heritage Status After Nearly 70 Years of Excavation
 Source: ARTnews
-Published: 2026-06-26 13:49 UTC
-URL: https://www.artnews.com/art-news/news/researchers-decipher-mount-vesuvius-scroll-morning-links-1234790426/
+Published: 2026-06-26 18:27 UTC
+URL: https://www.artnews.com/art-news/news/sardis-earns-unesco-world-heritage-70-years-of-excavation-1234790470/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
 
-The researchers used machine learning to decipher the scroll.
+The inhabitants of Sardis, capital of the Iron Age kingdom of Lydia, are widely recognized as the inventors of coinage.
 
-### Tokyo Gendai Names 63 Exhibitors for Upcoming 2026 Edition in September
+### Critic Sebastian Smee Joins The Atlantic, MIT Museum Gets I.M. Pei Archive, and More: Industry Moves for June 26, 2026
 Source: ARTnews
-Published: 2026-06-26 12:56 UTC
-URL: https://www.artnews.com/art-news/market/tokyo-gendai-2026-exhibitor-list-1234790165/
+Published: 2026-06-26 18:24 UTC
+URL: https://www.artnews.com/art-news/market/sebastian-smee-the-atlantic-mit-museum-im-pei-industry-moves-1234790479/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
 
-The fair returns for its fourth iteration, from September 11–13 with a preview day on September 10.
+Plus, Mennour now represents artist Ruoxi Jin.
+
+### America 250: design’s role in shaping national identity
+Source: Design Observer
+Published: 2026-06-26 18:07 UTC
+URL: https://designobserver.com/america-250-designs-role-in-shaping-national-identity/
+Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
+
+From passports to "I Voted" stickers, design has long helped define the national "we" — and who stands outside it. The post America 250: design’s role in shaping national identity appeared first on DesignObserver .
 
 ### Draw the Line
 Source: Design Observer
@@ -5777,14 +5660,6 @@ Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
 
 Legal infographics that reflect a Turkish nation in flux.
 
-### Pope Leo XIV weighed in on the AI conversation
-Source: Design Observer
-Published: 2026-06-01 21:42 UTC
-URL: https://designobserver.com/pope-leo-xiv-weighed-in-on-the-ai-conversation/
-Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-
-And we asked the design community to respond The post Pope Leo XIV weighed in on the AI conversation appeared first on DesignObserver .
-
 ## architecture urbanism / 建筑与城市
 
 ### Planetizen
@@ -5815,6 +5690,38 @@ Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
 
 Source homepage / 来源主页
 
+### Sound Transit Board Advances West Seattle Link Into Final Design
+Source: The Urbanist
+Published: 2026-06-26 19:18 UTC
+URL: https://www.theurbanist.org/sound-transit-board-advances-west-seattle-link-into-final-design/
+Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
+
+A $406 million budget amendment approved Thursday is intended to get West Seattle Link ready for construction, a key promise in the wake of a Sound Transit board vote last month to rebalance the ST3 plan. Another $16 million advances design work on Ballard Link.
+
+### Op-Ed: Yet Another Deadly Rainier Valley Crash Points to Need for Protected Bike Lanes
+Source: The Urbanist
+Published: 2026-06-26 18:17 UTC
+URL: https://www.theurbanist.org/op-ed-yet-another-deadly-rainier-valley-crash-points-to-need-for-protected-bike-lanes/
+Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
+
+The tragic death of elementary school teacher Christian Salyer underscores that the City has neglected the safe bike network in South Seattle too long. It’s time to change that.
+
+### Ten products and furnishings infused with Italian style
+Source: Dezeen
+Published: 2026-06-26 18:00 UTC
+URL: https://www.dezeen.com/2026/06/26/ten-furnishings-products-tiles-seating-italian-brands-dezeen-showroom/
+Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
+
+Dezeen Showroom: a headboard topped with oversized ceramic beads is among the pieces on Dezeen Showroom by Italian design brands. From speakers set atop marble plinths to chairs informed by the process of hand-sketching, the following pieces demonstrate the continuation of Italy's long-standing design and craft heritage. Products by brands found up and down the The post Ten products and furnishings infused with Italian style appeared first on Dezeen .
+
+### IKEA Canada arranges familiar homeware into World Cup team flags
+Source: Dezeen
+Published: 2026-06-26 17:00 UTC
+URL: https://www.dezeen.com/2026/06/26/ikea-canada-flag-campaign/
+Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
+
+IKEA Canada has launched a marketing campaign where dinnerware, towels, furniture and more have been arranged to resemble the national flags of teams competing in the 2026 FIFA World Cup. A collaboration with marketing firm Dentsu Creative, the Bring the World to Life campaign features IKEA goods arranged by shape and colour to create vignettes The post IKEA Canada arranges familiar homeware into World Cup team flags appeared first on Dezeen .
+
 ### Social housing centre with football pitch among projects from the Royal Danish Academy
 Source: Dezeen
 Published: 2026-06-26 15:00 UTC
@@ -5822,6 +5729,14 @@ URL: https://www.dezeen.com/2026/06/26/royal-danish-academy-school-show/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
 
 Dezeen School Shows: a centre in Mérida, Mexico, with social housing and a shaded football pitch is among the projects from the Royal Danish Academy. Also featured is a knitted wool pavilion that creates interconnected microclimates and a gamified mobile app design to reduce food waste. Royal Danish Academy Course: Design and Architecture School statement: The post Social housing centre with football pitch among projects from the Royal Danish Academy appeared first on Dezeen .
+
+### Caiçara House / Studio Carlito e Renata Pascucci
+Source: ArchDaily
+Published: 2026-06-26 15:00 UTC
+URL: https://www.archdaily.com/1042651/caicara-house-studio-carlito-e-renata-pascucci
+Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
+
+The project stemmed from a twofold request: to build a home with a “caiçara” identity that was also designed for short-term rentals and a possible future sale. The clients, a couple who have lived on the northern coast of São Paulo for over twenty years, approached Studio Carlito e Renata Pascucci with these two well-defined goals in mind. It fell to Renata Pascucci, the architect in charge of the project, to strike a balance between identity and profitability.
 
 ### Bellevue Council Approves Reduced Speed Limits in Search of Safety Gains
 Source: The Urbanist
@@ -5871,22 +5786,6 @@ Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
 
 Construction has commenced on Dar al Funoon Abu Dhabi, a performing arts venue designed by Canadian-American architect Frank Gehry before his death, Abu Dhabi's Department of Culture and Tourism has announced. Expected to be completed in 2030, the landmark venue will be located on Saadiyat Island, joining Gehry's Guggenheim Abu Dhabi, which is also under The post Abu Dhabi reveals plans for Frank Gehry-designed performing arts venue appeared first on Dezeen .
 
-### Is Gaudí the greatest architect ever?
-Source: Dezeen
-Published: 2026-06-26 09:45 UTC
-URL: https://www.dezeen.com/2026/06/26/gaudi-dezeen-weekly-podcast/
-Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-
-Why is Gaudí so widely admired? Is there a darker side to his architecture? And should he be made a saint? Listen to the latest episode of Dezeen Weekly now. This month marks 100 years since the death of Antoni Gaudí, one of the most famous architects of all time. For this episode, Dezeen features editor The post Is Gaudí the greatest architect ever? appeared first on Dezeen .
-
-### Call It a Day lighting by Tongqi Lu Design
-Source: Dezeen
-Published: 2026-06-26 09:30 UTC
-URL: https://www.dezeen.com/2026/06/26/call-it-a-day-lighting-tongqi-lu-dezeen-showroom/
-Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-
-Dezeen Showroom: intuitive gestures rather than switches control lights in the Call It a Day collection, designed by Shanghai-based studio Tongqi Lu Design. The Call It a Day collection features a table lamp, floor lamp and pendant lamp, all featuring translucent, touch-inviting silicone shades. The lighting collection is designed without switches and instead invites users to turn The post Call It a Day lighting by Tongqi Lu Design appeared first on Dezeen .
-
 ### Rewilding the City: 6 Unbuilt Projects from the ArchDaily Community
 Source: ArchDaily
 Published: 2026-06-26 07:30 UTC
@@ -5911,14 +5810,6 @@ Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
 
 Long before it becomes a matter of performance, comfort, or energy efficiency, natural light is a way of giving presence to architecture. It reveals the texture of a wall, the depth of an opening, and the silent passage of time within a space. In works as distinct as those of Tadao Ando and Alvar Aalto , daylight appears as an essential material of design: in some cases, guiding the eye toward contemplation; in others, making spaces feel more human, welcoming, and connected to everyday life.
 
-### One Day, Four Earthquakes: What Seismic Resilience Reveals About the Built Environment
-Source: ArchDaily
-Published: 2026-06-26 06:30 UTC
-URL: https://www.archdaily.com/1042788/one-day-four-earthquakes-what-seismic-resilience-reveals-about-the-built-environment
-Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-
-Within a 36-hour window between June 24 and June 25, four significant earthquakes struck three different regions of the world. A magnitude 7.2 earthquake shook Japan 's northeastern coast, a magnitude 5.6 event was recorded in Northern California , and two major earthquakes measuring magnitudes 7.2 and 7.5 occurred just 39 seconds apart along Venezuela 's northern coast. Although their close timing prompted speculation online, seismologists confirmed that the events were unrelated , occurring independently along different tectonic plate boundaries.
-
 ### Democratic Leaders Launch ‘No Hate in WA State’ Campaign Opposing Anti-Trans Ballot Measures
 Source: The Urbanist
 Published: 2026-06-25 21:48 UTC
@@ -5942,22 +5833,6 @@ URL: https://www.theurbanist.org/sales-were-up-at-pike-place-after-pedestrian-pi
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
 
 In the wake of news of increased sales across Pike Place Market after a pedestrian pilot was implemented, the advocacy group Friends of the Market is attempting to poke holes in that data. But the evidence for "worrisome trends" is paper thin.
-
-### Seattle Light Rail and Scootershare Smash Ridership Records, Buoyed by Friday World Cup Match
-Source: The Urbanist
-Published: 2026-06-24 00:53 UTC
-URL: https://www.theurbanist.org/seattle-light-rail-and-scootershare-smash-ridership-records-buoyed-by-friday-world-cup-match/
-Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-
-Sound Transit set a new light rail ridership record on Friday, June 19, collecting an estimated 280,000 boardings as Seattle hosted a World Cup soccer match. Lime also set a new record for scooter and bikeshare usage.
-
-### Metro Launches Summer Bus from Ballard to Golden Gardens
-Source: The Urbanist
-Published: 2026-06-23 13:00 UTC
-URL: https://www.theurbanist.org/metro-launches-summer-bus-from-ballard-to-golden-gardens/
-Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-
-On June 27, King County Metro is launching a new summer-only bus route connecting beachgoers to Golden Gardens Park, temporarily closing a hole in the agency's bus network thanks to Seattle Transit Measure funding.f
 
 ## games / 游戏
 
@@ -6055,7 +5930,7 @@ Published: 2026-06-26 14:46 UTC
 URL: https://www.rockpapershotgun.com/creative-assembly-confirm-total-war-medieval-3s-starting-factions-pegging-out-a-complex-world-of-schemers-and-killers-feudal-giants-and-emerging-empires
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
 
-Creative Assembly have announced the first six playable factions for historical strategy bash Total War: Medieval 3 , while also sharing a little insight on the process of choosing Total War factions. Of course, the optimal way to select Twarieval 3 factions would be to mock up a grand tournament, where designers adorned with the heraldry of each realm prove their mettle in the jousts, the melee, and the pas d'armes, while rival spymasters contrive to spike their goblets with arsenic. Sadly, I don't think Creative Assembly have the budget to build a jousting arena, and poisonings tend to be frowned upon by modern HR departments. But they are, at least, letting players vote on 23 other playable factions they're thinking about adding. Online voting: the tiltyard of the modern era. Read more
+Creative Assembly have announced the first six playable factions for historical strategy bash Total War: Medieval 3 , while also sharing a little insight on the process of choosing Total War factions. Of course, the optimal way to select Twarieval 3 factions would be to mock up a grand tournament, where designers adorned with the heraldry of each realm prove their mettle in the jousts, the melee, and the pas d'armes, while rival spymasters contrive to spike their goblets with arsenic. Sadly, I don't think Creative Assembly have the budget to build a jousting arena, and poisonings tend to be frowned upon by HR departments. But they are, at least, letting players vote on 23 other playable factions they're thinking about adding. Online voting: the tiltyard of the modern era. Read more
 
 ### Inside Skybound's video game strategy ft. David 'DA' Alpert and Jon Goldman
 Source: Game Developer
@@ -6152,98 +6027,139 @@ Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
 
 Source homepage / 来源主页
 
-### Jenny Packham Resort 2027
+### Ernest W. Baker Spring 2027 Menswear
 Source: Vogue
-Published: 2026-06-26 16:55 UTC
-URL: https://www.vogue.com/fashion-shows/resort-2027/jenny-packham
+Published: 2026-06-26 21:12 UTC
+URL: https://www.vogue.com/fashion-shows/spring-2027-menswear/ernest-w-baker
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
 
-### Charles Jeffrey Loverboy Spring 2027 Menswear
+### Vetements Spring 2027 Menswear
 Source: Vogue
-Published: 2026-06-26 16:55 UTC
-URL: https://www.vogue.com/fashion-shows/spring-2027-menswear/charles-jeffrey-loverboy
+Published: 2026-06-26 21:12 UTC
+URL: https://www.vogue.com/fashion-shows/spring-2027-menswear/vetements
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
 
-### Lanvin Spring 2027 Menswear
+### Lazoschmidl Spring 2027 Menswear
 Source: Vogue
-Published: 2026-06-26 16:55 UTC
-URL: https://www.vogue.com/fashion-shows/spring-2027-menswear/lanvin
+Published: 2026-06-26 21:12 UTC
+URL: https://www.vogue.com/fashion-shows/spring-2027-menswear/lazoschmidl
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
 
-### Comme des Garçons Homme Plus Spring 2027 Menswear
+### Lu'u Dan Spring 2027 Menswear
 Source: Vogue
-Published: 2026-06-26 16:55 UTC
-URL: https://www.vogue.com/fashion-shows/spring-2027-menswear/comme-des-garcons-homme-plus
+Published: 2026-06-26 21:12 UTC
+URL: https://www.vogue.com/fashion-shows/spring-2027-menswear/luu-dan
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
 
-### Gabriela Hearst Resort 2027
+### LGN Louis Gabriel Nouchi Spring 2027 Menswear
 Source: Vogue
-Published: 2026-06-26 16:55 UTC
-URL: https://www.vogue.com/fashion-shows/resort-2027/gabriela-hearst
+Published: 2026-06-26 21:12 UTC
+URL: https://www.vogue.com/fashion-shows/spring-2027-menswear/lgn-louis-gabriel-nouchi
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
 
-### Willy Chavarria Spring 2027 Menswear
+### Officine Générale Spring 2027 Menswear
 Source: Vogue
-Published: 2026-06-26 16:55 UTC
-URL: https://www.vogue.com/fashion-shows/spring-2027-menswear/willy-chavarria
+Published: 2026-06-26 21:12 UTC
+URL: https://www.vogue.com/fashion-shows/spring-2027-menswear/officine-generale
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
 
-### Lululemon Shareholders Back Board After Truce With Founder
+### The BoF Podcast | Oura CEO on the Future of Health Intelligence
 Source: Business of Fashion
-Published: 2026-06-26 16:51 UTC
-URL: https://www.businessoffashion.com/news/retail/lululemon-shareholders-back-board-after-truce-with-founder/
+Published: 2026-06-26 20:05 UTC
+URL: https://www.businessoffashion.com/podcasts/beauty/the-bof-podcast-oura-ceo-on-the-future-of-health-intelligence/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
 
-Lululemon shareholders elected three management-backed directors, including former Levi Strauss chief Chip Bergh, cementing the settlement of a bruising proxy battle with its founder and paving the way for the incoming CEO to focus on reviving the athleisure brand.
+One month after filing for an IPO, Tom Hale joined Imran Amed at The Business of Beauty Global Forum to lay out the company’s central thesis: that Oura is building the world’s first large physiological model, ‘continuously monitoring your body, learning from your physiology and helping you make better decisions.’
 
-### Nike and Adidas Are Taking the World Cup to the Street
+### ERL Exits Dover Street Market Incubator
 Source: Business of Fashion
-Published: 2026-06-26 16:35 UTC
-URL: https://www.businessoffashion.com/briefings/sports/nike-and-adidas-are-taking-the-world-cup-to-the-street/
+Published: 2026-06-26 19:14 UTC
+URL: https://www.businessoffashion.com/news/luxury/erl-exits-dover-street-market-incubator/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
 
-Nike and Adidas have been jostling for position with their World Cup activations for months now. This weekend, that battle will spill into the streets of New York City.
+Designer Eli Russell Linnetz’s Venice Beach-based label has split with Dover Street Market’s brand development arm, taking full control of product development, manufacturing and distribution as it pushes into womenswear.
 
-### The Business of Beauty Global Awards 2026: Winners Announced
+### Will Extreme Heat Change Fashion’s Climate Calculus?
 Source: Business of Fashion
-Published: 2026-06-26 06:33 UTC
-URL: https://www.businessoffashion.com/articles/beauty/the-business-of-beauty-global-awards-winners-2026/
+Published: 2026-06-26 18:55 UTC
+URL: https://www.businessoffashion.com/briefings/this-week-in-fashion/will-extreme-heat-change-fashions-climate-calculus/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
 
-Wavy, Secret Alchemist, Sarelly, Dr. Diamond’s Metacine, Borntostandout and Suri are the winners of The Business of Beauty Global Awards 2026, honoured on Thursday at the Global Forum in Napa Valley, California.
+The hottest chatter in Paris and Milan this week has been, well, the heat itself.
 
-### How to Get Hired in the Age of AI
+### Is It a Vibe Shift — or Just Summer?
 Source: Business of Fashion
-Published: 2026-06-26 04:30 UTC
-URL: https://www.businessoffashion.com/articles/workplace-talent/how-to-get-hired-in-the-age-of-ai/
+Published: 2026-06-26 18:37 UTC
+URL: https://www.businessoffashion.com/briefings/luxury/is-it-a-vibe-shift-or-just-summer/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
 
-As AI makes it easier than ever to produce polished résumés, recruiters are relying on new methods to assess attributes like judgment, adaptability and potential.
+The collective effervescence of the Paris heatwave on the heels of Knicks fever in New York suggests culture is shifting. Can fashion keep up? Plus, Dior, Saint Laurent and Louis Vuitton show menswear in Paris.
 
-### Controlling Your Destiny: How Mona Kattan Reclaimed Her Voice
+### In Sweltering Paris, Louis Vuitton’s Waterfall Show Draws Scrutiny
 Source: Business of Fashion
-Published: 2026-06-26 03:03 UTC
-URL: https://www.businessoffashion.com/articles/beauty/mona-kattan-kayali-global-forum/
+Published: 2026-06-26 17:40 UTC
+URL: https://www.businessoffashion.com/news/luxury/in-sweltering-paris-louis-vuittons-waterfall-show-draws-scrutiny/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
 
-The founder of Kayali closed The Business of Beauty Global Forum by reflecting on her choice to carve out her fragrance label from the family business.
+Imagery from the installation rekindled debate over how fashion brands use the city and its landmarks ​for commercial purposes.
 
-### Building the World of Health Tech: Oura’s Tom Hale on its IPO and What’s Next
+### Zalando Probed by German Regulator Over Disclosure Issue
 Source: Business of Fashion
-Published: 2026-06-26 03:02 UTC
-URL: https://www.businessoffashion.com/articles/beauty/oura-tom-hale-ipo-trackable-wearable-health-data/
+Published: 2026-06-26 17:06 UTC
+URL: https://www.businessoffashion.com/news/retail/zalando-probed-by-german-regulator-over-disclosure-issue/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
 
-The leader of the cutting-edge wearables firm, recently valued at $11 billion, told the audience at The Business of Beauty Global Forum that the business of health tech needs to be founded on retention and habit creation.
+Germany’s financial regulator is investigating Zalando after it failed to note in its annual report that Danish billionaire and biggest shareholder Anders Holch Povlsen also held a stake in a company it bought last year.
 
 ## human societies / 人类社会
 
-### Nature Human Behaviour
-Source: URL-only source / 仅网址源
-URL: https://www.nature.com/nathumbehav/
+### US funding cuts offer a rare chance to remodel Global North–Global South research collaboration
+Source: Nature Human Behaviour
+Published: 2026-06-26 21:14 UTC
+URL: https://www.nature.com/articles/s41562-026-02497-2
 Source meta: journal · primary · R5 · P5 · baseline
 
-Source homepage / 来源主页
+Nature Human Behaviour, Published online: 15 June 2026; doi:10.1038/s41562-026-02497-2 US funding cuts offer a rare chance to remodel Global North–Global South research collaboration
+
+### When languages favour complex words
+Source: Nature Human Behaviour
+Published: 2026-06-26 21:14 UTC
+URL: https://www.nature.com/articles/s41562-026-02493-6
+Source meta: journal · primary · R5 · P5 · baseline
+
+Nature Human Behaviour, Published online: 15 June 2026; doi:10.1038/s41562-026-02493-6 Languages often co-express related meanings, either reusing words or combining parts of words. It is poorly understood when each strategy is favoured. Across 1,982 languages, Brochhagen et al. find the ease of disambiguation of co-expressed meanings to predict the strategy used, which suggests that co-expression strategies are adaptive to communicative efficiency.
+
+### Re-evaluating evidence for a ‘naming bias’ in scientific awards
+Source: Nature Human Behaviour
+Published: 2026-06-26 21:14 UTC
+URL: https://www.nature.com/articles/s41562-026-02495-4
+Source meta: journal · primary · R5 · P5 · baseline
+
+Nature Human Behaviour, Published online: 18 June 2026; doi:10.1038/s41562-026-02495-4 Re-evaluating evidence for a ‘naming bias’ in scientific awards
+
+### Representativeness and response validity across nine opt-in online samples
+Source: Nature Human Behaviour
+Published: 2026-06-26 21:14 UTC
+URL: https://www.nature.com/articles/s41562-026-02438-z
+Source meta: journal · primary · R5 · P5 · baseline
+
+Nature Human Behaviour, Published online: 22 June 2026; doi:10.1038/s41562-026-02438-z Stagnaro et al. compare nine opt-in participant samples on measures of response validity, representativeness and professionalism. They find substantial variation across samples and offer guidance for choosing samples based on the research question.
+
+### Political segregation in the US workplace
+Source: Nature Human Behaviour
+Published: 2026-06-26 21:14 UTC
+URL: https://www.nature.com/articles/s41562-026-02501-9
+Source meta: journal · primary · R5 · P5 · baseline
+
+Nature Human Behaviour, Published online: 22 June 2026; doi:10.1038/s41562-026-02501-9 Merging data on over 45 million US workers, Frake et al. find substantial workplace political segregation. Political segregation is comparable in magnitude to gender segregation and is strongest among politically engaged workers with market power.
+
+### Potential mechanisms and functional significance of aperiodic neural activity
+Source: Nature Human Behaviour
+Published: 2026-06-26 21:14 UTC
+URL: https://www.nature.com/articles/s41562-026-02503-7
+Source meta: journal · primary · R5 · P5 · baseline
+
+Nature Human Behaviour, Published online: 22 June 2026; doi:10.1038/s41562-026-02503-7 In this Review, Preston, Smith and Voytek examine aperiodic neural activity in the brain and how measuring aperiodic activity can shed light on brain function and disease.
 
 ### The Conversation – Society
 Source: URL-only source / 仅网址源
@@ -6273,6 +6189,13 @@ Source meta: specialist_media · specialist · R4 · P4 · baseline
 
 Source homepage / 来源主页
 
+### Somatosphere
+Source: URL-only source / 仅网址源
+URL: http://somatosphere.net/
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+Source homepage / 来源主页
+
 ### Sensations: French Archaeology Between Science and Spectacle, 1890–1940
 Source: American Anthropologist
 Published: 2026-06-25 14:44 UTC
@@ -6280,14 +6203,6 @@ URL: https://anthrosource.onlinelibrary.wiley.com/doi/10.1111/aman.70100?af=R
 Source meta: journal · primary · R5 · P5 · reference
 
 American Anthropologist, EarlyView.
-
-### Middlemen, fakes, and global health: Opening provocations
-Source: Somatosphere
-Published: 2026-06-25 09:04 UTC
-URL: https://somatosphere.net/middlemen-fakes-and-global-health-opening-provocations/
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-Why should the figure of the middleman matter for scholars of global health? The short answer is: they are impossible to avoid. The long answer is as follows: Throughout the twenty-first century, claims have circulated that the global pharmaceutical supply chain is awash with fakes, and these claims sparked our curiosity. For nearly a decade, […]
 
 ### Bodies, Stereotypes, and Reproduction: Black Migrants Experiencing Obstetric Violence and Racism in Portugal
 Source: American Anthropologist
@@ -6320,14 +6235,6 @@ URL: https://anthrosource.onlinelibrary.wiley.com/doi/10.1111/aman.70095?af=R
 Source meta: journal · primary · R5 · P5 · reference
 
 American Anthropologist, EarlyView.
-
-### In the Journals – June 2026
-Source: Somatosphere
-Published: 2026-06-21 12:30 UTC
-URL: https://somatosphere.net/in-the-journals-june-2026/
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-Somatosphere welcomes you to the June edition of “In the Journals.” Scroll through our monthly round up of new research across anthropology, STS and social science journals. American Anthropologist Positioning Ontologies of Racial Inequity That are Prevalent in Reproductive and Maternal Health in South Africa Efua Prah This paper discusses the racialized historical trajectories through […]
 
 ### Colonial Legacies and Contemporary Struggles: Race, Reproduction, and Health Inequalities
 Source: American Anthropologist
@@ -6369,14 +6276,6 @@ Source meta: specialist_media · specialist · R4 · P4 · baseline
 
 Dr. Elizabeth Lapovsky Kennedy, a cultural anthropologist, social activist, and scholar of women’s and queer studies, died on May 23, 2026, at the age of 86 after struggles with Parkinson’s. Bobbi Prebis, labor activist and her partner of 50 years, pre-deceased her by several months. Liz was a brilliant, generous, and lively thinker who enjoyed […] The post In Memoriam: Elizabeth Lapovsky Kennedy appeared first on Anthropology News .
 
-### The virology of history: notes from a workshop on symbiotic viruses
-Source: Somatosphere
-Published: 2026-06-14 13:12 UTC
-URL: https://somatosphere.net/the-virology-of-history-notes-from-a-workshop-on-symbiotic-viruses/
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-A workshop report of Symbiotic Viruses, convened by Benjamin Hegarty and Frédéric Keck, and held at the Collège de France and Paris Institute for Advanced Study, 4-5 March 2025 1. The virology of history The idea that viruses might be addressed as potential allies in human health is a tantalising yet troubling prospect. In the aftermath […]
-
 ### Going Native: Food for Thought
 Source: Anthropology News
 Published: 2026-06-11 21:19 UTC
@@ -6384,14 +6283,6 @@ URL: https://www.anthropology-news.org/articles/going-native-food-for-thought/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
 The post Going Native: Food for Thought appeared first on Anthropology News .
-
-### Book review: ‘Get it out: On the Politics of Hysterectomy’
-Source: Somatosphere
-Published: 2026-06-07 10:51 UTC
-URL: https://somatosphere.net/book-review-get-it-out-on-the-politics-of-hysterectomy/
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-Get it out: On the Politics of Hysterectomy by Andréa Becker (New York University Press: 2025) Hysterectomy is the most common gynecological procedure worldwide, yet until recently only one book, written by Jean Elson in 2003, has previously taken it as its central focus, reflecting a dominant narrative that obscures the diversity of its interpretations. […]
 
 ### News
 Source: Anthropology Today
@@ -6448,22 +6339,6 @@ URL: https://www.anthropology-news.org/articles/most-read-aa-articles-in-2026/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
 We’re halfway through 2026! If you follow the news it may feel like it’s been a lot longer, but hopefully you can take a break to check out the most-read AA articles published so far this year. Indigenous Futurities: Theorizing Futurity in the Past and Present Lindsay Martel Montgomery, Heather Law Pezzarossi Feelings Without Emotion: Rethinking […] The post Most-Read AA Articles in 2026 appeared first on Anthropology News .
-
-### Biopolitical Fieldwork in Practice: Notes from Our Delhi Workshop
-Source: Somatosphere
-Published: 2026-03-26 19:08 UTC
-URL: https://somatosphere.net/biopolitical-fieldwork-in-practice-notes-from-our-delhi-workshop/
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-1. Biopolitical Fieldwork By the end of 2023, the World Health Organization declared the COVID-19 public health emergency to be over. With this announcement came the realisation that, despite an abundance of publications, online debates, and solitary reflection, it remained difficult to know how to think about what we had lived through – or even […]
-
-### The Politics of “Essential Work”: ASHA Workers and the Essentialization of Labor in India
-Source: Somatosphere
-Published: 2026-03-12 10:30 UTC
-URL: https://somatosphere.net/the-politics-of-essential-work-asha-workers-and-the-essentialization-of-labor-in-india/
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-Since 2020, the category of “essential work,” and the exploitative conditions it legitimized during the COVID-19 pandemic, has sparked waves of labor protest across the globe. Feminist scholars saw the global emergence of the category of “essential work” as holding emancipatory potential, as it publicly affirmed the value of reproductive labor (Stevano and and Jamieson […]
 
 ### Best of SAPIENS 2025
 Source: SAPIENS
@@ -6547,7 +6422,7 @@ jimi adams is an Associate Professor in the Department of Health and Behavioral 
 
 ### Commentary: On the Equal-Opportunity Jerk “Defense”: Rudeness Complicates Sexism Attributions but Comes at a Cost
 Source: Psychological Science
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://journals.sagepub.com/doi/abs/10.1177/09567976261418939?af=R
 Source meta: journal · primary · R5 · P5 · reference
 
@@ -6555,7 +6430,7 @@ Psychological Science, Ahead of Print. Sexism is a pervasive and persistent prob
 
 ### Fidelity Versus Validity Using Anendophasia as an Example: Commentary on Nedergaard and Lupyan (2024) and Lind (2025)
 Source: Psychological Science
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://journals.sagepub.com/doi/abs/10.1177/09567976251413525?af=R
 Source meta: journal · primary · R5 · P5 · reference
 
@@ -6563,7 +6438,7 @@ Psychological Science, Ahead of Print. Nedergaard and Lupyan (2024) presented fo
 
 ### Not All Practice Is Created Equal: Longitudinal Evidence From Over 40,000 Chess Players
 Source: Psychological Science
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://journals.sagepub.com/doi/abs/10.1177/09567976261452568?af=R
 Source meta: journal · primary · R5 · P5 · reference
 
@@ -6571,7 +6446,7 @@ Psychological Science, Ahead of Print. In recent years, several scholars have ar
 
 ### Multitarget Visual Search Flexibly Switches Between Concurrent and Sequential Search Modes
 Source: Psychological Science
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://journals.sagepub.com/doi/abs/10.1177/09567976261442169?af=R
 Source meta: journal · primary · R5 · P5 · reference
 
@@ -6579,7 +6454,7 @@ Psychological Science, Volume 37, Issue 6, Page 411-427, June 2026. Investigatio
 
 ### Motive Alignment Promotes Adolescents’ Proenvironmental Behavior: A Field Experiment in Two Cultures
 Source: Psychological Science
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://journals.sagepub.com/doi/abs/10.1177/09567976261440239?af=R
 Source meta: journal · primary · R5 · P5 · reference
 
@@ -6587,7 +6462,7 @@ Psychological Science, Volume 37, Issue 6, Page 379-391, June 2026. Realizing a 
 
 ### Retributive Sentiments Track Both Deterrent and Compensatory Concerns in a Small-Scale Society and a WEIRD Sample
 Source: Psychological Science
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://journals.sagepub.com/doi/abs/10.1177/09567976261439088?af=R
 Source meta: journal · primary · R5 · P5 · reference
 
@@ -6671,6 +6546,13 @@ The trauma of foster care left gaps in my memory. Could I piece together a past 
 
 ## general science news / 综合科学新闻
 
+### Neuroscience News
+Source: URL-only source / 仅网址源
+URL: https://neurosciencenews.com
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+Source homepage / 来源主页
+
 ### Science X
 Source: URL-only source / 仅网址源
 URL: https://sciencex.com/news/
@@ -6720,29 +6602,109 @@ Source meta: specialist_media · specialist · R4 · P4 · baseline
 
 Source homepage / 来源主页
 
-### Screen reveals new proteins that control RNA processing
+### Clean crystal surface lets single molecules hit ultimate quantum limit
 Source: Phys.org
-Published: 2026-06-26 16:53 UTC
-URL: https://phys.org/news/2026-06-screen-reveals-proteins-rna.html
+Published: 2026-06-26 21:00 UTC
+URL: https://phys.org/news/2026-06-crystal-surface-molecules-ultimate-quantum.html
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
-Researchers at the University of California San Diego have developed a large-scale screening approach that identifies proteins controlling a fundamental step in gene expression known as alternative polyadenylation (APA). APA determines where an RNA molecule is cut and finished before it is translated into protein, influencing the stability, localization and function of thousands of genes. The paper is published in the journal Molecular Cell.
+Scientists at the Max Planck Institute for the Science of Light (MPL) have developed a technique for interrogating molecules on surfaces with spectroscopic precision, thereby reaching the ultimate quantum limit for the first time. With their findings, published in Science, the researchers open new opportunities for the study of molecule-surface interactions and molecular quantum technologies.
 
-### Chemically primitive galaxy from 13 billion years ago reveals record-low oxygen
-Source: Phys.org
-Published: 2026-06-26 16:40 UTC
-URL: https://phys.org/news/2026-05-chemically-primitive-galaxy-billion-years.html
+### This Was a Big Week for Marie Curie, More Than 120 Years Ago
+Source: Nautilus
+Published: 2026-06-26 21:00 UTC
+URL: https://nautil.us/this-was-a-big-week-for-marie-curie-more-than-120-years-ago-1282285/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
-An international team of astronomers has used the James Webb Space Telescope (JWST) and a natural phenomenon known as gravitational lensing to achieve a definitive characterization of LAP1-B, an ultra-faint galaxy from 13 billion years ago. Expanding upon initial detections, this new study revealed a record-breaking low oxygen abundance—merely 1/240th that of the sun.
+Despite steep odds, she became the first woman in France to earn a doctorate in science The post This Was a Big Week for Marie Curie, More Than 120 Years Ago appeared first on Nautilus .
 
-### Pacific plate's rotation gave Alaska's Aleutian Islands a later-life lift
-Source: Phys.org
-Published: 2026-06-26 16:40 UTC
-URL: https://phys.org/news/2026-06-pacific-plate-rotation-gave-alaska.html
+### Scientists stunned by signs of ancient life in a place no one expected
+Source: ScienceDaily
+Published: 2026-06-26 20:45 UTC
+URL: https://www.sciencedaily.com/releases/2026/06/260621111234.htm
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
-New research by Brown University geologists confirms that the Aleutian Islands, the archipelago stretching from Alaska to Russia's Kamchatka Peninsula, experienced a massive geological uplift between 5 million and 7 million years ago. The researchers conclude that the uplift—a rising of the Earth's crust that pushed the islands upward and transformed their topography—was driven by an ancient rotation of the Pacific tectonic plate, which subducts beneath the North American plate near the Alaska Peninsula and the North Pacific.
+Scientists exploring ancient seafloor rocks in Morocco discovered mysterious wrinkle patterns where they were never expected to occur. These structures are normally linked to microbial mats in shallow, sunlit waters, yet the rocks formed hundreds of feet below the surface in darkness. Evidence indicates that chemosynthetic microbes created the wrinkles, revealing that deep-ocean microbial ecosystems may have been more widespread than previously thought.
+
+### Ocean warming above 1.5°C triggered year-round marine disruption across globe, study shows
+Source: Phys.org
+Published: 2026-06-26 20:40 UTC
+URL: https://phys.org/news/2026-06-ocean-15c-triggered-year-marine.html
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+Researchers at King Abdullah University of Science and Technology (KAUST) led one of the first global assessments of how marine ecosystems responded during the first year when global temperatures temporarily exceeded 1.5°C above pre-industrial levels.
+
+### Japan's small cities may face higher care burdens under the compact city policy
+Source: Phys.org
+Published: 2026-06-26 20:20 UTC
+URL: https://phys.org/news/2026-06-japan-small-cities-higher-burdens.html
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+As populations decline and age across the developed world, compact city strategies, which oversee the consolidation of urban facilities and guide residents toward transit-served hubs, have become mainstream policies. Yet most evidence about their benefits comes from cities that are already compact. Far less is known about the social costs that may arise during the transition to compactness in the small and medium-sized cities (SMCs) most exposed to shrinkage.
+
+### ROS-producing enzymes guide plant cell division and tissue patterning, gene-editing study shows
+Source: Phys.org
+Published: 2026-06-26 20:20 UTC
+URL: https://phys.org/news/2026-06-ros-enzymes-cell-division-tissue.html
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+Reactive oxygen species (ROS) produced naturally during cellular metabolism often cause oxidative damage to cells. However, these molecules also play an important role in normal cellular signaling. While ROS are established as essential signaling molecules in various organisms, their precise role in basic plant development and morphogenesis remains unclear.
+
+### Pegasus launch to deploy LINK for months‑long orbit boost of aging Swift
+Source: Phys.org
+Published: 2026-06-26 20:00 UTC
+URL: https://phys.org/news/2026-06-pegasus-deploy-link-monthslong-orbit.html
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+A mission to raise the orbit of NASA's Neil Gehrels Swift Observatory is poised for launch no earlier than Tuesday, June 30, at 6:23 a.m. EDT (10:23 p.m. UTC+12), from Kwajalein Atoll, part of the Republic of the Marshall Islands in the South Pacific Ocean.
+
+### Plasma and graphene combine to protect metal surfaces from corrosion
+Source: Phys.org
+Published: 2026-06-26 20:00 UTC
+URL: https://phys.org/news/2026-06-plasma-graphene-combine-metal-surfaces.html
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+Plasma is an ionized gas, often referred to as the fourth state of matter. Plasmas, which are created artificially by applying energy to a gas, are found in the fluorescent tubes that illuminate kitchens. However, they have many other possible applications, such as the production of graphene.
+
+### 'It sounds so impossible': Student studying fungus that makes users hallucinate tiny people may be on the verge of a scientific breakthrough
+Source: Live Science
+Published: 2026-06-26 18:26 UTC
+URL: https://www.livescience.com/chemistry/it-sounds-so-impossible-student-studying-fungus-that-makes-users-hallucinate-tiny-people-may-be-on-the-verge-of-a-scientific-breakthrough
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+Live Science spoke with Colin Domnauer, a PhD student in ethnobiology whose unraveling of a mushroom mystery could reveal a new hallucinogenic compound.
+
+### James Webb Space Telescope Captures the Cigar Galaxy’s Brilliant Stellar Halo in Pristine Detail
+Source: Nautilus
+Published: 2026-06-26 18:00 UTC
+URL: https://nautil.us/james-webb-space-telescope-captures-the-cigar-galaxys-brilliant-stellar-halo-in-pristine-detail-1282277/
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+The newly released images offer hints into the galaxy’s turbulent past The post James Webb Space Telescope Captures the Cigar Galaxy’s Brilliant Stellar Halo in Pristine Detail appeared first on Nautilus .
+
+### From pet to pest, goldfish can wreck entire ecosystems
+Source: ScienceDaily
+Published: 2026-06-26 17:45 UTC
+URL: https://www.sciencedaily.com/releases/2026/06/260622091524.htm
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+A new study reveals that goldfish can do far more than survive in the wild—they can fundamentally reshape freshwater ecosystems. Researchers found they cloud water, damage food webs, and hurt native fish populations, sometimes triggering major ecological shifts.
+
+### How big a cybersecurity threat are the latest AI models, really?
+Source: Science News
+Published: 2026-06-26 17:00 UTC
+URL: https://www.sciencenews.org/article/cybersecurity-threat-new-ai-models
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+New AI models are accelerating the game of cat-and-mouse as cybersecurity experts try to keep ahead of would-be hackers. An AI expert explains the risks.
+
+### How Humans Are Like Bloodhounds and Bats
+Source: Nautilus
+Published: 2026-06-26 17:00 UTC
+URL: https://nautil.us/how-humans-are-like-bloodhounds-and-bats-1282274/
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+A conversation with writer Richard Louv, who coined the term “nature deficit disorder” The post How Humans Are Like Bloodhounds and Bats appeared first on Nautilus .
 
 ### Ancient empires quiz: Can you match these lands to the historical powers that ruled them?
 Source: Live Science
@@ -6751,30 +6713,6 @@ URL: https://www.livescience.com/archaeology/ancient-empires-quiz-can-you-match-
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
 From the Andes to the steppes of Central Asia, great empires have waxed and waned. Can you match each territory to the culture that once ruled it?
-
-### NANOG Gene Guides Embryonic Development
-Source: Neuroscience News
-Published: 2026-06-26 16:23 UTC
-URL: https://neurosciencenews.com/human-embryo-base-editing-nanog-30959/
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-Researchers utilized ultra-precise base editing to alter a single nucleotide in human embryos, demonstrating that the NANOG gene is uniquely required to form the body-building epiblast layer, while revealing key developmental differences between humans and mice.
-
-### Ultraluminous X-ray source in Whale galaxy investigated for spectral and timing variability
-Source: Phys.org
-Published: 2026-06-26 16:20 UTC
-URL: https://phys.org/news/2026-06-ultraluminous-ray-source-whale-galaxy.html
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-Astronomers from Germany and Turkey have analyzed available data from various space telescopes to investigate an ultraluminous X-ray source designated X-4, which is located in the nearby galaxy NGC 4631. Results of the new study, published June 22 on the preprint server arXiv, yield important insights into the spectral and timing variability of this source.
-
-### AI shopping cart users rack up higher basket values and spend longer in store, research finds
-Source: Phys.org
-Published: 2026-06-26 16:20 UTC
-URL: https://phys.org/news/2026-06-ai-cart-users-rack-higher.html
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-Shoppers who use shopping carts embedded with digital screens to assist trips to the supermarket spend up to a third more than those who do not, according to new research by Bayes Business School.
 
 ### China's top-secret 'dragon' space plane just released another unidentified object over Earth
 Source: Live Science
@@ -6792,22 +6730,6 @@ Source meta: specialist_media · specialist · R4 · P4 · baseline
 
 AI-generated text and chatbots increasingly cause real-world harms. The companies that make them need to be held accountable for those harms.
 
-### Neurosurgical Team Saves Young Woman From Paralysis
-Source: Neuroscience News
-Published: 2026-06-26 16:02 UTC
-URL: https://neurosciencenews.com/laparoscopic-pelvic-schwannoma-30958/
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-A surgical team successfully performed a rare laparoscopic removal of a 5-centimeter pelvic schwannoma, utilizing a 32-channel intraoperative neuromonitoring system to protect vital sacral nerve roots, completely restoring a young woman's walking ability.
-
-### Greece says preparing 'historic' ISS space mission
-Source: Phys.org
-Published: 2026-06-26 16:00 UTC
-URL: https://phys.org/news/2026-06-greece-historic-iss-space-mission.html
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-Greece is planning "a first historic mission" to send a Greek astronaut to the International Space Station, Prime Minister Kyriakos Mitsotakis' office announced Friday.
-
 ### How Fruit Flies Manage Their Exceptionally Long Sperm
 Source: Nautilus
 Published: 2026-06-26 16:00 UTC
@@ -6824,14 +6746,6 @@ Source meta: specialist_media · specialist · R4 · P4 · baseline
 
 To sift through 6 million molecules in pursuit of new gonorrhea treatments, researchers trained AI to select the best drug candidate and then tested it in a "vagina on a chip."
 
-### Can We Synchronize Human Brainwaves to Boost Connection?
-Source: Neuroscience News
-Published: 2026-06-26 15:32 UTC
-URL: https://neurosciencenews.com/social-synchrony-brainwave-alignment-30957/
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-Researchers mapped "social synchrony," showing that face-to-face communication physically aligns the brainwaves of participants.
-
 ### After 80 Years, Mathematicians Give Famed ‘Erdős Method’ an Upgrade
 Source: Quanta Magazine
 Published: 2026-06-26 15:26 UTC
@@ -6839,6 +6753,14 @@ URL: https://www.quantamagazine.org/after-80-years-mathematicians-give-famed-erd
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
 Decades ago, Paul Erdős used randomness to illuminate the vast and weird world of networks. Now mathematicians are making his technique even more powerful. The post After 80 Years, Mathematicians Give Famed ‘Erdős Method’ an Upgrade first appeared on Quanta Magazine
+
+### New solid-state material converts sunlight into higher-energy UV light
+Source: ScienceDaily
+Published: 2026-06-26 15:21 UTC
+URL: https://www.sciencedaily.com/releases/2026/06/260623083058.htm
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+A new sunlight-powered material can convert visible light into higher-energy UV light, overcoming a challenge that has frustrated scientists for years. The breakthrough could enable cleaner air purification, solar-driven chemistry, and advanced manufacturing technologies using nothing more than natural sunlight.
 
 ### Giant, deep-sea roly-polies steal a gene to endure starvation
 Source: Science News
@@ -6856,13 +6778,13 @@ Source meta: specialist_media · specialist · R4 · P4 · baseline
 
 The long-held idea that rainforests held a minor role in our species' evolution is changing — and our ability to adapt to these tropical areas may give insight about 'what it means to be uniquely human.'
 
-### Socotra Archipelago: The Yemeni islands covered with astonishing cucumber, bottle and dragon's blood trees
-Source: Live Science
-Published: 2026-06-26 14:42 UTC
-URL: https://www.livescience.com/planet-earth/socotra-archipelago-the-yemeni-islands-covered-with-astonishing-cucumber-bottle-and-dragons-blood-trees
+### Researchers discover why fructose doesn't satisfy hunger like glucose
+Source: ScienceDaily
+Published: 2026-06-26 14:28 UTC
+URL: https://www.sciencedaily.com/releases/2026/06/260623083106.htm
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
-Socotra Archipelago in the Northwest Indian Ocean is home to hundreds of animal and plant species that aren't found anywhere else in the world.
+A new study found that fructose and glucose may look the same on a nutrition label, but the brain treats them very differently. In mice, glucose strongly reduced activity in hunger-promoting brain cells, while fructose had a much weaker effect. High-fructose corn syrup triggered a stronger response and was preferred by the animals. The findings suggest that the type of sugar—not just the calories—can influence appetite and food preferences.
 
 ### Brains break and repair DNA to grow
 Source: Science News
@@ -6871,6 +6793,22 @@ URL: https://www.sciencenews.org/article/brains-break-repair-dna-grow
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
 Newborn mice neurons can snap both DNA strands to migrate, then repair the breaks within a day. The process may be a normal part of brain development.
+
+### A “ghost” great white shark just reignited a 160-year Mediterranean mystery
+Source: ScienceDaily
+Published: 2026-06-26 07:03 UTC
+URL: https://www.sciencedaily.com/releases/2026/06/260621052722.htm
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+The capture of a juvenile great white shark in Spain has provided fresh evidence that the Mediterranean's elusive "ghost" population of great whites still survives. Researchers reviewing 160 years of records say the discovery could even hint that the sharks are still breeding in the region.
+
+### This newly discovered ballista spider catapults ants into a deadly trap
+Source: ScienceDaily
+Published: 2026-06-26 05:29 UTC
+URL: https://www.sciencedaily.com/releases/2026/06/260623014002.htm
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+Scientists have discovered a “ballista spider” that builds a spring-powered silk trap designed specifically to catch aggressive green tree ants. The ant unknowingly triggers the mechanism itself, launching into the spider’s web in one of nature’s most extraordinary hunting strategies.
 
 ### Some Neanderthals Were Genetically Healthy Right Up Until the End
 Source: Nautilus
@@ -6888,30 +6826,6 @@ Source meta: specialist_media · specialist · R4 · P4 · baseline
 
 Another hint life may have existed on the red planet The post Perseverance Scratches the Martian Surface, Finds Organic Carbon appeared first on Nautilus .
 
-### Long-Term Iron Accumulation Strips Neurons of Disease Resilience
-Source: Neuroscience News
-Published: 2026-06-25 21:31 UTC
-URL: https://neurosciencenews.com/chronoferroptosis-iron-neuron-resilience-30956/
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-Researchers defined "chronoferroptosis," a progressive, time-dependent iron accumulation pathway that systematically depletes antioxidant defenses and strips aging neurons of their resilience against neurodegenerative diseases.
-
-### Canine Cognitive Decline Alters Gait
-Source: Neuroscience News
-Published: 2026-06-25 21:09 UTC
-URL: https://neurosciencenews.com/dog-dementia-gait-stride-length-30955/
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-Researchers established that canine cognitive decline is directly associated with a shortened stride length in dogs' front limbs. Because thoracic limbs require heavy cortical control for balance and spatial awareness, their shortened stride serves as an early behavioral biomarker for brain decline.
-
-### Archaic Hominin Species Buried Only Their Women
-Source: Nautilus
-Published: 2026-06-25 21:00 UTC
-URL: https://nautil.us/archaic-hominin-species-buried-only-their-women-1282257/
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-Ancient proteins recovered from the teeth of Homo naledi fossils tell the tale The post Archaic Hominin Species Buried Only Their Women appeared first on Nautilus .
-
 ### New science on algae die-offs is too late for the Reflecting Pool
 Source: Science News
 Published: 2026-06-25 20:22 UTC
@@ -6919,30 +6833,6 @@ URL: https://www.sciencenews.org/article/algae-die-offs-reflecting-pool
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
 Iron and hydrogen peroxide trigger cell death via ferroptosis, which cascades killer molecules through the population, causing mass die-offs of algae.
-
-### Coincidences in My Life Have Me Wondering
-Source: Nautilus
-Published: 2026-06-25 20:00 UTC
-URL: https://nautil.us/coincidences-in-my-life-have-me-wondering-1282226/
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-My search for a hidden structure to astronomically unlikely occurrences The post Coincidences in My Life Have Me Wondering appeared first on Nautilus .
-
-### Mechanics of Color Vision Revealed
-Source: Neuroscience News
-Published: 2026-06-25 19:45 UTC
-URL: https://neurosciencenews.com/human-cone-opsin-3d-structure-vision-30954/
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-A structural biology study utilizing cryo-electron microscopy has resolved the first 3D structure of human blue and green cone opsins in their dark state, revealing that an open binding pocket in green opsins allows rapid retinal displacement for fast-updating daylight vision, while blue opsins require high-energy light due to a confined pocket.
-
-### Orangutans Seek Out Medicinal Plants
-Source: Nautilus
-Published: 2026-06-25 19:00 UTC
-URL: https://nautil.us/orangutans-seek-out-medicinal-plants-1282252/
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-In fact, they’re some of the same plants used pharmacologically by local Indigenous people The post Orangutans Seek Out Medicinal Plants appeared first on Nautilus .
 
 ### Ancient flowering plants may have used dinosaurs to spread their seeds
 Source: Science News
@@ -6952,22 +6842,6 @@ Source meta: specialist_media · specialist · R4 · P4 · baseline
 
 Scientists thought angiosperms didn’t use animals to spread seeds until after the Age of Dinosaurs. Fossilized fruits from these plants challenge this idea.
 
-### This common vitamin deficiency can mimic normal aging
-Source: ScienceDaily
-Published: 2026-06-25 14:57 UTC
-URL: https://www.sciencedaily.com/releases/2026/06/260623083116.htm
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-Vitamin B12 is needed in microscopic amounts, but a shortage can have major effects on health and energy. The vitamin was first linked to a lifesaving liver treatment for pernicious anemia nearly 100 years ago. Today, researchers are finding that B12 may also help keep cellular powerhouses called mitochondria functioning properly. This could explain why some people experience fatigue and brain fog even before traditional signs of deficiency show up.
-
-### FDA-approved drug may finally help immunotherapy defeat rare liver cancer
-Source: ScienceDaily
-Published: 2026-06-25 14:38 UTC
-URL: https://www.sciencedaily.com/releases/2026/06/260623014014.htm
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-Researchers found that a rare liver cancer evades immunotherapy by luring immune T cells away from the tumor and trapping them in nearby fibrous tissue. An FDA-approved drug called AMD3100 freed those T cells to attack the cancer, significantly improving the effectiveness of immunotherapy in tumor samples.
-
 ### What Is the Positive Grassmannian and Why Does It Show Up Everywhere?
 Source: Quanta Magazine
 Published: 2026-06-25 13:54 UTC
@@ -6976,14 +6850,6 @@ Source meta: specialist_media · specialist · R4 · P4 · baseline
 
 Lauren Williams tells 'The Joy of Why' how studying a fundamental object in algebraic combinatorics led to a career full of surprises. The post What Is the Positive Grassmannian and Why Does It Show Up Everywhere? first appeared on Quanta Magazine
 
-### Scientists discover how a single cell builds a brain with 170 billion cells
-Source: ScienceDaily
-Published: 2026-06-25 13:46 UTC
-URL: https://www.sciencedaily.com/releases/2026/06/260618041524.htm
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-How does a single cell build a brain with billions of precisely organized neurons? Researchers suggest that brain cells use their lineage—their cellular family tree—as a kind of positional map. Cells that come from the same ancestor stay near one another, helping the brain organize itself without relying solely on chemical signals.
-
 ### We’ve had fire for longer than we thought
 Source: Science News
 Published: 2026-06-25 13:00 UTC
@@ -6991,38 +6857,6 @@ URL: https://www.sciencenews.org/article/hominids-had-fire-longer-than-thought
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
 Archaeologists have unearthed new evidence that indicates hominids used fire up to 1.79 million years ago.
-
-### They knew the pill was fake but their memory still improved
-Source: ScienceDaily
-Published: 2026-06-25 11:23 UTC
-URL: https://www.sciencedaily.com/releases/2026/06/260625060159.htm
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-Healthy older adults experienced measurable improvements in memory, physical performance, and stress after taking placebo pills for just three weeks. The most surprising finding was that the placebo often worked even when participants knew the pills were completely inactive.
-
-### “Absolutely huge” 400-year-old black coral stuns scientists in New Zealand
-Source: ScienceDaily
-Published: 2026-06-25 10:14 UTC
-URL: https://www.sciencedaily.com/releases/2026/06/260623014018.htm
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-A giant black coral estimated to be 300–400 years old has been discovered deep in Fiordland, New Zealand, astonishing researchers with its enormous size—about 4 meters tall and 4.5 meters wide. Scientists say it may be one of the largest black corals ever recorded in New Zealand waters and an important stronghold for the slow-growing species.
-
-### After 70 years of excavation, ancient Sardis becomes a UNESCO World Heritage site
-Source: ScienceDaily
-Published: 2026-06-25 07:41 UTC
-URL: https://www.sciencedaily.com/releases/2026/06/260625014808.htm
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-After nearly seven decades of excavation, the legendary ancient city of Sardis has become a UNESCO World Heritage Site, celebrating years of discoveries that continue to reshape its history. Archaeologists say the biggest breakthroughs don't happen in a single season—they emerge as decades of evidence slowly come together.
-
-### A Mars rover found organic carbon just sitting on a rock
-Source: Science News
-Published: 2026-06-24 18:00 UTC
-URL: https://www.sciencenews.org/article/mars-carbon-complex-organic-rock
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-The organic molecules could come from life or from ordinary chemistry — only samples returned to Earth can settle it.
 
 ### How Physicists Track and Trap the Elusive Neutrino
 Source: Quanta Magazine
@@ -7071,6 +6905,46 @@ Source meta: specialist_media · specialist · R4 · P4 · baseline
 
 Source homepage / 来源主页
 
+### Why 90% of us are right-handed
+Source: Popular Science
+Published: 2026-06-26 20:05 UTC
+URL: https://www.popsci.com/science/why-most-people-right-handed-podcast/
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+Blame prehistoric tools and medieval sword fights. The post Why 90% of us are right-handed appeared first on Popular Science .
+
+### A Young Giraffe Went Strangely Missing in Texas, and the Two-Week Search Revealed the Complex World of Exotic Wildlife
+Source: Discover Magazine
+Published: 2026-06-26 19:53 UTC
+URL: https://www.discovermagazine.com/a-young-giraffe-went-strangely-missing-in-texas-and-the-two-week-search-revealed-the-complex-world-of-exotic-wildlife-49299
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+Learn more about Gracie, a giraffe who has been missing for two weeks in a part of Texas known for the breeding, buying, and hunting of exotic animals from around the world.
+
+### WWII assault tank found buried in sand near the North Sea
+Source: Popular Science
+Published: 2026-06-26 19:26 UTC
+URL: https://www.popsci.com/technology/wwii-tank-found-buried-in-sand-germany/
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+Visible gun barrel markings suggest the nearly complete StuG III took down at least 17 enemies. The post WWII assault tank found buried in sand near the North Sea appeared first on Popular Science .
+
+### NASA's Roman Space Telescope Arrives in Florida, New Treatment Could Relieve Knee Pain Without Surgery, and a Cave Full of All-Female Skeletons
+Source: Discover Magazine
+Published: 2026-06-26 19:15 UTC
+URL: https://www.discovermagazine.com/nasa-s-roman-space-telescope-arrives-in-florida-new-treatment-could-relieve-knee-pain-without-surgery-and-a-cave-full-of-all-female-skeletons-49300
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+Discover the top stories from June 20 to June 26, 2026, including a surgery-free answer to knee osteoarthritis and a spider species that catapults its prey into a web.
+
+### In Japan, talking gummy robots are on the menu
+Source: Popular Science
+Published: 2026-06-26 18:20 UTC
+URL: https://www.popsci.com/technology/edible-gummy-robot-japan/
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+A wiggly robot in Japan could help explain why we find eating certain foods so taboo. The post In Japan, talking gummy robots are on the menu appeared first on Popular Science .
+
 ### Bob Ross painting could sell for $70K to benefit Indiana public broadcasting
 Source: Popular Science
 Published: 2026-06-26 16:47 UTC
@@ -7094,30 +6968,6 @@ URL: https://www.popsci.com/gear/last-minute-prime-day-deals-2026/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
 Amazon's Prime Day shopping holiday is almost over, but there are still tons of fantastic deals to grab before prices go back up. The post I dug through all the last-minute Prime Day deals to find 100+ that are still worth grabbing before the sale ends appeared first on Popular Science .
-
-### If you want to keep mosquitoes away, you want to keep Thermacell repellents close, and Amazon has them on sale for a limited time
-Source: Popular Science
-Published: 2026-06-26 15:15 UTC
-URL: https://www.popsci.com/gear/best-amazon-prime-day-thermacell-spatial-mosquito-repellent-deals-2026/
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-Mosquitoes want your blood; saving up to 43% on Thermacell repellents for Prime Day gives you protection before bugs and prices bite. The post If you want to keep mosquitoes away, you want to keep Thermacell repellents close, and Amazon has them on sale for a limited time appeared first on Popular Science .
-
-### Limited-edition ‘July 4th’ quarters are out there…if you can find one
-Source: Popular Science
-Published: 2026-06-26 15:00 UTC
-URL: https://www.popsci.com/technology/limited-edition-july-fourth-quarters/
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-The U.S. Mint is releasing 250,000 Declaration of Independence coins to mark the semiquincentennial. The post Limited-edition ‘July 4th’ quarters are out there…if you can find one appeared first on Popular Science .
-
-### New clouded leopard cub is the size of a loaf of bread
-Source: Popular Science
-Published: 2026-06-26 14:03 UTC
-URL: https://www.popsci.com/environment/new-clouded-leopard-cub-nashville/
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-Meet Mayuree! The rare wildcat was recently born at the Nashville Zoo. The post New clouded leopard cub is the size of a loaf of bread appeared first on Popular Science .
 
 ### Giggling Apes May Help Us Understand How Speech Emerged, as We've Shared a Similar Laugh Pattern for 15 Million Years
 Source: Discover Magazine
@@ -7151,35 +7001,19 @@ Source meta: specialist_media · specialist · R4 · P4 · baseline
 
 Learn more about super-puff planets and how researchers determined the densities of these far-off planets.
 
-### From Mongolia to Madagascar, Dogs Form Remarkably Similar Bonds With Humans
-Source: Discover Magazine
-Published: 2026-06-25 20:54 UTC
-URL: https://www.discovermagazine.com/from-mongolia-to-madagascar-dogs-form-remarkably-similar-bonds-with-humans-49294
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-Learn how dogs and humans form remarkably similar bonds across cultures, despite differences in how they live and work together.
-
-### A Cave Full of Homo naledi Fossils May Point to an All-Female Burial Site, a First for a Non-Modern Human Species
-Source: Discover Magazine
-Published: 2026-06-25 20:47 UTC
-URL: https://www.discovermagazine.com/a-cave-full-of-homo-naledi-fossils-may-point-to-an-all-female-burial-site-a-first-for-a-non-modern-human-species-49296
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-Learn how proteins in Homo naledi teeth could point to an all-female burial site and raise new questions about how ancient human relatives treated their dead.
-
 ## academic research / 学术研究
 
-### Detection of Coxsackievirus A24v during an acute haemorrhagic conjunctivitis outbreak in Dar es Salaam, Tanzania, January-February 2024
+### Hybrid deep learning for mental workload classification using EEG with enhanced preprocessing and interpretability
 Source: PLOS ONE Biology
-Published: 2026-06-26 16:58 UTC
-URL: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352698
+Published: 2026-06-26 21:15 UTC
+URL: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352882
 Source meta: journal · primary · R4 · P4 · signal
 
-by Lawrence A. Mapunda, Peter van Heusden, Robert Baluhya, Olympia G. Machange, Ambele Mwafulango, Monica Fredrick Francis, Aziz Ituka, Omega Machange, Adela Kisanga, Edna E. Mgimba, Hamza H. Matimba, Dennis M. Kado, Elson E. Kimaro, Ramadhani A. Libenanga, Jackson Peter Mushumbusi, Hamisi M. Swalehe, Ibrahim Mauki, James Hellar, Shimba Henerico, Maria E. Kelly, Nyambura Moremi Background In January 2024, an outbreak of acute viral conjunctivitis was declared in Dar es Salaam, Tanzania, following initial case clusters reported in December 2023 and continuing through February. Patients presented with red, itchy, and burning eyes, eyelid swelling, photophobia, and eye discharges. As the responsible pathogen had not been laboratory-identified, this study aimed to detect and characterize potential viral agents of the outbreak through an urgent outbreak response investigation. Methods Conjunctival swabs were collected from 25 suspected cases using a convenience sampling approach. Bacterial culture was performed on MacConkey and blood agar.
+by Osama Abdelrahman, Chew XinYing, Esraa Faisal Malik, Khaw Khai Wah, Cheong Zhi Lin, Teoh Wei Lin Mental workload classification is critical in safety-sensitive fields such as healthcare and aviation. However, electroencephalography-based approaches still face challenges with generalizability, noise robustness, and interpretability. In this study, we propose an integrated hybrid deep learning framework to address these limitations and enable robust, interpretable electroencephalography-based mental workload classification. The proposed approach uses a Variational Autoencoder to enhance noise reduction and feature extraction from band-wise topographical videos, a Convolutional Block Attention Module to adaptively focus on important spatial-channel Electroencephalogram features, and a Bidirectional Long Short-Term Memory network to capture complex temporal dependencies under leave-one-subject-out cross-validation. We conducted ablation studies to identify each architecture component’s contribution and sensitivity analyses to determine the optimal parameters.
 
 ### Early skill learning is shaped by the offline emergence of expert synergies
 Source: Current Biology
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://www.cell.com/current-biology/fulltext/S0960-9822(26)00637-8?rss=yes
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7187,7 +7021,7 @@ Kistler et al. show that, within minutes of practicing a naturalistic keypress s
 
 ### Ancestral DOF27 and GDH1 haplotypes drive rice adaptation to ammonium habitats
 Source: Current Biology
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://www.cell.com/current-biology/fulltext/S0960-9822(26)00643-3?rss=yes
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7195,7 +7029,7 @@ In response to fluctuations in ammonium availability, how do plants develop intr
 
 ### Habitat selection and outdoor recreation help explain human-mountain lion conflict
 Source: Current Biology
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://www.cell.com/current-biology/fulltext/S0960-9822(26)00642-1?rss=yes
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7203,7 +7037,7 @@ Morgan et al. show mountain lions proactively avoid outdoor recreation, respondi
 
 ### Individual movements drive community-level space and resource use across Yellowstone ungulates
 Source: Current Biology
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://www.cell.com/current-biology/fulltext/S0960-9822(26)00646-9?rss=yes
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7211,7 +7045,7 @@ Caldwell et al. demonstrate the importance of individual movements in shaping co
 
 ### The evolutionary transition from alga to parasite in the sister lineage of apicomplexans
 Source: Current Biology
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://www.cell.com/current-biology/fulltext/S0960-9822(26)00647-0?rss=yes
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7219,7 +7053,7 @@ Using single-cell transcriptomics, Cooney et al. present a new member of the spa
 
 ### Disinhibition of cerebellar output by loss of restless legs syndrome-associated gene MEIS1
 Source: Current Biology
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://www.cell.com/current-biology/fulltext/S0960-9822(26)00648-2?rss=yes
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7227,7 +7061,7 @@ Joo et al. investigated the behavioral functions of genes associated with restle
 
 ### A unified analysis of global riverine eDNA reveals common associations of fish biodiversity with drainage characteristics
 Source: Nature Ecology & Evolution
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://www.nature.com/articles/s41559-026-03106-1
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7235,7 +7069,7 @@ Nature Ecology & Evolution, Published online: 24 June 2026; doi:10.1038/s41559-0
 
 ### Supergenes shape ant societies
 Source: Nature Ecology & Evolution
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://www.nature.com/articles/s41559-026-03133-y
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7243,7 +7077,7 @@ Nature Ecology & Evolution, Published online: 24 June 2026; doi:10.1038/s41559-0
 
 ### Bacterial genes rescue starving giants
 Source: Nature Ecology & Evolution
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://www.nature.com/articles/s41559-026-03135-w
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7251,7 +7085,7 @@ Nature Ecology & Evolution, Published online: 25 June 2026; doi:10.1038/s41559-0
 
 ### Increasing forest disturbance enhances habitat suitability for Europe’s large herbivores
 Source: Nature Ecology & Evolution
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://www.nature.com/articles/s41559-026-03096-0
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7259,7 +7093,7 @@ Nature Ecology & Evolution, Published online: 26 June 2026; doi:10.1038/s41559-0
 
 ### An ancient anthozoan protein reveals an alternative evolutionary path of antiviral signalling
 Source: Nature Ecology & Evolution
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://www.nature.com/articles/s41559-026-03112-3
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7267,7 +7101,7 @@ Nature Ecology & Evolution, Published online: 26 June 2026; doi:10.1038/s41559-0
 
 ### A global research coordination programme is urgently needed for biodiversity
 Source: Nature Ecology & Evolution
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://www.nature.com/articles/s41559-026-03123-0
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7401,7 +7235,7 @@ Source homepage / 来源主页
 
 ### Laser-Plasma Based Seeded Free Electron Laser in the High-Gain Regime
 Source: Physical Review Letters
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: http://link.aps.org/doi/10.1103/ndsf-kyr4
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7409,7 +7243,7 @@ Author(s): Marie Labat, Susanne Schöbel, Amin Ghaith, Franziska Marie Herrmann,
 
 ### Theory of Quantum Comb Enhanced Interferometry
 Source: Physical Review Letters
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: http://link.aps.org/doi/10.1103/5qrd-28df
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7417,7 +7251,7 @@ Author(s): Haowei Shi and Quntao Zhuang Optical frequency combs, named for their
 
 ### Quantum Non-Gaussianity Criterion Based on Photon Correlations ${g}^{(2)}$ and ${g}^{(3)}$
 Source: Physical Review Letters
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: http://link.aps.org/doi/10.1103/1t2q-qm97
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7425,7 +7259,7 @@ Author(s): Christoph Hotter, Clara Henke, Cornelis Jacobus van Diepen, Peter Lod
 
 ### Probing Bardeen-Cooper-Schrieffer Pairing and Quasiparticle Formation in Ultracold Gases by Rydberg Atom Spectroscopy
 Source: Physical Review Letters
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: http://link.aps.org/doi/10.1103/3js1-2zc1
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7433,7 +7267,7 @@ Author(s): Emilio Ramos Rodríguez, Marcel Gievers, and Richard Schmidt Locally 
 
 ### Observation of the Radiative Decay ${D}_{s0}^{*}(2317{)}^{+}→{D}_{s}^{*+}γ$
 Source: Physical Review Letters
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: http://link.aps.org/doi/10.1103/vcld-225s
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7441,7 +7275,7 @@ Author(s): M. Abumusabh et al. (Belle and Belle II Collaboration) An exotic meso
 
 ### First Experimental Limit on the Permanent Electric Dipole Moment of the Deuteron
 Source: Physical Review Letters
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: http://link.aps.org/doi/10.1103/ns3s-ld4k
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7449,7 +7283,7 @@ Author(s): A. Andres et al. (JEDI Collaboration) Permanent electric dipole momen
 
 ### AI-predicted spatial transcriptomics unlocks breast cancer biomarkers from pathology
 Source: Cell
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://www.cell.com/cell/fulltext/S0092-8674(26)00458-7?rss=yes
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7457,7 +7291,7 @@ Path2Space predicts spatial gene expression directly from histopathology, enabli
 
 ### Multimodal clocks of human aging
 Source: Cell
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://www.cell.com/cell/fulltext/S0092-8674(26)00460-5?rss=yes
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7465,7 +7299,7 @@ A multidimensional framework established to quantify human aging reveals highly 
 
 ### Discovery and heterologous reconstitution of a plant noncanonical quasi-circadian gene regulatory network
 Source: Cell
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://www.cell.com/cell/fulltext/S0092-8674(26)00468-X?rss=yes
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7473,7 +7307,7 @@ Under low-temperature conditions that compromise the canonical circadian clock i
 
 ### Transplanting light-dependent reactions for mammalian eye photosynthesis
 Source: Cell
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://www.cell.com/cell/fulltext/S0092-8674(26)00469-1?rss=yes
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7481,7 +7315,7 @@ Therapeutic delivery of LEAF, a chloroplast-derived nanoscale thylakoid supercom
 
 ### Nociceptive innervation limits tertiary lymphoid structures to promote lung cancer
 Source: Cell
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://www.cell.com/cell/fulltext/S0092-8674(26)00505-2?rss=yes
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7489,7 +7323,7 @@ Nociceptive sensory neurons are engaged during lung adenocarcinoma tumorigenesis
 
 ### Genome instability triggers intercellular DNA transfer between human cells
 Source: Cell
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://www.cell.com/cell/fulltext/S0092-8674(26)00508-8?rss=yes
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7497,7 +7331,7 @@ Mammalian cells can pass damaged pieces of their genome directly to neighboring 
 
 ### [Series] Interventions for the prevention and management of cardiometabolic multiple long-term conditions
 Source: The Lancet
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00608-2/fulltext?rss=yes
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7505,7 +7339,7 @@ Multiple long-term conditions (MLTC or multimorbidity) are increasing in global 
 
 ### [Series] Biological and mechanistic pathways of cardiometabolic multiple long-term conditions
 Source: The Lancet
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00607-0/fulltext?rss=yes
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7513,7 +7347,7 @@ Cardiometabolic multiple long-term conditions (MLTC) arise from the complex inte
 
 ### [Series] Epidemiology of cardiometabolic multiple long-term conditions
 Source: The Lancet
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00606-9/fulltext?rss=yes
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7521,7 +7355,7 @@ Cardiometabolic multiple long-term conditions (MLTC), defined as the coexistence
 
 ### [Articles] The impact of Chile's multipronged food labelling and advertising law on early childhood excess weight: a cohort difference-in-differences study
 Source: The Lancet
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00651-3/fulltext?rss=yes
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7529,7 +7363,7 @@ Phase 1 of Chile's comprehensive FLAL plausibly caused a measurable decrease in 
 
 ### [Articles] Ivonescimab plus chemotherapy versus tislelizumab plus chemotherapy in advanced squamous non-small-cell lung cancer (HARMONi-6): interim overall survival analysis of a randomised, double-blind, phase 3 trial in China
 Source: The Lancet
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00966-9/fulltext?rss=yes
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7537,7 +7371,7 @@ Ivonescimab plus chemotherapy demonstrated a statistically significant and clini
 
 ### [Articles] Sacituzumab tirumotecan plus pembrolizumab versus pembrolizumab in PD-L1-positive advanced non-small-cell lung cancer (OptiTROP-Lung05): interim analysis of a randomised, open-label, phase 3 trial
 Source: The Lancet
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00968-2/fulltext?rss=yes
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7545,7 +7379,7 @@ Among patients with PD-L1-positive advanced NSCLC without targetable genomic alt
 
 ### Reply to Gao et al. and Xu: Greening the Taklamakan: Human efforts to convert desert into a carbon sink
 Source: PNAS
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://www.pnas.org/doi/abs/10.1073/pnas.2609809123?af=R
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7553,7 +7387,7 @@ Proceedings of the National Academy of Sciences, Volume 123, Issue 25, June 2026
 
 ### Reply to Uma Shaanker: Pollen aggregations, genomic conflict, and single paternity in multiseeded fruits
 Source: PNAS
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://www.pnas.org/doi/abs/10.1073/pnas.2609757123?af=R
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7561,7 +7395,7 @@ Proceedings of the National Academy of Sciences, Volume 123, Issue 25, June 2026
 
 ### Correction for Huang et al., A magnesium efflux transporter required for seed development and eating quality in rice
 Source: PNAS
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://www.pnas.org/doi/abs/10.1073/pnas.2618101123?af=R
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7569,7 +7403,7 @@ Proceedings of the National Academy of Sciences, Volume 123, Issue 25, June 2026
 
 ### Correction for Green et al., The intestinal microbiota impacts nutritional immunity and resistance to Acinetobacter baumannii pneumonia
 Source: PNAS
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://www.pnas.org/doi/abs/10.1073/pnas.2618284123?af=R
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7577,7 +7411,7 @@ Proceedings of the National Academy of Sciences, Volume 123, Issue 25, June 2026
 
 ### Correction for De Anda et al., The archaeal roots of eukaryotic life
 Source: PNAS
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://www.pnas.org/doi/abs/10.1073/pnas.2619000123?af=R
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7585,7 +7419,7 @@ Proceedings of the National Academy of Sciences, Volume 123, Issue 25, June 2026
 
 ### Correction for Massilani et al., A high-coverage Neandertal genome from the Altai Mountains reveals population structure among Neandertals
 Source: PNAS
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://www.pnas.org/doi/abs/10.1073/pnas.2618099123?af=R
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7593,7 +7427,7 @@ Proceedings of the National Academy of Sciences, Volume 123, Issue 25, June 2026
 
 ### In Science Journals
 Source: Science
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://www.science.org/doi/abs/10.1126/science.aej9372?af=R
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7601,7 +7435,7 @@ Science, Volume 392, Issue 6805, Page 1352-1354, June 2026.
 
 ### EU Omnibus proposal increases pesticide risks
 Source: Science
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://www.science.org/doi/abs/10.1126/science.aeg8744?af=R
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7609,7 +7443,7 @@ Science, Volume 392, Issue 6805, Page 1348-1351, June 2026.
 
 ### A bright, sun-splashed future for renewable energy
 Source: Science
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://www.science.org/doi/abs/10.1126/science.aej9392?af=R
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7617,7 +7451,7 @@ Science, Volume 392, Issue 6805, Page 1413-1415, June 2026.
 
 ### The enduring pursuit of science in America
 Source: Science
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://www.science.org/doi/abs/10.1126/science.aej8205?af=R
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7625,7 +7459,7 @@ Science, Volume 392, Issue 6805, Page 1323-1323, June 2026.
 
 ### Undead models and shrouded black holes
 Source: Science
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://www.science.org/doi/abs/10.1126/science.aei7838?af=R
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7633,7 +7467,7 @@ Science, Volume 392, Issue 6805, June 2026.
 
 ### Scientists to spend 8 months drifting in Arctic ice
 Source: Science
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://www.science.org/doi/abs/10.1126/science.aej9812?af=R
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7641,7 +7475,7 @@ Science, Volume 392, Issue 6805, Page 1333-1334, June 2026.
 
 ### Will AI spark a scientific renaissance — or a diffuse monoculture?
 Source: Nature
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://www.nature.com/articles/d41586-026-01954-2
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7649,7 +7483,7 @@ Nature, Published online: 22 June 2026; doi:10.1038/d41586-026-01954-2 Artificia
 
 ### The first ticking ‘nuclear clocks’ are here — what can they do?
 Source: Nature
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://www.nature.com/articles/d41586-026-01909-7
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7657,7 +7491,7 @@ Nature, Published online: 22 June 2026; doi:10.1038/d41586-026-01909-7 Two resea
 
 ### A spacecraft is falling to its doom — can NASA save it?
 Source: Nature
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://www.nature.com/articles/d41586-026-01949-z
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7665,7 +7499,7 @@ Nature, Published online: 22 June 2026; doi:10.1038/d41586-026-01949-z A success
 
 ### Isotopic evidence for a cold and distant origin of 3I/ATLAS
 Source: Nature
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://www.nature.com/articles/s41586-026-10771-6
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7673,7 +7507,7 @@ Nature, Published online: 22 June 2026; doi:10.1038/s41586-026-10771-6 Isotopic 
 
 ### Stereoretentive decarbonylative C(sp 3 )-C(sp 3 ) cross-coupling
 Source: Nature
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://www.nature.com/articles/s41586-026-10800-4
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7681,7 +7515,7 @@ Nature, Published online: 22 June 2026; doi:10.1038/s41586-026-10800-4 Stereoret
 
 ### C-glycoside synthesis via radical cross-coupling of glycohydrazides
 Source: Nature
-Published: 2026-06-26 16:58 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://www.nature.com/articles/s41586-026-10807-x
 Source meta: journal · primary · R5 · P5 · baseline
 
@@ -7854,6 +7688,94 @@ Source meta: institutional · primary · R5 · P5 · baseline
 
 Source homepage / 来源主页
 
+### The Nancy Grace Roman Space Telescope Arrives in Florida Ahead of Launch
+Source: Universe Today
+Published: 2026-06-26 21:05 UTC
+URL: https://www.universetoday.com/articles/the-nancy-grace-roman-space-telescope-arrives-in-florida-ahead-of-launch
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+NASA’s Nancy Grace Roman Space Telescope arrived June 21st, at the agency’s Kennedy Space Center in Florida, marking the start of final prelaunch preparations before liftoff later this summer.
+
+### Black hole's 'point of no escape' studied with the loudest gravitational waves ever heard
+Source: Space.com
+Published: 2026-06-26 21:00 UTC
+URL: https://www.space.com/astronomy/black-holes/black-holes-point-of-no-escape-studied-with-the-loudest-gravitational-waves-ever-heard
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+The loudest crash of gravitational waves ever heard provides an intriguing way of studying event horizons, the boundaries at which nothing can escape the grip of these cosmic titans.
+
+### 'Exodus: The Helium Sea' author Peter F. Hamilton talks universe crafting and finishing the story in this second prequel novel for sci-fi RPG 'Exodus' (exclusive)
+Source: Space.com
+Published: 2026-06-26 20:00 UTC
+URL: https://www.space.com/entertainment/space-books/exodus-the-helium-sea-author-peter-f-hamilton-talks-universe-crafting-and-finishing-the-story-in-this-second-prequel-novel-for-sci-fi-rpg-exodus-exclusive
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+"You can literally have sailing ships in space."
+
+### NASA Announces Winners for 2026 Human Lander Challenge
+Source: NASA News
+Published: 2026-06-26 19:44 UTC
+URL: https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-announces-winners-for-2026-human-lander-challenge/
+Source meta: institutional · primary · R5 · P5 · baseline
+
+NASA has announced the top student-developed solutions for environmental control and life support systems in future crewed lunar landers from participants in the 2026 Human Lander Challenge. The announcement marks the culmination of months of research by university teams working to advance technologies supporting the agency’s Artemis program that will return American astronauts to the […]
+
+### Powerful Solar Storms Can Change Precipitation for Parts of North America
+Source: Universe Today
+Published: 2026-06-26 19:01 UTC
+URL: https://www.universetoday.com/articles/powerful-solar-storms-can-change-precipitation-for-parts-of-north-america
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+For decades, scientists have searched for a clear link between the Sun’s explosive storms and the weather that occurs on Earth. A breakthrough study from the University of New Hampshire reveals that in the hours and days following a solar storm, parts of North America can see sharp changes in the weather — such as declines in precipitation — and the more powerful the storm, the more dramatic the shift. However, the exact mechanism behind the effects is still waiting for an explanation.
+
+### SpaceX's next Starship breathes fire for 1st time in prelaunch test (video)
+Source: Space.com
+Published: 2026-06-26 19:00 UTC
+URL: https://www.space.com/space-exploration/launches-spacecraft/spacexs-next-starship-breathes-fire-for-1st-time-in-prelaunch-test-video
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+About a month has passed since the first launch of SpaceX's "Version 3" Starship rocket, and the spaceflight company has already begun testing on its next such vehicle.
+
+### NASA Tests New Refuel Device for Future In-Space Refueling Missions
+Source: NASA News
+Published: 2026-06-26 18:44 UTC
+URL: https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-tests-new-refuel-device-for-future-in-space-refueling-missions/
+Source meta: institutional · primary · R5 · P5 · baseline
+
+For NASA’s next generation of deep space exploration missions, spacecraft may need to refuel in Earth orbit before pushing farther into the solar system. Similar to how a gas pump needs a nozzle to fit your fuel tank, future spacecraft could require a special device in order to fill up prior to departure, known as […]
+
+### China plans to double the size of its Tiangong space station while the ISS nears its end
+Source: Space.com
+Published: 2026-06-26 18:00 UTC
+URL: https://www.space.com/space-exploration/launches-spacecraft/china-plans-to-double-the-size-of-its-tiangong-space-station-while-the-iss-nears-its-end
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+China plans to add three new modules to Tiangong along with a co-orbiting space telescope, as the ISS heads for a Pacific splashdown.
+
+### Only a few hours left! This expert-approved, beginner-friendly drone is $60 off for Prime Day
+Source: Space.com
+Published: 2026-06-26 17:45 UTC
+URL: https://www.space.com/technology/drones/only-a-few-hours-left-this-expert-approved-beginner-friendly-drone-is-usd60-off-for-prime-day
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+Drone expert James Abbott thinks this DJI Neo is perfect for beginners. $139 for this drone idea for newcomers is a steal.
+
+### Partners, NASA Ready for June Launch of Swift Boost Mission
+Source: NASA News
+Published: 2026-06-26 17:16 UTC
+URL: https://science.nasa.gov/missions/swift/swift-boost-mission/partners-nasa-ready-for-june-launch-of-swift-boost-mission/
+Source meta: institutional · primary · R5 · P5 · baseline
+
+A mission to raise the orbit of NASA’s Swift observatory is poised for launch June 30.
+
+### Moore's law tells us that the price of technology should go down over time, so why is stargazing gear getting more expensive?
+Source: Space.com
+Published: 2026-06-26 17:05 UTC
+URL: https://www.space.com/stargazing/skywatching-kit/moores-law-tells-us-that-the-price-of-technology-should-go-down-over-time-so-why-is-stargazing-gear-getting-more-expensive
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+With the prices of the newest smart telescope and image-stabilized binocular models running into the thousands, older models should be cheaper, but we are seeing a range of different factors at play affecting prices from the top to the bottom.
+
 ### Mars Express Captures Dozens of Dust Devils in Mars Valley
 Source: Universe Today
 Published: 2026-06-26 16:50 UTC
@@ -7861,22 +7783,6 @@ URL: https://www.universetoday.com/articles/mars-express-captures-dozens-of-dust
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
 The European Space Agency’s Mars Express has captured part of Mars’s Mamers Valles: a fascinating valley system speckled with brief, tornado-like whirlwinds known as dust devils.
-
-### Beam me up to 4K: Your ultimate sci-fi collection for less than $25 on Prime Day
-Source: Space.com
-Published: 2026-06-26 16:23 UTC
-URL: https://www.space.com/stargazing/skywatching-kit/beam-me-up-to-4k-your-ultimate-sci-fi-collection-for-less-than-25-dollars
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-Amazon is practically giving the Fire TV Stick 4K Plus away for Prime Day. Grab one while it's at half price, or upgrade for just $10 more. Last chance today!
-
-### Watch out for the giant scorpion hiding in the summer sky
-Source: Space.com
-Published: 2026-06-26 16:00 UTC
-URL: https://www.space.com/stargazing/constellations/watch-out-for-the-giant-scorpion-hiding-in-the-summer-sky
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-Scorpius is one of the few constellations that actually resembles its namesake — and this summer is the perfect time to find it.
 
 ### NASA Identifies More Than 40 Space Technologies for Collaboration
 Source: NASA News
@@ -7894,14 +7800,6 @@ Source meta: institutional · primary · R5 · P5 · baseline
 
 Euclid, an ESA (European Space Agency) mission with NASA contributions, took a new look at the heart of our Milky Way galaxy, seen in this image released on June 24, 2026. This observation overlaps with a region scientists will observe with NASA’s Nancy Grace Roman Space Telescope, launching later this summer. This sneak peek gives […]
 
-### Watch a 'Potentially hazardous asteroid' the size of a skyscraper close in on Earth live online tonight
-Source: Space.com
-Published: 2026-06-26 15:00 UTC
-URL: https://www.space.com/stargazing/watch-a-potentially-hazardous-asteroid-the-size-of-a-skyscraper-close-in-on-earth-live-online-tonight
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-"An asteroid of this size comes this close roughly once every ten years".
-
 ### From Lab to Orbit | Turning Space Science into Reality | ESA Explores #21
 Source: ESA News
 Published: 2026-06-26 15:00 UTC
@@ -7918,30 +7816,6 @@ Source meta: institutional · primary · R5 · P5 · baseline
 
 Growing up on the central California coast, watching rocket launches with his father was part of Eric Fernandez’s childhood routine. Fernandez had posters of rockets on the wall, but despite being fascinated by them, he never imagined one day this would be his career. Because both of his grandparents had served at Vandenberg Air Force […]
 
-### Neon green auroras from space will take your breath away | Space photo of the day for June 26, 2026
-Source: Space.com
-Published: 2026-06-26 14:00 UTC
-URL: https://www.space.com/astronomy/earth/neon-green-auroras-from-space-will-take-your-breath-away-space-photo-of-the-day-for-june-26-2026
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-This is truly a view like no other.
-
-### NASA’s PACE Mission Studies Smoke, Fires
-Source: NASA News
-Published: 2026-06-26 14:00 UTC
-URL: https://science.nasa.gov/earth/nasas-pace-mission-studies-smoke-fires/
-Source meta: institutional · primary · R5 · P5 · baseline
-
-With the North American fire season underway, and a record number of acres already burned nationwide, NASA’s Plankton, Aerosol, Cloud, and ocean Ecosystem (PACE) satellite’s three instruments are observing vegetation precursors to fires, along with plumes of smoke and their movement. This data will help scientists piece together clues that deepen their understanding of wildfires. […]
-
-### Hubble Spies Starry Chandelier
-Source: NASA News
-Published: 2026-06-26 13:40 UTC
-URL: https://science.nasa.gov/missions/hubble/hubble-spies-starry-chandelier/
-Source meta: institutional · primary · R5 · P5 · baseline
-
-This NASA/ESA Hubble Space Telescope image features the globular cluster NGC 6723, sometimes called the Chandelier Cluster.
-
 ### Week in images: 22-26 June 2026
 Source: ESA News
 Published: 2026-06-26 13:10 UTC
@@ -7949,22 +7823,6 @@ URL: https://www.esa.int/About_Us/Week_in_images/Week_in_images_22-26_June_2026
 Source meta: institutional · primary · R5 · P5 · baseline
 
 Week in images: 22-26 June 2026 Discover our week through the lens
-
-### NASA's canceled Artemis hardware contracts reached $5.9 billion, audit finds
-Source: Space.com
-Published: 2026-06-26 13:00 UTC
-URL: https://www.space.com/space-exploration/artemis/nasa-spent-usd5-9-billion-on-artemis-program-hardware-it-may-never-use
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-A memo issued by NASA Office of Inspector General highlights huge cost increases and extended timelines for Artemis program hardware that has since been canceled.
-
-### NASA is paying $30 million for a 1st-of-its-kind rescue mission to the aging Swift telescope before it falls from space. Is it worth it?
-Source: Space.com
-Published: 2026-06-26 12:00 UTC
-URL: https://www.space.com/space-exploration/launches-spacecraft/nasa-is-paying-usd30-million-for-a-1st-of-its-kind-rescue-mission-to-the-aging-swift-telescope-before-it-falls-from-space-is-it-worth-it
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-NASA's daring Swift Boost mission launches June 27 to save the nearly 22-year-old Swift observatory , which is being dragged out of space by Earth's atmosphere.
 
 ### Astronomers Catch the Glowing Shockwave of a Galaxy on the Move
 Source: Universe Today
@@ -8007,36 +7865,12 @@ Source meta: institutional · primary · R5 · P5 · baseline
 Image: These Copernicus Sentinel-2 images show agricultural development in the desert of southern Egypt, close to the border with Sudan.
 
 ### The Battle for Sullivan’s Island
-Source: NASA News
-Published: 2026-06-26 04:00 UTC
-URL: https://science.nasa.gov/earth/earth-observatory/the-battle-for-sullivans-island/
-Source meta: institutional · primary · R5 · P5 · baseline
-
-Marshy, sandy terrain and an impassable inlet helped colonial forces repel British forces during a pivotal battle on the barrier island near Charleston, South Carolina, on June 28, 1776.
-
-### The Battle for Sullivan’s Island
 Source: NASA Earth Observatory Image of the Day
 Published: 2026-06-26 04:00 UTC
 URL: https://science.nasa.gov/earth/earth-observatory/the-battle-for-sullivans-island/
 Source meta: institutional · primary · R5 · P4 · baseline
 
 Marshy, sandy terrain and an impassable inlet helped colonial forces repel British forces during a pivotal battle on the barrier island near Charleston, South Carolina, on June 28, 1776. The post The Battle for Sullivan’s Island appeared first on NASA Science .
-
-### Euclid's New Portrait of the Milky Way's Crowded Bulge
-Source: Universe Today
-Published: 2026-06-25 23:41 UTC
-URL: https://www.universetoday.com/articles/euclids-new-portrait-of-the-milky-ways-crowded-bulge
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-The ESA's Euclid space telescope took 26 hours to capture this portrait of the Milky Way's central bulge. This isn't part of its primary mission; instead it's kind of like bonus science. It'll be used in the Roman Space Telescope's gravitational microlensing search for exoplanets. Regardless of the science, it's an impressive image.
-
-### The Galaxy That Cleared the Fog
-Source: Universe Today
-Published: 2026-06-25 22:51 UTC
-URL: https://www.universetoday.com/articles/hubble-details-early-galaxy-transforming-neighborhood
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-For its first billion years the universe was lost in fog, a thick haze of hydrogen that swallowed light whole. Something burned it away, and astronomers have long wondered what. Now Hubble has caught a tiny, furious galaxy in the very act of clearing the murk, glimpsed as it was just 1.4 billion years after the big bang. It may be the smoking gun for how the universe first became clear.
 
 ### Europe faces the heat
 Source: ESA News
@@ -8150,6 +7984,14 @@ Source meta: specialist_media · specialist · R4 · P4 · baseline
 
 Source homepage / 来源主页
 
+### Speed Limits for Ships Protect Endangered Right Whales From Vessel Strikes. Could the Animals Survive Without Them?
+Source: Smithsonian Science
+Published: 2026-06-26 18:00 UTC
+URL: https://www.smithsonianmag.com/science-nature/speed-limits-for-ships-protect-endangered-right-whales-from-vessel-strikes-could-the-animals-survive-without-them-180989013/
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+Since 2008, rules requiring ships to slow down to avoid collisions with North Atlantic right whales have reduced fatalities of the critically endangered animals. Now, NOAA is calling the regulations into question, raising concerns for the mammals’ future
+
 ### A Vietnam Veteran Collected Fossils for 66 Years. One, Mislabeled 'Baby Lamprey,' Made Paleontologists Reconsider How Vertebrates Moved From Water to Land
 Source: Smithsonian Science
 Published: 2026-06-18 18:15 UTC
@@ -8190,14 +8032,6 @@ Source meta: specialist_media · specialist · R4 · P4 · baseline
 
 Aldo Leopold’s writing reconsidered the place of humans in the natural world and challenged people to be less conquerors of the land and more citizens of it
 
-### A Blip on a Telescope in a Colorado Parking Lot Bolstered a Space Mission That Has Found Thousands of Planets … and Counting
-Source: Smithsonian Science
-Published: 2026-06-04 13:00 UTC
-URL: https://www.smithsonianmag.com/science-nature/blip-telescope-colorado-parking-lot-bolstered-space-mission-found-thousands-planets-counting-180988801/
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-The Kepler telescope changed how we saw the sky. It’s just one of the devices we’ve sent out beyond the reach of humans to search our solar system
-
 ## ecology conservation / 生态与保护
 
 ### NOAA Climate.gov
@@ -8234,6 +8068,14 @@ URL: https://news.mongabay.com/list/conservation/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
 Source homepage / 来源主页
+
+### Trump’s ‘Unprecedented’ Regulatory Rollbacks Fuel Surge in Protective Climate Lawsuits
+Source: Inside Climate News
+Published: 2026-06-26 19:22 UTC
+URL: https://insideclimatenews.org/news/26062026/climate-lawsuits-surge-after-trump-regulatory-rollbacks/
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+Sweeping revisions to U.S. climate policy in the first year of President Donald Trump’s second term have spawned a wave of protective litigation, legal challenges aimed not at advancing new climate goals but at preventing the rollbacks of existing regulation and preserving hard-won legal gains. The challenges to the Trump administration’s regulatory rollbacks, funding freezes […]
 
 ### French Oil Major Failed to Fulfill ‘Vigilance’ Duty on Climate, Paris Court Rules
 Source: Inside Climate News
@@ -8282,14 +8124,6 @@ URL: https://therevelator.org/america-250-history/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
 As the Trump administration censors history on parks and public lands — a move out of the autocrats’ playbook — people have six ways to honor and defend our shared history. The post America’s 250th Should Tell the Full Story, Not Rewrite It appeared first on The Revelator .
-
-### The ‘Guerrilla Solar’ Era Has Arrived, and Here’s What to Know
-Source: Inside Climate News
-Published: 2026-06-25 13:00 UTC
-URL: https://insideclimatenews.org/news/25062026/inside-clean-energy-plug-in-solar-era-has-arrived/
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-After Russia invaded Ukraine in 2022, electricity prices shot up across Europe and consumers looked for ways to save. One popular option was plug-in solar—inexpensive and easy-to-install renewable energy systems that began to appear in store aisles. Now, Germany is the global leader in plug-in solar with about 1 million systems in official counts and […]
 
 ### Incredible Journeys: How Hoofing It Helps Deer and Caribou
 Source: The Revelator
@@ -8433,53 +8267,12 @@ Source meta: specialist_media · specialist · R4 · P4 · baseline
 
 Source homepage / 来源主页
 
-### So Long, and Thanks for All the Fish
-Source: Hakai Magazine
-Published: 2024-12-27 08:05 UTC
-URL: https://hakaimagazine.com/article-short/so-long-and-thanks-for-all-the-fish/
+### Hakai Magazine
+Source: URL-only source / 仅网址源
+URL: https://hakaimagazine.com/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
-We started Hakai Magazine over 10 years ago because the ocean and its coastlines needed a voice. No other outlet was exclusively covering issues at the interface of sea and land—or of the marine world in general. After all these ...
-
-### The First First Responders
-Source: Hakai Magazine
-Published: 2024-12-24 08:05 UTC
-URL: https://hakaimagazine.com/features/the-first-first-responders/
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-When a ship wrecks on an unfamiliar coastline, an already desperate situation is all the more dire. Blinded by the night, and lost, the captain and crew of the Puritan, a four-masted lumber schooner en route from San Francisco, California, ...
-
-### How, Exactly, Could Deep-Sea Mining Benefit All of Humanity?
-Source: Hakai Magazine
-Published: 2024-12-20 08:01 UTC
-URL: https://hakaimagazine.com/news/how-exactly-could-deep-sea-mining-benefit-all-of-humanity/
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-When Arvid Pardo, a Maltese diplomat, took the floor at the United Nations General Assembly in New York in 1967 and began speaking at length on international law, the room was sparsely populated. Pardo was undeterred. The deep, dark ocean, ...
-
-### The Canoe in the Forest
-Source: Hakai Magazine
-Published: 2024-12-19 08:05 UTC
-URL: https://hakaimagazine.com/features/the-canoe-in-the-forest/
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-When I first see the canoe, in May, it takes a moment to distinguish the long, shapely slab of cedar from the patch of earth that has spent more than a century trying to reclaim it. Covered in moss and ...
-
-### What’s Next for Deep-Sea Mining?
-Source: Hakai Magazine
-Published: 2024-12-18 08:01 UTC
-URL: https://hakaimagazine.com/news/whats-next-for-deep-sea-mining/
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-Earlier this year, Leticia Carvalho, a Brazilian oceanographer and environmental policy expert, took the helm of the International Seabed Authority (ISA) as secretary general. The ISA, an intergovernmental body that governs what happens on the seafloor in international waters, is ...
-
-### The Personal Toll of Canada’s Broken Fishing Promises
-Source: Hakai Magazine
-Published: 2024-12-17 08:05 UTC
-URL: https://hakaimagazine.com/features/the-personal-toll-of-canadas-broken-fishing-promises/
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-August 29, 2020, dawned clear over southwest Nova Scotia. In the cabin of his lobster boat, the Mystique Lady, Matthew Cope was chatting with the other members of his crew as they chugged out from shore. The vessel was bound ...
+Source homepage / 来源主页
 
 ## fish ichthyology / 鱼类与鱼类学
 
@@ -9138,6 +8931,14 @@ Source meta: specialist_media · specialist · R4 · P4 · baseline
 
 Source homepage / 来源主页
 
+### Previewing GPT-5.6 Sol: a next-generation model
+Source: OpenAI News
+Published: 2026-06-26 10:00 UTC
+URL: https://openai.com/index/previewing-gpt-5-6-sol
+Source meta: institutional · primary · R5 · P5 · baseline
+
+OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.
+
 ### Run a vLLM Server on HF Jobs in One Command
 Source: Hugging Face Blog
 Published: 2026-06-26 00:00 UTC
@@ -9235,14 +9036,6 @@ URL: https://openai.com/index/omio
 Source meta: institutional · primary · R5 · P5 · baseline
 
 Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.
-
-### Patch the Planet: a Daybreak initiative to support open source maintainers
-Source: OpenAI News
-Published: 2026-06-22 10:00 UTC
-URL: https://openai.com/index/patch-the-planet
-Source meta: institutional · primary · R5 · P5 · baseline
-
-OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.
 
 ### Unlocking UK house-building with AI-accelerated planning
 Source: Google DeepMind
@@ -9366,7 +9159,7 @@ When a neural network layer is divided into multiple branches, neurons self-orga
 
 ### Using less memory to look up IP addresses in Mess With DNS
 Source: Julia Evans
-Published: 2026-06-26 16:59 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
@@ -9374,7 +9167,7 @@ I’ve been having problems for the last 3 years or so where Mess With DNS perio
 
 ### ASCII control characters in my terminal
 Source: Julia Evans
-Published: 2026-06-26 16:59 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://jvns.ca/blog/2024/10/31/ascii-control-characters/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
@@ -9382,7 +9175,7 @@ Hello! I’ve been thinking about the terminal a lot and yesterday I got curious
 
 ### New microblog with TILs
 Source: Julia Evans
-Published: 2026-06-26 16:59 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://jvns.ca/blog/2024/11/09/new-microblog/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
@@ -9390,7 +9183,7 @@ I added a new section to this site a couple weeks ago called TIL (“today I lea
 
 ### Importing a frontend Javascript library without a build system
 Source: Julia Evans
-Published: 2026-06-26 16:59 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://jvns.ca/blog/2024/11/18/how-to-import-a-javascript-library/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
@@ -9398,7 +9191,7 @@ I like writing Javascript without a build system and for the millionth time yest
 
 ### Why pipes sometimes get "stuck": buffering
 Source: Julia Evans
-Published: 2026-06-26 16:59 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
@@ -9406,7 +9199,7 @@ Here’s a niche terminal problem that has bothered me for years but that I neve
 
 ### "Rules" that terminal programs follow
 Source: Julia Evans
-Published: 2026-06-26 16:59 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://jvns.ca/blog/2024/11/26/terminal-rules/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
@@ -9414,7 +9207,7 @@ Recently I’ve been thinking about how everything that happens in the terminal 
 
 ### Design-First Collaboration
 Source: Martin Fowler
-Published: 2026-06-26 16:59 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://martinfowler.com/articles/reduce-friction-ai/design-first-collaboration.html
 Source meta: specialist_media · specialist · R5 · P5 · baseline
 
@@ -9422,7 +9215,7 @@ Rahul Garg continues his series of Patterns for Reducing Friction in AI-Assisted
 
 ### Humans and Agents in Software Engineering Loops
 Source: Martin Fowler
-Published: 2026-06-26 16:59 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://martinfowler.com/articles/exploring-gen-ai/humans-and-agents.html
 Source meta: specialist_media · specialist · R5 · P5 · baseline
 
@@ -9430,7 +9223,7 @@ There's been much talk recently about how AI agents affect the workflow loops of
 
 ### Ideological Resistance to Patents, Followed by Reluctant Pragmatism
 Source: Martin Fowler
-Published: 2026-06-26 16:59 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://martinfowler.com/articles/patents-reluctant-pragmatism.html
 Source meta: specialist_media · specialist · R5 · P5 · baseline
 
@@ -9438,7 +9231,7 @@ Naresh Jain has long been uncomfortable with software patents. But a direct expe
 
 ### Context Anchoring
 Source: Martin Fowler
-Published: 2026-06-26 16:59 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://martinfowler.com/articles/reduce-friction-ai/context-anchoring.html
 Source meta: specialist_media · specialist · R5 · P5 · baseline
 
@@ -9446,7 +9239,7 @@ Conversations with AI are ephemeral, decisions made early lose attention as the 
 
 ### Bliki: Architecture Decision Record
 Source: Martin Fowler
-Published: 2026-06-26 16:59 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://martinfowler.com/bliki/ArchitectureDecisionRecord.html
 Source meta: specialist_media · specialist · R5 · P5 · baseline
 
@@ -9454,7 +9247,7 @@ An Architecture Decision Record (ADR) is a short document that captures and expl
 
 ### Encoding Team Standards
 Source: Martin Fowler
-Published: 2026-06-26 16:59 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://martinfowler.com/articles/reduce-friction-ai/encoding-team-standards.html
 Source meta: specialist_media · specialist · R5 · P5 · baseline
 
@@ -9476,19 +9269,19 @@ Source homepage / 来源主页
 
 ### US Solar and Storage Defy Political Hostility to Dominate Q1 Power Installations
 Source: SoylentNews
-Published: 2026-06-26 16:59 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://soylentnews.org/politics/article.pl?sid=26/06/15/0344248&from=rss
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
 c0lo writes: US solar and storage defy political hostility to dominate Q1 power installations : Despite the many policy barriers created by the Trump administration over the past year, new figures reveal that solar and storage continue to dominate new power additions to the US grid. According to the latest quarterly US solar market report published today by trade body the Solar Energy Industries Association and analysts Wood Mackenzie, solar and storage accounted for 91% of new power generation capacity installed in the first quarter of 2026. Solar specifically saw 7.8GW of new capacity additions in the quarter, ensuring it retained its position as the leading source of new power added to the grid. It performed particularly strongly in Republican areas, with states that voted for President Trump in the last election accounting for 74% of all new solar capacity installed in Q1. Texas, Florida, Ohio, Indiana, Michigan, Arizona, and Mississippi ranked among the top 10 states for new solar installations.
 
-### The Database That Refused to Die: How Postgres Survived its Own Creators
+### Automakers Could Stop Selling Cars in California Rather Than Comply With Tracking Laws
 Source: SoylentNews
-Published: 2026-06-26 16:59 UTC
-URL: https://soylentnews.org/article.pl?sid=26/06/25/0441233&from=rss
+Published: 2026-06-26 21:15 UTC
+URL: https://soylentnews.org/article.pl?sid=26/06/25/0445223&from=rss
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
-Arthur T Knackerbracket writes: From academic toss-aside to cloud substrate : Today Postgres is one of the most widely used database systems, but its launch and subsequent development were inauspicious to say the least. If it weren't for a league of exceptionally devoted open source contributors, it probably would be another forgotten also-ran just like Ingres, the database system on which it was based ("Postgres" was shorthand for "Post-Ingres"). The creator of both systems, Michael Stonebraker , is perhaps the preeminent database pioneer in the field. Earlier this month, he spoke at PGDay , a conference in Boston hosted by the U.S. PostgreSQL Association, where he detailed the complicated history of the open source database system, which actually existed long before the term "open source" was even uttered. In a sense, "Postgres is the epitome of open source software, because it doesn't belong to anybody. It was picked up by this team of programmers without any specific affiliation," Stonebraker said.
+"Fnord666" writes: Automakers Could Stop Selling Cars In California Rather Than Comply With Tracking Laws : 1st Gear: Automakers would rather lose California sales than give drivers more control over their location data Back in 2024, California made a new law about drivers' location data. Specifically, the law states that people with a restraining order shouldn't have to share data with folks they have those restraining orders against, including removing the latter from car data sharing. Automakers, despite having nearly two years to comply with this, have yet to actually do so. Now, they might just abandon California. From Reuters : A group representing major automakers warned on Tuesday that car companies may be forced to halt sales of both ​new and used vehicles in California on July 1 unless the state ‌delays vehicle technology rules that aim to prevent perpetrators of domestic violence from tracking survivors.
 
 ### Product Hunt
 Source: URL-only source / 仅网址源
@@ -9525,41 +9318,9 @@ Source meta: specialist_media · specialist · R4 · P4 · baseline
 
 Source homepage / 来源主页
 
-### Why AI hasn’t replaced software engineers, and won’t
-Source: Simon Willison's Weblog
-Published: 2026-06-26 16:59 UTC
-URL: https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-Why AI hasn’t replaced software engineers, and won’t Arvind Narayanan and Sayash Kappor take on the question of AI job losses through the lens of a profession that is uniquely suited to AI disruption - software engineering. In this essay, we argue that there is enough evidence to reject the narrative that once AI capabilities reach a certain threshold, it will cause mass layoffs. Given that this is true even in a sector with very few regulatory barriers, most other professions are likely to be even more cushioned. The first good news is that the data still doesn't support the idea that AI is causing mass unemployment. In March 2025, New York became the first U.S. state to add an AI disclosure checkbox to WARN Act filings. In the full first year, more than 160 companies filed WARN notices. Not a single one checked the AI box AI speeds up the typing-code-into-a-computer phase, but it turns out software engineering is about a whole lot more than that: If writing code isn’t the bottleneck, what is? The task-breakdown surveys point at things like meetings or debugging.
-
-### Quoting Julia Evans
-Source: Simon Willison's Weblog
-Published: 2026-06-26 16:59 UTC
-URL: https://simonwillison.net/2026/Jun/15/julia-evans/#atom-everything
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-[...] Instead, I picture a specific person and I just write for them. Often this person is "me, but 3 years ago" or a good friend. — Julia Evans , write for 1 person Tags: writing , julia-evans
-
-### "They screwed us": Personality clashes sent Anthropic's models offline
-Source: Simon Willison's Weblog
-Published: 2026-06-26 16:59 UTC
-URL: https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-"They screwed us": Personality clashes sent Anthropic's models offline Lots of "source familiar with the administration's thinking" and "source close to Anthropic" in this Axios piece, which is the best collection of behind-the-scenes gossip I've seen about the US government export control Mythos/Fable story so far. Logan Graham ( I lead the Frontier Red Team at Anthropic ), Dave Orr (Head of Safeguards, previously a Director of Engineering at Google DeepMind), and blog favorite Nicholas Carlini are reported to be meeting with the Commerce Department today in D.C. Good luck to them! (I just noticed Logan was "Special Adviser to the Prime Minister" in the Boris Johnson era, covering AI, science, and technology policy - so significant political experience.) This closing note doesn't give me much optimism that we'll be getting Fable back any time soon: The bottom line : One option is to make sure Anthropic's models can't be jailbroken — though perfect jailbreak resistance may be impossible.
-
-### datasette-agent 0.3a0
-Source: Simon Willison's Weblog
-Published: 2026-06-26 16:59 UTC
-URL: https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-Release: datasette-agent 0.3a0 New tool, execute_write_sql , which requests user approval and then writes to a database - taking user permissions into account. #27 I added a mechanism for asking user approval in datasette agent 0.2a0 . The new execute_write_sql tool can now prompt the user for all kinds of useful operations. Here's an example where I add some pelican sightings to my pelican_sightings table: The new version also enhances the datasette agent chat terminal mode to support approvals, and adds several new options including --unsafe mode for auto-approving them: datasette agent chat can execute tools that require user approval. #30 Three new options for datasette agent chat - --root to run as root, --yes to approve all ask user questions, and --unsafe for both. Tools can now provide plain text alternatives to HTML, for display in the datasette agent chat CLI. #31 The datasette agent chat content.db -m gpt-5.
-
 ### datasette-apps 0.1a2
 Source: Simon Willison's Weblog
-Published: 2026-06-26 16:59 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://simonwillison.net/2026/Jun/15/datasette-apps/#atom-everything
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
@@ -9567,35 +9328,195 @@ Release: datasette-apps 0.1a2 Custom network/CSP origins for apps are now guarde
 
 ### datasette-apps 0.1a3
 Source: Simon Willison's Weblog
-Published: 2026-06-26 16:59 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://simonwillison.net/2026/Jun/15/datasette-apps-2/#atom-everything
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
 Release: datasette-apps 0.1a3 Fixed a bug where users without the create-app permission could still create apps. #27 Fixed a bug where it was impossible to grant permission to edit an app to users who were not the app's owner. The rules for edit/delete are now the same as view: if the app is private only the owner can modify it, otherwise permission is controlled by Datasette's regular permission system. #29 Tags: datasette
 
-### President Trump threatens to impose a 100% tariff on any country that imposes a digital services tax on US companies (Kevin Breuninger/CNBC)
-Source: Techmeme
-Published: 2026-06-26 16:50 UTC
-URL: https://www.techmeme.com/260626/p15#a260626p15
-Source meta: reference_tool · aggregator · R3 · P4 · reference
+### Cloudflare CAPTCHA on at least one ampersand
+Source: Simon Willison's Weblog
+Published: 2026-06-26 21:15 UTC
+URL: https://simonwillison.net/2026/Jun/16/captcha-on-at-least-one-ampersand/#atom-everything
+Source meta: specialist_media · specialist · R4 · P4 · baseline
 
-Kevin Breuninger / CNBC : President Trump threatens to impose a 100% tariff on any country that imposes a digital services tax on US companies — President Donald Trump on Friday threatened to impose a “100% TARIFF” on the goods of any country that imposes a digital services tax on U.S. companies.
+TIL: Cloudflare CAPTCHA on at least one ampersand I'm using Cloudflare's CAPTCHA (they call it a "Web Application Firewall > Custom rules > Managed Challenge" these days) to prevent crawlers from aggresively spidering my faceted search engine on this site, but I got fed up of even simple ?q=term searches triggering the challenge. After some mucking around with Claude Code it turns out you can register the following rule instead, so the CAPTCHA only kicks in for search URLs containing at least one ampersand: (http.request.uri.path wildcard r"/search/*" and http.request.uri.query contains "&") And now /search/?q=lemur works without triggering a CAPTCHA! Also included: notes on trying out the Cloudflare MCP with Claude Code , though it turned out not to be able to edit the rules in question so I had Claude Code switch to the Cloudflare API instead. Tags: captchas , cloudflare , model-context-protocol , claude-code
 
-### Show HN: Smart model routing directly in Claude, Codex and Cursor
+### Quoting Matteo Wong, The Atlantic
+Source: Simon Willison's Weblog
+Published: 2026-06-26 21:15 UTC
+URL: https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+Katie Moussouris, a cybersecurity expert and the CEO of Luta Security, told me that Anthropic shared with her a copy of the White House’s report on the Fable jailbreak to get her appraisal. (She said that she is not being paid by Anthropic.) The report, Moussouris said, involved IT experts asking Fable to help find and patch bugs. When given deliberately insecure code, she said, Fable refused the prompt “review the code for security issues” but then complied when asked to “fix this code,” followed by some further manual steps. Moussouris told me that this was just “the model working as intended” for cyberdefense. — Matteo Wong, The Atlantic , The White House Is Ratcheting Up Its War Against Anthropic Tags: anthropic , claude , ai , llms , ai-ethics , jailbreaking , generative-ai , ai-security-research , claude-mythos
+
+### The Fable 5 Export Controls Harm US Cyber Defense
+Source: Simon Willison's Weblog
+Published: 2026-06-26 21:15 UTC
+URL: https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+The Fable 5 Export Controls Harm US Cyber Defense I quoted The Atlantic quoting Kate Moussouris earlier, when I should have gone straight to the source. Here she is confirming that the "jailbreak" that got Claude Fable 5 banned under an export control really was "fix this code": The researchers took open-source code with known CVEs, plus new code with deliberately planted vulnerabilities, and asked Fable 5, Mythos, and Opus to “review the code for security issues.” Fable 5 refused. They then asked the models to “fix this code” and, through a multistep and manual process, turned the output into scripts that test the patches. As Kate points out, this is absurd. Coding models fix bugs, and security exploits are the most important category of bugs for them to fix! Defenders need to be able to ask AI to fix the bugs in a file, explain why the fix matters, and write tests that confirm the patch works. That is not a guardrail bypass. It is the most valuable thing an AI model can do for defensive security: executing the find, fix, and test loop defenders run every day. [...
+
+### Quoting Georgi Gerganov
+Source: Simon Willison's Weblog
+Published: 2026-06-26 21:15 UTC
+URL: https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+I can 100% attest to the fact that Qwen3.6-27B is a very capable local model for coding tasks. Over the last month and a half I've been using it almost daily, either on my M2 Ultra or on my RTX 5090 box. I use it for small mundane tasks at ggml-org - nothing really impressive, but definitely a helpful tool for a maintainer. I think I would be using it much more, if I didn't have to spend a lot of my time on reviewing PRs. Currently, I have a very lightweight harness - the pi agent with everything stripped ( pi -nc --offline ) and a short system prompt to align it a bit with my style. — Georgi Gerganov , Hacker News comment on Running local models is good now by Boykis Tags: georgi-gerganov , llms , ai , generative-ai , pi , ai-assisted-programming , local-llms , qwen , coding-agents
+
+### Hightouch (YC S19) Is Hiring
 Source: Hacker News
-Published: 2026-06-26 16:40 UTC
-URL: https://github.com/workweave/router
+Published: 2026-06-26 21:00 UTC
+URL: https://hightouch.com/careers#open-positions
 Source meta: reference_tool · community · R3 · P4 · signal
 
 Comments
 
-### Sources: Revolut told new hires they'll have to work in office at least three days a week from next year, retreating from its long-held remote-first approach (Financial Times)
+### Russian citizens told "switch to Android" after Apple blocks key Russian apps
+Source: Ars Technica
+Published: 2026-06-26 20:58 UTC
+URL: https://arstechnica.com/gadgets/2026/06/russian-citizens-told-switch-to-android-after-apple-blocks-key-russian-apps/
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+Russian government lashes out at Apple's "bizarre" decisions.
+
+### Sources: Zuckerberg urged execs to explore Polymarket and Kalshi partnerships, as the Arena prediction app targets 100M monthly active "predictors" aged 18-34 (Mike Isaac/New York Times)
 Source: Techmeme
-Published: 2026-06-26 16:35 UTC
-URL: https://www.techmeme.com/260626/p14#a260626p14
+Published: 2026-06-26 20:55 UTC
+URL: https://www.techmeme.com/260626/p27#a260626p27
 Source meta: reference_tool · aggregator · R3 · P4 · reference
 
-Financial Times : Sources: Revolut told new hires they'll have to work in office at least three days a week from next year, retreating from its long-held remote-first approach — Europe's most valuable fintech will require junior staff to spend at least three days a week in the office from next year
+Mike Isaac / New York Times : Sources: Zuckerberg urged execs to explore Polymarket and Kalshi partnerships, as the Arena prediction app targets 100M monthly active “predictors” aged 18-34 — Mr. Zuckerberg's plans for Arena, a prediction markets app that Meta is building, also include appealing to 18- to 34-year-old users.
+
+### AWS hikes prices for Nvidia GPUs in its EC2 Capacity Blocks service, which let businesses rent AI compute in advance, by 20%; Trainium chip pricing is unchanged (Catherine Perloff/The Information)
+Source: Techmeme
+Published: 2026-06-26 20:50 UTC
+URL: https://www.techmeme.com/260626/p26#a260626p26
+Source meta: reference_tool · aggregator · R3 · P4 · reference
+
+Catherine Perloff / The Information : AWS hikes prices for Nvidia GPUs in its EC2 Capacity Blocks service, which let businesses rent AI compute in advance, by 20%; Trainium chip pricing is unchanged — Amazon Web Services is raising the price for its AI workload rental service by 20%, the company said on Friday …
+
+### Oracle's stock fell 19% this week, the steepest weekly drop since a 20% plunge in August 2001, amid concerns about its debt load and AI investments (Jordan Novet/CNBC)
+Source: Techmeme
+Published: 2026-06-26 20:46 UTC
+URL: https://www.techmeme.com/260626/p25#a260626p25
+Source meta: reference_tool · aggregator · R3 · P4 · reference
+
+Jordan Novet / CNBC : Oracle's stock fell 19% this week, the steepest weekly drop since a 20% plunge in August 2001, amid concerns about its debt load and AI investments — Oracle just wrapped up its worst week on Wall Street in 25 years as concerns continue to mount about the software company's debt load …
+
+### The FTC fast-tracks approval for SpaceX to acquire Mesh, which raised a $50M Series A in February to make high-efficiency optical transceivers for data centers (Bloomberg)
+Source: Techmeme
+Published: 2026-06-26 20:35 UTC
+URL: https://www.techmeme.com/260626/p24#a260626p24
+Source meta: reference_tool · aggregator · R3 · P4 · reference
+
+Bloomberg : The FTC fast-tracks approval for SpaceX to acquire Mesh, which raised a $50M Series A in February to make high-efficiency optical transceivers for data centers — Elon Musk received a regulatory greenlight to acquire startup Mesh Optical Technologies, a company founded by former SpaceX engineers working …
+
+### OpenAI says GPT-5.6 Sol and Terra were capable of identifying vulnerabilities but were unable to execute autonomous, end-to-end attacks against hardened targets (OpenAI)
+Source: Techmeme
+Published: 2026-06-26 20:16 UTC
+URL: https://www.techmeme.com/260626/p23#a260626p23
+Source meta: reference_tool · aggregator · R3 · P4 · reference
+
+OpenAI : OpenAI says GPT-5.6 Sol and Terra were capable of identifying vulnerabilities but were unable to execute autonomous, end-to-end attacks against hardened targets — GPT-5.6 is a new family of three models: Sol, our new flagship model; Terra, a capable lower-cost option; and Luna, our fastest and most cost-efficient model.
+
+### NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI
+Source: Ars Technica
+Published: 2026-06-26 20:04 UTC
+URL: https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+NYT shifts OpenAI/Microsoft copyright claims after SCOTUS ruling against Sony.
+
+### Sources: Paul Meade, Apple's top executive in charge of Vision Pro and smart glasses efforts, is leaving for OpenAI to work on the company's AI-powered devices (Mark Gurman/Bloomberg)
+Source: Techmeme
+Published: 2026-06-26 19:30 UTC
+URL: https://www.techmeme.com/260626/p22#a260626p22
+Source meta: reference_tool · aggregator · R3 · P4 · reference
+
+Mark Gurman / Bloomberg : Sources: Paul Meade, Apple's top executive in charge of Vision Pro and smart glasses efforts, is leaving for OpenAI to work on the company's AI-powered devices — Apple Inc.'s top executive in charge of the Vision Pro headset and the company's smart glasses efforts is leaving for OpenAI …
+
+### Long Wave radio era set to end with Droitwich switch-off
+Source: Hacker News
+Published: 2026-06-26 19:12 UTC
+URL: https://www.bbc.com/news/articles/c74yn7v7k4qo
+Source meta: reference_tool · community · R3 · P4 · signal
+
+Comments
+
+### FCC accused of hiding Chairman Carr's messages with DOGE and Musk
+Source: Ars Technica
+Published: 2026-06-26 18:51 UTC
+URL: https://arstechnica.com/tech-policy/2026/06/fcc-accused-of-hiding-chairman-carrs-messages-with-doge-and-musk/
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+FCC refuses to provide messages, has "wasted a year" of court's time, filing says.
+
+### Gossamer: a Rust-flavoured language with real goroutines and pause-free memory
+Source: Hacker News
+Published: 2026-06-26 18:32 UTC
+URL: https://gossamer-lang.org/
+Source meta: reference_tool · community · R3 · P4 · signal
+
+Comments
+
+### Slisp: Simple Lisp compiler (Linux/amd64)
+Source: Hacker News
+Published: 2026-06-26 18:30 UTC
+URL: https://github.com/skx/slisp
+Source meta: reference_tool · community · R3 · P4 · signal
+
+Comments
+
+### U.S. government will decide who gets to use GPT-5.6
+Source: Hacker News
+Published: 2026-06-26 18:23 UTC
+URL: https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/
+Source meta: reference_tool · community · R3 · P4 · signal
+
+Comments
+
+### Netflix now requires every user profile to be tied to unique email address
+Source: Ars Technica
+Published: 2026-06-26 18:19 UTC
+URL: https://arstechnica.com/gadgets/2026/06/netflix-now-requires-every-user-profile-to-be-tied-to-unique-email-address/
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+Update began June 15 and will no longer allow you to share your login info.
+
+### Pre-Modern Armies for Worldbuilders, Part III: Paying for It
+Source: Hacker News
+Published: 2026-06-26 18:04 UTC
+URL: https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/
+Source meta: reference_tool · community · R3 · P4 · signal
+
+Comments
+
+### [$] Reports from OSPM 2026, day three
+Source: LWN.net
+Published: 2026-06-26 18:01 UTC
+URL: https://lwn.net/Articles/1078697/
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+The Power Management and Scheduling in the Linux Kernel Summit , which still goes by the historical acronym OSPM, was held in Cambridge, UK, in mid-April. As has become traditional, the presenters at that event have since written summaries of their sessions, and this work has kindly been made available to LWN for publication. The third day's sessions covered a wide range of topics, including GPU affinity, profile-guided scheduling, paravirtualization scheduling, quality of service, and more.
+
+### Antibiotic "megacluster" discovery provides new strategy to fight superbugs
+Source: Ars Technica
+Published: 2026-06-26 17:46 UTC
+URL: https://arstechnica.com/health/2026/06/antibiotic-megacluster-discovery-provides-new-strategy-to-fight-superbugs/
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+It's "an exciting advance in efforts to restock the antibiotic arsenal."
+
+### [$] Initiating writeback earlier
+Source: LWN.net
+Published: 2026-06-26 17:14 UTC
+URL: https://lwn.net/Articles/1078767/
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+Writeback is the process of ensuring that dirty pages or folios in the page cache are flushed to the disk, so that changes to those files are made persistent. In a filesystem-track session at the 2026 Linux Storage, Filesystem, Memory Management, and BPF Summit , Jeff Layton wanted to discuss whether the writeback operation should be initiated earlier than it is today. The consensus seemed to be that it should be done earlier, but the path toward making that happen was less clear.
 
 ### Ars Live: What's the latest in the aftermath of the New Glenn catastrophe?
 Source: Ars Technica
@@ -9603,39 +9524,7 @@ Published: 2026-06-26 16:24 UTC
 URL: https://arstechnica.com/space/2026/06/ars-live-whats-the-latest-in-the-aftermath-of-the-new-glenn-catastrophe/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
-Join us on the livestream at 1 pm ET and ask questions about the aftermath of New Glenn
-
-### The Exhaustion of Talking to a Tool
-Source: Hacker News
-Published: 2026-06-26 15:35 UTC
-URL: https://ohadravid.github.io/posts/2026-06-tool-talking/
-Source meta: reference_tool · community · R3 · P4 · signal
-
-Comments
-
-### Sources: Apple's 14" and 16" OLED touch screen MacBook Pros will be powered by the existing M5 Pro and M5 Max chips and have an updated industrial design (Mark Gurman/Bloomberg)
-Source: Techmeme
-Published: 2026-06-26 15:32 UTC
-URL: https://www.techmeme.com/260626/p13#a260626p13
-Source meta: reference_tool · aggregator · R3 · P4 · reference
-
-Mark Gurman / Bloomberg : Sources: Apple's 14" and 16" OLED touch screen MacBook Pros will be powered by the existing M5 Pro and M5 Max chips and have an updated industrial design — Apple Inc.'s first-ever touch-screen laptop will rely on the company's current high-end M5 chips, rather than next-generation silicon …
-
-### VW may close four factories to adapt to the future, report says
-Source: Ars Technica
-Published: 2026-06-26 15:10 UTC
-URL: https://arstechnica.com/cars/2026/06/vw-may-close-four-factories-to-adapt-to-the-future-report-says/
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-With falling sales in the US and especially China, VW Group wants to restructure.
-
-### How US federal AI policy has gone from implausibly libertarian to increasingly draconian and opaque, and how to fix it, including using independent auditors (Dean W. Ball/Hyperdimensional)
-Source: Techmeme
-Published: 2026-06-26 15:00 UTC
-URL: https://www.techmeme.com/260626/p12#a260626p12
-Source meta: reference_tool · aggregator · R3 · P4 · reference
-
-Dean W. Ball / Hyperdimensional : How US federal AI policy has gone from implausibly libertarian to increasingly draconian and opaque, and how to fix it, including using independent auditors — 35 thoughts on what has happened and what America should do — Nothing below is an official or unofficial view of OpenAI.
+Join us on the livestream at 1 pm ET and ask questions about the aftermath of New Glenn.
 
 ### Lots of stories about systemd v261
 Source: LWN.net
@@ -9645,38 +9534,6 @@ Source meta: specialist_media · specialist · R4 · P4 · baseline
 
 Lennart Poettering has posted a list of Mastodon posts about the changes in the systemd v261 release. The Mastodon format makes the reading harder, but there is a lot of useful information there.
 
-### Jolla Phone (October 2026)
-Source: Hacker News
-Published: 2026-06-26 14:46 UTC
-URL: https://commerce.jolla.com/products/jolla-phone-october-2026
-Source meta: reference_tool · community · R3 · P4 · signal
-
-Comments
-
-### Feedbacks upon feedbacks: Rock weathering and the climate
-Source: Ars Technica
-Published: 2026-06-26 14:41 UTC
-URL: https://arstechnica.com/science/2026/06/feedbacks-upon-feedbacks-rock-weathering-and-the-climate/
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-Rock weathering may release or draw down carbon dioxide—it depends on the rock.
-
-### Sources: DeepSeek's $7.4B raise was prompted by the release of Mythos as CEO Liang Wenfeng realized DeepSeek couldn't compete without a massive war chest (The Information)
-Source: Techmeme
-Published: 2026-06-26 14:15 UTC
-URL: https://www.techmeme.com/260626/p11#a260626p11
-Source meta: reference_tool · aggregator · R3 · P4 · reference
-
-The Information : Sources: DeepSeek's $7.4B raise was prompted by the release of Mythos as CEO Liang Wenfeng realized DeepSeek couldn't compete without a massive war chest — Up until two months ago, DeepSeek, the three-year-old Chinese AI lab, was an anomaly in the increasingly costly global AI battle.
-
-### Springer Nature has removed two studies by Max Planck
-Source: Hacker News
-Published: 2026-06-26 14:10 UTC
-URL: https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted
-Source meta: reference_tool · community · R3 · P4 · signal
-
-Comments
-
 ### [$] What's coming in Git 2.55
 Source: LWN.net
 Published: 2026-06-26 14:03 UTC
@@ -9684,22 +9541,6 @@ URL: https://lwn.net/Articles/1079596/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
 The Git v2.55.0-rc2 testing release appeared on June 23, suggesting that the final Git 2.55 release can be expected in the near future. While this Git update lacks radical new features, it does include a number of improvements that regular Git users will appreciate, including commands to easily edit the commit history, more formatting options, fsmonitor support for Linux, and more.
-
-### Sources: Donald Trump Jr. got ~$300K in Kalshi equity after becoming a strategic adviser in 2025, when Kalshi was valued at ~$2B; now it's worth $22B+ (George Steer/Financial Times)
-Source: Techmeme
-Published: 2026-06-26 13:25 UTC
-URL: https://www.techmeme.com/260626/p10#a260626p10
-Source meta: reference_tool · aggregator · R3 · P4 · reference
-
-George Steer / Financial Times : Sources: Donald Trump Jr. got ~$300K in Kalshi equity after becoming a strategic adviser in 2025, when Kalshi was valued at ~$2B; now it's worth $22B+ — Privately owned company's valuation has soared as US administration has adopted a light-touch approach to the sector
-
-### SpaceX plans to launch Starlink mobile service in the US
-Source: Ars Technica
-Published: 2026-06-26 13:22 UTC
-URL: https://arstechnica.com/space/2026/06/spacex-plans-to-launch-starlink-mobile-service-in-the-us/
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-Move would test whether group can turn ambition into a mass-market phone business.
 
 ### Security updates for Friday
 Source: LWN.net
@@ -9716,54 +9557,6 @@ URL: https://lwn.net/Articles/1079657/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
 The Linux Foundation, in a letter co-signed by a large range of organizations and companies, has announced the launch of "Akrites", a project to fast-track vulnerability fixes into projects. As Akrites works upstream to fix projects at the source, we commit to support downstream efforts to secure critical infrastructure before it can be exploited. When patches are released to the public, adversaries are able to utilize AI to rapidly reverse engineer the underlying vulnerabilities, develop exploits, and launch attacks. The success of our efforts therefore will be measured in patch deployment, not publication. We will partner with critical infrastructure owners and operators, civil society efforts, and governments as they increase coordination to achieve these goals. Confidentiality is non-negotiable: An undisclosed flaw in a widely deployed package is, in effect, a weapon, and the program is built first to prevent leaks. Fixes flow back into each project's own home, working with the maintainers.
-
-### Incident CVE-2026-LGTM
-Source: Hacker News
-Published: 2026-06-26 12:58 UTC
-URL: https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html
-Source meta: reference_tool · community · R3 · P4 · signal
-
-Comments
-
-### Ultrasound imaging of the brain
-Source: Hacker News
-Published: 2026-06-26 11:51 UTC
-URL: https://alephneuro.com/blog/ultrasound-brain
-Source meta: reference_tool · community · R3 · P4 · signal
-
-Comments
-
-### Rocket Report: China may soon attempt booster landing; Rocket Lab does rapid response
-Source: Ars Technica
-Published: 2026-06-26 11:00 UTC
-URL: https://arstechnica.com/space/2026/06/rocket-report-china-may-soon-attempt-booster-landing-rocket-lab-does-rapid-response/
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-Is SpaceX planning to end its Transporter program?
-
-### Microsoft adds another year to Windows 10 extended update program
-Source: Ars Technica
-Published: 2026-06-25 20:24 UTC
-URL: https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-About a quarter of PCs are still running Microsoft's previous operating system.
-
-### [$] A look at MinIO alternatives: Ceph and Garage
-Source: LWN.net
-Published: 2026-06-25 17:40 UTC
-URL: https://lwn.net/Articles/1077739/
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-MinIO is a popular object-storage server that offered compatibility with the Amazon Simple Storage Service (S3) API. In December 2025, the company behind the project (also named MinIO) announced that the project was in maintenance mode and would not accept new changes; it was archived completely in February 2026. MinIO users have been hunting for alternatives since then, but the array of choices can be baffling. While many other projects aim to fill the space, their strengths and areas of focus tend to vary. Two of the alternatives— Ceph and Garage —are particularly compelling, and both offer solid S3 compatibility.
-
-### Podman 6.0 released
-Source: LWN.net
-Published: 2026-06-25 16:33 UTC
-URL: https://lwn.net/Articles/1079600/
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-Version 6.0.0 of the Podman container-management tool has been released. Notable new features include the ability to set multiple static IP addresses for containers, improvements in network isolation that make Podman more compatible with Docker, changes to the way Quadlet commands function, many new options for many existing podman commands, and a rewrite of Podman's configuration file handling . There are many breaking changes; see the release notes for a full list of all new features, changes, and bug fixes.
 
 ### (One) good AI is here ⊗ Taste as interface behaviour
 Source: Sentiers
@@ -9830,7 +9623,7 @@ Source homepage / 来源主页
 
 ### Next.js
 Source: Vercel Blog
-Published: 2026-06-26 16:59 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://vercel.com/blog/next
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
@@ -9838,7 +9631,7 @@ We're very proud to open-source Next.js , a small framework for server-rendered 
 
 ### Next.js 2.0
 Source: Vercel Blog
-Published: 2026-06-26 16:59 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://vercel.com/blog/next2
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
@@ -9846,7 +9639,7 @@ More than 3.1 million developers read our announcement post of Next.js . More th
 
 ### Next 3.0 Preview: Static Exports and Dynamic Imports
 Source: Vercel Blog
-Published: 2026-06-26 16:59 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://vercel.com/blog/next3-preview
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
@@ -9854,7 +9647,7 @@ On the heels of our announcement of free static deployments earlier today, we ar
 
 ### Next.js 3.0
 Source: Vercel Blog
-Published: 2026-06-26 16:59 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://vercel.com/blog/next3
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
@@ -9862,7 +9655,7 @@ We are very excited excited to announce the stable release of Next.js 3.0. Ever 
 
 ### Next.js 4: React 16 and styled-jsx 2
 Source: Vercel Blog
-Published: 2026-06-26 16:59 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://vercel.com/blog/next4
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
@@ -9870,7 +9663,7 @@ We are happy to introduce Next.js 4 , which features support for React 16 and in
 
 ### Towards Next.js 5: Introducing Canary Updates
 Source: Vercel Blog
-Published: 2026-06-26 16:59 UTC
+Published: 2026-06-26 21:15 UTC
 URL: https://vercel.com/blog/next-canary
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
@@ -9882,6 +9675,14 @@ URL: https://github.blog/changelog/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
 Source homepage / 来源主页
+
+### Securing agentic AI with perimeter guardrails: What's new in VPC Service Controls
+Source: Google Cloud Blog
+Published: 2026-06-26 18:00 UTC
+URL: https://cloud.google.com/blog/products/identity-security/securing-agentic-ai-whats-new-in-vpc-service-controls/
+Source meta: institutional · primary · R5 · P5 · baseline
+
+As enterprises scale autonomous AI agents into production, enabling safe innovation requires robust architectural guardrails. AI agents connect across tools and datasets, so it’s essential to establish clear network-level boundaries for comprehensive data protection. To help organizations confidently deploy these workflows, we recommend VPC Service Controls (VPC-SC) to establish an essential network-level, destination-based perimeter. Today we’re announcing several new capabilities specifically designed for agentic workloads. What's new in VPC Service Controls Designed to enhance AI security, the new capabilities we’re announcing today strengthen boundaries enforced by VPC-SC. The capability updates include: Agent identity in directional rules : Enforcing least-privilege access requires treating agents as first-class identities. You can now add agentic identities directly to service perimeter ingress and egress rules using standard Identity and Access Management (IAM) principals .
 
 ### GitHub and UNDP team up to advance development priorities in Ghana with open source
 Source: GitHub Blog
@@ -9898,6 +9699,14 @@ URL: https://cloud.google.com/blog/products/management-tools/alert-with-sql-in-c
 Source meta: institutional · primary · R5 · P5 · baseline
 
 Traditional alerting systems often force a compromise: you can either alert immediately on simple, noisy log events, or monitor rigid, pre-configured metrics that fail when faced with data with many unique answers like user sessions or IP addresses. But the most critical system issues — like a 20% spike in error rates for a specific customer or a latency anomaly correlated with database timeouts — are hidden in the aggregates and relationships between these signals. Recently, we announced that you can now use SQL to query logs and traces in Observability Analytics (formerly Log Analytics). But the story gets better. You can also use SQL to create alerts in Observability Analytics. By bringing SQL directly to your alerting engine, you can write complex analytical queries over logs and traces and turn them into alerts. Whether you need to calculate error percentages, analyze high-cardinality dimensions, or JOIN logs and traces, SQL alerting helps you go from basic threshold monitoring to deep, contextual detection that goes beyond the capabilities of traditional alerting systems.
+
+### What’s new with Google Cloud
+Source: Google Cloud Blog
+Published: 2026-06-26 16:00 UTC
+URL: https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/
+Source meta: institutional · primary · R5 · P5 · baseline
+
+Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Jun 22 - Jun 26 Accelerate TPU model loading while saving RAM on GKE. Large model cold starts often stall scaling and leave high-value TPUs idle. The open-source Run:ai Model Streamer now natively supports TPUs with Google Cloud Storage in TPU vLLM 0.18.0 . This integration accelerates inference pipelines on GKE by streaming tensors directly into CPU memory, bypassing local disk bottlenecks and the "double-buffering" trap. In benchmarks, loading a 480B parameter model was over 2x faster while cutting peak host memory usage by half. Read the full guide and get started today .
 
 ### Transitioning as a Hubber
 Source: GitHub Blog
@@ -10009,7 +9818,7 @@ Published: 2026-06-24 11:00 UTC
 URL: https://cloud.google.com/blog/topics/threat-intelligence/zero-day-exploitation-cisco-catalyst-sd-wan-manager/
 Source meta: institutional · primary · R5 · P5 · baseline
 
-Written by: Chester Sng, Pete Boonyakarn, Logeswaran Nadarajan Introduction In early 2026, Mandiant identified a threat actor targeting SD-WAN infrastructure at a service provider. After gaining initial access, the threat actor exploited a zero-day vulnerability ( CVE-2026-20245 ) in Cisco Catalyst SD-WAN to escalate privileges from a compromised administrative account to root-level access. The vulnerability stems from the device’s file upload feature lacking the ability to properly filter malicious data. Throughout the intrusion, to maintain operational security and avoid detection, the threat actor consistently employed anti-forensic techniques, selectively deleting and restoring system configuration files that were modified during their activities. Key Observations Rogue Peering and Credential Manipulation : In March 2026, a threat actor established initial access via unauthorized peering connections to facilitate Secure Shell (SSH) access. The threat actor used that access to manipulate default account passwords to evade detection .
+Written by: Chester Sng, Pete Boonyakarn, Logeswaran Nadarajan, Lukasz Lamparski Introduction In early 2026, Mandiant identified a threat actor targeting SD-WAN infrastructure at a service provider. After gaining initial access, the threat actor exploited a zero-day vulnerability ( CVE-2026-20245 ) in Cisco Catalyst SD-WAN to escalate privileges from a compromised administrative account to root-level access. The vulnerability stems from the device’s file upload feature lacking the ability to properly filter malicious data. Throughout the intrusion, to maintain operational security and avoid detection, the threat actor consistently employed anti-forensic techniques, selectively deleting and restoring system configuration files that were modified during their activities. Key Observations Rogue Peering and Credential Manipulation : In March 2026, a threat actor established initial access via unauthorized peering connections to facilitate Secure Shell (SSH) access. The threat actor used that access to manipulate default account passwords to evade detection .
 
 ### Unlocking the Cloudflare app ecosystem with OAuth for all
 Source: Cloudflare Blog
@@ -10042,22 +9851,6 @@ URL: https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
 Explore how my day as a senior leader looks now that I use 40 automations to help, and learn more about some of my favorites. The post I automated my job (and it made me a better leader) appeared first on The GitHub Blog .
-
-### Log Analytics is now Observability Analytics: Query logs and traces with SQL
-Source: Google Cloud Blog
-Published: 2026-06-23 16:00 UTC
-URL: https://cloud.google.com/blog/products/management-tools/query-logs-and-traces-with-sql-in-observability-analytics/
-Source meta: institutional · primary · R5 · P5 · baseline
-
-To effectively operate and troubleshoot applications, developers and site reliability engineers (SREs) need to understand the full context of their system's behavior, typically as part of their logging and observability tooling. Today, we’re excited to announce a variety of new capabilities in our Google Cloud Observability suite: Log Analytics is now Observability Analytics. Trace data within Observability Analytics is generally available (GA). The Observability API for management and configuration is GA. Together, these bring logs and traces together into a unified experience, helping you go from viewing high-level trends to deep, contextual, root-cause analysis for agentic as well as traditional workloads, and to configure and manage those workloads programmatically, as part of observability buckets . Further, support for SQL in Cloud Trace is an important new tool in your toolbelt.
-
-### Verifiable, private AI: Google Cloud expands Confidential Computing frontiers
-Source: Google Cloud Blog
-Published: 2026-06-23 16:00 UTC
-URL: https://cloud.google.com/blog/products/identity-security/verifiable-trust-in-the-ai-era-whats-new-in-confidential-computing/
-Source meta: institutional · primary · R5 · P5 · baseline
-
-Protecting sensitive data used with AI is a critical part of our commitment to providing advanced and secure cloud infrastructure. Confidential Computing cryptographically protects data in use in hardware-based Trusted Execution Environments (TEEs) with verifiable data integrity. We are thrilled to share our latest Confidential Computing innovations across our hardware ecosystem that help further strengthen verifiable privacy in cloud AI deployments. Confidential AI at global scale By scaling our Confidential AI capabilities globally, we help ensure that AI inference and fine-tuning workloads can run with enforceable privacy guarantees. Democratizing Confidential AI: Confidential G4 VMs with NVIDIA RTX PRO 6000 Blackwell GPUs in preview We are excited to announce a landmark moment for accessible Confidential AI at global scale: Confidential VMs and Confidential GKE Nodes on the accelerator-optimized G4 machine series , featuring NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs . What makes this a game-changer is its global scale and flexibility.
 
 ### GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source
 Source: GitHub Blog
@@ -10331,101 +10124,101 @@ Source meta: specialist_media · specialist · R4 · P4 · baseline
 
 Source homepage / 来源主页
 
-### Apple’s AirPods Max 2 headphones are still $150 off — for now
+### Xreal’s best USB-C smart glasses are $50 off, but not for long
 Source: The Verge
-Published: 2026-06-26 16:59 UTC
-URL: https://www.theverge.com/gadgets/957605/apple-airpods-max-2-headphones-prime-day-deal-sale
+Published: 2026-06-26 21:16 UTC
+URL: https://www.theverge.com/gadgets/952261/xreal-one-pro-1s-smart-glasses-deal-sale
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
-One of the best deals this ongoing Prime Day has been on Apple’s latest flagship headphones. The AirPods Max 2 are still available for a heavily discounted price of $399 ($150 off) at Walmart, even though they sold out at Amazon. Since the Amazon deal kicked and Walmart is out of stock on one of […]
+If you’ve been curious about the emerging world of smart glasses, Prime Day is your chance to try some of the best models with a rare discount from Best Buy or directly from Xreal. The high-end Xreal One Pro is $549, $50 lower than the usual price, and the more entry-level Xreal 1S is $399, […]
 
-### Anthropic’s Mythos mess is only getting worse
+### The 16 best robot vacuum deals you can still get before Prime Day ends
 Source: The Verge
-Published: 2026-06-26 16:59 UTC
-URL: https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations
+Published: 2026-06-26 21:16 UTC
+URL: https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
-It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage of executives to Washington, DC. But updates have been suspiciously lacking, with no resolution in sight. Anthropic declined to comment multiple times this week about the […]
+If you’ve been wanting to buy a robot vacuum but have been put off by how much it can cost to get a good one, now is not a bad time to start looking. We’re now on the final day of Prime Day, and Amazon, along with retailers like Best Buy and Walmart, is still […]
 
-### Of course Meta thinks gambling is the future
+### You won’t have long to get these iPad deals before Apple’s price hike
 Source: The Verge
-Published: 2026-06-26 16:59 UTC
-URL: https://www.theverge.com/podcast/957673/meta-polymarket-apple-prices-vergecast
+Published: 2026-06-26 21:16 UTC
+URL: https://www.theverge.com/gadgets/957106/prime-day-ipad-deals-apple-price-hikes
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
-Meta is, by and large, a company built on other companies' ideas. It has almost perfected the strategy: wait for a new platform or social mechanic to take off, then either buy or clone it, put it next to Meta's unmatched user base and advertising engine, and watch the money pile up. Well, the next […]
+Apple just raised prices across its iPad and MacBook lineup. The good news is that many retailers are still selling their inventory at the old prices or far less, which means you can still score some of the best iPad deals we may see in awhile — if ever again. So if you’ve been thinking […]
 
-### Sometimes, health tracking accuracy is overrated
+### Smart lock maker Level has been gutted and its founders are out
 Source: The Verge
-Published: 2026-06-26 16:59 UTC
-URL: https://www.theverge.com/column/957703/optimizer-withings-dexa-body-composition-health-fitness
+Published: 2026-06-26 21:16 UTC
+URL: https://www.theverge.com/tech/957802/level-lock-layoffs-assa-abloy-kwikset-smart-lock-cloud
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
-This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. About three years ago, a doctor told me I had to lose abdominal fat. She didn't care about my lower […]
+Assa Abloy has laid off the majority of staff at Level Home, the smart lock company known for building smart tech into traditional-looking deadbolts, and is folding the business into Kwikset, according to a source familiar with the decision. The Verge obtained exclusive details from a person familiar with the restructuring who requested anonymity as […]
 
-### Fitbit’s Charge 6 and kid-friendly Ace LTE are much cheaper for Prime Day
+### OpenAI unveils GPT-5.6 amid US AI regulatory drama
 Source: The Verge
-Published: 2026-06-26 16:59 UTC
-URL: https://www.theverge.com/gadgets/952995/fitbit-charge-6-ace-lte-amazon-prime-day-2026-deal-sale
+Published: 2026-06-26 21:16 UTC
+URL: https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
-Prime Day is making it much easier to pick up a Fitbit without spending more than you want. Both the Fitbit Charge 6 and Fitbit Ace LTE are on steep discounts today. Right now, you can buy the Charge 6 for $85.45 ($74.5 off) at Amazon, while the kid-friendly Fitbit Ace LTE is $69.99 (a […]
+Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, the flagship; Terra, a medium-tier model for "high-volume work"; and Luna, a […]
 
-### It’s now the Arduino Uno Q’s turn to get a price hike
+### This video bird feeder is the surprise hit of Prime Day
 Source: The Verge
-Published: 2026-06-26 16:59 UTC
-URL: https://www.theverge.com/tech/957751/arduino-q-microcomputer-price-increase-ram-crisis
+Published: 2026-06-26 21:16 UTC
+URL: https://www.theverge.com/gadgets/957791/birdbuddy-pro-solar-prime-day-deal-sale
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
-Arduino's Raspberry Pi-like microcomputer the Uno Q is joining many other devices in getting a price hike this week. The 2GB version of the Uno Q, which is powered by a Qualcomm Dragonwing QRB2210 processor, will increase in price from $44 to $59, while the 4GB model is getting a slightly steeper increase from $59 […]
+I can understand why The Verge readers are flocking to the BirdBuddy deal we posted at the beginning of Prime Day. The BirdBuddy Pro with Solar Panels is a wholesome upgrade for your yard, but the full price of $299 is tough to stomach. After all, the BirdBuddy is essentially a video doorbell and solar […]
 
-### The Pentagon Is Looking Into the Dialog Data Exposure for Unmasking National Security Officials
+### How People in China Keep Outsmarting Anthropic’s Geolocation Restrictions
 Source: Wired
-Published: 2026-06-26 16:30 UTC
-URL: https://www.wired.com/story/the-pentagon-is-looking-into-the-dialog-data-exposure-for-unmasking-national-security-officials/
+Published: 2026-06-26 21:02 UTC
+URL: https://www.wired.com/story/how-people-in-china-keep-outsmarting-anthropics-geolocation-restrictions/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
-Exposed records from the private group included the personal information of a senior White House intelligence official and an active-duty special operations officer.
+As Anthropic tightens restrictions on access to Claude in China, users keep finding new workarounds, from proxy services to fake identities sourced on Telegram.
 
-### 27 Best Prime Day Beauty Deals of 2026 (We Sifted Through Hundreds to Pick Them)
+### Samsung’s Excellent OLED Monitors Are Up to 36 Percent Off for Prime Day
 Source: Wired
-Published: 2026-06-26 16:17 UTC
-URL: https://www.wired.com/story/best-prime-day-beauty-deals-06-26-2026/
+Published: 2026-06-26 21:02 UTC
+URL: https://www.wired.com/story/samsungs-odyssey-oled-monitors-prime-day-2026/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
-It wouldn't be Amazon Prime Day without some beauty deals. Here's a roundup of all our favorites.
+Samsung makes some of the very best OLED gaming monitors, and they’ve never been this affordable.
 
-### I Found the Best Prime Day Pixel Buds Deals: 2a, Pro (2026)
+### Best Ninja Prime Day Deals (2026) Slushi, Creami, Crispi, Cafe Luxe
 Source: Wired
-Published: 2026-06-26 15:58 UTC
-URL: https://www.wired.com/story/google-pixel-buds-prime-day-2026/
+Published: 2026-06-26 20:55 UTC
+URL: https://www.wired.com/story/ninja-creami-slushi-prime-day-deals-2026/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
-Google Pixel Buds are steeply on sale, presumably only through the end of the day.
+Ninja Creami Swirl, Crispi, Slushi, and Cafe Luxe Pro are all on Prime Day deals that will soon go away.
 
-### Prime Day’s Best Handheld Fan Deals, Up to 20% Off, Are About to Disappear (2026)
+### 10 Best Prime Day Streaming Deals, Including Half Off Apple TV (2026)
 Source: Wired
-Published: 2026-06-26 15:56 UTC
-URL: https://www.wired.com/story/amazon-prime-day-deals-on-handheld-fans-2026/
+Published: 2026-06-26 18:55 UTC
+URL: https://www.wired.com/story/best-prime-day-streaming-deals-06-26-2026/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
-These are the best last-minute Prime Day discounts on handheld fans, from $10 budget buys to Shark’s high-tech ChillPill.
+Prime Day isn’t just about cheap TVs. It’s also about cheap stuff to watch on your cheap TV.
 
-### The US Is About to Deport an Immigrant to the Center of the Ebola Crisis
+### How to See the Giant Asteroid That Will Pass by Earth This Weekend
 Source: Wired
-Published: 2026-06-26 15:43 UTC
-URL: https://www.wired.com/story/the-us-is-about-to-deport-an-immigrant-to-the-center-of-the-ebola-crisis/
+Published: 2026-06-26 18:45 UTC
+URL: https://www.wired.com/story/how-to-see-1997-nc1-asteroid-pass-by-earth-this-weekend/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
-Edward Nalwamba is a 78-year-old retired pastor whose health has rapidly declined while in detention, his attorney says.
+The asteroid will be visible for several nights from different parts of the world. We’ll tell you when and where to look, and what equipment you’ll need to spot it.
 
-### Get $145 Off the Best Mesh Router This Prime Day 2026
+### I'm Adding These Bose Headphones to My Prime Day Cart (2026)
 Source: Wired
-Published: 2026-06-26 15:18 UTC
-URL: https://www.wired.com/story/amazon-prime-day-router-deals-06-26-2026/
+Published: 2026-06-26 18:16 UTC
+URL: https://www.wired.com/story/bose-headphones-amazon-prime-day-2026/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
-Do you crave speedy, reliable Wi-Fi throughout your home? Snag one of these Prime Day router or mesh deals.
+Bose headphones are already one of our favorites for comfort, sound, and noise canceling. Now they’re cheaper.
 
 ### The CEO of AWS on why Amazon is hiring 11,000 interns and junior employees
 Source: Platformer
@@ -10486,6 +10279,22 @@ Source homepage / 来源主页
 
 ## cybernetics automation / 控制论与自动化
 
+### General Intuition raises $320M to use video game data to train robots
+Source: Robotics Business Review
+Published: 2026-06-26 18:38 UTC
+URL: https://www.therobotreport.com/general-intuition-raises-320m-uses-video-game-data-train-robots/
+Source meta: trade_publication · specialist · R4 · P4 · baseline
+
+General Intuition is using video game clips with embedded action labels to speed up AI training for robotics. The post General Intuition raises $320M to use video game data to train robots appeared first on The Robot Report .
+
+### Video Friday: Give Robots a Hand
+Source: IEEE Spectrum Robotics
+Published: 2026-06-26 16:30 UTC
+URL: https://spectrum.ieee.org/video-friday-robot-grippers
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. RSS 2026 : 13–17 July 2026, SYDNEY Summer School on Multi-Robot Systems : 29 July–4 August 2026, PRAGUE Actuate 2026 : 18–19 August 2026, SAN FRANCISCO IROS 2026 : 27 September–1 October 2026, PITTSBURGH Enjoy today’s videos! The best way of introducing a new robot hand is to have a disembodied one crawling across a table. [ Tangent Robotics ] MIT CSAIL’s Improbable AI Lab Director Pulkit Agrawal explains his “SoftMimic” approach to making robots safer around humans. [ SoftMimic ] I now have absolutely no interest in a humanoid robot for my home unless it can do this. [ PNDbotics ] The DARPA Lift Challenge is open to the public Aug. 6-9, 2026, at the National Museum of the US Air Force. [ DARPA ] Getting Digit to step and shuffle around an obstacle on the floor is a real test of reactive footstep planning.
+
 ### Orbbec shows AI-powered vision systems at Automate 2026
 Source: Robotics Business Review
 Published: 2026-06-26 13:54 UTC
@@ -10525,14 +10334,6 @@ URL: https://www.therobotreport.com/reservoir-acquires-contain-to-scale-agtech-s
 Source meta: trade_publication · specialist · R4 · P4 · baseline
 
 Reservoir has acquired agriculture finance platform Contain,, naming founder Nicola Kerslake general partner to help scale AI startups. The post Reservoir acquires Contain to scale agtech startups appeared first on The Robot Report .
-
-### FAULHABER focuses on torque, noise, and power with new GPT gearheads
-Source: Robotics Business Review
-Published: 2026-06-24 18:12 UTC
-URL: https://www.therobotreport.com/faulhaber-focuses-torque-noise-power-new-gpt-gearheads/
-Source meta: trade_publication · specialist · R4 · P4 · baseline
-
-FAULHABER says its new GPT gearheads work with motors in its standard range and provide more performance with a compact design. The post FAULHABER focuses on torque, noise, and power with new GPT gearheads appeared first on The Robot Report .
 
 ### Video Friday: Do Robots Even Need Legs?
 Source: IEEE Spectrum Robotics
@@ -10590,14 +10391,6 @@ Source meta: specialist_media · specialist · R4 · P4 · baseline
 
 Yen-Ling Kuo always wanted to understand how things worked. When she was growing up in Taiwan, reading the story of Michael Faraday in elementary school piqued her curiosity about the natural world. During that time, she was introduced to Logo , a computer program with a turtle cursor to help children learn basic coding through hands-on experimentation. It was Kuo’s introduction to programming logic. Yen-Ling Kuo Employer University of Virginia in Charlottesville Title Assistant professor of computer science Member grade Member Alma maters National Taiwan University; MIT In high school she learned the capacity computers held. She could write programs that completed tasks independently, she realized. “Once I discovered how powerful computers could be,” she says, “I knew I wanted to focus on using them to solve real-world problems.” Kuo, an IEEE member, never lost her interest in the “how” behind processes and tools. Her curiosity, combined with a stint working at a Silicon Valley company, led her to focus on innovations that live at the intersection of cognitive and computer sciences.
 
-### Video Friday: Robotic Motion Discovery Reveals Unusual Behaviors
-Source: IEEE Spectrum Robotics
-Published: 2026-06-12 17:00 UTC
-URL: https://spectrum.ieee.org/video-friday-humanoid-loco-manipulation
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. RSS 2026 : 13–17 July 2026, SYDNEY Summer School on Multi-Robot Systems : 29 July–4 August 2026, PRAGUE Actuate 2026 : 18–19 August 2026, SAN FRANCISCO Enjoy today’s videos! We present MotionDisco, a framework that discovers contact-rich, long-horizon humanoid loco-manipulation motions from scratch, without relying on teleoperation or motion retargeting from human demonstrations. Some of the discovered behaviors are a little nutso: [ MotionDisco ] Not sure I’d say any of this is ‘effortless’ but those claws are pretty cute. [ Deep Robotics ] It turns out running a workout class is a decent way to stress-test whole-body range of motion . Coordinating fluid movement across every joint at once—timing, velocity, balance compensation—is one of the harder control problems in humanoid robotics.
-
 ### Lasers on the Moon Could Keep Time and Help Spacecraft Navigate
 Source: IEEE Spectrum Aerospace
 Published: 2026-06-08 13:00 UTC
@@ -10638,25 +10431,9 @@ Published: 2026-06-28 12:30 UTC
 URL: http://www.arrl.org/news/view/start-planning-for-arrl-field-day-2026
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
-### Integrate Physical AI Capabilities into Existing Apps with NVIDIA Omniverse Libraries
-Source: NVIDIA Technical Blog
-Published: 2026-06-26 16:59 UTC
-URL: https://developer.nvidia.com/blog/integrate-physical-ai-capabilities-into-existing-apps-with-nvidia-omniverse-libraries/
-Source meta: specialist_media · specialist · R5 · P5 · baseline
-
-Physical AI—AI systems that perceive, reason, and act in physically grounded simulated environments—is changing how teams design and validate robots and...
-
-### How to Accelerate Protein Structure Prediction at Proteome-Scale
-Source: NVIDIA Technical Blog
-Published: 2026-06-26 16:59 UTC
-URL: https://developer.nvidia.com/blog/how-to-accelerate-protein-structure-prediction-at-proteome-scale/
-Source meta: specialist_media · specialist · R5 · P5 · baseline
-
-Proteins rarely function in isolation as individual monomers. Most biological processes are governed by proteins interacting with other proteins, forming...
-
 ### Cut Checkpoint Costs with About 30 Lines of Python and NVIDIA nvCOMP
 Source: NVIDIA Technical Blog
-Published: 2026-06-26 16:59 UTC
+Published: 2026-06-26 21:16 UTC
 URL: https://developer.nvidia.com/blog/cut-checkpoint-costs-with-about-30-lines-of-python-and-nvidia-nvcomp/
 Source meta: specialist_media · specialist · R5 · P5 · baseline
 
@@ -10664,7 +10441,7 @@ Training LLMs requires periodic checkpoints. These full snapshots of model weigh
 
 ### Running Large-Scale GPU Workloads on Kubernetes with Slurm
 Source: NVIDIA Technical Blog
-Published: 2026-06-26 16:59 UTC
+Published: 2026-06-26 21:16 UTC
 URL: https://developer.nvidia.com/blog/running-large-scale-gpu-workloads-on-kubernetes-with-slurm/
 Source meta: specialist_media · specialist · R5 · P5 · baseline
 
@@ -10672,7 +10449,7 @@ Slurm is an open source cluster management and job scheduling system for Linux. 
 
 ### MiniMax M2.7 Advances Scalable Agentic Workflows on NVIDIA Platforms for Complex AI Applications
 Source: NVIDIA Technical Blog
-Published: 2026-06-26 16:59 UTC
+Published: 2026-06-26 21:16 UTC
 URL: https://developer.nvidia.com/blog/minimax-m2-7-advances-scalable-agentic-workflows-on-nvidia-platforms-for-complex-ai-applications/
 Source meta: specialist_media · specialist · R5 · P5 · baseline
 
@@ -10680,11 +10457,27 @@ The release of MiniMax M2.7 adds enhancements to the popular MiniMax M2.5 model,
 
 ### NVIDIA Ising Introduces AI-Powered Workflows to Build Fault-Tolerant Quantum Systems
 Source: NVIDIA Technical Blog
-Published: 2026-06-26 16:59 UTC
+Published: 2026-06-26 21:16 UTC
 URL: https://developer.nvidia.com/blog/nvidia-ising-introduces-ai-powered-workflows-to-build-fault-tolerant-quantum-systems/
 Source meta: specialist_media · specialist · R5 · P5 · baseline
 
 NVIDIA Ising is the world's first family of open AI models for building quantum processors, launching with two model domains: Ising Calibration and Ising...
+
+### NVIDIA NVbandwidth: Your Essential Tool for Measuring GPU Interconnect and Memory Performance
+Source: NVIDIA Technical Blog
+Published: 2026-06-26 21:16 UTC
+URL: https://developer.nvidia.com/blog/nvidia-nvbandwidth-your-essential-tool-for-measuring-gpu-interconnect-and-memory-performance/
+Source meta: specialist_media · specialist · R5 · P5 · baseline
+
+When you’re writing CUDA applications, one of the most important things you need to focus on to write great code is data transfer performance. This applies to...
+
+### Building Custom Atomistic Simulation Workflows for Chemistry and Materials Science with NVIDIA ALCHEMI Toolkit
+Source: NVIDIA Technical Blog
+Published: 2026-06-26 21:16 UTC
+URL: https://developer.nvidia.com/blog/building-custom-atomistic-simulation-workflows-for-chemistry-and-materials-science-with-nvidia-alchemi-toolkit/
+Source meta: specialist_media · specialist · R5 · P5 · baseline
+
+For decades, computational chemistry has faced a tug-of-war between accuracy and speed. Ab initio methods like density functional theory (DFT) provide high...
 
 ### SparkFun News
 Source: URL-only source / 仅网址源
@@ -10692,6 +10485,70 @@ URL: https://www.sparkfun.com/news
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
 Source homepage / 来源主页
+
+### A Custom Zigbee Touch Keypad
+Source: Hackaday
+Published: 2026-06-26 20:00 UTC
+URL: https://hackaday.com/2026/06/26/a-custom-zigbee-touch-keypad/
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+[Dominic Buchstaller] wanted a neat, tidy entryway keypad that actually looked good. Prime goals were something slim, wireless, and with no visible screws. Dependency on the cloud was also a …read more
+
+### MUNNY Glowing Friend with Bluetooth Control!
+Source: Adafruit Blog
+Published: 2026-06-26 20:00 UTC
+URL: https://blog.adafruit.com/2026/06/26/munny-glowing-friend-with-bluetooth-control/
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+MUNNY DIY is a designer toy figure designed to be modified. So, instead of simply painting him to change his appearance, let’s fill him with electronics so he can glow all the colors of the rainbow at the touch of a wireless button! Check out the learn guide from John Park and make your own […]
+
+### RPiLocator Shutting Down in July #piday #raspberrypi
+Source: Adafruit Blog
+Published: 2026-06-26 19:52 UTC
+URL: https://blog.adafruit.com/2026/06/26/rpilocator-shutting-down-in-july-piday-raspberrypi/
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+Bitter sweet news, I’m sure many are glad they no longer need to rely on RPiLocator to snag a Pi. In its current iteration, the site (https://rpilocator.com) tracks stock and prices for the various Raspberry Pi boards. But when the it was first created by André (makerbymistake), at the height of the chip shortage, it […]
+
+### Reflective LCD Slabtop Terminal Runs Homebrewed Solar OS
+Source: Hackaday
+Published: 2026-06-26 18:30 UTC
+URL: https://hackaday.com/2026/06/26/reflective-lcd-slabtop-terminal-runs-homebrewed-solar-os/
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+Have you ever spotted something in a catalog or on a website and just known you had to build a project around that one part? That’s how [nilseuropa] felt about …read more
+
+### WipperSnapper for Raspberry Pi, Learn Code Element Updates, and more. What’s new with Adafruit IO and the Adafruit Learning System.
+Source: Adafruit Blog
+Published: 2026-06-26 18:15 UTC
+URL: https://blog.adafruit.com/2026/06/26/wippersnapper-for-raspberry-pi-learn-code-element-updates-and-more-whats-new-with-adafruit-io-and-the-adafruit-learning-system/
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+WipperSnapper for Raspberry Pi From Brent: WipperSnapper for Raspberry Pi (and Linux SBCs!) is shaping up to be the fastest way yet to connect a Raspberry Pi to Adafruit IO and start building. We’re putting the finishing touches on WipperSnapper for Raspberry Pi and Linux SBCs, and we’ve reimagined how easy getting started should be. […]
+
+### This Senior Member Solves Complex Product Lifecycle Challenges
+Source: IEEE Spectrum
+Published: 2026-06-26 18:00 UTC
+URL: https://spectrum.ieee.org/product-lifecycle-ajay-prasad
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+What do an instinct to fix things and the 1999 global panic over whether computers would survive the date change to 2000, known as the Y2K bug, have in common? Both helped shape IEEE Senior Member Ajay Prasad ’s career. Prasad is an industry process director at Dassault Systèmes in Detroit. His focus is global oversight of industry process experts specializing in Enovia , a product lifecycle management (PLM) solution and one of the company’s flagship products. Ajay Prasad Employer Dassault Systèmes in Detroit Title Industry process director Member grade Senior member Alma maters Bangalore University, in Bengaluru, India; and the University of Birmingham, England As a child growing up in Bangalore, India, his curiosity to build real-world solutions was ignited by his father, a mechanical engineer. Prasad’s father often fixed things around the house, including cars and bicycles. His ability to take something broken and return it to working order laid the groundwork for his son’s career in engineering.
+
+### Hackaday Podcast Episode 375: Rebuilding Tech on Our Terms and the Hero Nerd
+Source: Hackaday
+Published: 2026-06-26 17:00 UTC
+URL: https://hackaday.com/2026/06/26/hackaday-podcast-episode-375-rebuilding-tech-on-our-terms-and-the-hero-nerd/
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+In this episode, Hackaday editors Elliot Williams and Tom Nardi start off by taking a trip down the Raspberry Pi memory lane and then tackle a fresh pile of listener …read more
+
+### Charger Charm – 3D Printed holder for Micro LiPo USB Charger
+Source: Adafruit Blog
+Published: 2026-06-26 16:00 UTC
+URL: https://blog.adafruit.com/2026/06/26/charger-charm-3d-printed-holder-for-micro-lipo-usb-charger/
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+Our Adafruit micro Lipo USB chargers are great for charging your projects that use our Lithium Polymer Batteries. You can make this into a wearable charm with a little help from 3D Printing. Our 3D printed charm turns this charger into a adorable little robot. Parts Micro Lipo USB Charger JST Connector / Extension Cable […]
 
 ### A GUI Solution For ESP32 Web Development
 Source: Hackaday
@@ -10733,14 +10590,6 @@ Source meta: specialist_media · specialist · R4 · P4 · baseline
 
 Firefox recently added integrated AI support — a generally poorly received move among many Firefox users — that includes an AI chatbot integration for interacting with web pages. Florian Port …read more
 
-### PBS Mini-Docs Celebrating Pride #Pride2026
-Source: Adafruit Blog
-Published: 2026-06-26 12:45 UTC
-URL: https://blog.adafruit.com/2026/06/26/pbs-mini-docs-celebrating-pride-pride2026/
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-Learn more about Pride month and LGBTQIA+ icons and history with this PBS curated playlist. We’re celebrating Pride Month by exploring stories featuring lesbian, gay, transgender, queer, intersex, asexual, and nonbinary voices, plus others whose identities are not captured by the LGBTQIA acronym. Learn more.
-
 ### Alan Turing’s Remarkable, Nearly-Forgotten Voice Encryption Device
 Source: Hackaday
 Published: 2026-06-26 11:00 UTC
@@ -10773,14 +10622,6 @@ Source meta: trade_publication · specialist · R4 · P4 · baseline
 
 Join this webinar and learn how high‑performance semiconductor technologies support centralized sensor fusion and reliable ADAS systems. The post Next‑Gen ADAS/AD Architectures: Power, Networking, Safety & Sensors appeared first on EE Times .
 
-### This Kid-Friendly Laptop Build is The Antidote to Age Verification
-Source: Hackaday
-Published: 2026-06-26 08:00 UTC
-URL: https://hackaday.com/2026/06/26/this-kid-friendly-laptop-build-is-the-antidote-to-age-verification/
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-Age-verification has been a topic of hot debate recently, with many in the community feeling that keeping kids safe online is better handled by the parents. But what does that …read more
-
 ### Makerfabs MaTouch ESP32-P4 10.1-inch HMI display features 4G LTE and Ethernet connectivity, a 2MP camera
 Source: CNX Software
 Published: 2026-06-26 07:54 UTC
@@ -10796,14 +10637,6 @@ URL: https://swling.com/blog/2026/06/marks-charity-shop-find-a-grundig-elite-boy
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
 Many thanks to SWling Post contributor, Mark Hirst, who writes: Thomas, My local charity shop received a donation recently in the form of a Grundig Elite Boy 500. It’s in working order, although the volume control needed some Deoxit D5 to solve some bad scratching. Good cosmetic condition and works across all the bands. Here’s […]
-
-### Make That Smart TV into a Computer
-Source: Hackaday
-Published: 2026-06-26 05:00 UTC
-URL: https://hackaday.com/2026/06/25/make-that-smart-tv-into-a-computer/
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-The smart TV is a fixture in most houses, variously an entertainment portal, corporate data gathering tool, or sometimes an outright spy. It’s a nice monitor with a computer built …read more
 
 ### $449 CHUWI UniBook 14-inch laptop is powered by an Intel Core 3 304 Wildcat Lake processor
 Source: CNX Software
@@ -10829,22 +10662,6 @@ Source meta: specialist_media · specialist · R4 · P4 · baseline
 
 The AIBOX-9075 is an industrial Edge AI box built around the Qualcomm IQ-9075 SoC, designed for running AI workloads directly on the device without relying on the cloud. With up to 200 TOPS of AI performance, it is designed for edge computing, private LLM deployment, robotics, computer vision, and more. The system comes with 36GB LPDDR5 ECC memory, 128GB UFS 2.2 storage, and an M.2 PCIe 4.0 NVMe SSD slot. Connectivity options include dual 2.5GbE with TSN, optional Wi-Fi 6, Bluetooth 5.2, and 4G/5G, while peripheral interfaces include eight GMSL2 camera inputs, HDMI 2.0, USB 3.0, CAN-FD, RS485, and opto-isolated digital I/O. Its rugged aluminum enclosure operates from -40°C to 85°C, making it suitable for continuous deployment in industrial and outdoor environments. Firefly AIBOX-9075 specifications: SoC – Qualcomm DragonWing IQ-9075 CPU Octa-core Kryo Gen 6 (Cortex-A78C-based) application cores @ up to 2.36 GHz Quad-core Cortex-R52 real-time cores @ up to 1.85GHz [...
 
-### Increasing Photon Upconversion Efficiency with Structural Exciton Localization
-Source: Hackaday
-Published: 2026-06-26 02:00 UTC
-URL: https://hackaday.com/2026/06/25/increasing-photon-upconversion-efficiency-with-structural-exciton-localization/
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-In structures like photovoltaic cells there is only a limited spectrum of wavelengths that can perform useful work, with the remaining wavelengths of electromagnetic radiation effectively wasted. If the energy …read more
-
-### RobCo AE7P lazer tag system #3DThursday #3DPrinting
-Source: Adafruit Blog
-Published: 2026-06-25 23:00 UTC
-URL: https://blog.adafruit.com/2026/06/25/robco-ae7p-lazer-tag-system-3dthursday-3dprinting/
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-A Fallout-Themed laser tag system shared by Splated on Printables: I wanted to recreate the professional-grade laser tag experience you find at commercial arcades. After a year of trial and error, I finally have a working prototype—completely themed in a Fallout style! I started with the amazing 3D model from ytec3d (https://ytec3d.com/laser-pistol/) but ended up […]
-
 ### Jim Keller: ‘AI Still Obeys the Old Laws of Compute’
 Source: EE Times
 Published: 2026-06-25 22:00 UTC
@@ -10852,22 +10669,6 @@ URL: https://www.eetimes.com/jim-keller-on-tenstorrents-blackhole-scaling-and-ip
 Source meta: trade_publication · specialist · R4 · P4 · baseline
 
 Invoking Rent's Rule and Amdahl's Law, Keller argues that memory and communication, not bigger processors, will define the future of AI infrastructure The post Jim Keller: ‘AI Still Obeys the Old Laws of Compute’ appeared first on EE Times .
-
-### Scifi Crate #3DThursday #3DPrinting
-Source: Adafruit Blog
-Published: 2026-06-25 21:00 UTC
-URL: https://blog.adafruit.com/2026/06/25/scifi-crate-3dthursday-3dprinting/
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-Shared by Josh-3D on Maker World: A large multi-part 3D-printed sci-fi crate with a primitive latch/locking mechanism and stackable design. Printed in pieces that don’t feel like an arbitrary chop-up — assembled to look intentional. 2025-01-28 update removes the need for drilling screw holes. By Josh-3D Download the files and learn more Every Thursday is […]
-
-### John Park’s Workshop — LIVE TODAY 6/25/26
-Source: Adafruit Blog
-Published: 2026-06-25 19:57 UTC
-URL: https://blog.adafruit.com/2026/06/25/john-parks-workshop-live-today-6-25-26/
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-It’s JOHN PARK’S WORKSHOP — LIVE! — Coming up at 4pm ET / 1pm PT Today! LIVE TEXT CHAT IS HERE in the Adafruit Discord chat! Projects — Attachécade wiring harness KiCad adapter design Tool Tips Retro Gear PC Engine / TurboGrafx CD games on Fruit Jam and more! The live video will be on […]
 
 ### Why Does a Bank Need a Chief Scientist?
 Source: IEEE Spectrum
@@ -11020,14 +10821,6 @@ URL: https://www.raspberrypi.com/news/raspberry-pi-and-the-eu-cyber-resilience-a
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
 If you manufacture and deploy digital products in the EU, the CRA is something you need to understand. The post Raspberry Pi and the EU Cyber Resilience Act appeared first on Raspberry Pi .
-
-### Home Broadband Is 5G’s Surprise Killer App
-Source: IEEE Spectrum
-Published: 2026-06-24 10:00 UTC
-URL: https://spectrum.ieee.org/fixed-wireless-access
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-5G telecommunications, according to industry hype when 5G first launched in 2019 , was going to be all about buzzy applications like mobile augmented reality and autonomous vehicles . But the surprise plot twist came when replacing home cable internet turned into 5G’s most widely adopted new application. Fixed wireless access (FWA) now serves over 14 million U.S. customers , and contributes 28 percent of worldwide wireless traffic . Fixed wireless access is what the term sounds like: broadband internet delivered over a cellular radio link to a stationary location—no cable, no fiber, no trenching, no satellite broadband antenna pointed at the sky. What makes FWA distinctive is that it repurposes the same towers, spectrum, and 5G infrastructure that was built for mobile devices. One U.S. Federal Communications Commission commissioner has called FWA 5G’s killer app . And that’s true not just in the United States either. Jio, India’s largest carrier, is also one of the world’s largest FWA providers, with over 9 million customers as of last year.
 
 ### More jamming on shortwave
 Source: SWLing Post
@@ -11710,17 +11503,9 @@ Source meta: specialist_media · specialist · R4 · P5 · baseline
 
 Source homepage / 来源主页
 
-### Embedding Forbidden Text in Spyware to Discourage AI Analysis
-Source: Schneier on Security
-Published: 2026-06-26 16:59 UTC
-URL: https://www.schneier.com/blog/archives/2026/06/embedding-forbidden-text-in-spyware-to-discourage-ai-analysis.html
-Source meta: specialist_media · specialist · R5 · P5 · baseline
-
-At least one malware developer is adding text about nuclear and biological weapons to their spyware, in an effort to stop automatic AI analysis. Details : The _index.js payload begins with a large JavaScript block comment containing fake system instructions and policy-triggering content. Because it is inside a comment, it does not affect JavaScript execution. The runtime skips it. The real malware begins after the comment with a try{eval(…)} wrapper around a large character-code array and a ROT-style substitution function. This header appears designed for AI-mediated analysis, not for Node, Bun, or Python. It attempts to derail scanners or analyst copilots that feed the beginning of a file to a language model without clearly isolating the content as untrusted data. In weak pipelines, this can cause refusal behavior, prompt confusion, context pollution, or premature classification before the scanner reaches the actual malware...
-
 ### Anthropic’s Fable and the State of AI
 Source: Schneier on Security
-Published: 2026-06-26 16:59 UTC
+Published: 2026-06-26 21:16 UTC
 URL: https://www.schneier.com/blog/archives/2026/06/anthropics-fable-and-the-state-of-ai.html
 Source meta: specialist_media · specialist · R5 · P5 · baseline
 
@@ -11728,7 +11513,7 @@ On June 9th, Anthropic released its Fable generative AI model. Three days later,
 
 ### Friday Squid Blogging: Victims of Unregulated Squid Fishing
 Source: Schneier on Security
-Published: 2026-06-26 16:59 UTC
+Published: 2026-06-26 21:16 UTC
 URL: https://www.schneier.com/blog/archives/2026/06/friday-squid-blogging-victims-of-unregulated-squid-fishing.html
 Source meta: specialist_media · specialist · R5 · P5 · baseline
 
@@ -11736,7 +11521,7 @@ Dolphins, sharks, turtles, and human workers are all victims of unregulated squi
 
 ### Professional Athletes and Wearables
 Source: Schneier on Security
-Published: 2026-06-26 16:59 UTC
+Published: 2026-06-26 21:16 UTC
 URL: https://www.schneier.com/blog/archives/2026/06/professional-athletes-and-wearables.html
 Source meta: specialist_media · specialist · R5 · P5 · baseline
 
@@ -11744,7 +11529,7 @@ I haven’t thought about the privacy issues surrounding professional athletes a
 
 ### Anthropic’s Fable 5 Model Jailbroken Within Days
 Source: Schneier on Security
-Published: 2026-06-26 16:59 UTC
+Published: 2026-06-26 21:16 UTC
 URL: https://www.schneier.com/blog/archives/2026/06/anthropics-fable-5-model-jailbroken-within-days.html
 Source meta: specialist_media · specialist · R5 · P5 · baseline
 
@@ -11752,11 +11537,19 @@ Fable 5 is the supposed safe version of Anthropic’s Mythos Preview, with guard
 
 ### Embedding Forbidden Text in Spyware to Discourage AI Analysis
 Source: Schneier on Security
-Published: 2026-06-26 16:59 UTC
+Published: 2026-06-26 21:16 UTC
 URL: https://www.schneier.com/blog/archives/2026/06/embedding-forbidden-text-in-spyware-to-discourage-ai-analysis-2.html
 Source meta: specialist_media · specialist · R5 · P5 · baseline
 
 At least one malware developer is adding text about nuclear and biological weapons to their spyware, in an effort to stop automatic AI analysis. Details : The _index.js payload begins with a large JavaScript block comment containing fake system instructions and policy-triggering content. Because it is inside a comment, it does not affect JavaScript execution. The runtime skips it. The real malware begins after the comment with a try{eval(…)} wrapper around a large character-code array and a ROT-style substitution function. This header appears designed for AI-mediated analysis, not for Node, Bun, or Python. It attempts to derail scanners or analyst copilots that feed the beginning of a file to a language model without clearly isolating the content as untrusted data. In weak pipelines, this can cause refusal behavior, prompt confusion, context pollution, or premature classification before the scanner reaches the actual malware...
+
+### Interesting Paper Exploring Prompt Injection
+Source: Schneier on Security
+Published: 2026-06-26 21:16 UTC
+URL: https://www.schneier.com/blog/archives/2026/06/interesting-paper-exploring-prompt-injection.html
+Source meta: specialist_media · specialist · R5 · P5 · baseline
+
+This is a fascinating explotation of how LLMs fall for prompt injection attacks. It turns out that they learn to recognize the style of text in different role/instruction blocks, and not just the tags. Their conclusion: Role tags were a formatting trick that became the security architecture and the cognitive scaffolding of modern LLMs. We’ve shown that this architecture doesn’t survive into the model’s actual representations, and that such role confusion is linked to prompt injection. Unless LLMs achieve genuine role perception, we think injection defense will remain a perpetual whack-a-mole game. And the continuous nature of role boundaries opens the threat of injections designed to subtly shift LLM states through seemingly innocuous text, legally and at scale...
 
 ### Tech Policy Press
 Source: URL-only source / 仅网址源
@@ -11764,6 +11557,22 @@ URL: https://www.techpolicy.press/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
 Source homepage / 来源主页
+
+### Behind the Blog: Salesforce Beach
+Source: 404 Media
+Published: 2026-06-26 17:04 UTC
+URL: https://www.404media.co/behind-the-blog-salesforce-beach/
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+This week, we discuss talking aloud to computers, Cannes, and “Engineering Creativity: Guac Is Extra."
+
+### EFF to Grindr: This Pride Month, Put Safety and Privacy Over Profits
+Source: Electronic Frontier Foundation
+Published: 2026-06-26 16:18 UTC
+URL: https://www.eff.org/deeplinks/2026/06/grindr-put-queer-safety-and-privacy-over-profits
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+
+This Pride month, we’re calling on the dating app Grindr to prioritize LGBTQ+ user safety by making privacy the default across its platform. That means no more sharing personal data with advertisers or training AI on private information without users’ opt-in consent. Grindr is a dating app for the LGBTQ+ community; and for queer people, privacy violations can have life-altering consequences. Information that reveals someone’s sexual orientation, gender identity, or HIV status can be used by employers, governments, family members, scammers, or bad actors to inflict harassment, discrimination, arrest, or violence. For example, data from Grindr and other gay dating apps was sold by data brokers and used to 'out' (the act of disclosing someone's sexual orientation without permission) a gay priest in 2021. Despite being the world's most popular gay dating app, Grindr has repeatedly mishandled users' sensitive data . Grindr has been caught sharing users' HIV status and precise location with advertisers without obtaining valid consent, resulting in reprimands and fines in several countries.
 
 ### Hate “The Algorithm?” RSS Is One of the Tools You’ve Been Looking For
 Source: Electronic Frontier Foundation
@@ -11804,14 +11613,6 @@ URL: https://www.eff.org/deeplinks/2026/06/eff-tedic-and-cejil-challenge-secrecy
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
 Seeking transparency and accountability in Paraguay’s use of facial recognition, EFF, the Association of Technology, Education, Development, Research, Communication (TEDIC), and the Centre for Justice and International Law (CEJIL) filed a complaint with the Inter-American Commission on Human Rights against the state for arbitrarily denying access to information about its implementation and use of the technology as a tool for mass surveillance that erodes people’s privacy rights. The case involves the Ministry of the Interior and National Police’s installation in 2019 of surveillance cameras with facial recognition technology in Asunción . Maricarmen Sequera, a lawyer and executive director of TEDIC, filed an information request with the ministry seeking details and protocols about the implementation and use of facial recognition systems and the personal data processing involved.
-
-### Four Years After Dobbs, Anti-Abortion Lawmakers Keep Coming for Online Speech
-Source: Electronic Frontier Foundation
-Published: 2026-06-25 20:49 UTC
-URL: https://www.eff.org/deeplinks/2026/06/four-years-after-dobbs-anti-abortion-lawmakers-keep-coming-online-speech
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-This week marks four years since Dobbs v. Jackson Women’s Health Organization overturned Roe v. Wade ’s constitutional protections for people seeking abortion care. Anniversaries are a moment to take stock, and over the last four years, EFF has seen firsthand how digital rights and reproductive rights have become increasingly intertwined. One major way this has happened: the fight over abortion has also become a fight over online speech and government censorship as a steady stream of proposed laws, cease-and-desist letters, lawsuits, and government investigations have targeted the websites and online resources that help people find and learn about reproductive healthcare. This is an effort by anti-abortion government officials to mold the information ecosystem, restrict what people can read, and cut off the ways people communicate with one another. We’ve watched this build for years, and the encouraging news is that many of these efforts have failed . The worrying news is that they keep coming.
 
 ### Bodycam Shows Moment Cops Arrested a Man for Speaking Too Long at Data Center Meeting
 Source: 404 Media
@@ -11868,14 +11669,6 @@ URL: https://www.404media.co/podcast-if-ai-is-sentient-then-so-is-age-of-empires
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 
 A surreal but compelling LLM experiment with Age of Empires II; how a Texas city sold land meant for a park to a data center company; and the Madison Square Garden hack.
-
-### How Hackers Broke into Madison Square Garden
-Source: 404 Media
-Published: 2026-06-24 13:00 UTC
-URL: https://www.404media.co/how-hackers-broke-into-madison-square-garden/
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-
-Hackers stole more than 45GB of data from Madison Square Garden, including data related to “talent” and the Knicks. Clues in the data point to how the hackers got in.
 
 ### China and the West are taking opposite paths on EV battery recycling
 Source: Rest of World
@@ -12047,13 +11840,6 @@ The 18-month-long investigation about how Tinder, Hinge, and their corporate own
 
 ## field gear / 野外装备
 
-### Backpacking Light
-Source: URL-only source / 仅网址源
-URL: https://backpackinglight.com/
-Source meta: specialist_media · specialist · R4 · P4 · reference
-
-Source homepage / 来源主页
-
 ### Wirecutter Outdoors
 Source: URL-only source / 仅网址源
 URL: https://www.nytimes.com/wirecutter/outdoors/
@@ -12095,6 +11881,14 @@ URL: https://www.outdoorgearlab.com/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
 
 Source homepage / 来源主页
+
+### Felix Laberge Sets New Singlespeed Record at The 2026 Tour Divide
+Source: Bikepacking.com
+Published: 2026-06-26 20:51 UTC
+URL: https://bikepacking.com/news/2026-tour-divide-singlespeed-record-felix-laberge/
+Source meta: specialist_media · specialist · R3 · P4 · culture_probe
+
+Felix Laberge has claimed the singlespeed title—and new overall record—at the 2026 Tour Divide after an astonishing ride from Banff to Antelope Wells. Battling New Mexico's blistering heat, relentless headwinds, thunderstorms, and even a dog attack, the Montreal rider never wavered, crossing the finish line seventh overall after one of the most consistent and impressive rides of this year's race. Find all the details about his race and the Tour Divide singlespeed record here... The post Felix Laberge Sets New Singlespeed Record at The 2026 Tour Divide appeared first on BIKEPACKING.com .
 
 ### Paul NOQR: A Bolt-On Seatpost Collar
 Source: Bikepacking.com
@@ -12144,14 +11938,6 @@ Source meta: specialist_media · specialist · R3 · P4 · culture_probe
 
 This week's Reader's Rig comes from builder Yann Babelian of Cycles Khelonys in France, who shares the one-of-a-kind 27.5-inch klunker he made for a longtime client and friend, Joseph, complete with a truss fork and an upcycled main triangle. See it here... The post Reader’s Rig: Joseph’s Khelonys 27.5+ Klunker appeared first on BIKEPACKING.com .
 
-### Portal: Making Music in Remote Places (Film)
-Source: Bikepacking.com
-Published: 2026-06-26 10:58 UTC
-URL: https://bikepacking.com/plog/portal-film-samuel-organ/
-Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-
-"Portal" is an extraordinary 30-minute film that follows artist Samuel Organ on a 10-day bikepacking journey through the Scottish Highlands in search of remote locations to record music. Pedaling up mountains, into caves, and past peaceful lochs, he transforms field recordings and original compositions into a beautiful album. Watch the premiere and find an introduction from Samuel here… The post Portal: Making Music in Remote Places (Film) appeared first on BIKEPACKING.com .
-
 ### We Knife Co. Hull is a Brand New Limited Piece
 Source: KnifeNews
 Published: 2026-06-25 20:56 UTC
@@ -12191,6 +11977,54 @@ URL: https://knifenews.com/civivi-squib-steps-out-in-riveting-color-schemes/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
 
 One of the quirkier pieces in the latest passel of Civivi product announcements is the Squib. It’s a cute little flipper with a stout build and a lot of character. You can’t call a knife the “Squib” and then making it some massive tactical piece. Certain words bring certain connotations, and “Squib” does not evoke […]
+
+### Episode 148 | Rain Jackets for Mountain Minimalism
+Source: Backpacking Light
+Published: 2026-06-15 14:45 UTC
+URL: https://backpackinglight.com/podcast-episode-148-rain-jackets-mountain-minimalism/
+Source meta: specialist_media · specialist · R4 · P4 · reference
+
+How to choose rain gear for mountain minimalism based on exposure, retreat options, wind, abrasion, and thermal margin. The post Episode 148 | Rain Jackets for Mountain Minimalism appeared first on Backpacking Light .
+
+### A Simple Shower Test for Evaluating Backpack Water Resistance
+Source: Backpacking Light
+Published: 2026-06-12 16:09 UTC
+URL: https://backpackinglight.com/simple-shower-test-evaluating-backpack-water-resistance/
+Source meta: specialist_media · specialist · R4 · P4 · reference
+
+We use a simple and repeatable shower test method to evaluate backpack water resistance that incorporates fabrics, closures, seepage, and material water absorption. The post A Simple Shower Test for Evaluating Backpack Water Resistance appeared first on Backpacking Light .
+
+### By the Numbers: The Tug of Water – Why Some Layers Hold Sweat and Others Let it Go
+Source: Backpacking Light
+Published: 2026-06-05 15:00 UTC
+URL: https://backpackinglight.com/by-the-numbers-tug-of-water-why-some-layers-hold-sweat-others-let-go/
+Source meta: specialist_media · specialist · R4 · P4 · reference
+
+Our new test data reveals which hydrophobic and hydrophilic base layers are most effective at liquid water transfer, moving sweat away from your skin during high exertion. The post By the Numbers: The Tug of Water – Why Some Layers Hold Sweat and Others Let it Go appeared first on Backpacking Light .
+
+### Episode 147 | Thermoregulatory Debt
+Source: Backpacking Light
+Published: 2026-06-03 02:45 UTC
+URL: https://backpackinglight.com/episode-147-thermoregulatory-debt/
+Source meta: specialist_media · specialist · R4 · P4 · reference
+
+Avoid thermoregulatory debt by learning how delayed layering decisions in cold, wet, or windy conditions lead to moisture, heat, and performance debt. Timing is key. The post Episode 147 | Thermoregulatory Debt appeared first on Backpacking Light .
+
+### Camping Under Trees: Hazard-Tree Awareness and Campsite Selection for Backpackers
+Source: Backpacking Light
+Published: 2026-05-28 13:00 UTC
+URL: https://backpackinglight.com/camping-under-trees-hazard-tree-awareness-campsite-slection-backpackers/
+Source meta: specialist_media · specialist · R4 · P4 · reference
+
+Falling trees pose a fatal risk to backpackers, especially when camping. Learn to identify hazard trees and choose a safe campsite by scanning the fall zone. The post Camping Under Trees: Hazard-Tree Awareness and Campsite Selection for Backpackers appeared first on Backpacking Light .
+
+### REI’s Labor Fight Is a Test of Co-op Trust
+Source: Backpacking Light
+Published: 2026-05-27 17:07 UTC
+URL: https://backpackinglight.com/rei-labor-light-test-of-co-op-trust/
+Source meta: specialist_media · specialist · R4 · P4 · reference
+
+Documents show benefit changes, financial pressure, and unresolved legal questions. They also show how little members can verify from public statements alone. The post <span class="membersonly"></span> REI’s Labor Fight Is a Test of Co-op Trust appeared first on Backpacking Light .
 
 ### Sleeping Soft While Sleeping Rough
 Source: Adventure Journal
@@ -12689,6 +12523,13 @@ Image: The electric foot stove that we build in this manual. Photo by Marie Verd
 
 ## repair maintenance / 维修与维护
 
+### The Restart Project
+Source: URL-only source / 仅网址源
+URL: https://therestartproject.org/
+Source meta: specialist_media · specialist · R3 · P4 · culture_probe
+
+Source homepage / 来源主页
+
 ### The Community Repair Hub Is Live: Find a Repair Event Near You!
 Source: iFixit News
 Published: 2026-06-17 00:40 UTC
@@ -12704,22 +12545,6 @@ URL: https://www.ifixit.com/News/117842/tips-on-writing-a-good-manual-and-how-no
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
 
 Thanks to the EU, tech companies must now provide repair manuals for their products. But there’s a huge gap between creating a manual, and creating a good manual. Some companies…
-
-### What are the barriers facing repair businesses?
-Source: The Restart Project
-Published: 2026-06-15 14:46 UTC
-URL: https://therestartproject.org/repair-economy/what-are-the-barriers-facing-repair-businesses/
-Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-
-Independent repair businesses sit at the heart of the repair economy but face a range of challenges. Here's what we learned in North London. The post What are the barriers facing repair businesses? appeared first on The Restart Project .
-
-### Our website was hacked. Here’s what you need to know.
-Source: The Restart Project
-Published: 2026-06-11 15:53 UTC
-URL: https://therestartproject.org/news/our-website-was-hacked-heres-what-you-need-to-know/
-Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-
-On 10 June, our website was hacked, putting some visitors at risk. Here's what happened, how to know if you're affected and what to do if so. The post Our website was hacked. Here’s what you need to know. appeared first on The Restart Project .
 
 ### Teardown Confirms the Trump Phone Is a Gold-Painted HTC U24 Pro
 Source: iFixit News
@@ -12753,14 +12578,6 @@ Source meta: specialist_media · specialist · R3 · P4 · culture_probe
 
 If it walks like a duck and quacks like a duck, it’s probably a duck. Even if it’s covered in gold and two stripes short of a Star-Spangled Banner. Let's…
 
-### 1 in 5 MPs now support our Repair & Reuse Declaration
-Source: The Restart Project
-Published: 2026-05-14 14:25 UTC
-URL: https://therestartproject.org/right-to-repair/repair-reuse-declaration/1-in-5-mps-now-support-our-repair-reuse-declaration/
-Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-
-With broad public support and growing parliamentary backing, where is the government’s long-awaited Circular Economy Growth Plan? The post 1 in 5 MPs now support our Repair & Reuse Declaration appeared first on The Restart Project .
-
 ### Hackers, Forklifts, and Other Things Manufacturers Blame on Repair
 Source: Repair.org
 Published: 2026-05-11 18:06 UTC
@@ -12776,30 +12593,6 @@ URL: https://www.repair.org/blog/2026/5/4/cisco-is-hiding-its-repair-monopoly-be
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
 
 It took years of pressure, but consumers and advocates forced Apple to let people fix their own phones. That fight is not over. It just moved. Now the targets include everything from McFlurry machines to John Deere tractors to enterprise hardware from Cisco Systems. And right now, Cisco is leading the pack in the race to be the least repair-friendly major OEM. Over the past two weeks in Colorado, Cisco, IBM, and Hewlett-Packard Enterprise helped unleash more than 20 lobbying firms to kill the right to repair for businesses and government. Their argument was simple. If you do not use OEM parts, you are putting national security at risk. This is not just wrong. It is fiction. Since the first right to repair bill in 2014, not a single real-world example has been produced to support this claim. Not one. No breach. No incident. No evidence. Just hypotheticals dressed up as policy. Instead, we get scenarios that sound like action movies, not reality. They also tried to argue that repair should be restricted for equipment used in nuclear facilities and other sensitive environments.
-
-### Why are we asking for donations?
-Source: The Restart Project
-Published: 2026-04-22 11:00 UTC
-URL: https://therestartproject.org/news/why-are-we-asking-for-donations/
-Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-
-We don't love asking for donations. But as funding gets harder to find, your support keeps our movement going. Here's how your gift helps. The post Why are we asking for donations? appeared first on The Restart Project .
-
-### Amazon ends support for older Kindles
-Source: The Restart Project
-Published: 2026-04-16 14:25 UTC
-URL: https://therestartproject.org/right-to-repair/amazon-ends-support-for-older-kindles/
-Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-
-Your Kindle isn't dead, but here's what you need to know about Amazon's decision to stop supporting older Kindles and how to free yours. The post Amazon ends support for older Kindles appeared first on The Restart Project .
-
-### We brought the repair community back to Parliament
-Source: The Restart Project
-Published: 2026-03-26 18:03 UTC
-URL: https://therestartproject.org/right-to-repair/repair-reuse-declaration/we-brought-the-repair-community-back-to-parliament/
-Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-
-We brought 100 repair cafés into Parliament to expand political support for repair and reuse. Together we met over 90 MPs and built crucial momentum ahead of the Government's upcoming Circular Economy Plan. The post We brought the repair community back to Parliament appeared first on The Restart Project .
 
 ### A Manufacturer’s Guide to Right to Repair Compliance
 Source: Repair.org
@@ -12867,7 +12660,7 @@ Source homepage / 来源主页
 
 ### Data Is Plural — 2024.12.04 edition
 Source: Data is Plural
-Published: 2026-06-26 17:00 UTC
+Published: 2026-06-26 21:16 UTC
 URL: http://www.data-is-plural.com/archive/2024-12-04-edition
 Source meta: aggregator · specialist · R4 · P5 · signal
 
@@ -12875,7 +12668,7 @@ Source meta: aggregator · specialist · R4 · P5 · signal
 
 ### Data Is Plural — 2024.12.11 edition
 Source: Data is Plural
-Published: 2026-06-26 17:00 UTC
+Published: 2026-06-26 21:16 UTC
 URL: http://www.data-is-plural.com/archive/2024-12-11-edition
 Source meta: aggregator · specialist · R4 · P5 · signal
 
@@ -12883,7 +12676,7 @@ Quits and layoffs, food safety alerts, crop rotations, Serbian political party f
 
 ### Data Is Plural — 2025.01.08 edition
 Source: Data is Plural
-Published: 2026-06-26 17:00 UTC
+Published: 2026-06-26 21:16 UTC
 URL: http://www.data-is-plural.com/archive/2025-01-08-edition
 Source meta: aggregator · specialist · R4 · P5 · signal
 
@@ -12891,7 +12684,7 @@ Overdose demographics, opioid settlement spending, AI governance documents, NEA 
 
 ### Data Is Plural — 2025.01.29 edition
 Source: Data is Plural
-Published: 2026-06-26 17:00 UTC
+Published: 2026-06-26 21:16 UTC
 URL: http://www.data-is-plural.com/archive/2025-01-29-edition
 Source meta: aggregator · specialist · R4 · P5 · signal
 
@@ -12899,7 +12692,7 @@ Hyperlocal Trump/Harris results, private schools, hurricane landfalls, grocery i
 
 ### Data Is Plural — 2025.02.26 edition
 Source: Data is Plural
-Published: 2026-06-26 17:00 UTC
+Published: 2026-06-26 21:16 UTC
 URL: http://www.data-is-plural.com/archive/2025-02-26-edition
 Source meta: aggregator · specialist · R4 · P5 · signal
 
@@ -12907,7 +12700,7 @@ Presidential schedules, water availability, 18 million deceased veterans, Argent
 
 ### Data Is Plural — 2025.04.30 edition
 Source: Data is Plural
-Published: 2026-06-26 17:00 UTC
+Published: 2026-06-26 21:16 UTC
 URL: http://www.data-is-plural.com/archive/2025-04-30-edition
 Source meta: aggregator · specialist · R4 · P5 · signal
 
