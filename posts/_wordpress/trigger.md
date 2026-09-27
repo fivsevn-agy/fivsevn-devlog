@@ -8,4 +8,4 @@ timezone: ”Asia/Taipei“
 # 正文写在第二个 --- 后面
 ---
 
-爆玩半个月抖音🤣以前都是做平面图文为主，感觉也应该积极适应一下视频base的内容。抖音可以多拍多发多玩；不过这个平台不太适合视频的长期保存。在抖音试水之后，可以整理放到YouTube上、链到主站做合集和存档。
+🥳小游戏试玩版：https://github.com/fivsevn/umwelt/releases/tag/v0.1.5
