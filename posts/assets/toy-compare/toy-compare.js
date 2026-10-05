@@ -281,6 +281,7 @@
     lastFocus = returnFocus || document.activeElement;
     $(id).showModal();
     $(id).scrollTop = 0;
+    $(id).querySelector(".tc-close").focus({ preventScroll: true });
   }
   function restoreFocus() {
     const f = lastFocus?.isConnected
