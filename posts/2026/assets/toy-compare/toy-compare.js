@@ -48,6 +48,7 @@
       ? `<p class="tc-meta">${esc(s.availability.reason)} 核对：${esc(s.availability.checkedAt)}。</p>`
       : "";
   const primarySource = (p) =>
+    p.sources.find((s) => !unavailable(s) && !/研究|学术论文/.test(s.kind)) ||
     p.sources.find((s) => !unavailable(s)) || p.sources[0];
   const eraLabel = (p) => p.chronology?.label || "年代待核实";
   const historyLabel = (p) => p.lifecycle?.historical

@@ -49830,7 +49830,7 @@ window.TOY_COMPARE_DATA = {
       "original": "MS-06R ZAKU II",
       "country": "日本",
       "origin": "来源未单列商品产地",
-      "version": "MSV历史套件；文献记载1983-04",
+      "version": "MSV历史套件；1983-04",
       "icon": "kit",
       "scale": "1:144",
       "heightMm": null,
@@ -49857,15 +49857,15 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+          "text": "官方 MSV 历史资料记录的 1/144 MS06R 扎古 II R1 型。实际模型高度、塑料种类和具体关节结构尚待核实；不混用后来的 HG 或其他比例版本。"
         }
       ],
       "sources": [
         {
-          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
-          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
-          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
-          "kind": "研究全文",
+          "url": "https://www.bandainamco.co.jp/files/64473.pdf",
+          "title": "BANDAI NAMCO · MSV 登场四十周年历史资料",
+          "supports": "官方资料列明 1/144 MS06R 扎古 II R1 型于 1983 年 4 月登场",
+          "kind": "官方历史资料",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -49880,19 +49880,24 @@ window.TOY_COMPARE_DATA = {
         "高机动型扎古II"
       ],
       "chronology": {
-        "label": "年代待核实",
-        "sourceUrl": null,
-        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+        "label": "发售：1983年4月",
+        "sourceUrl": "https://www.bandainamco.co.jp/files/64473.pdf",
+        "note": "官方 MSV 历史资料记载的初版年月。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "MSV 旧套件版本；可能再贩，历史型号不等于停产。二手或旧库存仍可能流通。"
       }
     },
     {
       "id": "literature-msv-02",
-      "name": "MSV MS-06K 扎古加农（1:144，1983-04）",
+      "name": "MSV MS-06K 扎古加农（1:144）",
       "brand": "BANDAI SPIRITS",
       "original": "MS-06K ZAKUCANNON",
       "country": "日本",
       "origin": "来源未单列商品产地",
-      "version": "MSV历史套件；文献记载1983-04",
+      "version": "MSV历史套件；初版年月待核实",
       "icon": "kit",
       "scale": "1:144",
       "heightMm": null,
@@ -49901,6 +49906,7 @@ window.TOY_COMPARE_DATA = {
       "dimensions": [],
       "tags": {
         "joint": [
+          "关节可动",
           "连接待核实"
         ],
         "delivery": [
@@ -49919,15 +49925,15 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+          "text": "商品页记录旧 MSV 1/144 扎古加农，列有颈、肩、肘、腿可动与可拆大炮。初版年月、实际高度及主体塑料种类仍待核实；不混用 Z 版。"
         }
       ],
       "sources": [
         {
-          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
-          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
-          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
-          "kind": "研究全文",
+          "url": "https://www.biccamera.com/bc/item/2051846/",
+          "title": "Bic Camera · MSV 1/144 ザクキャノン",
+          "supports": "旧 MSV 1/144 套件身份、装备与可动部位；当前商品页不单列初版年份",
+          "kind": "经销商商品档案",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -49944,7 +49950,12 @@ window.TOY_COMPARE_DATA = {
       "chronology": {
         "label": "年代待核实",
         "sourceUrl": null,
-        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+        "note": "已找到旧 MSV 商品资料；该页没有确认初版发售年月。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "MSV 旧套件版本；可能再贩，历史型号不等于停产。二手或旧库存仍可能流通。"
       }
     },
     {
@@ -49954,7 +49965,7 @@ window.TOY_COMPARE_DATA = {
       "original": "YMS-09 PROTOTYPE DOM",
       "country": "日本",
       "origin": "来源未单列商品产地",
-      "version": "MSV历史套件；文献记载1983-04",
+      "version": "MSV历史套件；官方档案1983-04",
       "icon": "kit",
       "scale": "1:144",
       "heightMm": null,
@@ -49981,15 +49992,15 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+          "text": "官方商品档案确认本款旧套件名称、比例及发售年月。 不混用 HG、MG 或后来的 Z 版规格；实际模型高度、塑料种类和具体关节结构仍待核实。"
         }
       ],
       "sources": [
         {
-          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
-          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
-          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
-          "kind": "研究全文",
+          "url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013084000&grp_id=5325",
+          "title": "BANDAI SPIRITS · 1/144 プロトタイプドム",
+          "supports": "旧套件名称、比例及档案列出的发售年月；库存状态不作为停产证据",
+          "kind": "官方产品档案",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -50004,9 +50015,14 @@ window.TOY_COMPARE_DATA = {
         "原型大魔"
       ],
       "chronology": {
-        "label": "年代待核实",
-        "sourceUrl": null,
-        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+        "label": "官方档案：1983年4月",
+        "sourceUrl": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013084000&grp_id=5325",
+        "note": "按官方旧型号档案的发售年月记录。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "MSV 旧套件版本；可能再贩，历史型号不等于停产。二手或旧库存仍可能流通。"
       }
     },
     {
@@ -50016,7 +50032,7 @@ window.TOY_COMPARE_DATA = {
       "original": "MS-06D ZAKU DESERT TYPE",
       "country": "日本",
       "origin": "来源未单列商品产地",
-      "version": "MSV历史套件；文献记载1983-05",
+      "version": "MSV历史套件；官方档案1983-05",
       "icon": "kit",
       "scale": "1:144",
       "heightMm": null,
@@ -50043,15 +50059,15 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+          "text": "官方商品档案确认本款旧套件名称、比例及发售年月。 不混用 HG、MG 或后来的 Z 版规格；实际模型高度、塑料种类和具体关节结构仍待核实。"
         }
       ],
       "sources": [
         {
-          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
-          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
-          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
-          "kind": "研究全文",
+          "url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013107000&grp_id=5325",
+          "title": "BANDAI SPIRITS · 1/144 デザートタイプザク",
+          "supports": "旧套件名称、比例及档案列出的发售年月；库存状态不作为停产证据",
+          "kind": "官方产品档案",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -50066,9 +50082,14 @@ window.TOY_COMPARE_DATA = {
         "沙漠型扎古"
       ],
       "chronology": {
-        "label": "年代待核实",
-        "sourceUrl": null,
-        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+        "label": "官方档案：1983年5月",
+        "sourceUrl": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013107000&grp_id=5325",
+        "note": "按官方旧型号档案的发售年月记录。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "MSV 旧套件版本；可能再贩，历史型号不等于停产。二手或旧库存仍可能流通。"
       }
     },
     {
@@ -50078,7 +50099,7 @@ window.TOY_COMPARE_DATA = {
       "original": "RGC-80 GM CANNON",
       "country": "日本",
       "origin": "来源未单列商品产地",
-      "version": "MSV历史套件；文献记载1983-05",
+      "version": "MSV历史套件；1983-05",
       "icon": "kit",
       "scale": "1:144",
       "heightMm": null,
@@ -50105,15 +50126,22 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+          "text": "AmiAmi 区分 1983 年 5 月初版与 2012 年再贩。官方历史资料也列出同月的 1/144 GM Cannon；实际高度、塑料种类和具体关节结构尚待核实。"
         }
       ],
       "sources": [
         {
-          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
-          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
-          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
-          "kind": "研究全文",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=TOY-GDM-0683",
+          "title": "AmiAmi · MSV 1/144 RGC-80 ジムキャノン",
+          "supports": "旧套件比例、JAN 4902425013015、初版 1983 年 5 月与 2012 年再贩",
+          "kind": "经销商商品档案",
+          "checkedAt": "2026-10-06"
+        },
+        {
+          "url": "https://www.bandainamco.co.jp/files/64473.pdf",
+          "title": "BANDAI NAMCO · MSV 登场四十周年历史资料",
+          "supports": "官方历史清单中的 1/144 GM Cannon 与 1983 年 5 月",
+          "kind": "官方历史资料",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -50128,9 +50156,14 @@ window.TOY_COMPARE_DATA = {
         "吉姆加农"
       ],
       "chronology": {
-        "label": "年代待核实",
-        "sourceUrl": null,
-        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+        "label": "初版：1983年5月",
+        "sourceUrl": "https://www.amiami.jp/top/detail/detail?gcode=TOY-GDM-0683",
+        "note": "商店档案的初版年月与官方 MSV 历史资料一致；再贩批次另列。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "MSV 旧套件版本，有再贩记录；历史型号不等于停产。二手或旧库存仍可能流通。"
       }
     },
     {
@@ -50140,7 +50173,7 @@ window.TOY_COMPARE_DATA = {
       "original": "MS-06M ZAKU MARINE TYPE",
       "country": "日本",
       "origin": "来源未单列商品产地",
-      "version": "MSV历史套件；文献记载1983-06",
+      "version": "MSV历史套件；官方档案1983-06",
       "icon": "kit",
       "scale": "1:144",
       "heightMm": null,
@@ -50167,15 +50200,15 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+          "text": "官方商品档案确认本款旧套件名称、比例及发售年月。 不混用 HG、MG 或后来的 Z 版规格；实际模型高度、塑料种类和具体关节结构仍待核实。"
         }
       ],
       "sources": [
         {
-          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
-          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
-          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
-          "kind": "研究全文",
+          "url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013138000&grp_id=5325",
+          "title": "BANDAI SPIRITS · 1/144 水中用ザク",
+          "supports": "旧套件名称、比例及档案列出的发售年月；库存状态不作为停产证据",
+          "kind": "官方产品档案",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -50190,9 +50223,14 @@ window.TOY_COMPARE_DATA = {
         "水中型扎古"
       ],
       "chronology": {
-        "label": "年代待核实",
-        "sourceUrl": null,
-        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+        "label": "官方档案：1983年6月",
+        "sourceUrl": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013138000&grp_id=5325",
+        "note": "按官方旧型号档案的发售年月记录。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "MSV 旧套件版本；可能再贩，历史型号不等于停产。二手或旧库存仍可能流通。"
       }
     },
     {
@@ -50202,7 +50240,7 @@ window.TOY_COMPARE_DATA = {
       "original": "MS-14C GELGOOG CANNON",
       "country": "日本",
       "origin": "来源未单列商品产地",
-      "version": "MSV历史套件；文献记载1983-06",
+      "version": "MSV历史套件；官方档案1983-06",
       "icon": "kit",
       "scale": "1:144",
       "heightMm": null,
@@ -50229,15 +50267,15 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+          "text": "官方商品档案确认本款旧套件名称、比例及发售年月。 不混用 HG、MG 或后来的 Z 版规格；实际模型高度、塑料种类和具体关节结构仍待核实。"
         }
       ],
       "sources": [
         {
-          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
-          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
-          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
-          "kind": "研究全文",
+          "url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013121000&grp_id=5325",
+          "title": "BANDAI SPIRITS · 1/144 ゲルググキャノン",
+          "supports": "旧套件名称、比例及档案列出的发售年月；库存状态不作为停产证据",
+          "kind": "官方产品档案",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -50252,9 +50290,14 @@ window.TOY_COMPARE_DATA = {
         "勇士加农"
       ],
       "chronology": {
-        "label": "年代待核实",
-        "sourceUrl": null,
-        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+        "label": "官方档案：1983年6月",
+        "sourceUrl": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013121000&grp_id=5325",
+        "note": "按官方旧型号档案的发售年月记录。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "MSV 旧套件版本；可能再贩，历史型号不等于停产。二手或旧库存仍可能流通。"
       }
     },
     {
@@ -50264,7 +50307,7 @@ window.TOY_COMPARE_DATA = {
       "original": "RX-78-1 PROTOTYPE GUNDAM",
       "country": "日本",
       "origin": "来源未单列商品产地",
-      "version": "MSV历史套件；文献记载1983-06",
+      "version": "MSV历史套件；官方档案1983-06",
       "icon": "kit",
       "scale": "1:144",
       "heightMm": null,
@@ -50291,15 +50334,15 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+          "text": "官方商品档案确认本款旧套件名称、比例及发售年月。 不混用 HG、MG 或后来的 Z 版规格；实际模型高度、塑料种类和具体关节结构仍待核实。"
         }
       ],
       "sources": [
         {
-          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
-          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
-          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
-          "kind": "研究全文",
+          "url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013114000&grp_id=5325",
+          "title": "BANDAI SPIRITS · 1/144 プロトタイプガンダム",
+          "supports": "旧套件名称、比例及档案列出的发售年月；库存状态不作为停产证据",
+          "kind": "官方产品档案",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -50314,9 +50357,14 @@ window.TOY_COMPARE_DATA = {
         "原型高达"
       ],
       "chronology": {
-        "label": "年代待核实",
-        "sourceUrl": null,
-        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+        "label": "官方档案：1983年6月",
+        "sourceUrl": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013114000&grp_id=5325",
+        "note": "按官方旧型号档案的发售年月记录。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "MSV 旧套件版本；可能再贩，历史型号不等于停产。二手或旧库存仍可能流通。"
       }
     },
     {
@@ -50326,7 +50374,7 @@ window.TOY_COMPARE_DATA = {
       "original": "MS-07H GOUF FLYING TEST TYPE",
       "country": "日本",
       "origin": "来源未单列商品产地",
-      "version": "MSV历史套件；文献记载1983-07",
+      "version": "MSV历史套件；官方档案1983-07",
       "icon": "kit",
       "scale": "1:144",
       "heightMm": null,
@@ -50353,15 +50401,15 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+          "text": "官方商品档案确认本款旧套件名称、比例及发售年月。 不混用 HG、MG 或后来的 Z 版规格；实际模型高度、塑料种类和具体关节结构仍待核实。"
         }
       ],
       "sources": [
         {
-          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
-          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
-          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
-          "kind": "研究全文",
+          "url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013152000&grp_id=5325",
+          "title": "BANDAI SPIRITS · 1/144 グフ飛行試験型",
+          "supports": "旧套件名称、比例及档案列出的发售年月；库存状态不作为停产证据",
+          "kind": "官方产品档案",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -50376,9 +50424,14 @@ window.TOY_COMPARE_DATA = {
         "老虎飞行试验型"
       ],
       "chronology": {
-        "label": "年代待核实",
-        "sourceUrl": null,
-        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+        "label": "官方档案：1983年7月",
+        "sourceUrl": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013152000&grp_id=5325",
+        "note": "按官方旧型号档案的发售年月记录。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "MSV 旧套件版本；可能再贩，历史型号不等于停产。二手或旧库存仍可能流通。"
       }
     },
     {
@@ -50388,7 +50441,7 @@ window.TOY_COMPARE_DATA = {
       "original": "FA-78-1 GUNDAM FULLARMOR TYPE",
       "country": "日本",
       "origin": "来源未单列商品产地",
-      "version": "MSV历史套件；文献记载1983-07",
+      "version": "MSV历史套件；官方档案1983-07",
       "icon": "kit",
       "scale": "1:144",
       "heightMm": null,
@@ -50415,15 +50468,15 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+          "text": "官方商品档案确认本款旧套件名称、比例及发售年月。 不混用 HG、MG 或后来的 Z 版规格；实际模型高度、塑料种类和具体关节结构仍待核实。"
         }
       ],
       "sources": [
         {
-          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
-          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
-          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
-          "kind": "研究全文",
+          "url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013145000&grp_id=5325",
+          "title": "BANDAI SPIRITS · 1/144 ガンダムフルアーマータイプ",
+          "supports": "旧套件名称、比例及档案列出的发售年月；库存状态不作为停产证据",
+          "kind": "官方产品档案",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -50438,9 +50491,14 @@ window.TOY_COMPARE_DATA = {
         "全装甲高达"
       ],
       "chronology": {
-        "label": "年代待核实",
-        "sourceUrl": null,
-        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+        "label": "官方档案：1983年7月",
+        "sourceUrl": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013145000&grp_id=5325",
+        "note": "按官方旧型号档案的发售年月记录。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "MSV 旧套件版本；可能再贩，历史型号不等于停产。二手或旧库存仍可能流通。"
       }
     },
     {
@@ -50450,7 +50508,7 @@ window.TOY_COMPARE_DATA = {
       "original": "MS-06E ZAKU RECON",
       "country": "日本",
       "origin": "来源未单列商品产地",
-      "version": "MSV历史套件；文献记载1983-08",
+      "version": "MSV历史套件；官方档案1983-08",
       "icon": "kit",
       "scale": "1:144",
       "heightMm": null,
@@ -50477,15 +50535,15 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+          "text": "官方商品档案确认本款旧套件名称、比例及发售年月。 不混用 HG、MG 或后来的 Z 版规格；实际模型高度、塑料种类和具体关节结构仍待核实。"
         }
       ],
       "sources": [
         {
-          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
-          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
-          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
-          "kind": "研究全文",
+          "url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013237000&grp_id=5325",
+          "title": "BANDAI SPIRITS · 1/144 ザク強行偵察型",
+          "supports": "旧套件名称、比例及档案列出的发售年月；库存状态不作为停产证据",
+          "kind": "官方产品档案",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -50500,9 +50558,14 @@ window.TOY_COMPARE_DATA = {
         "扎古强行侦察型"
       ],
       "chronology": {
-        "label": "年代待核实",
-        "sourceUrl": null,
-        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+        "label": "官方档案：1983年8月",
+        "sourceUrl": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013237000&grp_id=5325",
+        "note": "按官方旧型号档案的发售年月记录。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "MSV 旧套件版本；可能再贩，历史型号不等于停产。二手或旧库存仍可能流通。"
       }
     },
     {
@@ -50512,7 +50575,7 @@ window.TOY_COMPARE_DATA = {
       "original": "MS-06V ZAKU TANK",
       "country": "日本",
       "origin": "来源未单列商品产地",
-      "version": "MSV历史套件；文献记载1983-09",
+      "version": "MSV历史套件；官方档案1983-09",
       "icon": "kit",
       "scale": "1:144",
       "heightMm": null,
@@ -50539,15 +50602,15 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+          "text": "官方商品档案确认本款旧套件名称、比例及发售年月。 不混用 HG、MG 或后来的 Z 版规格；实际模型高度、塑料种类和具体关节结构仍待核实。"
         }
       ],
       "sources": [
         {
-          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
-          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
-          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
-          "kind": "研究全文",
+          "url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013220000&grp_id=5325",
+          "title": "BANDAI SPIRITS · 1/144 ザクタンク",
+          "supports": "旧套件名称、比例及档案列出的发售年月；库存状态不作为停产证据",
+          "kind": "官方产品档案",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -50562,9 +50625,14 @@ window.TOY_COMPARE_DATA = {
         "扎古坦克"
       ],
       "chronology": {
-        "label": "年代待核实",
-        "sourceUrl": null,
-        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+        "label": "官方档案：1983年9月",
+        "sourceUrl": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013220000&grp_id=5325",
+        "note": "按官方旧型号档案的发售年月记录。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "MSV 旧套件版本；可能再贩，历史型号不等于停产。二手或旧库存仍可能流通。"
       }
     },
     {
@@ -50574,7 +50642,7 @@ window.TOY_COMPARE_DATA = {
       "original": "MS-14C GELGOOG CANNON",
       "country": "日本",
       "origin": "来源未单列商品产地",
-      "version": "MSV历史套件；文献记载1983-09",
+      "version": "MSV历史套件；官方档案1983-09",
       "icon": "kit",
       "scale": "1:60",
       "heightMm": null,
@@ -50601,15 +50669,15 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+          "text": "官方商品档案确认本款旧套件名称、比例及发售年月。 不混用 HG、MG 或后来的 Z 版规格；实际模型高度、塑料种类和具体关节结构仍待核实。"
         }
       ],
       "sources": [
         {
-          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
-          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
-          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
-          "kind": "研究全文",
+          "url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013251000&grp_id=5325",
+          "title": "BANDAI SPIRITS · 1/60 MS-14C ゲルググキャノン",
+          "supports": "旧套件名称、比例及档案列出的发售年月；库存状态不作为停产证据",
+          "kind": "官方产品档案",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -50624,19 +50692,24 @@ window.TOY_COMPARE_DATA = {
         "勇士加农"
       ],
       "chronology": {
-        "label": "年代待核实",
-        "sourceUrl": null,
-        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+        "label": "官方档案：1983年9月",
+        "sourceUrl": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013251000&grp_id=5325",
+        "note": "按官方旧型号档案的发售年月记录。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "MSV 旧套件版本；可能再贩，历史型号不等于停产。二手或旧库存仍可能流通。"
       }
     },
     {
       "id": "literature-msv-14",
-      "name": "MSV MS-06R 松永真专用高机动型扎古II（1:100，1983-10）",
+      "name": "MSV MS-06R 松永真专用高机动型扎古II（1:100）",
       "brand": "BANDAI SPIRITS",
       "original": "MS-06R SHIN MATSUNAGA’S ZAKU II",
       "country": "日本",
       "origin": "来源未单列商品产地",
-      "version": "MSV历史套件；文献记载1983-10",
+      "version": "MSV历史套件；初版年月待核实",
       "icon": "kit",
       "scale": "1:100",
       "heightMm": null,
@@ -50663,15 +50736,15 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+          "text": "官方档案列出 1985 年 3 月，与原先的早期记录不一致；本条暂不确定初版年月。 不混用 HG、MG 或后来的 Z 版规格；实际模型高度、塑料种类和具体关节结构仍待核实。"
         }
       ],
       "sources": [
         {
-          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
-          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
-          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
-          "kind": "研究全文",
+          "url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013268000&grp_id=5325",
+          "title": "BANDAI SPIRITS · 1/100 シン・マツナガザクII",
+          "supports": "旧套件名称、比例及档案列出的发售年月；库存状态不作为停产证据",
+          "kind": "官方产品档案",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -50688,7 +50761,12 @@ window.TOY_COMPARE_DATA = {
       "chronology": {
         "label": "年代待核实",
         "sourceUrl": null,
-        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+        "note": "官方商品档案列出 1985 年 3 月；与早期记录不一致，初版年月待核实。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "MSV 旧套件版本；可能再贩，历史型号不等于停产。二手或旧库存仍可能流通。"
       }
     },
     {
@@ -50698,7 +50776,7 @@ window.TOY_COMPARE_DATA = {
       "original": "YMS-09 DOM TROPICAL TEST TYPE",
       "country": "日本",
       "origin": "来源未单列商品产地",
-      "version": "MSV历史套件；文献记载1983-10",
+      "version": "MSV历史套件；官方档案1983-10",
       "icon": "kit",
       "scale": "1:144",
       "heightMm": null,
@@ -50725,15 +50803,15 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+          "text": "官方商品档案确认本款旧套件名称、比例及发售年月。 不混用 HG、MG 或后来的 Z 版规格；实际模型高度、塑料种类和具体关节结构仍待核实。"
         }
       ],
       "sources": [
         {
-          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
-          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
-          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
-          "kind": "研究全文",
+          "url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013343000&grp_id=5325",
+          "title": "BANDAI SPIRITS · 1/144 局地戦闘型ドム",
+          "supports": "旧套件名称、比例及档案列出的发售年月；库存状态不作为停产证据",
+          "kind": "官方产品档案",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -50748,9 +50826,14 @@ window.TOY_COMPARE_DATA = {
         "大魔热带试验型"
       ],
       "chronology": {
-        "label": "年代待核实",
-        "sourceUrl": null,
-        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+        "label": "官方档案：1983年10月",
+        "sourceUrl": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013343000&grp_id=5325",
+        "note": "按官方旧型号档案的发售年月记录。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "MSV 旧套件版本；可能再贩，历史型号不等于停产。二手或旧库存仍可能流通。"
       }
     },
     {
@@ -50760,7 +50843,7 @@ window.TOY_COMPARE_DATA = {
       "original": "YMS-09 DOM TROPICAL TEST TYPE",
       "country": "日本",
       "origin": "来源未单列商品产地",
-      "version": "MSV历史套件；文献记载1983-10",
+      "version": "MSV历史套件；官方档案1983-10",
       "icon": "kit",
       "scale": "1:100",
       "heightMm": null,
@@ -50787,15 +50870,15 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+          "text": "官方商品档案确认本款旧套件名称、比例及发售年月。 不混用 HG、MG 或后来的 Z 版规格；实际模型高度、塑料种类和具体关节结构仍待核实。"
         }
       ],
       "sources": [
         {
-          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
-          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
-          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
-          "kind": "研究全文",
+          "url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013329000&grp_id=5325",
+          "title": "BANDAI SPIRITS · 1/100 局地戦闘型ドム",
+          "supports": "旧套件名称、比例及档案列出的发售年月；库存状态不作为停产证据",
+          "kind": "官方产品档案",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -50810,9 +50893,14 @@ window.TOY_COMPARE_DATA = {
         "大魔热带试验型"
       ],
       "chronology": {
-        "label": "年代待核实",
-        "sourceUrl": null,
-        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+        "label": "官方档案：1983年10月",
+        "sourceUrl": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013329000&grp_id=5325",
+        "note": "按官方旧型号档案的发售年月记录。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "MSV 旧套件版本；可能再贩，历史型号不等于停产。二手或旧库存仍可能流通。"
       }
     },
     {
@@ -50822,7 +50910,7 @@ window.TOY_COMPARE_DATA = {
       "original": "MS-06K ZAKUCANNON",
       "country": "日本",
       "origin": "来源未单列商品产地",
-      "version": "MSV历史套件；文献记载1983-10",
+      "version": "MSV历史套件；官方档案1983-10",
       "icon": "kit",
       "scale": "1:100",
       "heightMm": null,
@@ -50849,15 +50937,15 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+          "text": "官方商品档案确认本款旧套件名称、比例及发售年月。 不混用 HG、MG 或后来的 Z 版规格；实际模型高度、塑料种类和具体关节结构仍待核实。"
         }
       ],
       "sources": [
         {
-          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
-          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
-          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
-          "kind": "研究全文",
+          "url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013312000&grp_id=5325",
+          "title": "BANDAI SPIRITS · 1/100 ザクキャノン",
+          "supports": "旧套件名称、比例及档案列出的发售年月；库存状态不作为停产证据",
+          "kind": "官方产品档案",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -50872,9 +50960,14 @@ window.TOY_COMPARE_DATA = {
         "扎古加农"
       ],
       "chronology": {
-        "label": "年代待核实",
-        "sourceUrl": null,
-        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+        "label": "官方档案：1983年10月",
+        "sourceUrl": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013312000&grp_id=5325",
+        "note": "按官方旧型号档案的发售年月记录。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "MSV 旧套件版本；可能再贩，历史型号不等于停产。二手或旧库存仍可能流通。"
       }
     },
     {
@@ -50884,7 +50977,7 @@ window.TOY_COMPARE_DATA = {
       "original": "MS-06R ZAKU II Black Tri-Stars use",
       "country": "日本",
       "origin": "来源未单列商品产地",
-      "version": "MSV历史套件；文献记载1983-10",
+      "version": "MSV历史套件；官方档案1983-10",
       "icon": "kit",
       "scale": "1:60",
       "heightMm": null,
@@ -50911,15 +51004,15 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+          "text": "官方商品档案确认本款旧套件名称、比例及发售年月。 不混用 HG、MG 或后来的 Z 版规格；实际模型高度、塑料种类和具体关节结构仍待核实。"
         }
       ],
       "sources": [
         {
-          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
-          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
-          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
-          "kind": "研究全文",
+          "url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013299000&grp_id=5325",
+          "title": "BANDAI SPIRITS · 1/60 MS-06R ザクII（黒い三連星仕様機）",
+          "supports": "旧套件名称、比例及档案列出的发售年月；库存状态不作为停产证据",
+          "kind": "官方产品档案",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -50934,9 +51027,14 @@ window.TOY_COMPARE_DATA = {
         "黑色三连星高机动型扎古II"
       ],
       "chronology": {
-        "label": "年代待核实",
-        "sourceUrl": null,
-        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+        "label": "官方档案：1983年10月",
+        "sourceUrl": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013299000&grp_id=5325",
+        "note": "按官方旧型号档案的发售年月记录。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "MSV 旧套件版本；可能再贩，历史型号不等于停产。二手或旧库存仍可能流通。"
       }
     },
     {
@@ -50946,7 +51044,7 @@ window.TOY_COMPARE_DATA = {
       "original": "FA-78-1 GUNDAM FULLARMOR TYPE",
       "country": "日本",
       "origin": "来源未单列商品产地",
-      "version": "MSV历史套件；文献记载1983-10",
+      "version": "MSV历史套件；官方档案1983-10",
       "icon": "kit",
       "scale": "1:60",
       "heightMm": null,
@@ -50973,15 +51071,15 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+          "text": "官方商品档案确认本款旧套件名称、比例及发售年月。 不混用 HG、MG 或后来的 Z 版规格；实际模型高度、塑料种类和具体关节结构仍待核实。"
         }
       ],
       "sources": [
         {
-          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
-          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
-          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
-          "kind": "研究全文",
+          "url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013305000&grp_id=5325",
+          "title": "BANDAI SPIRITS · 1/60 FA-78-1 ガンダムフルアーマータイプ",
+          "supports": "旧套件名称、比例及档案列出的发售年月；库存状态不作为停产证据",
+          "kind": "官方产品档案",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -50996,9 +51094,14 @@ window.TOY_COMPARE_DATA = {
         "全装甲高达"
       ],
       "chronology": {
-        "label": "年代待核实",
-        "sourceUrl": null,
-        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+        "label": "官方档案：1983年10月",
+        "sourceUrl": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013305000&grp_id=5325",
+        "note": "按官方旧型号档案的发售年月记录。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "MSV 旧套件版本；可能再贩，历史型号不等于停产。二手或旧库存仍可能流通。"
       }
     },
     {
@@ -51008,7 +51111,7 @@ window.TOY_COMPARE_DATA = {
       "original": "YMS-09 PROTOTYPE DOM",
       "country": "日本",
       "origin": "来源未单列商品产地",
-      "version": "MSV历史套件；文献记载1983-11",
+      "version": "MSV历史套件；官方档案1983-11",
       "icon": "kit",
       "scale": "1:100",
       "heightMm": null,
@@ -51035,15 +51138,15 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+          "text": "官方商品档案确认本款旧套件名称、比例及发售年月。 不混用 HG、MG 或后来的 Z 版规格；实际模型高度、塑料种类和具体关节结构仍待核实。"
         }
       ],
       "sources": [
         {
-          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
-          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
-          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
-          "kind": "研究全文",
+          "url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013367000&grp_id=5325",
+          "title": "BANDAI SPIRITS · 1/100 プロトタイプドム",
+          "supports": "旧套件名称、比例及档案列出的发售年月；库存状态不作为停产证据",
+          "kind": "官方产品档案",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -51058,19 +51161,24 @@ window.TOY_COMPARE_DATA = {
         "原型大魔"
       ],
       "chronology": {
-        "label": "年代待核实",
-        "sourceUrl": null,
-        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+        "label": "官方档案：1983年11月",
+        "sourceUrl": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013367000&grp_id=5325",
+        "note": "按官方旧型号档案的发售年月记录。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "MSV 旧套件版本；可能再贩，历史型号不等于停产。二手或旧库存仍可能流通。"
       }
     },
     {
       "id": "literature-msv-21",
-      "name": "MSV MS-06R-2 强尼莱登专用高机动型扎古II（1:60，1983-12）",
+      "name": "MSV MS-06R-2 强尼莱登专用高机动型扎古II（1:60）",
       "brand": "BANDAI SPIRITS",
       "original": "MS-06R-2 JOHNNY RIDDEN’S ZAKU II",
       "country": "日本",
       "origin": "来源未单列商品产地",
-      "version": "MSV历史套件；文献记载1983-12",
+      "version": "MSV历史套件；初版年月待核实",
       "icon": "kit",
       "scale": "1:60",
       "heightMm": null,
@@ -51097,15 +51205,15 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+          "text": "官方档案列出 1986 年 10 月，与原先的早期记录不一致；本条暂不确定初版年月。 不混用 HG、MG 或后来的 Z 版规格；实际模型高度、塑料种类和具体关节结构仍待核实。"
         }
       ],
       "sources": [
         {
-          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
-          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
-          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
-          "kind": "研究全文",
+          "url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013374000&grp_id=5325",
+          "title": "BANDAI SPIRITS · 1/60 MS-06R-2 ザクII（ジョニー・ライデン少佐機）",
+          "supports": "旧套件名称、比例及档案列出的发售年月；库存状态不作为停产证据",
+          "kind": "官方产品档案",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -51122,7 +51230,12 @@ window.TOY_COMPARE_DATA = {
       "chronology": {
         "label": "年代待核实",
         "sourceUrl": null,
-        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+        "note": "官方商品档案列出 1986 年 10 月；与早期记录不一致，初版年月待核实。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "MSV 旧套件版本；可能再贩，历史型号不等于停产。二手或旧库存仍可能流通。"
       }
     },
     {
@@ -51132,7 +51245,7 @@ window.TOY_COMPARE_DATA = {
       "original": "RGM-79 GM SNIPER CUSTOM",
       "country": "日本",
       "origin": "来源未单列商品产地",
-      "version": "MSV历史套件；文献记载1983-12",
+      "version": "MSV历史套件；官方档案1983-12",
       "icon": "kit",
       "scale": "1:144",
       "heightMm": null,
@@ -51159,15 +51272,15 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+          "text": "官方商品档案确认本款旧套件名称、比例及发售年月。 不混用 HG、MG 或后来的 Z 版规格；实际模型高度、塑料种类和具体关节结构仍待核实。"
         }
       ],
       "sources": [
         {
-          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
-          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
-          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
-          "kind": "研究全文",
+          "url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013398000&grp_id=5325",
+          "title": "BANDAI SPIRITS · 1/144 ジムスナイパーカスタム",
+          "supports": "旧套件名称、比例及档案列出的发售年月；库存状态不作为停产证据",
+          "kind": "官方产品档案",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -51182,9 +51295,14 @@ window.TOY_COMPARE_DATA = {
         "吉姆狙击特装型"
       ],
       "chronology": {
-        "label": "年代待核实",
-        "sourceUrl": null,
-        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+        "label": "官方档案：1983年12月",
+        "sourceUrl": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013398000&grp_id=5325",
+        "note": "按官方旧型号档案的发售年月记录。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "MSV 旧套件版本；可能再贩，历史型号不等于停产。二手或旧库存仍可能流通。"
       }
     },
     {
@@ -51194,7 +51312,7 @@ window.TOY_COMPARE_DATA = {
       "original": "MS-06R-2 JOHNNY RIDDEN’S ZAKU II",
       "country": "日本",
       "origin": "来源未单列商品产地",
-      "version": "MSV历史套件；文献记载1984-02",
+      "version": "MSV历史套件；官方档案1984-02",
       "icon": "kit",
       "scale": "1:144",
       "heightMm": null,
@@ -51221,15 +51339,15 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+          "text": "官方商品档案确认本款旧套件名称、比例及发售年月。 不混用 HG、MG 或后来的 Z 版规格；实际模型高度、塑料种类和具体关节结构仍待核实。"
         }
       ],
       "sources": [
         {
-          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
-          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
-          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
-          "kind": "研究全文",
+          "url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013404000&grp_id=5325",
+          "title": "BANDAI SPIRITS · 1/144 ジョニー・ライデンザクII",
+          "supports": "旧套件名称、比例及档案列出的发售年月；库存状态不作为停产证据",
+          "kind": "官方产品档案",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -51244,9 +51362,14 @@ window.TOY_COMPARE_DATA = {
         "强尼莱登专用高机动型扎古II"
       ],
       "chronology": {
-        "label": "年代待核实",
-        "sourceUrl": null,
-        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+        "label": "官方档案：1984年2月",
+        "sourceUrl": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013404000&grp_id=5325",
+        "note": "按官方旧型号档案的发售年月记录。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "MSV 旧套件版本；可能再贩，历史型号不等于停产。二手或旧库存仍可能流通。"
       }
     },
     {
@@ -51256,7 +51379,7 @@ window.TOY_COMPARE_DATA = {
       "original": "MS-06E3 ZAKU FLIPPER",
       "country": "日本",
       "origin": "来源未单列商品产地",
-      "version": "MSV历史套件；文献记载1984-03",
+      "version": "MSV历史套件；官方档案1984-03",
       "icon": "kit",
       "scale": "1:144",
       "heightMm": null,
@@ -51283,15 +51406,15 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+          "text": "官方商品档案确认本款旧套件名称、比例及发售年月。 不混用 HG、MG 或后来的 Z 版规格；实际模型高度、塑料种类和具体关节结构仍待核实。"
         }
       ],
       "sources": [
         {
-          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
-          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
-          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
-          "kind": "研究全文",
+          "url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013411000&grp_id=5325",
+          "title": "BANDAI SPIRITS · 1/144 ザクフリッパー",
+          "supports": "旧套件名称、比例及档案列出的发售年月；库存状态不作为停产证据",
+          "kind": "官方产品档案",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -51306,19 +51429,24 @@ window.TOY_COMPARE_DATA = {
         "扎古侦察型Flipper"
       ],
       "chronology": {
-        "label": "年代待核实",
-        "sourceUrl": null,
-        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+        "label": "官方档案：1984年3月",
+        "sourceUrl": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013411000&grp_id=5325",
+        "note": "按官方旧型号档案的发售年月记录。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "MSV 旧套件版本；可能再贩，历史型号不等于停产。二手或旧库存仍可能流通。"
       }
     },
     {
       "id": "literature-msv-25",
-      "name": "MSV MS-06F 布雷型扎古（1:144，1984-04）",
+      "name": "MSV MS-06F 布雷型扎古（1:144）",
       "brand": "BANDAI SPIRITS",
       "original": "MS-06F ZAKU MINE LAYER",
       "country": "日本",
       "origin": "来源未单列商品产地",
-      "version": "MSV历史套件；文献记载1984-04",
+      "version": "MSV历史套件；初版年月待核实",
       "icon": "kit",
       "scale": "1:144",
       "heightMm": null,
@@ -51345,15 +51473,15 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+          "text": "官方档案列出 1985 年 3 月，与原先的早期记录不一致；本条暂不确定初版年月。 不混用 HG、MG 或后来的 Z 版规格；实际模型高度、塑料种类和具体关节结构仍待核实。"
         }
       ],
       "sources": [
         {
-          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
-          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
-          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
-          "kind": "研究全文",
+          "url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013428000&grp_id=5325",
+          "title": "BANDAI SPIRITS · 1/144 ザクマインレイヤー",
+          "supports": "旧套件名称、比例及档案列出的发售年月；库存状态不作为停产证据",
+          "kind": "官方产品档案",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -51370,7 +51498,12 @@ window.TOY_COMPARE_DATA = {
       "chronology": {
         "label": "年代待核实",
         "sourceUrl": null,
-        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+        "note": "官方商品档案列出 1985 年 3 月；与早期记录不一致，初版年月待核实。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "MSV 旧套件版本；可能再贩，历史型号不等于停产。二手或旧库存仍可能流通。"
       }
     },
     {
@@ -51380,7 +51513,7 @@ window.TOY_COMPARE_DATA = {
       "original": "FA-78-1 GUNDAM FULLARMOR TYPE",
       "country": "日本",
       "origin": "来源未单列商品产地",
-      "version": "MSV历史套件；文献记载1984-04",
+      "version": "MSV历史套件；官方档案1984-04",
       "icon": "kit",
       "scale": "1:100",
       "heightMm": null,
@@ -51407,15 +51540,15 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+          "text": "官方商品档案确认本款旧套件名称、比例及发售年月。 不混用 HG、MG 或后来的 Z 版规格；实际模型高度、塑料种类和具体关节结构仍待核实。"
         }
       ],
       "sources": [
         {
-          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
-          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
-          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
-          "kind": "研究全文",
+          "url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013435000&grp_id=5325",
+          "title": "BANDAI SPIRITS · 1/100 ガンダムフルアーマータイプ",
+          "supports": "旧套件名称、比例及档案列出的发售年月；库存状态不作为停产证据",
+          "kind": "官方产品档案",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -51430,9 +51563,14 @@ window.TOY_COMPARE_DATA = {
         "全装甲高达"
       ],
       "chronology": {
-        "label": "年代待核实",
-        "sourceUrl": null,
-        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+        "label": "官方档案：1984年4月",
+        "sourceUrl": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013435000&grp_id=5325",
+        "note": "按官方旧型号档案的发售年月记录。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "MSV 旧套件版本；可能再贩，历史型号不等于停产。二手或旧库存仍可能流通。"
       }
     },
     {
@@ -51442,7 +51580,7 @@ window.TOY_COMPARE_DATA = {
       "original": "MSN-01 PSYCHOMMU SYSTEM ZAKU",
       "country": "日本",
       "origin": "来源未单列商品产地",
-      "version": "MSV历史套件；文献记载1984-05",
+      "version": "MSV历史套件；官方档案1984-05",
       "icon": "kit",
       "scale": "1:144",
       "heightMm": null,
@@ -51469,15 +51607,15 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+          "text": "官方商品档案确认本款旧套件名称、比例及发售年月。 不混用 HG、MG 或后来的 Z 版规格；实际模型高度、塑料种类和具体关节结构仍待核实。"
         }
       ],
       "sources": [
         {
-          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
-          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
-          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
-          "kind": "研究全文",
+          "url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013459000&grp_id=5325",
+          "title": "BANDAI SPIRITS · 1/144 高速機動型ザク",
+          "supports": "旧套件名称、比例及档案列出的发售年月；库存状态不作为停产证据",
+          "kind": "官方产品档案",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -51492,9 +51630,14 @@ window.TOY_COMPARE_DATA = {
         "精神感应系统扎古"
       ],
       "chronology": {
-        "label": "年代待核实",
-        "sourceUrl": null,
-        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+        "label": "官方档案：1984年5月",
+        "sourceUrl": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013459000&grp_id=5325",
+        "note": "按官方旧型号档案的发售年月记录。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "MSV 旧套件版本；可能再贩，历史型号不等于停产。二手或旧库存仍可能流通。"
       }
     },
     {
@@ -51504,7 +51647,7 @@ window.TOY_COMPARE_DATA = {
       "original": "RX-77-4 GUNCANNON-II",
       "country": "日本",
       "origin": "来源未单列商品产地",
-      "version": "MSV历史套件；文献记载1984-05",
+      "version": "MSV历史套件；官方档案1984-05",
       "icon": "kit",
       "scale": "1:144",
       "heightMm": null,
@@ -51531,15 +51674,15 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+          "text": "官方商品档案确认本款旧套件名称、比例及发售年月。 不混用 HG、MG 或后来的 Z 版规格；实际模型高度、塑料种类和具体关节结构仍待核实。"
         }
       ],
       "sources": [
         {
-          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
-          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
-          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
-          "kind": "研究全文",
+          "url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013442000&grp_id=5325",
+          "title": "BANDAI SPIRITS · 1/144 ガンキャノンII",
+          "supports": "旧套件名称、比例及档案列出的发售年月；库存状态不作为停产证据",
+          "kind": "官方产品档案",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -51554,9 +51697,14 @@ window.TOY_COMPARE_DATA = {
         "钢加农II"
       ],
       "chronology": {
-        "label": "年代待核实",
-        "sourceUrl": null,
-        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+        "label": "官方档案：1984年5月",
+        "sourceUrl": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013442000&grp_id=5325",
+        "note": "按官方旧型号档案的发售年月记录。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "MSV 旧套件版本；可能再贩，历史型号不等于停产。二手或旧库存仍可能流通。"
       }
     },
     {
@@ -51566,7 +51714,7 @@ window.TOY_COMPARE_DATA = {
       "original": "MS-06Z PSYCHOMMU SYSTEM ZAKU ZEONG TEST BASE",
       "country": "日本",
       "origin": "来源未单列商品产地",
-      "version": "MSV历史套件；文献记载1984-05",
+      "version": "MSV历史套件；官方档案1984-05",
       "icon": "kit",
       "scale": "1:144",
       "heightMm": null,
@@ -51593,15 +51741,15 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+          "text": "官方商品档案确认本款旧套件名称、比例及发售年月。 不混用 HG、MG 或后来的 Z 版规格；实际模型高度、塑料种类和具体关节结构仍待核实。"
         }
       ],
       "sources": [
         {
-          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
-          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
-          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
-          "kind": "研究全文",
+          "url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013480000&grp_id=5325",
+          "title": "BANDAI SPIRITS · 1/144 Zタイプザク",
+          "supports": "旧套件名称、比例及档案列出的发售年月；库存状态不作为停产证据",
+          "kind": "官方产品档案",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -51616,9 +51764,14 @@ window.TOY_COMPARE_DATA = {
         "扎古精神感应系统试验型"
       ],
       "chronology": {
-        "label": "年代待核实",
-        "sourceUrl": null,
-        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+        "label": "官方档案：1984年5月",
+        "sourceUrl": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013480000&grp_id=5325",
+        "note": "按官方旧型号档案的发售年月记录。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "MSV 旧套件版本；可能再贩，历史型号不等于停产。二手或旧库存仍可能流通。"
       }
     },
     {
@@ -51628,7 +51781,7 @@ window.TOY_COMPARE_DATA = {
       "original": "RX-78 PERFECT GUNDAM",
       "country": "日本",
       "origin": "来源未单列商品产地",
-      "version": "MSV历史套件；文献记载1984-06",
+      "version": "MSV历史套件；官方档案1984-06",
       "icon": "kit",
       "scale": "1:144",
       "heightMm": null,
@@ -51655,15 +51808,15 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+          "text": "官方商品档案确认本款旧套件名称、比例及发售年月。 不混用 HG、MG 或后来的 Z 版规格；实际模型高度、塑料种类和具体关节结构仍待核实。"
         }
       ],
       "sources": [
         {
-          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
-          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
-          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
-          "kind": "研究全文",
+          "url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013497000&grp_id=5325",
+          "title": "BANDAI SPIRITS · 1/144 パーフェクトガンダム",
+          "supports": "旧套件名称、比例及档案列出的发售年月；库存状态不作为停产证据",
+          "kind": "官方产品档案",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -51678,9 +51831,14 @@ window.TOY_COMPARE_DATA = {
         "完美高达"
       ],
       "chronology": {
-        "label": "年代待核实",
-        "sourceUrl": null,
-        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+        "label": "官方档案：1984年6月",
+        "sourceUrl": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013497000&grp_id=5325",
+        "note": "按官方旧型号档案的发售年月记录。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "MSV 旧套件版本；可能再贩，历史型号不等于停产。二手或旧库存仍可能流通。"
       }
     },
     {
@@ -51690,7 +51848,7 @@ window.TOY_COMPARE_DATA = {
       "original": "MSN-02 PSYCHOMMU SYSTEM PERFECT ZEONG",
       "country": "日本",
       "origin": "来源未单列商品产地",
-      "version": "MSV历史套件；文献记载1984-07",
+      "version": "MSV历史套件；官方档案1984-07",
       "icon": "kit",
       "scale": "1:250",
       "heightMm": null,
@@ -51717,15 +51875,15 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+          "text": "官方商品档案确认本款旧套件名称、比例及发售年月。 不混用 HG、MG 或后来的 Z 版规格；实际模型高度、塑料种类和具体关节结构仍待核实。"
         }
       ],
       "sources": [
         {
-          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
-          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
-          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
-          "kind": "研究全文",
+          "url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013527000&grp_id=5325",
+          "title": "BANDAI SPIRITS · 1/250 パーフェクトジオング",
+          "supports": "旧套件名称、比例及档案列出的发售年月；库存状态不作为停产证据",
+          "kind": "官方产品档案",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -51740,19 +51898,24 @@ window.TOY_COMPARE_DATA = {
         "完美吉翁号"
       ],
       "chronology": {
-        "label": "年代待核实",
-        "sourceUrl": null,
-        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+        "label": "官方档案：1984年7月",
+        "sourceUrl": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013527000&grp_id=5325",
+        "note": "按官方旧型号档案的发售年月记录。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "MSV 旧套件版本；可能再贩，历史型号不等于停产。二手或旧库存仍可能流通。"
       }
     },
     {
       "id": "literature-msv-32",
-      "name": "MSV MS-14B 强尼莱登专用高机动型勇士（1:144，1984-09）",
+      "name": "MSV MS-14B 强尼莱登专用高机动型勇士（1:144）",
       "brand": "BANDAI SPIRITS",
       "original": "MS-14B JOHNNY RIDDEN’S GELGOOG",
       "country": "日本",
       "origin": "来源未单列商品产地",
-      "version": "MSV历史套件；文献记载1984-09",
+      "version": "MSV历史套件；初版年月待核实",
       "icon": "kit",
       "scale": "1:144",
       "heightMm": null,
@@ -51779,15 +51942,15 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+          "text": "官方档案列出 1985 年 3 月，与原先的早期记录不一致；本条暂不确定初版年月。 不混用 HG、MG 或后来的 Z 版规格；实际模型高度、塑料种类和具体关节结构仍待核实。"
         }
       ],
       "sources": [
         {
-          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
-          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
-          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
-          "kind": "研究全文",
+          "url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425087733000&grp_id=5325",
+          "title": "BANDAI SPIRITS · 1/144 MS-14B ゲルググ(ジョニー・ライデン少佐用)",
+          "supports": "旧套件名称、比例及档案列出的发售年月；库存状态不作为停产证据",
+          "kind": "官方产品档案",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -51804,7 +51967,12 @@ window.TOY_COMPARE_DATA = {
       "chronology": {
         "label": "年代待核实",
         "sourceUrl": null,
-        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+        "note": "官方商品档案列出 1985 年 3 月；与早期记录不一致，初版年月待核实。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "MSV 旧套件版本；可能再贩，历史型号不等于停产。二手或旧库存仍可能流通。"
       }
     },
     {
@@ -51814,7 +51982,7 @@ window.TOY_COMPARE_DATA = {
       "original": "MS-06R-2 JOHNNY RIDDEN’S ZAKU II",
       "country": "日本",
       "origin": "来源未单列商品产地",
-      "version": "MSV历史套件；文献记载1984-09",
+      "version": "MSV历史套件；官方档案1984-09",
       "icon": "kit",
       "scale": "1:100",
       "heightMm": null,
@@ -51841,15 +52009,15 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+          "text": "官方商品档案确认本款旧套件名称、比例及发售年月。 不混用 HG、MG 或后来的 Z 版规格；实际模型高度、塑料种类和具体关节结构仍待核实。"
         }
       ],
       "sources": [
         {
-          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
-          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
-          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
-          "kind": "研究全文",
+          "url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013596000&grp_id=5325",
+          "title": "BANDAI SPIRITS · 1/100 ジョニー・ライデンザク2",
+          "supports": "旧套件名称、比例及档案列出的发售年月；库存状态不作为停产证据",
+          "kind": "官方产品档案",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -51864,9 +52032,14 @@ window.TOY_COMPARE_DATA = {
         "强尼莱登专用高机动型扎古II"
       ],
       "chronology": {
-        "label": "年代待核实",
-        "sourceUrl": null,
-        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+        "label": "官方档案：1984年9月",
+        "sourceUrl": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013596000&grp_id=5325",
+        "note": "按官方旧型号档案的发售年月记录。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "MSV 旧套件版本；可能再贩，历史型号不等于停产。二手或旧库存仍可能流通。"
       }
     },
     {
@@ -51876,7 +52049,7 @@ window.TOY_COMPARE_DATA = {
       "original": "RX-78 PERFECT GUNDAM",
       "country": "日本",
       "origin": "来源未单列商品产地",
-      "version": "MSV历史套件；文献记载1984-12",
+      "version": "MSV历史套件；官方档案1984-12",
       "icon": "kit",
       "scale": "1:100",
       "heightMm": null,
@@ -51903,15 +52076,15 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+          "text": "官方商品档案确认本款旧套件名称、比例及发售年月。 不混用 HG、MG 或后来的 Z 版规格；实际模型高度、塑料种类和具体关节结构仍待核实。"
         }
       ],
       "sources": [
         {
-          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
-          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
-          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
-          "kind": "研究全文",
+          "url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013657000&grp_id=5325",
+          "title": "BANDAI SPIRITS · 1/100 パーフェクトガンダム",
+          "supports": "旧套件名称、比例及档案列出的发售年月；库存状态不作为停产证据",
+          "kind": "官方产品档案",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -51926,9 +52099,14 @@ window.TOY_COMPARE_DATA = {
         "完美高达"
       ],
       "chronology": {
-        "label": "年代待核实",
-        "sourceUrl": null,
-        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+        "label": "官方档案：1984年12月",
+        "sourceUrl": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4902425013657000&grp_id=5325",
+        "note": "按官方旧型号档案的发售年月记录。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "MSV 旧套件版本；可能再贩，历史型号不等于停产。二手或旧库存仍可能流通。"
       }
     },
     {
@@ -52628,7 +52806,7 @@ window.TOY_COMPARE_DATA = {
       "original": "スーパーアクションジェニー",
       "country": "日本",
       "origin": "来源未单列商品产地",
-      "version": "2017年文献中的历史素体",
+      "version": "1996年登场的历史素体",
       "icon": "human",
       "scale": null,
       "heightMm": null,
@@ -52656,15 +52834,15 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "文献印刷页26介绍该可动素体用于自行制作角色玩偶。具体身体批次、材料和高度未单列。"
+          "text": "Takara USA 旧站将 Super Action Jenny 的登场记在 1996 年，并介绍更丰富的摆姿用途。具体身体批次、材料和高度尚未独立核实。"
         }
       ],
       "sources": [
         {
-          "url": "https://kusa.repo.nii.ac.jp/record/296/files/kk201722023030.pdf",
-          "title": "中川・山田（2017）美少女フィギュア・美少女ドールの差異と進路",
-          "supports": "印刷页25–28：历史产品、制作方、身体用途及开发原型",
-          "kind": "研究全文",
+          "url": "https://takara-usa.com/toys/jenny/history/h96.html",
+          "title": "Takara USA 旧站 · Jenny 1996 年历史介绍",
+          "supports": "1996 年 Super Action Jenny 登场及更丰富的摆姿用途",
+          "kind": "厂商旧站历史资料",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -52675,9 +52853,14 @@ window.TOY_COMPARE_DATA = {
         "ジェニー"
       ],
       "chronology": {
-        "label": "版本：2017年",
-        "sourceUrl": "https://kusa.repo.nii.ac.jp/record/296/files/kk201722023030.pdf",
-        "note": "2017年文献中的历史素体"
+        "label": "登场：1996年",
+        "sourceUrl": "https://takara-usa.com/toys/jenny/history/h96.html",
+        "note": "Takara USA 旧站的 Jenny 1996 年年表。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历史版本记录；未确认官方停产。二手或旧库存仍可能流通。"
       }
     },
     {
@@ -52714,15 +52897,15 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "文献印刷页25记载由新声社发行、タカラ制作。布制服装、头发及可操作的人形构成；具体商品编号和尺寸未单列。"
+          "text": "收藏记录展示 1994 年新声社版娜可露露玩偶。与 1999 年再版分开；身体高度、材料与具体关节结构仍待核实。"
         }
       ],
       "sources": [
         {
-          "url": "https://kusa.repo.nii.ac.jp/record/296/files/kk201722023030.pdf",
-          "title": "中川・山田（2017）美少女フィギュア・美少女ドールの差異と進路",
-          "supports": "印刷页25–28：历史产品、制作方、身体用途及开发原型",
-          "kind": "研究全文",
+          "url": "https://www.ne.jp/asahi/nyajitan/lazy-club/chara/nakoruru.html",
+          "title": "Lazy Club · 新声社版ナコルル收藏记录",
+          "supports": "收藏者照片与说明中的 1994 年新声社版本；与后来再版区分",
+          "kind": "玩家收藏记录",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -52732,8 +52915,8 @@ window.TOY_COMPARE_DATA = {
       ],
       "chronology": {
         "label": "版本：1994年",
-        "sourceUrl": "https://kusa.repo.nii.ac.jp/record/296/files/kk201722023030.pdf",
-        "note": "1994年历史角色玩偶"
+        "sourceUrl": "https://www.ne.jp/asahi/nyajitan/lazy-club/chara/nakoruru.html",
+        "note": "收藏者的 1994 年新声社版记录；不是 1999 年再版。"
       },
       "lifecycle": {
         "historical": true,
@@ -52776,6 +52959,10 @@ window.TOY_COMPARE_DATA = {
         {
           "title": "版本与资料",
           "text": "文献印刷页25记载Sega角色玩偶，并说明头部原型由手办原型师制作。正文未区分具体角色与商品编号，暂按该历史产品记录，尺寸和材料留空。"
+        },
+        {
+          "title": "来源说明",
+          "text": "尚未找到能核对这条 1994 年记录的原厂或商品版本档案；后来的 Sega DX 等商品不套用其规格，暂保留研究来源。"
         }
       ],
       "sources": [
@@ -52832,15 +53019,15 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "文献印刷页26记载1998年推出的Dollfie素体；具体身体型号未单列。该历史记录与现有DD、SD具体型号分开保存。"
+          "text": "VOLKS 官方历史将 Dollfie 的登场记在 1998 年。此条记录早期素体，与 1999 年登场的 Super Dollfie 分开；不代入现行 SD 或 DD 的身体规格。"
         }
       ],
       "sources": [
         {
-          "url": "https://kusa.repo.nii.ac.jp/record/296/files/kk201722023030.pdf",
-          "title": "中川・山田（2017）美少女フィギュア・美少女ドールの差異と進路",
-          "supports": "印刷页25–28：历史产品、制作方、身体用途及开发原型",
-          "kind": "研究全文",
+          "url": "https://dollfie.volks.co.jp/special/dollfie25th/",
+          "title": "VOLKS · Dollfie 25 周年历史",
+          "supports": "1998 年 Dollfie 登场；与 1999 年 Super Dollfie 区分",
+          "kind": "官方历史资料",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -52849,9 +53036,9 @@ window.TOY_COMPARE_DATA = {
         "ドルフィー"
       ],
       "chronology": {
-        "label": "版本：1998年",
-        "sourceUrl": "https://kusa.repo.nii.ac.jp/record/296/files/kk201722023030.pdf",
-        "note": "1998年早期Dollfie素体"
+        "label": "登场：1998年",
+        "sourceUrl": "https://dollfie.volks.co.jp/special/dollfie25th/",
+        "note": "VOLKS 官方 Dollfie 历史介绍。"
       },
       "lifecycle": {
         "historical": true,
@@ -52866,16 +53053,16 @@ window.TOY_COMPARE_DATA = {
       "original": "Dollfie(R) ハニー",
       "country": "日本",
       "origin": "来源未单列商品产地",
-      "version": "2017年文献中的共同开发原型",
+      "version": "2015年共同开发原型",
       "icon": "human",
       "scale": null,
-      "heightMm": null,
-      "heightBasis": "",
+      "heightMm": 600,
+      "heightBasis": "厂商新闻稿：身高约60cm",
       "sizeNA": false,
       "dimensions": [
         {
-          "label": "文献记载60cm级别",
-          "basis": "共同开发原型；未提供独立尺寸表"
+          "label": "约60cm",
+          "basis": "厂商新闻稿的原型身高"
         }
       ],
       "tags": {
@@ -52886,7 +53073,8 @@ window.TOY_COMPARE_DATA = {
           "开发原型"
         ],
         "dress": [
-          "换装未说明"
+          "布衣换装",
+          "可换头"
         ],
         "material": [
           "材料未披露"
@@ -52898,15 +53086,15 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "文献印刷页28介绍スピーシーズ与VOLKS共同开发的60cm人形：下方单元内的伺服电机通过钢索牵引关节。该记录对应文献中的开发状态，未取得量产商品清单。"
+          "text": "VOLKS 与 Speecys 于 2015 年 12 月发表的共同开发原型，约 60 cm、28 自由度；下方单元的伺服电机通过线缆驱动关节。新闻稿称基本开发完成、后续计划商品化，不据此写成已量产或已停产。厂商说明可使用同尺寸 DD 的衣服与头部，其他品牌配件不据此推定通用。"
         }
       ],
       "sources": [
         {
-          "url": "https://kusa.repo.nii.ac.jp/record/296/files/kk201722023030.pdf",
-          "title": "中川・山田（2017）美少女フィギュア・美少女ドールの差異と進路",
-          "supports": "印刷页25–28：历史产品、制作方、身体用途及开发原型",
-          "kind": "研究全文",
+          "url": "https://www.dreamnews.jp/press/0000124132/",
+          "title": "Speecys · Dollfie Honey 共同开发发表（2015-12-17）",
+          "supports": "VOLKS 与 Speecys 的开发原型、约 60 cm、28 自由度、线缆驱动及 DD 衣服／头部兼容说明",
+          "kind": "厂商新闻稿",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -52915,9 +53103,9 @@ window.TOY_COMPARE_DATA = {
         "Dollfie(R) ハニー"
       ],
       "chronology": {
-        "label": "版本：2017年",
-        "sourceUrl": "https://kusa.repo.nii.ac.jp/record/296/files/kk201722023030.pdf",
-        "note": "2017年文献中的共同开发原型"
+        "label": "发表：2015年12月",
+        "sourceUrl": "https://www.dreamnews.jp/press/0000124132/",
+        "note": "厂商 2015 年 12 月 17 日发表；不是论文发表年，也不是量产发售年。"
       }
     },
     {
@@ -53776,15 +53964,15 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "市川純（2025）刊载并分析的创作人形作品。正文与图版提供作品身份；未取得该作品独立的尺寸、材料及交付规格表。"
+          "text": "横滨人形之家的观展记录展示此作品并标为 2004 年创作。暂未取得作家独立规格表，尺寸、主体材料与交付规格仍保留未核实。"
         }
       ],
       "sources": [
         {
-          "url": "https://nittaidai.repo.nii.ac.jp/record/2000912/files/BNSSU-54-1071-1083.pdf",
-          "title": "市川純（2025）日本の球体関節人形におけるアリス表象",
-          "supports": "图1–4与正文：作品名称、年份、作者及爱丽丝表象的分析",
-          "kind": "研究全文",
+          "url": "https://ameblo.jp/hituzou/entry-12844221220.html",
+          "title": "横滨人形之家 · Alice 人形展观展记录",
+          "supports": "现场作品照片及陽月《Alice in…》2004 年作品题签记录；不是完整规格表",
+          "kind": "观展记录",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -53803,9 +53991,9 @@ window.TOY_COMPARE_DATA = {
         }
       ],
       "chronology": {
-        "label": "版本：2004年",
-        "sourceUrl": "https://nittaidai.repo.nii.ac.jp/record/2000912/files/BNSSU-54-1071-1083.pdf",
-        "note": "2004年创作人形"
+        "label": "创作：2004年",
+        "sourceUrl": "https://ameblo.jp/hituzou/entry-12844221220.html",
+        "note": "观展记录中的作品名称与年份。"
       },
       "lifecycle": {
         "historical": true,
@@ -53850,6 +54038,10 @@ window.TOY_COMPARE_DATA = {
         {
           "title": "版本与资料",
           "text": "市川純（2025）刊载并分析的创作人形作品。正文与图版提供作品身份；未取得该作品独立的尺寸、材料及交付规格表。"
+        },
+        {
+          "title": "来源说明",
+          "text": "已查作家、画廊与展览资料，尚未找到对应此题名作品的独立档案；暂保留研究中的作品记录。"
         }
       ],
       "sources": [
@@ -53918,6 +54110,10 @@ window.TOY_COMPARE_DATA = {
         {
           "title": "版本与资料",
           "text": "市川純（2025）刊载并分析的创作人形作品。正文与图版提供作品身份；未取得该作品独立的尺寸、材料及交付规格表。"
+        },
+        {
+          "title": "来源说明",
+          "text": "已查作家、画廊与展览资料，尚未找到对应此题名作品的独立档案；暂保留研究中的作品记录。"
         }
       ],
       "sources": [
@@ -53985,15 +54181,15 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "市川純（2025）刊载并分析的创作人形作品。正文与图版提供作品身份；未取得该作品独立的尺寸、材料及交付规格表。"
+          "text": "画廊展览介绍将此件列为参考作品《Alice》（2023）。尺寸、主体材料与交付规格未在该页披露，不代用同作者其他作品的规格。"
         }
       ],
       "sources": [
         {
-          "url": "https://nittaidai.repo.nii.ac.jp/record/2000912/files/BNSSU-54-1071-1083.pdf",
-          "title": "市川純（2025）日本の球体関節人形におけるアリス表象",
-          "supports": "图1–4与正文：作品名称、年份、作者及爱丽丝表象的分析",
-          "kind": "研究全文",
+          "url": "https://gallery-hydrangea.shopinfo.jp/posts/55612331/",
+          "title": "gallery hydrangea · 清水真理 Alice（2023）",
+          "supports": "画廊以参考作品展示《Alice》（2023）；页面发布／展览年份不当作创作年份",
+          "kind": "画廊作品档案",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -54012,9 +54208,9 @@ window.TOY_COMPARE_DATA = {
         }
       ],
       "chronology": {
-        "label": "版本：2023年",
-        "sourceUrl": "https://nittaidai.repo.nii.ac.jp/record/2000912/files/BNSSU-54-1071-1083.pdf",
-        "note": "2023年创作人形"
+        "label": "创作：2023年",
+        "sourceUrl": "https://gallery-hydrangea.shopinfo.jp/posts/55612331/",
+        "note": "画廊参考作品题注 Alice（2023），不是 2024 年展览年份。"
       }
     },
     {
@@ -54027,10 +54223,15 @@ window.TOY_COMPARE_DATA = {
       "version": "2023年创作人形",
       "icon": "joint",
       "scale": null,
-      "heightMm": null,
-      "heightBasis": "",
+      "heightMm": 1200,
+      "heightBasis": "作家作品档案：120cm",
       "sizeNA": false,
-      "dimensions": [],
+      "dimensions": [
+        {
+          "label": "120cm",
+          "basis": "作家作品档案的作品高度"
+        }
+      ],
       "tags": {
         "joint": [
           "球体关节",
@@ -54043,7 +54244,10 @@ window.TOY_COMPARE_DATA = {
           "换装未说明"
         ],
         "material": [
-          "材料未披露"
+          "瓷",
+          "人毛",
+          "布料",
+          "玻璃"
         ],
         "role": [
           "原创人偶",
@@ -54053,15 +54257,15 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "市川純（2025）刊载并分析的创作人形作品。正文与图版提供作品身份；未取得该作品独立的尺寸、材料及交付规格表。"
+          "text": "作家档案记录《記憶の迷宮》于 2023 年创作，120 cm，球体关节，瓷质、人毛、布制衣装与玻璃眼。属于创作人形作品，不将网页后续展览日期写成商品发售日。"
         }
       ],
       "sources": [
         {
-          "url": "https://nittaidai.repo.nii.ac.jp/record/2000912/files/BNSSU-54-1071-1083.pdf",
-          "title": "市川純（2025）日本の球体関節人形におけるアリス表象",
-          "supports": "图1–4与正文：作品名称、年份、作者及爱丽丝表象的分析",
-          "kind": "研究全文",
+          "url": "https://www.koitsukihime.com/%E8%A4%87%E8%A3%BD-web-exibition-1",
+          "title": "恋月姫 · 記憶の迷宮作品档案",
+          "supports": "2023 年、120 cm、球体关节、瓷质、人毛、布制衣装与玻璃眼",
+          "kind": "作家作品档案",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -54080,9 +54284,9 @@ window.TOY_COMPARE_DATA = {
         }
       ],
       "chronology": {
-        "label": "版本：2023年",
-        "sourceUrl": "https://nittaidai.repo.nii.ac.jp/record/2000912/files/BNSSU-54-1071-1083.pdf",
-        "note": "2023年创作人形"
+        "label": "创作：2023年",
+        "sourceUrl": "https://www.koitsukihime.com/%E8%A4%87%E8%A3%BD-web-exibition-1",
+        "note": "作家档案中本件的创作年份；网页的后续展期另计。"
       }
     },
     {
@@ -54122,6 +54326,10 @@ window.TOY_COMPARE_DATA = {
         {
           "title": "版本与资料",
           "text": "市川純（2025）刊载并分析的创作人形作品。正文与图版提供作品身份；未取得该作品独立的尺寸、材料及交付规格表。"
+        },
+        {
+          "title": "来源说明",
+          "text": "尚未找到作家或展方可访问的本件作品档案；暂保留研究中的作品记录。"
         }
       ],
       "sources": [
@@ -54160,22 +54368,28 @@ window.TOY_COMPARE_DATA = {
       "original": "人形月 附属ミニチュア人形",
       "country": "日本",
       "origin": "来源未单列商品产地",
-      "version": "2006年出版企划附属品",
+      "version": "2006年附人形特装版",
       "icon": "human",
-      "scale": null,
-      "heightMm": null,
-      "heightBasis": "",
+      "scale": "1:3.5",
+      "heightMm": 150,
+      "heightBasis": "二手商店商品说明：人形尺寸15cm",
       "sizeNA": false,
-      "dimensions": [],
+      "dimensions": [
+        {
+          "label": "15cm",
+          "basis": "二手商店商品说明的人形尺寸"
+        }
+      ],
       "tags": {
         "joint": [
-          "连接待核实"
+          "固定姿势"
         ],
         "delivery": [
-          "交付未说明"
+          "涂装成品",
+          "书籍附属品"
         ],
         "dress": [
-          "换装未说明"
+          "可换假发"
         ],
         "material": [
           "材料未披露"
@@ -54187,15 +54401,29 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "田中圭子（2008）介绍作品书《人形月》附带的小型人形。资料未单列附属人形的具体版本、尺寸、材料与关节结构。"
+          "text": "本条是《人形月》附人形特装版，区别于普通书籍与 Luna 版。商店档案记载附属人形 15 cm、1:3.5，关节不能摆动，附替换假发；不因外形像球体关节人形就标为可动。主体材料尚未取得独立说明。"
         }
       ],
       "sources": [
         {
-          "url": "https://doshisha.repo.nii.ac.jp/record/20186/files/007000800003.pdf",
-          "title": "田中圭子（2008）日本における球体関節人形の系譜",
-          "supports": "印刷页54–55附近对2006年出版企划附属小型人形的讨论",
-          "kind": "研究全文",
+          "url": "https://www.koitsukihime.com/books",
+          "title": "恋月姫 · 《人形月》书籍与附人形特装版",
+          "supports": "2006 年初版、附人形特装版与普通书籍版本的区别",
+          "kind": "作家出版档案",
+          "checkedAt": "2026-10-06"
+        },
+        {
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-013277-R",
+          "title": "AmiAmi · 《人形月》フィギュア付き特装版",
+          "supports": "2006 年附人形特装版、JAN 9784093590839、两件假发配件",
+          "kind": "经销商商品档案",
+          "checkedAt": "2026-10-06"
+        },
+        {
+          "url": "https://www.mandarake.co.jp/information/2008/04/01/21nkn02/index.html",
+          "title": "Mandarake · 《人形月》普通版／特装版／Luna 版记录",
+          "supports": "特装版附属人形 15 cm、1:3.5、关节不能摆动、可替换假发；与 Luna 版配件区分",
+          "kind": "二手商店商品档案",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -54213,8 +54441,8 @@ window.TOY_COMPARE_DATA = {
       ],
       "chronology": {
         "label": "版本：2006年",
-        "sourceUrl": "https://doshisha.repo.nii.ac.jp/record/20186/files/007000800003.pdf",
-        "note": "2006年出版企划附属品"
+        "sourceUrl": "https://www.koitsukihime.com/books",
+        "note": "作家书籍档案与特装版商店资料共同确认 2006 年；出版月与店铺发售月分别记录。"
       },
       "lifecycle": {
         "historical": true,
@@ -54224,18 +54452,23 @@ window.TOY_COMPARE_DATA = {
     },
     {
       "id": "literature-qee-baseman",
-      "name": "Buckingham Forest Qee（文献图版）",
+      "name": "Buckingham Forest Qee · DKNY（D）",
       "brand": "Toy2R",
       "original": "Buckingham Forest Qee",
       "country": "香港",
       "origin": "来源未单列商品产地",
-      "version": "2010年文献图版所示设计",
+      "version": "DKNY Buckingham Forest Qee（D）历史版",
       "icon": "human",
       "scale": null,
-      "heightMm": null,
-      "heightBasis": "",
+      "heightMm": 200,
+      "heightBasis": "经销商商品说明：200mm tall",
       "sizeNA": false,
-      "dimensions": [],
+      "dimensions": [
+        {
+          "label": "200mm",
+          "basis": "经销商列明的本版全高"
+        }
+      ],
       "tags": {
         "joint": [
           "连接待核实"
@@ -54257,15 +54490,15 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "研究图版中的Qee设计。颜色批次、限量与具体尺寸未独立核实，暂按文献所示设计建档。"
+          "text": "按留之助商店展示的 DKNY（D）版记录：Gary Baseman 设计、200 mm、限量 500 件。不混用后来的蓝色／橙色版本规格；初次发售年仍待核实。"
         }
       ],
       "sources": [
         {
-          "url": "https://www.researchgate.net/publication/258199546_A_Vinyl_Platform_for_Dissent_Designer_Toys_and_Character_Merchandising",
-          "title": "Steinberg（2010）A vinyl platform for dissent",
-          "supports": "研究正文与图版所列具体设计、作者与Qee平台；未单列商品SKU",
-          "kind": "研究全文",
+          "url": "https://tenshu53.exblog.jp/244471108/",
+          "title": "留之助商店 · DKNY Buckingham Forest Qee（D）",
+          "supports": "Gary Baseman 设计、DKNY D 版、200 mm 与 500 件限量；未单列最初发售年",
+          "kind": "经销商商品档案",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -54282,9 +54515,9 @@ window.TOY_COMPARE_DATA = {
         }
       ],
       "chronology": {
-        "label": "版本：2010年",
-        "sourceUrl": "https://www.researchgate.net/publication/258199546_A_Vinyl_Platform_for_Dissent_Designer_Toys_and_Character_Merchandising",
-        "note": "2010年文献图版所示设计"
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "商品资料没有确认本版最初发售年；2010 是研究发表年，2025 是商店文章年。"
       },
       "lifecycle": {
         "historical": true,
@@ -54294,18 +54527,23 @@ window.TOY_COMPARE_DATA = {
     },
     {
       "id": "literature-qee-biskup",
-      "name": "Wrecker Panda Qee（文献图版）",
+      "name": "Wrecker Panda Qee（8英寸，2004）",
       "brand": "Toy2R",
       "original": "Wrecker Panda Qee",
       "country": "香港",
       "origin": "来源未单列商品产地",
-      "version": "2010年文献图版所示设计",
+      "version": "2004年8英寸版本（商店记录）",
       "icon": "human",
       "scale": null,
       "heightMm": null,
       "heightBasis": "",
       "sizeNA": false,
-      "dimensions": [],
+      "dimensions": [
+        {
+          "label": "8英寸",
+          "basis": "商店商品的标称尺寸，非实测"
+        }
+      ],
       "tags": {
         "joint": [
           "连接待核实"
@@ -54327,15 +54565,15 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "研究图版中的Qee设计。颜色批次、限量与具体尺寸未独立核实，暂按文献所示设计建档。"
+          "text": "商店商品档案对应 Tim Biskup 与 Toy2R 的 2004 年 8 英寸 Wrecker Panda。8 英寸保留为标称尺寸，不作为实测高度；身体连接方式仍待核实。"
         }
       ],
       "sources": [
         {
-          "url": "https://www.researchgate.net/publication/258199546_A_Vinyl_Platform_for_Dissent_Designer_Toys_and_Character_Merchandising",
-          "title": "Steinberg（2010）A vinyl platform for dissent",
-          "supports": "研究正文与图版所列具体设计、作者与Qee平台；未单列商品SKU",
-          "kind": "研究全文",
+          "url": "https://gobacktothepast.shop/products/qee-collection-wrecker-panda-8-bear-vinyl-figure-tim-biskup-x-toy2r-2004-designer-art-toy",
+          "title": "Back to the Past · Wrecker Panda 8-inch Bear Qee",
+          "supports": "商店持有商品的 Tim Biskup／Toy2R 署名、2004 年版本、8 英寸标称尺寸与 vinyl 材料",
+          "kind": "二手商店商品档案",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -54352,9 +54590,9 @@ window.TOY_COMPARE_DATA = {
         }
       ],
       "chronology": {
-        "label": "版本：2010年",
-        "sourceUrl": "https://www.researchgate.net/publication/258199546_A_Vinyl_Platform_for_Dissent_Designer_Toys_and_Character_Merchandising",
-        "note": "2010年文献图版所示设计"
+        "label": "版本：2004年（商店记录）",
+        "sourceUrl": "https://gobacktothepast.shop/products/qee-collection-wrecker-panda-8-bear-vinyl-figure-tim-biskup-x-toy2r-2004-designer-art-toy",
+        "note": "商店本件商品记录；不是 2010 年研究发表年份。"
       },
       "lifecycle": {
         "historical": true,
@@ -54411,13 +54649,6 @@ window.TOY_COMPARE_DATA = {
           "title": "Jeremyville!｜Kidrobot Blog",
           "supports": "品牌2015年文章确认作品名称、作者及8英寸版本",
           "kind": "官方产品页",
-          "checkedAt": "2026-10-06"
-        },
-        {
-          "url": "https://www.researchgate.net/publication/258199546_A_Vinyl_Platform_for_Dissent_Designer_Toys_and_Character_Merchandising",
-          "title": "Steinberg（2010）A vinyl platform for dissent",
-          "supports": "文中对Jeremyville具体Dunny设计及其叙事的讨论",
-          "kind": "研究全文",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -54560,9 +54791,9 @@ window.TOY_COMPARE_DATA = {
         "怪物模型"
       ],
       "chronology": {
-        "label": "版本：1960年",
+        "label": "年代：1960年代",
         "sourceUrl": "https://www.jeffs60s.com/aurora-instruction-sheets.html",
-        "note": "1960年代原版套件记录"
+        "note": "现有记录指向 1960 年代版本；尚未核实本件的准确初版年。"
       },
       "lifecycle": {
         "historical": true,
@@ -54625,9 +54856,9 @@ window.TOY_COMPARE_DATA = {
         "怪物模型"
       ],
       "chronology": {
-        "label": "版本：1960年",
+        "label": "年代：1960年代",
         "sourceUrl": "https://www.jeffs60s.com/aurora-instruction-sheets.html",
-        "note": "1960年代原版套件记录"
+        "note": "现有记录指向 1960 年代版本；尚未核实本件的准确初版年。"
       },
       "lifecycle": {
         "historical": true,
@@ -54690,9 +54921,9 @@ window.TOY_COMPARE_DATA = {
         "怪物模型"
       ],
       "chronology": {
-        "label": "版本：1960年",
+        "label": "年代：1960年代",
         "sourceUrl": "https://www.jeffs60s.com/aurora-instruction-sheets.html",
-        "note": "1960年代原版套件记录"
+        "note": "现有记录指向 1960 年代版本；尚未核实本件的准确初版年。"
       },
       "lifecycle": {
         "historical": true,
@@ -54755,9 +54986,9 @@ window.TOY_COMPARE_DATA = {
         "怪物模型"
       ],
       "chronology": {
-        "label": "版本：1960年",
+        "label": "年代：1960年代",
         "sourceUrl": "https://www.jeffs60s.com/aurora-instruction-sheets.html",
-        "note": "1960年代原版套件记录"
+        "note": "现有记录指向 1960 年代版本；尚未核实本件的准确初版年。"
       },
       "lifecycle": {
         "historical": true,
@@ -54820,9 +55051,9 @@ window.TOY_COMPARE_DATA = {
         "怪物模型"
       ],
       "chronology": {
-        "label": "版本：1960年",
+        "label": "年代：1960年代",
         "sourceUrl": "https://www.jeffs60s.com/aurora-instruction-sheets.html",
-        "note": "1960年代原版套件记录"
+        "note": "现有记录指向 1960 年代版本；尚未核实本件的准确初版年。"
       },
       "lifecycle": {
         "historical": true,
@@ -54885,9 +55116,9 @@ window.TOY_COMPARE_DATA = {
         "怪物模型"
       ],
       "chronology": {
-        "label": "版本：1960年",
+        "label": "年代：1960年代",
         "sourceUrl": "https://www.jeffs60s.com/aurora-instruction-sheets.html",
-        "note": "1960年代原版套件记录"
+        "note": "现有记录指向 1960 年代版本；尚未核实本件的准确初版年。"
       },
       "lifecycle": {
         "historical": true,
@@ -54950,9 +55181,9 @@ window.TOY_COMPARE_DATA = {
         "怪物模型"
       ],
       "chronology": {
-        "label": "版本：1960年",
+        "label": "年代：1960年代",
         "sourceUrl": "https://www.jeffs60s.com/aurora-instruction-sheets.html",
-        "note": "1960年代原版套件记录"
+        "note": "现有记录指向 1960 年代版本；尚未核实本件的准确初版年。"
       },
       "lifecycle": {
         "historical": true,
@@ -55015,9 +55246,9 @@ window.TOY_COMPARE_DATA = {
         "怪物模型"
       ],
       "chronology": {
-        "label": "版本：1960年",
+        "label": "年代：1960年代",
         "sourceUrl": "https://www.jeffs60s.com/aurora-instruction-sheets.html",
-        "note": "1960年代原版套件记录"
+        "note": "现有记录指向 1960 年代版本；尚未核实本件的准确初版年。"
       },
       "lifecycle": {
         "historical": true,
@@ -55068,13 +55299,6 @@ window.TOY_COMPARE_DATA = {
           "title": "Happy Rancor: Mail-Away Star Wars Action Figures｜StarWars.com",
           "supports": "1979年寄售Boba Fett、固定火箭与原型发射火箭的区别",
           "kind": "官方产品页",
-          "checkedAt": "2026-10-06"
-        },
-        {
-          "url": "https://people.southwestern.edu/~bednarb/vmc/articles/keidl.pdf",
-          "title": "Keidl（2018）Between textuality and materiality",
-          "supports": "Boba Fett生产史、原型与粉丝媒介的讨论",
-          "kind": "研究全文",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -55133,6 +55357,10 @@ window.TOY_COMPARE_DATA = {
         {
           "title": "版本与资料",
           "text": "以Ken为基础的个人改造角色，穿着制作者手工制作的服装，并在微缩场景和公共空间中拍摄。文献未提供原始Ken的SKU或替换身体清单。"
+        },
+        {
+          "title": "来源说明",
+          "text": "已查作者公开资料，尚未核对到具体原始照片与所用身体型号；暂保留研究中的摄影项目记录。"
         }
       ],
       "sources": [
@@ -55167,11 +55395,11 @@ window.TOY_COMPARE_DATA = {
     {
       "id": "literature-socality",
       "name": "Socality Barbie（摄影与个人改造角色）",
-      "brand": "文献中的摄影作者未署名",
+      "brand": "Darby Cisneros",
       "original": "Socality Barbie",
       "country": "未单列",
       "origin": "来源未单列商品产地",
-      "version": "文献中的个人角色项目",
+      "version": "2015年个人摄影角色项目",
       "icon": "human",
       "scale": null,
       "heightMm": null,
@@ -55199,15 +55427,15 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "版本与资料",
-          "text": "2015年摄影项目中的Barbie角色，以穿着、道具和风景布置评论网络生活方式。文献未标出Barbie原始SKU及具体身体规格。"
+          "text": "Darby Cisneros 创作的摄影与个人改造角色，项目档案记录于 2015 年 11 月结束。不是 Mattel 独立发售的 Socality 商品型号；原始 Barbie 的 SKU 与身体规格仍待核实。"
         }
       ],
       "sources": [
         {
-          "url": "https://www.museumofplay.org/app/uploads/2022/01/11-3-Article-3.pdf",
-          "title": "Heljakka・Harviainen（2019）From displays and dioramas to doll dramas",
-          "supports": "印刷页368–371的角色项目、制作者、摄影与场景实践",
-          "kind": "研究全文",
+          "url": "https://shortyawards.com/8th/socality-barbie",
+          "title": "Shorty Awards · Socality Barbie 项目档案",
+          "supports": "Darby Cisneros 的摄影角色项目；2015 年 11 月宣布结束",
+          "kind": "项目档案",
           "checkedAt": "2026-10-06"
         }
       ],
@@ -55222,13 +55450,13 @@ window.TOY_COMPARE_DATA = {
       "credits": [
         {
           "role": "角色创作",
-          "name": "文献中的摄影作者未署名"
+          "name": "Darby Cisneros"
         }
       ],
       "chronology": {
-        "label": "年代待核实",
-        "sourceUrl": null,
-        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+        "label": "项目：2015年",
+        "sourceUrl": "https://shortyawards.com/8th/socality-barbie",
+        "note": "项目档案记录其于 2015 年 11 月结束；不代指 Barbie 原始商品的发售年。"
       }
     },
     {
@@ -58885,7 +59113,7 @@ window.TOY_COMPARE_DATA = {
     "每条记录对应具体型号与交付版本；系列或角色名称不能代替产品。",
     "厂商标称比例与实际高度各自保留；高度口径必须注明。",
     "未披露、未核实、不适用三个状态不能混用。",
-    "官方产品页优先；经销商、社区、系列说明明确标注来源范围。",
+    "优先链接官方产品页、厂商旧档案与作家作品页；其次为明确对应版本的商店或收藏记录。只有找不到可核对的对应资料时，才保留研究来源。",
     "跨品牌适配必须保留对象和限制；展会关联需产品对应证据。",
     "前端的图形是结构示意，不是产品照片。",
     "大类与数量只在资料层统计，前端不展示大类统计卡片。",
