@@ -11,6 +11,7 @@
     $("tc-empty-reset").hidden = true;
     $("tc-more").hidden = true;
     $("tc-search").disabled = true;
+    $("tc-history-only").disabled = true;
     $("tc-json").disabled = true;
     return;
   }
@@ -49,6 +50,10 @@
       : "";
   const primarySource = (p) =>
     p.sources.find((s) => !unavailable(s)) || p.sources[0];
+  const eraLabel = (p) => p.chronology?.label || "年代待核实";
+  const historyLabel = (p) => p.lifecycle?.historical
+    ? (p.lifecycle.discontinued ? "历史型号 · 已停产" : "历史型号") : "";
+  const chronologyLine = (p) => `<div class="tc-era">${esc(eraLabel(p))}${historyLabel(p) ? `<span class="tc-history">${esc(historyLabel(p))}</span>` : ""}</div>`;
   // Pixel marks are tag icons; product thumbnails use separate small line drawings.
   const pixel = (rows) =>
     `<svg viewBox="0 0 ${Math.max(...rows.map((r) => r.length))} ${rows.length}" fill="currentColor" shape-rendering="crispEdges" aria-hidden="true">${rows.flatMap((r, y) => [...r].map((c, x) => (c === "." ? "" : `<rect x="${x}" y="${y}" width="1" height="1"${c === "+" ? ' opacity=".35"' : c === "o" ? ' opacity=".6"' : ""}/>`))).join("")}</svg>`;
@@ -216,6 +221,8 @@
         p.brand,
         p.original,
         p.country,
+        eraLabel(p),
+        historyLabel(p),
         ...(p.aliases || []),
         ...(p.credits || []).map((c) => c.name),
         ...allTags(p).map((t) => t.text),
@@ -224,7 +231,8 @@
         .toLocaleLowerCase();
     return (
       terms.every((t) => all.includes(t)) &&
-      (!activeBrand || p.brand === activeBrand)
+      (!activeBrand || p.brand === activeBrand) &&
+      (!$("tc-history-only").checked || p.lifecycle?.historical)
     );
   }
   function render() {
@@ -251,7 +259,7 @@
             .map((d) => ({ cat: "size", text: d.label, variant: "height" })),
         ];
         if (p.tags.dress[0]) main.push({ cat: "dress", text: p.tags.dress[0] });
-        return `<article class="tc-card${selected.has(p.id) ? " tc-selected" : ""}"><div class="tc-card-head"><div class="tc-glyph" data-category="${p.icon === "kit" ? "delivery" : p.icon === "outfit" ? "dress" : "joint"}" aria-hidden="true">${glyph(p)}</div><div><div class="tc-brand">${esc(p.brand)}</div><button class="tc-name" data-view="${p.id}">${esc(p.name)}</button></div></div><div class="tc-card-tags">${main.map(chip).join("")}</div><div class="tc-card-actions"><button data-view="${p.id}"><span class="tc-action-arrow tc-site-triangle" aria-hidden="true"></span>详细</button><button data-select="${p.id}" aria-label="${selected.has(p.id) ? "移出" : "加入"}比照：${esc(p.name)}" aria-pressed="${selected.has(p.id)}"><span class="tc-action-arrow tc-action-plus" aria-hidden="true">${selected.has(p.id) ? "−" : "+"}</span>对比</button></div></article>`;
+        return `<article class="tc-card${selected.has(p.id) ? " tc-selected" : ""}"><div class="tc-card-head"><div class="tc-glyph" data-category="${p.icon === "kit" ? "delivery" : p.icon === "outfit" ? "dress" : "joint"}" aria-hidden="true">${glyph(p)}</div><div><div class="tc-brand">${esc(p.brand)}</div><button class="tc-name" data-view="${p.id}">${esc(p.name)}</button>${chronologyLine(p)}</div></div><div class="tc-card-tags">${main.map(chip).join("")}</div><div class="tc-card-actions"><button data-view="${p.id}"><span class="tc-action-arrow tc-site-triangle" aria-hidden="true"></span>详细</button><button data-select="${p.id}" aria-label="${selected.has(p.id) ? "移出" : "加入"}比照：${esc(p.name)}" aria-pressed="${selected.has(p.id)}"><span class="tc-action-arrow tc-action-plus" aria-hidden="true">${selected.has(p.id) ? "−" : "+"}</span>对比</button></div></article>`;
       })
       .join("");
     renderTray();
@@ -332,7 +340,7 @@
     activeId = id;
     $("tc-detail-brand").textContent = p.brand;
     $("tc-detail-title").textContent = p.name;
-    $("tc-detail-body").innerHTML = `<div class="tc-facts">${cats
+    $("tc-detail-body").innerHTML = `<div class="tc-detail-era">${chronologyLine(p)}<p>${esc(p.lifecycle?.note || p.chronology?.note || "")}</p></div><div class="tc-facts">${cats
       .map((c) => {
         const ts = allTags(p).filter((t) => t.cat === c.id);
         return `<div class="tc-fact"><div class="tc-fact-label" data-category="${c.id}"><i class="tc-dot"></i>${esc(c.name)}</div><div class="tc-tags">${ts.length ? ts.map(chip).join("") : '<span class="tc-muted">未披露</span>'}</div></div>`;
@@ -370,7 +378,7 @@
           <tbody>${rows
             .map(
               ({ product: p, tags }) => `<tr>
-            <th scope="row"><div class="tc-compare-identity"><div class="tc-glyph">${glyph(p)}</div><div><span class="tc-brand">${esc(p.brand)}</span><h3 class="tc-compare-product-name">${esc(p.name)}</h3></div></div><button class="tc-compare-detail" data-view="${esc(p.id)}">详情与来源</button></th>
+            <th scope="row"><div class="tc-compare-identity"><div class="tc-glyph">${glyph(p)}</div><div><span class="tc-brand">${esc(p.brand)}</span><h3 class="tc-compare-product-name">${esc(p.name)}</h3>${chronologyLine(p)}</div></div><button class="tc-compare-detail" data-view="${esc(p.id)}">详情与来源</button></th>
             ${visibleCats
               .map((c) => {
                 const ts = tags.filter((t) => t.cat === c.id);
@@ -396,6 +404,7 @@
   }
   function reset() {
     $("tc-search").value = "";
+    $("tc-history-only").checked = false;
     activeBrand = "";
     refresh();
   }
@@ -431,7 +440,7 @@
   $("tc-raw").innerHTML = products
     .map(
       (p) =>
-        `<tr><td>${esc(p.brand)}</td><td>${esc(p.name)}</td><td>${esc(p.tags.joint.join("、") || "不适用")}</td><td>${esc(p.sizeNA ? "不适用" : p.dimensions.map((d) => d.label + "（" + d.basis + "）").join("；") || "未披露")}</td><td>${sourceLink(primarySource(p), primarySource(p).kind)}</td></tr>`,
+        `<tr><td>${esc(p.brand)}</td><td>${esc(p.name)}${chronologyLine(p)}</td><td>${esc(p.tags.joint.join("、") || "不适用")}</td><td>${esc(p.sizeNA ? "不适用" : p.dimensions.map((d) => d.label + "（" + d.basis + "）").join("；") || "未披露")}</td><td>${sourceLink(primarySource(p), primarySource(p).kind)}</td></tr>`,
     )
     .join("");
   root.addEventListener("click", (e) => {
@@ -449,6 +458,7 @@
     }
   });
   $("tc-search").addEventListener("input", refresh);
+  $("tc-history-only").addEventListener("change", refresh);
   $("tc-more").addEventListener("click", () => {
     visibleLimit += PAGE_SIZE;
     render();
