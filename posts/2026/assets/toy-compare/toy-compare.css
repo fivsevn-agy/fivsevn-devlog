@@ -49,6 +49,10 @@
 #toyCompare [hidden] {
   display: none !important;
 }
+/* The blog adds heading permalinks; this article uses its own controls. */
+#toyCompare .anchorjs-link {
+  display: none !important;
+}
 #toyCompare h2,
 #toyCompare h3,
 #toyCompare p,

@@ -205,6 +205,7 @@
         p.original,
         p.country,
         ...(p.aliases || []),
+        ...(p.credits || []).map((c) => c.name),
         ...allTags(p).map((t) => t.text),
       ]
         .join(" ")
@@ -303,10 +304,13 @@
     restoreFocus();
   }
   function notes(p) {
+    const credits = p.credits?.length
+      ? `<div><dt>作者与制作署名</dt><dd>${p.credits.map((c) => `${esc(c.role)}：${esc(c.name)}`).join("<br>")}</dd></div>`
+      : "";
     const aliases = p.aliases?.length
       ? `<div><dt>常见叫法</dt><dd>${esc(p.aliases.join("、"))}</dd></div>`
       : "";
-    return `<dl class="tc-note-list">${aliases}${p.notes.map((n) => `<div><dt>${esc(n.title)}</dt><dd>${esc(n.text)}</dd></div>`).join("")}<div><dt>品牌与产地</dt><dd>${esc(p.brand)} · 品牌所在地：${esc(p.country)}；商品标示产地：${esc(p.origin)}。</dd></div><div><dt>记录版本</dt><dd>${esc(p.original)}。${esc(p.version)} 核对日期：${checked(p)}。</dd></div></dl>`;
+    return `<dl class="tc-note-list">${credits}${aliases}${p.notes.map((n) => `<div><dt>${esc(n.title)}</dt><dd>${esc(n.text)}</dd></div>`).join("")}<div><dt>品牌与产地</dt><dd>${esc(p.brand)} · 品牌所在地：${esc(p.country)}；商品标示产地：${esc(p.origin)}。</dd></div><div><dt>记录版本</dt><dd>${esc(p.original)}。${esc(p.version)} 核对日期：${checked(p)}。</dd></div></dl>`;
   }
   function selectLabel(id) {
     return `<span class="tc-action-arrow tc-action-plus" aria-hidden="true">${selected.has(id) ? "−" : "+"}</span>${selected.has(id) ? "取消对比" : "对比"}`;
@@ -392,12 +396,7 @@
       )
       .join("");
   }
-  $("tc-resources").innerHTML = [
-    "综合资料库",
-    "评测与资讯",
-    "人偶社区",
-    "厂商结构与目录",
-  ]
+  $("tc-resources").innerHTML = [...new Set(db.resources.map((r) => r.group))]
     .map(
       (group) =>
         `<h3 class="tc-resource-group">${esc(group)}</h3>${db.resources
