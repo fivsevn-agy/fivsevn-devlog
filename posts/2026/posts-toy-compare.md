@@ -45,7 +45,6 @@ updated: 2026-10-06
         placeholder="搜索产品、厂商、年代或标签…"
         autocomplete="off"
     /></label>
-    <label class="tc-history-filter"><input id="tc-history-only" type="checkbox" />仅看历史型号</label>
   </div>
   <div
     id="tc-brands"
