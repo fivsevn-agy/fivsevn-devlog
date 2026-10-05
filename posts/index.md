@@ -44,6 +44,8 @@ updated: 2026-06-15
 #### > Directory
 
 <!-- AUTO-INDEX:POSTS_RECENT:START -->
+- 2026.10.05 [人形玩具比照](2026/posts-toy-compare.md)
+
 - 2026.06.26 [亚洲的城市化、大型项目与剥夺（译文）](2026/posts-urban-studies-megaprojects-asia-001.md)
 
 - 2026.06.22 [科学：公元2026年的世界末日（译文）](2026/posts-population-doomsday-2026-001.md)
