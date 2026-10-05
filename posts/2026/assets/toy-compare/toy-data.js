@@ -35909,16 +35909,33 @@ window.TOY_COMPARE_DATA = {
       ],
       "sources": [
         {
+          "url": "https://www.denverdoll.com/product-category/ball-jointed-dolls/fairyland/in-stock-fairyland/in-stock-feeple65/in-stock-feeple65-dolls/",
+          "title": "Denver Doll · feeple65 公开目录",
+          "supports": "可查看本系列产品目录与配置。该目录不是原具体商品的规格证据，也不保证原配置当前在售。",
+          "kind": "海外备用目录",
+          "checkedAt": "2026-10-06"
+        },
+        {
           "kind": "官方产品页",
           "title": "FeePle65 Sylvia Basic – CP/FairyLand",
           "url": "https://cpfairyland.com/product/feeple65-sylvia-basic/",
-          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "checkedAt": "2026-10-06",
+            "reason": "官网返回“网站暂时不可用”，原始出处保留，当前改用公开备用入口。"
+          }
         },
         {
           "kind": "官方分版本尺寸表",
           "title": "Measurement Table – CP/FairyLand",
           "url": "https://cpfairyland.com/mega-shop/links/measurement-table/",
-          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值"
+          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "checkedAt": "2026-10-06",
+            "reason": "官网返回“网站暂时不可用”，原始出处保留，当前改用公开备用入口。"
+          }
         }
       ],
       "event": null,
@@ -35990,16 +36007,33 @@ window.TOY_COMPARE_DATA = {
       ],
       "sources": [
         {
+          "url": "https://www.denverdoll.com/product-category/ball-jointed-dolls/fairyland/in-stock-fairyland/pukipuki-in-stock-fairyland/in-stock-pukipuki-dolls/",
+          "title": "Denver Doll · pukipuki 公开目录",
+          "supports": "可查看本系列产品目录与配置。该目录不是原具体商品的规格证据，也不保证原配置当前在售。",
+          "kind": "海外备用目录",
+          "checkedAt": "2026-10-06"
+        },
+        {
           "kind": "官方产品页",
           "title": "pukipuki a la carte – CP/FairyLand",
           "url": "https://cpfairyland.com/product/pukipuki-a-la-carte/",
-          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "checkedAt": "2026-10-06",
+            "reason": "官网返回“网站暂时不可用”，原始出处保留，当前改用公开备用入口。"
+          }
         },
         {
           "kind": "官方分版本尺寸表",
           "title": "Measurement Table – CP/FairyLand",
           "url": "https://cpfairyland.com/mega-shop/links/measurement-table/",
-          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值"
+          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "checkedAt": "2026-10-06",
+            "reason": "官网返回“网站暂时不可用”，原始出处保留，当前改用公开备用入口。"
+          }
         }
       ],
       "event": null
@@ -36061,16 +36095,33 @@ window.TOY_COMPARE_DATA = {
       ],
       "sources": [
         {
+          "url": "https://www.denverdoll.com/product-category/ball-jointed-dolls/fairyland/in-stock-fairyland/realpuki-in-stock-fairyland/in-stock-realpuki-dolls/",
+          "title": "Denver Doll · realpuki 公开目录",
+          "supports": "可查看本系列产品目录与配置。该目录不是原具体商品的规格证据，也不保证原配置当前在售。",
+          "kind": "海外备用目录",
+          "checkedAt": "2026-10-06"
+        },
+        {
           "kind": "官方产品页",
           "title": "Realpuki a la carte – CP/FairyLand",
           "url": "https://cpfairyland.com/product/realpuki-a-la-carte/",
-          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "checkedAt": "2026-10-06",
+            "reason": "官网返回“网站暂时不可用”，原始出处保留，当前改用公开备用入口。"
+          }
         },
         {
           "kind": "官方分版本尺寸表",
           "title": "Measurement Table – CP/FairyLand",
           "url": "https://cpfairyland.com/mega-shop/links/measurement-table/",
-          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值"
+          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "checkedAt": "2026-10-06",
+            "reason": "官网返回“网站暂时不可用”，原始出处保留，当前改用公开备用入口。"
+          }
         }
       ],
       "event": null
@@ -36121,16 +36172,33 @@ window.TOY_COMPARE_DATA = {
       ],
       "sources": [
         {
+          "url": "https://www.denverdoll.com/product-category/ball-jointed-dolls/fairyland/in-stock-fairyland/fairyline-in-stock-fairyland/dolls-fairyline-in-stock-fairyland/",
+          "title": "Denver Doll · fairyline 公开目录",
+          "supports": "可查看本系列产品目录与配置。该目录不是原具体商品的规格证据，也不保证原配置当前在售。",
+          "kind": "海外备用目录",
+          "checkedAt": "2026-10-06"
+        },
+        {
           "kind": "官方产品页",
           "title": "FairyLine Girl Body – CP/FairyLand",
           "url": "https://cpfairyland.com/product/fairyline-girl-body/",
-          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "checkedAt": "2026-10-06",
+            "reason": "官网返回“网站暂时不可用”，原始出处保留，当前改用公开备用入口。"
+          }
         },
         {
           "kind": "官方分版本尺寸表",
           "title": "Measurement Table – CP/FairyLand",
           "url": "https://cpfairyland.com/mega-shop/links/measurement-table/",
-          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值"
+          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "checkedAt": "2026-10-06",
+            "reason": "官网返回“网站暂时不可用”，原始出处保留，当前改用公开备用入口。"
+          }
         }
       ],
       "event": null
@@ -36181,16 +36249,33 @@ window.TOY_COMPARE_DATA = {
       ],
       "sources": [
         {
+          "url": "https://www.denverdoll.com/product-category/ball-jointed-dolls/fairyland/in-stock-fairyland/fairyline-in-stock-fairyland/dolls-fairyline-in-stock-fairyland/",
+          "title": "Denver Doll · fairyline 公开目录",
+          "supports": "可查看本系列产品目录与配置。该目录不是原具体商品的规格证据，也不保证原配置当前在售。",
+          "kind": "海外备用目录",
+          "checkedAt": "2026-10-06"
+        },
+        {
           "kind": "官方产品页",
           "title": "FairyLine Boy Body – CP/FairyLand",
           "url": "https://cpfairyland.com/product/fairyline-boy-body/",
-          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "checkedAt": "2026-10-06",
+            "reason": "官网返回“网站暂时不可用”，原始出处保留，当前改用公开备用入口。"
+          }
         },
         {
           "kind": "官方分版本尺寸表",
           "title": "Measurement Table – CP/FairyLand",
           "url": "https://cpfairyland.com/mega-shop/links/measurement-table/",
-          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值"
+          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "checkedAt": "2026-10-06",
+            "reason": "官网返回“网站暂时不可用”，原始出处保留，当前改用公开备用入口。"
+          }
         }
       ],
       "event": null
@@ -36247,16 +36332,33 @@ window.TOY_COMPARE_DATA = {
       ],
       "sources": [
         {
+          "url": "https://www.denverdoll.com/product-category/ball-jointed-dolls/fairyland/in-stock-fairyland/minifee-in-stock-fairyland/dolls-minifee-in-stock-fairyland/",
+          "title": "Denver Doll · minifee 公开目录",
+          "supports": "可查看本系列产品目录与配置。该目录不是原具体商品的规格证据，也不保证原配置当前在售。",
+          "kind": "海外备用目录",
+          "checkedAt": "2026-10-06"
+        },
+        {
           "kind": "官方产品页",
           "title": "MiniFee a la carte BOY (Active Line) – CP/FairyLand",
           "url": "https://cpfairyland.com/product/minifee-a-la-carte-boy-active-line/",
-          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "checkedAt": "2026-10-06",
+            "reason": "官网返回“网站暂时不可用”，原始出处保留，当前改用公开备用入口。"
+          }
         },
         {
           "kind": "官方分版本尺寸表",
           "title": "Measurement Table – CP/FairyLand",
           "url": "https://cpfairyland.com/mega-shop/links/measurement-table/",
-          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值"
+          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "checkedAt": "2026-10-06",
+            "reason": "官网返回“网站暂时不可用”，原始出处保留，当前改用公开备用入口。"
+          }
         }
       ],
       "event": null
@@ -36308,16 +36410,33 @@ window.TOY_COMPARE_DATA = {
       ],
       "sources": [
         {
+          "url": "https://www.denverdoll.com/product-category/ball-jointed-dolls/fairyland/in-stock-fairyland/in-stock-fairyline60-feeple60-feeple65/in-stock-fairyline60-feeple60-feeple65-dolls/",
+          "title": "Denver Doll · fairyline60 公开目录",
+          "supports": "可查看本系列产品目录与配置。该目录不是原具体商品的规格证据，也不保证原配置当前在售。",
+          "kind": "海外备用目录",
+          "checkedAt": "2026-10-06"
+        },
+        {
           "kind": "官方产品页",
           "title": "FairyLine60 basic – CP/FairyLand",
           "url": "https://cpfairyland.com/product/fairyline60-basic/",
-          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "checkedAt": "2026-10-06",
+            "reason": "官网返回“网站暂时不可用”，原始出处保留，当前改用公开备用入口。"
+          }
         },
         {
           "kind": "官方分版本尺寸表",
           "title": "Measurement Table – CP/FairyLand",
           "url": "https://cpfairyland.com/mega-shop/links/measurement-table/",
-          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值"
+          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "checkedAt": "2026-10-06",
+            "reason": "官网返回“网站暂时不可用”，原始出处保留，当前改用公开备用入口。"
+          }
         }
       ],
       "event": null
@@ -36369,16 +36488,33 @@ window.TOY_COMPARE_DATA = {
       ],
       "sources": [
         {
+          "url": "https://www.denverdoll.com/product-category/ball-jointed-dolls/fairyland/in-stock-fairyland/minifee-in-stock-fairyland/dolls-minifee-in-stock-fairyland/",
+          "title": "Denver Doll · minifee 公开目录",
+          "supports": "可查看本系列产品目录与配置。该目录不是原具体商品的规格证据，也不保证原配置当前在售。",
+          "kind": "海外备用目录",
+          "checkedAt": "2026-10-06"
+        },
+        {
           "kind": "官方产品页",
           "title": "MiniFee Moe Hybrid – CP/FairyLand",
           "url": "https://cpfairyland.com/product/minifee-moe-hybrid/",
-          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "checkedAt": "2026-10-06",
+            "reason": "官网返回“网站暂时不可用”，原始出处保留，当前改用公开备用入口。"
+          }
         },
         {
           "kind": "官方分版本尺寸表",
           "title": "Measurement Table – CP/FairyLand",
           "url": "https://cpfairyland.com/mega-shop/links/measurement-table/",
-          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值"
+          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "checkedAt": "2026-10-06",
+            "reason": "官网返回“网站暂时不可用”，原始出处保留，当前改用公开备用入口。"
+          }
         }
       ],
       "event": null
@@ -36434,16 +36570,33 @@ window.TOY_COMPARE_DATA = {
       ],
       "sources": [
         {
+          "url": "https://www.denverdoll.com/product-category/ball-jointed-dolls/fairyland/in-stock-fairyland/minifee-in-stock-fairyland/dolls-minifee-in-stock-fairyland/",
+          "title": "Denver Doll · minifee 公开目录",
+          "supports": "可查看本系列产品目录与配置。该目录不是原具体商品的规格证据，也不保证原配置当前在售。",
+          "kind": "海外备用目录",
+          "checkedAt": "2026-10-06"
+        },
+        {
           "kind": "官方产品页",
           "title": "MiniFee Basic – Lookback – CP/FairyLand",
           "url": "https://cpfairyland.com/product/minifee-lookback/",
-          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "checkedAt": "2026-10-06",
+            "reason": "官网返回“网站暂时不可用”，原始出处保留，当前改用公开备用入口。"
+          }
         },
         {
           "kind": "官方分版本尺寸表",
           "title": "Measurement Table – CP/FairyLand",
           "url": "https://cpfairyland.com/mega-shop/links/measurement-table/",
-          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值"
+          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "checkedAt": "2026-10-06",
+            "reason": "官网返回“网站暂时不可用”，原始出处保留，当前改用公开备用入口。"
+          }
         }
       ],
       "event": null
@@ -36500,16 +36653,33 @@ window.TOY_COMPARE_DATA = {
       ],
       "sources": [
         {
+          "url": "https://www.denverdoll.com/product-category/ball-jointed-dolls/fairyland/in-stock-fairyland/minifee-in-stock-fairyland/dolls-minifee-in-stock-fairyland/",
+          "title": "Denver Doll · minifee 公开目录",
+          "supports": "可查看本系列产品目录与配置。该目录不是原具体商品的规格证据，也不保证原配置当前在售。",
+          "kind": "海外备用目录",
+          "checkedAt": "2026-10-06"
+        },
+        {
           "kind": "官方产品页",
           "title": "MiniFee a la carte GIRL (New Release Active Line) – CP/FairyLand",
           "url": "https://cpfairyland.com/product/minifee-a-la-carte-girl-new-release-active-line/",
-          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "checkedAt": "2026-10-06",
+            "reason": "官网返回“网站暂时不可用”，原始出处保留，当前改用公开备用入口。"
+          }
         },
         {
           "kind": "官方分版本尺寸表",
           "title": "Measurement Table – CP/FairyLand",
           "url": "https://cpfairyland.com/mega-shop/links/measurement-table/",
-          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值"
+          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "checkedAt": "2026-10-06",
+            "reason": "官网返回“网站暂时不可用”，原始出处保留，当前改用公开备用入口。"
+          }
         }
       ],
       "event": null
@@ -36566,16 +36736,33 @@ window.TOY_COMPARE_DATA = {
       ],
       "sources": [
         {
+          "url": "https://www.denverdoll.com/product-category/ball-jointed-dolls/fairyland/in-stock-fairyland/in-stock-fairyline60-feeple60-feeple65/in-stock-fairyline60-feeple60-feeple65-dolls/",
+          "title": "Denver Doll · feeple60 公开目录",
+          "supports": "可查看本系列产品目录与配置。该目录不是原具体商品的规格证据，也不保证原配置当前在售。",
+          "kind": "海外备用目录",
+          "checkedAt": "2026-10-06"
+        },
+        {
           "kind": "官方产品页",
           "title": "FeePle60 Moe basic – CP/FairyLand",
           "url": "https://cpfairyland.com/product/feeple60-moe-basic/",
-          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "checkedAt": "2026-10-06",
+            "reason": "官网返回“网站暂时不可用”，原始出处保留，当前改用公开备用入口。"
+          }
         },
         {
           "kind": "官方分版本尺寸表",
           "title": "Measurement Table – CP/FairyLand",
           "url": "https://cpfairyland.com/mega-shop/links/measurement-table/",
-          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值"
+          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "checkedAt": "2026-10-06",
+            "reason": "官网返回“网站暂时不可用”，原始出处保留，当前改用公开备用入口。"
+          }
         }
       ],
       "event": null
@@ -36636,16 +36823,33 @@ window.TOY_COMPARE_DATA = {
       ],
       "sources": [
         {
+          "url": "https://www.denverdoll.com/product-category/ball-jointed-dolls/fairyland/in-stock-fairyland/in-stock-fairyline60-feeple60-feeple65/in-stock-fairyline60-feeple60-feeple65-dolls/",
+          "title": "Denver Doll · feeple60 公开目录",
+          "supports": "可查看本系列产品目录与配置。该目录不是原具体商品的规格证据，也不保证原配置当前在售。",
+          "kind": "海外备用目录",
+          "checkedAt": "2026-10-06"
+        },
+        {
           "kind": "官方产品页",
           "title": "FeePle60 Motion (2022 Release) basic – CP/FairyLand",
           "url": "https://cpfairyland.com/product/feeple60-motion-2022-release-basic/",
-          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "checkedAt": "2026-10-06",
+            "reason": "官网返回“网站暂时不可用”，原始出处保留，当前改用公开备用入口。"
+          }
         },
         {
           "kind": "官方分版本尺寸表",
           "title": "Measurement Table – CP/FairyLand",
           "url": "https://cpfairyland.com/mega-shop/links/measurement-table/",
-          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值"
+          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "checkedAt": "2026-10-06",
+            "reason": "官网返回“网站暂时不可用”，原始出处保留，当前改用公开备用入口。"
+          }
         }
       ],
       "event": null
@@ -36701,16 +36905,33 @@ window.TOY_COMPARE_DATA = {
       ],
       "sources": [
         {
+          "url": "https://www.denverdoll.com/product-category/ball-jointed-dolls/fairyland/in-stock-fairyland/in-stock-fairyline60-feeple60-feeple65/in-stock-fairyline60-feeple60-feeple65-dolls/",
+          "title": "Denver Doll · feeple60 公开目录",
+          "supports": "可查看本系列产品目录与配置。该目录不是原具体商品的规格证据，也不保证原配置当前在售。",
+          "kind": "海外备用目录",
+          "checkedAt": "2026-10-06"
+        },
+        {
           "kind": "官方产品页",
           "title": "FeePle60 Basic – Lookback – CP/FairyLand",
           "url": "https://cpfairyland.com/product/feeple60-basic-lookback/",
-          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "checkedAt": "2026-10-06",
+            "reason": "官网返回“网站暂时不可用”，原始出处保留，当前改用公开备用入口。"
+          }
         },
         {
           "kind": "官方分版本尺寸表",
           "title": "Measurement Table – CP/FairyLand",
           "url": "https://cpfairyland.com/mega-shop/links/measurement-table/",
-          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值"
+          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "checkedAt": "2026-10-06",
+            "reason": "官网返回“网站暂时不可用”，原始出处保留，当前改用公开备用入口。"
+          }
         }
       ],
       "event": null
@@ -36762,16 +36983,33 @@ window.TOY_COMPARE_DATA = {
       ],
       "sources": [
         {
+          "url": "https://www.denverdoll.com/product-category/ball-jointed-dolls/fairyland/in-stock-fairyland/minifee-in-stock-fairyland/dolls-minifee-in-stock-fairyland/",
+          "title": "Denver Doll · minifee 公开目录",
+          "supports": "可查看本系列产品目录与配置。该目录不是原具体商品的规格证据，也不保证原配置当前在售。",
+          "kind": "海外备用目录",
+          "checkedAt": "2026-10-06"
+        },
+        {
           "kind": "官方产品页",
           "title": "MiniFee a la carte BOY (New Release Active Line) – CP/FairyLand",
           "url": "https://cpfairyland.com/product/minifee-a-la-carte-boy-new-release-active-line/",
-          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "checkedAt": "2026-10-06",
+            "reason": "官网返回“网站暂时不可用”，原始出处保留，当前改用公开备用入口。"
+          }
         },
         {
           "kind": "官方分版本尺寸表",
           "title": "Measurement Table – CP/FairyLand",
           "url": "https://cpfairyland.com/mega-shop/links/measurement-table/",
-          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值"
+          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "checkedAt": "2026-10-06",
+            "reason": "官网返回“网站暂时不可用”，原始出处保留，当前改用公开备用入口。"
+          }
         }
       ],
       "event": null
@@ -36828,16 +37066,33 @@ window.TOY_COMPARE_DATA = {
       ],
       "sources": [
         {
+          "url": "https://www.denverdoll.com/product-category/ball-jointed-dolls/fairyland/in-stock-fairyland/fairyline-in-stock-fairyland/dolls-fairyline-in-stock-fairyland/",
+          "title": "Denver Doll · fairyline 公开目录",
+          "supports": "可查看本系列产品目录与配置。该目录不是原具体商品的规格证据，也不保证原配置当前在售。",
+          "kind": "海外备用目录",
+          "checkedAt": "2026-10-06"
+        },
+        {
           "kind": "官方产品页",
           "title": "FairyLine Boy basic – CP/FairyLand",
           "url": "https://cpfairyland.com/product/fairyline-boy-basic/",
-          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "checkedAt": "2026-10-06",
+            "reason": "官网返回“网站暂时不可用”，原始出处保留，当前改用公开备用入口。"
+          }
         },
         {
           "kind": "官方分版本尺寸表",
           "title": "Measurement Table – CP/FairyLand",
           "url": "https://cpfairyland.com/mega-shop/links/measurement-table/",
-          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值"
+          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "checkedAt": "2026-10-06",
+            "reason": "官网返回“网站暂时不可用”，原始出处保留，当前改用公开备用入口。"
+          }
         }
       ],
       "event": null
@@ -36894,16 +37149,33 @@ window.TOY_COMPARE_DATA = {
       ],
       "sources": [
         {
+          "url": "https://www.denverdoll.com/product-category/ball-jointed-dolls/fairyland/in-stock-fairyland/fairyline-in-stock-fairyland/dolls-fairyline-in-stock-fairyland/",
+          "title": "Denver Doll · fairyline 公开目录",
+          "supports": "可查看本系列产品目录与配置。该目录不是原具体商品的规格证据，也不保证原配置当前在售。",
+          "kind": "海外备用目录",
+          "checkedAt": "2026-10-06"
+        },
+        {
           "kind": "官方产品页",
           "title": "FairyLine Girl basic – CP/FairyLand",
           "url": "https://cpfairyland.com/product/fairyline-girl-basic/",
-          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "checkedAt": "2026-10-06",
+            "reason": "官网返回“网站暂时不可用”，原始出处保留，当前改用公开备用入口。"
+          }
         },
         {
           "kind": "官方分版本尺寸表",
           "title": "Measurement Table – CP/FairyLand",
           "url": "https://cpfairyland.com/mega-shop/links/measurement-table/",
-          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值"
+          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "checkedAt": "2026-10-06",
+            "reason": "官网返回“网站暂时不可用”，原始出处保留，当前改用公开备用入口。"
+          }
         }
       ],
       "event": null
@@ -36960,16 +37232,33 @@ window.TOY_COMPARE_DATA = {
       ],
       "sources": [
         {
+          "url": "https://www.denverdoll.com/product-category/ball-jointed-dolls/fairyland/in-stock-fairyland/minifee-in-stock-fairyland/dolls-minifee-in-stock-fairyland/",
+          "title": "Denver Doll · minifee 公开目录",
+          "supports": "可查看本系列产品目录与配置。该目录不是原具体商品的规格证据，也不保证原配置当前在售。",
+          "kind": "海外备用目录",
+          "checkedAt": "2026-10-06"
+        },
+        {
           "kind": "官方产品页",
           "title": "MiniFee a la carte Boy (Motion Line) – CP/FairyLand",
           "url": "https://cpfairyland.com/product/minifee-a-la-carte-boy-motion-line/",
-          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "checkedAt": "2026-10-06",
+            "reason": "官网返回“网站暂时不可用”，原始出处保留，当前改用公开备用入口。"
+          }
         },
         {
           "kind": "官方分版本尺寸表",
           "title": "Measurement Table – CP/FairyLand",
           "url": "https://cpfairyland.com/mega-shop/links/measurement-table/",
-          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值"
+          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "checkedAt": "2026-10-06",
+            "reason": "官网返回“网站暂时不可用”，原始出处保留，当前改用公开备用入口。"
+          }
         }
       ],
       "event": null
@@ -37030,16 +37319,33 @@ window.TOY_COMPARE_DATA = {
       ],
       "sources": [
         {
+          "url": "https://www.denverdoll.com/product-category/ball-jointed-dolls/fairyland/in-stock-fairyland/minifee-in-stock-fairyland/dolls-minifee-in-stock-fairyland/",
+          "title": "Denver Doll · minifee 公开目录",
+          "supports": "可查看本系列产品目录与配置。该目录不是原具体商品的规格证据，也不保证原配置当前在售。",
+          "kind": "海外备用目录",
+          "checkedAt": "2026-10-06"
+        },
+        {
           "kind": "官方产品页",
           "title": "MiniFee a la carte BOY (Moe Line) – CP/FairyLand",
           "url": "https://cpfairyland.com/product/minifee-a-la-carte-boy-moe-line/",
-          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "checkedAt": "2026-10-06",
+            "reason": "官网返回“网站暂时不可用”，原始出处保留，当前改用公开备用入口。"
+          }
         },
         {
           "kind": "官方分版本尺寸表",
           "title": "Measurement Table – CP/FairyLand",
           "url": "https://cpfairyland.com/mega-shop/links/measurement-table/",
-          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值"
+          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "checkedAt": "2026-10-06",
+            "reason": "官网返回“网站暂时不可用”，原始出处保留，当前改用公开备用入口。"
+          }
         }
       ],
       "event": null
@@ -37100,16 +37406,33 @@ window.TOY_COMPARE_DATA = {
       ],
       "sources": [
         {
+          "url": "https://www.denverdoll.com/product-category/ball-jointed-dolls/fairyland/in-stock-fairyland/minifee-in-stock-fairyland/dolls-minifee-in-stock-fairyland/",
+          "title": "Denver Doll · minifee 公开目录",
+          "supports": "可查看本系列产品目录与配置。该目录不是原具体商品的规格证据，也不保证原配置当前在售。",
+          "kind": "海外备用目录",
+          "checkedAt": "2026-10-06"
+        },
+        {
           "kind": "官方产品页",
           "title": "MiniFee a la carte GIRL (Moe Line) – CP/FairyLand",
           "url": "https://cpfairyland.com/product/minifee-a-la-carte-girl-moe-line/",
-          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "checkedAt": "2026-10-06",
+            "reason": "官网返回“网站暂时不可用”，原始出处保留，当前改用公开备用入口。"
+          }
         },
         {
           "kind": "官方分版本尺寸表",
           "title": "Measurement Table – CP/FairyLand",
           "url": "https://cpfairyland.com/mega-shop/links/measurement-table/",
-          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值"
+          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "checkedAt": "2026-10-06",
+            "reason": "官网返回“网站暂时不可用”，原始出处保留，当前改用公开备用入口。"
+          }
         }
       ],
       "event": null
@@ -40464,6 +40787,5726 @@ window.TOY_COMPARE_DATA = {
           "name": "出島アイ"
         }
       ]
+    },
+    {
+      "id": "dollmore-body-10000",
+      "name": "Kid Dollmore Boy Body (Normal)",
+      "brand": "Dollmore",
+      "original": "Kid Dollmore Boy Body (Normal)",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "拉筋连接"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "已组装的单售身体，不含展示头、假发及衣装。以本商品页列出的身体、脚型与配套为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "原页混列带头、示例或未说明口径的全高，未取得这款实际交付配置的独立高度，主要高度保持未知。"
+        },
+        {
+          "title": "头部连接",
+          "text": "Kid 系列列 MSD 头型参考，Dear 系列列 6–7 英寸头围参考；身体不含头，仍需核对颈围与接口。"
+        },
+        {
+          "title": "脚部参考",
+          "text": "原页列脚长 6.0 cm；鞋的内长、宽度与高跟／平脚仍须分别匹配。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.dollmore.net/Product/Detail/view/pid/10000/cid/149",
+          "title": "Kid Dollmore Boy Body (Normal)",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollmore-body-10001",
+      "name": "Kid Dollmore Girl Body (Normal)",
+      "brand": "Dollmore",
+      "original": "Kid Dollmore Girl Body (Normal)",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "拉筋连接"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "已组装的单售身体，不含展示头、假发及衣装。以本商品页列出的身体、脚型与配套为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "原页混列带头、示例或未说明口径的全高，未取得这款实际交付配置的独立高度，主要高度保持未知。"
+        },
+        {
+          "title": "头部连接",
+          "text": "Kid 系列列 MSD 头型参考，Dear 系列列 6–7 英寸头围参考；身体不含头，仍需核对颈围与接口。"
+        },
+        {
+          "title": "脚部参考",
+          "text": "原页列脚长 6.0 cm；鞋的内长、宽度与高跟／平脚仍须分别匹配。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.dollmore.net/Product/Detail/view/pid/10001/cid/149",
+          "title": "Kid Dollmore Girl Body (Normal)",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollmore-body-10002",
+      "name": "Model Doll F - Body",
+      "brand": "Dollmore",
+      "original": "Model Doll F - Body",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": 595,
+      "heightBasis": "官方明确列出的无头身体高度",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "身体高 59.5 cm",
+          "basis": "官方无头身体高度；原页 Body length not include a head"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "已组装的单售身体，不含展示头、假发及衣装。以本商品页列出的身体、脚型与配套为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主要高度为官方尺寸表明确注明的无头身体高度；带头全高另列于原页，不代入单售身体。"
+        },
+        {
+          "title": "脚部参考",
+          "text": "原页列脚长 7.5 cm；鞋的内长、宽度与高跟／平脚仍须分别匹配。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.dollmore.net/Product/Detail/view/pid/10002/cid/149",
+          "title": "Model Doll F - Body",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollmore-body-10003",
+      "name": "Model Doll F - High heels Body (Normal)",
+      "brand": "Dollmore",
+      "original": "Model Doll F - High heels Body (Normal)",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": 630,
+      "heightBasis": "官方明确列出的无头身体高度",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "身体高 63 cm",
+          "basis": "官方无头身体高度；原页 Body length not include a head"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "已组装的单售身体，不含展示头、假发及衣装。以本商品页列出的身体、脚型与配套为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主要高度为官方尺寸表明确注明的无头身体高度；带头全高另列于原页，不代入单售身体。"
+        },
+        {
+          "title": "原页数据差异",
+          "text": "尺寸表无头身体为 63 cm，另一段文字写无头约 64 cm；本记录采用明确的 Body length 表项，并保留该差异。"
+        },
+        {
+          "title": "脚部参考",
+          "text": "原页列脚长 8 cm；鞋的内长、宽度与高跟／平脚仍须分别匹配。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.dollmore.net/Product/Detail/view/pid/10003/cid/149",
+          "title": "Model Doll F - High heels Body (Normal)",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollmore-body-10004",
+      "name": "Youth Dollmore Eve Body (Normal Skin)",
+      "brand": "Dollmore",
+      "original": "Youth Dollmore Eve Body (Normal Skin)",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "已组装的单售身体，不含展示头、假发及衣装。以本商品页列出的身体、脚型与配套为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "原页混列带头、示例或未说明口径的全高，未取得这款实际交付配置的独立高度，主要高度保持未知。"
+        },
+        {
+          "title": "脚部参考",
+          "text": "原页列脚长 6.5 cm；鞋的内长、宽度与高跟／平脚仍须分别匹配。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.dollmore.net/Product/Detail/view/pid/10004/cid/149",
+          "title": "Youth Dollmore Eve Body (Normal Skin)",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollmore-body-10005",
+      "name": "Youth Dollmore Eve Body (White Skin)",
+      "brand": "Dollmore",
+      "original": "Youth Dollmore Eve Body (White Skin)",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "已组装的单售身体，不含展示头、假发及衣装。以本商品页列出的身体、脚型与配套为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "原页混列带头、示例或未说明口径的全高，未取得这款实际交付配置的独立高度，主要高度保持未知。"
+        },
+        {
+          "title": "脚部参考",
+          "text": "原页列脚长 6.5 cm；鞋的内长、宽度与高跟／平脚仍须分别匹配。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.dollmore.net/Product/Detail/view/pid/10005/cid/149",
+          "title": "Youth Dollmore Eve Body (White Skin)",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollmore-body-10193",
+      "name": "Fashion Doll - Tension Arm Body",
+      "brand": "Dollmore",
+      "original": "Fashion Doll - Tension Arm Body",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "拉筋连接"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "已组装的单售身体，不含展示头、假发及衣装。以本商品页列出的身体、脚型与配套为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "原页混列带头、示例或未说明口径的全高，未取得这款实际交付配置的独立高度，主要高度保持未知。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.dollmore.net/Product/Detail/view/pid/10193/cid/149",
+          "title": "Fashion Doll - Tension Arm Body",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollmore-body-10218",
+      "name": "12 inch Dollmore Doll Basic Body (ABS/Normal Skin)",
+      "brand": "Dollmore",
+      "original": "12 inch Dollmore Doll Basic Body (ABS/Normal Skin)",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "ABS"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "已组装的单售身体，不含展示头、假发及衣装。以本商品页列出的身体、脚型与配套为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "原页混列带头、示例或未说明口径的全高，未取得这款实际交付配置的独立高度，主要高度保持未知。"
+        },
+        {
+          "title": "头与衣鞋适配",
+          "text": "官方列 Barbie、OBITSU 等头型参考；挂钩连接需相应颈部适配件。可穿部分 Barbie 衣服，Barbie 鞋不适配，不能泛化为所有 1/6 配件通用。"
+        },
+        {
+          "title": "脚部参考",
+          "text": "原页列脚长 2.6 cm；鞋的内长、宽度与高跟／平脚仍须分别匹配。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.dollmore.net/Product/Detail/view/pid/10218/cid/149",
+          "title": "12 inch Dollmore Doll Basic Body (ABS/Normal Skin)",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollmore-body-10219",
+      "name": "12 inch Dollmore Doll Body (Resin)(Instant Shipping)",
+      "brand": "Dollmore",
+      "original": "12 inch Dollmore Doll Body (Resin)(Instant Shipping)",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "已组装的单售身体，不含展示头、假发及衣装。以本商品页列出的身体、脚型与配套为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "原页混列带头、示例或未说明口径的全高，未取得这款实际交付配置的独立高度，主要高度保持未知。"
+        },
+        {
+          "title": "头与衣鞋适配",
+          "text": "官方列 Barbie、OBITSU 等头型参考；挂钩连接需相应颈部适配件。可穿部分 Barbie 衣服，Barbie 鞋不适配，不能泛化为所有 1/6 配件通用。"
+        },
+        {
+          "title": "脚部参考",
+          "text": "原页列脚长 2.6 cm；鞋的内长、宽度与高跟／平脚仍须分别匹配。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.dollmore.net/Product/Detail/view/pid/10219/cid/149",
+          "title": "12 inch Dollmore Doll Body (Resin)(Instant Shipping)",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollmore-body-19554",
+      "name": "Lusion Boy Body",
+      "brand": "Dollmore",
+      "original": "Lusion Boy Body",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "已组装的单售身体，不含展示头、假发及衣装。以本商品页列出的身体、脚型与配套为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "原页混列带头、示例或未说明口径的全高，未取得这款实际交付配置的独立高度，主要高度保持未知。"
+        },
+        {
+          "title": "脚部参考",
+          "text": "原页列脚长 13 cm；鞋的内长、宽度与高跟／平脚仍须分别匹配。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.dollmore.net/Product/Detail/view/pid/19554/cid/149",
+          "title": "Lusion Boy Body",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollmore-body-20589",
+      "name": "Judith Girl Doll - Body (Include High heels Feet )",
+      "brand": "Dollmore",
+      "original": "Judith Girl Doll - Body (Include High heels Feet )",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": 392,
+      "heightBasis": "官方明确列出的无头身体高度",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "身体高 39.2 cm",
+          "basis": "官方无头身体高度；原页 Body length not include a head"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "已组装的单售身体，不含展示头、假发及衣装。以本商品页列出的身体、脚型与配套为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主要高度为官方尺寸表明确注明的无头身体高度；带头全高另列于原页，不代入单售身体。"
+        },
+        {
+          "title": "脚部参考",
+          "text": "原页列脚长 5.8 cm；鞋的内长、宽度与高跟／平脚仍须分别匹配。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.dollmore.net/Product/Detail/view/pid/20589/cid/149",
+          "title": "Judith Girl Doll - Body (Include High heels Feet )",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollmore-body-20784",
+      "name": "Bebe Doll Body",
+      "brand": "Dollmore",
+      "original": "Bebe Doll Body",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "已组装的单售身体，不含展示头、假发及衣装。以本商品页列出的身体、脚型与配套为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "原页混列带头、示例或未说明口径的全高，未取得这款实际交付配置的独立高度，主要高度保持未知。"
+        },
+        {
+          "title": "脚部参考",
+          "text": "原页列脚长 2 cm；鞋的内长、宽度与高跟／平脚仍须分别匹配。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.dollmore.net/Product/Detail/view/pid/20784/cid/149",
+          "title": "Bebe Doll Body",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollmore-body-20785",
+      "name": "Lusion Girl Body",
+      "brand": "Dollmore",
+      "original": "Lusion Girl Body",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "已组装的单售身体，不含展示头、假发及衣装。以本商品页列出的身体、脚型与配套为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "原页混列带头、示例或未说明口径的全高，未取得这款实际交付配置的独立高度，主要高度保持未知。"
+        },
+        {
+          "title": "脚部参考",
+          "text": "原页列脚长 12 cm；鞋的内长、宽度与高跟／平脚仍须分别匹配。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.dollmore.net/Product/Detail/view/pid/20785/cid/149",
+          "title": "Lusion Girl Body",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollmore-body-20797",
+      "name": "Mokashura Doll Body",
+      "brand": "Dollmore",
+      "original": "Mokashura Doll Body",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "已组装的单售身体，不含展示头、假发及衣装。以本商品页列出的身体、脚型与配套为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "原页混列带头、示例或未说明口径的全高，未取得这款实际交付配置的独立高度，主要高度保持未知。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.dollmore.net/Product/Detail/view/pid/20797/cid/149",
+          "title": "Mokashura Doll Body",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollmore-body-21244",
+      "name": "Trinity Doll F - Body",
+      "brand": "Dollmore",
+      "original": "Trinity Doll F - Body",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": 920,
+      "heightBasis": "官方明确列出的无头身体高度",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "身体高 92 cm",
+          "basis": "官方无头身体高度；原页 Body length not include a head"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "已组装的单售身体，不含展示头、假发及衣装。以本商品页列出的身体、脚型与配套为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主要高度为官方尺寸表明确注明的无头身体高度；带头全高另列于原页，不代入单售身体。"
+        },
+        {
+          "title": "颈件与换头",
+          "text": "配 Trinity 女头；13–14 英寸头围是适配范围。需按具体头型选择颈件，未指定会随机配置，换用另一颈件可能需要重新组装整身；附赠颈件可能存在色差。"
+        },
+        {
+          "title": "脚部参考",
+          "text": "原页列脚长 12.5 cm；鞋的内长、宽度与高跟／平脚仍须分别匹配。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.dollmore.net/Product/Detail/view/pid/21244/cid/149",
+          "title": "Trinity Doll F - Body",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollmore-body-21335",
+      "name": "Trinity Doll M - Body",
+      "brand": "Dollmore",
+      "original": "Trinity Doll M - Body",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": 1100,
+      "heightBasis": "官方明确列出的无头身体高度",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "身体高 110 cm",
+          "basis": "官方无头身体高度；原页 Body length not include a head"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "已组装的单售身体，不含展示头、假发及衣装。以本商品页列出的身体、脚型与配套为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主要高度为官方尺寸表明确注明的无头身体高度；带头全高另列于原页，不代入单售身体。"
+        },
+        {
+          "title": "头型限制",
+          "text": "适配 13–14 英寸 Trinity 男头，官网明确不兼容 Trinity 女头；122 cm 是带头全高，身体为 110 cm。"
+        },
+        {
+          "title": "脚部参考",
+          "text": "原页列脚长 16 cm；鞋的内长、宽度与高跟／平脚仍须分别匹配。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.dollmore.net/Product/Detail/view/pid/21335/cid/149",
+          "title": "Trinity Doll M - Body",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollmore-body-21519",
+      "name": "Model Doll F - Body (L.Suntan)",
+      "brand": "Dollmore",
+      "original": "Model Doll F - Body (L.Suntan)",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": 595,
+      "heightBasis": "官方明确列出的无头身体高度",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "身体高 59.5 cm",
+          "basis": "官方无头身体高度；原页 Body length not include a head"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "已组装的单售身体，不含展示头、假发及衣装。以本商品页列出的身体、脚型与配套为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主要高度为官方尺寸表明确注明的无头身体高度；带头全高另列于原页，不代入单售身体。"
+        },
+        {
+          "title": "脚部参考",
+          "text": "原页列脚长 7.5 cm；鞋的内长、宽度与高跟／平脚仍须分别匹配。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.dollmore.net/Product/Detail/view/pid/21519/cid/149",
+          "title": "Model Doll F - Body (L.Suntan)",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollmore-body-21520",
+      "name": "Dollmore Narsha Doll Body",
+      "brand": "Dollmore",
+      "original": "Dollmore Narsha Doll Body",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "已组装的单售身体，不含展示头、假发及衣装。以本商品页列出的身体、脚型与配套为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "原页混列带头、示例或未说明口径的全高，未取得这款实际交付配置的独立高度，主要高度保持未知。"
+        },
+        {
+          "title": "版本与头型",
+          "text": "Narsha 单售身体；旧 French Resin 头不单独出售。21520 页面包含性别与肤色选项，不能当作固定单一身体版本。"
+        },
+        {
+          "title": "脚部参考",
+          "text": "原页列脚长 5 cm；鞋的内长、宽度与高跟／平脚仍须分别匹配。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.dollmore.net/Product/Detail/view/pid/21520/cid/149",
+          "title": "Dollmore Narsha Doll Body",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollmore-body-21540",
+      "name": "Model Doll F - Glamour Body",
+      "brand": "Dollmore",
+      "original": "Model Doll F - Glamour Body",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": 595,
+      "heightBasis": "官方明确列出的无头身体高度",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "身体高 59.5 cm",
+          "basis": "官方无头身体高度；原页 Body length not include a head"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "已组装的单售身体，不含展示头、假发及衣装。以本商品页列出的身体、脚型与配套为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主要高度为官方尺寸表明确注明的无头身体高度；带头全高另列于原页，不代入单售身体。"
+        },
+        {
+          "title": "脚部参考",
+          "text": "原页列脚长 7.5 cm；鞋的内长、宽度与高跟／平脚仍须分别匹配。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.dollmore.net/Product/Detail/view/pid/21540/cid/149",
+          "title": "Model Doll F - Glamour Body",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollmore-body-22552",
+      "name": "Illua Doll - Boy Body",
+      "brand": "Dollmore",
+      "original": "Illua Doll - Boy Body",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "已组装的单售身体，不含展示头、假发及衣装。以本商品页列出的身体、脚型与配套为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "原页混列带头、示例或未说明口径的全高，未取得这款实际交付配置的独立高度，主要高度保持未知。"
+        },
+        {
+          "title": "衣装适配",
+          "text": "官方只说明部分 SD 内衣、衣服或鞋可用，须按围度和具体鞋型核对；不是整套 SD 配件通用。"
+        },
+        {
+          "title": "脚部参考",
+          "text": "原页列脚长 7.2 cm；鞋的内长、宽度与高跟／平脚仍须分别匹配。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.dollmore.net/Product/Detail/view/pid/22552/cid/149",
+          "title": "Illua Doll - Boy Body",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollmore-body-22642",
+      "name": "12\" Dollmore Doll Basic Body (ABS/Light Normal Matt Skin)",
+      "brand": "Dollmore",
+      "original": "12\" Dollmore Doll Basic Body (ABS/Light Normal Matt Skin)",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "ABS"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "已组装的单售身体，不含展示头、假发及衣装。以本商品页列出的身体、脚型与配套为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "原页混列带头、示例或未说明口径的全高，未取得这款实际交付配置的独立高度，主要高度保持未知。"
+        },
+        {
+          "title": "头与衣鞋适配",
+          "text": "官方列 Barbie、OBITSU 等头型参考；挂钩连接需相应颈部适配件。可穿部分 Barbie 衣服，Barbie 鞋不适配，不能泛化为所有 1/6 配件通用。"
+        },
+        {
+          "title": "脚部参考",
+          "text": "原页列脚长 2.6 cm；鞋的内长、宽度与高跟／平脚仍须分别匹配。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.dollmore.net/Product/Detail/view/pid/22642/cid/149",
+          "title": "12\" Dollmore Doll Basic Body (ABS/Light Normal Matt Skin)",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollmore-body-22646",
+      "name": "12\" Dollmore Doll Basic Body (ABS/Dark Normal Matt Skin)",
+      "brand": "Dollmore",
+      "original": "12\" Dollmore Doll Basic Body (ABS/Dark Normal Matt Skin)",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "ABS"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "已组装的单售身体，不含展示头、假发及衣装。以本商品页列出的身体、脚型与配套为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "原页混列带头、示例或未说明口径的全高，未取得这款实际交付配置的独立高度，主要高度保持未知。"
+        },
+        {
+          "title": "头与衣鞋适配",
+          "text": "官方列 Barbie、OBITSU 等头型参考；挂钩连接需相应颈部适配件。可穿部分 Barbie 衣服，Barbie 鞋不适配，不能泛化为所有 1/6 配件通用。"
+        },
+        {
+          "title": "脚部参考",
+          "text": "原页列脚长 2.6 cm；鞋的内长、宽度与高跟／平脚仍须分别匹配。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.dollmore.net/Product/Detail/view/pid/22646/cid/149",
+          "title": "12\" Dollmore Doll Basic Body (ABS/Dark Normal Matt Skin)",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollmore-body-22647",
+      "name": "12inch Dollmore Doll Basic Body (ABS/Dark Normal Skin)",
+      "brand": "Dollmore",
+      "original": "12inch Dollmore Doll Basic Body (ABS/Dark Normal Skin)",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "ABS"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "已组装的单售身体，不含展示头、假发及衣装。以本商品页列出的身体、脚型与配套为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "原页混列带头、示例或未说明口径的全高，未取得这款实际交付配置的独立高度，主要高度保持未知。"
+        },
+        {
+          "title": "头与衣鞋适配",
+          "text": "官方列 Barbie、OBITSU 等头型参考；挂钩连接需相应颈部适配件。可穿部分 Barbie 衣服，Barbie 鞋不适配，不能泛化为所有 1/6 配件通用。"
+        },
+        {
+          "title": "脚部参考",
+          "text": "原页列脚长 2.6 cm；鞋的内长、宽度与高跟／平脚仍须分别匹配。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.dollmore.net/Product/Detail/view/pid/22647/cid/149",
+          "title": "12inch Dollmore Doll Basic Body (ABS/Dark Normal Skin)",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollmore-body-22687",
+      "name": "Lukia · ABS 含头成品 · 哑光修整版",
+      "brand": "Dollmore",
+      "original": "12inch Dollmore Doll Basic Body (ABS/Light Normal Matt Skin)",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "ABS"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "身体与 Lukia 头已组装；两款分别包含或不包含表面修整，不含衣装。商品标题虽写 Body，交付清单明确含头。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "原页混列带头、示例或未说明口径的全高，未取得这款实际交付配置的独立高度，主要高度保持未知。"
+        },
+        {
+          "title": "头与衣鞋适配",
+          "text": "官方列 Barbie、OBITSU 等头型参考；挂钩连接需相应颈部适配件。可穿部分 Barbie 衣服，Barbie 鞋不适配，不能泛化为所有 1/6 配件通用。"
+        },
+        {
+          "title": "脚部参考",
+          "text": "原页列脚长 2.6 cm；鞋的内长、宽度与高跟／平脚仍须分别匹配。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.dollmore.net/Product/Detail/view/pid/22687/cid/149",
+          "title": "12inch Dollmore Doll Basic Body (ABS/Light Normal Matt Skin)",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollmore-body-22688",
+      "name": "Lukia · ABS 含头成品 · 未修整版",
+      "brand": "Dollmore",
+      "original": "Neo Lukia Doll - Lukia Head + Body (ABS/Light Normal Skin)",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "ABS"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "身体与 Lukia 头已组装；两款分别包含或不包含表面修整，不含衣装。商品标题虽写 Body，交付清单明确含头。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "原页混列带头、示例或未说明口径的全高，未取得这款实际交付配置的独立高度，主要高度保持未知。"
+        },
+        {
+          "title": "头与衣鞋适配",
+          "text": "官方列 Barbie、OBITSU 等头型参考；挂钩连接需相应颈部适配件。可穿部分 Barbie 衣服，Barbie 鞋不适配，不能泛化为所有 1/6 配件通用。"
+        },
+        {
+          "title": "脚部参考",
+          "text": "原页列脚长 2.6 cm；鞋的内长、宽度与高跟／平脚仍须分别匹配。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.dollmore.net/Product/Detail/view/pid/22688/cid/149",
+          "title": "Neo Lukia Doll - Lukia Head + Body (ABS/Light Normal Skin)",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollmore-body-22689",
+      "name": "12inch Dollmore Doll Basic Unassembled Body (ABS/Light Normal Skin)",
+      "brand": "Dollmore",
+      "original": "12inch Dollmore Doll Basic Unassembled Body (ABS/Light Normal Skin)",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "kit",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "拉筋连接"
+        ],
+        "delivery": [
+          "待拼装",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "ABS"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "未组装身体含高跟脚、拉筋、颈延长件及颈环；不含头，平脚另售。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "原页混列带头、示例或未说明口径的全高，未取得这款实际交付配置的独立高度，主要高度保持未知。"
+        },
+        {
+          "title": "头与衣鞋适配",
+          "text": "官方列 Barbie、OBITSU 等头型参考；挂钩连接需相应颈部适配件。可穿部分 Barbie 衣服，Barbie 鞋不适配，不能泛化为所有 1/6 配件通用。"
+        },
+        {
+          "title": "脚部参考",
+          "text": "原页列脚长 2.6 cm；鞋的内长、宽度与高跟／平脚仍须分别匹配。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.dollmore.net/Product/Detail/view/pid/22689/cid/149",
+          "title": "12inch Dollmore Doll Basic Unassembled Body (ABS/Light Normal Skin)",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollmore-body-22690",
+      "name": "12inch Dollmore Doll Basic Unassembled Body (ABS/Dark Normal Skin)",
+      "brand": "Dollmore",
+      "original": "12inch Dollmore Doll Basic Unassembled Body (ABS/Dark Normal Skin)",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "kit",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "拉筋连接"
+        ],
+        "delivery": [
+          "待拼装",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "ABS"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "未组装身体含高跟脚、拉筋、颈延长件及颈环；不含头，平脚另售。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "原页混列带头、示例或未说明口径的全高，未取得这款实际交付配置的独立高度，主要高度保持未知。"
+        },
+        {
+          "title": "头与衣鞋适配",
+          "text": "官方列 Barbie、OBITSU 等头型参考；挂钩连接需相应颈部适配件。可穿部分 Barbie 衣服，Barbie 鞋不适配，不能泛化为所有 1/6 配件通用。"
+        },
+        {
+          "title": "脚部参考",
+          "text": "原页列脚长 2.6 cm；鞋的内长、宽度与高跟／平脚仍须分别匹配。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.dollmore.net/Product/Detail/view/pid/22690/cid/149",
+          "title": "12inch Dollmore Doll Basic Unassembled Body (ABS/Dark Normal Skin)",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollmore-body-22835",
+      "name": "Model Doll F - High heels Body (Normal), shoes blushed in black color",
+      "brand": "Dollmore",
+      "original": "Model Doll F - High heels Body (Normal), shoes blushed in black color",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": 630,
+      "heightBasis": "官方明确列出的无头身体高度",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "身体高 63 cm",
+          "basis": "官方无头身体高度；原页 Body length not include a head"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "已组装的单售身体，不含展示头、假发及衣装。以本商品页列出的身体、脚型与配套为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主要高度为官方尺寸表明确注明的无头身体高度；带头全高另列于原页，不代入单售身体。"
+        },
+        {
+          "title": "原页数据差异",
+          "text": "尺寸表无头身体为 63 cm，另一段文字写无头约 64 cm；本记录采用明确的 Body length 表项，并保留该差异。"
+        },
+        {
+          "title": "脚部参考",
+          "text": "原页列脚长 8 cm；鞋的内长、宽度与高跟／平脚仍须分别匹配。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.dollmore.net/Product/Detail/view/pid/22835/cid/149",
+          "title": "Model Doll F - High heels Body (Normal), shoes blushed in black color",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollmore-body-23509",
+      "name": "Model Doll M - Body (Normal)",
+      "brand": "Dollmore",
+      "original": "Model Doll M - Body (Normal)",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "已组装的单售身体，不含展示头、假发及衣装。以本商品页列出的身体、脚型与配套为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "原页混列带头、示例或未说明口径的全高，未取得这款实际交付配置的独立高度，主要高度保持未知。"
+        },
+        {
+          "title": "原页数据冲突",
+          "text": "韩文段落列带头 68 cm／无头 62.5 cm，英文又列 71 cm，颈围也有 8.4、11、11.5 cm 等值；未合成单一主高度或统一颈围。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.dollmore.net/Product/Detail/view/pid/23509/cid/149",
+          "title": "Model Doll M - Body (Normal)",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollmore-body-9990",
+      "name": "(New) Youth Dollmore Adam Body(Normal Skin)",
+      "brand": "Dollmore",
+      "original": "(New) Youth Dollmore Adam Body(Normal Skin)",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "已组装的单售身体，不含展示头、假发及衣装。以本商品页列出的身体、脚型与配套为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "原页混列带头、示例或未说明口径的全高，未取得这款实际交付配置的独立高度，主要高度保持未知。"
+        },
+        {
+          "title": "脚部参考",
+          "text": "原页列脚长 7 cm；鞋的内长、宽度与高跟／平脚仍须分别匹配。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.dollmore.net/Product/Detail/view/pid/9990/cid/149",
+          "title": "(New) Youth Dollmore Adam Body(Normal Skin)",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollmore-body-9991",
+      "name": "Ballerina Kid - Body (Normal)",
+      "brand": "Dollmore",
+      "original": "Ballerina Kid - Body (Normal)",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": 405,
+      "heightBasis": "官方明确列出的无头身体高度",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "身体高 40.5 cm",
+          "basis": "官方无头身体高度；原页 Body length not include a head"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "已组装的单售身体，不含展示头、假发及衣装。以本商品页列出的身体、脚型与配套为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主要高度为官方尺寸表明确注明的无头身体高度；带头全高另列于原页，不代入单售身体。"
+        },
+        {
+          "title": "脚部参考",
+          "text": "原页列脚长 5.8 cm；鞋的内长、宽度与高跟／平脚仍须分别匹配。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.dollmore.net/Product/Detail/view/pid/9991/cid/149",
+          "title": "Ballerina Kid - Body (Normal)",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollmore-body-9992",
+      "name": "Dear Doll Boy Body (White Skin)",
+      "brand": "Dollmore",
+      "original": "Dear Doll Boy Body (White Skin)",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "已组装的单售身体，不含展示头、假发及衣装。以本商品页列出的身体、脚型与配套为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "原页混列带头、示例或未说明口径的全高，未取得这款实际交付配置的独立高度，主要高度保持未知。"
+        },
+        {
+          "title": "头部连接",
+          "text": "Kid 系列列 MSD 头型参考，Dear 系列列 6–7 英寸头围参考；身体不含头，仍需核对颈围与接口。"
+        },
+        {
+          "title": "脚部参考",
+          "text": "原页列脚长 3.7 cm；鞋的内长、宽度与高跟／平脚仍须分别匹配。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.dollmore.net/Product/Detail/view/pid/9992/cid/149",
+          "title": "Dear Doll Boy Body (White Skin)",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollmore-body-9993",
+      "name": "Dear Doll Boy Simply Body (Normal Skin)",
+      "brand": "Dollmore",
+      "original": "Dear Doll Boy Simply Body (Normal Skin)",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "已组装的单售身体，不含展示头、假发及衣装。以本商品页列出的身体、脚型与配套为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "原页混列带头、示例或未说明口径的全高，未取得这款实际交付配置的独立高度，主要高度保持未知。"
+        },
+        {
+          "title": "头部连接",
+          "text": "Kid 系列列 MSD 头型参考，Dear 系列列 6–7 英寸头围参考；身体不含头，仍需核对颈围与接口。"
+        },
+        {
+          "title": "脚部参考",
+          "text": "原页列脚长 3.7 cm；鞋的内长、宽度与高跟／平脚仍须分别匹配。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.dollmore.net/Product/Detail/view/pid/9993/cid/149",
+          "title": "Dear Doll Boy Simply Body (Normal Skin)",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollmore-body-9994",
+      "name": "Dear Doll Girl Simply Body (Normal Skin)",
+      "brand": "Dollmore",
+      "original": "Dear Doll Girl Simply Body (Normal Skin)",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "已组装的单售身体，不含展示头、假发及衣装。以本商品页列出的身体、脚型与配套为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "原页混列带头、示例或未说明口径的全高，未取得这款实际交付配置的独立高度，主要高度保持未知。"
+        },
+        {
+          "title": "原页翻译差异",
+          "text": "商品标题与韩文组成写女体，英文 Included 段误写 boy；按具体商品标题保留女体并注明翻译差异。"
+        },
+        {
+          "title": "头部连接",
+          "text": "Kid 系列列 MSD 头型参考，Dear 系列列 6–7 英寸头围参考；身体不含头，仍需核对颈围与接口。"
+        },
+        {
+          "title": "脚部参考",
+          "text": "原页列脚长 3.7 cm；鞋的内长、宽度与高跟／平脚仍须分别匹配。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.dollmore.net/Product/Detail/view/pid/9994/cid/149",
+          "title": "Dear Doll Girl Simply Body (Normal Skin)",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollmore-body-9995",
+      "name": "Dollmore Narsha Doll Body (White)",
+      "brand": "Dollmore",
+      "original": "Dollmore Narsha Doll Body (White)",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "已组装的单售身体，不含展示头、假发及衣装。以本商品页列出的身体、脚型与配套为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "原页混列带头、示例或未说明口径的全高，未取得这款实际交付配置的独立高度，主要高度保持未知。"
+        },
+        {
+          "title": "版本与头型",
+          "text": "白肤 Narsha 女体采用树脂；不将旧 French Resin 名称套用于本身体材料。"
+        },
+        {
+          "title": "脚部参考",
+          "text": "原页列脚长 5 cm；鞋的内长、宽度与高跟／平脚仍须分别匹配。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.dollmore.net/Product/Detail/view/pid/9995/cid/149",
+          "title": "Dollmore Narsha Doll Body (White)",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollmore-body-9997",
+      "name": "Glamor Eve Doll - Body (Normal)",
+      "brand": "Dollmore",
+      "original": "Glamor Eve Doll - Body (Normal)",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "已组装的单售身体，不含展示头、假发及衣装。以本商品页列出的身体、脚型与配套为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "原页混列带头、示例或未说明口径的全高，未取得这款实际交付配置的独立高度，主要高度保持未知。"
+        },
+        {
+          "title": "脚部参考",
+          "text": "原页列脚长 6 cm；鞋的内长、宽度与高跟／平脚仍须分别匹配。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.dollmore.net/Product/Detail/view/pid/9997/cid/149",
+          "title": "Glamor Eve Doll - Body (Normal)",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollmore-body-9998",
+      "name": "Glamor Model Doll - Man Body (Normal Skin)",
+      "brand": "Dollmore",
+      "original": "Glamor Model Doll - Man Body (Normal Skin)",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": 640,
+      "heightBasis": "官方明确列出的无头身体高度",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "身体高 64 cm",
+          "basis": "官方无头身体高度；原页 Body length not include a head"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "已组装的单售身体，不含展示头、假发及衣装。以本商品页列出的身体、脚型与配套为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主要高度为官方尺寸表明确注明的无头身体高度；带头全高另列于原页，不代入单售身体。"
+        },
+        {
+          "title": "脚部参考",
+          "text": "原页列脚长 10 cm；鞋的内长、宽度与高跟／平脚仍须分别匹配。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.dollmore.net/Product/Detail/view/pid/9998/cid/149",
+          "title": "Glamor Model Doll - Man Body (Normal Skin)",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollmore-body-9999",
+      "name": "Illua Doll - Gril Body",
+      "brand": "Dollmore",
+      "original": "Illua Doll - Gril Body",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "已组装的单售身体，不含展示头、假发及衣装。以本商品页列出的身体、脚型与配套为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "原页混列带头、示例或未说明口径的全高，未取得这款实际交付配置的独立高度，主要高度保持未知。"
+        },
+        {
+          "title": "衣装适配",
+          "text": "官方只说明部分 SD 内衣、衣服或鞋可用，须按围度和具体鞋型核对；不是整套 SD 配件通用。"
+        },
+        {
+          "title": "脚部参考",
+          "text": "原页列脚长 7.5 cm；鞋的内长、宽度与高跟／平脚仍须分别匹配。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.dollmore.net/Product/Detail/view/pid/9999/cid/149",
+          "title": "Illua Doll - Gril Body",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollce-mini-187602340",
+      "name": "Mini Sweets Doll · ホップ/Hop",
+      "brand": "DOLLCE",
+      "original": "Mini Sweets Doll · ホップ/Hop",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换眼",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与头型",
+          "text": "已上妆的 DOLLCE 原创头搭配 OBITSU 11 cm 白肤哑光身体；11 cm 是身体系列规格，未充当含头全高。"
+        },
+        {
+          "title": "眼与假发",
+          "text": "8 mm 眼、4 英寸假发。衣服、鞋、眼及假发可按订单选项搭配；未选时由店铺搭配，示例照片不保证原样交付。"
+        },
+        {
+          "title": "销售配置",
+          "text": "按角色下单的制作订单，交付含衣服和鞋。作者衣装是可选项，不把某位衣装作者视为所有订单的固定原型师。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://doll.shop-pro.jp/?pid=187602340",
+          "title": "Mini Sweets Doll · ホップ/Hop",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollce-mini-189795867",
+      "name": "Mini Sweets Doll · サフラン/Saffron",
+      "brand": "DOLLCE",
+      "original": "Mini Sweets Doll · サフラン/Saffron",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换眼",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与头型",
+          "text": "已上妆的 DOLLCE 原创头搭配 OBITSU 11 cm 白肤哑光身体；11 cm 是身体系列规格，未充当含头全高。"
+        },
+        {
+          "title": "眼与假发",
+          "text": "8 mm 眼、4 英寸假发。衣服、鞋、眼及假发可按订单选项搭配；未选时由店铺搭配，示例照片不保证原样交付。"
+        },
+        {
+          "title": "销售配置",
+          "text": "按角色下单的制作订单，交付含衣服和鞋。作者衣装是可选项，不把某位衣装作者视为所有订单的固定原型师。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://doll.shop-pro.jp/?pid=189795867",
+          "title": "Mini Sweets Doll · サフラン/Saffron",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollce-mini-184252437",
+      "name": "Mini Sweets Doll · シナモン/Cinnamon",
+      "brand": "DOLLCE",
+      "original": "Mini Sweets Doll · シナモン/Cinnamon",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换眼",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与头型",
+          "text": "已上妆的 DOLLCE 原创头搭配 OBITSU 11 cm 白肤哑光身体；11 cm 是身体系列规格，未充当含头全高。"
+        },
+        {
+          "title": "眼与假发",
+          "text": "8 mm 眼、4 英寸假发。衣服、鞋、眼及假发可按订单选项搭配；未选时由店铺搭配，示例照片不保证原样交付。"
+        },
+        {
+          "title": "销售配置",
+          "text": "按角色下单的制作订单，交付含衣服和鞋。作者衣装是可选项，不把某位衣装作者视为所有订单的固定原型师。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://doll.shop-pro.jp/?pid=184252437",
+          "title": "Mini Sweets Doll · シナモン/Cinnamon",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollce-mini-184383713",
+      "name": "Mini Sweets Doll · スマイルシナモン/Smile Cinnamon",
+      "brand": "DOLLCE",
+      "original": "Mini Sweets Doll · スマイルシナモン/Smile Cinnamon",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换眼",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与头型",
+          "text": "已上妆的 DOLLCE 原创头搭配 OBITSU 11 cm 白肤哑光身体；11 cm 是身体系列规格，未充当含头全高。"
+        },
+        {
+          "title": "眼与假发",
+          "text": "8 mm 眼、4 英寸假发。衣服、鞋、眼及假发可按订单选项搭配；未选时由店铺搭配，示例照片不保证原样交付。"
+        },
+        {
+          "title": "销售配置",
+          "text": "按角色下单的制作订单，交付含衣服和鞋。作者衣装是可选项，不把某位衣装作者视为所有订单的固定原型师。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://doll.shop-pro.jp/?pid=184383713",
+          "title": "Mini Sweets Doll · スマイルシナモン/Smile Cinnamon",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollce-mini-184383743",
+      "name": "Mini Sweets Doll · ミント/Mint",
+      "brand": "DOLLCE",
+      "original": "Mini Sweets Doll · ミント/Mint",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换眼",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与头型",
+          "text": "已上妆的 DOLLCE 原创头搭配 OBITSU 11 cm 白肤哑光身体；11 cm 是身体系列规格，未充当含头全高。"
+        },
+        {
+          "title": "眼与假发",
+          "text": "8 mm 眼、4 英寸假发。衣服、鞋、眼及假发可按订单选项搭配；未选时由店铺搭配，示例照片不保证原样交付。"
+        },
+        {
+          "title": "销售配置",
+          "text": "按角色下单的制作订单，交付含衣服和鞋。作者衣装是可选项，不把某位衣装作者视为所有订单的固定原型师。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://doll.shop-pro.jp/?pid=184383743",
+          "title": "Mini Sweets Doll · ミント/Mint",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollce-mini-184383845",
+      "name": "Mini Sweets Doll · エルダー/Elder",
+      "brand": "DOLLCE",
+      "original": "Mini Sweets Doll · エルダー/Elder",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换眼",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与头型",
+          "text": "已上妆的 DOLLCE 原创头搭配 OBITSU 11 cm 白肤哑光身体；11 cm 是身体系列规格，未充当含头全高。"
+        },
+        {
+          "title": "眼与假发",
+          "text": "8 mm 眼、4 英寸假发。衣服、鞋、眼及假发可按订单选项搭配；未选时由店铺搭配，示例照片不保证原样交付。"
+        },
+        {
+          "title": "销售配置",
+          "text": "按角色下单的制作订单，交付含衣服和鞋。作者衣装是可选项，不把某位衣装作者视为所有订单的固定原型师。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://doll.shop-pro.jp/?pid=184383845",
+          "title": "Mini Sweets Doll · エルダー/Elder",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollce-mini-184384031",
+      "name": "Mini Sweets Doll · ローズマリー/Rosemary",
+      "brand": "DOLLCE",
+      "original": "Mini Sweets Doll · ローズマリー/Rosemary",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换眼",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与头型",
+          "text": "已上妆的 DOLLCE 原创头搭配 OBITSU 11 cm 白肤哑光身体；11 cm 是身体系列规格，未充当含头全高。"
+        },
+        {
+          "title": "眼与假发",
+          "text": "8 mm 眼、4 英寸假发。衣服、鞋、眼及假发可按订单选项搭配；未选时由店铺搭配，示例照片不保证原样交付。"
+        },
+        {
+          "title": "销售配置",
+          "text": "按角色下单的制作订单，交付含衣服和鞋。作者衣装是可选项，不把某位衣装作者视为所有订单的固定原型师。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://doll.shop-pro.jp/?pid=184384031",
+          "title": "Mini Sweets Doll · ローズマリー/Rosemary",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollce-mini-184384066",
+      "name": "Mini Sweets Doll · スマイルローズマリー/Smile Rosemary",
+      "brand": "DOLLCE",
+      "original": "Mini Sweets Doll · スマイルローズマリー/Smile Rosemary",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换眼",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与头型",
+          "text": "已上妆的 DOLLCE 原创头搭配 OBITSU 11 cm 白肤哑光身体；11 cm 是身体系列规格，未充当含头全高。"
+        },
+        {
+          "title": "眼与假发",
+          "text": "8 mm 眼、4 英寸假发。衣服、鞋、眼及假发可按订单选项搭配；未选时由店铺搭配，示例照片不保证原样交付。"
+        },
+        {
+          "title": "销售配置",
+          "text": "按角色下单的制作订单，交付含衣服和鞋。作者衣装是可选项，不把某位衣装作者视为所有订单的固定原型师。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://doll.shop-pro.jp/?pid=184384066",
+          "title": "Mini Sweets Doll · スマイルローズマリー/Smile Rosemary",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollce-mini-184384087",
+      "name": "Mini Sweets Doll · リーク/Leek",
+      "brand": "DOLLCE",
+      "original": "Mini Sweets Doll · リーク/Leek",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换眼",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与头型",
+          "text": "已上妆的 DOLLCE 原创头搭配 OBITSU 11 cm 白肤哑光身体；11 cm 是身体系列规格，未充当含头全高。"
+        },
+        {
+          "title": "眼与假发",
+          "text": "8 mm 眼、4 英寸假发。衣服、鞋、眼及假发可按订单选项搭配；未选时由店铺搭配，示例照片不保证原样交付。"
+        },
+        {
+          "title": "销售配置",
+          "text": "按角色下单的制作订单，交付含衣服和鞋。作者衣装是可选项，不把某位衣装作者视为所有订单的固定原型师。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://doll.shop-pro.jp/?pid=184384087",
+          "title": "Mini Sweets Doll · リーク/Leek",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollce-mini-184385091",
+      "name": "Mini Sweets Doll · リコリス/Licorice",
+      "brand": "DOLLCE",
+      "original": "Mini Sweets Doll · リコリス/Licorice",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换眼",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与头型",
+          "text": "已上妆的 DOLLCE 原创头搭配 OBITSU 11 cm 白肤哑光身体；11 cm 是身体系列规格，未充当含头全高。"
+        },
+        {
+          "title": "眼与假发",
+          "text": "8 mm 眼、4 英寸假发。衣服、鞋、眼及假发可按订单选项搭配；未选时由店铺搭配，示例照片不保证原样交付。"
+        },
+        {
+          "title": "销售配置",
+          "text": "按角色下单的制作订单，交付含衣服和鞋。作者衣装是可选项，不把某位衣装作者视为所有订单的固定原型师。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://doll.shop-pro.jp/?pid=184385091",
+          "title": "Mini Sweets Doll · リコリス/Licorice",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollce-mini-184385106",
+      "name": "Mini Sweets Doll · カモミール/chamomile",
+      "brand": "DOLLCE",
+      "original": "Mini Sweets Doll · カモミール/chamomile",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换眼",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与头型",
+          "text": "已上妆的 DOLLCE 原创头搭配 OBITSU 11 cm 白肤哑光身体；11 cm 是身体系列规格，未充当含头全高。"
+        },
+        {
+          "title": "眼与假发",
+          "text": "8 mm 眼、4 英寸假发。衣服、鞋、眼及假发可按订单选项搭配；未选时由店铺搭配，示例照片不保证原样交付。"
+        },
+        {
+          "title": "销售配置",
+          "text": "按角色下单的制作订单，交付含衣服和鞋。作者衣装是可选项，不把某位衣装作者视为所有订单的固定原型师。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://doll.shop-pro.jp/?pid=184385106",
+          "title": "Mini Sweets Doll · カモミール/chamomile",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollce-mini-184385141",
+      "name": "Mini Sweets Doll · ソレル/Sorrel",
+      "brand": "DOLLCE",
+      "original": "Mini Sweets Doll · ソレル/Sorrel",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换眼",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与头型",
+          "text": "已上妆的 DOLLCE 原创头搭配 OBITSU 11 cm 白肤哑光身体；11 cm 是身体系列规格，未充当含头全高。"
+        },
+        {
+          "title": "眼与假发",
+          "text": "8 mm 眼、4 英寸假发。衣服、鞋、眼及假发可按订单选项搭配；未选时由店铺搭配，示例照片不保证原样交付。"
+        },
+        {
+          "title": "销售配置",
+          "text": "按角色下单的制作订单，交付含衣服和鞋。作者衣装是可选项，不把某位衣装作者视为所有订单的固定原型师。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://doll.shop-pro.jp/?pid=184385141",
+          "title": "Mini Sweets Doll · ソレル/Sorrel",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollce-mini-184385148",
+      "name": "Mini Sweets Doll · スマイルソレル/Smile Sorrel",
+      "brand": "DOLLCE",
+      "original": "Mini Sweets Doll · スマイルソレル/Smile Sorrel",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换眼",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与头型",
+          "text": "已上妆的 DOLLCE 原创头搭配 OBITSU 11 cm 白肤哑光身体；11 cm 是身体系列规格，未充当含头全高。"
+        },
+        {
+          "title": "眼与假发",
+          "text": "8 mm 眼、4 英寸假发。衣服、鞋、眼及假发可按订单选项搭配；未选时由店铺搭配，示例照片不保证原样交付。"
+        },
+        {
+          "title": "销售配置",
+          "text": "按角色下单的制作订单，交付含衣服和鞋。作者衣装是可选项，不把某位衣装作者视为所有订单的固定原型师。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://doll.shop-pro.jp/?pid=184385148",
+          "title": "Mini Sweets Doll · スマイルソレル/Smile Sorrel",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollce-mini-184385348",
+      "name": "Mini Sweets Doll · メティ/Methi",
+      "brand": "DOLLCE",
+      "original": "Mini Sweets Doll · メティ/Methi",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换眼",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与头型",
+          "text": "已上妆的 DOLLCE 原创头搭配 OBITSU 11 cm 白肤哑光身体；11 cm 是身体系列规格，未充当含头全高。"
+        },
+        {
+          "title": "眼与假发",
+          "text": "8 mm 眼、4 英寸假发。衣服、鞋、眼及假发可按订单选项搭配；未选时由店铺搭配，示例照片不保证原样交付。"
+        },
+        {
+          "title": "销售配置",
+          "text": "按角色下单的制作订单，交付含衣服和鞋。作者衣装是可选项，不把某位衣装作者视为所有订单的固定原型师。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://doll.shop-pro.jp/?pid=184385348",
+          "title": "Mini Sweets Doll · メティ/Methi",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollce-mini-184385366",
+      "name": "Mini Sweets Doll · フレークルメティ/Freckle Methi",
+      "brand": "DOLLCE",
+      "original": "Mini Sweets Doll · フレークルメティ/Freckle Methi",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换眼",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与头型",
+          "text": "已上妆的 DOLLCE 原创头搭配 OBITSU 11 cm 白肤哑光身体；11 cm 是身体系列规格，未充当含头全高。"
+        },
+        {
+          "title": "眼与假发",
+          "text": "8 mm 眼、4 英寸假发。衣服、鞋、眼及假发可按订单选项搭配；未选时由店铺搭配，示例照片不保证原样交付。"
+        },
+        {
+          "title": "销售配置",
+          "text": "按角色下单的制作订单，交付含衣服和鞋。作者衣装是可选项，不把某位衣装作者视为所有订单的固定原型师。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://doll.shop-pro.jp/?pid=184385366",
+          "title": "Mini Sweets Doll · フレークルメティ/Freckle Methi",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollce-mini-184385400",
+      "name": "Mini Sweets Doll · ローリエ/Laurier",
+      "brand": "DOLLCE",
+      "original": "Mini Sweets Doll · ローリエ/Laurier",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换眼",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与头型",
+          "text": "已上妆的 DOLLCE 原创头搭配 OBITSU 11 cm 白肤哑光身体；11 cm 是身体系列规格，未充当含头全高。"
+        },
+        {
+          "title": "眼与假发",
+          "text": "8 mm 眼、4 英寸假发。衣服、鞋、眼及假发可按订单选项搭配；未选时由店铺搭配，示例照片不保证原样交付。"
+        },
+        {
+          "title": "销售配置",
+          "text": "按角色下单的制作订单，交付含衣服和鞋。作者衣装是可选项，不把某位衣装作者视为所有订单的固定原型师。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://doll.shop-pro.jp/?pid=184385400",
+          "title": "Mini Sweets Doll · ローリエ/Laurier",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollce-mini-184385517",
+      "name": "Mini Sweets Doll · マオ/Mao",
+      "brand": "DOLLCE",
+      "original": "Mini Sweets Doll · マオ/Mao",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换眼",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与头型",
+          "text": "已上妆的 DOLLCE 原创头搭配 OBITSU 11 cm 白肤哑光身体；11 cm 是身体系列规格，未充当含头全高。"
+        },
+        {
+          "title": "眼与假发",
+          "text": "8 mm 眼、4 英寸假发。衣服、鞋、眼及假发可按订单选项搭配；未选时由店铺搭配，示例照片不保证原样交付。"
+        },
+        {
+          "title": "销售配置",
+          "text": "按角色下单的制作订单，交付含衣服和鞋。作者衣装是可选项，不把某位衣装作者视为所有订单的固定原型师。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://doll.shop-pro.jp/?pid=184385517",
+          "title": "Mini Sweets Doll · マオ/Mao",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollce-mini-184385583",
+      "name": "Mini Sweets Doll · コシュカ/Koshuka",
+      "brand": "DOLLCE",
+      "original": "Mini Sweets Doll · コシュカ/Koshuka",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换眼",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与头型",
+          "text": "已上妆的 DOLLCE 原创头搭配 OBITSU 11 cm 白肤哑光身体；11 cm 是身体系列规格，未充当含头全高。"
+        },
+        {
+          "title": "眼与假发",
+          "text": "8 mm 眼、4 英寸假发。衣服、鞋、眼及假发可按订单选项搭配；未选时由店铺搭配，示例照片不保证原样交付。"
+        },
+        {
+          "title": "销售配置",
+          "text": "按角色下单的制作订单，交付含衣服和鞋。作者衣装是可选项，不把某位衣装作者视为所有订单的固定原型师。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://doll.shop-pro.jp/?pid=184385583",
+          "title": "Mini Sweets Doll · コシュカ/Koshuka",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollce-mini-184385614",
+      "name": "Mini Sweets Doll · チュマ/Chhma",
+      "brand": "DOLLCE",
+      "original": "Mini Sweets Doll · チュマ/Chhma",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换眼",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与头型",
+          "text": "已上妆的 DOLLCE 原创头搭配 OBITSU 11 cm 白肤哑光身体；11 cm 是身体系列规格，未充当含头全高。"
+        },
+        {
+          "title": "眼与假发",
+          "text": "8 mm 眼、4 英寸假发。衣服、鞋、眼及假发可按订单选项搭配；未选时由店铺搭配，示例照片不保证原样交付。"
+        },
+        {
+          "title": "销售配置",
+          "text": "按角色下单的制作订单，交付含衣服和鞋。作者衣装是可选项，不把某位衣装作者视为所有订单的固定原型师。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://doll.shop-pro.jp/?pid=184385614",
+          "title": "Mini Sweets Doll · チュマ/Chhma",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollce-mini-184385621",
+      "name": "Mini Sweets Doll · スマイルチュマ/Smile Chhma",
+      "brand": "DOLLCE",
+      "original": "Mini Sweets Doll · スマイルチュマ/Smile Chhma",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换眼",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与头型",
+          "text": "已上妆的 DOLLCE 原创头搭配 OBITSU 11 cm 白肤哑光身体；11 cm 是身体系列规格，未充当含头全高。"
+        },
+        {
+          "title": "眼与假发",
+          "text": "8 mm 眼、4 英寸假发。衣服、鞋、眼及假发可按订单选项搭配；未选时由店铺搭配，示例照片不保证原样交付。"
+        },
+        {
+          "title": "销售配置",
+          "text": "按角色下单的制作订单，交付含衣服和鞋。作者衣装是可选项，不把某位衣装作者视为所有订单的固定原型师。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://doll.shop-pro.jp/?pid=184385621",
+          "title": "Mini Sweets Doll · スマイルチュマ/Smile Chhma",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "dollce-parfait-192914756",
+      "name": "Parfait · シャルロット/Charlotte · 恋鞠堂 衣装版",
+      "brand": "DOLLCE",
+      "original": "シャルロット/Charlotte",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换眼",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "已上妆 DOLLCE 原创头、OBITSU 22 cm 白肤 S 胸身体、所列眼、假发与衣装；22 cm 是身体规格，不是本整娃测量高度。"
+        },
+        {
+          "title": "眼、假发与制作",
+          "text": "10 mm 眼由みゅ〜らぼ制作，4.5 英寸假发；衣装署名 恋鞠堂。按本商品照片与列出的单品配置记录，不合并所有同名衣装。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://doll.shop-pro.jp/?pid=192914756",
+          "title": "シャルロット/Charlotte",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "眼睛制作",
+          "name": "みゅ〜らぼ"
+        },
+        {
+          "role": "衣装制作",
+          "name": "恋鞠堂"
+        }
+      ]
+    },
+    {
+      "id": "dollce-parfait-192914761",
+      "name": "Parfait · シャルロット/Charlotte · angels_forest 衣装版",
+      "brand": "DOLLCE",
+      "original": "シャルロット/Charlotte",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换眼",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "已上妆 DOLLCE 原创头、OBITSU 22 cm 白肤 S 胸身体、所列眼、假发与衣装；22 cm 是身体规格，不是本整娃测量高度。"
+        },
+        {
+          "title": "眼、假发与制作",
+          "text": "10 mm 眼由みゅ〜らぼ制作，4.5 英寸假发；衣装署名 angels_forest。按本商品照片与列出的单品配置记录，不合并所有同名衣装。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://doll.shop-pro.jp/?pid=192914761",
+          "title": "シャルロット/Charlotte",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "眼睛制作",
+          "name": "みゅ〜らぼ"
+        },
+        {
+          "role": "衣装制作",
+          "name": "angels_forest"
+        }
+      ]
+    },
+    {
+      "id": "dollce-parfait-192954080",
+      "name": "Parfait · シフォン/Chiffon · angels_forest 衣装版",
+      "brand": "DOLLCE",
+      "original": "シフォン/Chiffon",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换眼",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "已上妆 DOLLCE 原创头、OBITSU 22 cm 白肤 S 胸身体、所列眼、假发与衣装；22 cm 是身体规格，不是本整娃测量高度。"
+        },
+        {
+          "title": "眼、假发与制作",
+          "text": "8 mm 眼由みゅ〜らぼ制作，4.5 英寸假发；衣装署名 angels_forest。按本商品照片与列出的单品配置记录，不合并所有同名衣装。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://doll.shop-pro.jp/?pid=192954080",
+          "title": "シフォン/Chiffon",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "眼睛制作",
+          "name": "みゅ〜らぼ"
+        },
+        {
+          "role": "衣装制作",
+          "name": "angels_forest"
+        }
+      ]
+    },
+    {
+      "id": "dollce-parfait-192954092",
+      "name": "Parfait · アプリコット/Apricot · 恋鞠堂 衣装版",
+      "brand": "DOLLCE",
+      "original": "アプリコット/Apricot",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换眼",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "已上妆 DOLLCE 原创头、OBITSU 22 cm 白肤 S 胸身体、所列眼、假发与衣装；22 cm 是身体规格，不是本整娃测量高度。"
+        },
+        {
+          "title": "眼、假发与制作",
+          "text": "8 mm 眼由みゅ〜らぼ制作，4.5 英寸假发；衣装署名 恋鞠堂。按本商品照片与列出的单品配置记录，不合并所有同名衣装。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://doll.shop-pro.jp/?pid=192954092",
+          "title": "アプリコット/Apricot",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "眼睛制作",
+          "name": "みゅ〜らぼ"
+        },
+        {
+          "role": "衣装制作",
+          "name": "恋鞠堂"
+        }
+      ]
+    },
+    {
+      "id": "dollce-parfait-192954093",
+      "name": "Parfait · アプリコット/Apricot · angels_forest 衣装版",
+      "brand": "DOLLCE",
+      "original": "アプリコット/Apricot",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换眼",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "已上妆 DOLLCE 原创头、OBITSU 22 cm 白肤 S 胸身体、所列眼、假发与衣装；22 cm 是身体规格，不是本整娃测量高度。"
+        },
+        {
+          "title": "眼、假发与制作",
+          "text": "8 mm 眼由みゅ〜らぼ制作，4.5 英寸假发；衣装署名 angels_forest。按本商品照片与列出的单品配置记录，不合并所有同名衣装。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://doll.shop-pro.jp/?pid=192954093",
+          "title": "アプリコット/Apricot",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "眼睛制作",
+          "name": "みゅ〜らぼ"
+        },
+        {
+          "role": "衣装制作",
+          "name": "angels_forest"
+        }
+      ]
+    },
+    {
+      "id": "dollce-parfait-193815164",
+      "name": "Parfait · シフォン/Chiffon · 恋鞠堂 特别衣装版",
+      "brand": "DOLLCE",
+      "original": "シフォン/Chiffon",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换眼",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "已上妆 DOLLCE 原创头、OBITSU 22 cm 白肤 S 胸身体、所列眼、假发与衣装；22 cm 是身体规格，不是本整娃测量高度。"
+        },
+        {
+          "title": "眼、假发与制作",
+          "text": "8 mm 眼由みゅ〜らぼ制作，4.5 英寸假发；衣装署名 恋鞠堂。本款另列造型假发、特别衣装和 DOLLCE 袜子。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://doll.shop-pro.jp/?pid=193815164",
+          "title": "シフォン/Chiffon",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "眼睛制作",
+          "name": "みゅ〜らぼ"
+        },
+        {
+          "role": "衣装制作",
+          "name": "恋鞠堂"
+        }
+      ]
+    },
+    {
+      "id": "dollce-parfait-193815179",
+      "name": "Parfait · アプリコット/Apricot · 恋鞠堂 特别衣装版",
+      "brand": "DOLLCE",
+      "original": "アプリコット/Apricot",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换眼",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "已上妆 DOLLCE 原创头、OBITSU 22 cm 白肤 S 胸身体、所列眼、假发与衣装；22 cm 是身体规格，不是本整娃测量高度。"
+        },
+        {
+          "title": "眼、假发与制作",
+          "text": "8 mm 眼由みゅ〜らぼ制作，4.5 英寸假发；衣装署名 恋鞠堂。本款另列造型假发、特别衣装和 DOLLCE 袜子。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://doll.shop-pro.jp/?pid=193815179",
+          "title": "アプリコット/Apricot",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "眼睛制作",
+          "name": "みゅ〜らぼ"
+        },
+        {
+          "role": "衣装制作",
+          "name": "恋鞠堂"
+        }
+      ]
+    },
+    {
+      "id": "dollce-parfait-193815196",
+      "name": "Parfait · シャルロット/Charlotte · 恋鞠堂 特别衣装版",
+      "brand": "DOLLCE",
+      "original": "シャルロット/Charlotte",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换眼",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "已上妆 DOLLCE 原创头、OBITSU 22 cm 白肤 S 胸身体、所列眼、假发与衣装；22 cm 是身体规格，不是本整娃测量高度。"
+        },
+        {
+          "title": "眼、假发与制作",
+          "text": "10 mm 眼由みゅ〜らぼ制作，4.5 英寸假发；衣装署名 恋鞠堂。本款另列造型假发、特别衣装和 DOLLCE 袜子。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://doll.shop-pro.jp/?pid=193815196",
+          "title": "シャルロット/Charlotte",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "眼睛制作",
+          "name": "みゅ〜らぼ"
+        },
+        {
+          "role": "衣装制作",
+          "name": "恋鞠堂"
+        }
+      ]
+    },
+    {
+      "id": "parabox-body-2352",
+      "name": "40 cm 女体 S 胸 · 白肤",
+      "brand": "PARABOX",
+      "original": "BS40S-WHG",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "软胶",
+          "塑料骨架"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "交付内容",
+          "text": "PARABOX 原创外皮身体，内用 OBITSU 骨架；不含头。磁性脚与站立用钢板随身体提供。"
+        },
+        {
+          "title": "尺寸与版本",
+          "text": "系列名中的尺寸不直接写成实际交付高度；官方身体表另列颈部至脚跟 34 cm，脚长 6 cm、颈围 7 cm。"
+        },
+        {
+          "title": "结构与换头",
+          "text": "40–50 cm 系列采用软胶外皮和塑料内部结构。官网列同型颈件供这些尺寸之间移动已装有颈件的头，不能扩大为其他品牌通用。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://paraboxshop.jp/goods_ja_jpy_2352.html",
+          "title": "BS40S-WHG",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        },
+        {
+          "url": "https://www.parabox.jp/o_body_40-50.html",
+          "title": "PARABOX · 40–50 cm 身体结构",
+          "supports": "官方系列结构与同型颈件范围，不代替具体身体商品组成。",
+          "kind": "官方系列说明",
+          "checkedAt": "2026-10-06"
+        },
+        {
+          "url": "https://paraboxshop.jp/index_ja_jpy_142.html",
+          "title": "PARABOX · 身体尺寸目录",
+          "supports": "各身体尺寸表与软胶外皮／塑料结构说明。",
+          "kind": "官方系列目录",
+          "checkedAt": "2026-10-06"
+        },
+        {
+          "url": "https://paraboxshop.jp/index_ja_jpy_142-148.html",
+          "title": "PARABOX · 40 cm 身体尺寸表",
+          "supports": "本款颈部至脚跟与围度范围。",
+          "kind": "官方尺寸表",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "parabox-body-2354",
+      "name": "40 cm 男体 · 白肤",
+      "brand": "PARABOX",
+      "original": "BS40M-WHG",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "软胶",
+          "塑料骨架"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "交付内容",
+          "text": "PARABOX 原创外皮身体，内用 OBITSU 骨架；不含头。磁性脚与站立用钢板随身体提供。"
+        },
+        {
+          "title": "尺寸与版本",
+          "text": "系列名中的尺寸不直接写成实际交付高度；官方身体表另列颈部至脚跟 34 cm，脚长 6 cm、颈围 7 cm。"
+        },
+        {
+          "title": "结构与换头",
+          "text": "40–50 cm 系列采用软胶外皮和塑料内部结构。官网列同型颈件供这些尺寸之间移动已装有颈件的头，不能扩大为其他品牌通用。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://paraboxshop.jp/goods_ja_jpy_2354.html",
+          "title": "BS40M-WHG",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        },
+        {
+          "url": "https://www.parabox.jp/o_body_40-50.html",
+          "title": "PARABOX · 40–50 cm 身体结构",
+          "supports": "官方系列结构与同型颈件范围，不代替具体身体商品组成。",
+          "kind": "官方系列说明",
+          "checkedAt": "2026-10-06"
+        },
+        {
+          "url": "https://paraboxshop.jp/index_ja_jpy_142.html",
+          "title": "PARABOX · 身体尺寸目录",
+          "supports": "各身体尺寸表与软胶外皮／塑料结构说明。",
+          "kind": "官方系列目录",
+          "checkedAt": "2026-10-06"
+        },
+        {
+          "url": "https://paraboxshop.jp/index_ja_jpy_142-148.html",
+          "title": "PARABOX · 40 cm 身体尺寸表",
+          "supports": "本款颈部至脚跟与围度范围。",
+          "kind": "官方尺寸表",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "parabox-body-2355",
+      "name": "45 cm 女体 S 胸 · 白肤",
+      "brand": "PARABOX",
+      "original": "BS45S-WHG",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "软胶",
+          "塑料骨架"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "交付内容",
+          "text": "PARABOX 原创外皮身体，内用 OBITSU 骨架；不含头。磁性脚与站立用钢板随身体提供。"
+        },
+        {
+          "title": "尺寸与版本",
+          "text": "系列名中的尺寸不直接写成实际交付高度；官方身体表另列颈部至脚跟 36.5 cm，脚长 6 cm、颈围 7 cm。"
+        },
+        {
+          "title": "结构与换头",
+          "text": "40–50 cm 系列采用软胶外皮和塑料内部结构。官网列同型颈件供这些尺寸之间移动已装有颈件的头，不能扩大为其他品牌通用。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://paraboxshop.jp/goods_ja_JPY_2355.html",
+          "title": "BS45S-WHG",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        },
+        {
+          "url": "https://www.parabox.jp/o_body_40-50.html",
+          "title": "PARABOX · 40–50 cm 身体结构",
+          "supports": "官方系列结构与同型颈件范围，不代替具体身体商品组成。",
+          "kind": "官方系列说明",
+          "checkedAt": "2026-10-06"
+        },
+        {
+          "url": "https://paraboxshop.jp/index_ja_jpy_142.html",
+          "title": "PARABOX · 身体尺寸目录",
+          "supports": "各身体尺寸表与软胶外皮／塑料结构说明。",
+          "kind": "官方系列目录",
+          "checkedAt": "2026-10-06"
+        },
+        {
+          "url": "https://paraboxshop.jp/index_ja_jpy_142-149.html",
+          "title": "PARABOX · 45 cm 身体尺寸表",
+          "supports": "本款颈部至脚跟与围度范围。",
+          "kind": "官方尺寸表",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "parabox-body-2356",
+      "name": "45 cm 男体 · 白肤",
+      "brand": "PARABOX",
+      "original": "BS45-WHG",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "软胶",
+          "塑料骨架"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "交付内容",
+          "text": "PARABOX 原创外皮身体，内用 OBITSU 骨架；不含头。磁性脚与站立用钢板随身体提供。"
+        },
+        {
+          "title": "尺寸与版本",
+          "text": "系列名中的尺寸不直接写成实际交付高度；官方身体表另列颈部至脚跟 36.5 cm，脚长 6 cm、颈围 7 cm。"
+        },
+        {
+          "title": "结构与换头",
+          "text": "40–50 cm 系列采用软胶外皮和塑料内部结构。官网列同型颈件供这些尺寸之间移动已装有颈件的头，不能扩大为其他品牌通用。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://paraboxshop.jp/goods_ja_JPY_2356.html",
+          "title": "BS45-WHG",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        },
+        {
+          "url": "https://www.parabox.jp/o_body_40-50.html",
+          "title": "PARABOX · 40–50 cm 身体结构",
+          "supports": "官方系列结构与同型颈件范围，不代替具体身体商品组成。",
+          "kind": "官方系列说明",
+          "checkedAt": "2026-10-06"
+        },
+        {
+          "url": "https://paraboxshop.jp/index_ja_jpy_142.html",
+          "title": "PARABOX · 身体尺寸目录",
+          "supports": "各身体尺寸表与软胶外皮／塑料结构说明。",
+          "kind": "官方系列目录",
+          "checkedAt": "2026-10-06"
+        },
+        {
+          "url": "https://paraboxshop.jp/index_ja_jpy_142-149.html",
+          "title": "PARABOX · 45 cm 身体尺寸表",
+          "supports": "本款颈部至脚跟与围度范围。",
+          "kind": "官方尺寸表",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "parabox-body-2357",
+      "name": "47 cm 女体 S 胸 · 白肤",
+      "brand": "PARABOX",
+      "original": "BS47S-WHG",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "软胶",
+          "塑料骨架"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "交付内容",
+          "text": "PARABOX 原创外皮身体，内用 OBITSU 骨架；不含头。磁性脚与站立用钢板随身体提供。"
+        },
+        {
+          "title": "尺寸与版本",
+          "text": "系列名中的尺寸不直接写成实际交付高度；官方身体表另列颈部至脚跟 39 cm，脚长 6 cm、颈围 7 cm。"
+        },
+        {
+          "title": "结构与换头",
+          "text": "40–50 cm 系列采用软胶外皮和塑料内部结构。官网列同型颈件供这些尺寸之间移动已装有颈件的头，不能扩大为其他品牌通用。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://paraboxshop.jp/goods_ja_JPY_2357.html",
+          "title": "BS47S-WHG",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        },
+        {
+          "url": "https://www.parabox.jp/o_body_40-50.html",
+          "title": "PARABOX · 40–50 cm 身体结构",
+          "supports": "官方系列结构与同型颈件范围，不代替具体身体商品组成。",
+          "kind": "官方系列说明",
+          "checkedAt": "2026-10-06"
+        },
+        {
+          "url": "https://paraboxshop.jp/index_ja_jpy_142.html",
+          "title": "PARABOX · 身体尺寸目录",
+          "supports": "各身体尺寸表与软胶外皮／塑料结构说明。",
+          "kind": "官方系列目录",
+          "checkedAt": "2026-10-06"
+        },
+        {
+          "url": "https://paraboxshop.jp/index_ja_jpy_142-150.html",
+          "title": "PARABOX · 47 cm 身体尺寸表",
+          "supports": "本款颈部至脚跟与围度范围。",
+          "kind": "官方尺寸表",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "parabox-body-3999",
+      "name": "50 cm 男体 · 白肤",
+      "brand": "PARABOX",
+      "original": "BS50-WHG",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "软胶",
+          "塑料骨架"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "交付内容",
+          "text": "PARABOX 原创外皮身体，内用 OBITSU 骨架；不含头。磁性脚与站立用钢板随身体提供。"
+        },
+        {
+          "title": "尺寸与版本",
+          "text": "系列名中的尺寸不直接写成实际交付高度；官方身体表另列颈部至脚跟 42.5 cm，脚长 6 cm、颈围 7 cm。"
+        },
+        {
+          "title": "结构与换头",
+          "text": "40–50 cm 系列采用软胶外皮和塑料内部结构。官网列同型颈件供这些尺寸之间移动已装有颈件的头，不能扩大为其他品牌通用。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://paraboxshop.jp/goods_ja_JPY_3999.html",
+          "title": "BS50-WHG",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        },
+        {
+          "url": "https://www.parabox.jp/o_body_40-50.html",
+          "title": "PARABOX · 40–50 cm 身体结构",
+          "supports": "官方系列结构与同型颈件范围，不代替具体身体商品组成。",
+          "kind": "官方系列说明",
+          "checkedAt": "2026-10-06"
+        },
+        {
+          "url": "https://paraboxshop.jp/index_ja_jpy_142.html",
+          "title": "PARABOX · 身体尺寸目录",
+          "supports": "各身体尺寸表与软胶外皮／塑料结构说明。",
+          "kind": "官方系列目录",
+          "checkedAt": "2026-10-06"
+        },
+        {
+          "url": "https://paraboxshop.jp/index_ja_jpy_142-151.html",
+          "title": "PARABOX · 50 cm 身体尺寸表",
+          "supports": "本款颈部至脚跟与围度范围。",
+          "kind": "官方尺寸表",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "parabox-model-2059",
+      "name": "47 グレーテル · 组装套装",
+      "brand": "PARABOX",
+      "original": "PD-BS47-47G",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换眼",
+          "换假发"
+        ],
+        "material": [
+          "软胶",
+          "塑料骨架"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "套装范围",
+          "text": "头、眼与身体预先组装，默认 47 cm 系列女体、已上妆头、内衣及假发；不含鞋。身体规格未代入整娃全高。"
+        },
+        {
+          "title": "眼与假发",
+          "text": "本款列 16 mm 眼、7–8 英寸假发；替换及身体选项以库存和官方确认的配置为准。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://paraboxshop.jp/goods_ja_jpy_2059.html",
+          "title": "PD-BS47-47G",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        },
+        {
+          "url": "https://www.parabox.jp/o_body_40-50.html",
+          "title": "PARABOX · 内部结构",
+          "supports": "默认所列身体的系列结构背景。",
+          "kind": "官方系列说明",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "parabox-model-6644",
+      "name": "姫姉 · 新彩色 1 · 组装套装",
+      "brand": "PARABOX",
+      "original": "PD-BS40-HIA1",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换眼",
+          "换假发"
+        ],
+        "material": [
+          "软胶",
+          "塑料骨架"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "套装范围",
+          "text": "头、眼与身体预先组装，默认 40 cm 系列女体、已上妆头、内衣及假发；不含鞋。身体规格未代入整娃全高。"
+        },
+        {
+          "title": "眼与假发",
+          "text": "本款列 22 mm 眼、8 或 8.5 英寸假发；替换及身体选项以库存和官方确认的配置为准。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://paraboxshop.jp/goods_ja_jpy_6644.html",
+          "title": "PD-BS40-HIA1",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        },
+        {
+          "url": "https://www.parabox.jp/o_body_40-50.html",
+          "title": "PARABOX · 内部结构",
+          "supports": "默认所列身体的系列结构背景。",
+          "kind": "官方系列说明",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "parabox-model-6557",
+      "name": "メイ · 新彩色 1 · 组装套装",
+      "brand": "PARABOX",
+      "original": "PD-BS40-MAY1",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换眼",
+          "换假发"
+        ],
+        "material": [
+          "软胶",
+          "塑料骨架"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "套装范围",
+          "text": "头、眼与身体预先组装，默认 40 cm 系列女体、已上妆头、内衣及假发；不含鞋。身体规格未代入整娃全高。"
+        },
+        {
+          "title": "眼与假发",
+          "text": "本款列 16 或 18 mm 眼、7.5 或 8 英寸假发；替换及身体选项以库存和官方确认的配置为准。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://paraboxshop.jp/goods_ja_jpy_6557.html",
+          "title": "PD-BS40-MAY1",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        },
+        {
+          "url": "https://www.parabox.jp/o_body_40-50.html",
+          "title": "PARABOX · 内部结构",
+          "supports": "默认所列身体的系列结构背景。",
+          "kind": "官方系列说明",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "parabox-model-6068",
+      "name": "乙姫 · 男子胸身体＋風花素头",
+      "brand": "PARABOX",
+      "original": "OT-BSM-A01",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "未上妆的風花／乙姫动画头与 80 cm 乙姫男子胸身体；可申请未开眼孔头，不将未包含的眼、假发及衣装写入套装。"
+        },
+        {
+          "title": "尺寸与结构",
+          "text": "80 cm 为本页身体系列标示，尚未核对所链接尺寸图的整娃测量口径。乙姫不套用 PARABOX 40–50 cm 系列的 OBITSU 骨架结构。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://paraboxshop.jp/goods_ja_jpy_6068.html",
+          "title": "OT-BSM-A01",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "soom-neor13-rossi-broken-doll",
+      "name": "NEOR 13 · Rossi",
+      "brand": "SOOM",
+      "original": "NEOR 13 · Rossi",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "拉筋连接"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "服装另配",
+          "换眼"
+        ],
+        "material": [
+          "树脂"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "套装与选配",
+          "text": "本体、基础头与该款所列兽耳、角或尾部件、包布及证明书；整套展示衣装和眼另售，面妆与身体涂装是选项。"
+        },
+        {
+          "title": "眼睛适配",
+          "text": "10mm, 12mm；按该款眼型与材质分别选配，不把不同系列的眼睛规格混用。"
+        },
+        {
+          "title": "尺寸与状态",
+          "text": "NEOR 13 是系列名称；原页 27 × 16 × 6 cm 未注明为人偶高度，未录入主高度。原始订购期为 2024 年 12 月，不标成未来计划商品。"
+        },
+        {
+          "title": "材料、连接与署名",
+          "text": "树脂及弹性拉筋依据同页 SOOM 人偶通用维护说明；未取得每个部件独立材质表。展示面妆与衣装作者是该页面署名，不代表素体选配全部包含。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://dollsoom.com/en/product/rossi-broken-doll/",
+          "title": "NEOR 13 · Rossi",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "艺术指导",
+          "name": "Choi N."
+        },
+        {
+          "role": "原型制作",
+          "name": "Lee G."
+        },
+        {
+          "role": "展示面妆",
+          "name": "BAK D."
+        },
+        {
+          "role": "展示服装设计",
+          "name": "Choi N."
+        },
+        {
+          "role": "摄影",
+          "name": "Choi N."
+        }
+      ]
+    },
+    {
+      "id": "soom-neor13-holin-fluffy-clown",
+      "name": "NEOR 13 · Holin",
+      "brand": "SOOM",
+      "original": "NEOR 13 · Holin",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "拉筋连接"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "服装另配",
+          "换眼"
+        ],
+        "material": [
+          "树脂"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "套装与选配",
+          "text": "本体、基础头与该款所列兽耳、角或尾部件、包布及证明书；整套展示衣装和眼另售，面妆与身体涂装是选项。"
+        },
+        {
+          "title": "眼睛适配",
+          "text": "10mm, 12mm；按该款眼型与材质分别选配，不把不同系列的眼睛规格混用。"
+        },
+        {
+          "title": "尺寸与状态",
+          "text": "NEOR 13 是系列名称；原页 27 × 16 × 6 cm 未注明为人偶高度，未录入主高度。原始订购期为 2024 年 12 月，不标成未来计划商品。"
+        },
+        {
+          "title": "材料、连接与署名",
+          "text": "树脂及弹性拉筋依据同页 SOOM 人偶通用维护说明；未取得每个部件独立材质表。展示面妆与衣装作者是该页面署名，不代表素体选配全部包含。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://dollsoom.com/en/product/holin-fluffy-clown/",
+          "title": "NEOR 13 · Holin",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "艺术指导",
+          "name": "Choi N."
+        },
+        {
+          "role": "原型制作",
+          "name": "Chung J."
+        },
+        {
+          "role": "展示面妆",
+          "name": "Susubom"
+        },
+        {
+          "role": "展示服装设计",
+          "name": "Choi N."
+        },
+        {
+          "role": "摄影",
+          "name": "Choi N."
+        }
+      ]
+    },
+    {
+      "id": "soom-neor13-lumi-trickling-unicorn",
+      "name": "NEOR 13 · Lumi",
+      "brand": "SOOM",
+      "original": "NEOR 13 · Lumi",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "拉筋连接"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "服装另配",
+          "换眼"
+        ],
+        "material": [
+          "树脂"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "套装与选配",
+          "text": "本体、基础头与该款所列兽耳、角或尾部件、包布及证明书；整套展示衣装和眼另售，面妆与身体涂装是选项。"
+        },
+        {
+          "title": "眼睛适配",
+          "text": "12mm；按该款眼型与材质分别选配，不把不同系列的眼睛规格混用。"
+        },
+        {
+          "title": "尺寸与状态",
+          "text": "NEOR 13 是系列名称；原页 27 × 16 × 6 cm 未注明为人偶高度，未录入主高度。原始订购期为 2024 年 12 月，不标成未来计划商品。"
+        },
+        {
+          "title": "材料、连接与署名",
+          "text": "树脂及弹性拉筋依据同页 SOOM 人偶通用维护说明；未取得每个部件独立材质表。展示面妆与衣装作者是该页面署名，不代表素体选配全部包含。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://dollsoom.com/en/product/lumi-trickling-unicorn/",
+          "title": "NEOR 13 · Lumi",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "艺术指导",
+          "name": "Choi N."
+        },
+        {
+          "role": "原型制作",
+          "name": "Park H."
+        },
+        {
+          "role": "展示面妆",
+          "name": "Main"
+        },
+        {
+          "role": "展示服装设计",
+          "name": "Choi N."
+        },
+        {
+          "role": "摄影",
+          "name": "Choi N."
+        }
+      ]
+    },
+    {
+      "id": "soom-neor13-movy-mysterious-fairy",
+      "name": "NEOR 13 · Movy",
+      "brand": "SOOM",
+      "original": "NEOR 13 · Movy",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "拉筋连接"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "服装另配",
+          "换眼"
+        ],
+        "material": [
+          "树脂"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "套装与选配",
+          "text": "本体、基础头与该款所列兽耳、角或尾部件、包布及证明书；整套展示衣装和眼另售，面妆与身体涂装是选项。"
+        },
+        {
+          "title": "眼睛适配",
+          "text": "Soom Silicone Eyes 12mm, Acrylic Eyes 10mm；按该款眼型与材质分别选配，不把不同系列的眼睛规格混用。"
+        },
+        {
+          "title": "尺寸与状态",
+          "text": "NEOR 13 是系列名称；原页 27 × 16 × 6 cm 未注明为人偶高度，未录入主高度。原始订购期为 2024 年 12 月，不标成未来计划商品。"
+        },
+        {
+          "title": "材料、连接与署名",
+          "text": "树脂及弹性拉筋依据同页 SOOM 人偶通用维护说明；未取得每个部件独立材质表。展示面妆与衣装作者是该页面署名，不代表素体选配全部包含。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://dollsoom.com/en/product/movy-mysterious-fairy/",
+          "title": "NEOR 13 · Movy",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "艺术指导",
+          "name": "Choi N."
+        },
+        {
+          "role": "原型制作",
+          "name": "Chung J."
+        },
+        {
+          "role": "展示面妆",
+          "name": "Susubom"
+        },
+        {
+          "role": "展示服装设计",
+          "name": "Choi N."
+        },
+        {
+          "role": "摄影",
+          "name": "Choi N."
+        }
+      ]
+    },
+    {
+      "id": "fairy-dde-celine-a-line-natural-skin-small-bust-cutie-legs-face-up",
+      "name": "Celine, A-Line, Natural Skin, Small Bust, Cutie Legs, Face Up",
+      "brand": "CP/FairyLand",
+      "original": "Celine, A-Line, Natural Skin, Small Bust, Cutie Legs, Face Up",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": 410.0,
+      "heightBasis": "经销商对应身体版本的含头规格",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 41 cm",
+          "basis": "经销商在本含头商品页列出的对应身体系列全高"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "服装另配",
+          "换眼",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "记录配置",
+          "text": "美国经销商当前具体配置，头型、肤色、面妆与身体版本按本页组成记录；库存日期不是生产版本。"
+        },
+        {
+          "title": "身体版本",
+          "text": "A-line 女体，小胸、Cutie 腿、#3 手；14–16 mm 随机亚克力眼，衣服与假发另配。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.denverdoll.com/product/celine-a-line-natural-skin-small-bust-cutie-legs-face-up/",
+          "title": "Celine, A-Line, Natural Skin, Small Bust, Cutie Legs, Face Up",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "海外经销商产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "fairy-dde-fairyline60-sircca-human-basic-white-skin-blank",
+      "name": "Fairyline60 Sircca Human Basic, White Skin, Blank",
+      "brand": "CP/FairyLand",
+      "original": "Fairyline60 Sircca Human Basic, White Skin, Blank",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "服装另配",
+          "换眼",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "记录配置",
+          "text": "美国经销商当前具体配置，头型、肤色、面妆与身体版本按本页组成记录；库存日期不是生产版本。"
+        },
+        {
+          "title": "人类身体",
+          "text": "本配置采用人类身体，不含角色展示中的兽耳、龙或其他幻想部件。"
+        },
+        {
+          "title": "身体版本",
+          "text": "Sircca Human Basic 配 Fairyline60 女体 Medium Bust F、#18 手、素头；不是龙体版本。"
+        },
+        {
+          "title": "高度口径",
+          "text": "该具体配置页面没有明确整娃高度，保留未知；未从其他身体版本或系列名补数值。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.denverdoll.com/product/fairyline60-sircca-human-basic-white-skin-blank/",
+          "title": "Fairyline60 Sircca Human Basic, White Skin, Blank",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "海外经销商产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "fairy-dde-feeple60-shiwoo-elf-lookback-basic-moe-girl-natural-skin-blank",
+      "name": "Feeple60 Shiwoo Elf Lookback Basic Moe Girl, Natural Skin, Blank",
+      "brand": "CP/FairyLand",
+      "original": "Feeple60 Shiwoo Elf Lookback Basic Moe Girl, Natural Skin, Blank",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": 540.0,
+      "heightBasis": "经销商对应身体版本的含头规格",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 54 cm",
+          "basis": "经销商在本含头商品页列出的对应身体系列全高"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "服装另配",
+          "换眼",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "记录配置",
+          "text": "美国经销商当前具体配置，头型、肤色、面妆与身体版本按本页组成记录；库存日期不是生产版本。"
+        },
+        {
+          "title": "身体版本",
+          "text": "Lookback Shiwoo Elf 头与 Regular Moe 身体、#18 手，素头未上妆；无睡头，另配衣服与假发。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.denverdoll.com/product/feeple60-shiwoo-elf-lookback-basic-moe-girl-natural-skin-blank/",
+          "title": "Feeple60 Shiwoo Elf Lookback Basic Moe Girl, Natural Skin, Blank",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "海外经销商产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "fairy-dde-feeple65-rick-basic-natural-skin-make-up",
+      "name": "Feeple65 Rick Basic, Natural Skin, Make Up",
+      "brand": "CP/FairyLand",
+      "original": "Feeple65 Rick Basic, Natural Skin, Make Up",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "服装另配",
+          "换眼",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "记录配置",
+          "text": "美国经销商当前具体配置，头型、肤色、面妆与身体版本按本页组成记录；库存日期不是生产版本。"
+        },
+        {
+          "title": "身体版本",
+          "text": "Rick 基础版为 F65 男体 2022 Release 与 #1 手、自然肤面妆；角、翅膀、衣服和假发不包含。"
+        },
+        {
+          "title": "高度口径",
+          "text": "该具体配置页面没有明确整娃高度，保留未知；未从其他身体版本或系列名补数值。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.denverdoll.com/product/feeple65-rick-basic-natural-skin-make-up/",
+          "title": "Feeple65 Rick Basic, Natural Skin, Make Up",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "海外经销商产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "fairy-dde-iset-full-package-tan-skin-premium-eyes",
+      "name": "Iset Full Package, Tan Skin, Premium Eyes",
+      "brand": "CP/FairyLand",
+      "original": "Iset Full Package, Tan Skin, Premium Eyes",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换眼",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "记录配置",
+          "text": "美国经销商当前具体配置，头型、肤色、面妆与身体版本按本页组成记录；库存日期不是生产版本。"
+        },
+        {
+          "title": "Full Package 范围",
+          "text": "Iset A-line 大胸、Cutie 腿、#3 手，含面妆、Premium 眼、假发、衣装、高跟脚与所列饰件；无睡头及 Iset A 头。透明树脂鞋／头饰未涂装，不能把饰件材料扩展为身体全部材料。"
+        },
+        {
+          "title": "高度口径",
+          "text": "该具体配置页面没有明确整娃高度，保留未知；未从其他身体版本或系列名补数值。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.denverdoll.com/product/iset-full-package-tan-skin-premium-eyes/",
+          "title": "Iset Full Package, Tan Skin, Premium Eyes",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "海外经销商产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "fairy-dde-pukifee-ante-natural-skin-make-up",
+      "name": "Pukifee Ante, Natural Skin, Make Up",
+      "brand": "CP/FairyLand",
+      "original": "Pukifee Ante, Natural Skin, Make Up",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": 155.0,
+      "heightBasis": "经销商对应身体版本的含头规格",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 15.5 cm",
+          "basis": "经销商在本含头商品页列出的对应身体系列全高"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "服装另配",
+          "换眼",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "记录配置",
+          "text": "美国经销商当前具体配置，头型、肤色、面妆与身体版本按本页组成记录；库存日期不是生产版本。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.denverdoll.com/product/pukifee-ante-natural-skin-make-up/",
+          "title": "Pukifee Ante, Natural Skin, Make Up",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "海外经销商产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "fairy-dde-pukifee-tika-tan-skin-face-up",
+      "name": "Pukifee Tika, Tan Skin, Face Up",
+      "brand": "CP/FairyLand",
+      "original": "Pukifee Tika, Tan Skin, Face Up",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": 155.0,
+      "heightBasis": "经销商对应身体版本的含头规格",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 15.5 cm",
+          "basis": "经销商在本含头商品页列出的对应身体系列全高"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "服装另配",
+          "换眼",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "记录配置",
+          "text": "美国经销商当前具体配置，头型、肤色、面妆与身体版本按本页组成记录；库存日期不是生产版本。"
+        },
+        {
+          "title": "人类身体",
+          "text": "本配置采用人类身体，不含角色展示中的兽耳、龙或其他幻想部件。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.denverdoll.com/product/pukifee-tika-tan-skin-face-up/",
+          "title": "Pukifee Tika, Tan Skin, Face Up",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "海外经销商产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "fairy-dde-pukipuki-ante-white-skin-make-up-sleeping-face-w-make-up",
+      "name": "PukiPuki Ante, White Skin, Make Up, Sleeping Face w/Make Up",
+      "brand": "CP/FairyLand",
+      "original": "PukiPuki Ante, White Skin, Make Up, Sleeping Face w/Make Up",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": 112.0,
+      "heightBasis": "经销商对应身体版本的含头规格",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 11.2 cm",
+          "basis": "经销商在本含头商品页列出的对应身体系列全高"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "服装另配",
+          "换眼",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "记录配置",
+          "text": "美国经销商当前具体配置，头型、肤色、面妆与身体版本按本页组成记录；库存日期不是生产版本。"
+        },
+        {
+          "title": "脸片配套",
+          "text": "本款列带面妆睡脸；不把睡脸当作额外一整个人偶。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.denverdoll.com/product/pukipuki-ante-white-skin-make-up-sleeping-face-w-make-up/",
+          "title": "PukiPuki Ante, White Skin, Make Up, Sleeping Face w/Make Up",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "海外经销商产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "fairy-dde-realpuki-aki-beauty-white-skin-make-up-sleeping-face-w-make-up",
+      "name": "RealPuki Aki, Beauty White Skin, Make Up, Sleeping Face w/Make Up",
+      "brand": "CP/FairyLand",
+      "original": "RealPuki Aki, Beauty White Skin, Make Up, Sleeping Face w/Make Up",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "服装另配",
+          "换眼",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "记录配置",
+          "text": "美国经销商当前具体配置，头型、肤色、面妆与身体版本按本页组成记录；库存日期不是生产版本。"
+        },
+        {
+          "title": "脸片配套",
+          "text": "本款列带面妆睡脸；不把睡脸当作额外一整个人偶。"
+        },
+        {
+          "title": "高度口径",
+          "text": "该具体配置页面没有明确整娃高度，保留未知；未从其他身体版本或系列名补数值。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.denverdoll.com/product/realpuki-aki-beauty-white-skin-make-up-sleeping-face-w-make-up/",
+          "title": "RealPuki Aki, Beauty White Skin, Make Up, Sleeping Face w/Make Up",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "海外经销商产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "fairy-dde-realpuki-titi-natural-skin-make-up-sleeping-face-w-make-up",
+      "name": "RealPuki Titi, Natural Skin, Make Up, Sleeping Face w/Make Up",
+      "brand": "CP/FairyLand",
+      "original": "RealPuki Titi, Natural Skin, Make Up, Sleeping Face w/Make Up",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "服装另配",
+          "换眼",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "记录配置",
+          "text": "美国经销商当前具体配置，头型、肤色、面妆与身体版本按本页组成记录；库存日期不是生产版本。"
+        },
+        {
+          "title": "脸片配套",
+          "text": "本款列带面妆睡脸；不把睡脸当作额外一整个人偶。"
+        },
+        {
+          "title": "高度口径",
+          "text": "该具体配置页面没有明确整娃高度，保留未知；未从其他身体版本或系列名补数值。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.denverdoll.com/product/realpuki-titi-natural-skin-make-up-sleeping-face-w-make-up/",
+          "title": "RealPuki Titi, Natural Skin, Make Up, Sleeping Face w/Make Up",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "海外经销商产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "fairy-dde-ruth-motion-line-boy-beauty-white-skin-make-up",
+      "name": "Ruth, Motion Line Boy, Beauty White Skin, Make Up",
+      "brand": "CP/FairyLand",
+      "original": "Ruth, Motion Line Boy, Beauty White Skin, Make Up",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品及交付配置记录。",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": 410.0,
+      "heightBasis": "经销商对应身体版本的含头规格",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 41 cm",
+          "basis": "经销商在本含头商品页列出的对应身体系列全高"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "服装另配",
+          "换眼",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "记录配置",
+          "text": "美国经销商当前具体配置，头型、肤色、面妆与身体版本按本页组成记录；库存日期不是生产版本。"
+        },
+        {
+          "title": "身体版本",
+          "text": "Motion 男体、#7 手、白肤面妆；不是 A-line 或 Moe 男体。衣服与假发另配。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.denverdoll.com/product/ruth-motion-line-boy-beauty-white-skin-make-up/",
+          "title": "Ruth, Motion Line Boy, Beauty White Skin, Make Up",
+          "supports": "本具体商品的组成、规格与适配范围；照片展示与实际交付分开。",
+          "kind": "海外经销商产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null
     }
   ],
   "resources": [
@@ -40591,7 +46634,12 @@ window.TOY_COMPARE_DATA = {
       "name": "CP/FairyLand · 分版本尺寸表",
       "url": "https://cpfairyland.com/mega-shop/links/measurement-table/",
       "description": "MiniFee、FairyLine、FeePle、pukipuki 与 Realpuki 的头围、颈围、脚长和带头全高；身体单售不能借用带头高度。",
-      "checkedAt": "2026-10-06"
+      "checkedAt": "2026-10-06",
+      "availability": {
+        "state": "temporarily-unavailable",
+        "checkedAt": "2026-10-06",
+        "reason": "官网返回“网站暂时不可用”，原始出处保留，当前改用公开备用入口。"
+      }
     },
     {
       "group": "厂商结构与目录",
@@ -40620,6 +46668,48 @@ window.TOY_COMPARE_DATA = {
       "url": "https://www.threezerohk.com/shop",
       "description": "公开商品规格与发货排期；布制服装是否可脱、金属线所在部位及材料分别核对。",
       "checkedAt": "2026-10-06"
+    },
+    {
+      "name": "Denver Doll · FairyLand 公开备用目录",
+      "url": "https://www.denverdoll.com/product-category/ball-jointed-dolls/fairyland/in-stock-fairyland/",
+      "group": "厂商结构与目录",
+      "description": "FairyLand 官网暂时不可用时查看海外经销商公开型号与库存配置；有些分类也含单售头或配件，需看具体清单。",
+      "checkedAt": "2026-10-06"
+    },
+    {
+      "name": "PARABOX · 身体与头部结构",
+      "url": "https://www.parabox.jp/dollbody.html",
+      "group": "厂商结构与目录",
+      "description": "日本原创外皮、OBITSU 骨架身体与头型说明；身体系列尺寸不直接等于整娃全高。",
+      "checkedAt": "2026-10-06"
+    },
+    {
+      "name": "DOLLCE · Mini Sweets Doll 角色目录",
+      "url": "https://doll.shop-pro.jp/?mode=grp&gid=3048398",
+      "group": "厂商结构与目录",
+      "description": "OBITSU 11 身体搭配 DOLLCE 原创头的角色选配目录；衣服、鞋、眼与假发分别选择。",
+      "checkedAt": "2026-10-06"
+    },
+    {
+      "name": "DOLLCE · Parfait 目录",
+      "url": "https://doll.shop-pro.jp/?mode=grp&gid=2739210",
+      "group": "作者与制作",
+      "description": "OBITSU 22 身体的原创人偶与眼睛、衣装作者署名；同名角色的不同单品衣装分别核对。",
+      "checkedAt": "2026-10-06"
+    },
+    {
+      "name": "Dollmore · 单售身体目录",
+      "url": "https://www.dollmore.net/Product/Category/list/cid/149",
+      "group": "厂商结构与目录",
+      "description": "ABS 拼装、树脂身体与大尺寸素体；目录也列展示躯干，不能把所有项目都当作完整素体。",
+      "checkedAt": "2026-10-06"
+    },
+    {
+      "name": "SOOM · NEOR 目录",
+      "url": "https://dollsoom.com/en/product-category/neor/dolls-neor/neor-13",
+      "group": "作者与制作",
+      "description": "原创可动角色的原型、面妆、艺术指导与展示服装署名；原订购期结束的档案仍可公开阅读。",
+      "checkedAt": "2026-10-06"
     }
   ],
   "recordingRules": [
@@ -40631,7 +46721,7 @@ window.TOY_COMPARE_DATA = {
     "前端的图形是结构示意，不是产品照片。",
     "大类与数量只在资料层统计，前端不展示大类统计卡片。"
   ],
-  "coverage": "共 568 条具体商品／身体／配套记录；持续按具体型号补充，不声称涵盖全部厂商、历史产品或完整展会目录。",
+  "coverage": "共 659 条具体商品／身体／配套记录；持续按具体型号补充，不声称涵盖全部厂商、历史产品或完整展会目录。",
   "previousCheckDate": "2026-10-05",
   "checkDates": {
     "azone-body-pfl103-wht": "2026-10-06",
@@ -41124,6 +47214,97 @@ window.TOY_COMPARE_DATA = {
     "azone-4582119997298": "2026-10-06",
     "azone-4573199849980": "2026-10-06",
     "azone-4573199849997": "2026-10-06",
-    "azone-4573199849331": "2026-10-06"
+    "azone-4573199849331": "2026-10-06",
+    "dollmore-body-10000": "2026-10-06",
+    "dollmore-body-10001": "2026-10-06",
+    "dollmore-body-10002": "2026-10-06",
+    "dollmore-body-10003": "2026-10-06",
+    "dollmore-body-10004": "2026-10-06",
+    "dollmore-body-10005": "2026-10-06",
+    "dollmore-body-10193": "2026-10-06",
+    "dollmore-body-10218": "2026-10-06",
+    "dollmore-body-10219": "2026-10-06",
+    "dollmore-body-19554": "2026-10-06",
+    "dollmore-body-20589": "2026-10-06",
+    "dollmore-body-20784": "2026-10-06",
+    "dollmore-body-20785": "2026-10-06",
+    "dollmore-body-20797": "2026-10-06",
+    "dollmore-body-21244": "2026-10-06",
+    "dollmore-body-21335": "2026-10-06",
+    "dollmore-body-21519": "2026-10-06",
+    "dollmore-body-21520": "2026-10-06",
+    "dollmore-body-21540": "2026-10-06",
+    "dollmore-body-22552": "2026-10-06",
+    "dollmore-body-22642": "2026-10-06",
+    "dollmore-body-22646": "2026-10-06",
+    "dollmore-body-22647": "2026-10-06",
+    "dollmore-body-22687": "2026-10-06",
+    "dollmore-body-22688": "2026-10-06",
+    "dollmore-body-22689": "2026-10-06",
+    "dollmore-body-22690": "2026-10-06",
+    "dollmore-body-22835": "2026-10-06",
+    "dollmore-body-23509": "2026-10-06",
+    "dollmore-body-9990": "2026-10-06",
+    "dollmore-body-9991": "2026-10-06",
+    "dollmore-body-9992": "2026-10-06",
+    "dollmore-body-9993": "2026-10-06",
+    "dollmore-body-9994": "2026-10-06",
+    "dollmore-body-9995": "2026-10-06",
+    "dollmore-body-9997": "2026-10-06",
+    "dollmore-body-9998": "2026-10-06",
+    "dollmore-body-9999": "2026-10-06",
+    "dollce-mini-187602340": "2026-10-06",
+    "dollce-mini-189795867": "2026-10-06",
+    "dollce-mini-184252437": "2026-10-06",
+    "dollce-mini-184383713": "2026-10-06",
+    "dollce-mini-184383743": "2026-10-06",
+    "dollce-mini-184383845": "2026-10-06",
+    "dollce-mini-184384031": "2026-10-06",
+    "dollce-mini-184384066": "2026-10-06",
+    "dollce-mini-184384087": "2026-10-06",
+    "dollce-mini-184385091": "2026-10-06",
+    "dollce-mini-184385106": "2026-10-06",
+    "dollce-mini-184385141": "2026-10-06",
+    "dollce-mini-184385148": "2026-10-06",
+    "dollce-mini-184385348": "2026-10-06",
+    "dollce-mini-184385366": "2026-10-06",
+    "dollce-mini-184385400": "2026-10-06",
+    "dollce-mini-184385517": "2026-10-06",
+    "dollce-mini-184385583": "2026-10-06",
+    "dollce-mini-184385614": "2026-10-06",
+    "dollce-mini-184385621": "2026-10-06",
+    "dollce-parfait-192914756": "2026-10-06",
+    "dollce-parfait-192914761": "2026-10-06",
+    "dollce-parfait-192954080": "2026-10-06",
+    "dollce-parfait-192954092": "2026-10-06",
+    "dollce-parfait-192954093": "2026-10-06",
+    "dollce-parfait-193815164": "2026-10-06",
+    "dollce-parfait-193815179": "2026-10-06",
+    "dollce-parfait-193815196": "2026-10-06",
+    "parabox-body-2352": "2026-10-06",
+    "parabox-body-2354": "2026-10-06",
+    "parabox-body-2355": "2026-10-06",
+    "parabox-body-2356": "2026-10-06",
+    "parabox-body-2357": "2026-10-06",
+    "parabox-body-3999": "2026-10-06",
+    "parabox-model-2059": "2026-10-06",
+    "parabox-model-6644": "2026-10-06",
+    "parabox-model-6557": "2026-10-06",
+    "parabox-model-6068": "2026-10-06",
+    "soom-neor13-rossi-broken-doll": "2026-10-06",
+    "soom-neor13-holin-fluffy-clown": "2026-10-06",
+    "soom-neor13-lumi-trickling-unicorn": "2026-10-06",
+    "soom-neor13-movy-mysterious-fairy": "2026-10-06",
+    "fairy-dde-celine-a-line-natural-skin-small-bust-cutie-legs-face-up": "2026-10-06",
+    "fairy-dde-fairyline60-sircca-human-basic-white-skin-blank": "2026-10-06",
+    "fairy-dde-feeple60-shiwoo-elf-lookback-basic-moe-girl-natural-skin-blank": "2026-10-06",
+    "fairy-dde-feeple65-rick-basic-natural-skin-make-up": "2026-10-06",
+    "fairy-dde-iset-full-package-tan-skin-premium-eyes": "2026-10-06",
+    "fairy-dde-pukifee-ante-natural-skin-make-up": "2026-10-06",
+    "fairy-dde-pukifee-tika-tan-skin-face-up": "2026-10-06",
+    "fairy-dde-pukipuki-ante-white-skin-make-up-sleeping-face-w-make-up": "2026-10-06",
+    "fairy-dde-realpuki-aki-beauty-white-skin-make-up-sleeping-face-w-make-up": "2026-10-06",
+    "fairy-dde-realpuki-titi-natural-skin-make-up-sleeping-face-w-make-up": "2026-10-06",
+    "fairy-dde-ruth-motion-line-boy-beauty-white-skin-make-up": "2026-10-06"
   }
 };

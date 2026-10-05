@@ -37,6 +37,18 @@
           "'": "&#39;",
         })[c],
     );
+  const unavailable = (s) =>
+    s.availability?.state === "temporarily-unavailable";
+  const sourceLink = (s, label = s.title || s.name) =>
+    unavailable(s)
+      ? `<span class="tc-muted" title="${esc(s.url)}">${esc(label)}（暂不可用）</span>`
+      : `<a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(label)}</a>`;
+  const sourceStatus = (s) =>
+    unavailable(s)
+      ? `<p class="tc-meta">${esc(s.availability.reason)} 核对：${esc(s.availability.checkedAt)}。</p>`
+      : "";
+  const primarySource = (p) =>
+    p.sources.find((s) => !unavailable(s)) || p.sources[0];
   // Pixel marks are tag icons; product thumbnails use separate small line drawings.
   const pixel = (rows) =>
     `<svg viewBox="0 0 ${Math.max(...rows.map((r) => r.length))} ${rows.length}" fill="currentColor" shape-rendering="crispEdges" aria-hidden="true">${rows.flatMap((r, y) => [...r].map((c, x) => (c === "." ? "" : `<rect x="${x}" y="${y}" width="1" height="1"${c === "+" ? ' opacity=".35"' : c === "o" ? ' opacity=".6"' : ""}/>`))).join("")}</svg>`;
@@ -327,7 +339,7 @@
       })
       .join(
         "",
-      )}</div><div class="tc-detail-actions"><button class="tc-primary" data-select="${id}" aria-pressed="${selected.has(id)}">${selectLabel(id)}</button><a href="${esc(p.sources[0].url)}" target="_blank" rel="noopener noreferrer">${esc(p.sources[0].kind)}</a></div><details><summary>展开说明与适配限制</summary><div>${notes(p)}</div></details><details><summary>产品来源与展会记录 (${p.sources.length})</summary><div>${p.sources.map((s) => `<div class="tc-source"><a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.title)}</a><p>${esc(s.kind)} · ${esc(s.supports)}</p></div>`).join("")}<p class="tc-meta">${esc(p.event || "尚未取得这件产品对应的展会证据。")}</p></div></details>`;
+      )}</div><div class="tc-detail-actions"><button class="tc-primary" data-select="${id}" aria-pressed="${selected.has(id)}">${selectLabel(id)}</button>${sourceLink(primarySource(p), primarySource(p).kind)}</div><details><summary>展开说明与适配限制</summary><div>${notes(p)}</div></details><details><summary>产品来源与展会记录 (${p.sources.length})</summary><div>${p.sources.map((s) => `<div class="tc-source">${sourceLink(s)}<p>${esc(s.kind)} · ${esc(s.supports)}</p>${sourceStatus(s)}</div>`).join("")}<p class="tc-meta">${esc(p.event || "尚未取得这件产品对应的展会证据。")}</p></div></details>`;
   }
   function showDetail(id) {
     fillDetail(id);
@@ -403,7 +415,7 @@
           .filter((r) => r.group === group)
           .map(
             (r) =>
-              `<div class="tc-resource"><a href="${esc(r.url)}" target="_blank" rel="noopener noreferrer">${esc(r.name)}</a><p>${esc(r.description)}</p></div>`,
+              `<div class="tc-resource">${sourceLink(r)}<p>${esc(r.description)}</p>${sourceStatus(r)}</div>`,
           )
           .join("")}`,
     )
@@ -419,7 +431,7 @@
   $("tc-raw").innerHTML = products
     .map(
       (p) =>
-        `<tr><td>${esc(p.brand)}</td><td>${esc(p.name)}</td><td>${esc(p.tags.joint.join("、") || "不适用")}</td><td>${esc(p.sizeNA ? "不适用" : p.dimensions.map((d) => d.label + "（" + d.basis + "）").join("；") || "未披露")}</td><td><a href="${esc(p.sources[0].url)}" target="_blank" rel="noopener noreferrer">${esc(p.sources[0].kind)}</a></td></tr>`,
+        `<tr><td>${esc(p.brand)}</td><td>${esc(p.name)}</td><td>${esc(p.tags.joint.join("、") || "不适用")}</td><td>${esc(p.sizeNA ? "不适用" : p.dimensions.map((d) => d.label + "（" + d.basis + "）").join("；") || "未披露")}</td><td>${sourceLink(primarySource(p), primarySource(p).kind)}</td></tr>`,
     )
     .join("");
   root.addEventListener("click", (e) => {
