@@ -879,12 +879,12 @@ window.TOY_COMPARE_DATA = {
       "icon": "frame",
       "scale": "比例 1:6",
       "heightMm": 220,
-      "heightBasis": "官方身体约 22 cm，不附头",
+      "heightBasis": "官方 S 胸规格表全长约 22 cm；不附头，约数随测量方法变化。",
       "sizeNA": false,
       "dimensions": [
         {
-          "label": "高度 22 cm",
-          "basis": "官方身体约 22 cm，不附头"
+          "label": "素体全长约 22 cm",
+          "basis": "官方 S 胸规格表全长约 22 cm；不附头，约数随测量方法变化。"
         }
       ],
       "tags": {
@@ -893,7 +893,8 @@ window.TOY_COMPARE_DATA = {
           "关节可动"
         ],
         "delivery": [
-          "素体成品"
+          "素体成品",
+          "头部另配"
         ],
         "dress": [
           "布衣穿脱",
@@ -917,11 +918,23 @@ window.TOY_COMPARE_DATA = {
         },
         {
           "title": "交付内容",
-          "text": "无头自然肤色 S 胸素体，附持物／握拳手与头部适配器。"
+          "text": "身体默认装张开手、中号头部适配器；另附持物手、握拳手、小／大适配器与固定垫圈。无头，头与衣服另配。"
         },
         {
           "title": "适配范围",
           "text": "不同批次的肤色与关节强度可能有差别；未证明与 24 cm 的所有衣服通用。"
+        },
+        {
+          "title": "厂商与叫法",
+          "text": "OB22 是 OBITSU BODY 22 的常见简称，厂商为日本株式会社オビツ製作所（Obitsu Plastic Manufacturing）。不是 AZONE 的厂牌。"
+        },
+        {
+          "title": "头部与维护",
+          "text": "按头部首孔选择适配器，不能保证适配所有头。官方不单独销售本款首部、脚踝等维护小零件；关节松紧和肤色有个体／批次差异。"
+        },
+        {
+          "title": "S 胸参考尺寸",
+          "text": "官方尺寸表（cm）：肩宽 3.4、胸围 8.6、腰围 6.7、臀围 9.5；脚底长 2.4 × 宽 0.9。为约数，不能据此保证服装通用。"
         }
       ],
       "sources": [
@@ -930,9 +943,33 @@ window.TOY_COMPARE_DATA = {
           "title": "22BD-F01N-S / ナチュラル",
           "url": "https://obitsu.co.jp/doll-division/obitsu-body-and-parts/obitsu-body/obitsu-body-22/",
           "supports": "型号、交付形态与商品规格"
+        },
+        {
+          "kind": "官方尺寸与配件表",
+          "title": "OBITSU BODY 22：S 胸尺寸与附属件",
+          "url": "https://obitsu.co.jp/doll-division/body-spec/obitsu-body-22/",
+          "supports": "默认 S 胸的尺寸口径、换手、头部适配器与维护零件限制。"
+        },
+        {
+          "kind": "官方适配 FAQ",
+          "title": "OBITSU：跨厂商适配与关节说明",
+          "url": "https://obitsu.co.jp/doll-division/faq/",
+          "supports": "官方未验证全部第三方头／服装适配；具体连接需核对。"
+        },
+        {
+          "kind": "官方厂商主页",
+          "title": "株式会社オビツ製作所",
+          "url": "https://obitsu.co.jp/",
+          "supports": "厂商全称与所在地；不替代本款产地标示。"
         }
       ],
-      "event": null
+      "event": null,
+      "aliases": [
+        "OB22",
+        "OB 22",
+        "オビツ22",
+        "オビツ製作所"
+      ]
     },
     {
       "id": "obitsu-24-s-matte",
@@ -945,12 +982,16 @@ window.TOY_COMPARE_DATA = {
       "icon": "frame",
       "scale": "约 1:6",
       "heightMm": 240,
-      "heightBasis": "官方身体约 24 cm，不附头",
+      "heightBasis": "商品页标称约 24 cm；官方 S 胸规格表另列全长约 21.8 cm，两页口径未统一，不当作实测同值。",
       "sizeNA": false,
       "dimensions": [
         {
-          "label": "高度 24 cm",
-          "basis": "官方身体约 24 cm，不附头"
+          "label": "标称约 24 cm",
+          "basis": "官方商品页的近似高度；不附头。"
+        },
+        {
+          "label": "规格表全长约 21.8 cm",
+          "basis": "官方默认 S 胸尺寸表；与商品页约 24 cm 并列保留，未确认口径差异原因。"
         }
       ],
       "tags": {
@@ -959,7 +1000,8 @@ window.TOY_COMPARE_DATA = {
           "关节可动"
         ],
         "delivery": [
-          "素体成品"
+          "素体成品",
+          "头部另配"
         ],
         "dress": [
           "布衣穿脱",
@@ -983,11 +1025,23 @@ window.TOY_COMPARE_DATA = {
         },
         {
           "title": "交付与适配",
-          "text": "无头，附手型与头部适配器。官方有 24／26 共用手套件，但这不是全身和全部衣服通用的证明。"
+          "text": "身体默认装张开手、中号头部适配器；另附持物手、握拳手、小／大适配器与固定垫圈。无头，头与衣服另配。"
         },
         {
           "title": "尺寸口径",
-          "text": "约 24 cm 为身体规格，不含另配头。"
+          "text": "商品页标称约 24 cm；官方 S 胸规格表另列全长约 21.8 cm，两页口径未统一，不当作实测同值。"
+        },
+        {
+          "title": "厂商与叫法",
+          "text": "OB24 是 OBITSU BODY 24 的常见简称，厂商为日本株式会社オビツ製作所（Obitsu Plastic Manufacturing）。不是 AZONE 的厂牌。"
+        },
+        {
+          "title": "头部与维护",
+          "text": "按头部首孔选择适配器，不能保证适配所有头。官方不单独销售本款首部、脚踝等维护小零件；关节松紧和肤色有个体／批次差异。"
+        },
+        {
+          "title": "S 胸参考尺寸",
+          "text": "官方尺寸表（cm）：肩宽 3.2、腰围 7.4、臀围 9.8；脚底长 2.5 × 宽 1.1。胸围在同页图文与表格也有差异，选服装请核对原页与具体身体。"
         }
       ],
       "sources": [
@@ -996,9 +1050,33 @@ window.TOY_COMPARE_DATA = {
           "title": "24BD-F02N-S / ナチュラル・マットスキン",
           "url": "https://obitsu.co.jp/doll-division/obitsu-body-and-parts/obitsu-body/obitsu-body-24/",
           "supports": "型号、交付形态与商品规格"
+        },
+        {
+          "kind": "官方尺寸与配件表",
+          "title": "OBITSU BODY 24：S 胸尺寸与附属件",
+          "url": "https://obitsu.co.jp/doll-division/body-spec/obitsu-body-24/",
+          "supports": "默认 S 胸的尺寸口径、换手、头部适配器与维护零件限制。"
+        },
+        {
+          "kind": "官方适配 FAQ",
+          "title": "OBITSU：跨厂商适配与关节说明",
+          "url": "https://obitsu.co.jp/doll-division/faq/",
+          "supports": "官方未验证全部第三方头／服装适配；具体连接需核对。"
+        },
+        {
+          "kind": "官方厂商主页",
+          "title": "株式会社オビツ製作所",
+          "url": "https://obitsu.co.jp/",
+          "supports": "厂商全称与所在地；不替代本款产地标示。"
         }
       ],
-      "event": null
+      "event": null,
+      "aliases": [
+        "OB24",
+        "OB 24",
+        "オビツ24",
+        "オビツ製作所"
+      ]
     },
     {
       "id": "obitsu-50-white",
@@ -14997,7 +15075,8 @@ window.TOY_COMPARE_DATA = {
           "头部另配"
         ],
         "dress": [
-          "服装另配"
+          "服装另配",
+          "换手"
         ],
         "material": [
           "材料未披露"
@@ -15021,7 +15100,11 @@ window.TOY_COMPARE_DATA = {
         },
         {
           "title": "销售页面口径",
-          "text": "页面库存、再入荷及会员购买限制可能变化；此条是型号资料，不表示现货或代购热度排名。"
+          "text": "资料可免登录阅读，购买限制与现货以商品页为准。官方 2026 年 8 月 27 日公告逐步恢复 Emotion 以外的 Pure Neemo 系列店头销售，各店方式不同；不据此推定本款有现货。"
+        },
+        {
+          "title": "换手与批次",
+          "text": "官方 PFL065 白肌换手注明适用 Emotion／Feel 女孩 S、M。普通换手 A／B 从 2026 年 8 月出货起由 PFL063／064 改为 PFL107／108；另售配件，不等于本体附送。"
         }
       ],
       "sources": [
@@ -15036,6 +15119,24 @@ window.TOY_COMPARE_DATA = {
           "title": "1/6 AZONE 原创素体介绍",
           "url": "https://news.azone-int.co.jp/archives/43318",
           "supports": "对应系列的可动结构；不借用旧批次配件、其他型号高度或库存。"
+        },
+        {
+          "kind": "官方配件改版通知",
+          "title": "AZONE：2026 年 8 月起换手配件改版",
+          "url": "https://news.azone-int.co.jp/archives/70590",
+          "supports": "换手配件的新旧品番及内容变化；配件另售，不代表素体附送。"
+        },
+        {
+          "kind": "官方配件适配说明",
+          "title": "Pure Neemo 2 换手：适用 Emotion／Feel 女孩 S、M",
+          "url": "https://www.azone-int.co.jp/?cid=126&jancd=4573199928364&sid=cdm502",
+          "supports": "PFL065 白肌换手的指定适用身体；不代表其他接口或全身配件通用。"
+        },
+        {
+          "kind": "官方销售方式公告",
+          "title": "Pure Neemo 销售调整（8/27、9/1 更新）",
+          "url": "https://news.azone-int.co.jp/archives/70323",
+          "supports": "销售方式变化与适用系列；不作为本款库存或热度排名证据。"
         }
       ],
       "event": null
@@ -15063,7 +15164,8 @@ window.TOY_COMPARE_DATA = {
           "头部另配"
         ],
         "dress": [
-          "服装另配"
+          "服装另配",
+          "换手"
         ],
         "material": [
           "材料未披露"
@@ -15087,7 +15189,11 @@ window.TOY_COMPARE_DATA = {
         },
         {
           "title": "销售页面口径",
-          "text": "页面库存、再入荷及会员购买限制可能变化；此条是型号资料，不表示现货或代购热度排名。"
+          "text": "资料可免登录阅读，购买限制与现货以商品页为准。官方 2026 年 8 月 27 日公告逐步恢复 Emotion 以外的 Pure Neemo 系列店头销售，各店方式不同；不据此推定本款有现货。"
+        },
+        {
+          "title": "换手与批次",
+          "text": "官方 PFL065 白肌换手注明适用 Emotion／Feel 女孩 S、M。普通换手 A／B 从 2026 年 8 月出货起由 PFL063／064 改为 PFL107／108；另售配件，不等于本体附送。"
         }
       ],
       "sources": [
@@ -15102,6 +15208,24 @@ window.TOY_COMPARE_DATA = {
           "title": "1/6 AZONE 原创素体介绍",
           "url": "https://news.azone-int.co.jp/archives/43318",
           "supports": "对应系列的可动结构；不借用旧批次配件、其他型号高度或库存。"
+        },
+        {
+          "kind": "官方配件改版通知",
+          "title": "AZONE：2026 年 8 月起换手配件改版",
+          "url": "https://news.azone-int.co.jp/archives/70590",
+          "supports": "换手配件的新旧品番及内容变化；配件另售，不代表素体附送。"
+        },
+        {
+          "kind": "官方配件适配说明",
+          "title": "Pure Neemo 2 换手：适用 Emotion／Feel 女孩 S、M",
+          "url": "https://www.azone-int.co.jp/?cid=126&jancd=4573199928364&sid=cdm502",
+          "supports": "PFL065 白肌换手的指定适用身体；不代表其他接口或全身配件通用。"
+        },
+        {
+          "kind": "官方销售方式公告",
+          "title": "Pure Neemo 销售调整（8/27、9/1 更新）",
+          "url": "https://news.azone-int.co.jp/archives/70323",
+          "supports": "销售方式变化与适用系列；不作为本款库存或热度排名证据。"
         }
       ],
       "event": null
@@ -15129,7 +15253,8 @@ window.TOY_COMPARE_DATA = {
           "头部另配"
         ],
         "dress": [
-          "服装另配"
+          "服装另配",
+          "换手"
         ],
         "material": [
           "材料未披露"
@@ -15145,7 +15270,7 @@ window.TOY_COMPARE_DATA = {
         },
         {
           "title": "结构版本",
-          "text": "Emotion 系列增加胸下与腰部活动结构；本款白肌 SKU 单列。"
+          "text": "Emotion 系列增加胸下、腰关节，支持跪坐和前屈等姿势；S、M 为不同身体规格。"
         },
         {
           "title": "高度与配件限制",
@@ -15153,7 +15278,11 @@ window.TOY_COMPARE_DATA = {
         },
         {
           "title": "销售页面口径",
-          "text": "页面库存、再入荷及会员购买限制可能变化；此条是型号资料，不表示现货或代购热度排名。"
+          "text": "资料可免登录阅读，购买限制与现货以商品页为准。官方 2026 年 8 月 27 日公告逐步恢复 Emotion 以外的 Pure Neemo 系列店头销售，各店方式不同；不据此推定本款有现货。"
+        },
+        {
+          "title": "换手与批次",
+          "text": "官方 PFL065 白肌换手注明适用 Emotion／Feel 女孩 S、M。普通换手 A／B 从 2026 年 8 月出货起由 PFL063／064 改为 PFL107／108；另售配件，不等于本体附送。"
         }
       ],
       "sources": [
@@ -15168,6 +15297,24 @@ window.TOY_COMPARE_DATA = {
           "title": "1/6 AZONE 原创素体介绍",
           "url": "https://news.azone-int.co.jp/archives/43318",
           "supports": "对应系列的可动结构；不借用旧批次配件、其他型号高度或库存。"
+        },
+        {
+          "kind": "官方配件改版通知",
+          "title": "AZONE：2026 年 8 月起换手配件改版",
+          "url": "https://news.azone-int.co.jp/archives/70590",
+          "supports": "换手配件的新旧品番及内容变化；配件另售，不代表素体附送。"
+        },
+        {
+          "kind": "官方配件适配说明",
+          "title": "Pure Neemo 2 换手：适用 Emotion／Feel 女孩 S、M",
+          "url": "https://www.azone-int.co.jp/?cid=126&jancd=4573199928364&sid=cdm502",
+          "supports": "PFL065 白肌换手的指定适用身体；不代表其他接口或全身配件通用。"
+        },
+        {
+          "kind": "官方销售方式公告",
+          "title": "Pure Neemo 销售调整（8/27、9/1 更新）",
+          "url": "https://news.azone-int.co.jp/archives/70323",
+          "supports": "销售方式变化与适用系列；不作为本款库存或热度排名证据。"
         }
       ],
       "event": null
@@ -15195,7 +15342,8 @@ window.TOY_COMPARE_DATA = {
           "头部另配"
         ],
         "dress": [
-          "服装另配"
+          "服装另配",
+          "换手"
         ],
         "material": [
           "材料未披露"
@@ -15211,7 +15359,7 @@ window.TOY_COMPARE_DATA = {
         },
         {
           "title": "结构版本",
-          "text": "Emotion 系列增加胸下与腰部活动结构；本款白肌 SKU 单列。"
+          "text": "Emotion 系列增加胸下、腰关节，支持跪坐和前屈等姿势；S、M 为不同身体规格。"
         },
         {
           "title": "高度与配件限制",
@@ -15219,7 +15367,11 @@ window.TOY_COMPARE_DATA = {
         },
         {
           "title": "销售页面口径",
-          "text": "页面库存、再入荷及会员购买限制可能变化；此条是型号资料，不表示现货或代购热度排名。"
+          "text": "资料可免登录阅读，购买限制与现货以商品页为准。官方 2026 年 8 月 27 日公告逐步恢复 Emotion 以外的 Pure Neemo 系列店头销售，各店方式不同；不据此推定本款有现货。"
+        },
+        {
+          "title": "换手与批次",
+          "text": "官方 PFL065 白肌换手注明适用 Emotion／Feel 女孩 S、M。普通换手 A／B 从 2026 年 8 月出货起由 PFL063／064 改为 PFL107／108；另售配件，不等于本体附送。"
         }
       ],
       "sources": [
@@ -15234,6 +15386,24 @@ window.TOY_COMPARE_DATA = {
           "title": "1/6 AZONE 原创素体介绍",
           "url": "https://news.azone-int.co.jp/archives/43318",
           "supports": "对应系列的可动结构；不借用旧批次配件、其他型号高度或库存。"
+        },
+        {
+          "kind": "官方配件改版通知",
+          "title": "AZONE：2026 年 8 月起换手配件改版",
+          "url": "https://news.azone-int.co.jp/archives/70590",
+          "supports": "换手配件的新旧品番及内容变化；配件另售，不代表素体附送。"
+        },
+        {
+          "kind": "官方配件适配说明",
+          "title": "Pure Neemo 2 换手：适用 Emotion／Feel 女孩 S、M",
+          "url": "https://www.azone-int.co.jp/?cid=126&jancd=4573199928364&sid=cdm502",
+          "supports": "PFL065 白肌换手的指定适用身体；不代表其他接口或全身配件通用。"
+        },
+        {
+          "kind": "官方销售方式公告",
+          "title": "Pure Neemo 销售调整（8/27、9/1 更新）",
+          "url": "https://news.azone-int.co.jp/archives/70323",
+          "supports": "销售方式变化与适用系列；不作为本款库存或热度排名证据。"
         }
       ],
       "event": null
@@ -15261,7 +15431,8 @@ window.TOY_COMPARE_DATA = {
           "头部另配"
         ],
         "dress": [
-          "服装另配"
+          "服装另配",
+          "换手"
         ],
         "material": [
           "材料未披露"
@@ -15277,7 +15448,7 @@ window.TOY_COMPARE_DATA = {
         },
         {
           "title": "结构版本",
-          "text": "Flection 为关节可动素体。保留本款 M 女孩白肌型号，不从同系列尺寸字母推算高度。"
+          "text": "Flection 系列有 22 处可动部位。2022 年改用新模具后，默认张开手逐步改为自然手；本条为 M 女孩白肌。"
         },
         {
           "title": "高度与配件限制",
@@ -15285,7 +15456,11 @@ window.TOY_COMPARE_DATA = {
         },
         {
           "title": "销售页面口径",
-          "text": "页面库存、再入荷及会员购买限制可能变化；此条是型号资料，不表示现货或代购热度排名。"
+          "text": "资料可免登录阅读，购买限制与现货以商品页为准。官方 2026 年 8 月 27 日公告逐步恢复 Emotion 以外的 Pure Neemo 系列店头销售，各店方式不同；不据此推定本款有现货。"
+        },
+        {
+          "title": "换手与批次",
+          "text": "新模具可使用 Flection 换手，但松紧、肤色会有个体差异。2026 年 8 月起小手 A 由 PFL057 改为 PFL105，另有内容改版的 PFL106；换手套件另售。"
         }
       ],
       "sources": [
@@ -15300,6 +15475,24 @@ window.TOY_COMPARE_DATA = {
           "title": "1/6 AZONE 原创素体介绍",
           "url": "https://news.azone-int.co.jp/archives/43318",
           "supports": "对应系列的可动结构；不借用旧批次配件、其他型号高度或库存。"
+        },
+        {
+          "kind": "官方配件改版通知",
+          "title": "AZONE：2026 年 8 月起换手配件改版",
+          "url": "https://news.azone-int.co.jp/archives/70590",
+          "supports": "换手配件的新旧品番及内容变化；配件另售，不代表素体附送。"
+        },
+        {
+          "kind": "官方身体改版说明",
+          "title": "Flection S／M：新模具与默认手型变化",
+          "url": "https://news.azone-int.co.jp/archives/48837",
+          "supports": "默认手型、新旧模具的换手与松紧／色差限制。"
+        },
+        {
+          "kind": "官方销售方式公告",
+          "title": "Pure Neemo 销售调整（8/27、9/1 更新）",
+          "url": "https://news.azone-int.co.jp/archives/70323",
+          "supports": "销售方式变化与适用系列；不作为本款库存或热度排名证据。"
         }
       ],
       "event": null
@@ -15327,7 +15520,8 @@ window.TOY_COMPARE_DATA = {
           "头部另配"
         ],
         "dress": [
-          "服装另配"
+          "服装另配",
+          "换手"
         ],
         "material": [
           "材料未披露"
@@ -15352,6 +15546,10 @@ window.TOY_COMPARE_DATA = {
         {
           "title": "销售页面口径",
           "text": "页面库存、再入荷及会员购买限制可能变化；此条是型号资料，不表示现货或代购热度排名。"
+        },
+        {
+          "title": "换手与配件",
+          "text": "官方为 S／M 系列列出 PCA012（A）、PCA013（B） 换手，另有 PCA011 关节套件与 PCA010 首关节。配件另售；D 和 P 的换手另外列型，不默认通用。"
         }
       ],
       "sources": [
@@ -15362,10 +15560,10 @@ window.TOY_COMPARE_DATA = {
           "supports": "本款独立素体、型号、尺寸口径、材料及配件范围；未披露项保留。"
         },
         {
-          "kind": "官方系列说明",
-          "title": "Picco Neemo / Flection 系列结构介绍",
-          "url": "https://www.azone-int.co.jp/?sid=pnm000",
-          "supports": "对应系列的可动结构；不借用旧批次配件、其他型号高度或库存。"
+          "kind": "官方型号与配件目录",
+          "title": "AZONE：1/12 Picco Neemo 素体与配件",
+          "url": "https://news.azone-int.co.jp/archives/43183",
+          "supports": "核对当前 PCN 型号及 S／M、D、P 各自的换手和关节配件。"
         }
       ],
       "event": null
@@ -15393,7 +15591,8 @@ window.TOY_COMPARE_DATA = {
           "头部另配"
         ],
         "dress": [
-          "服装另配"
+          "服装另配",
+          "换手"
         ],
         "material": [
           "材料未披露"
@@ -15418,6 +15617,10 @@ window.TOY_COMPARE_DATA = {
         {
           "title": "销售页面口径",
           "text": "页面库存、再入荷及会员购买限制可能变化；此条是型号资料，不表示现货或代购热度排名。"
+        },
+        {
+          "title": "换手与配件",
+          "text": "官方为 S／M 系列列出 PCA012（A）、PCA013（B） 换手，另有 PCA011 关节套件与 PCA010 首关节。配件另售；D 和 P 的换手另外列型，不默认通用。"
         }
       ],
       "sources": [
@@ -15428,10 +15631,10 @@ window.TOY_COMPARE_DATA = {
           "supports": "本款独立素体、型号、尺寸口径、材料及配件范围；未披露项保留。"
         },
         {
-          "kind": "官方系列说明",
-          "title": "Picco Neemo / Flection 系列结构介绍",
-          "url": "https://www.azone-int.co.jp/?sid=pnm000",
-          "supports": "对应系列的可动结构；不借用旧批次配件、其他型号高度或库存。"
+          "kind": "官方型号与配件目录",
+          "title": "AZONE：1/12 Picco Neemo 素体与配件",
+          "url": "https://news.azone-int.co.jp/archives/43183",
+          "supports": "核对当前 PCN 型号及 S／M、D、P 各自的换手和关节配件。"
         }
       ],
       "event": null
@@ -15459,7 +15662,8 @@ window.TOY_COMPARE_DATA = {
           "头部另配"
         ],
         "dress": [
-          "服装另配"
+          "服装另配",
+          "换手"
         ],
         "material": [
           "材料未披露"
@@ -15484,6 +15688,10 @@ window.TOY_COMPARE_DATA = {
         {
           "title": "销售页面口径",
           "text": "页面库存、再入荷及会员购买限制可能变化；此条是型号资料，不表示现货或代购热度排名。"
+        },
+        {
+          "title": "换手与配件",
+          "text": "官方为 S／M 系列列出 PCA012（A）、PCA013（B） 换手，另有 PCA011 关节套件与 PCA010 首关节。配件另售；D 和 P 的换手另外列型，不默认通用。"
         }
       ],
       "sources": [
@@ -15494,10 +15702,10 @@ window.TOY_COMPARE_DATA = {
           "supports": "本款独立素体、型号、尺寸口径、材料及配件范围；未披露项保留。"
         },
         {
-          "kind": "官方系列说明",
-          "title": "Picco Neemo / Flection 系列结构介绍",
-          "url": "https://www.azone-int.co.jp/?sid=pnm000",
-          "supports": "对应系列的可动结构；不借用旧批次配件、其他型号高度或库存。"
+          "kind": "官方型号与配件目录",
+          "title": "AZONE：1/12 Picco Neemo 素体与配件",
+          "url": "https://news.azone-int.co.jp/archives/43183",
+          "supports": "核对当前 PCN 型号及 S／M、D、P 各自的换手和关节配件。"
         }
       ],
       "event": null
@@ -15525,7 +15733,8 @@ window.TOY_COMPARE_DATA = {
           "头部另配"
         ],
         "dress": [
-          "服装另配"
+          "服装另配",
+          "换手"
         ],
         "material": [
           "材料未披露"
@@ -15550,6 +15759,10 @@ window.TOY_COMPARE_DATA = {
         {
           "title": "销售页面口径",
           "text": "页面库存、再入荷及会员购买限制可能变化；此条是型号资料，不表示现货或代购热度排名。"
+        },
+        {
+          "title": "换手与配件",
+          "text": "官方为 S／M 系列列出 PCA012（A）、PCA013（B） 换手，另有 PCA011 关节套件与 PCA010 首关节。配件另售；D 和 P 的换手另外列型，不默认通用。"
         }
       ],
       "sources": [
@@ -15560,10 +15773,10 @@ window.TOY_COMPARE_DATA = {
           "supports": "本款独立素体、型号、尺寸口径、材料及配件范围；未披露项保留。"
         },
         {
-          "kind": "官方系列说明",
-          "title": "Picco Neemo / Flection 系列结构介绍",
-          "url": "https://www.azone-int.co.jp/?sid=pnm000",
-          "supports": "对应系列的可动结构；不借用旧批次配件、其他型号高度或库存。"
+          "kind": "官方型号与配件目录",
+          "title": "AZONE：1/12 Picco Neemo 素体与配件",
+          "url": "https://news.azone-int.co.jp/archives/43183",
+          "supports": "核对当前 PCN 型号及 S／M、D、P 各自的换手和关节配件。"
         }
       ],
       "event": null
@@ -15591,7 +15804,8 @@ window.TOY_COMPARE_DATA = {
           "头部另配"
         ],
         "dress": [
-          "服装另配"
+          "服装另配",
+          "换手"
         ],
         "material": [
           "材料未披露"
@@ -15603,11 +15817,11 @@ window.TOY_COMPARE_DATA = {
       "notes": [
         {
           "title": "本款交付",
-          "text": "型号 PCN048-WHT，白肌，头部不附属。"
+          "text": "PCN048-WHT 白肌，附身体与首关节（含已装部分）；头部不附属。2025 年 6 月 27 日发售。"
         },
         {
           "title": "结构版本",
-          "text": "Picco Neemo 为 1:12 可动素体。S、M、D 与胸部规格分别记录，换手接口不默认通用。"
+          "text": "Picco Neemo D 采用较大的手脚；弟弟款比 D 男孩身体更小。不能把 D 与 S／M 或 P 的换手接口默认视为通用。"
         },
         {
           "title": "高度与配件限制",
@@ -15616,6 +15830,10 @@ window.TOY_COMPARE_DATA = {
         {
           "title": "销售页面口径",
           "text": "页面库存、再入荷及会员购买限制可能变化；此条是型号资料，不表示现货或代购热度排名。"
+        },
+        {
+          "title": "换手与配件",
+          "text": "D 系列分别有小手脚、中手脚换手套件。2026 年 8 月起 PCA016／015 改为 PCA017／018，按具体手脚版本选择；本款页未指定两个套件都兼容。D 关节套件 PCA014 另售。"
         }
       ],
       "sources": [
@@ -15626,10 +15844,22 @@ window.TOY_COMPARE_DATA = {
           "supports": "本款独立素体、型号、尺寸口径、材料及配件范围；未披露项保留。"
         },
         {
-          "kind": "官方系列说明",
-          "title": "Picco Neemo / Flection 系列结构介绍",
-          "url": "https://www.azone-int.co.jp/?sid=pnm000",
-          "supports": "对应系列的可动结构；不借用旧批次配件、其他型号高度或库存。"
+          "kind": "官方型号与配件目录",
+          "title": "AZONE：1/12 Picco Neemo 素体与配件",
+          "url": "https://news.azone-int.co.jp/archives/43183",
+          "supports": "核对当前 PCN 型号及 S／M、D、P 各自的换手和关节配件。"
+        },
+        {
+          "kind": "官方配件改版通知",
+          "title": "AZONE：2026 年 8 月起换手配件改版",
+          "url": "https://news.azone-int.co.jp/archives/70590",
+          "supports": "换手配件的新旧品番及内容变化；配件另售，不代表素体附送。"
+        },
+        {
+          "kind": "官方本款发布说明",
+          "title": "Picco Neemo D 弟：交付内容与发售",
+          "url": "https://news.azone-int.co.jp/archives/65442",
+          "supports": "PCN048 的身体与首关节、D 系列手脚造型及相对大小。"
         }
       ],
       "event": null
@@ -16398,6 +16628,152 @@ window.TOY_COMPARE_DATA = {
         }
       ],
       "event": null
+    },
+    {
+      "id": "azone-body-pcn036-wht",
+      "name": "Picco Neemo P · 白肌",
+      "brand": "AZONE",
+      "original": "ピコニーモP PCN036-WHT",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "单独出售的白肌素体；按本款与指定配件来源核对。",
+      "icon": "human",
+      "scale": "比例 1:12",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配",
+          "换手"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "本款交付",
+          "text": "ピコニーモP PCN036-WHT；头部、衣服另配。"
+        },
+        {
+          "title": "结构版本",
+          "text": "P 是官方所列 Picco Neemo 系列最小规格。P、S／M、D 分别列出配套手型。"
+        },
+        {
+          "title": "换手与批次",
+          "text": "P 系列换手 A：2026 年 8 月起 PCA009 改为 PCA019；白肌对应 WHT。换手另售，不与 S／M、D 的手套件混为一款。"
+        },
+        {
+          "title": "尺寸与材料",
+          "text": "本款公开商品页未列素体厘米高度与材料组成，保留未披露；不借用装头整娃高度或其他素体的材料。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "ピコニーモP PCN036-WHT",
+          "url": "https://www.azone-int.co.jp/azonet/item/4573199840475",
+          "supports": "本款独立素体、白肌型号、标称比例及头部不附属。"
+        },
+        {
+          "kind": "官方型号与配件目录",
+          "title": "AZONE：1/12 Picco Neemo 素体与配件",
+          "url": "https://news.azone-int.co.jp/archives/43183",
+          "supports": "核对当前 PCN 型号及 S／M、D、P 各自的换手和关节配件。"
+        },
+        {
+          "kind": "官方配件改版通知",
+          "title": "AZONE：2026 年 8 月起换手配件改版",
+          "url": "https://news.azone-int.co.jp/archives/70590",
+          "supports": "换手配件的新旧品番及内容变化；配件另售，不代表素体附送。"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "azone-body-aob016-wht",
+      "name": "Q’z BODY · M · C 胸 · 白肌",
+      "brand": "AZONE",
+      "original": "AZONE Q’z BODY M/Cバスト AOB016-WHT",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "单独出售的白肌素体；按本款与指定配件来源核对。",
+      "icon": "human",
+      "scale": "比例 1:6",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配",
+          "换手"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "本款交付",
+          "text": "AZONE Q’z BODY M/Cバスト AOB016-WHT；头部、衣服另配。"
+        },
+        {
+          "title": "结构与可动",
+          "text": "Q’z 为独立身体系列。官方说明其髋部侧向开合比 Pure Neemo 较小；手腕、膝、脚踝可动，膝旋转后弯曲角度变小。"
+        },
+        {
+          "title": "换手与操作",
+          "text": "专用换手套件 AOB021-WHT 另售，2026 年 8 月起改版内容。手腕须先对齐旋转、弯曲方向；摆腿时握住大腿与身体，避免从脚踝拉动髋关节。"
+        },
+        {
+          "title": "尺寸与材料",
+          "text": "本款公开商品页未列素体厘米高度与材料组成，保留未披露；不借用装头整娃高度或其他素体的材料。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "AZONE Q’z BODY M/Cバスト AOB016-WHT",
+          "url": "https://www.azone-int.co.jp/azonet/item/4573199842639",
+          "supports": "本款独立素体、白肌型号、标称比例及头部不附属。"
+        },
+        {
+          "kind": "官方使用说明",
+          "title": "Q’z BODY：关节方向与活动范围",
+          "url": "https://news.azone-int.co.jp/archives/58516",
+          "supports": "Q’z 系列的手腕、髋、膝和脚踝使用限制。"
+        },
+        {
+          "kind": "官方配件改版通知",
+          "title": "AZONE：2026 年 8 月起换手配件改版",
+          "url": "https://news.azone-int.co.jp/archives/70590",
+          "supports": "换手配件的新旧品番及内容变化；配件另售，不代表素体附送。"
+        }
+      ],
+      "event": null
     }
   ],
   "resources": [
@@ -16495,7 +16871,7 @@ window.TOY_COMPARE_DATA = {
     "前端的图形是结构示意，不是产品照片。",
     "大类与数量只在资料层统计，前端不展示大类统计卡片。"
   ],
-  "coverage": "共 267 条具体商品／配套记录；保留上一版 31 条及全部长说明。不声称是完整展会目录或热门排名。",
+  "coverage": "共 269 条具体商品／配套记录；持续按具体型号补充资料。不声称是完整展会目录或热门排名。",
   "previousCheckDate": "2026-10-05",
   "checkDates": {
     "azone-body-pfl103-wht": "2026-10-06",
@@ -16519,6 +16895,10 @@ window.TOY_COMPARE_DATA = {
     "piccodo-76732953": "2026-10-06",
     "piccodo-72696060": "2026-10-06",
     "piccodo-72695579": "2026-10-06",
-    "piccodo-72138227": "2026-10-06"
+    "piccodo-72138227": "2026-10-06",
+    "obitsu-22-s": "2026-10-06",
+    "obitsu-24-s-matte": "2026-10-06",
+    "azone-body-pcn036-wht": "2026-10-06",
+    "azone-body-aob016-wht": "2026-10-06"
   }
 };

@@ -204,6 +204,7 @@
         p.brand,
         p.original,
         p.country,
+        ...(p.aliases || []),
         ...allTags(p).map((t) => t.text),
       ]
         .join(" ")
@@ -302,7 +303,10 @@
     restoreFocus();
   }
   function notes(p) {
-    return `<dl class="tc-note-list">${p.notes.map((n) => `<div><dt>${esc(n.title)}</dt><dd>${esc(n.text)}</dd></div>`).join("")}<div><dt>品牌与产地</dt><dd>${esc(p.brand)} · 品牌所在地：${esc(p.country)}；商品标示产地：${esc(p.origin)}。</dd></div><div><dt>记录版本</dt><dd>${esc(p.original)}。${esc(p.version)} 核对日期：${checked(p)}。</dd></div></dl>`;
+    const aliases = p.aliases?.length
+      ? `<div><dt>常见叫法</dt><dd>${esc(p.aliases.join("、"))}</dd></div>`
+      : "";
+    return `<dl class="tc-note-list">${aliases}${p.notes.map((n) => `<div><dt>${esc(n.title)}</dt><dd>${esc(n.text)}</dd></div>`).join("")}<div><dt>品牌与产地</dt><dd>${esc(p.brand)} · 品牌所在地：${esc(p.country)}；商品标示产地：${esc(p.origin)}。</dd></div><div><dt>记录版本</dt><dd>${esc(p.original)}。${esc(p.version)} 核对日期：${checked(p)}。</dd></div></dl>`;
   }
   function selectLabel(id) {
     return `<span class="tc-action-arrow tc-action-plus" aria-hidden="true">${selected.has(id) ? "−" : "+"}</span>${selected.has(id) ? "取消对比" : "对比"}`;
