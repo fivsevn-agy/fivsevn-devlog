@@ -1,5 +1,5 @@
 ---
-id: posts-20261005-toy-compare-001
+id: posts-toy-compare-001
 title: 人形玩具比照
 module: posts
 submodule: reference
@@ -22,7 +22,7 @@ created: 2026-10-05
 updated: 2026-10-06
 ---
 
-<link rel="stylesheet" href="{{ '/posts/assets/toy-compare/toy-compare.css' | relative_url }}" />
+<link rel="stylesheet" href="{{ '/posts/2026/assets/toy-compare/toy-compare.css' | relative_url }}" />
 <div id="toyCompare">
   <header class="tc-header">
     <div><h2>人形玩具比照</h2></div>
@@ -87,7 +87,7 @@ updated: 2026-10-06
           >。尚未覆盖历年展会的全部产品；展会关联只在有对应证据时记录，社区链接也不作为热度排名。
         </p>
         <p class="tc-meta">
-          <a id="tc-xlsx" href="{{ '/posts/assets/toy-compare/toy-data.xlsx' | relative_url }}" download
+          <a id="tc-xlsx" href="{{ '/posts/2026/assets/toy-compare/toy-data.xlsx' | relative_url }}" download
             >下载完整资料表（Excel）</a
           >
           · <button id="tc-json">导出完整记录</button>
@@ -157,5 +157,5 @@ updated: 2026-10-06
     </p></noscript
   >
 </div>
-<script src="{{ '/posts/assets/toy-compare/toy-data.js' | relative_url }}"></script>
-<script src="{{ '/posts/assets/toy-compare/toy-compare.js' | relative_url }}"></script>
+<script src="{{ '/posts/2026/assets/toy-compare/toy-data.js' | relative_url }}"></script>
+<script src="{{ '/posts/2026/assets/toy-compare/toy-compare.js' | relative_url }}"></script>
