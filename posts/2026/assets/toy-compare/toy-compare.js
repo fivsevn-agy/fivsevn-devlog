@@ -11,7 +11,6 @@
     $("tc-empty-reset").hidden = true;
     $("tc-more").hidden = true;
     $("tc-search").disabled = true;
-    $("tc-history-only").disabled = true;
     $("tc-json").disabled = true;
     return;
   }
@@ -231,8 +230,7 @@
         .toLocaleLowerCase();
     return (
       terms.every((t) => all.includes(t)) &&
-      (!activeBrand || p.brand === activeBrand) &&
-      (!$("tc-history-only").checked || p.lifecycle?.historical)
+      (!activeBrand || p.brand === activeBrand)
     );
   }
   function render() {
@@ -404,7 +402,6 @@
   }
   function reset() {
     $("tc-search").value = "";
-    $("tc-history-only").checked = false;
     activeBrand = "";
     refresh();
   }
@@ -458,7 +455,6 @@
     }
   });
   $("tc-search").addEventListener("input", refresh);
-  $("tc-history-only").addEventListener("change", refresh);
   $("tc-more").addEventListener("click", () => {
     visibleLimit += PAGE_SIZE;
     render();
