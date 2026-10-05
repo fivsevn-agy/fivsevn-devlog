@@ -41,8 +41,8 @@ updated: 2026-10-06
       ><input
         id="tc-search"
         type="search"
-        aria-label="搜索产品、厂商或标签"
-        placeholder="搜索产品、厂商或标签…"
+        aria-label="搜索产品、厂商、作者或标签"
+        placeholder="搜索产品、厂商、作者或标签…"
         autocomplete="off"
     /></label>
   </div>

@@ -116,7 +116,17 @@ window.TOY_COMPARE_DATA = {
           "supports": "补充 SD 系列的拉筋／球体结构与聚氨酯树脂；不替代具体型号规格。"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "造形村"
+        },
+        {
+          "role": "服装设计",
+          "name": "ボークス・ドール企画室"
+        }
+      ]
     },
     {
       "id": "smartdoll-mirai-cinnamon",
@@ -4837,10 +4847,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Doll Nagito Komaeda",
           "url": "https://www.goodsmile.com/en/product/1141832",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "SELECT D, Nendoron"
+        },
+        {
+          "role": "制作协力",
+          "name": "Sawada Koubou"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "Raindrop: Minamin"
+        }
+      ]
     },
     {
       "id": "gsc-doll-1141833",
@@ -4895,10 +4919,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Doll Outfit Set: Nagito Komaeda",
           "url": "https://www.goodsmile.com/en/product/1141833",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "SELECT D, Nendoron"
+        },
+        {
+          "role": "制作协力",
+          "name": "Sawada Koubou"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "Raindrop: Minamin"
+        }
+      ]
     },
     {
       "id": "gsc-doll-1142668",
@@ -4959,10 +4997,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Doll Monika",
           "url": "https://www.goodsmile.com/en/product/1142668",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Shichibee (Matsuda Model),  dongdong"
+        },
+        {
+          "role": "制作协力",
+          "name": "Sawada Koubou, Nendoron"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "yu."
+        }
+      ]
     },
     {
       "id": "gsc-doll-1142669",
@@ -5017,10 +5069,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Doll Outfit Set: Monika",
           "url": "https://www.goodsmile.com/en/product/1142669",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Shichibee (Matsuda Model),  dongdong"
+        },
+        {
+          "role": "制作协力",
+          "name": "Sawada Koubou, Nendoron"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "yu."
+        }
+      ]
     },
     {
       "id": "gsc-doll-1143700",
@@ -5081,10 +5147,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Doll Übel",
           "url": "https://www.goodsmile.com/en/product/1143700",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "toytec D.T.C, OSAKANA☆SUBMACHINE GUN"
+        },
+        {
+          "role": "制作协力",
+          "name": "Sawada Koubou, Nendoron"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "Mieko Akimoto"
+        }
+      ]
     },
     {
       "id": "gsc-doll-1143701",
@@ -5138,10 +5218,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Doll Outfit Set: Übel",
           "url": "https://www.goodsmile.com/en/product/1143701",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "toytec D.T.C, OSAKANA☆SUBMACHINE GUN"
+        },
+        {
+          "role": "制作协力",
+          "name": "Sawada Koubou, Nendoron"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "Mieko Akimoto"
+        }
+      ]
     },
     {
       "id": "gsc-doll-1141869",
@@ -5202,10 +5296,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Doll Arona",
           "url": "https://www.goodsmile.com/en/product/1141869",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "YanYan, OSAKANA☆SUBMACHINE GUN"
+        },
+        {
+          "role": "制作协力",
+          "name": "Sawada Koubou, Nendoron"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "Aki Sumitomo (Atelier Angelica)"
+        }
+      ]
     },
     {
       "id": "gsc-doll-1141870",
@@ -5260,10 +5368,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Doll Outfit Set: Arona",
           "url": "https://www.goodsmile.com/en/product/1141870",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "YanYan, OSAKANA☆SUBMACHINE GUN"
+        },
+        {
+          "role": "制作协力",
+          "name": "Sawada Koubou, Nendoron"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "Aki Sumitomo (Atelier Angelica)"
+        }
+      ]
     },
     {
       "id": "gsc-doll-1141871",
@@ -5324,10 +5446,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Doll Plana",
           "url": "https://www.goodsmile.com/en/product/1141871",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Canck, OSAKANA☆SUBMACHINE GUN"
+        },
+        {
+          "role": "制作协力",
+          "name": "Sawada Koubou, Nendoron"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "Aki Sumitomo (Atelier Angelica)"
+        }
+      ]
     },
     {
       "id": "gsc-doll-1141872",
@@ -5382,10 +5518,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Doll Outfit Set: Plana",
           "url": "https://www.goodsmile.com/en/product/1141872",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Canck, OSAKANA☆SUBMACHINE GUN"
+        },
+        {
+          "role": "制作协力",
+          "name": "Sawada Koubou, Nendoron"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "Aki Sumitomo (Atelier Angelica)"
+        }
+      ]
     },
     {
       "id": "gsc-doll-1142519",
@@ -5446,10 +5596,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Doll Makima",
           "url": "https://www.goodsmile.com/en/product/1142519",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Shichibee (Matsuda Model)"
+        },
+        {
+          "role": "制作协力",
+          "name": "Sawada Koubou, Nendoron"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "Mayumi Shimada"
+        }
+      ]
     },
     {
       "id": "gsc-doll-1142520",
@@ -5504,10 +5668,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Doll Outfit Set: Makima",
           "url": "https://www.goodsmile.com/en/product/1142520",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Shichibee (Matsuda Model)"
+        },
+        {
+          "role": "制作协力",
+          "name": "Sawada Koubou, Nendoron"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "Mayumi Shimada"
+        }
+      ]
     },
     {
       "id": "gsc-doll-1142649",
@@ -5568,10 +5746,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Doll Yuta Okkotsu: Execution Ver.",
           "url": "https://www.goodsmile.com/en/product/1142649",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "KokaiKokai, OSAKANA☆SUBMACHINE GUN"
+        },
+        {
+          "role": "制作协力",
+          "name": "Sawada Koubou, Nendoron"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "Suzuko Nagasaki"
+        }
+      ]
     },
     {
       "id": "gsc-doll-1142650",
@@ -5626,10 +5818,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Doll Outfit Set: Yuta Okkotsu: Execution Ver.",
           "url": "https://www.goodsmile.com/en/product/1142650",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "KokaiKokai, OSAKANA☆SUBMACHINE GUN"
+        },
+        {
+          "role": "制作协力",
+          "name": "Sawada Koubou, Nendoron"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "Suzuko Nagasaki"
+        }
+      ]
     },
     {
       "id": "gsc-doll-1142194",
@@ -5690,10 +5896,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Doll Jinshi",
           "url": "https://www.goodsmile.com/en/product/1142194",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Nendoron, Shimotaku"
+        },
+        {
+          "role": "制作协力",
+          "name": "Sawada Koubou"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "Kazumi Oka"
+        }
+      ]
     },
     {
       "id": "gsc-doll-1142195",
@@ -5748,10 +5968,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Doll Outfit Set: Jinshi",
           "url": "https://www.goodsmile.com/en/product/1142195",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Nendoron, Shimotaku"
+        },
+        {
+          "role": "制作协力",
+          "name": "Sawada Koubou"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "Kazumi Oka"
+        }
+      ]
     },
     {
       "id": "gsc-doll-1142502",
@@ -5816,10 +6050,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Doll England",
           "url": "https://www.goodsmile.com/en/product/1142502",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Masuda Hideo"
+        },
+        {
+          "role": "制作协力",
+          "name": "Sawada Koubou, Nendoron"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "Kazumi Oka"
+        }
+      ]
     },
     {
       "id": "gsc-doll-1142503",
@@ -5878,10 +6126,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Doll Outfit Set: England",
           "url": "https://www.goodsmile.com/en/product/1142503",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Masuda Hideo"
+        },
+        {
+          "role": "制作协力",
+          "name": "Sawada Koubou, Nendoron"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "Kazumi Oka"
+        }
+      ]
     },
     {
       "id": "gsc-doll-1142517",
@@ -5942,10 +6204,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Doll Aki Hayakawa",
           "url": "https://www.goodsmile.com/en/product/1142517",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Shichibee (Matsuda model), SELECT D"
+        },
+        {
+          "role": "制作协力",
+          "name": "Sawada Koubou, Nendoron"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "Mayumi Shimada"
+        }
+      ]
     },
     {
       "id": "gsc-doll-1142518",
@@ -6000,10 +6276,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Doll Outfit Set: Aki Hayakawa",
           "url": "https://www.goodsmile.com/en/product/1142518",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Shichibee (Matsuda model), SELECT D"
+        },
+        {
+          "role": "制作协力",
+          "name": "Sawada Koubou, Nendoron"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "Mayumi Shimada"
+        }
+      ]
     },
     {
       "id": "gsc-doll-1142666",
@@ -6064,10 +6354,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Doll Goro Akechi: School Uniform Ver.",
           "url": "https://www.goodsmile.com/en/product/1142666",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Udono Kazuyoshi, Shuhei Yoshida"
+        },
+        {
+          "role": "制作协力",
+          "name": "Sawada Koubou, Nendoron"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "Mayumi Shimada"
+        }
+      ]
     },
     {
       "id": "gsc-doll-1142667",
@@ -6122,10 +6426,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Doll Outfit Set: Goro Akechi - School Uniform Ver.",
           "url": "https://www.goodsmile.com/en/product/1142667",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Udono Kazuyoshi, Shuhei Yoshida"
+        },
+        {
+          "role": "制作协力",
+          "name": "Sawada Koubou, Nendoron"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "Mayumi Shimada"
+        }
+      ]
     },
     {
       "id": "gsc-doll-1142843",
@@ -6186,10 +6504,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Doll Yui Hirasawa",
           "url": "https://www.goodsmile.com/en/product/1142843",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Nendoron"
+        },
+        {
+          "role": "制作协力",
+          "name": "Sawada Koubou"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "yu."
+        }
+      ]
     },
     {
       "id": "gsc-doll-1142844",
@@ -6244,10 +6576,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Doll Outfit Set: Yui Hirasawa",
           "url": "https://www.goodsmile.com/en/product/1142844",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Nendoron"
+        },
+        {
+          "role": "制作协力",
+          "name": "Sawada Koubou"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "yu."
+        }
+      ]
     },
     {
       "id": "gsc-doll-1142500",
@@ -6312,10 +6658,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Doll America",
           "url": "https://www.goodsmile.com/en/product/1142500",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Masuda Hideo"
+        },
+        {
+          "role": "制作协力",
+          "name": "Sawada Koubou, Nendoron"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "Kazumi Oka"
+        }
+      ]
     },
     {
       "id": "gsc-doll-1142501",
@@ -6374,10 +6734,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Doll Outfit Set: America",
           "url": "https://www.goodsmile.com/en/product/1142501",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Masuda Hideo"
+        },
+        {
+          "role": "制作协力",
+          "name": "Sawada Koubou, Nendoron"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "Kazumi Oka"
+        }
+      ]
     },
     {
       "id": "gsc-doll-1140621",
@@ -6438,10 +6812,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Doll Sakura Kinomoto: Costume Ver.",
           "url": "https://www.goodsmile.com/en/product/1140621",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Udono Kazuyoshi, SELECT D"
+        },
+        {
+          "role": "制作协力",
+          "name": "Sawada Koubou, Nendoron"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "GINGER TEA Cherry"
+        }
+      ]
     },
     {
       "id": "gsc-doll-1140622",
@@ -6496,10 +6884,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Doll Outfit Set: Sakura Kinomoto: Costume Ver.",
           "url": "https://www.goodsmile.com/en/product/1140622",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Udono Kazuyoshi, SELECT D"
+        },
+        {
+          "role": "制作协力",
+          "name": "Sawada Koubou, Nendoron"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "GINGER TEA Cherry"
+        }
+      ]
     },
     {
       "id": "gsc-doll-1141536",
@@ -6560,10 +6962,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Doll Hatsune Miku: ∞ Ver.",
           "url": "https://www.goodsmile.com/en/product/1141536",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "toytec D.T.C, SELECT D"
+        },
+        {
+          "role": "制作协力",
+          "name": "Sawada Koubou, Nendoron"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "Mieko Akimoto"
+        }
+      ]
     },
     {
       "id": "gsc-doll-1141537",
@@ -6618,10 +7034,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Doll Outfit Set: Hatsune Miku: ∞ Ver.",
           "url": "https://www.goodsmile.com/en/product/1141537",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "toytec D.T.C, SELECT D"
+        },
+        {
+          "role": "制作协力",
+          "name": "Sawada Koubou, Nendoron"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "Mieko Akimoto"
+        }
+      ]
     },
     {
       "id": "gsc-doll-1141744",
@@ -6672,10 +7102,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Doll Wing Parts Set",
           "url": "https://www.goodsmile.com/en/product/1141744",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Masuda Hideo"
+        },
+        {
+          "role": "制作协力",
+          "name": "Sawada Koubou, Nendoron"
+        }
+      ]
     },
     {
       "id": "gsc-doll-9723",
@@ -6740,10 +7180,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Doll Ciel Phantomhive",
           "url": "https://www.goodsmile.com/en/product/9723",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Shichibee (Matsuda Model)"
+        },
+        {
+          "role": "制作协力",
+          "name": "Sawada Koubou"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "Mieko Akimoto"
+        }
+      ]
     },
     {
       "id": "gsc-doll-9725",
@@ -6808,10 +7262,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Doll Sebastian Michaelis",
           "url": "https://www.goodsmile.com/en/product/9725",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Shichibee (Matsuda Model)"
+        },
+        {
+          "role": "制作协力",
+          "name": "Sawada Koubou"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "Mieko Akimoto"
+        }
+      ]
     },
     {
       "id": "gsc-doll-1140127",
@@ -6872,10 +7340,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Doll Chocola",
           "url": "https://www.goodsmile.com/en/product/1140127",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Taketomo, SELECT D"
+        },
+        {
+          "role": "制作协力",
+          "name": "Sawada Koubou, Nendoron"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "Aki Sumitomo (Atelier Angelica)"
+        }
+      ]
     },
     {
       "id": "gsc-doll-1140128",
@@ -6930,10 +7412,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Doll Outfit Set: Chocola",
           "url": "https://www.goodsmile.com/en/product/1140128",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Taketomo, SELECT D"
+        },
+        {
+          "role": "制作协力",
+          "name": "Sawada Koubou, Nendoron"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "Aki Sumitomo (Atelier Angelica)"
+        }
+      ]
     },
     {
       "id": "gsc-doll-1140129",
@@ -6994,10 +7490,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Doll Vanilla",
           "url": "https://www.goodsmile.com/en/product/1140129",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Taketomo, SELECT D"
+        },
+        {
+          "role": "制作协力",
+          "name": "Sawada Koubou, Nendoron"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "Aki Sumitomo (Atelier Angelica)"
+        }
+      ]
     },
     {
       "id": "gsc-doll-1140130",
@@ -7052,10 +7562,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Doll Outfit Set: Vanilla",
           "url": "https://www.goodsmile.com/en/product/1140130",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Taketomo, SELECT D"
+        },
+        {
+          "role": "制作协力",
+          "name": "Sawada Koubou, Nendoron"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "Aki Sumitomo (Atelier Angelica)"
+        }
+      ]
     },
     {
       "id": "gsc-doll-1143950",
@@ -7108,10 +7632,16 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Doll Picnic Parts Set",
           "url": "https://www.goodsmile.com/en/product/1143950",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "制作协力",
+          "name": "Sawada Koubou, Nendoron"
+        }
+      ]
     },
     {
       "id": "gsc-doll-1142290",
@@ -7167,10 +7697,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Doll Saber: Casual Outfit Ver.",
           "url": "https://www.goodsmile.com/en/product/1142290",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "toytec D.T.C"
+        },
+        {
+          "role": "制作协力",
+          "name": "Sawada Koubou, Nendoron"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "Raindrop: Minamin"
+        }
+      ]
     },
     {
       "id": "gsc-doll-1142291",
@@ -7225,10 +7769,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Doll Outfit Set: Saber - Casual Outfit Ver.",
           "url": "https://www.goodsmile.com/en/product/1142291",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "toytec D.T.C"
+        },
+        {
+          "role": "制作协力",
+          "name": "Sawada Koubou, Nendoron"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "Raindrop: Minamin"
+        }
+      ]
     },
     {
       "id": "gsc-harmonia-60764",
@@ -7288,10 +7846,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Near Harmonia Sentimental Circus.",
           "url": "https://www.goodsmile.com/en/product/60764",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Iwanaga Sakurako (Shokubutu Shojo-en)"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "Ayu Ishiwatari (Calalka)"
+        }
+      ]
     },
     {
       "id": "gsc-harmonia-60765",
@@ -7344,10 +7912,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Near Harmonia Ebiten no Shippo: Idol Ver. From Sumikkogurashi / Ebifurai no Shippo: Idol Ver. From Sumikkogurashi",
           "url": "https://www.goodsmile.com/en/product/60765",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Iwanaga Sakurako (Shokubutu Shojo-en)"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "Red Camera"
+        }
+      ]
     },
     {
       "id": "gsc-harmonia-1136213",
@@ -7407,10 +7985,16 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Near Harmonia Modoria/Lavina/Poppy",
           "url": "https://www.goodsmile.com/en/product/1136213",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Iwanaga Sakurako (Shokubutu Shojo-en)"
+        }
+      ]
     },
     {
       "id": "gsc-harmonia-55924",
@@ -7463,10 +8047,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Near Harmonia Potato from Pui Pui Molcar",
           "url": "https://www.goodsmile.com/en/product/55924",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Iwanaga Sakurako (Shokubutu Shojo-en)"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "michiru (babydow)"
+        }
+      ]
     },
     {
       "id": "gsc-harmonia-55925",
@@ -7519,10 +8113,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Near Harmonia Shiromo from Pui Pui Molcar",
           "url": "https://www.goodsmile.com/en/product/55925",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Iwanaga Sakurako (Shokubutu Shojo-en)"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "michiru (babydow)"
+        }
+      ]
     },
     {
       "id": "gsc-harmonia-60130",
@@ -7582,10 +8186,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Near Harmonia Curious/Chatty/Mellow",
           "url": "https://www.goodsmile.com/en/product/60130",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Iwanaga Sakurako (Shokubutu Shojo-en)"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "Rico*(vanilatte)"
+        }
+      ]
     },
     {
       "id": "gsc-harmonia-45955",
@@ -7645,10 +8259,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Harmonia humming Snow Miku",
           "url": "https://www.goodsmile.com/en/product/45955",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Ranran, Iwanaga Sakurako (Shokubutu Shojo-en)"
+        },
+        {
+          "role": "涂装",
+          "name": "Ranran"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "Mitsuko Shitara, Akai Camera"
+        }
+      ]
     },
     {
       "id": "gsc-harmonia-54164",
@@ -7703,10 +8331,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Harmonia bloom Pretender/Oberon: First Ascension",
           "url": "https://www.goodsmile.com/en/product/54164",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Iwanaga Sakurako (Shokubutu Shojo-en), SELECT D"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "Rico*(vanilatte)"
+        }
+      ]
     },
     {
       "id": "gsc-harmonia-36197",
@@ -7761,10 +8399,16 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Harmonia bloom blooming doll root (Body/Sunrise）",
           "url": "https://www.goodsmile.com/en/product/36197",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Iwanaga Sakurako (Shokubutu Shojo-en)"
+        }
+      ]
     },
     {
       "id": "gsc-harmonia-36198",
@@ -7819,10 +8463,16 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Harmonia bloom blooming doll root (Body/Sunset）",
           "url": "https://www.goodsmile.com/en/product/36198",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Iwanaga Sakurako (Shokubutu Shojo-en)"
+        }
+      ]
     },
     {
       "id": "gsc-harmonia-12310",
@@ -7875,10 +8525,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Harmonia bloom Special Outfit Series (bloom/root) Designed by babydo",
           "url": "https://www.goodsmile.com/en/product/12310",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "SELECT D"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "Mihiru (babydo)"
+        }
+      ]
     },
     {
       "id": "gsc-harmonia-12385",
@@ -7936,10 +8596,16 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Harmonia bloom Make & Body set root (Volker)",
           "url": "https://www.goodsmile.com/en/product/12385",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Iwanaga Sakurako (Shokubutu Shojo-en)"
+        }
+      ]
     },
     {
       "id": "gsc-harmonia-12384",
@@ -8056,10 +8722,16 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Harmonia bloom Volker Honest hunter",
           "url": "https://www.goodsmile.com/en/product/12383",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Iwanaga Sakurako (Shokubutu Shojo-en), SELECT D"
+        }
+      ]
     },
     {
       "id": "gsc-harmonia-12085",
@@ -8112,10 +8784,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Harmonia bloom Seasonal Outfit Set Charlotte (Melone)",
           "url": "https://www.goodsmile.com/en/product/12085",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Iwanaga Sakurako (Shokubutu Shojo-en), SELECT D"
+        },
+        {
+          "role": "制作协力",
+          "name": "mokaffe/moka"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "Rico*(vanilatte)"
+        }
+      ]
     },
     {
       "id": "gsc-harmonia-12086",
@@ -8168,10 +8854,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Harmonia bloom Seasonal Outfit Set Charlotte (Kirsche)",
           "url": "https://www.goodsmile.com/en/product/12086",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Iwanaga Sakurako (Shokubutu Shojo-en), SELECT D"
+        },
+        {
+          "role": "制作协力",
+          "name": "mokaffe/moka"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "Rico*(vanilatte)"
+        }
+      ]
     },
     {
       "id": "gsc-harmonia-11731",
@@ -8228,10 +8928,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Harmonia humming Nadeshiko Kagamihara",
           "url": "https://www.goodsmile.com/en/product/11731",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Ranran, SELECT D"
+        },
+        {
+          "role": "涂装",
+          "name": "Chino syoko"
+        },
+        {
+          "role": "制作协力",
+          "name": "Iwanaga Sakurako (Shokubutu Shojo-en)"
+        }
+      ]
     },
     {
       "id": "gsc-harmonia-11732",
@@ -8288,10 +9002,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Harmonia humming Rin Shima",
           "url": "https://www.goodsmile.com/en/product/11732",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Ranran, SELECT D"
+        },
+        {
+          "role": "涂装",
+          "name": "Chino syoko"
+        },
+        {
+          "role": "制作协力",
+          "name": "Iwanaga Sakurako (Shokubutu Shojo-en)"
+        }
+      ]
     },
     {
       "id": "gsc-harmonia-11646",
@@ -8349,10 +9077,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Harmonia bloom Seasonal Doll Gabriela",
           "url": "https://www.goodsmile.com/en/product/11646",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Iwanaga Sakurako (Shokubutu Shojo-en), SELECT D"
+        },
+        {
+          "role": "制作协力",
+          "name": "mokaffe/moka"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "Rico*(vanilatte)"
+        }
+      ]
     },
     {
       "id": "gsc-harmonia-11648",
@@ -8405,10 +9147,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Harmonia bloom Seasonal Outfit Set Gabriela (Black)",
           "url": "https://www.goodsmile.com/en/product/11648",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "SELECT D"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "Rico*(vanilatte)"
+        }
+      ]
     },
     {
       "id": "gsc-harmonia-11649",
@@ -8461,10 +9213,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Harmonia bloom Seasonal Outfit Set Gabriela (White)",
           "url": "https://www.goodsmile.com/en/product/11649",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "SELECT D"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "Rico*(vanilatte)"
+        }
+      ]
     },
     {
       "id": "gsc-harmonia-11338",
@@ -8521,10 +9283,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Harmonia bloom Masie Red Riding Hood",
           "url": "https://www.goodsmile.com/en/product/11338",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Iwanaga Sakurako (Shokubutu Shojo-en)"
+        },
+        {
+          "role": "制作协力",
+          "name": "mokaffe/moka"
+        },
+        {
+          "role": "服装／纸样设计",
+          "name": "Mihiru (babydo)"
+        }
+      ]
     },
     {
       "id": "gsc-harmonia-11307",
@@ -8577,10 +9353,16 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Harmonia bloom Christmas Limited Box (Rose/Pansy/Somei Yoshino/Madonna Lily)",
           "url": "https://www.goodsmile.com/en/product/11307",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Iwanaga Sakurako (Shokubutu Shojo-en)"
+        }
+      ]
     },
     {
       "id": "gsc-harmonia-10492",
@@ -8635,10 +9417,16 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Harmonia humming humming doll (Natural) #0",
           "url": "https://www.goodsmile.com/en/product/10492",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": "Smile Fest 2022 Tokyo，2022-08-06 至 08-07：本款产品页明确现场销售。"
+      "event": "Smile Fest 2022 Tokyo，2022-08-06 至 08-07：本款产品页明确现场销售。",
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Ranran, Iwanaga Sakurako (Shokubutu Shojo-en)"
+        }
+      ]
     },
     {
       "id": "gsc-harmonia-10493",
@@ -8693,10 +9481,16 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Harmonia humming humming doll (Sharp) #0",
           "url": "https://www.goodsmile.com/en/product/10493",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": "Smile Fest 2022 Tokyo，2022-08-06 至 08-07：本款产品页明确现场销售。"
+      "event": "Smile Fest 2022 Tokyo，2022-08-06 至 08-07：本款产品页明确现场销售。",
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Ranran, Iwanaga Sakurako (Shokubutu Shojo-en)"
+        }
+      ]
     },
     {
       "id": "gsc-figma-8648",
@@ -8756,10 +9550,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Hunter: The Old Hunters Edition",
           "url": "https://www.goodsmile.com/en/product/8648",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "monolith, Keita Yagyuu (RAMPAGE), HAL-VAL"
+        },
+        {
+          "role": "涂装",
+          "name": "monolith. Asuka Marunouchi"
+        },
+        {
+          "role": "制作协力",
+          "name": "Masaki Apsy"
+        }
+      ]
     },
     {
       "id": "gsc-figma-45954",
@@ -8817,10 +9625,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma 2B (YoRHa No.2 Type B)",
           "url": "https://www.goodsmile.com/en/product/45954",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "POLY-TOYS / Max Factory (Maeda)"
+        },
+        {
+          "role": "涂装",
+          "name": "Shinya Suzuki"
+        },
+        {
+          "role": "制作协力",
+          "name": "Masaki Apsy"
+        }
+      ]
     },
     {
       "id": "gsc-figma-1145974",
@@ -8878,10 +9700,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Soda: Twinkling Bunny",
           "url": "https://www.goodsmile.com/en/product/1145974",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Uniko Enomoto"
+        },
+        {
+          "role": "制作协力",
+          "name": "Masaki Apsy"
+        }
+      ]
     },
     {
       "id": "gsc-figma-2857",
@@ -8938,10 +9770,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Venus de Milo",
           "url": "https://www.goodsmile.com/en/product/2857",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Tatsuya Ishibashi (M.I.C)"
+        },
+        {
+          "role": "制作协力",
+          "name": "Max Factory"
+        }
+      ]
     },
     {
       "id": "gsc-figma-1137608",
@@ -8999,10 +9841,16 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Leopard",
           "url": "https://www.goodsmile.com/en/product/1137608",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "制作协力",
+          "name": "Masaki Apsy/Max Factory"
+        }
+      ]
     },
     {
       "id": "gsc-figma-1146142",
@@ -9060,10 +9908,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Kana",
           "url": "https://www.goodsmile.com/en/product/1146142",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Uniko Enomoto"
+        },
+        {
+          "role": "制作协力",
+          "name": "Masaki Apsy"
+        }
+      ]
     },
     {
       "id": "gsc-figma-1146353",
@@ -9121,10 +9979,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Panty & Stocking: Angel ver. Set",
           "url": "https://www.goodsmile.com/en/product/1146353",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "NEQ"
+        },
+        {
+          "role": "制作协力",
+          "name": "Masaki Apsy/Max Factory"
+        }
+      ]
     },
     {
       "id": "gsc-figma-1137998",
@@ -9182,10 +10050,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Panty: Angel ver.",
           "url": "https://www.goodsmile.com/en/product/1137998",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "NEQ"
+        },
+        {
+          "role": "制作协力",
+          "name": "Masaki Apsy/Max Factory"
+        }
+      ]
     },
     {
       "id": "gsc-figma-1137999",
@@ -9243,10 +10121,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Stocking: Angel ver.",
           "url": "https://www.goodsmile.com/en/product/1137999",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "NEQ"
+        },
+        {
+          "role": "制作协力",
+          "name": "Masaki Apsy/Max Factory"
+        }
+      ]
     },
     {
       "id": "gsc-figma-1137995",
@@ -9304,10 +10192,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Noa Ushio",
           "url": "https://www.goodsmile.com/en/product/1137995",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "制作协力",
+          "name": "Masaki Apsy/Max Factory"
+        },
+        {
+          "role": "设计",
+          "name": "Hwansang"
+        }
+      ]
     },
     {
       "id": "gsc-figma-1145947",
@@ -9365,10 +10263,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Anis: Sparkling Summer",
           "url": "https://www.goodsmile.com/en/product/1145947",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Max Factory (Masato Nagai/Sedo)"
+        },
+        {
+          "role": "制作协力",
+          "name": "Masaki Apsy"
+        }
+      ]
     },
     {
       "id": "gsc-figma-1143910",
@@ -9426,10 +10334,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Nekomata Okayu",
           "url": "https://www.goodsmile.com/en/product/1143910",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Max Factory (Ryosuke Maeda)"
+        },
+        {
+          "role": "制作协力",
+          "name": "Masaki Apsy"
+        }
+      ]
     },
     {
       "id": "gsc-figma-12485",
@@ -9487,10 +10405,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Umamusume: Pretty Derby Nice Nature",
           "url": "https://www.goodsmile.com/en/product/12485",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Max Factory (Maeda)"
+        },
+        {
+          "role": "制作协力",
+          "name": "Masaki Apsy"
+        }
+      ]
     },
     {
       "id": "gsc-figma-1137486",
@@ -9548,10 +10476,16 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Lucifer",
           "url": "https://www.goodsmile.com/en/product/1137486",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "制作协力",
+          "name": "Masaki Apsy/Max Factory"
+        }
+      ]
     },
     {
       "id": "gsc-figma-1142705",
@@ -9609,10 +10543,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Veronica Sweetheart: Swimsuit Ver.",
           "url": "https://www.goodsmile.com/en/product/1142705",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Max Factory (SF345/Ryo Higuchi)"
+        },
+        {
+          "role": "制作协力",
+          "name": "Masaki Apsy"
+        }
+      ]
     },
     {
       "id": "gsc-figma-1146176",
@@ -9673,10 +10617,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Ena Toyosaki ver. 1.5",
           "url": "https://www.goodsmile.com/en/product/1146176",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Dragoncraft"
+        },
+        {
+          "role": "制作协力",
+          "name": "Max Factory"
+        }
+      ]
     },
     {
       "id": "gsc-figma-1146175",
@@ -9737,10 +10691,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Miyo Asato: Summer Uniform ver. 1.5",
           "url": "https://www.goodsmile.com/en/product/1146175",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Dragoncraft"
+        },
+        {
+          "role": "制作协力",
+          "name": "Max Factory"
+        }
+      ]
     },
     {
       "id": "gsc-figma-62125",
@@ -9859,10 +10823,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Angel Statues",
           "url": "https://www.goodsmile.com/en/product/3509",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Tatsuya Ishibashi (M.I.C)"
+        },
+        {
+          "role": "制作协力",
+          "name": "Max Factory"
+        }
+      ]
     },
     {
       "id": "gsc-figma-60700",
@@ -9920,10 +10894,16 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Nanachi",
           "url": "https://www.goodsmile.com/en/product/60700",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "制作协力",
+          "name": "Masaki Apsy/Max Factory"
+        }
+      ]
     },
     {
       "id": "gsc-figma-1137492",
@@ -9981,10 +10961,16 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Magia Baiser",
           "url": "https://www.goodsmile.com/en/product/1137492",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "制作协力",
+          "name": "Masaki Apsy/Max Factory"
+        }
+      ]
     },
     {
       "id": "gsc-figma-1141915",
@@ -10042,10 +11028,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Yuriko Okada: Electro-Wave Human Tackle Ver.",
           "url": "https://www.goodsmile.com/en/product/1141915",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Liquid Stone"
+        },
+        {
+          "role": "制作协力",
+          "name": "Masaki Apsy/Max Factory"
+        }
+      ]
     },
     {
       "id": "gsc-figma-1144554",
@@ -10103,10 +11099,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Seia Yurizono",
           "url": "https://www.goodsmile.com/en/product/1144554",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Max Factory (Koudzuki)"
+        },
+        {
+          "role": "制作协力",
+          "name": "Masaki Apsy"
+        },
+        {
+          "role": "设计",
+          "name": "kokosando"
+        }
+      ]
     },
     {
       "id": "gsc-figma-1143909",
@@ -10162,10 +11172,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Guyver III: Ultimate Edition",
           "url": "https://www.goodsmile.com/en/product/1143909",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Max Factory (Yoshihito Kobayashi/Nobuhiko Asahina)"
+        },
+        {
+          "role": "制作协力",
+          "name": "Masaki Apsy"
+        }
+      ]
     },
     {
       "id": "gsc-figma-6055",
@@ -10224,10 +11244,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Tanya Degurechaff",
           "url": "https://www.goodsmile.com/en/product/6055",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Max Factory (Naoya Takashi / Sedo)"
+        },
+        {
+          "role": "制作协力",
+          "name": "Masaki Apsy"
+        }
+      ]
     },
     {
       "id": "gsc-figma-1142700",
@@ -10285,10 +11315,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Kayoko Onikata",
           "url": "https://www.goodsmile.com/en/product/1142700",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Max Factory (Ryo Uchida)"
+        },
+        {
+          "role": "制作协力",
+          "name": "Masaki Apsy"
+        }
+      ]
     },
     {
       "id": "gsc-figma-1144552",
@@ -10346,10 +11386,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Valby",
           "url": "https://www.goodsmile.com/en/product/1144552",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "POLY-TOYS, Max Factory"
+        },
+        {
+          "role": "制作协力",
+          "name": "Masaki Apsy"
+        }
+      ]
     },
     {
       "id": "gsc-figma-1137994",
@@ -10407,10 +11457,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Shiroko*Terror",
           "url": "https://www.goodsmile.com/en/product/1137994",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Maoji"
+        },
+        {
+          "role": "制作协力",
+          "name": "Masaki Apsy/Max Factory"
+        }
+      ]
     },
     {
       "id": "gsc-figma-1142692",
@@ -10468,10 +11528,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Klukai",
           "url": "https://www.goodsmile.com/en/product/1142692",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Max Factory (Masato Nagai, Naoki Satou)"
+        },
+        {
+          "role": "制作协力",
+          "name": "Masaki Apsy"
+        }
+      ]
     },
     {
       "id": "gsc-figma-5038",
@@ -10526,10 +11596,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Winged Victory of Samothrace",
           "url": "https://www.goodsmile.com/en/product/5038",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Tatsuya Ishibashi (M.I.C)"
+        },
+        {
+          "role": "制作协力",
+          "name": "Max Factory"
+        }
+      ]
     },
     {
       "id": "gsc-figma-1142704",
@@ -10595,10 +11675,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Silva Barrelline",
           "url": "https://www.goodsmile.com/en/product/1142704",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Max Factory (Masato Nagai, Naoki Satou)"
+        },
+        {
+          "role": "制作协力",
+          "name": "Masaki Apsy"
+        }
+      ]
     },
     {
       "id": "gsc-figma-1137488",
@@ -10656,10 +11746,16 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Bridget",
           "url": "https://www.goodsmile.com/en/product/1137488",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "制作协力",
+          "name": "Masaki Apsy/Max Factory"
+        }
+      ]
     },
     {
       "id": "gsc-figma-60342",
@@ -10717,10 +11813,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Yuuka Hayase",
           "url": "https://www.goodsmile.com/en/product/60342",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Max Factory (Masanori Kuroda)"
+        },
+        {
+          "role": "制作协力",
+          "name": "Masaki Apsy"
+        }
+      ]
     },
     {
       "id": "gsc-figma-1142693",
@@ -10778,10 +11884,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Ruka",
           "url": "https://www.goodsmile.com/en/product/1142693",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Max Factory (Nobuhiko Asahina)"
+        },
+        {
+          "role": "制作协力",
+          "name": "Masaki Apsy"
+        }
+      ]
     },
     {
       "id": "gsc-figma-1137997",
@@ -10839,10 +11955,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Saori Joumae",
           "url": "https://www.goodsmile.com/en/product/1137997",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Keita Tagami"
+        },
+        {
+          "role": "制作协力",
+          "name": "Masaki Apsy/Max Factory"
+        }
+      ]
     },
     {
       "id": "gsc-figma-55941",
@@ -10898,10 +12024,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Raging Wolf",
           "url": "https://www.goodsmile.com/en/product/55941",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "涂装",
+          "name": "Asuka Marunouchi"
+        },
+        {
+          "role": "制作协力",
+          "name": "Masaki Apsy"
+        }
+      ]
     },
     {
       "id": "gsc-figma-4722",
@@ -10960,10 +12096,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Lancer/Scáthach",
           "url": "https://www.goodsmile.com/en/product/4722",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Max Factory (Naoya Takahashi / Taizou)"
+        },
+        {
+          "role": "制作协力",
+          "name": "Masaki Apsy"
+        }
+      ]
     },
     {
       "id": "gsc-figma-1144248",
@@ -11022,10 +12168,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Pomni",
           "url": "https://www.goodsmile.com/en/product/1144248",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "monolith"
+        },
+        {
+          "role": "制作协力",
+          "name": "Max Factory"
+        }
+      ]
     },
     {
       "id": "gsc-figma-1142689",
@@ -11083,10 +12239,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Tololo",
           "url": "https://www.goodsmile.com/en/product/1142689",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Max Factory (Jun Yamaoka)"
+        },
+        {
+          "role": "制作协力",
+          "name": "Masaki Apsy"
+        }
+      ]
     },
     {
       "id": "gsc-pop-1141520",
@@ -11142,10 +12308,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "POP UP PARADE Louise L Size",
           "url": "https://www.goodsmile.com/en/product/1141520",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Ajiken"
+        },
+        {
+          "role": "涂装",
+          "name": "Yotaro Taniguchi"
+        }
+      ]
     },
     {
       "id": "gsc-pop-1137445",
@@ -11201,10 +12377,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "POP UP PARADE lain iwakura L Size",
           "url": "https://www.goodsmile.com/en/product/1137445",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Daigaku"
+        },
+        {
+          "role": "涂装",
+          "name": "Kazuya Koubou"
+        }
+      ]
     },
     {
       "id": "gsc-pop-1141247",
@@ -11260,10 +12446,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "POP UP PARADE Hatsune Miku: DecoMiku (Lightness) L Size",
           "url": "https://www.goodsmile.com/en/product/1141247",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "×××× + Sparrow"
+        },
+        {
+          "role": "涂装",
+          "name": "Tomofumi (WATANA BOX)"
+        }
+      ]
     },
     {
       "id": "gsc-pop-1141248",
@@ -11319,10 +12515,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "POP UP PARADE Hatsune Miku: DecoMiku (Darkness) L Size",
           "url": "https://www.goodsmile.com/en/product/1141248",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Sparrow"
+        },
+        {
+          "role": "涂装",
+          "name": "Tomofumi (WATANA BOX)"
+        }
+      ]
     },
     {
       "id": "gsc-pop-1144430",
@@ -11378,10 +12584,16 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "POP UP PARADE Kasane Teto: Synthesizer V AI Ver. L Size",
           "url": "https://www.goodsmile.com/en/product/1144430",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Magical Girl ☆ Haruyuki"
+        }
+      ]
     },
     {
       "id": "gsc-pop-1144464",
@@ -11437,10 +12649,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "POP UP PARADE Swacchao! Rikka Takarada: Pajamas Ver. XL Size",
           "url": "https://www.goodsmile.com/en/product/1144464",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Salami Shin"
+        },
+        {
+          "role": "涂装",
+          "name": "Hiroto Tanimoto"
+        }
+      ]
     },
     {
       "id": "gsc-pop-1144852",
@@ -11496,10 +12718,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "POP UP PARADE Petite Speaki",
           "url": "https://www.goodsmile.com/en/product/1144852",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "OSAKANA☆SUBMACHINE GUN"
+        },
+        {
+          "role": "涂装",
+          "name": "Kazuya Koubou"
+        }
+      ]
     },
     {
       "id": "gsc-pop-1144959",
@@ -11555,10 +12787,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "POP UP PARADE Loona L Size",
           "url": "https://www.goodsmile.com/en/product/1144959",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Maiya Ono (Acxyz Creativ)"
+        },
+        {
+          "role": "涂装",
+          "name": "Tomofumi (WATANA BOX)"
+        },
+        {
+          "role": "制作协力",
+          "name": "Nendoron"
+        }
+      ]
     },
     {
       "id": "gsc-pop-1136847",
@@ -11614,10 +12860,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "POP UP PARADE SP Mihono Bourbon",
           "url": "https://www.goodsmile.com/en/product/1136847",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Shimotaku"
+        },
+        {
+          "role": "涂装",
+          "name": "Yotaro Taniguchi"
+        }
+      ]
     },
     {
       "id": "gsc-pop-1141572",
@@ -11673,10 +12929,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "POP UP PARADE SP Jett",
           "url": "https://www.goodsmile.com/en/product/1141572",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Joji (Acxyz Creativ)"
+        },
+        {
+          "role": "涂装",
+          "name": "Tomofumi (WATANA BOX)"
+        }
+      ]
     },
     {
       "id": "gsc-pop-1137607",
@@ -11732,10 +12998,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "POP UP PARADE Lucy L Size",
           "url": "https://www.goodsmile.com/en/product/1137607",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Kurosawatsu (Acxyz Creativ)"
+        },
+        {
+          "role": "涂装",
+          "name": "Tomofumi (WATANA BOX)"
+        }
+      ]
     },
     {
       "id": "gsc-pop-1145852",
@@ -11791,10 +13067,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "POP UP PARADE Guts (Berserker Armor): Bloody Paint Ver. L Size",
           "url": "https://www.goodsmile.com/en/product/1145852",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Hiroshi Yuasa (Max Factory)"
+        },
+        {
+          "role": "涂装",
+          "name": "Asuka Marunouchi"
+        }
+      ]
     },
     {
       "id": "gsc-pop-55958",
@@ -11850,10 +13136,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "POP UP PARADE Racing Miku: 2023 Ver.",
           "url": "https://www.goodsmile.com/en/product/55958",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "CKB"
+        },
+        {
+          "role": "涂装",
+          "name": "namoji"
+        }
+      ]
     },
     {
       "id": "gsc-pop-1139935",
@@ -11909,10 +13205,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "POP UP PARADE SP Momon",
           "url": "https://www.goodsmile.com/en/product/1139935",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Kurosawatsu (Acxyz Creativ)"
+        },
+        {
+          "role": "涂装",
+          "name": "Kazuya Koubou"
+        }
+      ]
     },
     {
       "id": "gsc-pop-1136848",
@@ -11968,10 +13274,16 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "POP UP PARADE Daiwa Scarlet L Size",
           "url": "https://www.goodsmile.com/en/product/1136848",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Sho Nagano"
+        }
+      ]
     },
     {
       "id": "gsc-pop-1139391",
@@ -12027,10 +13339,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "POP UP PARADE Dorothy Haze L Size",
           "url": "https://www.goodsmile.com/en/product/1139391",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "MIC"
+        },
+        {
+          "role": "涂装",
+          "name": "MIC"
+        }
+      ]
     },
     {
       "id": "gsc-pop-1139433",
@@ -12086,10 +13408,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "POP UP PARADE Dorothy Haze: Another Skin Ver. L Size",
           "url": "https://www.goodsmile.com/en/product/1139433",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "MIC"
+        },
+        {
+          "role": "涂装",
+          "name": "MIC"
+        }
+      ]
     },
     {
       "id": "gsc-pop-1136656",
@@ -12145,10 +13477,16 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "POP UP PARADE Saya L Size",
           "url": "https://www.goodsmile.com/en/product/1136656",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Oomugiyouchien Komugigumi (CONNECTRECT)"
+        }
+      ]
     },
     {
       "id": "gsc-pop-1144886",
@@ -12204,10 +13542,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "POP UP PARADE Sherry Tachibana L Size",
           "url": "https://www.goodsmile.com/en/product/1144886",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Oage + Sparrow"
+        },
+        {
+          "role": "涂装",
+          "name": "taumokei"
+        }
+      ]
     },
     {
       "id": "gsc-pop-61723",
@@ -12263,10 +13611,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "POP UP PARADE SP Assassin/\"First Hassan\"",
           "url": "https://www.goodsmile.com/en/product/61723",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Genzo Ihara (ZO MODELS)"
+        },
+        {
+          "role": "涂装",
+          "name": "Bachinii"
+        },
+        {
+          "role": "制作协力",
+          "name": "Takao Sigeyama/WAZZE"
+        }
+      ]
     },
     {
       "id": "gsc-pop-1144885",
@@ -12317,10 +13679,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "POP UP PARADE Hiro Nikaido L Size",
           "url": "https://www.goodsmile.com/en/product/1144885",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Oage + Sparrow"
+        },
+        {
+          "role": "涂装",
+          "name": "Yukichi"
+        }
+      ]
     },
     {
       "id": "gsc-pop-1143802",
@@ -12376,10 +13748,16 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "POP UP PARADE Yuzu (Maid)",
           "url": "https://www.goodsmile.com/en/product/1143802",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "涂装",
+          "name": "Tomofumi (WATANA BOX)"
+        }
+      ]
     },
     {
       "id": "gsc-pop-1137698",
@@ -12435,10 +13813,16 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "POP UP PARADE Zero Two L Size",
           "url": "https://www.goodsmile.com/en/product/1137698",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Kazuhira Noya"
+        }
+      ]
     },
     {
       "id": "gsc-pop-1145188",
@@ -12494,10 +13878,16 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "POP UP PARADE SP Void",
           "url": "https://www.goodsmile.com/en/product/1145188",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "涂装",
+          "name": "Shu Kusune (KLAMP STUDIO)"
+        }
+      ]
     },
     {
       "id": "gsc-pop-1143892",
@@ -12552,10 +13942,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "POP UP PARADE Alastor: Another Color Ver.",
           "url": "https://www.goodsmile.com/en/product/1143892",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "NEQ"
+        },
+        {
+          "role": "涂装",
+          "name": "Tomofumi (WATANA BOX)"
+        }
+      ]
     },
     {
       "id": "gsc-pop-1142460",
@@ -12620,10 +14020,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "POP UP PARADE Polyester & Polyurethane Set",
           "url": "https://www.goodsmile.com/en/product/1142460",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "NEQ"
+        },
+        {
+          "role": "涂装",
+          "name": "Tomofumi (WATANA BOX)"
+        }
+      ]
     },
     {
       "id": "gsc-pop-1142459",
@@ -12679,10 +14089,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "POP UP PARADE Polyester",
           "url": "https://www.goodsmile.com/en/product/1142459",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "NEQ"
+        },
+        {
+          "role": "涂装",
+          "name": "Tomofumi (WATANA BOX)"
+        }
+      ]
     },
     {
       "id": "gsc-pop-1142458",
@@ -12738,10 +14158,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "POP UP PARADE Polyurethane",
           "url": "https://www.goodsmile.com/en/product/1142458",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "NEQ"
+        },
+        {
+          "role": "涂装",
+          "name": "Tomofumi (WATANA BOX)"
+        }
+      ]
     },
     {
       "id": "gsc-pop-1137013",
@@ -12797,10 +14227,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "POP UP PARADE Aura",
           "url": "https://www.goodsmile.com/en/product/1137013",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Amaguri + Sparrow"
+        },
+        {
+          "role": "涂装",
+          "name": "Hiroto Tanimoto"
+        }
+      ]
     },
     {
       "id": "gsc-pop-1142837",
@@ -12856,10 +14296,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "POP UP PARADE SP Cutie Honey",
           "url": "https://www.goodsmile.com/en/product/1142837",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Masatoshi Oka"
+        },
+        {
+          "role": "涂装",
+          "name": "Tomoyoshi Hara"
+        }
+      ]
     },
     {
       "id": "gsc-chito-1138464",
@@ -12918,10 +14368,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "chitocerium chirality I-hydra",
           "url": "https://www.goodsmile.com/en/product/1138464",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Masaki Apsy"
+        },
+        {
+          "role": "制作协力",
+          "name": "Good Smile Company"
+        },
+        {
+          "role": "设计",
+          "name": "huke"
+        }
+      ]
     },
     {
       "id": "gsc-chito-59941",
@@ -12980,10 +14444,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "chitocerium I-hydra",
           "url": "https://www.goodsmile.com/en/product/59941",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Masaki Apsy"
+        },
+        {
+          "role": "制作协力",
+          "name": "Good Smile Company"
+        },
+        {
+          "role": "设计",
+          "name": "huke"
+        }
+      ]
     },
     {
       "id": "gsc-chito-12146",
@@ -13044,10 +14522,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "chitocerium VI-carbonia graphites",
           "url": "https://www.goodsmile.com/en/product/12146",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Masaki Apsy"
+        },
+        {
+          "role": "制作协力",
+          "name": "Good Smile Company"
+        },
+        {
+          "role": "设计",
+          "name": "huke"
+        }
+      ]
     },
     {
       "id": "gsc-chito-10892",
@@ -13108,10 +14600,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "chitocerium LXXVIII-platinum 1.5",
           "url": "https://www.goodsmile.com/en/product/10892",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Masaki Apsy"
+        },
+        {
+          "role": "制作协力",
+          "name": "Good Smile Company"
+        },
+        {
+          "role": "设计",
+          "name": "huke"
+        }
+      ]
     },
     {
       "id": "gsc-chito-10241",
@@ -13173,10 +14679,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "chitocerium nightmare XCIX-albere & C-efer",
           "url": "https://www.goodsmile.com/en/product/10241",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": "Smile Fest 2022 Tokyo，2022-08-06 至 08-07：本款产品页明确现场销售。"
+      "event": "Smile Fest 2022 Tokyo，2022-08-06 至 08-07：本款产品页明确现场销售。",
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Masaki Apsy"
+        },
+        {
+          "role": "制作协力",
+          "name": "Good Smile Company"
+        },
+        {
+          "role": "设计",
+          "name": "huke"
+        }
+      ]
     },
     {
       "id": "gsc-chito-9766",
@@ -13245,10 +14765,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "chitocerium XCII-urania",
           "url": "https://www.goodsmile.com/en/product/9766",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Masaki Apsy"
+        },
+        {
+          "role": "制作协力",
+          "name": "Good Smile Company"
+        },
+        {
+          "role": "设计",
+          "name": "huke"
+        }
+      ]
     },
     {
       "id": "gsc-chito-6300",
@@ -13310,10 +14844,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "chitocerium VI-carbonia adamas",
           "url": "https://www.goodsmile.com/en/product/6300",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Masaki Apsy"
+        },
+        {
+          "role": "制作协力",
+          "name": "Good Smile Company"
+        },
+        {
+          "role": "设计",
+          "name": "huke"
+        }
+      ]
     },
     {
       "id": "gsc-chito-32646",
@@ -13375,10 +14923,16 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "chitocerium XCIX-albere & C-efer",
           "url": "https://www.goodsmile.com/en/product/32646",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "设计",
+          "name": "huke"
+        }
+      ]
     },
     {
       "id": "gsc-chito-5770",
@@ -13440,10 +14994,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "chitocerium LXXVIII-platinum",
           "url": "https://www.goodsmile.com/en/product/5770",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Masaki Apsy"
+        },
+        {
+          "role": "制作协力",
+          "name": "Good Smile Company"
+        },
+        {
+          "role": "设计",
+          "name": "huke"
+        }
+      ]
     },
     {
       "id": "gsc-chito-7116",
@@ -13505,10 +15073,24 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "chitocerium VI-carbonia lonsdaleite",
           "url": "https://www.goodsmile.com/en/product/7116",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Masaki Apsy"
+        },
+        {
+          "role": "制作协力",
+          "name": "Good Smile Company"
+        },
+        {
+          "role": "设计",
+          "name": "huke"
+        }
+      ]
     },
     {
       "id": "gsc-plamatea-1139093",
@@ -13567,10 +15149,16 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "PLAMATEA Mari Makinami Illustrious",
           "url": "https://www.goodsmile.com/en/product/1139093",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "设计",
+          "name": "SELECT D"
+        }
+      ]
     },
     {
       "id": "gsc-plamatea-1139114",
@@ -13623,10 +15211,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "PLAMATEA Armored Soldier of Unknown Affiliation",
           "url": "https://www.goodsmile.com/en/product/1139114",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Hotkeel"
+        },
+        {
+          "role": "设计",
+          "name": "mffp"
+        }
+      ]
     },
     {
       "id": "gsc-plamatea-1145409",
@@ -13686,10 +15284,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "PLAMATEA Hurricane Honey",
           "url": "https://www.goodsmile.com/en/product/1145409",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Keita Tagami"
+        },
+        {
+          "role": "制作协力",
+          "name": "HOTKEEL"
+        }
+      ]
     },
     {
       "id": "gsc-plamatea-1138610",
@@ -13740,10 +15348,16 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "PLAMATEA Honey Chaser",
           "url": "https://www.goodsmile.com/en/product/1138610",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Keita Tagami"
+        }
+      ]
     },
     {
       "id": "gsc-plamatea-1137954",
@@ -13802,10 +15416,16 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "PLAMATEA Kongo Kai-II C",
           "url": "https://www.goodsmile.com/en/product/1137954",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "设计",
+          "name": "POLY-TOYS"
+        }
+      ]
     },
     {
       "id": "gsc-plamatea-1142817",
@@ -13864,10 +15484,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "PLAMATEA Yachiyo",
           "url": "https://www.goodsmile.com/en/product/1142817",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Dyson Max"
+        },
+        {
+          "role": "制作协力",
+          "name": "POLY-TOYS"
+        }
+      ]
     },
     {
       "id": "gsc-plamatea-1142140",
@@ -13926,10 +15556,16 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "PLAMATEA Cutie Honey: Prism Crystal Ver.",
           "url": "https://www.goodsmile.com/en/product/1142140",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Keita Tagami"
+        }
+      ]
     },
     {
       "id": "gsc-plamatea-1136972",
@@ -13989,10 +15625,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "PLAMATEA Guy Shishioh",
           "url": "https://www.goodsmile.com/en/product/1136972",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Tagoichi"
+        },
+        {
+          "role": "设计",
+          "name": "UNITEC"
+        }
+      ]
     },
     {
       "id": "gsc-plamatea-1145848",
@@ -14051,10 +15697,16 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "PLAMATEA MX-chan",
           "url": "https://www.goodsmile.com/en/product/1145848",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Max Factory (Jun Yamaoka)"
+        }
+      ]
     },
     {
       "id": "gsc-plamatea-1138558",
@@ -14115,10 +15767,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "PLAMATEA Arika Yumemiya",
           "url": "https://www.goodsmile.com/en/product/1138558",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Koke"
+        },
+        {
+          "role": "制作协力",
+          "name": "POLY-TOYS"
+        }
+      ]
     },
     {
       "id": "gsc-plamatea-1144549",
@@ -14176,10 +15838,16 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "PLAMATEA Shielder/Mash Kyrielight (Ortinax)",
           "url": "https://www.goodsmile.com/en/product/1144549",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Max Factory"
+        }
+      ]
     },
     {
       "id": "gsc-plamatea-1144550",
@@ -14237,10 +15905,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "PLAMATEA Shielder/Mash Kyrielight (Ortinax) Black Barrel Edition",
           "url": "https://www.goodsmile.com/en/product/1144550",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Max Factory"
+        },
+        {
+          "role": "制作协力",
+          "name": "mffp"
+        }
+      ]
     },
     {
       "id": "gsc-plamatea-1137892",
@@ -14299,10 +15977,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "PLAMATEA Al Azif",
           "url": "https://www.goodsmile.com/en/product/1137892",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "制作协力",
+          "name": "Hidetoshi Nishibu"
+        },
+        {
+          "role": "设计",
+          "name": "POLY-TOYS"
+        }
+      ]
     },
     {
       "id": "gsc-plamatea-1137327",
@@ -14361,10 +16049,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "PLAMATEA Hatsune Miku",
           "url": "https://www.goodsmile.com/en/product/1137327",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Takeuchi Kenkyusei"
+        },
+        {
+          "role": "制作协力",
+          "name": "TEAM NAVEL (UNITEC)"
+        }
+      ]
     },
     {
       "id": "gsc-plamatea-1141570",
@@ -14424,10 +16122,16 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "PLAMATEA Kerry: Bunny Ver.",
           "url": "https://www.goodsmile.com/en/product/1141570",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Kenichi Miyashita"
+        }
+      ]
     },
     {
       "id": "gsc-plamatea-1137923",
@@ -14613,10 +16317,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "PLAMATEA Black Honey",
           "url": "https://www.goodsmile.com/en/product/1136218",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Keita Tagami"
+        },
+        {
+          "role": "制作协力",
+          "name": "Tagoichi, Koke"
+        }
+      ]
     },
     {
       "id": "gsc-plamatea-1138002",
@@ -14678,10 +16392,16 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "PLAMATEA T-60 Power Armor",
           "url": "https://www.goodsmile.com/en/product/1138002",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Max Factory (Nobuhiko Asahina)"
+        }
+      ]
     },
     {
       "id": "gsc-plamatea-1141879",
@@ -14741,10 +16461,16 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "PLAMATEA Muse Body: Ichika - Silver Bikini Ver.",
           "url": "https://www.goodsmile.com/en/product/1141879",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "制作协力",
+          "name": "POLY-TOYS"
+        }
+      ]
     },
     {
       "id": "gsc-plamatea-36286",
@@ -14804,10 +16530,16 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "PLAMATEA Cutie Honey",
           "url": "https://www.goodsmile.com/en/product/36286",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Keita Tagami"
+        }
+      ]
     },
     {
       "id": "gsc-plamatea-60249",
@@ -14864,10 +16596,20 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "PLAMATEA Guts: Berserker Armor Ver.",
           "url": "https://www.goodsmile.com/en/product/60249",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Masato Ohata"
+        },
+        {
+          "role": "制作协力",
+          "name": "Ensky PLUS"
+        }
+      ]
     },
     {
       "id": "gsc-plamatea-1137794",
@@ -14926,10 +16668,16 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "PLAMATEA Yuki Yuna",
           "url": "https://www.goodsmile.com/en/product/1137794",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "设计",
+          "name": "mffp"
+        }
+      ]
     },
     {
       "id": "gsc-plamatea-34684",
@@ -14987,10 +16735,16 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "PLAMATEA Shigure Kai San",
           "url": "https://www.goodsmile.com/en/product/34684",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "POLY-TOYS"
+        }
+      ]
     },
     {
       "id": "gsc-plamatea-57238",
@@ -15047,10 +16801,16 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "PLAMATEA Hatsune Miku: Happy 16th Birthday Ver.",
           "url": "https://www.goodsmile.com/en/product/57238",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
         }
       ],
-      "event": null
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Max Factory (Jun Yamaoka)"
+        }
+      ]
     },
     {
       "id": "azone-body-pfl103-wht",
@@ -16774,6 +18534,13216 @@ window.TOY_COMPARE_DATA = {
         }
       ],
       "event": null
+    },
+    {
+      "id": "mfield-sfbt-1",
+      "name": "S.F.B.T-1 · 初代素体",
+      "brand": "Mフィールド",
+      "original": "オリジナル可動素体 S.F.B.T-1",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [],
+        "material": [
+          "彩色树脂"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "系列与用途",
+          "text": "S.F.B.T 是 Special Fullaction Body Type。按代数区分；素体、瞳色配件与展示用头发分别记录。"
+        },
+        {
+          "title": "历史版本",
+          "text": "官方标为销售结束。以绘画用人体模型为开发用途，第一代段落列全身约 80 处可动、躯干伸缩与扭转以及肩臂活动。该计数不转写为第三代或第四代规格。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "S.F.B.T",
+          "url": "http://m-field.b.la9.jp/sfbt.html",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方活动说明",
+          "title": "イベント情報",
+          "url": "http://m-field.b.la9.jp/news.html",
+          "supports": "女性第三代销售、男性第四代展示与可替换瞳色配件；页面未列具体活动日期"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "SFBT1",
+        "SFBT-1",
+        "サフビット"
+      ]
+    },
+    {
+      "id": "mfield-sfbt-3",
+      "name": "S.F.B.T-3 · 女性素体",
+      "brand": "Mフィールド",
+      "original": "オリジナル可動素体 S.F.B.T-3",
+      "country": "日本",
+      "origin": "日本（官方 MADE IN JAPAN）",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 290,
+      "heightBasis": "官方通販页全长 290 mm（未另分含头口径）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 29 cm",
+          "basis": "官方通販页全长 290 mm（未另分含头口径）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [],
+        "material": [
+          "ABS树脂"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "系列与用途",
+          "text": "S.F.B.T 是 Special Fullaction Body Type。按代数区分；素体、瞳色配件与展示用头发分别记录。"
+        },
+        {
+          "title": "结构",
+          "text": "第三代改动胸部与背部零件、扩大肩臂活动范围；ABS 取代第一代的彩色树脂，可动位置使用 polycap。官方未在第三代段落另列关节总数。"
+        },
+        {
+          "title": "交付",
+          "text": "肌色、已组装，附专用支架。官方通販页列有 2026 年 7 月开始的预约；展示使用的市售头发不据此认定为附带。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "通販",
+          "url": "http://m-field.b.la9.jp/tuuhan.html",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方结构说明",
+          "title": "S.F.B.T",
+          "url": "http://m-field.b.la9.jp/sfbt.html",
+          "supports": "第三代结构改动、ABS 与日本制造标示"
+        },
+        {
+          "kind": "官方活动说明",
+          "title": "イベント情報",
+          "url": "http://m-field.b.la9.jp/news.html",
+          "supports": "女性第三代销售、男性第四代展示与可替换瞳色配件；页面未列具体活动日期"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "SFBT3",
+        "SFBT-3",
+        "サフビット"
+      ],
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "前田強"
+        }
+      ]
+    },
+    {
+      "id": "mfield-sfbt-4",
+      "name": "S.F.B.T-4 · 男性素体",
+      "brand": "Mフィールド",
+      "original": "オリジナル可動素体 S.F.B.T-4",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "系列与用途",
+          "text": "S.F.B.T 是 Special Fullaction Body Type。按代数区分；素体、瞳色配件与展示用头发分别记录。"
+        },
+        {
+          "title": "第四代范围",
+          "text": "官方列为男性素体；通販页标为预定数量结束，活动页列男性样品展示。暂未取得第四代的完整尺寸、材料与作者署名，不套用第三代的 290 mm 或 ABS。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "通販",
+          "url": "http://m-field.b.la9.jp/tuuhan.html",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方活动说明",
+          "title": "イベント情報",
+          "url": "http://m-field.b.la9.jp/news.html",
+          "supports": "女性第三代销售、男性第四代展示与可替换瞳色配件；页面未列具体活动日期"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "SFBT4",
+        "SFBT-4",
+        "サフビット"
+      ]
+    },
+    {
+      "id": "petworks-pw-10001",
+      "name": "六分の一男子図鑑 26VDAY エイト PS",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑 26VDAY エイト PS / 1925111　JAN：4571239257139",
+      "country": "日本",
+      "origin": "日本；身体中国制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 280.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 28 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-28BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2025 年 12 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑 26VDAY エイト PS | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/10001/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子、笠間綾"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-10050",
+      "name": "Today’s momoko 2512",
+      "brand": "PetWORKs",
+      "original": "Today’s momoko 2512 / 1125101　JAN：4571239257078",
+      "country": "日本",
+      "origin": "日本；身体中国制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 270.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 27 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 セキグチmomokoボディMB02。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。植发造型按本款记录；不把植发写成可换假发。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2025 年 12 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Today’s momoko 2512 | PW-momoko  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/10050/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/about/",
+          "supports": "PW-momoko 与 SEKIGUCHI momoko DOLL 的出品区分、1:6 及系列设计背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-10144",
+      "name": "CCS 26干支 momoko 午",
+      "brand": "PetWORKs",
+      "original": "CCS 26干支 momoko 午 / 1125131　JAN：4571239257153",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 270.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 27 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 セキグチmomokoボディMB02。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。植发造型按本款记录；不把植发写成可换假发。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2026 年 1 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "CCS 26干支 momoko 午 | PW-momoko  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/10144/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/about/",
+          "supports": "PW-momoko 与 SEKIGUCHI momoko DOLL 的出品区分、1:6 及系列设计背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "鈴木あかね"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-10149",
+      "name": "CCS 26ES momoko Steampunk",
+      "brand": "PetWORKs",
+      "original": "CCS 26ES momoko Steampunk / 1126031　JAN：4571239257221",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 270.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 27 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 セキグチmomokoボディMB02。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。植发造型按本款记录；不把植发写成可换假发。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2026 年 2 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "CCS 26ES momoko Steampunk | PW-momoko  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/10149/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/about/",
+          "supports": "PW-momoko 与 SEKIGUCHI momoko DOLL 的出品区分、1:6 及系列设计背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-10152",
+      "name": "六分の一男子図鑑 スチームパンク ナイン PS",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑 スチームパンク ナイン PS / 1026021　JAN：4571239257245",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 290.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 29 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-29BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2026 年 2 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑 スチームパンク ナイン PS | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/10152/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-10154",
+      "name": "六分の一男子図鑑 スチームパンク エイト PS",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑 スチームパンク エイト PS / 1926021　JAN：4571239257238",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 280.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 28 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-28BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2026 年 2 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑 スチームパンク エイト PS | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/10154/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-10157",
+      "name": "六分の一男子図鑑 26干支 午 ナイン",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑 26干支 午 ナイン / 1026011　JAN：4571239257184",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 290.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 29 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-29BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2026 年 2 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑 26干支 午 ナイン | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/10157/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-10159",
+      "name": "六分の一男子図鑑 26干支 午 エイト",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑 26干支 午 エイト / 1926011　JAN：4571239257177",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 280.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 28 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-28BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2026 年 2 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑 26干支 午 エイト | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/10159/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-10228",
+      "name": "Today’s momoko 2602",
+      "brand": "PetWORKs",
+      "original": "Today’s momoko 2602 / 1126041　JAN：4571239257252",
+      "country": "日本",
+      "origin": "日本；身体中国制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 270.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 27 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 セキグチmomokoボディMB02。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。植发造型按本款记录；不把植发写成可换假发。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2026 年 2 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Today’s momoko 2602 | PW-momoko  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/10228/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/about/",
+          "supports": "PW-momoko 与 SEKIGUCHI momoko DOLL 的出品区分、1:6 及系列设计背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-10230",
+      "name": "Today’s momoko 2602 DS",
+      "brand": "PetWORKs",
+      "original": "Today’s momoko 2602 DS / 1126042　JAN：4571239257269",
+      "country": "日本",
+      "origin": "日本；身体中国制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 270.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 27 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 セキグチmomokoボディMB02。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "以官方所列本体交付；未列的衣装和鞋不视为附带。植发造型按本款记录；不把植发写成可换假发。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2026 年 2 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Today’s momoko 2602 DS | PW-momoko  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/10230/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/about/",
+          "supports": "PW-momoko 与 SEKIGUCHI momoko DOLL 的出品区分、1:6 及系列设计背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "澤田啓介（澤田工房）"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-10356",
+      "name": "CCS 26SS momoko",
+      "brand": "PetWORKs",
+      "original": "CCS 26SS momoko / 1126061　JAN：4571239257368",
+      "country": "日本",
+      "origin": "日本；身体中国制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 270.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 27 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 セキグチmomokoボディMB02。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。植发造型按本款记录；不把植发写成可换假发。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2026 年 4 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "CCS 26SS momoko | PW-momoko  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/10356/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/about/",
+          "supports": "PW-momoko 与 SEKIGUCHI momoko DOLL 的出品区分、1:6 及系列设计背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "笠間綾"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-10367",
+      "name": "六分の一男子図鑑　B2604 ナイン",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑　B2604 ナイン / 1026031　JAN：4571239257399",
+      "country": "日本",
+      "origin": "日本；身体中国制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 290.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 29 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-29BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "以官方所列本体交付；未列的衣装和鞋不视为附带。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2026 年 4 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑　B2604 ナイン | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/10367/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-10372",
+      "name": "六分の一男子図鑑　B2604 エイト",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑　B2604 エイト / 1926031　JAN：4571239257382",
+      "country": "日本",
+      "origin": "日本；身体中国制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 280.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 28 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-28BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "以官方所列本体交付；未列的衣装和鞋不视为附带。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2026 年 4 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑　B2604 エイト | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/10372/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-10441",
+      "name": "CCS 26ES momoko Steampunk Phantom",
+      "brand": "PetWORKs",
+      "original": "CCS 26ES momoko Steampunk Phantom / 1126051　JAN：4571239257313",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 270.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 27 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 セキグチmomokoボディMB02。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。植发造型按本款记录；不把植发写成可换假发。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2026 年 4 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "CCS 26ES momoko Steampunk Phantom | PW-momoko  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/10441/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/about/",
+          "supports": "PW-momoko 与 SEKIGUCHI momoko DOLL 的出品区分、1:6 及系列设计背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-10443",
+      "name": "六分の一男子図鑑 2603ID ナイン PS",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑 2603ID ナイン PS / 1026041　JAN：4571239257528",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 290.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 29 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-29BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2026 年 3 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑 2603ID ナイン PS | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/10443/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-10445",
+      "name": "六分の一男子図鑑 2603ID エイト PS",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑 2603ID エイト PS / 1926041　JAN：4571239257511",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 280.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 28 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-28BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2026 年 3 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑 2603ID エイト PS | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/10445/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-10535",
+      "name": "六分の一男子図鑑 26干支 午 エイト PS",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑 26干支 午 エイト PS / 1926051　JAN：4571239257542",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 280.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 28 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-28BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2026 年 5 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑 26干支 午 エイト PS | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/10535/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-10537",
+      "name": "六分の一男子図鑑 26干支 午 ナイン PS",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑 26干支 午 ナイン PS / 1026061　JAN：4571239257559",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 290.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 29 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-29BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2026 年 5 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑 26干支 午 ナイン PS | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/10537/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-10742",
+      "name": "六分の一男子図鑑 ワイルドポップ エイト PS",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑 ワイルドポップ エイト PS / 1926061　JAN：4571239257566",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 280.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 28 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-28BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2026 年 6 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑 ワイルドポップ エイト PS | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/10742/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-10744",
+      "name": "六分の一男子図鑑 ワイルドポップ ナイン PS",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑 ワイルドポップ ナイン PS / 1026071　JAN：4571239257573",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 290.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 29 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-29BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2026 年 6 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑 ワイルドポップ ナイン PS | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/10744/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-10747",
+      "name": "六分の一男子図鑑　B26AZ ナイン",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑　B26AZ ナイン / 1026081　JAN：4571239257597",
+      "country": "日本",
+      "origin": "日本；身体中国制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 290.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 29 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-29BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "以官方所列本体交付；未列的衣装和鞋不视为附带。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2026 年 6 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑　B26AZ ナイン | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/10747/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-10767",
+      "name": "六分の一男子図鑑　B26AZ エイト",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑　B26AZ エイト / 1926071　JAN：4571239257580",
+      "country": "日本",
+      "origin": "日本；身体中国制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 280.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 28 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-28BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "以官方所列本体交付；未列的衣装和鞋不视为附带。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2026 年 6 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑　B26AZ エイト | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/10767/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-10769",
+      "name": "六分の一男子図鑑 アイドルリンク ナイン",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑 アイドルリンク ナイン / 1026091　JAN：4571239257610",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 290.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 29 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-29BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2026 年 6 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑 アイドルリンク ナイン | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/10769/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-10771",
+      "name": "六分の一男子図鑑 アイドルリンク エイト",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑 アイドルリンク エイト / 1926081　JAN：4571239257603",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 280.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 28 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-28BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2026 年 6 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑 アイドルリンク エイト | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/10771/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-10901",
+      "name": "CCS 26AN momoko",
+      "brand": "PetWORKs",
+      "original": "CCS 26AN momoko / 1126071　JAN：4571239257634",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 270.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 27 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 セキグチmomokoボディMB02。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。植发造型按本款记录；不把植发写成可换假发。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2026 年 8 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "CCS 26AN momoko | PW-momoko  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/10901/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/about/",
+          "supports": "PW-momoko 与 SEKIGUCHI momoko DOLL 的出品区分、1:6 及系列设计背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-10903",
+      "name": "Today’s momoko 2608 bl",
+      "brand": "PetWORKs",
+      "original": "Today’s momoko 2608 bl / 1126082　JAN：4571239258044",
+      "country": "日本",
+      "origin": "日本；身体中国制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 270.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 27 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 セキグチmomokoボディMB02。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "以官方所列本体交付；未列的衣装和鞋不视为附带。植发造型按本款记录；不把植发写成可换假发。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2026 年 8 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Today’s momoko 2608 bl | PW-momoko  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/10903/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/about/",
+          "supports": "PW-momoko 与 SEKIGUCHI momoko DOLL 的出品区分、1:6 及系列设计背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "澤田啓介（澤田工房）"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-10905",
+      "name": "Today’s momoko 2608 bk",
+      "brand": "PetWORKs",
+      "original": "Today’s momoko 2608 bk / 1126081　JAN：4571239258037",
+      "country": "日本",
+      "origin": "日本；身体中国制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 270.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 27 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 セキグチmomokoボディMB02。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "以官方所列本体交付；未列的衣装和鞋不视为附带。植发造型按本款记录；不把植发写成可换假发。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2026 年 8 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Today’s momoko 2608 bk | PW-momoko  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/10905/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/about/",
+          "supports": "PW-momoko 与 SEKIGUCHI momoko DOLL 的出品区分、1:6 及系列设计背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "澤田啓介（澤田工房）"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-10907",
+      "name": "六分の一男子図鑑　B2608 ナイン",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑　B2608 ナイン / 1026101　JAN：4571239258020",
+      "country": "日本",
+      "origin": "日本；身体中国制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 290.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 29 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-29BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "以官方所列本体交付；未列的衣装和鞋不视为附带。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2026 年 8 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑　B2608 ナイン | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/10907/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-10909",
+      "name": "六分の一男子図鑑　B2608 エイト",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑　B2608 エイト / 1926091　JAN：4571239258013",
+      "country": "日本",
+      "origin": "日本；身体中国制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 280.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 28 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-28BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "以官方所列本体交付；未列的衣装和鞋不视为附带。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2026 年 8 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑　B2608 エイト | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/10909/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-10985",
+      "name": "CCS 26干支 momoko 午 PS",
+      "brand": "PetWORKs",
+      "original": "CCS 26干支 momoko 午 PS / 1126091　JAN：4571239258051",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 270.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 27 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 セキグチmomokoボディMB02。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。植发造型按本款记录；不把植发写成可换假发。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2026 年 8 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "CCS 26干支 momoko 午 PS | PW-momoko  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/10985/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/about/",
+          "supports": "PW-momoko 与 SEKIGUCHI momoko DOLL 的出品区分、1:6 及系列设计背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-11107",
+      "name": "六分の一男子図鑑　B2610 ナイン",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑　B2610 ナイン / 1026111　JAN：4571239258778",
+      "country": "日本",
+      "origin": "日本；身体中国制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 290.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 29 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品",
+          "计划商品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-29BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "以官方所列本体交付；未列的衣装和鞋不视为附带。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2026 年 10 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑　B2610 ナイン | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/11107/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-11117",
+      "name": "六分の一男子図鑑　B2610 エイト",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑　B2610 エイト / 1926101　JAN：4571239258761",
+      "country": "日本",
+      "origin": "日本；身体中国制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 280.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 28 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品",
+          "计划商品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-28BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "以官方所列本体交付；未列的衣装和鞋不视为附带。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2026 年 10 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑　B2610 エイト | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/11117/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-4434",
+      "name": "六分の一男子図鑑　PW-29BODY アイボリーベージュ",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑　PW-29BODY アイボリーベージュ / 5921021　5923047　JAN：4571239252486",
+      "country": "日本",
+      "origin": "中国（官方商品标示）",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 275.0,
+      "heightBasis": "官方约全高；首关节至脚跟、不含头",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 27.5 cm",
+          "basis": "官方约全高；首关节至脚跟、不含头"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "ABS树脂",
+          "POM",
+          "弹性体"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "单独身体不含头；高度从颈部关节量至脚跟。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "以官方所列本体交付；未列的衣装和鞋不视为附带。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2021 年 2 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑　PW-29BODY アイボリーベージュ | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/4434/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-4445",
+      "name": "六分の一男子図鑑　PW-28BODY アイボリーベージュ",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑　PW-28BODY アイボリーベージュ / 5921011　5923037　JAN：4571239252479",
+      "country": "日本",
+      "origin": "中国（官方商品标示）",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 260.0,
+      "heightBasis": "官方约全高；首关节至脚跟、不含头",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 26 cm",
+          "basis": "官方约全高；首关节至脚跟、不含头"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "ABS树脂",
+          "POM",
+          "弹性体"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "单独身体不含头；高度从颈部关节量至脚跟。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "以官方所列本体交付；未列的衣装和鞋不视为附带。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2021 年 2 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑　PW-28BODY アイボリーベージュ | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/4445/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-6576",
+      "name": "Today’s momoko 2302",
+      "brand": "PetWORKs",
+      "original": "Today’s momoko 2302 / 1123011　JAN：4571239254220",
+      "country": "日本",
+      "origin": "日本；身体中国制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 270.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 27 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 セキグチmomokoボディMB01。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。植发造型按本款记录；不把植发写成可换假发。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2023 年 2 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Today’s momoko 2302 | PW-momoko  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/6576/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/about/",
+          "supports": "PW-momoko 与 SEKIGUCHI momoko DOLL 的出品区分、1:6 及系列设计背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-6664",
+      "name": "Today’s momoko 2304",
+      "brand": "PetWORKs",
+      "original": "Today’s momoko 2304 / 1123021　JAN：4571239254275",
+      "country": "日本",
+      "origin": "日本；身体中国制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 270.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 27 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 セキグチmomokoボディMB01。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。植发造型按本款记录；不把植发写成可换假发。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2023 年 4 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Today’s momoko 2304 | PW-momoko  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/6664/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/about/",
+          "supports": "PW-momoko 与 SEKIGUCHI momoko DOLL 的出品区分、1:6 及系列设计背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-6770",
+      "name": "CCS 23SS momoko",
+      "brand": "PetWORKs",
+      "original": "CCS 23SS momoko / 1123031　JAN：4571239254374",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 270.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 27 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 セキグチmomokoボディMB02。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。植发造型按本款记录；不把植发写成可换假发。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2023 年 5 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "CCS 23SS momoko | PW-momoko  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/6770/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/about/",
+          "supports": "PW-momoko 与 SEKIGUCHI momoko DOLL 的出品区分、1:6 及系列设计背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子、鈴木あかね"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-6910",
+      "name": "CCS 23SS momoko PS",
+      "brand": "PetWORKs",
+      "original": "CCS 23SS momoko PS / 1123061　JAN：4571239254596",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 270.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 27 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 セキグチmomokoボディMB02。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。植发造型按本款记录；不把植发写成可换假发。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2023 年 6 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "CCS 23SS momoko PS | PW-momoko  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/6910/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/about/",
+          "supports": "PW-momoko 与 SEKIGUCHI momoko DOLL 的出品区分、1:6 及系列设计背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-7012",
+      "name": "Today’s momoko 2307",
+      "brand": "PetWORKs",
+      "original": "Today’s momoko 2307 / 1123051　JAN：4571239254589",
+      "country": "日本",
+      "origin": "日本；身体中国制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 270.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 27 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 セキグチmomokoボディMB01。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。植发造型按本款记录；不把植发写成可换假发。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2023 年 7 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Today’s momoko 2307 | PW-momoko  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/7012/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/about/",
+          "supports": "PW-momoko 与 SEKIGUCHI momoko DOLL 的出品区分、1:6 及系列设计背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-7124",
+      "name": "CCS 23SS momoko PS Alice",
+      "brand": "PetWORKs",
+      "original": "CCS 23SS momoko PS Alice / 1123091　JAN：4571239254664",
+      "country": "日本",
+      "origin": "日本；身体中国制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 270.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 27 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 セキグチmomokoボディMB02。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。植发造型按本款记录；不把植发写成可换假发。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2023 年 8 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "CCS 23SS momoko PS Alice | PW-momoko  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/7124/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/about/",
+          "supports": "PW-momoko 与 SEKIGUCHI momoko DOLL 的出品区分、1:6 及系列设计背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "鈴木あかね"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-7127",
+      "name": "CCS 23AN momoko",
+      "brand": "PetWORKs",
+      "original": "CCS 23AN momoko / 1123071　JAN：4571239254626",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 270.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 27 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 セキグチmomokoボディMB02。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。植发造型按本款记录；不把植发写成可换假发。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2023 年 8 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "CCS 23AN momoko | PW-momoko  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/7127/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/about/",
+          "supports": "PW-momoko 与 SEKIGUCHI momoko DOLL 的出品区分、1:6 及系列设计背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子、笠間綾"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-7428",
+      "name": "CCS 23AW momoko",
+      "brand": "PetWORKs",
+      "original": "CCS 23AW momoko / 1123111　JAN：4571239254893",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 270.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 27 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 セキグチmomokoボディMB02。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。植发造型按本款记录；不把植发写成可换假发。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2023 年 11 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "CCS 23AW momoko | PW-momoko  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/7428/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/about/",
+          "supports": "PW-momoko 与 SEKIGUCHI momoko DOLL 的出品区分、1:6 及系列设计背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子、笠間綾"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-7555",
+      "name": "CCS 24干支 momoko 辰",
+      "brand": "PetWORKs",
+      "original": "CCS 24干支 momoko 辰 / 1123121　JAN：4571239254916",
+      "country": "日本",
+      "origin": "日本；身体中国制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 270.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 27 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 セキグチmomokoボディMB02。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。植发造型按本款记录；不把植发写成可换假发。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2023 年 11 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "CCS 24干支 momoko 辰 | PW-momoko  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/7555/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/about/",
+          "supports": "PW-momoko 与 SEKIGUCHI momoko DOLL 的出品区分、1:6 及系列设计背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-7575",
+      "name": "Today’s momoko 2312",
+      "brand": "PetWORKs",
+      "original": "Today’s momoko 2312 / 1123131　JAN：4571239254961",
+      "country": "日本",
+      "origin": "日本；身体中国制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 270.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 27 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 セキグチmomokoボディMB01。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。植发造型按本款记录；不把植发写成可换假发。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2023 年 12 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Today’s momoko 2312 | PW-momoko  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/7575/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/about/",
+          "supports": "PW-momoko 与 SEKIGUCHI momoko DOLL 的出品区分、1:6 及系列设计背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-7581",
+      "name": "六分の一男子図鑑　PW-29BODY 褐色",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑　PW-29BODY 褐色 / 5923048",
+      "country": "日本",
+      "origin": "中国（官方商品标示）",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 275.0,
+      "heightBasis": "官方约全高；首关节至脚跟、不含头",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 27.5 cm",
+          "basis": "官方约全高；首关节至脚跟、不含头"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "ABS树脂",
+          "POM",
+          "弹性体"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "单独身体不含头；高度从颈部关节量至脚跟。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "以官方所列本体交付；未列的衣装和鞋不视为附带。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2023 年 11 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑　PW-29BODY 褐色 | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/7581/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "素体原型",
+          "name": "澤田啓介（澤田工房）"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-7584",
+      "name": "六分の一男子図鑑　PW-28BODY 褐色",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑　PW-28BODY 褐色 / 5923038",
+      "country": "日本",
+      "origin": "中国（官方商品标示）",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 260.0,
+      "heightBasis": "官方约全高；首关节至脚跟、不含头",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 26 cm",
+          "basis": "官方约全高；首关节至脚跟、不含头"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "ABS树脂",
+          "POM",
+          "弹性体"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "单独身体不含头；高度从颈部关节量至脚跟。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "以官方所列本体交付；未列的衣装和鞋不视为附带。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2023 年 11 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑　PW-28BODY 褐色 | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/7584/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "素体原型",
+          "name": "澤田啓介（澤田工房）"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-7761",
+      "name": "Today’s momoko 2402",
+      "brand": "PetWORKs",
+      "original": "Today’s momoko 2402 / 1124021　JAN：4571239255036",
+      "country": "日本",
+      "origin": "日本；身体中国制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 270.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 27 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 セキグチmomokoボディMB01。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。植发造型按本款记录；不把植发写成可换假发。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2024 年 2 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Today’s momoko 2402 | PW-momoko  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/7761/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/about/",
+          "supports": "PW-momoko 与 SEKIGUCHI momoko DOLL 的出品区分、1:6 及系列设计背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-7806",
+      "name": "六分の一男子図鑑　B2403 エイト",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑　B2403 エイト / 1924031　JAN：4571239255098",
+      "country": "日本",
+      "origin": "日本；身体中国制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 280.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 28 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-28BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "以官方所列本体交付；未列的衣装和鞋不视为附带。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2024 年 3 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑　B2403 エイト | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/7806/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-7903",
+      "name": "Today’s momoko 2403",
+      "brand": "PetWORKs",
+      "original": "Today’s momoko 2403 / 1124031　JAN：4571239255081",
+      "country": "日本",
+      "origin": "日本；身体中国制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 270.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 27 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 セキグチmomokoボディMB01。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。植发造型按本款记录；不把植发写成可换假发。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2024 年 3 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Today’s momoko 2403 | PW-momoko  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/7903/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/about/",
+          "supports": "PW-momoko 与 SEKIGUCHI momoko DOLL 的出品区分、1:6 及系列设计背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-7906",
+      "name": "六分の一男子図鑑　書房のナイン PS",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑　書房のナイン PS / 1024041　JAN：4571239255128",
+      "country": "日本",
+      "origin": "日本；身体中国制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 290.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 29 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-29BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2024 年 3 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑　書房のナイン PS | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/7906/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子、笠間綾"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-7908",
+      "name": "六分の一男子図鑑　書房のエイト PS",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑　書房のエイト PS / 1924041　JAN：4571239255111",
+      "country": "日本",
+      "origin": "日本；身体中国制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 280.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 28 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-28BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2024 年 3 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑　書房のエイト PS | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/7908/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子、笠間綾"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-7967",
+      "name": "CCS 24SS momoko",
+      "brand": "PetWORKs",
+      "original": "CCS 24SS momoko / 1124041　JAN：4571239255159",
+      "country": "日本",
+      "origin": "日本；身体中国制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 270.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 27 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 セキグチmomokoボディMB02。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。植发造型按本款记录；不把植发写成可换假发。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2024 年 4 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "CCS 24SS momoko | PW-momoko  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/7967/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/about/",
+          "supports": "PW-momoko 与 SEKIGUCHI momoko DOLL 的出品区分、1:6 及系列设计背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "笠間綾"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-8155",
+      "name": "六分の一男子図鑑 ヴァンパイア ナイン",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑 ヴァンパイア ナイン / 1024061　JAN：4571239255418",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 290.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 29 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-29BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2024 年 6 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑 ヴァンパイア ナイン | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/8155/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-8157",
+      "name": "六分の一男子図鑑 ヴァンパイア エイト",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑 ヴァンパイア エイト / 1924061　JAN：4571239255401",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 280.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 28 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-28BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2024 年 6 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑 ヴァンパイア エイト | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/8157/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-8301",
+      "name": "CCS 24AN momoko wh",
+      "brand": "PetWORKs",
+      "original": "CCS 24AN momoko wh / 1124061　JAN：4571239255661",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 270.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 27 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 セキグチmomokoボディMB02。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。植发造型按本款记录；不把植发写成可换假发。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2024 年 8 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "CCS 24AN momoko wh | PW-momoko  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/8301/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/about/",
+          "supports": "PW-momoko 与 SEKIGUCHI momoko DOLL 的出品区分、1:6 及系列设计背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "鈴木あかね"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-8303",
+      "name": "CCS 24AN momoko bk",
+      "brand": "PetWORKs",
+      "original": "CCS 24AN momoko bk / 1124062　JAN：4571239255692",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 270.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 27 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 セキグチmomokoボディMB02。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。植发造型按本款记录；不把植发写成可换假发。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2024 年 8 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "CCS 24AN momoko bk | PW-momoko  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/8303/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/about/",
+          "supports": "PW-momoko 与 SEKIGUCHI momoko DOLL 的出品区分、1:6 及系列设计背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "鈴木あかね"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-8305",
+      "name": "CCS 24AN momoko Azone Ex.",
+      "brand": "PetWORKs",
+      "original": "CCS 24AN momoko Azone Ex. / 1124063　JAN：4571239255708",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 270.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 27 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 セキグチmomokoボディMB02。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。植发造型按本款记录；不把植发写成可换假发。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2024 年 8 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "CCS 24AN momoko Azone Ex. | PW-momoko  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/8305/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/about/",
+          "supports": "PW-momoko 与 SEKIGUCHI momoko DOLL 的出品区分、1:6 及系列设计背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "鈴木あかね"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-8307",
+      "name": "六分の一男子図鑑 ノームコア ナイン",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑 ノームコア ナイン / 1024071　JAN：4571239255654",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 290.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 29 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-29BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2024 年 9 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑 ノームコア ナイン | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/8307/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-8309",
+      "name": "六分の一男子図鑑 ノームコア エイト",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑 ノームコア エイト / 1924071　JAN：4571239255647",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 280.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 28 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-28BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2024 年 9 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑 ノームコア エイト | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/8309/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-8468",
+      "name": "六分の一男子図鑑　B2410 ナイン PS",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑　B2410 ナイン PS / 1024091　JAN：4571239255852",
+      "country": "日本",
+      "origin": "日本；身体中国制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 290.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 29 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-29BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "以官方所列本体交付；未列的衣装和鞋不视为附带。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2024 年 10 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑　B2410 ナイン PS | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/8468/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-8470",
+      "name": "六分の一男子図鑑　B2410 エイト PS",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑　B2410 エイト PS / 1924081　JAN：4571239255845",
+      "country": "日本",
+      "origin": "日本；身体中国制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 280.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 28 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-28BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "以官方所列本体交付；未列的衣装和鞋不视为附带。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2024 年 10 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑　B2410 エイト PS | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/8470/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-8473",
+      "name": "六分の一男子図鑑 カジュアルテック ナイン",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑 カジュアルテック ナイン / 1024101　JAN：4571239255876",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 290.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 29 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-29BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2024 年 10 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑 カジュアルテック ナイン | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/8473/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子、笠間綾"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-8475",
+      "name": "六分の一男子図鑑 カジュアルテック エイト",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑 カジュアルテック エイト / 1924091　JAN：4571239255869",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 280.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 28 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-28BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2024 年 10 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑 カジュアルテック エイト | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/8475/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-8521",
+      "name": "Today’s momoko 24FS",
+      "brand": "PetWORKs",
+      "original": "Today’s momoko 24FS / 1124081　JAN：4571239255920",
+      "country": "日本",
+      "origin": "日本；身体中国制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 270.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 27 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 セキグチmomokoボディMB02。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。植发造型按本款记录；不把植发写成可换假发。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2024 年 10 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Today’s momoko 24FS | PW-momoko  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/8521/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/about/",
+          "supports": "PW-momoko 与 SEKIGUCHI momoko DOLL 的出品区分、1:6 及系列设计背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-8617",
+      "name": "CCS 24AW momoko",
+      "brand": "PetWORKs",
+      "original": "CCS 24AW momoko / 1124101　JAN：4571239256026",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 270.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 27 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 セキグチmomokoボディMB02。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。植发造型按本款记录；不把植发写成可换假发。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2024 年 11 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "CCS 24AW momoko | PW-momoko  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/8617/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/about/",
+          "supports": "PW-momoko 与 SEKIGUCHI momoko DOLL 的出品区分、1:6 及系列设计背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-8700",
+      "name": "六分の一男子図鑑 ノームコア ナイン PS",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑 ノームコア ナイン PS / 1024111　JAN：4571239256118",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 290.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 29 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-29BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2024 年 11 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑 ノームコア ナイン PS | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/8700/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-8702",
+      "name": "六分の一男子図鑑 ノームコア エイト PS",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑 ノームコア エイト PS / 1924101　JAN：4571239256101",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 280.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 28 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-28BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2024 年 11 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑 ノームコア エイト PS | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/8702/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-8854",
+      "name": "CCS 25VDAY momoko",
+      "brand": "PetWORKs",
+      "original": "CCS 25VDAY momoko / 1125011　JAN：4571239256194",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 270.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 27 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 セキグチmomokoボディMB01。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。植发造型按本款记录；不把植发写成可换假发。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2025 年 1 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "CCS 25VDAY momoko | PW-momoko  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/8854/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/about/",
+          "supports": "PW-momoko 与 SEKIGUCHI momoko DOLL 的出品区分、1:6 及系列设计背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "笠間綾"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-8858",
+      "name": "六分の一男子図鑑 25VDAY ナイン PS",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑 25VDAY ナイン PS / 1025011　JAN：4571239256217",
+      "country": "日本",
+      "origin": "日本；身体中国制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 290.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 29 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-29BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2025 年 1 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑 25VDAY ナイン PS | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/8858/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子、笠間綾"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-8860",
+      "name": "六分の一男子図鑑 25VDAY エイト PS",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑 25VDAY エイト PS / 1925011　JAN：4571239256200",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "以官方所列本体交付；未列的衣装和鞋不视为附带。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2025 年 1 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑 25VDAY エイト PS | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/8860/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events"
+    },
+    {
+      "id": "petworks-pw-9012",
+      "name": "六分の一男子図鑑 25干支 巳 ナイン",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑 25干支 巳 ナイン / 1025021　JAN：4571239256255",
+      "country": "日本",
+      "origin": "日本；身体中国制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 290.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 29 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-29BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2025 年 3 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑 25干支 巳 ナイン | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/9012/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "STOC"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-9015",
+      "name": "六分の一男子図鑑 25干支 巳 エイト",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑 25干支 巳 エイト / 1925021　JAN：4571239256248",
+      "country": "日本",
+      "origin": "日本；身体中国制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 280.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 28 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-28BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2025 年 3 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑 25干支 巳 エイト | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/9015/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "STOC"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-9017",
+      "name": "CCS 25SS momoko",
+      "brand": "PetWORKs",
+      "original": "CCS 25SS momoko / 1125021　JAN：4571239256330",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 270.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 27 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 セキグチmomokoボディMB02。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。植发造型按本款记录；不把植发写成可换假发。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2025 年 3 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "CCS 25SS momoko | PW-momoko  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/9017/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/about/",
+          "supports": "PW-momoko 与 SEKIGUCHI momoko DOLL 的出品区分、1:6 及系列设计背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-9130",
+      "name": "六分の一男子図鑑 ボタニカル ナイン",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑 ボタニカル ナイン / 1025031　JAN：4571239256392",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 290.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 29 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-29BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2025 年 4 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑 ボタニカル ナイン | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/9130/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-9132",
+      "name": "六分の一男子図鑑 ボタニカル エイト",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑 ボタニカル エイト / 1925031　JAN：4571239256385",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 280.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 28 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-28BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2025 年 4 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑 ボタニカル エイト | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/9132/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-9281",
+      "name": "六分の一男子図鑑　B25AZ ナイン",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑　B25AZ ナイン / 1025051　JAN：4571239256460",
+      "country": "日本",
+      "origin": "日本；身体中国制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 290.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 29 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-29BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "以官方所列本体交付；未列的衣装和鞋不视为附带。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2025 年 6 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑　B25AZ ナイン | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/9281/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-9294",
+      "name": "六分の一男子図鑑　B25AZ エイト",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑　B25AZ エイト / 1925051　JAN：4571239256453",
+      "country": "日本",
+      "origin": "日本；身体中国制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 280.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 28 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-28BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "以官方所列本体交付；未列的衣装和鞋不视为附带。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2025 年 6 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑　B25AZ エイト | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/9294/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-9297",
+      "name": "六分の一男子図鑑 袴スタイル・蒼黒 ナイン",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑 袴スタイル・蒼黒 ナイン / 1025041　JAN：4571239256446",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 290.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 29 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-29BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2025 年 6 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑 袴スタイル・蒼黒 ナイン | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/9297/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-9328",
+      "name": "六分の一男子図鑑 袴スタイル・蒼黒 エイト",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑 袴スタイル・蒼黒 エイト / 1925041　JAN：4571239256439",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 280.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 28 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-28BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2025 年 6 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑 袴スタイル・蒼黒 エイト | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/9328/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-9334",
+      "name": "六分の一男子図鑑 25干支 巳 ナイン PS",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑 25干支 巳 ナイン PS / 1025061　JAN：4571239256484",
+      "country": "日本",
+      "origin": "日本；身体中国制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 290.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 29 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-29BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2025 年 6 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑 25干支 巳 ナイン PS | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/9334/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "STOC"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-9354",
+      "name": "六分の一男子図鑑 25干支 巳 エイト PS",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑 25干支 巳 エイト PS / 1925061　JAN：4571239256477",
+      "country": "日本",
+      "origin": "日本；身体中国制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 280.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 28 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-28BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2025 年 6 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑 25干支 巳 エイト PS | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/9354/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "STOC"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-9381",
+      "name": "CCS 25SS momoko PS",
+      "brand": "PetWORKs",
+      "original": "CCS 25SS momoko PS / 1125041　JAN：4571239256491",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 270.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 27 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 セキグチmomokoボディMB02。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。植发造型按本款记录；不把植发写成可换假发。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2025 年 6 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "CCS 25SS momoko PS | PW-momoko  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/9381/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/about/",
+          "supports": "PW-momoko 与 SEKIGUCHI momoko DOLL 的出品区分、1:6 及系列设计背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-9419",
+      "name": "Today’s momoko 2507",
+      "brand": "PetWORKs",
+      "original": "Today’s momoko 2507 / 1125051　JAN：4571239256606",
+      "country": "日本",
+      "origin": "日本；身体中国制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 270.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 27 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 セキグチmomokoボディMB02。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。植发造型按本款记录；不把植发写成可换假发。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2025 年 7 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Today’s momoko 2507 | PW-momoko  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/9419/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/about/",
+          "supports": "PW-momoko 与 SEKIGUCHI momoko DOLL 的出品区分、1:6 及系列设计背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-9511",
+      "name": "六分の一男子図鑑　B2508 エイト",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑　B2508 エイト / 1925071　JAN：4571239256613",
+      "country": "日本",
+      "origin": "日本；身体中国制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 280.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 28 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-28BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "以官方所列本体交付；未列的衣装和鞋不视为附带。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2025 年 8 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑　B2508 エイト | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/9511/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-9522",
+      "name": "六分の一男子図鑑　B2508 ナイン",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑　B2508 ナイン / 1025071　JAN：4571239256620",
+      "country": "日本",
+      "origin": "日本；身体中国制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 290.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 29 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-29BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "以官方所列本体交付；未列的衣装和鞋不视为附带。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2025 年 8 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑　B2508 ナイン | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/9522/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-9547",
+      "name": "CCS 25AN momoko bk",
+      "brand": "PetWORKs",
+      "original": "CCS 25AN momoko bk / 1125071　JAN：4571239256644",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 270.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 27 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 セキグチmomokoボディMB02。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。植发造型按本款记录；不把植发写成可换假发。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2025 年 9 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "CCS 25AN momoko bk | PW-momoko  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/9547/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/about/",
+          "supports": "PW-momoko 与 SEKIGUCHI momoko DOLL 的出品区分、1:6 及系列设计背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-9550",
+      "name": "CCS 25AN momoko wh",
+      "brand": "PetWORKs",
+      "original": "CCS 25AN momoko wh / 1125061　JAN：4571239256637",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 270.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 27 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 セキグチmomokoボディMB02。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。植发造型按本款记录；不把植发写成可换假发。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2025 年 9 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "CCS 25AN momoko wh | PW-momoko  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/9550/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/about/",
+          "supports": "PW-momoko 与 SEKIGUCHI momoko DOLL 的出品区分、1:6 及系列设计背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-9620",
+      "name": "六分の一男子図鑑 ボタニカル ナイン PS",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑 ボタニカル ナイン PS / 1025081　JAN：4571239256675",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 290.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 29 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-29BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2025 年 9 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑 ボタニカル ナイン PS | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/9620/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-9641",
+      "name": "六分の一男子図鑑 ボタニカル エイト PS",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑 ボタニカル エイト PS / 1925081　JAN：4571239256668",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 280.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 28 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-28BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2025 年 9 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑 ボタニカル エイト PS | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/9641/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-9663",
+      "name": "六分の一男子図鑑 袴スタイル・蒼黒 ナイン  PS",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑 袴スタイル・蒼黒 ナイン  PS / 1025091　JAN：4571239256699",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 290.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 29 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-29BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2025 年 9 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑 袴スタイル・蒼黒 ナイン  PS | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/9663/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-9665",
+      "name": "六分の一男子図鑑 袴スタイル・蒼黒 エイト PS",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑 袴スタイル・蒼黒 エイト PS / 1925091　JAN：4571239256682",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 280.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 28 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-28BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2025 年 9 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑 袴スタイル・蒼黒 エイト PS | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/9665/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-9733",
+      "name": "Today’s momoko 2510",
+      "brand": "PetWORKs",
+      "original": "Today’s momoko 2510 / 1125081　JAN：4571239256835",
+      "country": "日本",
+      "origin": "日本；身体中国制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 270.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 27 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 セキグチmomokoボディMB02。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。植发造型按本款记录；不把植发写成可换假发。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2025 年 10 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Today’s momoko 2510 | PW-momoko  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/9733/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/about/",
+          "supports": "PW-momoko 与 SEKIGUCHI momoko DOLL 的出品区分、1:6 及系列设计背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-9920",
+      "name": "CCS 24AN momoko bk PS",
+      "brand": "PetWORKs",
+      "original": "CCS 24AN momoko bk PS / 1125091　JAN：4571239256903",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 270.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 27 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 セキグチmomokoボディMB02。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。植发造型按本款记录；不把植发写成可换假发。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2025 年 11 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "CCS 24AN momoko bk PS | PW-momoko  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/9920/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/about/",
+          "supports": "PW-momoko 与 SEKIGUCHI momoko DOLL 的出品区分、1:6 及系列设计背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "鈴木あかね"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-9948",
+      "name": "六分の一男子図鑑　B2512 ナイン",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑　B2512 ナイン / 1025101　JAN：4571239257108",
+      "country": "日本",
+      "origin": "日本；身体中国制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 290.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 29 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-29BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "以官方所列本体交付；未列的衣装和鞋不视为附带。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2025 年 12 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑　B2512 ナイン | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/9948/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-9950",
+      "name": "六分の一男子図鑑　B2512 エイト",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑　B2512 エイト / 1925101　JAN：4571239257092",
+      "country": "日本",
+      "origin": "日本；身体中国制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 280.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 28 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-28BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "以官方所列本体交付；未列的衣装和鞋不视为附带。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2025 年 12 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑　B2512 エイト | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/9950/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-9992",
+      "name": "CCS 26VDAY momoko",
+      "brand": "PetWORKs",
+      "original": "CCS 26VDAY momoko / 1125121　JAN：4571239257016",
+      "country": "日本",
+      "origin": "日本；身体中国制造，服装越南制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 270.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 27 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 セキグチmomokoボディMB02。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。植发造型按本款记录；不把植发写成可换假发。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2025 年 12 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "CCS 26VDAY momoko | PW-momoko  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/9992/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/pw_momoko/about/",
+          "supports": "PW-momoko 与 SEKIGUCHI momoko DOLL 的出品区分、1:6 及系列设计背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "笠間綾"
+        }
+      ]
+    },
+    {
+      "id": "petworks-pw-9999",
+      "name": "六分の一男子図鑑 26VDAY ナイン PS",
+      "brand": "PetWORKs",
+      "original": "六分の一男子図鑑 26VDAY ナイン PS / 1025111　JAN：4571239257146",
+      "country": "日本",
+      "origin": "日本；身体中国制造",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 290.0,
+      "heightBasis": "官方约全高（整个人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 29 cm",
+          "basis": "官方约全高（整个人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与版本",
+          "text": "采用 PW-29BODY（ペットワークスオリジナル）。高度按带头整个人偶记，不能用于单售素体的身高。"
+        },
+        {
+          "title": "交付与换装",
+          "text": "附布制衣装；官方说明需自行穿衣。手脚零件分开包装，需自行安装；头、手、脚的可拆接口不据此视为跨品牌通用。"
+        },
+        {
+          "title": "时间口径",
+          "text": "官网列 2025 年 12 月发售／预告；保留原款式，不据库存或预告确认出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "六分の一男子図鑑 26VDAY ナイン PS | 六分の一男子図鑑  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/9999/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "About  |  PetWORKs",
+          "url": "https://www.petworks.co.jp/doll/bma/about/",
+          "supports": "EIGHT／NINE 为 1:6，PW-28／29 身体和共用手脚的系列背景"
+        },
+        {
+          "kind": "官方关联活动",
+          "title": "Events",
+          "url": "https://www.petworks.co.jp/doll/events/",
+          "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
+        }
+      ],
+      "event": "型号页明确关联：Events",
+      "credits": [
+        {
+          "role": "头部／素体原型",
+          "name": "澤田啓介（澤田工房）"
+        },
+        {
+          "role": "服装制作",
+          "name": "関口妙子、笠間綾"
+        }
+      ]
+    },
+    {
+      "id": "azone-aod524-rsg",
+      "name": "レイラ/Sister twins(金色の祈りver.)",
+      "brand": "AZONE",
+      "original": "AOD524-RSG / レイラ/Sister twins(金色の祈りver.)",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "frame",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服",
+          "计划商品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体",
+          "text": "AZO2 ボディ(Iバスト･48cm)ホワイティ。使用 OBITSU 身体，AZO2 外皮与手脚的来源分别说明；48／50 cm 是所用身体型号标示，暂不合成为本款带头全高。"
+        },
+        {
+          "title": "眼睛与交付",
+          "text": "使用 18mm レイラ専用AZONEオリジナル虹彩。带已妆头、假发与本款衣装。眼、假发与服装的兼容范围以具体型号页和尺寸为准。"
+        },
+        {
+          "title": "尺寸与材料口径",
+          "text": "商品页未另列完整成品全高和各零件材料，保留未披露；不从 OBITSU 或其他 AZO2 版本搬用数值。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "アイリスコレクトよりシスター風の「レイラ」が登場♪ – アゾンニュース",
+          "url": "https://news.azone-int.co.jp/archives/71263",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "头部原型",
+          "name": "ZAN(猫の小判)"
+        },
+        {
+          "role": "素体原型",
+          "name": "鬼山尚丈(ハイパースペース)"
+        },
+        {
+          "role": "面妆／眼睛设计",
+          "name": "出島アイ"
+        }
+      ]
+    },
+    {
+      "id": "azone-aod524-rsb",
+      "name": "レイラ/Sister twins(月夜の祈りver.)",
+      "brand": "AZONE",
+      "original": "AOD524-RSB / レイラ/Sister twins(月夜の祈りver.)",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "frame",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服",
+          "计划商品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体",
+          "text": "AZO2 ボディ(Iバスト･48cm)ホワイティ。使用 OBITSU 身体，AZO2 外皮与手脚的来源分别说明；48／50 cm 是所用身体型号标示，暂不合成为本款带头全高。"
+        },
+        {
+          "title": "眼睛与交付",
+          "text": "使用 18mm レイラ専用AZONEオリジナル虹彩。带已妆头、假发与本款衣装。眼、假发与服装的兼容范围以具体型号页和尺寸为准。"
+        },
+        {
+          "title": "尺寸与材料口径",
+          "text": "商品页未另列完整成品全高和各零件材料，保留未披露；不从 OBITSU 或其他 AZO2 版本搬用数值。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "アイリスコレクトよりシスター風の「レイラ」が登場♪ – アゾンニュース",
+          "url": "https://news.azone-int.co.jp/archives/71263",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "头部原型",
+          "name": "ZAN(猫の小判)"
+        },
+        {
+          "role": "素体原型",
+          "name": "鬼山尚丈(ハイパースペース"
+        },
+        {
+          "role": "面妆／眼睛设计",
+          "name": "出島アイ"
+        }
+      ]
+    },
+    {
+      "id": "azone-aod530-ycn",
+      "name": "Poe-Poe × Iris Collect Yuliya(ユリヤ) ～ Cast a spell ～ (Navy blue ver.) 本体価格￥68,000 (税込価格￥74,800)",
+      "brand": "AZONE",
+      "original": "AOD530-YCN / Poe-Poe × Iris Collect Yuliya(ユリヤ) ～ Cast a spell ～ (Navy blue ver.) 本体価格￥68,000 (税込価格￥74,800)",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "frame",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体",
+          "text": "AZO2 ボディ(Iバスト･50cm)ホワイティ。使用 OBITSU 身体，AZO2 外皮与手脚的来源分别说明；48／50 cm 是所用身体型号标示，暂不合成为本款带头全高。"
+        },
+        {
+          "title": "眼睛与交付",
+          "text": "使用 18mm ユリヤ専用AZONEオリジナル虹彩。带已妆头、假发与本款衣装。眼、假发与服装的兼容范围以具体型号页和尺寸为准。"
+        },
+        {
+          "title": "尺寸与材料口径",
+          "text": "商品页未另列完整成品全高和各零件材料，保留未披露；不从 OBITSU 或其他 AZO2 版本搬用数值。"
+        },
+        {
+          "title": "署名更正",
+          "text": "官方 2026 年 3 月 27 日将头部原型署名更正为 ZAN（猫の小判）；采用更正后的记录。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "アイリスコレクト新キャラクター「ユリヤ」のご案内☆(3/27追記) – アゾンニュース",
+          "url": "https://news.azone-int.co.jp/archives/69129",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "头部原型",
+          "name": "ZAN(猫の小判)"
+        },
+        {
+          "role": "素体原型",
+          "name": "鬼山尚丈(ハイパースペース)"
+        },
+        {
+          "role": "面妆／眼睛设计",
+          "name": "Poe-Poe"
+        }
+      ]
+    },
+    {
+      "id": "azone-aod530-yco",
+      "name": "Poe-Poe × Iris Collect Yuliya(ユリヤ) ～ Cast a spell ～ (Classic olive ver.) 本体価格￥68,000 (税込価格￥74,800)",
+      "brand": "AZONE",
+      "original": "AOD530-YCO / Poe-Poe × Iris Collect Yuliya(ユリヤ) ～ Cast a spell ～ (Classic olive ver.) 本体価格￥68,000 (税込価格￥74,800)",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "frame",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体",
+          "text": "AZO2 ボディ(Iバスト･50cm)ホワイティ。使用 OBITSU 身体，AZO2 外皮与手脚的来源分别说明；48／50 cm 是所用身体型号标示，暂不合成为本款带头全高。"
+        },
+        {
+          "title": "眼睛与交付",
+          "text": "使用 18mm ユリヤ専用AZONEオリジナル虹彩。带已妆头、假发与本款衣装。眼、假发与服装的兼容范围以具体型号页和尺寸为准。"
+        },
+        {
+          "title": "尺寸与材料口径",
+          "text": "商品页未另列完整成品全高和各零件材料，保留未披露；不从 OBITSU 或其他 AZO2 版本搬用数值。"
+        },
+        {
+          "title": "署名更正",
+          "text": "官方 2026 年 3 月 27 日将头部原型署名更正为 ZAN（猫の小判）；采用更正后的记录。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "アイリスコレクト新キャラクター「ユリヤ」のご案内☆(3/27追記) – アゾンニュース",
+          "url": "https://news.azone-int.co.jp/archives/69129",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "头部原型",
+          "name": "ZAN(猫の小判)"
+        },
+        {
+          "role": "素体原型",
+          "name": "鬼山尚丈(ハイパースペース)"
+        },
+        {
+          "role": "面妆／眼睛设计",
+          "name": "Poe-Poe"
+        }
+      ]
+    },
+    {
+      "id": "azone-aod516-sbb",
+      "name": "スミレ/Bunny Queenコーデset (Black Rose ver.) 本体価格￥57,000 (税込価格￥62,700)",
+      "brand": "AZONE",
+      "original": "AOD516-SBB / スミレ/Bunny Queenコーデset (Black Rose ver.) 本体価格￥57,000 (税込価格￥62,700)",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "frame",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体",
+          "text": "AZO2 ボディ(Gバスト･48cm)スーパーホワイティ。使用 OBITSU 身体，AZO2 外皮与手脚的来源分别说明；48／50 cm 是所用身体型号标示，暂不合成为本款带头全高。"
+        },
+        {
+          "title": "眼睛与交付",
+          "text": "使用 18mm スミレ専用AZONEオリジナル虹彩(メタリックver.)。带已妆头、假发与本款衣装。眼、假发与服装的兼容范围以具体型号页和尺寸为准。"
+        },
+        {
+          "title": "尺寸与材料口径",
+          "text": "商品页未另列完整成品全高和各零件材料，保留未披露；不从 OBITSU 或其他 AZO2 版本搬用数值。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "アイリスコレクト「スミレ/Bunny Queen コーデset」のご案内 – アゾンニュース",
+          "url": "https://news.azone-int.co.jp/archives/63253",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "头部原型",
+          "name": "ZAN(猫の小判)"
+        },
+        {
+          "role": "素体原型",
+          "name": "鬼山尚丈(ハイパースペース)"
+        }
+      ]
+    },
+    {
+      "id": "azone-aod516-sbw",
+      "name": "スミレ/Bunny Queenコーデset (Lilly White ver.) 本体価格￥57,000 (税込価格￥62,700)",
+      "brand": "AZONE",
+      "original": "AOD516-SBW / スミレ/Bunny Queenコーデset (Lilly White ver.) 本体価格￥57,000 (税込価格￥62,700)",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "frame",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体",
+          "text": "AZO2 ボディ(Gバスト･48cm)スーパーホワイティ。使用 OBITSU 身体，AZO2 外皮与手脚的来源分别说明；48／50 cm 是所用身体型号标示，暂不合成为本款带头全高。"
+        },
+        {
+          "title": "眼睛与交付",
+          "text": "使用 18mm スミレ専用AZONEオリジナル虹彩(メタリックver.)。带已妆头、假发与本款衣装。眼、假发与服装的兼容范围以具体型号页和尺寸为准。"
+        },
+        {
+          "title": "尺寸与材料口径",
+          "text": "商品页未另列完整成品全高和各零件材料，保留未披露；不从 OBITSU 或其他 AZO2 版本搬用数值。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "アイリスコレクト「スミレ/Bunny Queen コーデset」のご案内 – アゾンニュース",
+          "url": "https://news.azone-int.co.jp/archives/63253",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "头部原型",
+          "name": "ZAN(猫の小判)"
+        },
+        {
+          "role": "素体原型",
+          "name": "鬼山尚丈(ハイパースペース)"
+        }
+      ]
+    },
+    {
+      "id": "azone-aod518-fmb",
+      "name": "楓子(ふうこ)/My way of life.(BROWNIE ver.) 本体価格￥62,000 (税込価格￥68,200)",
+      "brand": "AZONE",
+      "original": "AOD518-FMB / 楓子(ふうこ)/My way of life.(BROWNIE ver.) 本体価格￥62,000 (税込価格￥68,200)",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "frame",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体",
+          "text": "AZO2 ボディ(Gバスト･50cm)ホワイティ。使用 OBITSU 身体，AZO2 外皮与手脚的来源分别说明；48／50 cm 是所用身体型号标示，暂不合成为本款带头全高。"
+        },
+        {
+          "title": "眼睛与交付",
+          "text": "使用 18mm 楓子専用AZONEオリジナル虹彩。带已妆头、假发与本款衣装。眼、假发与服装的兼容范围以具体型号页和尺寸为准。"
+        },
+        {
+          "title": "尺寸与材料口径",
+          "text": "商品页未另列完整成品全高和各零件材料，保留未披露；不从 OBITSU 或其他 AZO2 版本搬用数值。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "アイリスコレクトより「楓子/My way of life.」のご案内♪ – アゾンニュース",
+          "url": "https://news.azone-int.co.jp/archives/61525",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "头部原型",
+          "name": "ZAN（猫の小判）"
+        }
+      ]
+    },
+    {
+      "id": "azone-aod518-fms",
+      "name": "楓子(ふうこ)/My way of life.(SILVER ver.) 本体価格￥62,000 (税込価格￥68,200)",
+      "brand": "AZONE",
+      "original": "AOD518-FMS / 楓子(ふうこ)/My way of life.(SILVER ver.) 本体価格￥62,000 (税込価格￥68,200)",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "frame",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体",
+          "text": "AZO2 ボディ(Gバスト･50cm)ホワイティ。使用 OBITSU 身体，AZO2 外皮与手脚的来源分别说明；48／50 cm 是所用身体型号标示，暂不合成为本款带头全高。"
+        },
+        {
+          "title": "眼睛与交付",
+          "text": "使用 18mm 楓子専用AZONEオリジナル虹彩。带已妆头、假发与本款衣装。眼、假发与服装的兼容范围以具体型号页和尺寸为准。"
+        },
+        {
+          "title": "尺寸与材料口径",
+          "text": "商品页未另列完整成品全高和各零件材料，保留未披露；不从 OBITSU 或其他 AZO2 版本搬用数值。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "アイリスコレクトより「楓子/My way of life.」のご案内♪ – アゾンニュース",
+          "url": "https://news.azone-int.co.jp/archives/61525",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "头部原型",
+          "name": "ZAN（猫の小判）"
+        }
+      ]
+    },
+    {
+      "id": "azone-aod528-aca",
+      "name": "Poe-Poe × Iris Collect 彩音 / 私のちいさなしあわせティータイム (キャラメルver. ) 本体価格￥62,000 (税込価格￥68,200)",
+      "brand": "AZONE",
+      "original": "AOD528-ACA / Poe-Poe × Iris Collect 彩音 / 私のちいさなしあわせティータイム (キャラメルver. ) 本体価格￥62,000 (税込価格￥68,200)",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "frame",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体",
+          "text": "AZO2 ボディ(Gバスト･50cm)ホワイティ。使用 OBITSU 身体，AZO2 外皮与手脚的来源分别说明；48／50 cm 是所用身体型号标示，暂不合成为本款带头全高。"
+        },
+        {
+          "title": "眼睛与交付",
+          "text": "使用 18mm 彩音専用AZONEオリジナル虹彩。带已妆头、假发与本款衣装。眼、假发与服装的兼容范围以具体型号页和尺寸为准。"
+        },
+        {
+          "title": "尺寸与材料口径",
+          "text": "商品页未另列完整成品全高和各零件材料，保留未披露；不从 OBITSU 或其他 AZO2 版本搬用数值。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "アイリスコレクトより新キャラクター「彩音」のご案内☆ – アゾンニュース",
+          "url": "https://news.azone-int.co.jp/archives/60194",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "头部原型",
+          "name": "ZAN（猫の小判）"
+        },
+        {
+          "role": "素体原型",
+          "name": "鬼山尚丈(ハイパースペース)"
+        },
+        {
+          "role": "面妆／眼睛设计",
+          "name": "Poe-Poe"
+        }
+      ]
+    },
+    {
+      "id": "azone-aod528-ach",
+      "name": "Poe-Poe × Iris Collect 彩音 / 私のちいさなしあわせティータイム (チョコレートver. ) 本体価格￥62,000 (税込価格￥68,200)",
+      "brand": "AZONE",
+      "original": "AOD528-ACH / Poe-Poe × Iris Collect 彩音 / 私のちいさなしあわせティータイム (チョコレートver. ) 本体価格￥62,000 (税込価格￥68,200)",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "frame",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体",
+          "text": "AZO2 ボディ(Gバスト･50cm)ホワイティ。使用 OBITSU 身体，AZO2 外皮与手脚的来源分别说明；48／50 cm 是所用身体型号标示，暂不合成为本款带头全高。"
+        },
+        {
+          "title": "眼睛与交付",
+          "text": "使用 18mm 彩音専用AZONEオリジナル虹彩。带已妆头、假发与本款衣装。眼、假发与服装的兼容范围以具体型号页和尺寸为准。"
+        },
+        {
+          "title": "尺寸与材料口径",
+          "text": "商品页未另列完整成品全高和各零件材料，保留未披露；不从 OBITSU 或其他 AZO2 版本搬用数值。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "アイリスコレクトより新キャラクター「彩音」のご案内☆ – アゾンニュース",
+          "url": "https://news.azone-int.co.jp/archives/60194",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "头部原型",
+          "name": "ZAN（猫の小判）"
+        },
+        {
+          "role": "素体原型",
+          "name": "鬼山尚丈(ハイパースペース)"
+        },
+        {
+          "role": "面妆／眼睛设计",
+          "name": "Poe-Poe"
+        }
+      ]
+    },
+    {
+      "id": "azone-aod524-gnr",
+      "name": "Green Eyed Monster／レイラ",
+      "brand": "AZONE",
+      "original": "AOD524-GNR / Green Eyed Monster／レイラ",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "frame",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体",
+          "text": "オビツ48cm/AZO2ボディ(Iバスト)スーパーホワイティ。使用 OBITSU 身体，AZO2 外皮与手脚的来源分别说明；48／50 cm 是所用身体型号标示，暂不合成为本款带头全高。"
+        },
+        {
+          "title": "眼睛与交付",
+          "text": "使用 18mm レイラ専用AZONEオリジナル虹彩。带已妆头、假发与本款衣装。眼、假发与服装的兼容范围以具体型号页和尺寸为准。"
+        },
+        {
+          "title": "尺寸与材料口径",
+          "text": "商品页未另列完整成品全高和各零件材料，保留未披露；不从 OBITSU 或其他 AZO2 版本搬用数值。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "アイリスコレクト「Green Eyed Monster/レイラ・りの」のご案内 – アゾンニュース",
+          "url": "https://news.azone-int.co.jp/archives/56768",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "头部原型",
+          "name": "ZAN(猫の小判)"
+        },
+        {
+          "role": "面妆／眼睛设计",
+          "name": "出島アイ"
+        },
+        {
+          "role": "素体原型",
+          "name": "鬼山尚丈(ハイパースペース)"
+        }
+      ]
+    },
+    {
+      "id": "azone-aod513-gmr",
+      "name": "Green Eyed Monster／りの",
+      "brand": "AZONE",
+      "original": "AOD513-GMR / Green Eyed Monster／りの",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "frame",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体",
+          "text": "オビツ50cm/AZO2ボディ(Gバスト)スーパーホワイティ。使用 OBITSU 身体，AZO2 外皮与手脚的来源分别说明；48／50 cm 是所用身体型号标示，暂不合成为本款带头全高。"
+        },
+        {
+          "title": "眼睛与交付",
+          "text": "使用 18mmりの専用AZONEオリジナル虹彩。带已妆头、假发与本款衣装。眼、假发与服装的兼容范围以具体型号页和尺寸为准。"
+        },
+        {
+          "title": "尺寸与材料口径",
+          "text": "商品页未另列完整成品全高和各零件材料，保留未披露；不从 OBITSU 或其他 AZO2 版本搬用数值。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "アイリスコレクト「Green Eyed Monster/レイラ・りの」のご案内 – アゾンニュース",
+          "url": "https://news.azone-int.co.jp/archives/56768",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "头部原型",
+          "name": "ZAN(猫の小判)"
+        },
+        {
+          "role": "素体原型",
+          "name": "鬼山尚丈(ハイパースペース)"
+        }
+      ]
+    },
+    {
+      "id": "azone-aod515-ktp",
+      "name": "かの/大正桜乙女喫茶 (ポニーテールヘアver.)",
+      "brand": "AZONE",
+      "original": "AOD515-KTP / かの/大正桜乙女喫茶 (ポニーテールヘアver.)",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "frame",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体",
+          "text": "オビツ50cm/AZO2ボディ(Iバスト)ホワイティ。使用 OBITSU 身体，AZO2 外皮与手脚的来源分别说明；48／50 cm 是所用身体型号标示，暂不合成为本款带头全高。"
+        },
+        {
+          "title": "眼睛与交付",
+          "text": "使用 18mm かの専用AZONEオリジナル虹彩。带已妆头、假发与本款衣装。眼、假发与服装的兼容范围以具体型号页和尺寸为准。"
+        },
+        {
+          "title": "尺寸与材料口径",
+          "text": "商品页未另列完整成品全高和各零件材料，保留未披露；不从 OBITSU 或其他 AZO2 版本搬用数值。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "アイリスコレクト「かの/大正桜乙女喫茶」のご案内 – アゾンニュース",
+          "url": "https://news.azone-int.co.jp/archives/55888",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "头部原型",
+          "name": "ZAN(猫の小判)"
+        },
+        {
+          "role": "素体原型",
+          "name": "鬼山尚丈(ハイパースペース)"
+        }
+      ]
+    },
+    {
+      "id": "azone-aod515-kth",
+      "name": "かの/大正桜乙女喫茶 (ハーフアップヘアver.)",
+      "brand": "AZONE",
+      "original": "AOD515-KTH / かの/大正桜乙女喫茶 (ハーフアップヘアver.)",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "frame",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体",
+          "text": "オビツ50cm/AZO2ボディ(Iバスト)ホワイティ。使用 OBITSU 身体，AZO2 外皮与手脚的来源分别说明；48／50 cm 是所用身体型号标示，暂不合成为本款带头全高。"
+        },
+        {
+          "title": "眼睛与交付",
+          "text": "使用 18mm かの専用AZONEオリジナル虹彩。带已妆头、假发与本款衣装。眼、假发与服装的兼容范围以具体型号页和尺寸为准。"
+        },
+        {
+          "title": "尺寸与材料口径",
+          "text": "商品页未另列完整成品全高和各零件材料，保留未披露；不从 OBITSU 或其他 AZO2 版本搬用数值。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "アイリスコレクト「かの/大正桜乙女喫茶」のご案内 – アゾンニュース",
+          "url": "https://news.azone-int.co.jp/archives/55888",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "头部原型",
+          "name": "ZAN(猫の小判)"
+        },
+        {
+          "role": "素体原型",
+          "name": "鬼山尚丈(ハイパースペース)"
+        }
+      ]
+    },
+    {
+      "id": "azone-aod516-smw",
+      "name": "スミレ/Maid’s daydream (Black＆White ver.)",
+      "brand": "AZONE",
+      "original": "AOD516-SMW / スミレ/Maid’s daydream (Black＆White ver.)",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "frame",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体",
+          "text": "オビツ48cm/AZO2ボディ(Gバスト)スーパーホワイティ。使用 OBITSU 身体，AZO2 外皮与手脚的来源分别说明；48／50 cm 是所用身体型号标示，暂不合成为本款带头全高。"
+        },
+        {
+          "title": "眼睛与交付",
+          "text": "使用 18mm スミレ専用AZONEオリジナル虹彩(メタリックver.)。带已妆头、假发与本款衣装。眼、假发与服装的兼容范围以具体型号页和尺寸为准。"
+        },
+        {
+          "title": "尺寸与材料口径",
+          "text": "商品页未另列完整成品全高和各零件材料，保留未披露；不从 OBITSU 或其他 AZO2 版本搬用数值。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "アイリスコレクト『スミレ/Maid’s daydream』のご案内♪ – アゾンニュース",
+          "url": "https://news.azone-int.co.jp/archives/55518",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "头部原型",
+          "name": "ZAN(猫の小判)"
+        },
+        {
+          "role": "素体原型",
+          "name": "鬼山尚丈(ハイパースペース)"
+        }
+      ]
+    },
+    {
+      "id": "azone-aod516-smp",
+      "name": "スミレ/Maid’s daydream (Black＆Pink ver.)",
+      "brand": "AZONE",
+      "original": "AOD516-SMP / スミレ/Maid’s daydream (Black＆Pink ver.)",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "frame",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体",
+          "text": "オビツ48cm/AZO2ボディ(Gバスト)スーパーホワイティ。使用 OBITSU 身体，AZO2 外皮与手脚的来源分别说明；48／50 cm 是所用身体型号标示，暂不合成为本款带头全高。"
+        },
+        {
+          "title": "眼睛与交付",
+          "text": "使用 18mm スミレ専用AZONEオリジナル虹彩(メタリックver.)。带已妆头、假发与本款衣装。眼、假发与服装的兼容范围以具体型号页和尺寸为准。"
+        },
+        {
+          "title": "尺寸与材料口径",
+          "text": "商品页未另列完整成品全高和各零件材料，保留未披露；不从 OBITSU 或其他 AZO2 版本搬用数值。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "アイリスコレクト『スミレ/Maid’s daydream』のご案内♪ – アゾンニュース",
+          "url": "https://news.azone-int.co.jp/archives/55518",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "头部原型",
+          "name": "ZAN(猫の小判)"
+        },
+        {
+          "role": "素体原型",
+          "name": "鬼山尚丈(ハイパースペース)"
+        }
+      ]
+    },
+    {
+      "id": "kaiyodo-nr114",
+      "name": "リボルテック アメイジング・ヤマグチ リュウ・ハヤブサ オプションパーツ拡張パック",
+      "brand": "海洋堂",
+      "original": "リボルテック アメイジング・ヤマグチ リュウ・ハヤブサ オプションパーツ拡張パック",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "官方发售预告",
+          "text": "2026年10月3日発売予定；预告与实际出货分开。"
+        },
+        {
+          "title": "配件与换装",
+          "text": "附带可替换硬质零件及展示支架，按本款清单核对；角色衣服造型不直接视为可脱的布衣。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "リボルテック アメイジング・ヤマグチ リュウ・ハヤブサ オプションパーツ拡張パック｜アメイジング・ヤマグチ｜海洋堂",
+          "url": "https://kaiyodo.co.jp/items/revoltech/nr114/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "杉本・F・大地"
+        }
+      ]
+    },
+    {
+      "id": "kaiyodo-nr115",
+      "name": "リボルテック　アメイジング・ヤマグチ　リュウ・ハヤブサ 激闘Ver.",
+      "brand": "海洋堂",
+      "original": "リボルテック　アメイジング・ヤマグチ　リュウ・ハヤブサ 激闘Ver.",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 170,
+      "heightBasis": "官方约全高；型号页未另列含支架口径",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 17 cm",
+          "basis": "官方约全高；型号页未另列含支架口径"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "POK",
+          "铁"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "官方发售预告",
+          "text": "2026年10月3日発売予定；预告与实际出货分开。"
+        },
+        {
+          "title": "配件与换装",
+          "text": "附带可替换硬质零件及展示支架，按本款清单核对；角色衣服造型不直接视为可脱的布衣。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "リボルテック　アメイジング・ヤマグチ　リュウ・ハヤブサ 激闘Ver.｜アメイジング・ヤマグチ｜海洋堂",
+          "url": "https://kaiyodo.co.jp/items/revoltech/nr115/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "山口勝久"
+        }
+      ]
+    },
+    {
+      "id": "kaiyodo-nr133",
+      "name": "リボルテック アメイジング・ヤマグチ リュウ・ハヤブサ 『NINJA GAIDEN 3: Razor’s Edge』 激闘Ver.",
+      "brand": "海洋堂",
+      "original": "リボルテック アメイジング・ヤマグチ リュウ・ハヤブサ 『NINJA GAIDEN 3: Razor’s Edge』 激闘Ver.",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 170,
+      "heightBasis": "官方约全高；型号页未另列含支架口径",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 17 cm",
+          "basis": "官方约全高；型号页未另列含支架口径"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "POK"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "官方发售预告",
+          "text": "2026年10月3日発売予定；预告与实际出货分开。"
+        },
+        {
+          "title": "配件与换装",
+          "text": "附带可替换硬质零件及展示支架，按本款清单核对；角色衣服造型不直接视为可脱的布衣。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "リボルテック アメイジング・ヤマグチ リュウ・ハヤブサ 『NINJA GAIDEN 3: Razor’s Edge』 激闘Ver.｜アメイジング・ヤマグチ｜海洋堂",
+          "url": "https://kaiyodo.co.jp/items/revoltech/nr133/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "山口勝久"
+        }
+      ]
+    },
+    {
+      "id": "kaiyodo-nr134",
+      "name": "リボルテック　アメイジング・ヤマグチ　マジンガーZ New Color Ver.",
+      "brand": "海洋堂",
+      "original": "リボルテック　アメイジング・ヤマグチ　マジンガーZ New Color Ver.",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 150,
+      "heightBasis": "官方约全高；型号页未另列含支架口径",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 15 cm",
+          "basis": "官方约全高；型号页未另列含支架口径"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "铁"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "官方发售预告",
+          "text": "2026年10月3日発売予定；预告与实际出货分开。"
+        },
+        {
+          "title": "配件与换装",
+          "text": "附带可替换硬质零件及展示支架，按本款清单核对；角色衣服造型不直接视为可脱的布衣。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "リボルテック　アメイジング・ヤマグチ　マジンガーZ New Color Ver.｜アメイジング・ヤマグチ｜海洋堂",
+          "url": "https://kaiyodo.co.jp/items/revoltech/nr134/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "山口勝久"
+        }
+      ]
+    },
+    {
+      "id": "kaiyodo-nr140",
+      "name": "リボルテック モエ",
+      "brand": "海洋堂",
+      "original": "リボルテック モエ",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 145,
+      "heightBasis": "官方约全高；型号页未另列含支架口径",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 14.5 cm",
+          "basis": "官方约全高；型号页未另列含支架口径"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品",
+          "计划商品"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "磁铁"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "官方发售预告",
+          "text": "2027年2月発売予定；预告与实际出货分开。"
+        },
+        {
+          "title": "配件与换装",
+          "text": "附带可替换硬质零件及展示支架，按本款清单核对；角色衣服造型不直接视为可脱的布衣。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "リボルテック モエ｜リボルテック｜海洋堂",
+          "url": "https://kaiyodo.co.jp/items/revoltech/nr140/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "まおーじ"
+        },
+        {
+          "role": "设计／插画",
+          "name": "Mx2J"
+        }
+      ]
+    },
+    {
+      "id": "kaiyodo-nr149",
+      "name": "リボルテック　アメイジング・ヤマグチ　ヤクモ",
+      "brand": "海洋堂",
+      "original": "リボルテック　アメイジング・ヤマグチ　ヤクモ",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 160,
+      "heightBasis": "官方约全高；型号页未另列含支架口径",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 16 cm",
+          "basis": "官方约全高；型号页未另列含支架口径"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品",
+          "计划商品"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "POK"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "官方发售预告",
+          "text": "2027年5月発売予定；预告与实际出货分开。"
+        },
+        {
+          "title": "配件与换装",
+          "text": "附带可替换硬质零件及展示支架，按本款清单核对；角色衣服造型不直接视为可脱的布衣。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "リボルテック　アメイジング・ヤマグチ　ヤクモ｜アメイジング・ヤマグチ｜海洋堂",
+          "url": "https://kaiyodo.co.jp/items/revoltech/nr149/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "廖鋭鹏（Ryo_L）"
+        }
+      ]
+    },
+    {
+      "id": "kaiyodo-nr150",
+      "name": "リボルテック　アメイジング・ヤマグチ　車力の巨人",
+      "brand": "海洋堂",
+      "original": "リボルテック　アメイジング・ヤマグチ　車力の巨人",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 130,
+      "heightBasis": "官方约全高；型号页未另列含支架口径",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 13 cm",
+          "basis": "官方约全高；型号页未另列含支架口径"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品",
+          "计划商品"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "POK"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "官方发售预告",
+          "text": "2027年7月発売予定；预告与实际出货分开。"
+        },
+        {
+          "title": "配件与换装",
+          "text": "附带可替换硬质零件及展示支架，按本款清单核对；角色衣服造型不直接视为可脱的布衣。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "リボルテック　アメイジング・ヤマグチ　車力の巨人｜アメイジング・ヤマグチ｜海洋堂",
+          "url": "https://kaiyodo.co.jp/items/revoltech/nr150/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "坂本翔太郎"
+        }
+      ]
+    },
+    {
+      "id": "kaiyodo-nr153",
+      "name": "リボルテック　アメイジング・ヤマグチ　紅葉",
+      "brand": "海洋堂",
+      "original": "リボルテック　アメイジング・ヤマグチ　紅葉",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 155,
+      "heightBasis": "官方约全高；型号页未另列含支架口径",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 15.5 cm",
+          "basis": "官方约全高；型号页未另列含支架口径"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品",
+          "计划商品"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "POK"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "官方发售预告",
+          "text": "2027年6月発売予定；预告与实际出货分开。"
+        },
+        {
+          "title": "配件与换装",
+          "text": "附带可替换硬质零件及展示支架，按本款清单核对；角色衣服造型不直接视为可脱的布衣。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "リボルテック　アメイジング・ヤマグチ　紅葉｜アメイジング・ヤマグチ｜海洋堂",
+          "url": "https://kaiyodo.co.jp/items/revoltech/nr153/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "余詩穎"
+        }
+      ]
+    },
+    {
+      "id": "kaiyodo-nr154",
+      "name": "リボルテック　アメイジング・ヤマグチ　ピースメイカー",
+      "brand": "海洋堂",
+      "original": "リボルテック　アメイジング・ヤマグチ　ピースメイカー",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品",
+          "计划商品"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM",
+          "POK"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "官方发售预告",
+          "text": "2027年5月発売予定；预告与实际出货分开。"
+        },
+        {
+          "title": "配件与换装",
+          "text": "附带可替换硬质零件及展示支架，按本款清单核对；角色衣服造型不直接视为可脱的布衣。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "リボルテック　アメイジング・ヤマグチ　ピースメイカー｜アメイジング・ヤマグチ｜海洋堂",
+          "url": "https://kaiyodo.co.jp/items/revoltech/nr154/",
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "杉本・F・大地"
+        }
+      ]
+    },
+    {
+      "id": "volks-body-mdd2",
+      "name": "MDD ベースボディ2.0（DD-f³） · S胸",
+      "original": "MDD ベースボディ2.0（DD-f³） · S胸",
+      "brand": "VOLKS",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方具体版本整理；旧版与 2.0 版不混记。",
+      "icon": "frame",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "软质乙烯基树脂",
+          "尼龙树脂"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "仅售身体，不含头、眼、假发与衣服。胸型和手型按这一身体版本记录：MDD-H-01；肤色选择另按订单，不作为所有批次同色。"
+        },
+        {
+          "title": "高度口径",
+          "text": "官网身体尺寸表的示例为带头人偶约 43.5 cm；单售无头身体没有单独高度，主高度留空。"
+        },
+        {
+          "title": "版本与接口",
+          "text": "采用 DD-f³ 内部框架；软质外皮与尼龙框架是不同材料。2.0 和较早的 DD-f³ 外皮、框架不能仅凭名称相同就认定兼容，参照官方兼容图。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "DDボディサイズと種類 | ボークス公式 ドルフィー総合サイト",
+          "url": "https://dollfie.volks.co.jp/dd/about_bodysize/",
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方结构说明",
+          "title": "DDベースボディ取り扱い方法 | ボークス公式 ドルフィー総合サイト",
+          "url": "https://dollfie.volks.co.jp/dd/support/basebody/",
+          "supports": "DD 的外皮、内部框架和维护结构"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "造形村"
+        }
+      ]
+    },
+    {
+      "id": "volks-body-mdd-mochi2",
+      "name": "MDD もちあし ベースボディ2.0（DD-f³） · L胸",
+      "original": "MDD もちあし ベースボディ2.0（DD-f³） · L胸",
+      "brand": "VOLKS",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方具体版本整理；旧版与 2.0 版不混记。",
+      "icon": "frame",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "软质乙烯基树脂",
+          "尼龙树脂"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "仅售身体，不含头、眼、假发与衣服。胸型和手型按这一身体版本记录：MDD-H-01-FL；肤色选择另按订单，不作为所有批次同色。"
+        },
+        {
+          "title": "高度口径",
+          "text": "官网身体尺寸表的示例为带头人偶约 43 cm；单售无头身体没有单独高度，主高度留空。"
+        },
+        {
+          "title": "版本与接口",
+          "text": "采用 DD-f³ 内部框架；软质外皮与尼龙框架是不同材料。2.0 和较早的 DD-f³ 外皮、框架不能仅凭名称相同就认定兼容，参照官方兼容图。"
+        },
+        {
+          "title": "もちあし2.0",
+          "text": "下身、大腿和小腿外皮不同；框架与普通 MDD2.0 共用，脚部尺寸与 MDD2.0 相同。旧もちあし与2.0的鞋适配不能混记。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "DDボディサイズと種類 | ボークス公式 ドルフィー総合サイト",
+          "url": "https://dollfie.volks.co.jp/dd/about_bodysize/",
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方结构说明",
+          "title": "DDベースボディ取り扱い方法 | ボークス公式 ドルフィー総合サイト",
+          "url": "https://dollfie.volks.co.jp/dd/support/basebody/",
+          "supports": "DD 的外皮、内部框架和维护结构"
+        },
+        {
+          "kind": "官方型号与展会说明",
+          "title": "【DDギャザリング】MDDもちあしベースボディ2.0（DD-f³）ご紹介♪ | ボークス ドルフィーブログ",
+          "url": "https://dollfie.volks.co.jp/blog/2024/10/03/007948.html",
+          "supports": "もちあし2.0 的具体出展，以及与 MDD2.0 共用框架、脚部尺寸的说明"
+        }
+      ],
+      "event": "官方 2024 年 10 月说明该身体在 Dolls Party in LA 5 展示。",
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "造形村"
+        }
+      ]
+    },
+    {
+      "id": "volks-body-ddp-f3",
+      "name": "DDP ベースボディ（DD-f³） · S胸",
+      "original": "DDP ベースボディ（DD-f³） · S胸",
+      "brand": "VOLKS",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方具体版本整理；旧版与 2.0 版不混记。",
+      "icon": "frame",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "软质乙烯基树脂",
+          "尼龙树脂"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "仅售身体，不含头、眼、假发与衣服。胸型和手型按这一身体版本记录：DDP-H-01；肤色选择另按订单，不作为所有批次同色。"
+        },
+        {
+          "title": "高度口径",
+          "text": "官网身体尺寸表的示例为带头人偶约 50 cm；单售无头身体没有单独高度，主高度留空。"
+        },
+        {
+          "title": "版本与接口",
+          "text": "采用 DD-f³ 内部框架；软质外皮与尼龙框架是不同材料。2.0 和较早的 DD-f³ 外皮、框架不能仅凭名称相同就认定兼容，参照官方兼容图。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "DDボディサイズと種類 | ボークス公式 ドルフィー総合サイト",
+          "url": "https://dollfie.volks.co.jp/dd/about_bodysize/",
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方结构说明",
+          "title": "DDベースボディ取り扱い方法 | ボークス公式 ドルフィー総合サイト",
+          "url": "https://dollfie.volks.co.jp/dd/support/basebody/",
+          "supports": "DD 的外皮、内部框架和维护结构"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "造形村"
+        }
+      ]
+    },
+    {
+      "id": "volks-body-dds2",
+      "name": "DDS ベースボディ2.0（DD-f³） · M胸",
+      "original": "DDS ベースボディ2.0（DD-f³） · M胸",
+      "brand": "VOLKS",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方具体版本整理；旧版与 2.0 版不混记。",
+      "icon": "frame",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "软质乙烯基树脂",
+          "尼龙树脂"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "仅售身体，不含头、眼、假发与衣服。胸型和手型按这一身体版本记录：DDⅡ-H-01；肤色选择另按订单，不作为所有批次同色。"
+        },
+        {
+          "title": "高度口径",
+          "text": "官网身体尺寸表的示例为带头人偶约 54.5 cm；单售无头身体没有单独高度，主高度留空。"
+        },
+        {
+          "title": "版本与接口",
+          "text": "采用 DD-f³ 内部框架；软质外皮与尼龙框架是不同材料。2.0 和较早的 DD-f³ 外皮、框架不能仅凭名称相同就认定兼容，参照官方兼容图。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "DDボディサイズと種類 | ボークス公式 ドルフィー総合サイト",
+          "url": "https://dollfie.volks.co.jp/dd/about_bodysize/",
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方结构说明",
+          "title": "DDベースボディ取り扱い方法 | ボークス公式 ドルフィー総合サイト",
+          "url": "https://dollfie.volks.co.jp/dd/support/basebody/",
+          "supports": "DD 的外皮、内部框架和维护结构"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "造形村"
+        }
+      ]
+    },
+    {
+      "id": "volks-body-dd2",
+      "name": "DD ベースボディ2.0（DD-f³） · M胸",
+      "original": "DD ベースボディ2.0（DD-f³） · M胸",
+      "brand": "VOLKS",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方具体版本整理；旧版与 2.0 版不混记。",
+      "icon": "frame",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "软质乙烯基树脂",
+          "尼龙树脂"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "仅售身体，不含头、眼、假发与衣服。胸型和手型按这一身体版本记录：DDⅡ-H-01；肤色选择另按订单，不作为所有批次同色。"
+        },
+        {
+          "title": "高度口径",
+          "text": "官网身体尺寸表的示例为带头人偶约 57 cm；单售无头身体没有单独高度，主高度留空。"
+        },
+        {
+          "title": "版本与接口",
+          "text": "采用 DD-f³ 内部框架；软质外皮与尼龙框架是不同材料。2.0 和较早的 DD-f³ 外皮、框架不能仅凭名称相同就认定兼容，参照官方兼容图。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "DDボディサイズと種類 | ボークス公式 ドルフィー総合サイト",
+          "url": "https://dollfie.volks.co.jp/dd/about_bodysize/",
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方结构说明",
+          "title": "DDベースボディ取り扱い方法 | ボークス公式 ドルフィー総合サイト",
+          "url": "https://dollfie.volks.co.jp/dd/support/basebody/",
+          "supports": "DD 的外皮、内部框架和维护结构"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "造形村"
+        }
+      ]
+    },
+    {
+      "id": "volks-body-dddy-f3",
+      "name": "DDdy ベースボディ（DD-f³） · 普通胸",
+      "original": "DDdy ベースボディ（DD-f³） · 普通胸",
+      "brand": "VOLKS",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方具体版本整理；旧版与 2.0 版不混记。",
+      "icon": "frame",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "硬质换件"
+        ],
+        "material": [
+          "软质乙烯基树脂",
+          "尼龙树脂"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "仅售身体，不含头、眼、假发与衣服。胸型和手型按这一身体版本记录：DDⅡ-H-01；肤色选择另按订单，不作为所有批次同色。"
+        },
+        {
+          "title": "高度口径",
+          "text": "官网身体尺寸表的示例为带头人偶约 56.5 cm；单售无头身体没有单独高度，主高度留空。"
+        },
+        {
+          "title": "版本与接口",
+          "text": "采用 DD-f³ 内部框架；软质外皮与尼龙框架是不同材料。2.0 和较早的 DD-f³ 外皮、框架不能仅凭名称相同就认定兼容，参照官方兼容图。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "DDボディサイズと種類 | ボークス公式 ドルフィー総合サイト",
+          "url": "https://dollfie.volks.co.jp/dd/about_bodysize/",
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方结构说明",
+          "title": "DDベースボディ取り扱い方法 | ボークス公式 ドルフィー総合サイト",
+          "url": "https://dollfie.volks.co.jp/dd/support/basebody/",
+          "supports": "DD 的外皮、内部框架和维护结构"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "造形村"
+        }
+      ]
+    },
+    {
+      "id": "volks-standard-ena",
+      "name": "SD えな",
+      "brand": "VOLKS",
+      "original": "SD女の子 えな",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列来源的具体型号整理；不代表全部批次。",
+      "icon": "string",
+      "scale": null,
+      "heightMm": 540,
+      "heightBasis": "官方当前标准款全高（含头人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 54 cm",
+          "basis": "官方当前标准款全高（含头人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "拉筋连接",
+          "球体关节",
+          "双重肘关节"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "聚氨酯树脂",
+          "玻璃眼"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "选定版本",
+          "text": "SD女の子 えな，Pure Skin Fair SC-01，UV Protect 规格；玻璃眼 18 mm。"
+        },
+        {
+          "title": "交付",
+          "text": "含本体、衣装与假发，需要自行穿衣。专用假发三种造型随机附带；官方说明有库存时店头可选择。"
+        },
+        {
+          "title": "结构",
+          "text": "标准款采用双重肘关节；SDM 另有腹部分段结构，SD 与 SDM 高度分别记。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "SDスタンダードモデル | ボークス公式 ドルフィー総合サイト",
+          "url": "https://dollfie.volks.co.jp/sd/model/standard/",
+          "supports": "本款命名段落与当前标准款的眼睛、肤色、衣装、双重肘关节及全高"
+        },
+        {
+          "kind": "官方结构说明",
+          "title": "VOLKS：SD 与 DD 的结构、材料说明",
+          "url": "https://dollfie.volks.co.jp/beginner/",
+          "supports": "补充 SD 系列的拉筋／球体结构与聚氨酯树脂；不替代具体型号规格。"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "造形村"
+        },
+        {
+          "role": "服装设计",
+          "name": "ボークス・ドール企画室"
+        }
+      ]
+    },
+    {
+      "id": "volks-standard-honoka",
+      "name": "SD ほのか",
+      "brand": "VOLKS",
+      "original": "SD女の子 ほのか",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列来源的具体型号整理；不代表全部批次。",
+      "icon": "string",
+      "scale": null,
+      "heightMm": 540,
+      "heightBasis": "官方当前标准款全高（含头人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 54 cm",
+          "basis": "官方当前标准款全高（含头人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "拉筋连接",
+          "球体关节",
+          "双重肘关节"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "聚氨酯树脂",
+          "玻璃眼"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "选定版本",
+          "text": "SD女の子 ほのか，Pure Skin Fair SC-01，UV Protect 规格；玻璃眼 16 mm。"
+        },
+        {
+          "title": "交付",
+          "text": "含本体、衣装与假发，需要自行穿衣。专用假发三种造型随机附带；官方说明有库存时店头可选择。"
+        },
+        {
+          "title": "结构",
+          "text": "标准款采用双重肘关节；SDM 另有腹部分段结构，SD 与 SDM 高度分别记。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "SDスタンダードモデル | ボークス公式 ドルフィー総合サイト",
+          "url": "https://dollfie.volks.co.jp/sd/model/standard/",
+          "supports": "本款命名段落与当前标准款的眼睛、肤色、衣装、双重肘关节及全高"
+        },
+        {
+          "kind": "官方结构说明",
+          "title": "VOLKS：SD 与 DD 的结构、材料说明",
+          "url": "https://dollfie.volks.co.jp/beginner/",
+          "supports": "补充 SD 系列的拉筋／球体结构与聚氨酯树脂；不替代具体型号规格。"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "造形村"
+        },
+        {
+          "role": "服装设计",
+          "name": "ボークス・ドール企画室"
+        }
+      ]
+    },
+    {
+      "id": "volks-standard-coco",
+      "name": "SDM ここ",
+      "brand": "VOLKS",
+      "original": "SDM女の子 ここ",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列来源的具体型号整理；不代表全部批次。",
+      "icon": "string",
+      "scale": null,
+      "heightMm": 420,
+      "heightBasis": "官方当前标准款全高（含头人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 42 cm",
+          "basis": "官方当前标准款全高（含头人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "拉筋连接",
+          "球体关节",
+          "双重肘关节"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "聚氨酯树脂",
+          "玻璃眼"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "选定版本",
+          "text": "SDM女の子 ここ，Pure Skin Fair SC-01，UV Protect 规格；玻璃眼 16 mm。"
+        },
+        {
+          "title": "交付",
+          "text": "含本体、衣装与假发，需要自行穿衣。专用假发三种造型随机附带；官方说明有库存时店头可选择。"
+        },
+        {
+          "title": "结构",
+          "text": "标准款采用双重肘关节；SDM 另有腹部分段结构，SD 与 SDM 高度分别记。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "SDスタンダードモデル | ボークス公式 ドルフィー総合サイト",
+          "url": "https://dollfie.volks.co.jp/sd/model/standard/",
+          "supports": "本款命名段落与当前标准款的眼睛、肤色、衣装、双重肘关节及全高"
+        },
+        {
+          "kind": "官方结构说明",
+          "title": "VOLKS：SD 与 DD 的结构、材料说明",
+          "url": "https://dollfie.volks.co.jp/beginner/",
+          "supports": "补充 SD 系列的拉筋／球体结构与聚氨酯树脂；不替代具体型号规格。"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "造形村"
+        },
+        {
+          "role": "服装设计",
+          "name": "ボークス・ドール企画室"
+        }
+      ]
+    },
+    {
+      "id": "volks-standard-saki",
+      "name": "SDM サキ",
+      "brand": "VOLKS",
+      "original": "SDM女の子 サキ",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列来源的具体型号整理；不代表全部批次。",
+      "icon": "string",
+      "scale": null,
+      "heightMm": 420,
+      "heightBasis": "官方当前标准款全高（含头人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 42 cm",
+          "basis": "官方当前标准款全高（含头人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "拉筋连接",
+          "球体关节",
+          "双重肘关节"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "聚氨酯树脂",
+          "玻璃眼"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "选定版本",
+          "text": "SDM女の子 サキ，Pure Skin Fair SC-01，UV Protect 规格；玻璃眼 16 mm。"
+        },
+        {
+          "title": "交付",
+          "text": "含本体、衣装与假发，需要自行穿衣。专用假发三种造型随机附带；官方说明有库存时店头可选择。"
+        },
+        {
+          "title": "结构",
+          "text": "标准款采用双重肘关节；SDM 另有腹部分段结构，SD 与 SDM 高度分别记。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "SDスタンダードモデル | ボークス公式 ドルフィー総合サイト",
+          "url": "https://dollfie.volks.co.jp/sd/model/standard/",
+          "supports": "本款命名段落与当前标准款的眼睛、肤色、衣装、双重肘关节及全高"
+        },
+        {
+          "kind": "官方结构说明",
+          "title": "VOLKS：SD 与 DD 的结构、材料说明",
+          "url": "https://dollfie.volks.co.jp/beginner/",
+          "supports": "补充 SD 系列的拉筋／球体结构与聚氨酯树脂；不替代具体型号规格。"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "造形村"
+        },
+        {
+          "role": "服装设计",
+          "name": "ボークス・ドール企画室"
+        }
+      ]
+    },
+    {
+      "id": "volks-standard-chiyo",
+      "name": "SDM ちよ",
+      "brand": "VOLKS",
+      "original": "SDM女の子 ちよ",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列来源的具体型号整理；不代表全部批次。",
+      "icon": "string",
+      "scale": null,
+      "heightMm": 420,
+      "heightBasis": "官方当前标准款全高（含头人偶）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 42 cm",
+          "basis": "官方当前标准款全高（含头人偶）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "拉筋连接",
+          "球体关节",
+          "双重肘关节"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "聚氨酯树脂",
+          "玻璃眼"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "选定版本",
+          "text": "SDM女の子 ちよ，Pure Skin Fair SC-01，UV Protect 规格；玻璃眼 16 mm。"
+        },
+        {
+          "title": "交付",
+          "text": "含本体、衣装与假发，需要自行穿衣。专用假发三种造型随机附带；官方说明有库存时店头可选择。"
+        },
+        {
+          "title": "结构",
+          "text": "标准款采用双重肘关节；SDM 另有腹部分段结构，SD 与 SDM 高度分别记。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "SDスタンダードモデル | ボークス公式 ドルフィー総合サイト",
+          "url": "https://dollfie.volks.co.jp/sd/model/standard/",
+          "supports": "本款命名段落与当前标准款的眼睛、肤色、衣装、双重肘关节及全高"
+        },
+        {
+          "kind": "官方结构说明",
+          "title": "VOLKS：SD 与 DD 的结构、材料说明",
+          "url": "https://dollfie.volks.co.jp/beginner/",
+          "supports": "补充 SD 系列的拉筋／球体结构与聚氨酯树脂；不替代具体型号规格。"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "造形村"
+        },
+        {
+          "role": "服装设计",
+          "name": "ボークス・ドール企画室"
+        }
+      ]
+    },
+    {
+      "id": "volks-sakura-miku2",
+      "name": "DD 桜ミク 2.0",
+      "original": "DD 桜ミク 2.0",
+      "brand": "VOLKS",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方具体版本整理；旧版与 2.0 版不混记。",
+      "icon": "frame",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "软质乙烯基树脂"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体版本",
+          "text": "DDベースボディ2.0（DD-f³）・SS胸。该身体版本只用于本款；NT 版不写成 2.0。"
+        },
+        {
+          "title": "头部与眼睛",
+          "text": "アニメティックアイズ・オリジナル虹彩・24mm；「初音ミク/雪ミク/桜ミク/初音ミク NT」オリジナルヘッド採用。附本款假发、衣装与配件，换件兼容以型号为准。"
+        },
+        {
+          "title": "高度口径",
+          "text": "型号页没有另列本款实测或独立全高，主高度留空；不将参考头型的尺寸表直接移给这个头。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "DD 桜ミク 2.0 | ピアプロ × ドルフィードリーム | ボークス",
+          "url": "https://dollfie.volks.co.jp/dd/special/piapro/product/dd_sakuramiku2.0.html",
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方结构说明",
+          "title": "DDボディサイズと種類 | ボークス公式 ドルフィー総合サイト",
+          "url": "https://dollfie.volks.co.jp/dd/about_bodysize/",
+          "supports": "DD 系列软质外皮与框架背景；尺寸表示例不替代本型号全高"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "造形村"
+        },
+        {
+          "role": "服装制作",
+          "name": "ボークス・ドール企画室"
+        }
+      ]
+    },
+    {
+      "id": "volks-temari",
+      "name": "DD 月村手毬",
+      "original": "DD 月村手毬",
+      "brand": "VOLKS",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方具体版本整理；旧版与 2.0 版不混记。",
+      "icon": "frame",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "软质乙烯基树脂"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体版本",
+          "text": "DDベースボディ2.0（DD-f³）・M胸。该身体版本只用于本款；NT 版不写成 2.0。"
+        },
+        {
+          "title": "头部与眼睛",
+          "text": "アニメティックアイズ・オリジナル虹彩・22mm；「月村手毬」オリジナルヘッド採用。附本款假发、衣装与配件，换件兼容以型号为准。"
+        },
+        {
+          "title": "高度口径",
+          "text": "型号页没有另列本款实测或独立全高，主高度留空；不将参考头型的尺寸表直接移给这个头。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "DD 月村手毬 | 『学園アイドルマスター』ドルフィードリーム | ボークス",
+          "url": "https://dollfie.volks.co.jp/dd/special/gakuen-idolmaster/dd_temari.html",
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方结构说明",
+          "title": "DDボディサイズと種類 | ボークス公式 ドルフィー総合サイト",
+          "url": "https://dollfie.volks.co.jp/dd/about_bodysize/",
+          "supports": "DD 系列软质外皮与框架背景；尺寸表示例不替代本型号全高"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "造形村"
+        },
+        {
+          "role": "服装制作",
+          "name": "ボークス・ドール企画室"
+        }
+      ]
+    },
+    {
+      "id": "volks-himari",
+      "name": "DD ひまり",
+      "original": "DD ひまり",
+      "brand": "VOLKS",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方具体版本整理；旧版与 2.0 版不混记。",
+      "icon": "frame",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "软质乙烯基树脂"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体版本",
+          "text": "DDベースボディ2.0（DD-f³）・M胸。该身体版本只用于本款；NT 版不写成 2.0。"
+        },
+        {
+          "title": "头部与眼睛",
+          "text": "アニメティックアイズ・オリジナル虹彩・24mm；「ひまり」オリジナルヘッド採用。附本款假发、衣装与配件，换件兼容以型号为准。"
+        },
+        {
+          "title": "高度口径",
+          "text": "型号页没有另列本款实测或独立全高，主高度留空；不将参考头型的尺寸表直接移给这个头。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "DD ひまり | ボークス公式 ドルフィーオンラインストア",
+          "url": "https://dollfie.ec.volks.co.jp/item/4518992455105.html",
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方结构说明",
+          "title": "DDボディサイズと種類 | ボークス公式 ドルフィー総合サイト",
+          "url": "https://dollfie.volks.co.jp/dd/about_bodysize/",
+          "supports": "DD 系列软质外皮与框架背景；尺寸表示例不替代本型号全高"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "造形村"
+        },
+        {
+          "role": "服装制作",
+          "name": "ボークス・ドール企画室"
+        }
+      ]
+    },
+    {
+      "id": "volks-frieren2",
+      "name": "DDS フリーレン 2.0",
+      "original": "DDS フリーレン 2.0",
+      "brand": "VOLKS",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方具体版本整理；旧版与 2.0 版不混记。",
+      "icon": "frame",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "软质乙烯基树脂"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体版本",
+          "text": "DDSベースボディ2.0（DD-f³）・S胸。该身体版本只用于本款；NT 版不写成 2.0。"
+        },
+        {
+          "title": "头部与眼睛",
+          "text": "アニメティックアイズ・オリジナル虹彩・20mm；「フリーレン」オリジナルヘッド採用。附本款假发、衣装与配件，换件兼容以型号为准。"
+        },
+        {
+          "title": "高度口径",
+          "text": "型号页没有另列本款实测或独立全高，主高度留空；不将参考头型的尺寸表直接移给这个头。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "DDS フリーレン 2.0 & DD フェルン  | 『葬送のフリーレン』ドルフィードリーム | ボークス",
+          "url": "https://dollfie.volks.co.jp/dd/special/frieren/dds_frieren-dd_fern.html#ddFern",
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方结构说明",
+          "title": "DDボディサイズと種類 | ボークス公式 ドルフィー総合サイト",
+          "url": "https://dollfie.volks.co.jp/dd/about_bodysize/",
+          "supports": "DD 系列软质外皮与框架背景；尺寸表示例不替代本型号全高"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "造形村"
+        },
+        {
+          "role": "服装制作",
+          "name": "ボークス・ドール企画室"
+        }
+      ]
+    },
+    {
+      "id": "volks-fern",
+      "name": "DD フェルン",
+      "original": "DD フェルン",
+      "brand": "VOLKS",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方具体版本整理；旧版与 2.0 版不混记。",
+      "icon": "frame",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "软质乙烯基树脂"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体版本",
+          "text": "DDベースボディ2.0（DD-f³）・L胸。该身体版本只用于本款；NT 版不写成 2.0。"
+        },
+        {
+          "title": "头部与眼睛",
+          "text": "アニメティックアイズ・オリジナル虹彩・24mm；「フェルン」オリジナルヘッド採用。附本款假发、衣装与配件，换件兼容以型号为准。"
+        },
+        {
+          "title": "高度口径",
+          "text": "型号页没有另列本款实测或独立全高，主高度留空；不将参考头型的尺寸表直接移给这个头。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "DDS フリーレン 2.0 & DD フェルン  | 『葬送のフリーレン』ドルフィードリーム | ボークス",
+          "url": "https://dollfie.volks.co.jp/dd/special/frieren/dds_frieren-dd_fern.html#ddFern",
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方结构说明",
+          "title": "DDボディサイズと種類 | ボークス公式 ドルフィー総合サイト",
+          "url": "https://dollfie.volks.co.jp/dd/about_bodysize/",
+          "supports": "DD 系列软质外皮与框架背景；尺寸表示例不替代本型号全高"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "造形村"
+        },
+        {
+          "role": "服装制作",
+          "name": "ボークス・ドール企画室"
+        }
+      ]
+    },
+    {
+      "id": "volks-aqua",
+      "name": "DD アクア",
+      "original": "DD アクア",
+      "brand": "VOLKS",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方具体版本整理；旧版与 2.0 版不混记。",
+      "icon": "frame",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "软质乙烯基树脂"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体版本",
+          "text": "DDベースボディ2.0（DD-f³）・L胸。该身体版本只用于本款；NT 版不写成 2.0。"
+        },
+        {
+          "title": "头部与眼睛",
+          "text": "アニメティックアイズ・オリジナル虹彩・22mm；「アクア」オリジナルヘッド採用。附本款假发、衣装与配件，换件兼容以型号为准。"
+        },
+        {
+          "title": "高度口径",
+          "text": "型号页没有另列本款实测或独立全高，主高度留空；不将参考头型的尺寸表直接移给这个头。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "DD アクア | この素晴らしい世界に祝福を！ × Dollfie Dream | 株式会社ボークス",
+          "url": "https://dollfie.volks.co.jp/dd/special/konosuba/dd_aqua.html",
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方结构说明",
+          "title": "DDボディサイズと種類 | ボークス公式 ドルフィー総合サイト",
+          "url": "https://dollfie.volks.co.jp/dd/about_bodysize/",
+          "supports": "DD 系列软质外皮与框架背景；尺寸表示例不替代本型号全高"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "造形村"
+        },
+        {
+          "role": "服装制作",
+          "name": "ボークス・ドール企画室"
+        }
+      ]
+    },
+    {
+      "id": "volks-miku-nt",
+      "name": "DD 初音ミク NT",
+      "original": "DD 初音ミク NT",
+      "brand": "VOLKS",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方具体版本整理；旧版与 2.0 版不混记。",
+      "icon": "frame",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "软质乙烯基树脂"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体版本",
+          "text": "DDベースボディ（DD-f³）・SS胸。该身体版本只用于本款；NT 版不写成 2.0。"
+        },
+        {
+          "title": "头部与眼睛",
+          "text": "アニメティックアイズ・オリジナル虹彩・22mm；「初音ミク/雪ミク/桜ミク/初音ミク NT」オリジナルヘッド採用。附本款假发、衣装与配件，换件兼容以型号为准。"
+        },
+        {
+          "title": "高度口径",
+          "text": "型号页没有另列本款实测或独立全高，主高度留空；不将参考头型的尺寸表直接移给这个头。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "DD 初音ミク NT | ピアプロ × ドルフィードリーム | ボークス",
+          "url": "https://dollfie.volks.co.jp/dd/special/piapro/product/dd_mikunt.html",
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方结构说明",
+          "title": "DDボディサイズと種類 | ボークス公式 ドルフィー総合サイト",
+          "url": "https://dollfie.volks.co.jp/dd/about_bodysize/",
+          "supports": "DD 系列软质外皮与框架背景；尺寸表示例不替代本型号全高"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "造形村"
+        },
+        {
+          "role": "服装制作",
+          "name": "ボークス・ドール企画室"
+        }
+      ]
+    },
+    {
+      "id": "bandai-13239",
+      "name": "S.H.Figuarts ボディちゃん DX SET 2（ Solid black Color Ver.）",
+      "original": "S.H.Figuarts ボディちゃん DX SET 2（ Solid black Color Ver.）",
+      "brand": "BANDAI SPIRITS",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方具体版本整理；旧版与 2.0 版不混记。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 135,
+      "heightBasis": "官方商品尺寸约值；本款人体模型",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 13.5 cm",
+          "basis": "官方商品尺寸约值；本款人体模型"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "用途与交付",
+          "text": "用于作画／姿势参考的可动人体模型。附属手、脸、道具与支架按各款清单保留；不同 Edition 的配件不合并。"
+        },
+        {
+          "title": "Wireframe 口径",
+          "text": "名称中的ワイヤーフレーム表示人体表面的绘画参考线，不据此标记“内部骨架”。衣服造型或表面参考线不视为可脱布衣。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "S.H.Figuarts ボディちゃん DX SET 2（ Solid black Color Ver.） | 商品一覧 | 魂ウェブ",
+          "url": "https://tamashiiweb.com/item/13239/",
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "bandai-13464",
+      "name": "S.H.Figuarts ボディくん -ワイヤーフレーム- （Gray Color Ver.）",
+      "original": "S.H.Figuarts ボディくん -ワイヤーフレーム- （Gray Color Ver.）",
+      "brand": "BANDAI SPIRITS",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方具体版本整理；旧版与 2.0 版不混记。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 150,
+      "heightBasis": "官方商品尺寸约值；本款人体模型",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 15 cm",
+          "basis": "官方商品尺寸约值；本款人体模型"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "用途与交付",
+          "text": "用于作画／姿势参考的可动人体模型。附属手、脸、道具与支架按各款清单保留；不同 Edition 的配件不合并。"
+        },
+        {
+          "title": "Wireframe 口径",
+          "text": "名称中的ワイヤーフレーム表示人体表面的绘画参考线，不据此标记“内部骨架”。衣服造型或表面参考线不视为可脱布衣。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "S.H.Figuarts ボディくん -ワイヤーフレーム- （Gray Color Ver.） | 商品一覧 | 魂ウェブ",
+          "url": "https://tamashiiweb.com/item/13464/",
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "bandai-13465",
+      "name": "S.H.Figuarts ボディちゃん -ワイヤーフレーム- （Gray Color Ver.）",
+      "original": "S.H.Figuarts ボディちゃん -ワイヤーフレーム- （Gray Color Ver.）",
+      "brand": "BANDAI SPIRITS",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方具体版本整理；旧版与 2.0 版不混记。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 135,
+      "heightBasis": "官方商品尺寸约值；本款人体模型",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 13.5 cm",
+          "basis": "官方商品尺寸约值；本款人体模型"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "用途与交付",
+          "text": "用于作画／姿势参考的可动人体模型。附属手、脸、道具与支架按各款清单保留；不同 Edition 的配件不合并。"
+        },
+        {
+          "title": "Wireframe 口径",
+          "text": "名称中的ワイヤーフレーム表示人体表面的绘画参考线，不据此标记“内部骨架”。衣服造型或表面参考线不视为可脱布衣。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "S.H.Figuarts ボディちゃん -ワイヤーフレーム- （Gray Color Ver.） | 商品一覧 | 魂ウェブ",
+          "url": "https://tamashiiweb.com/item/13465/",
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "bandai-13805",
+      "name": "S.H.Figuarts ボディちゃん -矢吹健太朗- Edition DX SET (Pale orange Color Ver.)",
+      "original": "S.H.Figuarts ボディちゃん -矢吹健太朗- Edition DX SET (Pale orange Color Ver.)",
+      "brand": "BANDAI SPIRITS",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方具体版本整理；旧版与 2.0 版不混记。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 135,
+      "heightBasis": "官方商品尺寸约值；本款人体模型",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 13.5 cm",
+          "basis": "官方商品尺寸约值；本款人体模型"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "用途与交付",
+          "text": "用于作画／姿势参考的可动人体模型。附属手、脸、道具与支架按各款清单保留；不同 Edition 的配件不合并。"
+        },
+        {
+          "title": "Wireframe 口径",
+          "text": "名称中的ワイヤーフレーム表示人体表面的绘画参考线，不据此标记“内部骨架”。衣服造型或表面参考线不视为可脱布衣。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "S.H.Figuarts ボディちゃん -矢吹健太朗- Edition DX SET (Pale orange Color Ver.) | 商品一覧 | 魂ウェブ",
+          "url": "https://tamashiiweb.com/item/13805/",
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "bandai-14279",
+      "name": "S.H.Figuarts ボディくん -スポーツ- Edition DX SET (Gray Color Ver.)",
+      "original": "S.H.Figuarts ボディくん -スポーツ- Edition DX SET (Gray Color Ver.)",
+      "brand": "BANDAI SPIRITS",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方具体版本整理；旧版与 2.0 版不混记。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 150,
+      "heightBasis": "官方商品尺寸约值；本款人体模型",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 15 cm",
+          "basis": "官方商品尺寸约值；本款人体模型"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "用途与交付",
+          "text": "用于作画／姿势参考的可动人体模型。附属手、脸、道具与支架按各款清单保留；不同 Edition 的配件不合并。"
+        },
+        {
+          "title": "Wireframe 口径",
+          "text": "名称中的ワイヤーフレーム表示人体表面的绘画参考线，不据此标记“内部骨架”。衣服造型或表面参考线不视为可脱布衣。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "S.H.Figuarts ボディくん -スポーツ- Edition DX SET (Gray Color Ver.) | 商品一覧 | 魂ウェブ",
+          "url": "https://tamashiiweb.com/item/14279/",
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "bandai-14280",
+      "name": "S.H.Figuarts ボディちゃん -スポーツ- Edition DX SET (Gray Color Ver.)",
+      "original": "S.H.Figuarts ボディちゃん -スポーツ- Edition DX SET (Gray Color Ver.)",
+      "brand": "BANDAI SPIRITS",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方具体版本整理；旧版与 2.0 版不混记。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 135,
+      "heightBasis": "官方商品尺寸约值；本款人体模型",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 13.5 cm",
+          "basis": "官方商品尺寸约值；本款人体模型"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "用途与交付",
+          "text": "用于作画／姿势参考的可动人体模型。附属手、脸、道具与支架按各款清单保留；不同 Edition 的配件不合并。"
+        },
+        {
+          "title": "Wireframe 口径",
+          "text": "名称中的ワイヤーフレーム表示人体表面的绘画参考线，不据此标记“内部骨架”。衣服造型或表面参考线不视为可脱布衣。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "S.H.Figuarts ボディちゃん -スポーツ- Edition DX SET (Gray Color Ver.) | 商品一覧 | 魂ウェブ",
+          "url": "https://tamashiiweb.com/item/14280/",
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "bandai-14385",
+      "name": "S.H.Figuarts ボディちゃん -スポーツ- Edition DX SET (BIRDIE WING Ver.)",
+      "original": "S.H.Figuarts ボディちゃん -スポーツ- Edition DX SET (BIRDIE WING Ver.)",
+      "brand": "BANDAI SPIRITS",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方具体版本整理；旧版与 2.0 版不混记。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 135,
+      "heightBasis": "官方商品尺寸约值；本款人体模型",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 13.5 cm",
+          "basis": "官方商品尺寸约值；本款人体模型"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "用途与交付",
+          "text": "用于作画／姿势参考的可动人体模型。附属手、脸、道具与支架按各款清单保留；不同 Edition 的配件不合并。"
+        },
+        {
+          "title": "Wireframe 口径",
+          "text": "名称中的ワイヤーフレーム表示人体表面的绘画参考线，不据此标记“内部骨架”。衣服造型或表面参考线不视为可脱布衣。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "S.H.Figuarts ボディちゃん -スポーツ- Edition DX SET (BIRDIE WING Ver.) | 商品一覧 | 魂ウェブ",
+          "url": "https://tamashiiweb.com/item/14385/",
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "bandai-14629",
+      "name": "S.H.Figuarts ボディくん -スクールライフ- Edition DX SET (Gray Color Ver.)",
+      "original": "S.H.Figuarts ボディくん -スクールライフ- Edition DX SET (Gray Color Ver.)",
+      "brand": "BANDAI SPIRITS",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方具体版本整理；旧版与 2.0 版不混记。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 135,
+      "heightBasis": "官方商品尺寸约值；本款人体模型",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 13.5 cm",
+          "basis": "官方商品尺寸约值；本款人体模型"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "用途与交付",
+          "text": "用于作画／姿势参考的可动人体模型。附属手、脸、道具与支架按各款清单保留；不同 Edition 的配件不合并。"
+        },
+        {
+          "title": "Wireframe 口径",
+          "text": "名称中的ワイヤーフレーム表示人体表面的绘画参考线，不据此标记“内部骨架”。衣服造型或表面参考线不视为可脱布衣。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "S.H.Figuarts ボディくん -スクールライフ- Edition DX SET (Gray Color Ver.) | 商品一覧 | 魂ウェブ",
+          "url": "https://tamashiiweb.com/item/14629/",
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "bandai-14630",
+      "name": "S.H.Figuarts ボディちゃん -スクールライフ- Edition DX SET (Gray Color Ver.)",
+      "original": "S.H.Figuarts ボディちゃん -スクールライフ- Edition DX SET (Gray Color Ver.)",
+      "brand": "BANDAI SPIRITS",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方具体版本整理；旧版与 2.0 版不混记。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 130,
+      "heightBasis": "官方商品尺寸约值；本款人体模型",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 13 cm",
+          "basis": "官方商品尺寸约值；本款人体模型"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "用途与交付",
+          "text": "用于作画／姿势参考的可动人体模型。附属手、脸、道具与支架按各款清单保留；不同 Edition 的配件不合并。"
+        },
+        {
+          "title": "Wireframe 口径",
+          "text": "名称中的ワイヤーフレーム表示人体表面的绘画参考线，不据此标记“内部骨架”。衣服造型或表面参考线不视为可脱布衣。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "S.H.Figuarts ボディちゃん -スクールライフ- Edition DX SET (Gray Color Ver.) | 商品一覧 | 魂ウェブ",
+          "url": "https://tamashiiweb.com/item/14630/",
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "bandai-15088",
+      "name": "S.H.Figuarts ボディくん -スポーツ- Edition -ワイヤーフレーム-(Gray Color Ver.)",
+      "original": "S.H.Figuarts ボディくん -スポーツ- Edition -ワイヤーフレーム-(Gray Color Ver.)",
+      "brand": "BANDAI SPIRITS",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方具体版本整理；旧版与 2.0 版不混记。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 150,
+      "heightBasis": "官方商品尺寸约值；本款人体模型",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 15 cm",
+          "basis": "官方商品尺寸约值；本款人体模型"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "用途与交付",
+          "text": "用于作画／姿势参考的可动人体模型。附属手、脸、道具与支架按各款清单保留；不同 Edition 的配件不合并。"
+        },
+        {
+          "title": "Wireframe 口径",
+          "text": "名称中的ワイヤーフレーム表示人体表面的绘画参考线，不据此标记“内部骨架”。衣服造型或表面参考线不视为可脱布衣。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "S.H.Figuarts ボディくん -スポーツ- Edition -ワイヤーフレーム-(Gray Color Ver.) | 商品一覧 | 魂ウェブ",
+          "url": "https://tamashiiweb.com/item/15088/",
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "bandai-15089",
+      "name": "S.H.Figuarts ボディちゃん -スポーツ- Edition -ワイヤーフレーム-(Gray Color Ver.)",
+      "original": "S.H.Figuarts ボディちゃん -スポーツ- Edition -ワイヤーフレーム-(Gray Color Ver.)",
+      "brand": "BANDAI SPIRITS",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方具体版本整理；旧版与 2.0 版不混记。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 135,
+      "heightBasis": "官方商品尺寸约值；本款人体模型",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 13.5 cm",
+          "basis": "官方商品尺寸约值；本款人体模型"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "用途与交付",
+          "text": "用于作画／姿势参考的可动人体模型。附属手、脸、道具与支架按各款清单保留；不同 Edition 的配件不合并。"
+        },
+        {
+          "title": "Wireframe 口径",
+          "text": "名称中的ワイヤーフレーム表示人体表面的绘画参考线，不据此标记“内部骨架”。衣服造型或表面参考线不视为可脱布衣。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "S.H.Figuarts ボディちゃん -スポーツ- Edition -ワイヤーフレーム-(Gray Color Ver.) | 商品一覧 | 魂ウェブ",
+          "url": "https://tamashiiweb.com/item/15089/",
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "bandai-15790",
+      "name": "S.H.Figuarts ボディちゃん -杉森建- Edition-ワイヤーフレーム-(Gray Color Ver.)",
+      "original": "S.H.Figuarts ボディちゃん -杉森建- Edition-ワイヤーフレーム-(Gray Color Ver.)",
+      "brand": "BANDAI SPIRITS",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方具体版本整理；旧版与 2.0 版不混记。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 130,
+      "heightBasis": "官方商品尺寸约值；本款人体模型",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 13 cm",
+          "basis": "官方商品尺寸约值；本款人体模型"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "用途与交付",
+          "text": "用于作画／姿势参考的可动人体模型。附属手、脸、道具与支架按各款清单保留；不同 Edition 的配件不合并。"
+        },
+        {
+          "title": "Wireframe 口径",
+          "text": "名称中的ワイヤーフレーム表示人体表面的绘画参考线，不据此标记“内部骨架”。衣服造型或表面参考线不视为可脱布衣。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "S.H.Figuarts ボディちゃん -杉森建- Edition-ワイヤーフレーム-(Gray Color Ver.) | 商品一覧 | 魂ウェブ",
+          "url": "https://tamashiiweb.com/item/15790/",
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "企划／制作统筹",
+          "name": "杉森建"
+        }
+      ]
+    },
+    {
+      "id": "bandai-15791",
+      "name": "S.H.Figuarts ボディくん -杉森建- Edition-ワイヤーフレーム-(Gray Color Ver.)",
+      "original": "S.H.Figuarts ボディくん -杉森建- Edition-ワイヤーフレーム-(Gray Color Ver.)",
+      "brand": "BANDAI SPIRITS",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方具体版本整理；旧版与 2.0 版不混记。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 130,
+      "heightBasis": "官方商品尺寸约值；本款人体模型",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 13 cm",
+          "basis": "官方商品尺寸约值；本款人体模型"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "用途与交付",
+          "text": "用于作画／姿势参考的可动人体模型。附属手、脸、道具与支架按各款清单保留；不同 Edition 的配件不合并。"
+        },
+        {
+          "title": "Wireframe 口径",
+          "text": "名称中的ワイヤーフレーム表示人体表面的绘画参考线，不据此标记“内部骨架”。衣服造型或表面参考线不视为可脱布衣。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "S.H.Figuarts ボディくん -杉森建- Edition-ワイヤーフレーム-(Gray Color Ver.) | 商品一覧 | 魂ウェブ",
+          "url": "https://tamashiiweb.com/item/15791/",
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "企划／制作统筹",
+          "name": "杉森建"
+        }
+      ]
+    },
+    {
+      "id": "bandai-bodykun",
+      "name": "S.H.Figuarts ボディくん DX SET 2（ Solid black Color Ver.）",
+      "original": "S.H.Figuarts ボディくん DX SET 2（ Solid black Color Ver.）",
+      "brand": "BANDAI SPIRITS",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方具体版本整理；旧版与 2.0 版不混记。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 150,
+      "heightBasis": "官方商品约全高／尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 15 cm",
+          "basis": "官方商品约全高／尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "DX SET 2",
+          "text": "黑色版本的作画参考身体；附替换手和本款道具，具体清单不套用其他 Edition。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "S.H.Figuarts ボディくん DX SET 2（ Solid black Color Ver.） | 商品一覧 | 魂ウェブ",
+          "url": "https://tamashiiweb.com/item/13238/?wovn=ja",
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "tinyfox-2024103002",
+      "name": "TinyFox タコ娘 ピアシー 1/6スケールMJDドール フルセット",
+      "original": "TinyFox タコ娘 ピアシー 1/6スケールMJDドール フルセット",
+      "brand": "TinyFox",
+      "country": "中国",
+      "origin": "未披露",
+      "version": "按所列官方具体版本整理；旧版与 2.0 版不混记。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 275,
+      "heightBasis": "日本经销规格：带头全身 27.5 cm",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 27.5 cm",
+          "basis": "日本经销规格：带头全身 27.5 cm"
+        },
+        {
+          "label": "身体 22.5 cm",
+          "basis": "经销规格的无头身体口径；与主要全身高度分开"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与尺寸",
+          "text": "采用 1/6 天使身体、白巧肤色；身体单独 22.5 cm，带头全身 27.5 cm。两种高度口径分别保留。"
+        },
+        {
+          "title": "交付与限定特典",
+          "text": "全套含已妆头、身体、本款眼、假发及衣装。背景布景及经销商特典与厂商基本交付清单分别看，不能认定全部渠道都附赠。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "日本经销规格／介绍",
+          "title": "TinyFox待望の1/6MJDドール最新作!! お菓子づくり大好きっ♪「タコ娘ピアシー」10月31日(木)よりラぺオニアオンラインショップにて20名様限りの販売開始です!! 急いでチェック☆",
+          "url": "https://www.lapeonier.com/post/2024103002",
+          "supports": "日本市场本型号的全身与身体高度、PVC／ABS、衣装、假发、眼睛及妆面作者；不当作原厂尺寸实测"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "面妆设计",
+          "name": "@这哪儿有北国人"
+        }
+      ]
+    },
+    {
+      "id": "tinyfox-2024091101",
+      "name": "TinyFox 狐狐神-夢神 フィフレ(Huifre) 1/6スケールMJDドール フルセット",
+      "original": "TinyFox 狐狐神-夢神 フィフレ(Huifre) 1/6スケールMJDドール フルセット",
+      "brand": "TinyFox",
+      "country": "中国",
+      "origin": "未披露",
+      "version": "按所列官方具体版本整理；旧版与 2.0 版不混记。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 275,
+      "heightBasis": "日本经销规格：带头全身 27.5 cm",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 27.5 cm",
+          "basis": "日本经销规格：带头全身 27.5 cm"
+        },
+        {
+          "label": "身体 22.5 cm",
+          "basis": "经销规格的无头身体口径；与主要全身高度分开"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与尺寸",
+          "text": "采用 1/6 天使身体、白巧肤色；身体单独 22.5 cm，带头全身 27.5 cm。两种高度口径分别保留。"
+        },
+        {
+          "title": "交付与限定特典",
+          "text": "全套含已妆头、身体、本款眼、假发及衣装。背景布景及经销商特典与厂商基本交付清单分别看，不能认定全部渠道都附赠。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "日本经销规格／介绍",
+          "title": "純白の天使が降臨！1/6MJDドール「狐狐神〜夢神 フィフレ(Huifre)」09月11日(水)よりLaPeonierオンラインショップにて予約開始です!!",
+          "url": "https://www.lapeonier.com/post/2024091101",
+          "supports": "日本市场本型号的全身与身体高度、PVC／ABS、衣装、假发、眼睛及妆面作者；不当作原厂尺寸实测"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "面妆设计",
+          "name": "@YUUKA_KK"
+        }
+      ]
+    },
+    {
+      "id": "tinyfox-2024081901",
+      "name": "TinyFox ウーパールーパーナース ルーシー 1/6スケールMJDドール フルセット",
+      "original": "TinyFox ウーパールーパーナース ルーシー 1/6スケールMJDドール フルセット",
+      "brand": "TinyFox",
+      "country": "中国",
+      "origin": "未披露",
+      "version": "按所列官方具体版本整理；旧版与 2.0 版不混记。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 275,
+      "heightBasis": "日本经销规格：带头全身 27.5 cm",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 27.5 cm",
+          "basis": "日本经销规格：带头全身 27.5 cm"
+        },
+        {
+          "label": "身体 22.5 cm",
+          "basis": "经销规格的无头身体口径；与主要全身高度分开"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与尺寸",
+          "text": "采用 1/6 天使身体、白巧肤色；身体单独 22.5 cm，带头全身 27.5 cm。两种高度口径分别保留。"
+        },
+        {
+          "title": "交付与限定特典",
+          "text": "全套含已妆头、身体、本款眼、假发及衣装。背景布景及经销商特典与厂商基本交付清单分别看，不能认定全部渠道都附赠。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "日本经销规格／介绍",
+          "title": "TinyFoxの新作「ウーパールーパーナース ルーシー」登場！ 狐狐病院の新入りナースさんが、ブラックに変色してしまった原因は一体…？ LaPeonierオンラインショップより8月19日から予約開始！",
+          "url": "https://www.lapeonier.com/post/2024081901",
+          "supports": "日本市场本型号的全身与身体高度、PVC／ABS、衣装、假发、眼睛及妆面作者；不当作原厂尺寸实测"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "面妆设计",
+          "name": "@比格犬夜袭红土大陆"
+        }
+      ]
+    },
+    {
+      "id": "tinyfox-2024072401",
+      "name": "TinyFox 楽園悪霊 モコイ 1/6スケールMJDドール フルセット",
+      "original": "TinyFox 楽園悪霊 モコイ 1/6スケールMJDドール フルセット",
+      "brand": "TinyFox",
+      "country": "中国",
+      "origin": "未披露",
+      "version": "按所列官方具体版本整理；旧版与 2.0 版不混记。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 275,
+      "heightBasis": "日本经销规格：带头全身 27.5 cm",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 27.5 cm",
+          "basis": "日本经销规格：带头全身 27.5 cm"
+        },
+        {
+          "label": "身体 22.5 cm",
+          "basis": "经销规格的无头身体口径；与主要全身高度分开"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与尺寸",
+          "text": "采用 1/6 天使身体、白巧肤色；身体单独 22.5 cm，带头全身 27.5 cm。两种高度口径分别保留。"
+        },
+        {
+          "title": "交付与限定特典",
+          "text": "全套含已妆头、身体、本款眼、假发及衣装。背景布景及经销商特典与厂商基本交付清单分别看，不能认定全部渠道都附赠。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "日本经销规格／介绍",
+          "title": "片目隠れの猫耳少年！ 1/6MJDドール「楽園悪霊 モコイ」7月24日(水)よりLaPeonierオンラインショップにて予約開始です!!",
+          "url": "https://www.lapeonier.com/post/2024072401",
+          "supports": "日本市场本型号的全身与身体高度、PVC／ABS、衣装、假发、眼睛及妆面作者；不当作原厂尺寸实测"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "面妆设计",
+          "name": "@小春食堂"
+        }
+      ]
+    },
+    {
+      "id": "sekiguchi-264",
+      "name": "GIRL POP blue star",
+      "original": "GIRL POP blue star",
+      "brand": "SEKIGUCHI",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方具体版本整理；旧版与 2.0 版不混记。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "出品区分",
+          "text": "本款由 SEKIGUCHI 出品。与 PetWORKs 的 PW-momoko、CCS、Today’s 分别记录；型号页没有本款独立全高、材料与关节数，不从其他版本搬用。"
+        },
+        {
+          "title": "系列尺寸",
+          "text": "momoko 官方系列说明为 1/6、约 27 cm；这里保留系列背景，独立型号高度仍留空。植发不视为可换假发。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "GIRL POP blue star | momoko DOLL 商品情報 | momoko DOLL 公式サイト",
+          "url": "https://www.momokodoll.com/lineup/264",
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "ABOUT momoko DOLL | momoko DOLL 公式サイト",
+          "url": "https://www.momokodoll.com/about/",
+          "supports": "momoko 系列1/6与约27cm背景、真鍋奈見江的系列统筹；不代替本款独立尺寸"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "sekiguchi-265",
+      "name": "momoko DOLL ベビチッチアイドル Pink",
+      "original": "momoko DOLL ベビチッチアイドル Pink",
+      "brand": "SEKIGUCHI",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方具体版本整理；旧版与 2.0 版不混记。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "出品区分",
+          "text": "本款由 SEKIGUCHI 出品。与 PetWORKs 的 PW-momoko、CCS、Today’s 分别记录；型号页没有本款独立全高、材料与关节数，不从其他版本搬用。"
+        },
+        {
+          "title": "系列尺寸",
+          "text": "momoko 官方系列说明为 1/6、约 27 cm；这里保留系列背景，独立型号高度仍留空。植发不视为可换假发。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "momoko DOLL ベビチッチアイドル Pink | momoko DOLL 商品情報 | momoko DOLL 公式サイト",
+          "url": "https://www.momokodoll.com/lineup/265",
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "ABOUT momoko DOLL | momoko DOLL 公式サイト",
+          "url": "https://www.momokodoll.com/about/",
+          "supports": "momoko 系列1/6与约27cm背景、真鍋奈見江的系列统筹；不代替本款独立尺寸"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "sekiguchi-266",
+      "name": "momoko DOLL ベビチッチアイドル Blue",
+      "original": "momoko DOLL ベビチッチアイドル Blue",
+      "brand": "SEKIGUCHI",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方具体版本整理；旧版与 2.0 版不混记。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "出品区分",
+          "text": "本款由 SEKIGUCHI 出品。与 PetWORKs 的 PW-momoko、CCS、Today’s 分别记录；型号页没有本款独立全高、材料与关节数，不从其他版本搬用。"
+        },
+        {
+          "title": "系列尺寸",
+          "text": "momoko 官方系列说明为 1/6、约 27 cm；这里保留系列背景，独立型号高度仍留空。植发不视为可换假发。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "momoko DOLL ベビチッチアイドル Blue | momoko DOLL 商品情報 | momoko DOLL 公式サイト",
+          "url": "https://www.momokodoll.com/lineup/266",
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "ABOUT momoko DOLL | momoko DOLL 公式サイト",
+          "url": "https://www.momokodoll.com/about/",
+          "supports": "momoko 系列1/6与约27cm背景、真鍋奈見江的系列统筹；不代替本款独立尺寸"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "sekiguchi-267",
+      "name": "GIRL POP blue star B&W Ver.",
+      "original": "GIRL POP blue star B&W Ver.",
+      "brand": "SEKIGUCHI",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方具体版本整理；旧版与 2.0 版不混记。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "出品区分",
+          "text": "本款由 SEKIGUCHI 出品。与 PetWORKs 的 PW-momoko、CCS、Today’s 分别记录；型号页没有本款独立全高、材料与关节数，不从其他版本搬用。"
+        },
+        {
+          "title": "系列尺寸",
+          "text": "momoko 官方系列说明为 1/6、约 27 cm；这里保留系列背景，独立型号高度仍留空。植发不视为可换假发。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "GIRL POP blue star B&W Ver. | momoko DOLL 商品情報 | momoko DOLL 公式サイト",
+          "url": "https://www.momokodoll.com/lineup/267",
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "ABOUT momoko DOLL | momoko DOLL 公式サイト",
+          "url": "https://www.momokodoll.com/about/",
+          "supports": "momoko 系列1/6与约27cm背景、真鍋奈見江的系列统筹；不代替本款独立尺寸"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "sekiguchi-268",
+      "name": "Fresh Morning",
+      "original": "Fresh Morning",
+      "brand": "SEKIGUCHI",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方具体版本整理；旧版与 2.0 版不混记。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "出品区分",
+          "text": "本款由 SEKIGUCHI 出品。与 PetWORKs 的 PW-momoko、CCS、Today’s 分别记录；型号页没有本款独立全高、材料与关节数，不从其他版本搬用。"
+        },
+        {
+          "title": "系列尺寸",
+          "text": "momoko 官方系列说明为 1/6、约 27 cm；这里保留系列背景，独立型号高度仍留空。植发不视为可换假发。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Fresh Morning | momoko DOLL 商品情報 | momoko DOLL 公式サイト",
+          "url": "https://www.momokodoll.com/lineup/268",
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "ABOUT momoko DOLL | momoko DOLL 公式サイト",
+          "url": "https://www.momokodoll.com/about/",
+          "supports": "momoko 系列1/6与约27cm背景、真鍋奈見江的系列统筹；不代替本款独立尺寸"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "sekiguchi-269",
+      "name": "GIRL POP blue star Purple Ver.",
+      "original": "GIRL POP blue star Purple Ver.",
+      "brand": "SEKIGUCHI",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方具体版本整理；旧版与 2.0 版不混记。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "出品区分",
+          "text": "本款由 SEKIGUCHI 出品。与 PetWORKs 的 PW-momoko、CCS、Today’s 分别记录；型号页没有本款独立全高、材料与关节数，不从其他版本搬用。"
+        },
+        {
+          "title": "系列尺寸",
+          "text": "momoko 官方系列说明为 1/6、约 27 cm；这里保留系列背景，独立型号高度仍留空。植发不视为可换假发。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "GIRL POP blue star Purple Ver. | momoko DOLL 商品情報 | momoko DOLL 公式サイト",
+          "url": "https://www.momokodoll.com/lineup/269",
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "ABOUT momoko DOLL | momoko DOLL 公式サイト",
+          "url": "https://www.momokodoll.com/about/",
+          "supports": "momoko 系列1/6与约27cm背景、真鍋奈見江的系列统筹；不代替本款独立尺寸"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "sekiguchi-270",
+      "name": "Wake-Up momoko DOLL WUD031",
+      "original": "Wake-Up momoko DOLL WUD031",
+      "brand": "SEKIGUCHI",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方具体版本整理；旧版与 2.0 版不混记。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "出品区分",
+          "text": "本款由 SEKIGUCHI 出品。与 PetWORKs 的 PW-momoko、CCS、Today’s 分别记录；型号页没有本款独立全高、材料与关节数，不从其他版本搬用。"
+        },
+        {
+          "title": "系列尺寸",
+          "text": "momoko 官方系列说明为 1/6、约 27 cm；这里保留系列背景，独立型号高度仍留空。植发不视为可换假发。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Wake-Up momoko DOLL WUD031 | momoko DOLL 商品情報 | momoko DOLL 公式サイト",
+          "url": "https://www.momokodoll.com/lineup/270",
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "ABOUT momoko DOLL | momoko DOLL 公式サイト",
+          "url": "https://www.momokodoll.com/about/",
+          "supports": "momoko 系列1/6与约27cm背景、真鍋奈見江的系列统筹；不代替本款独立尺寸"
+        }
+      ],
+      "event": "本型号页列明活动会场先行发售：momoko × GAL MODE 会場にて先行発売"
+    },
+    {
+      "id": "sekiguchi-271",
+      "name": "Wake-Up momoko DOLL WUD032",
+      "original": "Wake-Up momoko DOLL WUD032",
+      "brand": "SEKIGUCHI",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方具体版本整理；旧版与 2.0 版不混记。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "出品区分",
+          "text": "本款由 SEKIGUCHI 出品。与 PetWORKs 的 PW-momoko、CCS、Today’s 分别记录；型号页没有本款独立全高、材料与关节数，不从其他版本搬用。"
+        },
+        {
+          "title": "系列尺寸",
+          "text": "momoko 官方系列说明为 1/6、约 27 cm；这里保留系列背景，独立型号高度仍留空。植发不视为可换假发。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Wake-Up momoko DOLL WUD032 | momoko DOLL 商品情報 | momoko DOLL 公式サイト",
+          "url": "https://www.momokodoll.com/lineup/271",
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "ABOUT momoko DOLL | momoko DOLL 公式サイト",
+          "url": "https://www.momokodoll.com/about/",
+          "supports": "momoko 系列1/6与约27cm背景、真鍋奈見江的系列统筹；不代替本款独立尺寸"
+        }
+      ],
+      "event": "本型号页列明活动会场先行发售：momoko × GAL MODE 会場にて先行発売"
+    },
+    {
+      "id": "sekiguchi-272",
+      "name": "Wake-Up momoko DOLL WUD033",
+      "original": "Wake-Up momoko DOLL WUD033",
+      "brand": "SEKIGUCHI",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方具体版本整理；旧版与 2.0 版不混记。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "出品区分",
+          "text": "本款由 SEKIGUCHI 出品。与 PetWORKs 的 PW-momoko、CCS、Today’s 分别记录；型号页没有本款独立全高、材料与关节数，不从其他版本搬用。"
+        },
+        {
+          "title": "系列尺寸",
+          "text": "momoko 官方系列说明为 1/6、约 27 cm；这里保留系列背景，独立型号高度仍留空。植发不视为可换假发。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Wake-Up momoko DOLL WUD033 | momoko DOLL 商品情報 | momoko DOLL 公式サイト",
+          "url": "https://www.momokodoll.com/lineup/272",
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "ABOUT momoko DOLL | momoko DOLL 公式サイト",
+          "url": "https://www.momokodoll.com/about/",
+          "supports": "momoko 系列1/6与约27cm背景、真鍋奈見江的系列统筹；不代替本款独立尺寸"
+        }
+      ],
+      "event": "本型号页列明活动会场先行发售：momoko × GAL MODE 会場にて先行発売"
+    },
+    {
+      "id": "sekiguchi-273",
+      "name": "momoko DOLL Heisei Kawaii Sweetie",
+      "original": "momoko DOLL Heisei Kawaii Sweetie",
+      "brand": "SEKIGUCHI",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方具体版本整理；旧版与 2.0 版不混记。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "出品区分",
+          "text": "本款由 SEKIGUCHI 出品。与 PetWORKs 的 PW-momoko、CCS、Today’s 分别记录；型号页没有本款独立全高、材料与关节数，不从其他版本搬用。"
+        },
+        {
+          "title": "系列尺寸",
+          "text": "momoko 官方系列说明为 1/6、约 27 cm；这里保留系列背景，独立型号高度仍留空。植发不视为可换假发。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "momoko DOLL Heisei Kawaii Sweetie | momoko DOLL 商品情報 | momoko DOLL 公式サイト",
+          "url": "https://www.momokodoll.com/lineup/273",
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "ABOUT momoko DOLL | momoko DOLL 公式サイト",
+          "url": "https://www.momokodoll.com/about/",
+          "supports": "momoko 系列1/6与约27cm背景、真鍋奈見江的系列统筹；不代替本款独立尺寸"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "sekiguchi-274",
+      "name": "momoko DOLL Heisei Kawaii Spicy",
+      "original": "momoko DOLL Heisei Kawaii Spicy",
+      "brand": "SEKIGUCHI",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方具体版本整理；旧版与 2.0 版不混记。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "出品区分",
+          "text": "本款由 SEKIGUCHI 出品。与 PetWORKs 的 PW-momoko、CCS、Today’s 分别记录；型号页没有本款独立全高、材料与关节数，不从其他版本搬用。"
+        },
+        {
+          "title": "系列尺寸",
+          "text": "momoko 官方系列说明为 1/6、约 27 cm；这里保留系列背景，独立型号高度仍留空。植发不视为可换假发。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "momoko DOLL Heisei Kawaii Spicy | momoko DOLL 商品情報 | momoko DOLL 公式サイト",
+          "url": "https://www.momokodoll.com/lineup/274",
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "ABOUT momoko DOLL | momoko DOLL 公式サイト",
+          "url": "https://www.momokodoll.com/about/",
+          "supports": "momoko 系列1/6与约27cm背景、真鍋奈見江的系列统筹；不代替本款独立尺寸"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "sekiguchi-275",
+      "name": "momoko DOLL 3PM with a Cat",
+      "original": "momoko DOLL 3PM with a Cat",
+      "brand": "SEKIGUCHI",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方具体版本整理；旧版与 2.0 版不混记。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服",
+          "计划商品"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "出品区分",
+          "text": "本款由 SEKIGUCHI 出品。与 PetWORKs 的 PW-momoko、CCS、Today’s 分别记录；型号页没有本款独立全高、材料与关节数，不从其他版本搬用。"
+        },
+        {
+          "title": "系列尺寸",
+          "text": "momoko 官方系列说明为 1/6、约 27 cm；这里保留系列背景，独立型号高度仍留空。植发不视为可换假发。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "momoko DOLL 3PM with a Cat | momoko DOLL 商品情報 | momoko DOLL 公式サイト",
+          "url": "https://www.momokodoll.com/lineup/275",
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "ABOUT momoko DOLL | momoko DOLL 公式サイト",
+          "url": "https://www.momokodoll.com/about/",
+          "supports": "momoko 系列1/6与约27cm背景、真鍋奈見江的系列统筹；不代替本款独立尺寸"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "medicos-jotaro-part4-second",
+      "name": "超像可动 · 第4部 空条承太郎 Second",
+      "original": "超像可动 · 第4部 空条承太郎 Second",
+      "brand": "MEDICOS ENTERTAINMENT",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列官方具体版本整理；旧版与 2.0 版不混记。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 155,
+      "heightBasis": "官方全高约155mm",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 15.5 cm",
+          "basis": "官方全高约155mm"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "尼龙树脂"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "选定版本",
+          "text": "第4部的 Second 配色版，官方列2025年7月。附替换零件与台座，服装为本体塑形，不当作布衣穿脱。"
+        },
+        {
+          "title": "署名空缺",
+          "text": "官网“造形制作统筹”和“原型制作”栏为空，因此不据品牌惯例补作者。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "超像可動『ジョジョの奇妙な冒険 第4部』「空条承太郎・セカンド」｜メディコス・エンタテインメント　公式サイト",
+          "url": "https://www.medicos-e.net/gallery/jojopart4_jotaro2nd/",
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+        }
+      ],
+      "event": null
     }
   ],
   "resources": [
@@ -16860,6 +31830,34 @@ window.TOY_COMPARE_DATA = {
       "description": "综合新闻、作者访谈与新娃发布；后续采用时选择对应型号文章。",
       "group": "评测与资讯",
       "checkedAt": "2026-10-06"
+    },
+    {
+      "group": "展会资料",
+      "name": "Doll Show 79 秋 · 官方出展目录",
+      "url": "http://www.dollshow.net/ds79odl.html",
+      "description": "2026 年秋的厂商与创作者摊位，含 AZONE、Good Smile、SEKIGUCHI／PetWORKs；参展摊位不等于每个商品都参展。",
+      "checkedAt": "2026-10-06"
+    },
+    {
+      "group": "作者与制作",
+      "name": "Mフィールド · SFBT 制作与代际说明",
+      "url": "http://m-field.b.la9.jp/sfbt.html",
+      "description": "SFBT 原厂的开发说明；不同代的材料、关节和销售状态分别核对。",
+      "checkedAt": "2026-10-06"
+    },
+    {
+      "group": "作者与制作",
+      "name": "PetWORKs · momoko 设计与系列背景",
+      "url": "https://www.petworks.co.jp/doll/pw_momoko/about/",
+      "description": "真鍋奈見江的设计背景，以及 PW-momoko 和 SEKIGUCHI momoko DOLL 的区别。",
+      "checkedAt": "2026-10-06"
+    },
+    {
+      "group": "厂商结构与目录",
+      "name": "VOLKS · DD 身体尺寸与版本",
+      "url": "https://dollfie.volks.co.jp/dd/about_bodysize/",
+      "description": "区分 MDD、DDP、DDS、DD、DDdy 的身体版本；带头示例全高不能当作无头素体高度。",
+      "checkedAt": "2026-10-06"
     }
   ],
   "recordingRules": [
@@ -16899,6 +31897,346 @@ window.TOY_COMPARE_DATA = {
     "obitsu-22-s": "2026-10-06",
     "obitsu-24-s-matte": "2026-10-06",
     "azone-body-pcn036-wht": "2026-10-06",
-    "azone-body-aob016-wht": "2026-10-06"
+    "azone-body-aob016-wht": "2026-10-06",
+    "gsc-doll-1141832": "2026-10-06",
+    "gsc-doll-1141833": "2026-10-06",
+    "gsc-doll-1142668": "2026-10-06",
+    "gsc-doll-1142669": "2026-10-06",
+    "gsc-doll-1143700": "2026-10-06",
+    "gsc-doll-1143701": "2026-10-06",
+    "gsc-doll-1141869": "2026-10-06",
+    "gsc-doll-1141870": "2026-10-06",
+    "gsc-doll-1141871": "2026-10-06",
+    "gsc-doll-1141872": "2026-10-06",
+    "gsc-doll-1142519": "2026-10-06",
+    "gsc-doll-1142520": "2026-10-06",
+    "gsc-doll-1142649": "2026-10-06",
+    "gsc-doll-1142650": "2026-10-06",
+    "gsc-doll-1142194": "2026-10-06",
+    "gsc-doll-1142195": "2026-10-06",
+    "gsc-doll-1142502": "2026-10-06",
+    "gsc-doll-1142503": "2026-10-06",
+    "gsc-doll-1142517": "2026-10-06",
+    "gsc-doll-1142518": "2026-10-06",
+    "gsc-doll-1142666": "2026-10-06",
+    "gsc-doll-1142667": "2026-10-06",
+    "gsc-doll-1142843": "2026-10-06",
+    "gsc-doll-1142844": "2026-10-06",
+    "gsc-doll-1142500": "2026-10-06",
+    "gsc-doll-1142501": "2026-10-06",
+    "gsc-doll-1140621": "2026-10-06",
+    "gsc-doll-1140622": "2026-10-06",
+    "gsc-doll-1141536": "2026-10-06",
+    "gsc-doll-1141537": "2026-10-06",
+    "gsc-doll-1141744": "2026-10-06",
+    "gsc-doll-9723": "2026-10-06",
+    "gsc-doll-9725": "2026-10-06",
+    "gsc-doll-1140127": "2026-10-06",
+    "gsc-doll-1140128": "2026-10-06",
+    "gsc-doll-1140129": "2026-10-06",
+    "gsc-doll-1140130": "2026-10-06",
+    "gsc-doll-1143950": "2026-10-06",
+    "gsc-doll-1142290": "2026-10-06",
+    "gsc-doll-1142291": "2026-10-06",
+    "gsc-harmonia-60764": "2026-10-06",
+    "gsc-harmonia-60765": "2026-10-06",
+    "gsc-harmonia-1136213": "2026-10-06",
+    "gsc-harmonia-55924": "2026-10-06",
+    "gsc-harmonia-55925": "2026-10-06",
+    "gsc-harmonia-60130": "2026-10-06",
+    "gsc-harmonia-45955": "2026-10-06",
+    "gsc-harmonia-54164": "2026-10-06",
+    "gsc-harmonia-36197": "2026-10-06",
+    "gsc-harmonia-36198": "2026-10-06",
+    "gsc-harmonia-12310": "2026-10-06",
+    "gsc-harmonia-12385": "2026-10-06",
+    "gsc-harmonia-12383": "2026-10-06",
+    "gsc-harmonia-12085": "2026-10-06",
+    "gsc-harmonia-12086": "2026-10-06",
+    "gsc-harmonia-11731": "2026-10-06",
+    "gsc-harmonia-11732": "2026-10-06",
+    "gsc-harmonia-11646": "2026-10-06",
+    "gsc-harmonia-11648": "2026-10-06",
+    "gsc-harmonia-11649": "2026-10-06",
+    "gsc-harmonia-11338": "2026-10-06",
+    "gsc-harmonia-11307": "2026-10-06",
+    "gsc-harmonia-10492": "2026-10-06",
+    "gsc-harmonia-10493": "2026-10-06",
+    "gsc-figma-8648": "2026-10-06",
+    "gsc-figma-45954": "2026-10-06",
+    "gsc-figma-1145974": "2026-10-06",
+    "gsc-figma-2857": "2026-10-06",
+    "gsc-figma-1137608": "2026-10-06",
+    "gsc-figma-1146142": "2026-10-06",
+    "gsc-figma-1146353": "2026-10-06",
+    "gsc-figma-1137998": "2026-10-06",
+    "gsc-figma-1137999": "2026-10-06",
+    "gsc-figma-1137995": "2026-10-06",
+    "gsc-figma-1145947": "2026-10-06",
+    "gsc-figma-1143910": "2026-10-06",
+    "gsc-figma-12485": "2026-10-06",
+    "gsc-figma-1137486": "2026-10-06",
+    "gsc-figma-1142705": "2026-10-06",
+    "gsc-figma-1146176": "2026-10-06",
+    "gsc-figma-1146175": "2026-10-06",
+    "gsc-figma-3509": "2026-10-06",
+    "gsc-figma-60700": "2026-10-06",
+    "gsc-figma-1137492": "2026-10-06",
+    "gsc-figma-1141915": "2026-10-06",
+    "gsc-figma-1144554": "2026-10-06",
+    "gsc-figma-1143909": "2026-10-06",
+    "gsc-figma-6055": "2026-10-06",
+    "gsc-figma-1142700": "2026-10-06",
+    "gsc-figma-1144552": "2026-10-06",
+    "gsc-figma-1137994": "2026-10-06",
+    "gsc-figma-1142692": "2026-10-06",
+    "gsc-figma-5038": "2026-10-06",
+    "gsc-figma-1142704": "2026-10-06",
+    "gsc-figma-1137488": "2026-10-06",
+    "gsc-figma-60342": "2026-10-06",
+    "gsc-figma-1142693": "2026-10-06",
+    "gsc-figma-1137997": "2026-10-06",
+    "gsc-figma-55941": "2026-10-06",
+    "gsc-figma-4722": "2026-10-06",
+    "gsc-figma-1144248": "2026-10-06",
+    "gsc-figma-1142689": "2026-10-06",
+    "gsc-pop-1141520": "2026-10-06",
+    "gsc-pop-1137445": "2026-10-06",
+    "gsc-pop-1141247": "2026-10-06",
+    "gsc-pop-1141248": "2026-10-06",
+    "gsc-pop-1144430": "2026-10-06",
+    "gsc-pop-1144464": "2026-10-06",
+    "gsc-pop-1144852": "2026-10-06",
+    "gsc-pop-1144959": "2026-10-06",
+    "gsc-pop-1136847": "2026-10-06",
+    "gsc-pop-1141572": "2026-10-06",
+    "gsc-pop-1137607": "2026-10-06",
+    "gsc-pop-1145852": "2026-10-06",
+    "gsc-pop-55958": "2026-10-06",
+    "gsc-pop-1139935": "2026-10-06",
+    "gsc-pop-1136848": "2026-10-06",
+    "gsc-pop-1139391": "2026-10-06",
+    "gsc-pop-1139433": "2026-10-06",
+    "gsc-pop-1136656": "2026-10-06",
+    "gsc-pop-1144886": "2026-10-06",
+    "gsc-pop-61723": "2026-10-06",
+    "gsc-pop-1144885": "2026-10-06",
+    "gsc-pop-1143802": "2026-10-06",
+    "gsc-pop-1137698": "2026-10-06",
+    "gsc-pop-1145188": "2026-10-06",
+    "gsc-pop-1143892": "2026-10-06",
+    "gsc-pop-1142460": "2026-10-06",
+    "gsc-pop-1142459": "2026-10-06",
+    "gsc-pop-1142458": "2026-10-06",
+    "gsc-pop-1137013": "2026-10-06",
+    "gsc-pop-1142837": "2026-10-06",
+    "gsc-chito-1138464": "2026-10-06",
+    "gsc-chito-59941": "2026-10-06",
+    "gsc-chito-12146": "2026-10-06",
+    "gsc-chito-10892": "2026-10-06",
+    "gsc-chito-10241": "2026-10-06",
+    "gsc-chito-9766": "2026-10-06",
+    "gsc-chito-6300": "2026-10-06",
+    "gsc-chito-32646": "2026-10-06",
+    "gsc-chito-5770": "2026-10-06",
+    "gsc-chito-7116": "2026-10-06",
+    "gsc-plamatea-1139093": "2026-10-06",
+    "gsc-plamatea-1139114": "2026-10-06",
+    "gsc-plamatea-1145409": "2026-10-06",
+    "gsc-plamatea-1138610": "2026-10-06",
+    "gsc-plamatea-1137954": "2026-10-06",
+    "gsc-plamatea-1142817": "2026-10-06",
+    "gsc-plamatea-1142140": "2026-10-06",
+    "gsc-plamatea-1136972": "2026-10-06",
+    "gsc-plamatea-1145848": "2026-10-06",
+    "gsc-plamatea-1138558": "2026-10-06",
+    "gsc-plamatea-1144549": "2026-10-06",
+    "gsc-plamatea-1144550": "2026-10-06",
+    "gsc-plamatea-1137892": "2026-10-06",
+    "gsc-plamatea-1137327": "2026-10-06",
+    "gsc-plamatea-1141570": "2026-10-06",
+    "gsc-plamatea-1136218": "2026-10-06",
+    "gsc-plamatea-1138002": "2026-10-06",
+    "gsc-plamatea-1141879": "2026-10-06",
+    "gsc-plamatea-36286": "2026-10-06",
+    "gsc-plamatea-60249": "2026-10-06",
+    "gsc-plamatea-1137794": "2026-10-06",
+    "gsc-plamatea-34684": "2026-10-06",
+    "gsc-plamatea-57238": "2026-10-06",
+    "mfield-sfbt-1": "2026-10-06",
+    "mfield-sfbt-3": "2026-10-06",
+    "mfield-sfbt-4": "2026-10-06",
+    "petworks-pw-10001": "2026-10-06",
+    "petworks-pw-10050": "2026-10-06",
+    "petworks-pw-10144": "2026-10-06",
+    "petworks-pw-10149": "2026-10-06",
+    "petworks-pw-10152": "2026-10-06",
+    "petworks-pw-10154": "2026-10-06",
+    "petworks-pw-10157": "2026-10-06",
+    "petworks-pw-10159": "2026-10-06",
+    "petworks-pw-10228": "2026-10-06",
+    "petworks-pw-10230": "2026-10-06",
+    "petworks-pw-10356": "2026-10-06",
+    "petworks-pw-10367": "2026-10-06",
+    "petworks-pw-10372": "2026-10-06",
+    "petworks-pw-10441": "2026-10-06",
+    "petworks-pw-10443": "2026-10-06",
+    "petworks-pw-10445": "2026-10-06",
+    "petworks-pw-10535": "2026-10-06",
+    "petworks-pw-10537": "2026-10-06",
+    "petworks-pw-10742": "2026-10-06",
+    "petworks-pw-10744": "2026-10-06",
+    "petworks-pw-10747": "2026-10-06",
+    "petworks-pw-10767": "2026-10-06",
+    "petworks-pw-10769": "2026-10-06",
+    "petworks-pw-10771": "2026-10-06",
+    "petworks-pw-10901": "2026-10-06",
+    "petworks-pw-10903": "2026-10-06",
+    "petworks-pw-10905": "2026-10-06",
+    "petworks-pw-10907": "2026-10-06",
+    "petworks-pw-10909": "2026-10-06",
+    "petworks-pw-10985": "2026-10-06",
+    "petworks-pw-11107": "2026-10-06",
+    "petworks-pw-11117": "2026-10-06",
+    "petworks-pw-4434": "2026-10-06",
+    "petworks-pw-4445": "2026-10-06",
+    "petworks-pw-6576": "2026-10-06",
+    "petworks-pw-6664": "2026-10-06",
+    "petworks-pw-6770": "2026-10-06",
+    "petworks-pw-6910": "2026-10-06",
+    "petworks-pw-7012": "2026-10-06",
+    "petworks-pw-7124": "2026-10-06",
+    "petworks-pw-7127": "2026-10-06",
+    "petworks-pw-7428": "2026-10-06",
+    "petworks-pw-7555": "2026-10-06",
+    "petworks-pw-7575": "2026-10-06",
+    "petworks-pw-7581": "2026-10-06",
+    "petworks-pw-7584": "2026-10-06",
+    "petworks-pw-7761": "2026-10-06",
+    "petworks-pw-7806": "2026-10-06",
+    "petworks-pw-7903": "2026-10-06",
+    "petworks-pw-7906": "2026-10-06",
+    "petworks-pw-7908": "2026-10-06",
+    "petworks-pw-7967": "2026-10-06",
+    "petworks-pw-8155": "2026-10-06",
+    "petworks-pw-8157": "2026-10-06",
+    "petworks-pw-8301": "2026-10-06",
+    "petworks-pw-8303": "2026-10-06",
+    "petworks-pw-8305": "2026-10-06",
+    "petworks-pw-8307": "2026-10-06",
+    "petworks-pw-8309": "2026-10-06",
+    "petworks-pw-8468": "2026-10-06",
+    "petworks-pw-8470": "2026-10-06",
+    "petworks-pw-8473": "2026-10-06",
+    "petworks-pw-8475": "2026-10-06",
+    "petworks-pw-8521": "2026-10-06",
+    "petworks-pw-8617": "2026-10-06",
+    "petworks-pw-8700": "2026-10-06",
+    "petworks-pw-8702": "2026-10-06",
+    "petworks-pw-8854": "2026-10-06",
+    "petworks-pw-8858": "2026-10-06",
+    "petworks-pw-8860": "2026-10-06",
+    "petworks-pw-9012": "2026-10-06",
+    "petworks-pw-9015": "2026-10-06",
+    "petworks-pw-9017": "2026-10-06",
+    "petworks-pw-9130": "2026-10-06",
+    "petworks-pw-9132": "2026-10-06",
+    "petworks-pw-9281": "2026-10-06",
+    "petworks-pw-9294": "2026-10-06",
+    "petworks-pw-9297": "2026-10-06",
+    "petworks-pw-9328": "2026-10-06",
+    "petworks-pw-9334": "2026-10-06",
+    "petworks-pw-9354": "2026-10-06",
+    "petworks-pw-9381": "2026-10-06",
+    "petworks-pw-9419": "2026-10-06",
+    "petworks-pw-9511": "2026-10-06",
+    "petworks-pw-9522": "2026-10-06",
+    "petworks-pw-9547": "2026-10-06",
+    "petworks-pw-9550": "2026-10-06",
+    "petworks-pw-9620": "2026-10-06",
+    "petworks-pw-9641": "2026-10-06",
+    "petworks-pw-9663": "2026-10-06",
+    "petworks-pw-9665": "2026-10-06",
+    "petworks-pw-9733": "2026-10-06",
+    "petworks-pw-9920": "2026-10-06",
+    "petworks-pw-9948": "2026-10-06",
+    "petworks-pw-9950": "2026-10-06",
+    "petworks-pw-9992": "2026-10-06",
+    "petworks-pw-9999": "2026-10-06",
+    "azone-aod524-rsg": "2026-10-06",
+    "azone-aod524-rsb": "2026-10-06",
+    "azone-aod530-ycn": "2026-10-06",
+    "azone-aod530-yco": "2026-10-06",
+    "azone-aod516-sbb": "2026-10-06",
+    "azone-aod516-sbw": "2026-10-06",
+    "azone-aod518-fmb": "2026-10-06",
+    "azone-aod518-fms": "2026-10-06",
+    "azone-aod528-aca": "2026-10-06",
+    "azone-aod528-ach": "2026-10-06",
+    "azone-aod524-gnr": "2026-10-06",
+    "azone-aod513-gmr": "2026-10-06",
+    "azone-aod515-ktp": "2026-10-06",
+    "azone-aod515-kth": "2026-10-06",
+    "azone-aod516-smw": "2026-10-06",
+    "azone-aod516-smp": "2026-10-06",
+    "kaiyodo-nr114": "2026-10-06",
+    "kaiyodo-nr115": "2026-10-06",
+    "kaiyodo-nr133": "2026-10-06",
+    "kaiyodo-nr134": "2026-10-06",
+    "kaiyodo-nr140": "2026-10-06",
+    "kaiyodo-nr149": "2026-10-06",
+    "kaiyodo-nr150": "2026-10-06",
+    "kaiyodo-nr153": "2026-10-06",
+    "kaiyodo-nr154": "2026-10-06",
+    "volks-body-mdd2": "2026-10-06",
+    "volks-body-mdd-mochi2": "2026-10-06",
+    "volks-body-ddp-f3": "2026-10-06",
+    "volks-body-dds2": "2026-10-06",
+    "volks-body-dd2": "2026-10-06",
+    "volks-body-dddy-f3": "2026-10-06",
+    "volks-sd-maki": "2026-10-06",
+    "volks-standard-ena": "2026-10-06",
+    "volks-standard-honoka": "2026-10-06",
+    "volks-standard-coco": "2026-10-06",
+    "volks-standard-saki": "2026-10-06",
+    "volks-standard-chiyo": "2026-10-06",
+    "volks-sakura-miku2": "2026-10-06",
+    "volks-temari": "2026-10-06",
+    "volks-himari": "2026-10-06",
+    "volks-frieren2": "2026-10-06",
+    "volks-fern": "2026-10-06",
+    "volks-aqua": "2026-10-06",
+    "volks-miku-nt": "2026-10-06",
+    "bandai-13239": "2026-10-06",
+    "bandai-13464": "2026-10-06",
+    "bandai-13465": "2026-10-06",
+    "bandai-13805": "2026-10-06",
+    "bandai-14279": "2026-10-06",
+    "bandai-14280": "2026-10-06",
+    "bandai-14385": "2026-10-06",
+    "bandai-14629": "2026-10-06",
+    "bandai-14630": "2026-10-06",
+    "bandai-15088": "2026-10-06",
+    "bandai-15089": "2026-10-06",
+    "bandai-15790": "2026-10-06",
+    "bandai-15791": "2026-10-06",
+    "bandai-bodykun": "2026-10-06",
+    "tinyfox-2024103002": "2026-10-06",
+    "tinyfox-2024091101": "2026-10-06",
+    "tinyfox-2024081901": "2026-10-06",
+    "tinyfox-2024072401": "2026-10-06",
+    "sekiguchi-264": "2026-10-06",
+    "sekiguchi-265": "2026-10-06",
+    "sekiguchi-266": "2026-10-06",
+    "sekiguchi-267": "2026-10-06",
+    "sekiguchi-268": "2026-10-06",
+    "sekiguchi-269": "2026-10-06",
+    "sekiguchi-270": "2026-10-06",
+    "sekiguchi-271": "2026-10-06",
+    "sekiguchi-272": "2026-10-06",
+    "sekiguchi-273": "2026-10-06",
+    "sekiguchi-274": "2026-10-06",
+    "sekiguchi-275": "2026-10-06",
+    "medicos-jotaro-part4-second": "2026-10-06"
   }
 };
