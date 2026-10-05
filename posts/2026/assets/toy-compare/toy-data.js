@@ -46507,6 +46507,5001 @@ window.TOY_COMPARE_DATA = {
         }
       ],
       "event": null
+    },
+    {
+      "id": "literature-msv-01",
+      "name": "MSV MS-06R 高机动型扎古II（1:144，1983-04）",
+      "brand": "BANDAI SPIRITS",
+      "original": "MS-06R ZAKU II",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "MSV历史套件；文献记载1983-04",
+      "icon": "kit",
+      "scale": "1:144",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
+          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
+          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "ガンプラ",
+        "GUNPLA",
+        "Mobile Suit Variations",
+        "高达",
+        "MS-06R",
+        "ZAKU II",
+        "高机动型扎古II"
+      ]
+    },
+    {
+      "id": "literature-msv-02",
+      "name": "MSV MS-06K 扎古加农（1:144，1983-04）",
+      "brand": "BANDAI SPIRITS",
+      "original": "MS-06K ZAKUCANNON",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "MSV历史套件；文献记载1983-04",
+      "icon": "kit",
+      "scale": "1:144",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
+          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
+          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "ガンプラ",
+        "GUNPLA",
+        "Mobile Suit Variations",
+        "高达",
+        "MS-06K",
+        "ZAKUCANNON",
+        "扎古加农"
+      ]
+    },
+    {
+      "id": "literature-msv-03",
+      "name": "MSV YMS-09 原型大魔（1:144，1983-04）",
+      "brand": "BANDAI SPIRITS",
+      "original": "YMS-09 PROTOTYPE DOM",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "MSV历史套件；文献记载1983-04",
+      "icon": "kit",
+      "scale": "1:144",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
+          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
+          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "ガンプラ",
+        "GUNPLA",
+        "Mobile Suit Variations",
+        "高达",
+        "YMS-09",
+        "PROTOTYPE DOM",
+        "原型大魔"
+      ]
+    },
+    {
+      "id": "literature-msv-04",
+      "name": "MSV MS-06D 沙漠型扎古（1:144，1983-05）",
+      "brand": "BANDAI SPIRITS",
+      "original": "MS-06D ZAKU DESERT TYPE",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "MSV历史套件；文献记载1983-05",
+      "icon": "kit",
+      "scale": "1:144",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
+          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
+          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "ガンプラ",
+        "GUNPLA",
+        "Mobile Suit Variations",
+        "高达",
+        "MS-06D",
+        "ZAKU DESERT TYPE",
+        "沙漠型扎古"
+      ]
+    },
+    {
+      "id": "literature-msv-05",
+      "name": "MSV RGC-80 吉姆加农（1:144，1983-05）",
+      "brand": "BANDAI SPIRITS",
+      "original": "RGC-80 GM CANNON",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "MSV历史套件；文献记载1983-05",
+      "icon": "kit",
+      "scale": "1:144",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
+          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
+          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "ガンプラ",
+        "GUNPLA",
+        "Mobile Suit Variations",
+        "高达",
+        "RGC-80",
+        "GM CANNON",
+        "吉姆加农"
+      ]
+    },
+    {
+      "id": "literature-msv-06",
+      "name": "MSV MS-06M 水中型扎古（1:144，1983-06）",
+      "brand": "BANDAI SPIRITS",
+      "original": "MS-06M ZAKU MARINE TYPE",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "MSV历史套件；文献记载1983-06",
+      "icon": "kit",
+      "scale": "1:144",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
+          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
+          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "ガンプラ",
+        "GUNPLA",
+        "Mobile Suit Variations",
+        "高达",
+        "MS-06M",
+        "ZAKU MARINE TYPE",
+        "水中型扎古"
+      ]
+    },
+    {
+      "id": "literature-msv-07",
+      "name": "MSV MS-14C 勇士加农（1:144，1983-06）",
+      "brand": "BANDAI SPIRITS",
+      "original": "MS-14C GELGOOG CANNON",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "MSV历史套件；文献记载1983-06",
+      "icon": "kit",
+      "scale": "1:144",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
+          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
+          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "ガンプラ",
+        "GUNPLA",
+        "Mobile Suit Variations",
+        "高达",
+        "MS-14C",
+        "GELGOOG CANNON",
+        "勇士加农"
+      ]
+    },
+    {
+      "id": "literature-msv-08",
+      "name": "MSV RX-78-1 原型高达（1:144，1983-06）",
+      "brand": "BANDAI SPIRITS",
+      "original": "RX-78-1 PROTOTYPE GUNDAM",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "MSV历史套件；文献记载1983-06",
+      "icon": "kit",
+      "scale": "1:144",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
+          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
+          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "ガンプラ",
+        "GUNPLA",
+        "Mobile Suit Variations",
+        "高达",
+        "RX-78-1",
+        "PROTOTYPE GUNDAM",
+        "原型高达"
+      ]
+    },
+    {
+      "id": "literature-msv-09",
+      "name": "MSV MS-07H 老虎飞行试验型（1:144，1983-07）",
+      "brand": "BANDAI SPIRITS",
+      "original": "MS-07H GOUF FLYING TEST TYPE",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "MSV历史套件；文献记载1983-07",
+      "icon": "kit",
+      "scale": "1:144",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
+          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
+          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "ガンプラ",
+        "GUNPLA",
+        "Mobile Suit Variations",
+        "高达",
+        "MS-07H",
+        "GOUF FLYING TEST TYPE",
+        "老虎飞行试验型"
+      ]
+    },
+    {
+      "id": "literature-msv-10",
+      "name": "MSV FA-78-1 全装甲高达（1:144，1983-07）",
+      "brand": "BANDAI SPIRITS",
+      "original": "FA-78-1 GUNDAM FULLARMOR TYPE",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "MSV历史套件；文献记载1983-07",
+      "icon": "kit",
+      "scale": "1:144",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
+          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
+          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "ガンプラ",
+        "GUNPLA",
+        "Mobile Suit Variations",
+        "高达",
+        "FA-78-1",
+        "GUNDAM FULLARMOR TYPE",
+        "全装甲高达"
+      ]
+    },
+    {
+      "id": "literature-msv-11",
+      "name": "MSV MS-06E 扎古强行侦察型（1:144，1983-08）",
+      "brand": "BANDAI SPIRITS",
+      "original": "MS-06E ZAKU RECON",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "MSV历史套件；文献记载1983-08",
+      "icon": "kit",
+      "scale": "1:144",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
+          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
+          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "ガンプラ",
+        "GUNPLA",
+        "Mobile Suit Variations",
+        "高达",
+        "MS-06E",
+        "ZAKU RECON",
+        "扎古强行侦察型"
+      ]
+    },
+    {
+      "id": "literature-msv-12",
+      "name": "MSV MS-06V 扎古坦克（1:144，1983-09）",
+      "brand": "BANDAI SPIRITS",
+      "original": "MS-06V ZAKU TANK",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "MSV历史套件；文献记载1983-09",
+      "icon": "kit",
+      "scale": "1:144",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
+          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
+          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "ガンプラ",
+        "GUNPLA",
+        "Mobile Suit Variations",
+        "高达",
+        "MS-06V",
+        "ZAKU TANK",
+        "扎古坦克"
+      ]
+    },
+    {
+      "id": "literature-msv-13",
+      "name": "MSV MS-14C 勇士加农（1:60，1983-09）",
+      "brand": "BANDAI SPIRITS",
+      "original": "MS-14C GELGOOG CANNON",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "MSV历史套件；文献记载1983-09",
+      "icon": "kit",
+      "scale": "1:60",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
+          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
+          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "ガンプラ",
+        "GUNPLA",
+        "Mobile Suit Variations",
+        "高达",
+        "MS-14C",
+        "GELGOOG CANNON",
+        "勇士加农"
+      ]
+    },
+    {
+      "id": "literature-msv-14",
+      "name": "MSV MS-06R 松永真专用高机动型扎古II（1:100，1983-10）",
+      "brand": "BANDAI SPIRITS",
+      "original": "MS-06R SHIN MATSUNAGA’S ZAKU II",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "MSV历史套件；文献记载1983-10",
+      "icon": "kit",
+      "scale": "1:100",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
+          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
+          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "ガンプラ",
+        "GUNPLA",
+        "Mobile Suit Variations",
+        "高达",
+        "MS-06R",
+        "SHIN MATSUNAGA’S ZAKU II",
+        "松永真专用高机动型扎古II"
+      ]
+    },
+    {
+      "id": "literature-msv-15",
+      "name": "MSV YMS-09 大魔热带试验型（1:144，1983-10）",
+      "brand": "BANDAI SPIRITS",
+      "original": "YMS-09 DOM TROPICAL TEST TYPE",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "MSV历史套件；文献记载1983-10",
+      "icon": "kit",
+      "scale": "1:144",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
+          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
+          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "ガンプラ",
+        "GUNPLA",
+        "Mobile Suit Variations",
+        "高达",
+        "YMS-09",
+        "DOM TROPICAL TEST TYPE",
+        "大魔热带试验型"
+      ]
+    },
+    {
+      "id": "literature-msv-16",
+      "name": "MSV YMS-09 大魔热带试验型（1:100，1983-10）",
+      "brand": "BANDAI SPIRITS",
+      "original": "YMS-09 DOM TROPICAL TEST TYPE",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "MSV历史套件；文献记载1983-10",
+      "icon": "kit",
+      "scale": "1:100",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
+          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
+          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "ガンプラ",
+        "GUNPLA",
+        "Mobile Suit Variations",
+        "高达",
+        "YMS-09",
+        "DOM TROPICAL TEST TYPE",
+        "大魔热带试验型"
+      ]
+    },
+    {
+      "id": "literature-msv-17",
+      "name": "MSV MS-06K 扎古加农（1:100，1983-10）",
+      "brand": "BANDAI SPIRITS",
+      "original": "MS-06K ZAKUCANNON",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "MSV历史套件；文献记载1983-10",
+      "icon": "kit",
+      "scale": "1:100",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
+          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
+          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "ガンプラ",
+        "GUNPLA",
+        "Mobile Suit Variations",
+        "高达",
+        "MS-06K",
+        "ZAKUCANNON",
+        "扎古加农"
+      ]
+    },
+    {
+      "id": "literature-msv-18",
+      "name": "MSV MS-06R 黑色三连星高机动型扎古II（1:60，1983-10）",
+      "brand": "BANDAI SPIRITS",
+      "original": "MS-06R ZAKU II Black Tri-Stars use",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "MSV历史套件；文献记载1983-10",
+      "icon": "kit",
+      "scale": "1:60",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
+          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
+          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "ガンプラ",
+        "GUNPLA",
+        "Mobile Suit Variations",
+        "高达",
+        "MS-06R",
+        "ZAKU II Black Tri-Stars use",
+        "黑色三连星高机动型扎古II"
+      ]
+    },
+    {
+      "id": "literature-msv-19",
+      "name": "MSV FA-78-1 全装甲高达（1:60，1983-10）",
+      "brand": "BANDAI SPIRITS",
+      "original": "FA-78-1 GUNDAM FULLARMOR TYPE",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "MSV历史套件；文献记载1983-10",
+      "icon": "kit",
+      "scale": "1:60",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
+          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
+          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "ガンプラ",
+        "GUNPLA",
+        "Mobile Suit Variations",
+        "高达",
+        "FA-78-1",
+        "GUNDAM FULLARMOR TYPE",
+        "全装甲高达"
+      ]
+    },
+    {
+      "id": "literature-msv-20",
+      "name": "MSV YMS-09 原型大魔（1:100，1983-11）",
+      "brand": "BANDAI SPIRITS",
+      "original": "YMS-09 PROTOTYPE DOM",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "MSV历史套件；文献记载1983-11",
+      "icon": "kit",
+      "scale": "1:100",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
+          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
+          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "ガンプラ",
+        "GUNPLA",
+        "Mobile Suit Variations",
+        "高达",
+        "YMS-09",
+        "PROTOTYPE DOM",
+        "原型大魔"
+      ]
+    },
+    {
+      "id": "literature-msv-21",
+      "name": "MSV MS-06R-2 强尼莱登专用高机动型扎古II（1:60，1983-12）",
+      "brand": "BANDAI SPIRITS",
+      "original": "MS-06R-2 JOHNNY RIDDEN’S ZAKU II",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "MSV历史套件；文献记载1983-12",
+      "icon": "kit",
+      "scale": "1:60",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
+          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
+          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "ガンプラ",
+        "GUNPLA",
+        "Mobile Suit Variations",
+        "高达",
+        "MS-06R-2",
+        "JOHNNY RIDDEN’S ZAKU II",
+        "强尼莱登专用高机动型扎古II"
+      ]
+    },
+    {
+      "id": "literature-msv-22",
+      "name": "MSV RGM-79 吉姆狙击特装型（1:144，1983-12）",
+      "brand": "BANDAI SPIRITS",
+      "original": "RGM-79 GM SNIPER CUSTOM",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "MSV历史套件；文献记载1983-12",
+      "icon": "kit",
+      "scale": "1:144",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
+          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
+          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "ガンプラ",
+        "GUNPLA",
+        "Mobile Suit Variations",
+        "高达",
+        "RGM-79",
+        "GM SNIPER CUSTOM",
+        "吉姆狙击特装型"
+      ]
+    },
+    {
+      "id": "literature-msv-23",
+      "name": "MSV MS-06R-2 强尼莱登专用高机动型扎古II（1:144，1984-02）",
+      "brand": "BANDAI SPIRITS",
+      "original": "MS-06R-2 JOHNNY RIDDEN’S ZAKU II",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "MSV历史套件；文献记载1984-02",
+      "icon": "kit",
+      "scale": "1:144",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
+          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
+          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "ガンプラ",
+        "GUNPLA",
+        "Mobile Suit Variations",
+        "高达",
+        "MS-06R-2",
+        "JOHNNY RIDDEN’S ZAKU II",
+        "强尼莱登专用高机动型扎古II"
+      ]
+    },
+    {
+      "id": "literature-msv-24",
+      "name": "MSV MS-06E3 扎古侦察型Flipper（1:144，1984-03）",
+      "brand": "BANDAI SPIRITS",
+      "original": "MS-06E3 ZAKU FLIPPER",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "MSV历史套件；文献记载1984-03",
+      "icon": "kit",
+      "scale": "1:144",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
+          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
+          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "ガンプラ",
+        "GUNPLA",
+        "Mobile Suit Variations",
+        "高达",
+        "MS-06E3",
+        "ZAKU FLIPPER",
+        "扎古侦察型Flipper"
+      ]
+    },
+    {
+      "id": "literature-msv-25",
+      "name": "MSV MS-06F 布雷型扎古（1:144，1984-04）",
+      "brand": "BANDAI SPIRITS",
+      "original": "MS-06F ZAKU MINE LAYER",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "MSV历史套件；文献记载1984-04",
+      "icon": "kit",
+      "scale": "1:144",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
+          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
+          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "ガンプラ",
+        "GUNPLA",
+        "Mobile Suit Variations",
+        "高达",
+        "MS-06F",
+        "ZAKU MINE LAYER",
+        "布雷型扎古"
+      ]
+    },
+    {
+      "id": "literature-msv-26",
+      "name": "MSV FA-78-1 全装甲高达（1:100，1984-04）",
+      "brand": "BANDAI SPIRITS",
+      "original": "FA-78-1 GUNDAM FULLARMOR TYPE",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "MSV历史套件；文献记载1984-04",
+      "icon": "kit",
+      "scale": "1:100",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
+          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
+          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "ガンプラ",
+        "GUNPLA",
+        "Mobile Suit Variations",
+        "高达",
+        "FA-78-1",
+        "GUNDAM FULLARMOR TYPE",
+        "全装甲高达"
+      ]
+    },
+    {
+      "id": "literature-msv-27",
+      "name": "MSV MSN-01 精神感应系统扎古（1:144，1984-05）",
+      "brand": "BANDAI SPIRITS",
+      "original": "MSN-01 PSYCHOMMU SYSTEM ZAKU",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "MSV历史套件；文献记载1984-05",
+      "icon": "kit",
+      "scale": "1:144",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
+          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
+          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "ガンプラ",
+        "GUNPLA",
+        "Mobile Suit Variations",
+        "高达",
+        "MSN-01",
+        "PSYCHOMMU SYSTEM ZAKU",
+        "精神感应系统扎古"
+      ]
+    },
+    {
+      "id": "literature-msv-28",
+      "name": "MSV RX-77-4 钢加农II（1:144，1984-05）",
+      "brand": "BANDAI SPIRITS",
+      "original": "RX-77-4 GUNCANNON-II",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "MSV历史套件；文献记载1984-05",
+      "icon": "kit",
+      "scale": "1:144",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
+          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
+          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "ガンプラ",
+        "GUNPLA",
+        "Mobile Suit Variations",
+        "高达",
+        "RX-77-4",
+        "GUNCANNON-II",
+        "钢加农II"
+      ]
+    },
+    {
+      "id": "literature-msv-29",
+      "name": "MSV MS-06Z 扎古精神感应系统试验型（1:144，1984-05）",
+      "brand": "BANDAI SPIRITS",
+      "original": "MS-06Z PSYCHOMMU SYSTEM ZAKU ZEONG TEST BASE",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "MSV历史套件；文献记载1984-05",
+      "icon": "kit",
+      "scale": "1:144",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
+          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
+          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "ガンプラ",
+        "GUNPLA",
+        "Mobile Suit Variations",
+        "高达",
+        "MS-06Z",
+        "PSYCHOMMU SYSTEM ZAKU ZEONG TEST BASE",
+        "扎古精神感应系统试验型"
+      ]
+    },
+    {
+      "id": "literature-msv-30",
+      "name": "MSV RX-78 完美高达（1:144，1984-06）",
+      "brand": "BANDAI SPIRITS",
+      "original": "RX-78 PERFECT GUNDAM",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "MSV历史套件；文献记载1984-06",
+      "icon": "kit",
+      "scale": "1:144",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
+          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
+          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "ガンプラ",
+        "GUNPLA",
+        "Mobile Suit Variations",
+        "高达",
+        "RX-78",
+        "PERFECT GUNDAM",
+        "完美高达"
+      ]
+    },
+    {
+      "id": "literature-msv-31",
+      "name": "MSV MSN-02 完美吉翁号（1:250，1984-07）",
+      "brand": "BANDAI SPIRITS",
+      "original": "MSN-02 PSYCHOMMU SYSTEM PERFECT ZEONG",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "MSV历史套件；文献记载1984-07",
+      "icon": "kit",
+      "scale": "1:250",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
+          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
+          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "ガンプラ",
+        "GUNPLA",
+        "Mobile Suit Variations",
+        "高达",
+        "MSN-02",
+        "PSYCHOMMU SYSTEM PERFECT ZEONG",
+        "完美吉翁号"
+      ]
+    },
+    {
+      "id": "literature-msv-32",
+      "name": "MSV MS-14B 强尼莱登专用高机动型勇士（1:144，1984-09）",
+      "brand": "BANDAI SPIRITS",
+      "original": "MS-14B JOHNNY RIDDEN’S GELGOOG",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "MSV历史套件；文献记载1984-09",
+      "icon": "kit",
+      "scale": "1:144",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
+          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
+          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "ガンプラ",
+        "GUNPLA",
+        "Mobile Suit Variations",
+        "高达",
+        "MS-14B",
+        "JOHNNY RIDDEN’S GELGOOG",
+        "强尼莱登专用高机动型勇士"
+      ]
+    },
+    {
+      "id": "literature-msv-33",
+      "name": "MSV MS-06R-2 强尼莱登专用高机动型扎古II（1:100，1984-09）",
+      "brand": "BANDAI SPIRITS",
+      "original": "MS-06R-2 JOHNNY RIDDEN’S ZAKU II",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "MSV历史套件；文献记载1984-09",
+      "icon": "kit",
+      "scale": "1:100",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
+          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
+          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "ガンプラ",
+        "GUNPLA",
+        "Mobile Suit Variations",
+        "高达",
+        "MS-06R-2",
+        "JOHNNY RIDDEN’S ZAKU II",
+        "强尼莱登专用高机动型扎古II"
+      ]
+    },
+    {
+      "id": "literature-msv-34",
+      "name": "MSV RX-78 完美高达（1:100，1984-12）",
+      "brand": "BANDAI SPIRITS",
+      "original": "RX-78 PERFECT GUNDAM",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "MSV历史套件；文献记载1984-12",
+      "icon": "kit",
+      "scale": "1:100",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "Kinoshita（2024）表1收录的历史套件。表中名称和月份按文献记录；制造商当时为BANDAI。实际模型高度、塑料种类和具体关节结构未在该表列出。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546",
+          "title": "Kinoshita（2024）Gundam and the Japanese media mix",
+          "supports": "表1，印刷页157–158：套件名称、比例与记载发售月份；历史产品清单",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "ガンプラ",
+        "GUNPLA",
+        "Mobile Suit Variations",
+        "高达",
+        "RX-78",
+        "PERFECT GUNDAM",
+        "完美高达"
+      ]
+    },
+    {
+      "id": "literature-gundam1980",
+      "name": "1/144 RX-78-2 高达（1980）",
+      "brand": "BANDAI SPIRITS",
+      "original": "1/144 ガンダム",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "1980年7月版",
+      "icon": "kit",
+      "scale": "1:144",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "官方说明书库记载1980年7月发售。MG、PG与Beargguy为文献讨论的系列；此条按所列具体版本建档。套装内各部件不合成为单一人形高度。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://manual.bandai-hobby.net/menus/detail/1849",
+          "title": "1/144 ガンダム｜BANDAI取扱説明書",
+          "supports": "具体型号、比例、品番及发售时间；提供原版说明书",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "高达",
+        "GUNPLA",
+        "ガンプラ",
+        "1/144 ガンダム"
+      ]
+    },
+    {
+      "id": "literature-zaku1981",
+      "name": "1/144 量产型扎古（1981）",
+      "brand": "BANDAI SPIRITS",
+      "original": "1/144 量産型ザク",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "1981年1月版",
+      "icon": "kit",
+      "scale": "1:144",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "官方说明书库记载1981年1月发售。MG、PG与Beargguy为文献讨论的系列；此条按所列具体版本建档。套装内各部件不合成为单一人形高度。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://manual.bandai-hobby.net/menus/detail/1951",
+          "title": "1/144 量産型ザク｜BANDAI取扱説明書",
+          "supports": "具体型号、比例、品番及发售时间；提供原版说明书",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "扎古",
+        "Zaku",
+        "ザク",
+        "1/144 量産型ザク"
+      ]
+    },
+    {
+      "id": "literature-char-zaku1980",
+      "name": "1/144 夏亚专用扎古（1980）",
+      "brand": "BANDAI SPIRITS",
+      "original": "1/144 シャア専用ザク",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "1980年9月版",
+      "icon": "kit",
+      "scale": "1:144",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "官方说明书库记载1980年9月发售。MG、PG与Beargguy为文献讨论的系列；此条按所列具体版本建档。套装内各部件不合成为单一人形高度。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://manual.bandai-hobby.net/menus/detail/1915",
+          "title": "1/144 シャア専用ザク｜BANDAI取扱説明書",
+          "supports": "具体型号、比例、品番及发售时间；提供原版说明书",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "夏亚",
+        "Char",
+        "ザク",
+        "1/144 シャア専用ザク"
+      ]
+    },
+    {
+      "id": "literature-mg15",
+      "name": "MG RX-78-2 高达 Ver.1.5",
+      "brand": "BANDAI SPIRITS",
+      "original": "MG 1/100 RX-78-2 ガンダム ver1.5",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "2000年6月版",
+      "icon": "kit",
+      "scale": "1:100",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "官方说明书库记载2000年6月发售。MG、PG与Beargguy为文献讨论的系列；此条按所列具体版本建档。套装内各部件不合成为单一人形高度。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://manual.bandai-hobby.net/menus/detail/445",
+          "title": "MG 1/100 RX-78-2 ガンダム ver1.5｜BANDAI取扱説明書",
+          "supports": "具体型号、比例、品番及发售时间；提供原版说明书",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "MG",
+        "高达",
+        "MG 1/100 RX-78-2 ガンダム ver1.5"
+      ]
+    },
+    {
+      "id": "literature-mgka",
+      "name": "MG RX-78-2 高达 Ver.Ka",
+      "brand": "BANDAI SPIRITS",
+      "original": "MG 1/100 RX-78-2 ガンダム Ver.Ka",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "2002年12月版",
+      "icon": "kit",
+      "scale": "1:100",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "官方说明书库记载2002年12月发售。MG、PG与Beargguy为文献讨论的系列；此条按所列具体版本建档。套装内各部件不合成为单一人形高度。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://manual.bandai-hobby.net/menus/detail/816",
+          "title": "MG 1/100 RX-78-2 ガンダム Ver.Ka｜BANDAI取扱説明書",
+          "supports": "具体型号、比例、品番及发售时间；提供原版说明书",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "MG",
+        "高达",
+        "MG 1/100 RX-78-2 ガンダム Ver.Ka"
+      ]
+    },
+    {
+      "id": "literature-mg30",
+      "name": "MG RX-78-2 高达 Ver.3.0",
+      "brand": "BANDAI SPIRITS",
+      "original": "MG 1/100 RX-78-2 ガンダムVer.3.0",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "2013年8月10日版",
+      "icon": "kit",
+      "scale": "1:100",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "官方说明书库记载2013年8月10日发售。MG、PG与Beargguy为文献讨论的系列；此条按所列具体版本建档。套装内各部件不合成为单一人形高度。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://manual.bandai-hobby.net/menus/detail/611",
+          "title": "MG 1/100 RX-78-2 ガンダムVer.3.0｜BANDAI取扱説明書",
+          "supports": "具体型号、比例、品番及发售时间；提供原版说明书",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "MG",
+        "高达",
+        "MG 1/100 RX-78-2 ガンダムVer.3.0"
+      ]
+    },
+    {
+      "id": "literature-pg1998",
+      "name": "PG RX-78-2 高达（1998）",
+      "brand": "BANDAI SPIRITS",
+      "original": "PG 1/60 RX-78-2 ガンダム",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "1998年11月版",
+      "icon": "kit",
+      "scale": "1:60",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "官方说明书库记载1998年11月发售。MG、PG与Beargguy为文献讨论的系列；此条按所列具体版本建档。套装内各部件不合成为单一人形高度。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://manual.bandai-hobby.net/menus/detail/985",
+          "title": "PG 1/60 RX-78-2 ガンダム｜BANDAI取扱説明書",
+          "supports": "具体型号、比例、品番及发售时间；提供原版说明书",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "PG",
+        "高达",
+        "PG 1/60 RX-78-2 ガンダム"
+      ]
+    },
+    {
+      "id": "literature-beargguy3",
+      "name": "HGBF 熊霸III",
+      "brand": "BANDAI SPIRITS",
+      "original": "HGBF 1/144 ベアッガイIII",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "2013年12月1日版",
+      "icon": "kit",
+      "scale": "1:144",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "官方说明书库记载2013年12月1日发售。MG、PG与Beargguy为文献讨论的系列；此条按所列具体版本建档。套装内各部件不合成为单一人形高度。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://manual.bandai-hobby.net/menus/detail/10",
+          "title": "HGBF 1/144 ベアッガイIII｜BANDAI取扱説明書",
+          "supports": "具体型号、比例、品番及发售时间；提供原版说明书",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Beargguy",
+        "熊霸",
+        "熊霸三",
+        "HGBF 1/144 ベアッガイIII"
+      ]
+    },
+    {
+      "id": "literature-beargguyf",
+      "name": "HGBF 熊霸F（Family）",
+      "brand": "BANDAI SPIRITS",
+      "original": "HGBF 1/144 ベアッガイF(ファミリー)",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "2014年11月29日版",
+      "icon": "kit",
+      "scale": "1:144",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "官方说明书库记载2014年11月29日发售。MG、PG与Beargguy为文献讨论的系列；此条按所列具体版本建档。套装内各部件不合成为单一人形高度。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://manual.bandai-hobby.net/menus/detail/23",
+          "title": "HGBF 1/144 ベアッガイF(ファミリー)｜BANDAI取扱説明書",
+          "supports": "具体型号、比例、品番及发售时间；提供原版说明书",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Beargguy",
+        "熊霸",
+        "熊霸家族",
+        "HGBF 1/144 ベアッガイF(ファミリー)"
+      ]
+    },
+    {
+      "id": "literature-beargguyp",
+      "name": "HGBF 熊霸P（Pretty）",
+      "brand": "BANDAI SPIRITS",
+      "original": "HGBF 1/144 ベアッガイP(プリティ）",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "2016年9月10日版",
+      "icon": "kit",
+      "scale": "1:144",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "官方说明书库记载2016年9月10日发售。MG、PG与Beargguy为文献讨论的系列；此条按所列具体版本建档。套装内各部件不合成为单一人形高度。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://manual.bandai-hobby.net/menus/detail/747",
+          "title": "HGBF 1/144 ベアッガイP(プリティ）｜BANDAI取扱説明書",
+          "supports": "具体型号、比例、品番及发售时间；提供原版说明书",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Beargguy",
+        "熊霸",
+        "HGBF 1/144 ベアッガイP(プリティ）"
+      ]
+    },
+    {
+      "id": "literature-beargguyohana",
+      "name": "HG 熊霸OHANA＆Alo Haro套装",
+      "brand": "BANDAI SPIRITS",
+      "original": "HG 1/144 ベアッガイオハナ & アロハロ セット",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "2024年2月10日版",
+      "icon": "kit",
+      "scale": "1:144",
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "官方说明书库记载2024年2月10日发售。MG、PG与Beargguy为文献讨论的系列；此条按所列具体版本建档。套装内各部件不合成为单一人形高度。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://manual.bandai-hobby.net/menus/detail/1354",
+          "title": "HG 1/144 ベアッガイオハナ & アロハロ セット｜BANDAI取扱説明書",
+          "supports": "具体型号、比例、品番及发售时间；提供原版说明书",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Beargguy",
+        "熊霸",
+        "Haro",
+        "哈罗",
+        "HG 1/144 ベアッガイオハナ & アロハロ セット"
+      ]
+    },
+    {
+      "id": "literature-super-action-jenny",
+      "name": "Super Action Jenny 素体（历史记录）",
+      "brand": "タカラ／タカラトミー",
+      "original": "スーパーアクションジェニー",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "2017年文献中的历史素体",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "服装另配"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "文献印刷页26介绍该可动素体用于自行制作角色玩偶。具体身体批次、材料和高度未单列。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://kusa.repo.nii.ac.jp/record/296/files/kk201722023030.pdf",
+          "title": "中川・山田（2017）美少女フィギュア・美少女ドールの差異と進路",
+          "supports": "印刷页25–28：历史产品、制作方、身体用途及开发原型",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "スーパーアクションジェニー",
+        "Jenny",
+        "ジェニー"
+      ]
+    },
+    {
+      "id": "literature-nakoruru1994",
+      "name": "娜可露露角色玩偶（1994）",
+      "brand": "新声社／タカラ",
+      "original": "サムライスピリッツ ナコルル",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "1994年历史角色玩偶",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "文献印刷页25记载由新声社发行、タカラ制作。布制服装、头发及可操作的人形构成；具体商品编号和尺寸未单列。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://kusa.repo.nii.ac.jp/record/296/files/kk201722023030.pdf",
+          "title": "中川・山田（2017）美少女フィギュア・美少女ドールの差異と進路",
+          "supports": "印刷页25–28：历史产品、制作方、身体用途及开发原型",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "サムライスピリッツ ナコルル"
+      ]
+    },
+    {
+      "id": "literature-rayearth1994",
+      "name": "《魔法骑士雷阿斯》角色玩偶（1994年文献记录）",
+      "brand": "SEGA",
+      "original": "魔法戦士レイアース キャラクタードール",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "文献记载1994年",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "文献印刷页25记载Sega角色玩偶，并说明头部原型由手办原型师制作。正文未区分具体角色与商品编号，暂按该历史产品记录，尺寸和材料留空。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://kusa.repo.nii.ac.jp/record/296/files/kk201722023030.pdf",
+          "title": "中川・山田（2017）美少女フィギュア・美少女ドールの差異と進路",
+          "supports": "印刷页25–28：历史产品、制作方、身体用途及开发原型",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "魔法戦士レイアース キャラクタードール"
+      ]
+    },
+    {
+      "id": "literature-dollfie1998",
+      "name": "Dollfie 早期素体（1998年记录）",
+      "brand": "VOLKS",
+      "original": "ドルフィー",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "1998年早期Dollfie素体",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "服装另配"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "文献印刷页26记载1998年推出的Dollfie素体；具体身体型号未单列。该历史记录与现有DD、SD具体型号分开保存。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://kusa.repo.nii.ac.jp/record/296/files/kk201722023030.pdf",
+          "title": "中川・山田（2017）美少女フィギュア・美少女ドールの差異と進路",
+          "supports": "印刷页25–28：历史产品、制作方、身体用途及开发原型",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "ドルフィー"
+      ]
+    },
+    {
+      "id": "literature-dollfie-honey",
+      "name": "Dollfie Honey（开发原型）",
+      "brand": "スピーシーズ／VOLKS",
+      "original": "Dollfie(R) ハニー",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "2017年文献中的共同开发原型",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "文献记载60cm级别",
+          "basis": "共同开发原型；未提供独立尺寸表"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "开发原型"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "文献印刷页28介绍スピーシーズ与VOLKS共同开发的60cm人形：下方单元内的伺服电机通过钢索牵引关节。该记录对应文献中的开发状态，未取得量产商品清单。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://kusa.repo.nii.ac.jp/record/296/files/kk201722023030.pdf",
+          "title": "中川・山田（2017）美少女フィギュア・美少女ドールの差異と進路",
+          "supports": "印刷页25–28：历史产品、制作方、身体用途及开发原型",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Dollfie(R) ハニー"
+      ]
+    },
+    {
+      "id": "literature-blythe-fruity",
+      "name": "Neo Blythe Fruity Kaleidoscope",
+      "brand": "Good Smile Company",
+      "original": "CWC Exclusive Neo Blythe Fruity Kaleidoscope",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "2026年 Fruity Kaleidoscope",
+      "icon": "outfit",
+      "scale": null,
+      "heightMm": 300,
+      "heightBasis": "官方约300mm；人形高度",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度约30cm",
+          "basis": "官方产品规格"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "植发",
+          "视线可调"
+        ],
+        "material": [
+          "ABS",
+          "PVC",
+          "其他材料未细分"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "现行Neo Blythe具体型号。官方列出Radiance Evolution脸型、四种眼色与服装配件；文献中的Blythe摄影样本未确认是本型号。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.goodsmile.com/en/product/1139583/Blythe+Fruity+Kaleidoscope",
+          "title": "Blythe Fruity Kaleidoscope｜Good Smile Company",
+          "supports": "本型号约300mm高度、ABS/PVC等材料、服装与眼睛规格",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Blythe",
+        "ブライス",
+        "布莱斯",
+        "大头娃娃"
+      ]
+    },
+    {
+      "id": "literature-licca-ld01",
+      "name": "Licca LD-01 ゆめみるリカちゃん Gift Set",
+      "brand": "タカラ／タカラトミー",
+      "original": "LD-01 ゆめみるリカちゃん ギフトセット",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "2025–2026官方目录所列LD-01",
+      "icon": "outfit",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "官方目录列出玩偶、裙装、梳子、衣架、包和鞋等。文献分析Licca样本的脸部曲线，未标出LD-01；此条提供可查的具体产品。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://licca.takaratomy.co.jp/catalog_pdf/202510.pdf",
+          "title": "リカちゃん公式商品カタログ 2025.10–2026.03",
+          "supports": "目录商品表中的LD-01名称与附属品；尺寸未列",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Licca",
+        "リカちゃん",
+        "莉卡",
+        "丽佳"
+      ]
+    },
+    {
+      "id": "literature-jenny2023",
+      "name": "#Licca #Jenny（2023）",
+      "brand": "タカラ／タカラトミー",
+      "original": "#Licca #ジェニー",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "2023年8月5日版",
+      "icon": "outfit",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "植发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "品牌将Jenny作为17岁的模特与#Licca朋友重新推出。新闻稿的27cm描述位于历史Jenny介绍中，本型号的独立全高留空。文献中的Jenny历史记录与此2023年版本分别保存。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.takaratomy.co.jp/product_release/pdf/p230531.pdf",
+          "title": "#ジェニー復活｜タカラトミー2023年5月31日新闻稿",
+          "supports": "2023年8月5日发售、角色设定、服装与复活企划；27cm为历史Jenny系列说明",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Jenny",
+        "ジェニー",
+        "珍妮",
+        "#Licca"
+      ]
+    },
+    {
+      "id": "literature-holiday-barbie2004",
+      "name": "Holiday Barbie 2004 — B5848",
+      "brand": "Mattel",
+      "original": "B5848 Holiday Barbie",
+      "country": "美国",
+      "origin": "来源未单列商品产地",
+      "version": "2004年 B5848",
+      "icon": "outfit",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "Mattel目录确认B5848为绿色丝绒礼服版本。Godwin（2018）讨论Holiday Barbie 2004，但其图片的具体SKU尚未确认；这里明确保留B5848版本编号。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://service.mattel.com/us/productPopup.aspx?prodno=B5848&siteid=27",
+          "title": "Holiday Barbie｜Mattel Product Support B5848",
+          "supports": "型号B5848、2004年、绿色丝绒礼服与陈列支架",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Barbie",
+        "芭比",
+        "Holiday Barbie"
+      ]
+    },
+    {
+      "id": "literature-ken-looks18",
+      "name": "Barbie Looks #18 Ken — HJW85",
+      "brand": "Mattel",
+      "original": "HJW85 Barbie Looks Ken Doll",
+      "country": "美国",
+      "origin": "来源未单列商品产地",
+      "version": "2023年 HJW85",
+      "icon": "outfit",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "18处可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "植发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "橙黄上衣、蓝色短裤与运动鞋版本，官方列出18处可动和Made to Move Buff Body。Ken在文献中作为系列与改造基础出现，本型号提供具体可动商品规格。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://creations.mattel.com/products/barbie-looks-18-ken-yellow-shirt-hjw85",
+          "title": "Barbie Looks Ken Doll｜Mattel Creations HJW85",
+          "supports": "2023年2月15日、Made to Move Buff Body、18处可动、Tate脸型与设计者",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Ken",
+        "肯",
+        "Barbie",
+        "芭比",
+        "Made to Move",
+        "Tate"
+      ],
+      "credits": [
+        {
+          "role": "设计",
+          "name": "Bill Greening"
+        }
+      ]
+    },
+    {
+      "id": "literature-gi-joe1964",
+      "name": "G.I. Joe 原始军人人形（1964年记录）",
+      "brand": "Hasbro",
+      "original": "G.I. Joe original military action figure",
+      "country": "美国",
+      "origin": "来源未单列商品产地",
+      "version": "1964年原始军事系列",
+      "icon": "outfit",
+      "scale": null,
+      "heightMm": 292.1,
+      "heightBasis": "博物馆记载11½英寸，换算292.1mm",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "博物馆记录11½英寸",
+          "basis": "原始军事系列；并非后来的小尺寸系列"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "21个活动部位"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "博物馆记录原始人形约11½英寸、21个活动部位，军服对应美军军种。具体军种与包装型号未单列；后来的8英寸、3¾英寸系列另有尺寸，不套用本条。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.toyhalloffame.org/toys/g-i-joe/",
+          "title": "G.I. Joe｜The Strong National Toy Hall of Fame",
+          "supports": "博物馆记录1964年系列、11½英寸人形和21个活动部位",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "GI Joe",
+        "G.I. Joe",
+        "特种部队"
+      ]
+    },
+    {
+      "id": "literature-poppy-pp158",
+      "name": "Poppy Parker Kicky — PP158",
+      "brand": "Integrity Toys",
+      "original": "Kicky Poppy Parker Doll PP158",
+      "country": "美国",
+      "origin": "来源未单列商品产地",
+      "version": "2019 Style Lab PP158",
+      "icon": "outfit",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "交付未说明"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "植发",
+          "服装另配"
+        ],
+        "material": [
+          "乙烯基树脂"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "官方列出肤色FR White、限量600体。Style Lab页面另列服装SKU；此条记录玩偶型号。系列页的12.5英寸未作为本型号独立全高。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.integritytoys.com/brands/convention/2019-2/style-lab/",
+          "title": "2019 Style Lab｜Integrity Toys",
+          "supports": "本型号SKU、名称、肤色与600体限量；服装单独列出",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        },
+        {
+          "url": "https://www.integritytoys.com/brands/poppy-parker/",
+          "title": "Poppy Parker｜Integrity Toys",
+          "supports": "系列为植发可动乙烯基时装人形；12.5英寸为系列介绍",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Poppy Parker",
+        "Integrity Toys",
+        "PP158"
+      ]
+    },
+    {
+      "id": "literature-poppy-pp159",
+      "name": "Poppy Parker Groovy — PP159",
+      "brand": "Integrity Toys",
+      "original": "Groovy Poppy Parker Doll PP159",
+      "country": "美国",
+      "origin": "来源未单列商品产地",
+      "version": "2019 Style Lab PP159",
+      "icon": "outfit",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "交付未说明"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "植发",
+          "服装另配"
+        ],
+        "material": [
+          "乙烯基树脂"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "官方列出肤色Japan、限量600体。Style Lab页面另列服装SKU；此条记录玩偶型号。系列页的12.5英寸未作为本型号独立全高。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.integritytoys.com/brands/convention/2019-2/style-lab/",
+          "title": "2019 Style Lab｜Integrity Toys",
+          "supports": "本型号SKU、名称、肤色与600体限量；服装单独列出",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        },
+        {
+          "url": "https://www.integritytoys.com/brands/poppy-parker/",
+          "title": "Poppy Parker｜Integrity Toys",
+          "supports": "系列为植发可动乙烯基时装人形；12.5英寸为系列介绍",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Poppy Parker",
+        "Integrity Toys",
+        "PP159"
+      ]
+    },
+    {
+      "id": "literature-poppy-pp160",
+      "name": "Poppy Parker Keen — PP160",
+      "brand": "Integrity Toys",
+      "original": "Keen Poppy Parker Doll PP160",
+      "country": "美国",
+      "origin": "来源未单列商品产地",
+      "version": "2019 Style Lab PP160",
+      "icon": "outfit",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "交付未说明"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "植发",
+          "服装另配"
+        ],
+        "material": [
+          "乙烯基树脂"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "官方列出肤色FR White、限量600体。Style Lab页面另列服装SKU；此条记录玩偶型号。系列页的12.5英寸未作为本型号独立全高。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.integritytoys.com/brands/convention/2019-2/style-lab/",
+          "title": "2019 Style Lab｜Integrity Toys",
+          "supports": "本型号SKU、名称、肤色与600体限量；服装单独列出",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        },
+        {
+          "url": "https://www.integritytoys.com/brands/poppy-parker/",
+          "title": "Poppy Parker｜Integrity Toys",
+          "supports": "系列为植发可动乙烯基时装人形；12.5英寸为系列介绍",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Poppy Parker",
+        "Integrity Toys",
+        "PP160"
+      ]
+    },
+    {
+      "id": "literature-poppy-pp161",
+      "name": "Poppy Parker Cool — PP161",
+      "brand": "Integrity Toys",
+      "original": "Cool Poppy Parker Doll PP161",
+      "country": "美国",
+      "origin": "来源未单列商品产地",
+      "version": "2019 Style Lab PP161",
+      "icon": "outfit",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "交付未说明"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "植发",
+          "服装另配"
+        ],
+        "material": [
+          "乙烯基树脂"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "官方列出肤色Japan、限量600体。Style Lab页面另列服装SKU；此条记录玩偶型号。系列页的12.5英寸未作为本型号独立全高。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.integritytoys.com/brands/convention/2019-2/style-lab/",
+          "title": "2019 Style Lab｜Integrity Toys",
+          "supports": "本型号SKU、名称、肤色与600体限量；服装单独列出",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        },
+        {
+          "url": "https://www.integritytoys.com/brands/poppy-parker/",
+          "title": "Poppy Parker｜Integrity Toys",
+          "supports": "系列为植发可动乙烯基时装人形；12.5英寸为系列介绍",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Poppy Parker",
+        "Integrity Toys",
+        "PP161"
+      ]
+    },
+    {
+      "id": "literature-poppy-pp162",
+      "name": "Poppy Parker Fab — PP162",
+      "brand": "Integrity Toys",
+      "original": "Fab Poppy Parker Doll PP162",
+      "country": "美国",
+      "origin": "来源未单列商品产地",
+      "version": "2019 Style Lab PP162",
+      "icon": "outfit",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "交付未说明"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "植发",
+          "服装另配"
+        ],
+        "material": [
+          "乙烯基树脂"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "官方列出肤色FR White、限量600体。Style Lab页面另列服装SKU；此条记录玩偶型号。系列页的12.5英寸未作为本型号独立全高。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.integritytoys.com/brands/convention/2019-2/style-lab/",
+          "title": "2019 Style Lab｜Integrity Toys",
+          "supports": "本型号SKU、名称、肤色与600体限量；服装单独列出",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        },
+        {
+          "url": "https://www.integritytoys.com/brands/poppy-parker/",
+          "title": "Poppy Parker｜Integrity Toys",
+          "supports": "系列为植发可动乙烯基时装人形；12.5英寸为系列介绍",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Poppy Parker",
+        "Integrity Toys",
+        "PP162"
+      ]
+    },
+    {
+      "id": "literature-poppy-pp163",
+      "name": "Poppy Parker Far Out — PP163",
+      "brand": "Integrity Toys",
+      "original": "Far Out Poppy Parker Doll PP163",
+      "country": "美国",
+      "origin": "来源未单列商品产地",
+      "version": "2019 Style Lab PP163",
+      "icon": "outfit",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "交付未说明"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "植发",
+          "服装另配"
+        ],
+        "material": [
+          "乙烯基树脂"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "官方列出肤色FR Black、限量600体。Style Lab页面另列服装SKU；此条记录玩偶型号。系列页的12.5英寸未作为本型号独立全高。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.integritytoys.com/brands/convention/2019-2/style-lab/",
+          "title": "2019 Style Lab｜Integrity Toys",
+          "supports": "本型号SKU、名称、肤色与600体限量；服装单独列出",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        },
+        {
+          "url": "https://www.integritytoys.com/brands/poppy-parker/",
+          "title": "Poppy Parker｜Integrity Toys",
+          "supports": "系列为植发可动乙烯基时装人形；12.5英寸为系列介绍",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Poppy Parker",
+        "Integrity Toys",
+        "PP163"
+      ]
+    },
+    {
+      "id": "literature-alice-yotsuki",
+      "name": "陽月《Alice in…》（2004）",
+      "brand": "陽月",
+      "original": "Alice in…",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "2004年创作人形",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "交付未说明"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶",
+          "艺术人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "市川純（2025）刊载并分析的创作人形作品。正文与图版提供作品身份；未取得该作品独立的尺寸、材料及交付规格表。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://nittaidai.repo.nii.ac.jp/record/2000912/files/BNSSU-54-1071-1083.pdf",
+          "title": "市川純（2025）日本の球体関節人形におけるアリス表象",
+          "supports": "图1–4与正文：作品名称、年份、作者及爱丽丝表象的分析",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Alice",
+        "爱丽丝",
+        "アリス",
+        "陽月",
+        "Alice in…"
+      ],
+      "credits": [
+        {
+          "role": "人形作家",
+          "name": "陽月"
+        }
+      ]
+    },
+    {
+      "id": "literature-alice-curious",
+      "name": "清水真理《Curious and curiouser》（2023）",
+      "brand": "清水真理",
+      "original": "Curious and curiouser",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "2023年创作人形",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "交付未说明"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶",
+          "艺术人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "市川純（2025）刊载并分析的创作人形作品。正文与图版提供作品身份；未取得该作品独立的尺寸、材料及交付规格表。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://nittaidai.repo.nii.ac.jp/record/2000912/files/BNSSU-54-1071-1083.pdf",
+          "title": "市川純（2025）日本の球体関節人形におけるアリス表象",
+          "supports": "图1–4与正文：作品名称、年份、作者及爱丽丝表象的分析",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Alice",
+        "爱丽丝",
+        "アリス",
+        "清水真理",
+        "Curious and curiouser"
+      ],
+      "credits": [
+        {
+          "role": "人形作家",
+          "name": "清水真理"
+        }
+      ]
+    },
+    {
+      "id": "literature-alice-pool",
+      "name": "清水真理《Pool of tears》（2023）",
+      "brand": "清水真理",
+      "original": "Pool of tears",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "2023年创作人形",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "交付未说明"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶",
+          "艺术人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "市川純（2025）刊载并分析的创作人形作品。正文与图版提供作品身份；未取得该作品独立的尺寸、材料及交付规格表。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://nittaidai.repo.nii.ac.jp/record/2000912/files/BNSSU-54-1071-1083.pdf",
+          "title": "市川純（2025）日本の球体関節人形におけるアリス表象",
+          "supports": "图1–4与正文：作品名称、年份、作者及爱丽丝表象的分析",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Alice",
+        "爱丽丝",
+        "アリス",
+        "清水真理",
+        "Pool of tears"
+      ],
+      "credits": [
+        {
+          "role": "人形作家",
+          "name": "清水真理"
+        }
+      ]
+    },
+    {
+      "id": "literature-alice-shimizu",
+      "name": "清水真理《Alice 2023》（2023）",
+      "brand": "清水真理",
+      "original": "Alice 2023",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "2023年创作人形",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "交付未说明"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶",
+          "艺术人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "市川純（2025）刊载并分析的创作人形作品。正文与图版提供作品身份；未取得该作品独立的尺寸、材料及交付规格表。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://nittaidai.repo.nii.ac.jp/record/2000912/files/BNSSU-54-1071-1083.pdf",
+          "title": "市川純（2025）日本の球体関節人形におけるアリス表象",
+          "supports": "图1–4与正文：作品名称、年份、作者及爱丽丝表象的分析",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Alice",
+        "爱丽丝",
+        "アリス",
+        "清水真理",
+        "Alice 2023"
+      ],
+      "credits": [
+        {
+          "role": "人形作家",
+          "name": "清水真理"
+        }
+      ]
+    },
+    {
+      "id": "literature-alice-koitsuki",
+      "name": "恋月姫《記憶の迷宮》（2023）",
+      "brand": "恋月姫",
+      "original": "記憶の迷宮",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "2023年创作人形",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "交付未说明"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶",
+          "艺术人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "市川純（2025）刊载并分析的创作人形作品。正文与图版提供作品身份；未取得该作品独立的尺寸、材料及交付规格表。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://nittaidai.repo.nii.ac.jp/record/2000912/files/BNSSU-54-1071-1083.pdf",
+          "title": "市川純（2025）日本の球体関節人形におけるアリス表象",
+          "supports": "图1–4与正文：作品名称、年份、作者及爱丽丝表象的分析",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Alice",
+        "爱丽丝",
+        "アリス",
+        "恋月姫",
+        "記憶の迷宮"
+      ],
+      "credits": [
+        {
+          "role": "人形作家",
+          "name": "恋月姫"
+        }
+      ]
+    },
+    {
+      "id": "literature-alice-mahoko",
+      "name": "秋山まほこ《白兎の少女アリス》（2023）",
+      "brand": "秋山まほこ",
+      "original": "白兎の少女アリス",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "2023年创作人形",
+      "icon": "joint",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "交付未说明"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶",
+          "艺术人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "市川純（2025）刊载并分析的创作人形作品。正文与图版提供作品身份；未取得该作品独立的尺寸、材料及交付规格表。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://nittaidai.repo.nii.ac.jp/record/2000912/files/BNSSU-54-1071-1083.pdf",
+          "title": "市川純（2025）日本の球体関節人形におけるアリス表象",
+          "supports": "图1–4与正文：作品名称、年份、作者及爱丽丝表象的分析",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Alice",
+        "爱丽丝",
+        "アリス",
+        "秋山まほこ",
+        "白兎の少女アリス"
+      ],
+      "credits": [
+        {
+          "role": "人形作家",
+          "name": "秋山まほこ"
+        }
+      ]
+    },
+    {
+      "id": "literature-ningyotsuki",
+      "name": "《人形月》附带小型人形（2006年）",
+      "brand": "恋月姫",
+      "original": "人形月 附属ミニチュア人形",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "2006年出版企划附属品",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "交付未说明"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "田中圭子（2008）介绍作品书《人形月》附带的小型人形。资料未单列附属人形的具体版本、尺寸、材料与关节结构。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://doshisha.repo.nii.ac.jp/record/20186/files/007000800003.pdf",
+          "title": "田中圭子（2008）日本における球体関節人形の系譜",
+          "supports": "印刷页54–55附近对2006年出版企划附属小型人形的讨论",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "人形月",
+        "恋月姫",
+        "Koitsukihime"
+      ],
+      "credits": [
+        {
+          "role": "人形作家",
+          "name": "恋月姫"
+        }
+      ]
+    },
+    {
+      "id": "literature-qee-baseman",
+      "name": "Buckingham Forest Qee（文献图版）",
+      "brand": "Toy2R",
+      "original": "Buckingham Forest Qee",
+      "country": "香港",
+      "origin": "来源未单列商品产地",
+      "version": "2010年文献图版所示设计",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "乙烯基树脂"
+        ],
+        "role": [
+          "原创人偶",
+          "设计师玩具"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "研究图版中的Qee设计。颜色批次、限量与具体尺寸未独立核实，暂按文献所示设计建档。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.researchgate.net/publication/258199546_A_Vinyl_Platform_for_Dissent_Designer_Toys_and_Character_Merchandising",
+          "title": "Steinberg（2010）A vinyl platform for dissent",
+          "supports": "研究正文与图版所列具体设计、作者与Qee平台；未单列商品SKU",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Qee",
+        "キューイー",
+        "Gary Baseman"
+      ],
+      "credits": [
+        {
+          "role": "设计",
+          "name": "Gary Baseman"
+        }
+      ]
+    },
+    {
+      "id": "literature-qee-biskup",
+      "name": "Wrecker Panda Qee（文献图版）",
+      "brand": "Toy2R",
+      "original": "Wrecker Panda Qee",
+      "country": "香港",
+      "origin": "来源未单列商品产地",
+      "version": "2010年文献图版所示设计",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "乙烯基树脂"
+        ],
+        "role": [
+          "原创人偶",
+          "设计师玩具"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "研究图版中的Qee设计。颜色批次、限量与具体尺寸未独立核实，暂按文献所示设计建档。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.researchgate.net/publication/258199546_A_Vinyl_Platform_for_Dissent_Designer_Toys_and_Character_Merchandising",
+          "title": "Steinberg（2010）A vinyl platform for dissent",
+          "supports": "研究正文与图版所列具体设计、作者与Qee平台；未单列商品SKU",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Qee",
+        "キューイー",
+        "Tim Biskup"
+      ],
+      "credits": [
+        {
+          "role": "设计",
+          "name": "Tim Biskup"
+        }
+      ]
+    },
+    {
+      "id": "literature-dunny-jeremy",
+      "name": "Nightmare in Jeremyville Dunny（8英寸）",
+      "brand": "Kidrobot",
+      "original": "Nightmare in Jeremyville 8 inch Dunny",
+      "country": "美国",
+      "origin": "来源未单列商品产地",
+      "version": "8英寸设计版",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "标称8英寸版本",
+          "basis": "品牌作者介绍；独立高度口径未列"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "乙烯基树脂"
+        ],
+        "role": [
+          "原创人偶",
+          "设计师玩具"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "品牌文章列出8英寸Dunny作品。8英寸为版本标称大小，未提供包含耳部或配件的独立高度口径。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://blog.kidrobot.com/jeremyville/",
+          "title": "Jeremyville!｜Kidrobot Blog",
+          "supports": "品牌2015年文章确认作品名称、作者及8英寸版本",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        },
+        {
+          "url": "https://www.researchgate.net/publication/258199546_A_Vinyl_Platform_for_Dissent_Designer_Toys_and_Character_Merchandising",
+          "title": "Steinberg（2010）A vinyl platform for dissent",
+          "supports": "文中对Jeremyville具体Dunny设计及其叙事的讨论",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Dunny",
+        "Jeremyville"
+      ],
+      "credits": [
+        {
+          "role": "设计",
+          "name": "Jeremyville"
+        }
+      ]
+    },
+    {
+      "id": "literature-munny4",
+      "name": "MUNNYWORLD 4-inch MUNNY Blank Art Toy",
+      "brand": "Kidrobot",
+      "original": "MUNNYWORLD 4\" MUNNY Blank Art Toy",
+      "country": "美国",
+      "origin": "来源未单列商品产地",
+      "version": "4英寸空白版，新窗口包装",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "标称4英寸版本",
+          "basis": "官方版本名称"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "涂装定制",
+          "贴饰定制",
+          "布衣穿脱"
+        ],
+        "material": [
+          "乙烯基树脂"
+        ],
+        "role": [
+          "原创人偶",
+          "设计师玩具"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "官方列出4英寸空白乙烯基人形与可动关节，可绘制、贴饰、雕塑和换装。大小保留为版本标称，未补入独立高度口径。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.kidrobot.com/collections/blanks/products/munny-world-4-munny-diy-art-figure",
+          "title": "MUNNYWORLD 4-inch MUNNY｜Kidrobot",
+          "supports": "空白乙烯基人形、可动关节、可绘制/雕塑/贴饰等定制方式",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Munny",
+        "MUNNYWORLD",
+        "DIY",
+        "空白玩具"
+      ]
+    },
+    {
+      "id": "literature-aurora-frankenstein",
+      "name": "Aurora 科学怪人（原版怪物模型）",
+      "brand": "Aurora",
+      "original": "Frankenstein",
+      "country": "美国",
+      "origin": "来源未单列商品产地",
+      "version": "1960年代原版套件记录",
+      "icon": "static",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "固定姿势"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "涂装定制"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "角色人形",
+          "怪物人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "档案公开该模型的原版说明书。记录对应Aurora早期套件，未套用后来的Monogram、Polar Lights等复刻版规格；比例和全高未独立确认。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.jeffs60s.com/aurora-instruction-sheets.html",
+          "title": "Aurora Monster Model Instruction Sheets｜原始说明书扫描",
+          "supports": "具体模型名称、原始拼装及涂装说明；网页公开原版说明书扫描",
+          "kind": "原始资料档案",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Aurora",
+        "Frankenstein",
+        "科学怪人",
+        "怪物模型"
+      ]
+    },
+    {
+      "id": "literature-aurora-dracula",
+      "name": "Aurora 德古拉（原版怪物模型）",
+      "brand": "Aurora",
+      "original": "Dracula",
+      "country": "美国",
+      "origin": "来源未单列商品产地",
+      "version": "1960年代原版套件记录",
+      "icon": "static",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "固定姿势"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "涂装定制"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "角色人形",
+          "怪物人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "档案公开该模型的原版说明书。记录对应Aurora早期套件，未套用后来的Monogram、Polar Lights等复刻版规格；比例和全高未独立确认。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.jeffs60s.com/aurora-instruction-sheets.html",
+          "title": "Aurora Monster Model Instruction Sheets｜原始说明书扫描",
+          "supports": "具体模型名称、原始拼装及涂装说明；网页公开原版说明书扫描",
+          "kind": "原始资料档案",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Aurora",
+        "Dracula",
+        "德古拉",
+        "怪物模型"
+      ]
+    },
+    {
+      "id": "literature-aurora-wolfman",
+      "name": "Aurora 狼人（原版怪物模型）",
+      "brand": "Aurora",
+      "original": "The Wolfman",
+      "country": "美国",
+      "origin": "来源未单列商品产地",
+      "version": "1960年代原版套件记录",
+      "icon": "static",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "固定姿势"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "涂装定制"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "角色人形",
+          "怪物人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "档案公开该模型的原版说明书。记录对应Aurora早期套件，未套用后来的Monogram、Polar Lights等复刻版规格；比例和全高未独立确认。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.jeffs60s.com/aurora-instruction-sheets.html",
+          "title": "Aurora Monster Model Instruction Sheets｜原始说明书扫描",
+          "supports": "具体模型名称、原始拼装及涂装说明；网页公开原版说明书扫描",
+          "kind": "原始资料档案",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Aurora",
+        "The Wolfman",
+        "狼人",
+        "怪物模型"
+      ]
+    },
+    {
+      "id": "literature-aurora-mummy",
+      "name": "Aurora 木乃伊（原版怪物模型）",
+      "brand": "Aurora",
+      "original": "The Mummy",
+      "country": "美国",
+      "origin": "来源未单列商品产地",
+      "version": "1960年代原版套件记录",
+      "icon": "static",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "固定姿势"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "涂装定制"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "角色人形",
+          "怪物人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "档案公开该模型的原版说明书。记录对应Aurora早期套件，未套用后来的Monogram、Polar Lights等复刻版规格；比例和全高未独立确认。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.jeffs60s.com/aurora-instruction-sheets.html",
+          "title": "Aurora Monster Model Instruction Sheets｜原始说明书扫描",
+          "supports": "具体模型名称、原始拼装及涂装说明；网页公开原版说明书扫描",
+          "kind": "原始资料档案",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Aurora",
+        "The Mummy",
+        "木乃伊",
+        "怪物模型"
+      ]
+    },
+    {
+      "id": "literature-aurora-phantom",
+      "name": "Aurora 歌剧魅影（原版怪物模型）",
+      "brand": "Aurora",
+      "original": "The Phantom of the Opera",
+      "country": "美国",
+      "origin": "来源未单列商品产地",
+      "version": "1960年代原版套件记录",
+      "icon": "static",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "固定姿势"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "涂装定制"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "角色人形",
+          "怪物人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "档案公开该模型的原版说明书。记录对应Aurora早期套件，未套用后来的Monogram、Polar Lights等复刻版规格；比例和全高未独立确认。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.jeffs60s.com/aurora-instruction-sheets.html",
+          "title": "Aurora Monster Model Instruction Sheets｜原始说明书扫描",
+          "supports": "具体模型名称、原始拼装及涂装说明；网页公开原版说明书扫描",
+          "kind": "原始资料档案",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Aurora",
+        "The Phantom of the Opera",
+        "歌剧魅影",
+        "怪物模型"
+      ]
+    },
+    {
+      "id": "literature-aurora-creature",
+      "name": "Aurora 黑湖妖谭怪物（原版怪物模型）",
+      "brand": "Aurora",
+      "original": "The Creature",
+      "country": "美国",
+      "origin": "来源未单列商品产地",
+      "version": "1960年代原版套件记录",
+      "icon": "static",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "固定姿势"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "涂装定制"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "角色人形",
+          "怪物人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "档案公开该模型的原版说明书。记录对应Aurora早期套件，未套用后来的Monogram、Polar Lights等复刻版规格；比例和全高未独立确认。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.jeffs60s.com/aurora-instruction-sheets.html",
+          "title": "Aurora Monster Model Instruction Sheets｜原始说明书扫描",
+          "supports": "具体模型名称、原始拼装及涂装说明；网页公开原版说明书扫描",
+          "kind": "原始资料档案",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Aurora",
+        "The Creature",
+        "黑湖妖谭怪物",
+        "怪物模型"
+      ]
+    },
+    {
+      "id": "literature-aurora-prisoner",
+      "name": "Aurora 被遗忘的囚徒（原版怪物模型）",
+      "brand": "Aurora",
+      "original": "The Forgotten Prisoner of Castel-Mare",
+      "country": "美国",
+      "origin": "来源未单列商品产地",
+      "version": "1960年代原版套件记录",
+      "icon": "static",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "固定姿势"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "涂装定制"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "角色人形",
+          "怪物人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "档案公开该模型的原版说明书。记录对应Aurora早期套件，未套用后来的Monogram、Polar Lights等复刻版规格；比例和全高未独立确认。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.jeffs60s.com/aurora-instruction-sheets.html",
+          "title": "Aurora Monster Model Instruction Sheets｜原始说明书扫描",
+          "supports": "具体模型名称、原始拼装及涂装说明；网页公开原版说明书扫描",
+          "kind": "原始资料档案",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Aurora",
+        "The Forgotten Prisoner of Castel-Mare",
+        "被遗忘的囚徒",
+        "怪物模型"
+      ]
+    },
+    {
+      "id": "literature-aurora-hunchback",
+      "name": "Aurora 巴黎圣母院驼背人（原版怪物模型）",
+      "brand": "Aurora",
+      "original": "The Hunchback of Notre Dame",
+      "country": "美国",
+      "origin": "来源未单列商品产地",
+      "version": "1960年代原版套件记录",
+      "icon": "static",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "固定姿势"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "涂装定制"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "角色人形",
+          "怪物人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "档案公开该模型的原版说明书。记录对应Aurora早期套件，未套用后来的Monogram、Polar Lights等复刻版规格；比例和全高未独立确认。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.jeffs60s.com/aurora-instruction-sheets.html",
+          "title": "Aurora Monster Model Instruction Sheets｜原始说明书扫描",
+          "supports": "具体模型名称、原始拼装及涂装说明；网页公开原版说明书扫描",
+          "kind": "原始资料档案",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Aurora",
+        "The Hunchback of Notre Dame",
+        "巴黎圣母院驼背人",
+        "怪物模型"
+      ]
+    },
+    {
+      "id": "literature-boba1979",
+      "name": "Kenner Boba Fett（1979寄售版）",
+      "brand": "Kenner",
+      "original": "Boba Fett Mail-Away Action Figure",
+      "country": "美国",
+      "origin": "来源未单列商品产地",
+      "version": "1979年固定火箭寄售版",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "StarWars.com说明实际寄售版的火箭固定在背包上；发射火箭版本属于原型。此条记录实际寄售版，未补入其他年份波巴·费特的全高和关节数。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.starwars.com/news/happy-rancor-mail-away-star-wars-action-figures",
+          "title": "Happy Rancor: Mail-Away Star Wars Action Figures｜StarWars.com",
+          "supports": "1979年寄售Boba Fett、固定火箭与原型发射火箭的区别",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        },
+        {
+          "url": "https://people.southwestern.edu/~bednarb/vmc/articles/keidl.pdf",
+          "title": "Keidl（2018）Between textuality and materiality",
+          "supports": "Boba Fett生产史、原型与粉丝媒介的讨论",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Boba Fett",
+        "波巴费特",
+        "波巴·费特",
+        "Star Wars",
+        "星球大战"
+      ]
+    },
+    {
+      "id": "literature-ken-finland",
+      "name": "Ken of Finland（摄影与个人改造角色）",
+      "brand": "Susanna Mattheiszen",
+      "original": "Ken of Finland",
+      "country": "未单列",
+      "origin": "来源未单列商品产地",
+      "version": "文献中的个人角色项目",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "个人改造作品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "服装另配"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "以Ken为基础的个人改造角色，穿着制作者手工制作的服装，并在微缩场景和公共空间中拍摄。文献未提供原始Ken的SKU或替换身体清单。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.museumofplay.org/app/uploads/2022/01/11-3-Article-3.pdf",
+          "title": "Heljakka・Harviainen（2019）From displays and dioramas to doll dramas",
+          "supports": "印刷页368–371的角色项目、制作者、摄影与场景实践",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Ken",
+        "Barbie",
+        "摄影",
+        "个人改造",
+        "Ken of Finland"
+      ],
+      "credits": [
+        {
+          "role": "角色创作",
+          "name": "Susanna Mattheiszen"
+        }
+      ]
+    },
+    {
+      "id": "literature-socality",
+      "name": "Socality Barbie（摄影与个人改造角色）",
+      "brand": "文献中的摄影作者未署名",
+      "original": "Socality Barbie",
+      "country": "未单列",
+      "origin": "来源未单列商品产地",
+      "version": "文献中的个人角色项目",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "个人改造作品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "服装另配"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "2015年摄影项目中的Barbie角色，以穿着、道具和风景布置评论网络生活方式。文献未标出Barbie原始SKU及具体身体规格。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.museumofplay.org/app/uploads/2022/01/11-3-Article-3.pdf",
+          "title": "Heljakka・Harviainen（2019）From displays and dioramas to doll dramas",
+          "supports": "印刷页368–371的角色项目、制作者、摄影与场景实践",
+          "kind": "研究全文",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Ken",
+        "Barbie",
+        "摄影",
+        "个人改造",
+        "Socality Barbie"
+      ],
+      "credits": [
+        {
+          "role": "角色创作",
+          "name": "文献中的摄影作者未署名"
+        }
+      ]
+    },
+    {
+      "id": "literature-mazinger1974",
+      "name": "超合金 魔神Z（1974年初代记录）",
+      "brand": "BANDAI SPIRITS",
+      "original": "超合金 マジンガーZ",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "1974年2月初代产品",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "压铸金属",
+          "其他材料未细分"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "官方历史资料确认1974年初代超合金魔神Z。该记录保留历史版本，未合并后续超合金魂、DX超合金魂或小型复刻的尺寸和结构。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bandaispirits.co.jp/story/001/",
+          "title": "超合金誕生50周年｜BANDAI SPIRITS STORY",
+          "supports": "1974年2月初代产品、品牌名称及压铸玩具的历史",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Mazinger Z",
+        "マジンガーZ",
+        "魔神Z",
+        "魔神 Z",
+        "铁甲万能侠",
+        "超合金"
+      ]
+    },
+    {
+      "id": "literature-sdcs-rx78clear",
+      "name": "SD Cross Silhouette RX-78-2 高达（透明色）",
+      "brand": "BANDAI SPIRITS",
+      "original": "SDガンダム クロスシルエット ガンダムベース限定 RX-78-2 ガンダム[クリアカラー]",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "2018年10月透明色限定版",
+      "icon": "kit",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "换装未说明"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "SD高达系列的具体可查版本。官方说明书页未列比例与全高；不套用正常身体比例的RX-78-2尺寸。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://manual.bandai-hobby.net/menus/detail/4789",
+          "title": "SD Cross Silhouette RX-78-2 Clear Color｜BANDAI取扱説明書",
+          "supports": "具体型号、品番2435954与2018年10月发售",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "SD高达",
+        "SD Gundam",
+        "SDガンダム",
+        "Cross Silhouette",
+        "高达"
+      ]
+    },
+    {
+      "id": "literature-rement-puchikitchen",
+      "name": "Re-Ment ぷちキッチン（2004）",
+      "brand": "Re-Ment",
+      "original": "ぷちサンプルシリーズ ぷちキッチン",
+      "country": "日本",
+      "origin": "来源未单列商品产地",
+      "version": "2004年9月20日历史系列",
+      "icon": "static",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": true,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "不适用"
+        ],
+        "delivery": [
+          "成品配件"
+        ],
+        "dress": [
+          "不适用"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "场景配件"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与资料",
+          "text": "文献讨论Re-Ment微缩配件与玩偶场景。此条提供2004年ぷちキッチン系列的官方档案，文献照片未确认对应本系列。各小件尺寸留空；这是场景配件记录。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.re-ment.co.jp/product/r50121",
+          "title": "ぷちキッチン｜Re-Ment官方历史商品页",
+          "supports": "2004年9月20日发售、系列名称与停售状态",
+          "kind": "官方产品页",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Re-Ment",
+        "リーメント",
+        "ぷちサンプル",
+        "微缩",
+        "迷你食玩"
+      ]
     }
   ],
   "resources": [
@@ -46709,6 +51704,34 @@ window.TOY_COMPARE_DATA = {
       "url": "https://dollsoom.com/en/product-category/neor/dolls-neor/neor-13",
       "group": "作者与制作",
       "description": "原创可动角色的原型、面妆、艺术指导与展示服装署名；原订购期结束的档案仍可公开阅读。",
+      "checkedAt": "2026-10-06"
+    },
+    {
+      "group": "官方目录",
+      "name": "BANDAI 取扱説明書検索",
+      "url": "https://manual.bandai-hobby.net/",
+      "description": "高达等具体套件说明书，可按关键词、品牌与发售时间检索。",
+      "checkedAt": "2026-10-06"
+    },
+    {
+      "group": "历史资料",
+      "name": "Aurora 原始怪物模型说明书",
+      "url": "https://www.jeffs60s.com/aurora-instruction-sheets.html",
+      "description": "公开原版说明书扫描，供核对历史套件和涂装方式。",
+      "checkedAt": "2026-10-06"
+    },
+    {
+      "group": "官方目录",
+      "name": "Integrity Toys 历年商品",
+      "url": "https://www.integritytoys.com/brands/poppy-parker/",
+      "description": "Poppy Parker系列说明与年份目录；具体SKU规格仍以对应型号页为准。",
+      "checkedAt": "2026-10-06"
+    },
+    {
+      "group": "官方目录",
+      "name": "Licca 官方商品目录",
+      "url": "https://licca.takaratomy.co.jp/catalog_pdf/202510.pdf",
+      "description": "2025.10–2026.03官方商品目录；保留这一期目录的具体产品版本。",
       "checkedAt": "2026-10-06"
     }
   ],
@@ -47305,6 +52328,93 @@ window.TOY_COMPARE_DATA = {
     "fairy-dde-pukipuki-ante-white-skin-make-up-sleeping-face-w-make-up": "2026-10-06",
     "fairy-dde-realpuki-aki-beauty-white-skin-make-up-sleeping-face-w-make-up": "2026-10-06",
     "fairy-dde-realpuki-titi-natural-skin-make-up-sleeping-face-w-make-up": "2026-10-06",
-    "fairy-dde-ruth-motion-line-boy-beauty-white-skin-make-up": "2026-10-06"
+    "fairy-dde-ruth-motion-line-boy-beauty-white-skin-make-up": "2026-10-06",
+    "literature-msv-01": "2026-10-06",
+    "literature-msv-02": "2026-10-06",
+    "literature-msv-03": "2026-10-06",
+    "literature-msv-04": "2026-10-06",
+    "literature-msv-05": "2026-10-06",
+    "literature-msv-06": "2026-10-06",
+    "literature-msv-07": "2026-10-06",
+    "literature-msv-08": "2026-10-06",
+    "literature-msv-09": "2026-10-06",
+    "literature-msv-10": "2026-10-06",
+    "literature-msv-11": "2026-10-06",
+    "literature-msv-12": "2026-10-06",
+    "literature-msv-13": "2026-10-06",
+    "literature-msv-14": "2026-10-06",
+    "literature-msv-15": "2026-10-06",
+    "literature-msv-16": "2026-10-06",
+    "literature-msv-17": "2026-10-06",
+    "literature-msv-18": "2026-10-06",
+    "literature-msv-19": "2026-10-06",
+    "literature-msv-20": "2026-10-06",
+    "literature-msv-21": "2026-10-06",
+    "literature-msv-22": "2026-10-06",
+    "literature-msv-23": "2026-10-06",
+    "literature-msv-24": "2026-10-06",
+    "literature-msv-25": "2026-10-06",
+    "literature-msv-26": "2026-10-06",
+    "literature-msv-27": "2026-10-06",
+    "literature-msv-28": "2026-10-06",
+    "literature-msv-29": "2026-10-06",
+    "literature-msv-30": "2026-10-06",
+    "literature-msv-31": "2026-10-06",
+    "literature-msv-32": "2026-10-06",
+    "literature-msv-33": "2026-10-06",
+    "literature-msv-34": "2026-10-06",
+    "literature-gundam1980": "2026-10-06",
+    "literature-zaku1981": "2026-10-06",
+    "literature-char-zaku1980": "2026-10-06",
+    "literature-mg15": "2026-10-06",
+    "literature-mgka": "2026-10-06",
+    "literature-mg30": "2026-10-06",
+    "literature-pg1998": "2026-10-06",
+    "literature-beargguy3": "2026-10-06",
+    "literature-beargguyf": "2026-10-06",
+    "literature-beargguyp": "2026-10-06",
+    "literature-beargguyohana": "2026-10-06",
+    "literature-super-action-jenny": "2026-10-06",
+    "literature-nakoruru1994": "2026-10-06",
+    "literature-rayearth1994": "2026-10-06",
+    "literature-dollfie1998": "2026-10-06",
+    "literature-dollfie-honey": "2026-10-06",
+    "literature-blythe-fruity": "2026-10-06",
+    "literature-licca-ld01": "2026-10-06",
+    "literature-jenny2023": "2026-10-06",
+    "literature-holiday-barbie2004": "2026-10-06",
+    "literature-ken-looks18": "2026-10-06",
+    "literature-gi-joe1964": "2026-10-06",
+    "literature-poppy-pp158": "2026-10-06",
+    "literature-poppy-pp159": "2026-10-06",
+    "literature-poppy-pp160": "2026-10-06",
+    "literature-poppy-pp161": "2026-10-06",
+    "literature-poppy-pp162": "2026-10-06",
+    "literature-poppy-pp163": "2026-10-06",
+    "literature-alice-yotsuki": "2026-10-06",
+    "literature-alice-curious": "2026-10-06",
+    "literature-alice-pool": "2026-10-06",
+    "literature-alice-shimizu": "2026-10-06",
+    "literature-alice-koitsuki": "2026-10-06",
+    "literature-alice-mahoko": "2026-10-06",
+    "literature-ningyotsuki": "2026-10-06",
+    "literature-qee-baseman": "2026-10-06",
+    "literature-qee-biskup": "2026-10-06",
+    "literature-dunny-jeremy": "2026-10-06",
+    "literature-munny4": "2026-10-06",
+    "literature-aurora-frankenstein": "2026-10-06",
+    "literature-aurora-dracula": "2026-10-06",
+    "literature-aurora-wolfman": "2026-10-06",
+    "literature-aurora-mummy": "2026-10-06",
+    "literature-aurora-phantom": "2026-10-06",
+    "literature-aurora-creature": "2026-10-06",
+    "literature-aurora-prisoner": "2026-10-06",
+    "literature-aurora-hunchback": "2026-10-06",
+    "literature-boba1979": "2026-10-06",
+    "literature-ken-finland": "2026-10-06",
+    "literature-socality": "2026-10-06",
+    "literature-mazinger1974": "2026-10-06",
+    "literature-sdcs-rx78clear": "2026-10-06",
+    "literature-rement-puchikitchen": "2026-10-06"
   }
 };
