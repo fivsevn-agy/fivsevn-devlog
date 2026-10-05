@@ -27014,9 +27014,9 @@ window.TOY_COMPARE_DATA = {
     },
     {
       "id": "azone-aod530-ycn",
-      "name": "Poe-Poe × Iris Collect Yuliya(ユリヤ) ～ Cast a spell ～ (Navy blue ver.) 本体価格￥68,000 (税込価格￥74,800)",
+      "name": "Poe-Poe × Iris Collect Yuliya(ユリヤ) ～ Cast a spell ～ (Navy blue ver.)",
       "brand": "AZONE",
-      "original": "AOD530-YCN / Poe-Poe × Iris Collect Yuliya(ユリヤ) ～ Cast a spell ～ (Navy blue ver.) 本体価格￥68,000 (税込価格￥74,800)",
+      "original": "AOD530-YCN / Poe-Poe × Iris Collect Yuliya(ユリヤ) ～ Cast a spell ～ (Navy blue ver.)",
       "country": "日本",
       "origin": "未披露",
       "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
@@ -27090,9 +27090,9 @@ window.TOY_COMPARE_DATA = {
     },
     {
       "id": "azone-aod530-yco",
-      "name": "Poe-Poe × Iris Collect Yuliya(ユリヤ) ～ Cast a spell ～ (Classic olive ver.) 本体価格￥68,000 (税込価格￥74,800)",
+      "name": "Poe-Poe × Iris Collect Yuliya(ユリヤ) ～ Cast a spell ～ (Classic olive ver.)",
       "brand": "AZONE",
-      "original": "AOD530-YCO / Poe-Poe × Iris Collect Yuliya(ユリヤ) ～ Cast a spell ～ (Classic olive ver.) 本体価格￥68,000 (税込価格￥74,800)",
+      "original": "AOD530-YCO / Poe-Poe × Iris Collect Yuliya(ユリヤ) ～ Cast a spell ～ (Classic olive ver.)",
       "country": "日本",
       "origin": "未披露",
       "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
@@ -27166,9 +27166,9 @@ window.TOY_COMPARE_DATA = {
     },
     {
       "id": "azone-aod516-sbb",
-      "name": "スミレ/Bunny Queenコーデset (Black Rose ver.) 本体価格￥57,000 (税込価格￥62,700)",
+      "name": "スミレ/Bunny Queenコーデset (Black Rose ver.)",
       "brand": "AZONE",
-      "original": "AOD516-SBB / スミレ/Bunny Queenコーデset (Black Rose ver.) 本体価格￥57,000 (税込価格￥62,700)",
+      "original": "AOD516-SBB / スミレ/Bunny Queenコーデset (Black Rose ver.)",
       "country": "日本",
       "origin": "未披露",
       "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
@@ -27234,9 +27234,9 @@ window.TOY_COMPARE_DATA = {
     },
     {
       "id": "azone-aod516-sbw",
-      "name": "スミレ/Bunny Queenコーデset (Lilly White ver.) 本体価格￥57,000 (税込価格￥62,700)",
+      "name": "スミレ/Bunny Queenコーデset (Lilly White ver.)",
       "brand": "AZONE",
-      "original": "AOD516-SBW / スミレ/Bunny Queenコーデset (Lilly White ver.) 本体価格￥57,000 (税込価格￥62,700)",
+      "original": "AOD516-SBW / スミレ/Bunny Queenコーデset (Lilly White ver.)",
       "country": "日本",
       "origin": "未披露",
       "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
@@ -27302,9 +27302,9 @@ window.TOY_COMPARE_DATA = {
     },
     {
       "id": "azone-aod518-fmb",
-      "name": "楓子(ふうこ)/My way of life.(BROWNIE ver.) 本体価格￥62,000 (税込価格￥68,200)",
+      "name": "楓子(ふうこ)/My way of life.(BROWNIE ver.)",
       "brand": "AZONE",
-      "original": "AOD518-FMB / 楓子(ふうこ)/My way of life.(BROWNIE ver.) 本体価格￥62,000 (税込価格￥68,200)",
+      "original": "AOD518-FMB / 楓子(ふうこ)/My way of life.(BROWNIE ver.)",
       "country": "日本",
       "origin": "未披露",
       "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
@@ -27366,9 +27366,9 @@ window.TOY_COMPARE_DATA = {
     },
     {
       "id": "azone-aod518-fms",
-      "name": "楓子(ふうこ)/My way of life.(SILVER ver.) 本体価格￥62,000 (税込価格￥68,200)",
+      "name": "楓子(ふうこ)/My way of life.(SILVER ver.)",
       "brand": "AZONE",
-      "original": "AOD518-FMS / 楓子(ふうこ)/My way of life.(SILVER ver.) 本体価格￥62,000 (税込価格￥68,200)",
+      "original": "AOD518-FMS / 楓子(ふうこ)/My way of life.(SILVER ver.)",
       "country": "日本",
       "origin": "未披露",
       "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
@@ -27430,9 +27430,9 @@ window.TOY_COMPARE_DATA = {
     },
     {
       "id": "azone-aod528-aca",
-      "name": "Poe-Poe × Iris Collect 彩音 / 私のちいさなしあわせティータイム (キャラメルver. ) 本体価格￥62,000 (税込価格￥68,200)",
+      "name": "Poe-Poe × Iris Collect 彩音 / 私のちいさなしあわせティータイム (キャラメルver. )",
       "brand": "AZONE",
-      "original": "AOD528-ACA / Poe-Poe × Iris Collect 彩音 / 私のちいさなしあわせティータイム (キャラメルver. ) 本体価格￥62,000 (税込価格￥68,200)",
+      "original": "AOD528-ACA / Poe-Poe × Iris Collect 彩音 / 私のちいさなしあわせティータイム (キャラメルver. )",
       "country": "日本",
       "origin": "未披露",
       "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
@@ -27502,9 +27502,9 @@ window.TOY_COMPARE_DATA = {
     },
     {
       "id": "azone-aod528-ach",
-      "name": "Poe-Poe × Iris Collect 彩音 / 私のちいさなしあわせティータイム (チョコレートver. ) 本体価格￥62,000 (税込価格￥68,200)",
+      "name": "Poe-Poe × Iris Collect 彩音 / 私のちいさなしあわせティータイム (チョコレートver. )",
       "brand": "AZONE",
-      "original": "AOD528-ACH / Poe-Poe × Iris Collect 彩音 / 私のちいさなしあわせティータイム (チョコレートver. ) 本体価格￥62,000 (税込価格￥68,200)",
+      "original": "AOD528-ACH / Poe-Poe × Iris Collect 彩音 / 私のちいさなしあわせティータイム (チョコレートver. )",
       "country": "日本",
       "origin": "未披露",
       "version": "按所列官方版本核对；官网预告日期不等于已经出货。",
@@ -31744,6 +31744,8726 @@ window.TOY_COMPARE_DATA = {
         }
       ],
       "event": null
+    },
+    {
+      "id": "luts-body-13564",
+      "name": "Grand Senior75 Delf BOY Body Type1 Muscle",
+      "original": "Grand Senior75 Delf BOY Body Type1 Muscle",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "韩国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Grand Senior75 Delf BOY Body Type1 Muscle - LUTS DOLL",
+          "url": "https://www.eluts.com/product/grand-senior75-delf-boy-body-type1-muscle/13564/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "身体原型制作",
+          "name": "Guncat"
+        }
+      ]
+    },
+    {
+      "id": "luts-body-13837",
+      "name": "Kid Delf Body GIRL Type 7 Pretty Ver.",
+      "original": "Kid Delf Body GIRL Type 7 Pretty Ver.",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "韩国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Kid Delf Body GIRL Type 7 Pretty Ver. - LUTS DOLL",
+          "url": "https://www.eluts.com/product/kid-delf-body-girl-type-7-pretty-ver/13837/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "身体原型制作",
+          "name": "Guncat"
+        }
+      ]
+    },
+    {
+      "id": "luts-body-14440",
+      "name": "Senior Delf MUSE Body Type 1",
+      "original": "Senior Delf MUSE Body Type 1",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "韩国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Senior Delf MUSE Body Type 1 - LUTS DOLL",
+          "url": "https://www.eluts.com/product/senior-delf-muse-body-type-1/14440/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "身体原型制作",
+          "name": "Guncat"
+        }
+      ]
+    },
+    {
+      "id": "luts-body-20514",
+      "name": "Senior65 Delf Girl Body",
+      "original": "Senior65 Delf Girl Body",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "韩国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Senior65 Delf Girl Body - LUTS DOLL",
+          "url": "https://www.eluts.com/product/senior65-delf-girl-body/20514/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "身体原型制作",
+          "name": "SEJEL"
+        }
+      ]
+    },
+    {
+      "id": "luts-body-20515",
+      "name": "Senior Delf Girl Type 8 Glam Body",
+      "original": "Senior Delf Girl Type 8 Glam Body",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "韩国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Senior Delf Girl Type 8 Glam Body - LUTS DOLL",
+          "url": "https://www.eluts.com/product/senior-delf-girl-type-8-glam-body/20515/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "身体原型制作",
+          "name": "SEJEL"
+        }
+      ]
+    },
+    {
+      "id": "luts-body-22711",
+      "name": "KDF45 Delf Girl Body",
+      "original": "KDF45 Delf Girl Body",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "韩国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "KDF45 Delf Girl Body - LUTS DOLL",
+          "url": "https://www.eluts.com/product/kdf45-delf-girl-body/22711/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "身体原型制作",
+          "name": "Guncat"
+        }
+      ]
+    },
+    {
+      "id": "luts-body-25371",
+      "name": "Super Senior Delf BOY Superior Body Muscle",
+      "original": "Super Senior Delf BOY Superior Body Muscle",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "韩国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Super Senior Delf BOY Superior Body Muscle - LUTS DOLL",
+          "url": "https://www.eluts.com/product/super-senior-delf-boy-superior-body-muscle/25371/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "身体原型制作",
+          "name": "Horang.99"
+        }
+      ]
+    },
+    {
+      "id": "luts-body-25372",
+      "name": "Super Senior Delf BOY Superior Body Type2 Slim",
+      "original": "Super Senior Delf BOY Superior Body Type2 Slim",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "韩国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Super Senior Delf BOY Superior Body Type2 Slim - LUTS DOLL",
+          "url": "https://www.eluts.com/product/super-senior-delf-boy-superior-body-type2-slim/25372/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "身体原型制作",
+          "name": "Horang.99"
+        }
+      ]
+    },
+    {
+      "id": "luts-body-26745",
+      "name": "Grand Senior75 Delf Boys Body Type2 Slender",
+      "original": "Grand Senior75 Delf Boys Body Type2 Slender",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "韩国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Grand Senior75 Delf Boys Body Type2 Slender - LUTS DOLL",
+          "url": "https://www.eluts.com/product/grand-senior75-delf-boys-body-type2-slender/26745/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "身体原型制作",
+          "name": "Guncat"
+        }
+      ]
+    },
+    {
+      "id": "luts-body-27525",
+      "name": "Senior Delf MUSE Body Type 2 Neck compatible ver",
+      "original": "Senior Delf MUSE Body Type 2 Neck compatible ver",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "韩国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        },
+        {
+          "title": "颈部适配",
+          "text": "Neck compatible 版本改变颈部接口；不同头型仍可能有间隙或降低活动范围，不能当作所有同尺寸厂牌通用。"
+        },
+        {
+          "title": "颈长差异",
+          "text": "此页相应 Neck compatible 选项的颈部长约 3 mm，并加大颈接合处围度；不能用于本页所有身体选项。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Senior Delf MUSE Body Type 2 Neck compatible ver - LUTS DOLL",
+          "url": "https://www.eluts.com/product/senior-delf-muse-body-type-2-neck-compatible-ver/27525/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "luts-body-27526",
+      "name": "Delf GIRL Body Type 6 Neck compatible ver",
+      "original": "Delf GIRL Body Type 6 Neck compatible ver",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "韩国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        },
+        {
+          "title": "颈部适配",
+          "text": "Neck compatible 版本改变颈部接口；不同头型仍可能有间隙或降低活动范围，不能当作所有同尺寸厂牌通用。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Delf GIRL Body Type 6 Neck compatible ver - LUTS DOLL",
+          "url": "https://www.eluts.com/product/delf-girl-body-type-6-neck-compatible-ver/27526/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "luts-body-28361",
+      "name": "Honey 21 Delf Body Type1 Cutie Honey Body",
+      "original": "Honey 21 Delf Body Type1 Cutie Honey Body",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Honey 21 Delf Body Type1 Cutie Honey Body - LUTS DOLL",
+          "url": "https://www.eluts.com/product/honey-21-delf-body-type1-cutie-honey-body/28361/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "luts-body-28839",
+      "name": "Grand Senior78 Delf Boy Body 1",
+      "original": "Grand Senior78 Delf Boy Body 1",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Grand Senior78 Delf Boy Body 1 - LUTS DOLL",
+          "url": "https://www.eluts.com/product/grand-senior78-delf-boy-body-1/28839/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "身体原型制作",
+          "name": "Horang.99"
+        },
+        {
+          "role": "身体原型制作",
+          "name": "Guncat"
+        }
+      ]
+    },
+    {
+      "id": "luts-body-28841",
+      "name": "Grand Senior78 Delf Boy Body 2",
+      "original": "Grand Senior78 Delf Boy Body 2",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Grand Senior78 Delf Boy Body 2 - LUTS DOLL",
+          "url": "https://www.eluts.com/product/grand-senior78-delf-boy-body-2/28841/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "身体原型制作",
+          "name": "Horang.99"
+        },
+        {
+          "role": "身体原型制作",
+          "name": "Guncat"
+        }
+      ]
+    },
+    {
+      "id": "luts-body-29438",
+      "name": "Kid Delf Muse Body",
+      "original": "Kid Delf Muse Body",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Kid Delf Muse Body - LUTS DOLL",
+          "url": "https://www.eluts.com/product/kid-delf-muse-body/29438/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "luts-body-29789",
+      "name": "Grand Senior75 Delf Body Type3 Muscle Active ver",
+      "original": "Grand Senior75 Delf Body Type3 Muscle Active ver",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "韩国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        },
+        {
+          "title": "髋部改版",
+          "text": "Active 版移除髋部原有腿部张力连接杆并改变组装方式，以扩大腿部姿势范围。官方说明外观没有差别；与旧身体分开记录。"
+        },
+        {
+          "title": "小部件",
+          "text": "本款另有磁吸可拆小部件，不能据此把整个人体结构写成磁吸连接。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Grand Senior75 Delf Body Type3 Muscle Active ver - LUTS DOLL",
+          "url": "https://www.eluts.com/product/grand-senior75-delf-body-type3-muscle-active-ver/29789/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "身体原型制作",
+          "name": "Guncat"
+        }
+      ]
+    },
+    {
+      "id": "luts-body-29790",
+      "name": "Grand Senior75 Delf Body Type5 Slender Active ver",
+      "original": "Grand Senior75 Delf Body Type5 Slender Active ver",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "韩国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        },
+        {
+          "title": "髋部改版",
+          "text": "Active 版移除髋部原有腿部张力连接杆并改变组装方式，以扩大腿部姿势范围。官方说明外观没有差别；与旧身体分开记录。"
+        },
+        {
+          "title": "小部件",
+          "text": "本款另有磁吸可拆小部件，不能据此把整个人体结构写成磁吸连接。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Grand Senior75 Delf Body Type5 Slender Active ver - LUTS DOLL",
+          "url": "https://www.eluts.com/product/grand-senior75-delf-body-type5-slender-active-ver/29790/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "身体原型制作",
+          "name": "Guncat"
+        }
+      ]
+    },
+    {
+      "id": "luts-body-29791",
+      "name": "Super Senior Delf Superior Body Type3 Active ver",
+      "original": "Super Senior Delf Superior Body Type3 Active ver",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "韩国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        },
+        {
+          "title": "髋部改版",
+          "text": "Active 版移除髋部原有腿部张力连接杆并改变组装方式，以扩大腿部姿势范围。官方说明外观没有差别；与旧身体分开记录。"
+        },
+        {
+          "title": "小部件",
+          "text": "本款另有磁吸可拆小部件，不能据此把整个人体结构写成磁吸连接。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Super Senior Delf Superior Body Type3 Active ver - LUTS DOLL",
+          "url": "https://www.eluts.com/product/super-senior-delf-superior-body-type3-active-ver/29791/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "身体改型原型制作",
+          "name": "Guncat"
+        }
+      ]
+    },
+    {
+      "id": "luts-body-29792",
+      "name": "Super Senior Delf Superior Body Type5  Active ver",
+      "original": "Super Senior Delf Superior Body Type5  Active ver",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "韩国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        },
+        {
+          "title": "髋部改版",
+          "text": "Active 版移除髋部原有腿部张力连接杆并改变组装方式，以扩大腿部姿势范围。官方说明外观没有差别；与旧身体分开记录。"
+        },
+        {
+          "title": "小部件",
+          "text": "本款另有磁吸可拆小部件，不能据此把整个人体结构写成磁吸连接。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Super Senior Delf Superior Body Type5  Active ver - LUTS DOLL",
+          "url": "https://www.eluts.com/product/super-senior-delf-superior-body-type5-active-ver/29792/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "身体改型原型制作",
+          "name": "Guncat"
+        }
+      ]
+    },
+    {
+      "id": "luts-body-29793",
+      "name": "Senior Delf MUSE Body  Active ver",
+      "original": "Senior Delf MUSE Body  Active ver",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "韩国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        },
+        {
+          "title": "髋部改版",
+          "text": "Active 版移除髋部原有腿部张力连接杆并改变组装方式，以扩大腿部姿势范围。官方说明外观没有差别；与旧身体分开记录。"
+        },
+        {
+          "title": "颈部适配",
+          "text": "Neck compatible 版本改变颈部接口；不同头型仍可能有间隙或降低活动范围，不能当作所有同尺寸厂牌通用。"
+        },
+        {
+          "title": "颈长差异",
+          "text": "此页相应 Neck compatible 选项的颈部长约 3 mm，并加大颈接合处围度；不能用于本页所有身体选项。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Senior Delf MUSE Body  Active ver - LUTS DOLL",
+          "url": "https://www.eluts.com/product/senior-delf-muse-body-active-ver/29793/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "身体原型制作",
+          "name": "Guncat"
+        }
+      ]
+    },
+    {
+      "id": "luts-body-30304",
+      "name": "Senior65 Delf Girl Body Active ver",
+      "original": "Senior65 Delf Girl Body Active ver",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "韩国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        },
+        {
+          "title": "髋部改版",
+          "text": "Active 版移除髋部原有腿部张力连接杆并改变组装方式，以扩大腿部姿势范围。官方说明外观没有差别；与旧身体分开记录。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Senior65 Delf Girl Body Active ver - LUTS DOLL",
+          "url": "https://www.eluts.com/product/senior65-delf-girl-body-active-ver/30304/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "身体原型制作",
+          "name": "Guncat"
+        }
+      ]
+    },
+    {
+      "id": "luts-body-30305",
+      "name": "Senior Delf Girl Type 8 Glam Body Active ver",
+      "original": "Senior Delf Girl Type 8 Glam Body Active ver",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "韩国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        },
+        {
+          "title": "髋部改版",
+          "text": "Active 版移除髋部原有腿部张力连接杆并改变组装方式，以扩大腿部姿势范围。官方说明外观没有差别；与旧身体分开记录。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Senior Delf Girl Type 8 Glam Body Active ver - LUTS DOLL",
+          "url": "https://www.eluts.com/product/senior-delf-girl-type-8-glam-body-active-ver/30305/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "身体原型制作",
+          "name": "SEJEL"
+        }
+      ]
+    },
+    {
+      "id": "luts-body-30329",
+      "name": "Super Senior Delf MUSE Body",
+      "original": "Super Senior Delf MUSE Body",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "韩国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Super Senior Delf MUSE Body - LUTS DOLL",
+          "url": "https://www.eluts.com/product/super-senior-delf-muse-body/30329/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "身体原型制作",
+          "name": "Guncat"
+        }
+      ]
+    },
+    {
+      "id": "luts-body-30682",
+      "name": "Kid Delf Girl Body Type 8 Lovely Active ver",
+      "original": "Kid Delf Girl Body Type 8 Lovely Active ver",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "韩国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        },
+        {
+          "title": "髋部改版",
+          "text": "Active 版移除髋部原有腿部张力连接杆并改变组装方式，以扩大腿部姿势范围。官方说明外观没有差别；与旧身体分开记录。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Kid Delf Girl Body Type 8 Lovely Active ver - LUTS DOLL",
+          "url": "https://www.eluts.com/product/kid-delf-girl-body-type-8-lovely-active-ver/30682/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "身体原型制作",
+          "name": "Guncat"
+        }
+      ]
+    },
+    {
+      "id": "luts-body-30683",
+      "name": "Kid Delf Body GIRL Type 9 Pretty Active Ver.",
+      "original": "Kid Delf Body GIRL Type 9 Pretty Active Ver.",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "韩国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        },
+        {
+          "title": "髋部改版",
+          "text": "Active 版移除髋部原有腿部张力连接杆并改变组装方式，以扩大腿部姿势范围。官方说明外观没有差别；与旧身体分开记录。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Kid Delf Body GIRL Type 9 Pretty Active Ver. - LUTS DOLL",
+          "url": "https://www.eluts.com/product/kid-delf-body-girl-type-9-pretty-active-ver/30683/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "身体原型制作",
+          "name": "Guncat"
+        }
+      ]
+    },
+    {
+      "id": "luts-body-30687",
+      "name": "Kid45 Delf Boy Body  Type 2 Active ver",
+      "original": "Kid45 Delf Boy Body  Type 2 Active ver",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "韩国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        },
+        {
+          "title": "髋部改版",
+          "text": "Active 版移除髋部原有腿部张力连接杆并改变组装方式，以扩大腿部姿势范围。官方说明外观没有差别；与旧身体分开记录。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Kid45 Delf Boy Body  Type 2 Active ver - LUTS DOLL",
+          "url": "https://www.eluts.com/product/kid45-delf-boy-body-type-2-active-ver/30687/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "身体原型制作",
+          "name": "Guncat"
+        }
+      ]
+    },
+    {
+      "id": "luts-body-32598",
+      "name": "Grand Senior75 Delf  Body Type6 Slim",
+      "original": "Grand Senior75 Delf  Body Type6 Slim",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "韩国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        },
+        {
+          "title": "Type6 Slim",
+          "text": "官方列 2025 年 12 月发布，身体不含髋部连接杆；不等同于旧 Type1 Muscle 或 Type2 Slender。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Grand Senior75 Delf  Body Type6 Slim - LUTS DOLL",
+          "url": "https://www.eluts.com/product/grand-senior75-delf-body-type6-slim/32598/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "身体原型制作",
+          "name": "LUTS Creative Team"
+        }
+      ]
+    },
+    {
+      "id": "luts-body-32649",
+      "name": "Kid48 Delf Boy Body",
+      "original": "Kid48 Delf Boy Body",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "韩国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        },
+        {
+          "title": "衣装适配",
+          "text": "官方说明可穿既有 KDF 尺寸衣装，但长袖和长裤可能因版型出现袖长、裤长不足。"
+        },
+        {
+          "title": "身体选项",
+          "text": "此 SKU 可选 KDF48 Boy Type1 Muscle 或 Type2 Slim；原型署名分别列对应身体，不把两者合成一个围度。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Kid48 Delf Boy Body - LUTS DOLL",
+          "url": "https://www.eluts.com/product/kid48-delf-boy-body/32649/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "身体原型制作（Type1）",
+          "name": "LUTS_BK"
+        },
+        {
+          "role": "身体原型制作（Type1）",
+          "name": "SEJEL"
+        },
+        {
+          "role": "身体改型原型制作（Type2）",
+          "name": "Horang.99"
+        },
+        {
+          "role": "身体改型原型制作（Type2）",
+          "name": "SEJEL"
+        }
+      ]
+    },
+    {
+      "id": "luts-body-32650",
+      "name": "Kid47 Delf Girl Body",
+      "original": "Kid47 Delf Girl Body",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "韩国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        },
+        {
+          "title": "衣装适配",
+          "text": "官方说明可穿既有 KDF 尺寸衣装，但长袖和长裤可能因版型出现袖长、裤长不足。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Kid47 Delf Girl Body - LUTS DOLL",
+          "url": "https://www.eluts.com/product/kid47-delf-girl-body/32650/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "身体原型制作",
+          "name": "LUTS_BK"
+        },
+        {
+          "role": "身体原型制作",
+          "name": "SEJEL"
+        }
+      ]
+    },
+    {
+      "id": "luts-body-3908",
+      "name": "Delf Body Boy Type 4",
+      "original": "Delf Body Boy Type 4",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "韩国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Delf Body Boy Type 4 - LUTS DOLL",
+          "url": "https://www.eluts.com/product/delf-body-boy-type-4/3908/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "luts-body-3960",
+      "name": "Kid Delf Body BOY Type1",
+      "original": "Kid Delf Body BOY Type1",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "韩国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Kid Delf Body BOY Type1 - LUTS DOLL",
+          "url": "https://www.eluts.com/product/kid-delf-body-boy-type1/3960/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "luts-body-3961",
+      "name": "Kid Delf Body GIRL Type1",
+      "original": "Kid Delf Body GIRL Type1",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "韩国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Kid Delf Body GIRL Type1 - LUTS DOLL",
+          "url": "https://www.eluts.com/product/kid-delf-body-girl-type1/3961/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "luts-body-3980",
+      "name": "Kid Delf Girl BODY Type1 ROMANTIC",
+      "original": "Kid Delf Girl BODY Type1 ROMANTIC",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "韩国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Kid Delf Girl BODY Type1 ROMANTIC - LUTS DOLL",
+          "url": "https://www.eluts.com/product/kid-delf-girl-body-type1-romantic/3980/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "luts-body-3983",
+      "name": "Kid Delf Body BOY Type 2(Multi Body)",
+      "original": "Kid Delf Body BOY Type 2(Multi Body)",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "韩国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Kid Delf Body BOY Type 2(Multi Body) - LUTS DOLL",
+          "url": "https://www.eluts.com/product/kid-delf-body-boy-type-2multi-body/3983/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "luts-body-3989",
+      "name": "Honey Delf Body Type 5",
+      "original": "Honey Delf Body Type 5",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "韩国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Honey Delf Body Type 5 - LUTS DOLL",
+          "url": "https://www.eluts.com/product/honey-delf-body-type-5/3989/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "luts-body-4002",
+      "name": "Honey Delf Body Type 3(Multi Body)",
+      "original": "Honey Delf Body Type 3(Multi Body)",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "韩国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Honey Delf Body Type 3(Multi Body) - LUTS DOLL",
+          "url": "https://www.eluts.com/product/honey-delf-body-type-3multi-body/4002/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "luts-body-5491",
+      "name": "Model Delf - BOY Body New Type1",
+      "original": "Model Delf - BOY Body New Type1",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "韩国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Model Delf - BOY Body New Type1 - LUTS DOLL",
+          "url": "https://www.eluts.com/product/model-delf-boy-body-new-type1/5491/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "luts-body-5492",
+      "name": "Model Delf - BOY Body New Type2",
+      "original": "Model Delf - BOY Body New Type2",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "韩国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Model Delf - BOY Body New Type2 - LUTS DOLL",
+          "url": "https://www.eluts.com/product/model-delf-boy-body-new-type2/5492/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "luts-body-5493",
+      "name": "Model Delf Girl Body New Type",
+      "original": "Model Delf Girl Body New Type",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "韩国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Model Delf Girl Body New Type - LUTS DOLL",
+          "url": "https://www.eluts.com/product/model-delf-girl-body-new-type/5493/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "luts-body-5759",
+      "name": "Senior65 Delf New Body",
+      "original": "Senior65 Delf New Body",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "韩国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Senior65 Delf New Body - LUTS DOLL",
+          "url": "https://www.eluts.com/product/senior65-delf-new-body/5759/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "身体原型制作",
+          "name": "Guncat"
+        }
+      ]
+    },
+    {
+      "id": "luts-body-6080",
+      "name": "Honey31 Delf Body Type1 (Girl)",
+      "original": "Honey31 Delf Body Type1 (Girl)",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "韩国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Honey31 Delf Body Type1 (Girl) - LUTS DOLL",
+          "url": "https://www.eluts.com/product/honey31-delf-body-type1-girl/6080/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "身体原型制作",
+          "name": "Guncat"
+        }
+      ]
+    },
+    {
+      "id": "luts-body-6086",
+      "name": "Honey31 Delf Body Type2 (Neuter)",
+      "original": "Honey31 Delf Body Type2 (Neuter)",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "韩国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Honey31 Delf Body Type2 (Neuter) - LUTS DOLL",
+          "url": "https://www.eluts.com/product/honey31-delf-body-type2-neuter/6086/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "身体原型制作",
+          "name": "Guncat"
+        }
+      ]
+    },
+    {
+      "id": "luts-body-7280",
+      "name": "Model Delf - BOY Body New Type3 Slender",
+      "original": "Model Delf - BOY Body New Type3 Slender",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "韩国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Model Delf - BOY Body New Type3 Slender - LUTS DOLL",
+          "url": "https://www.eluts.com/product/model-delf-boy-body-new-type3-slender/7280/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "身体原型制作",
+          "name": "Guncat"
+        }
+      ]
+    },
+    {
+      "id": "luts-body-8288",
+      "name": "Kid Delf Body GIRL Type 6 Lovely Ver.",
+      "original": "Kid Delf Body GIRL Type 6 Lovely Ver.",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "韩国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Kid Delf Body GIRL Type 6 Lovely Ver. - LUTS DOLL",
+          "url": "https://www.eluts.com/product/kid-delf-body-girl-type-6-lovely-ver/8288/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "身体原型制作",
+          "name": "Guncat"
+        }
+      ]
+    },
+    {
+      "id": "luts-body-8758",
+      "name": "Senior65 Delf BOY Body Type3 Slender",
+      "original": "Senior65 Delf BOY Body Type3 Slender",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "韩国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Senior65 Delf BOY Body Type3 Slender - LUTS DOLL",
+          "url": "https://www.eluts.com/product/senior65-delf-boy-body-type3-slender/8758/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "luts-body-9093",
+      "name": "Kid45 Delf Boy Body",
+      "original": "Kid45 Delf Boy Body",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "韩国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "单售身体",
+          "text": "本记录是身体商品；头、妆、假发和衣鞋不合并进默认交付。肤色、胸型或身体型选项以此商品页为准。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "主高度尚未确认无头测量口径，保持未知；Kid45、Kid47、Kid48、Senior65、Grand Senior75 等系列名不直接换算成无头身体的厘米高度。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Kid45 Delf Boy Body - LUTS DOLL",
+          "url": "https://www.eluts.com/product/kid45-delf-boy-body/9093/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体说明中的树脂材料背景；不替代本 SKU 的测量或配件清单"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "身体原型制作",
+          "name": "Guncat"
+        }
+      ]
+    },
+    {
+      "id": "luts-138-doll",
+      "name": "Kid45 Delf & Muse GAMJA",
+      "original": "Kid45 Delf & Muse GAMJA",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼",
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "基础配置",
+          "text": "本页可选头、身体与肤色；默认含组装人偶和眼，不含面妆、假发、衣鞋与展示道具。面妆为另选项。"
+        },
+        {
+          "title": "身体版本",
+          "text": "按商品页身体选项分别核对，主高度保持未知；照片所用身体不代表所有订单都用同一身体。"
+        },
+        {
+          "title": "颈围规格",
+          "text": "about 6.6~7.2cm；按本头型资料记录。"
+        },
+        {
+          "title": "头围规格",
+          "text": "about 7.4inch, about 18.7cm；按本头型资料记录。"
+        },
+        {
+          "title": "假发规格",
+          "text": "7~8inch,KDW；按本头型资料记录。"
+        },
+        {
+          "title": "眼睛规格",
+          "text": "14mm；按本头型资料记录。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Kid45 Delf & Muse GAMJA - LUTS DOLL",
+          "url": "https://www.eluts.com/product/kid45-delf-muse-gamja/33640/category/1/display/2/?icid=MAIN.product_listmain_1",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "厂商的球体关节娃系列与韩国地址，不替代头型专属尺寸"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体的树脂材料背景，不替代本款头型和身体配置"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "头部原型制作",
+          "name": "SEJEL"
+        },
+        {
+          "role": "身体原型制作（展示配置）",
+          "name": "Guncat"
+        }
+      ]
+    },
+    {
+      "id": "luts-142-doll",
+      "name": "Kid47 Delf PARSLEY",
+      "original": "Kid47 Delf PARSLEY",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼",
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "基础配置",
+          "text": "本页可选头、身体与肤色；默认含组装人偶和眼，不含面妆、假发、衣鞋与展示道具。面妆为另选项。"
+        },
+        {
+          "title": "身体版本",
+          "text": "按商品页身体选项分别核对，主高度保持未知；照片所用身体不代表所有订单都用同一身体。"
+        },
+        {
+          "title": "颈围规格",
+          "text": "about 6.6~7.2cm；按本头型资料记录。"
+        },
+        {
+          "title": "头围规格",
+          "text": "about 6.9inch, 17.6cm；按本头型资料记录。"
+        },
+        {
+          "title": "假发规格",
+          "text": "6~7inch,7~8inch,HDW~KDW；按本头型资料记录。"
+        },
+        {
+          "title": "眼睛规格",
+          "text": "14mm~16mm；按本头型资料记录。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Kid47 Delf PARSLEY - LUTS DOLL",
+          "url": "https://www.eluts.com/product/kid47-delf-parsley/33664/category/1/display/2/?icid=MAIN.product_listmain_1",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "厂商的球体关节娃系列与韩国地址，不替代头型专属尺寸"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体的树脂材料背景，不替代本款头型和身体配置"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "头部原型制作",
+          "name": "Horang.99"
+        },
+        {
+          "role": "身体原型制作（展示配置）",
+          "name": "LUTS_BK"
+        },
+        {
+          "role": "身体原型制作（展示配置）",
+          "name": "SEJEL"
+        }
+      ]
+    },
+    {
+      "id": "luts-154-doll",
+      "name": "Grand Senior75 Delf ALCOR",
+      "original": "Grand Senior75 Delf ALCOR",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼",
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "基础配置",
+          "text": "本页可选头、身体与肤色；默认含组装人偶和眼，不含面妆、假发、衣鞋与展示道具。面妆为另选项。"
+        },
+        {
+          "title": "身体版本",
+          "text": "按商品页身体选项分别核对，主高度保持未知；照片所用身体不代表所有订单都用同一身体。"
+        },
+        {
+          "title": "颈围规格",
+          "text": "About 12.3~14.5cm；按本头型资料记录。"
+        },
+        {
+          "title": "头围规格",
+          "text": "About 8.5inch / 21.6cm；按本头型资料记录。"
+        },
+        {
+          "title": "假发规格",
+          "text": "8~9inch, SDW；按本头型资料记录。"
+        },
+        {
+          "title": "眼睛规格",
+          "text": "14mm；按本头型资料记录。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Grand Senior75 Delf ALCOR - LUTS DOLL",
+          "url": "https://www.eluts.com/product/grand-senior75-delf-alcor/33278/category/1/display/2/?icid=MAIN.product_listmain_1",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "厂商的球体关节娃系列与韩国地址，不替代头型专属尺寸"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体的树脂材料背景，不替代本款头型和身体配置"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "头部原型制作",
+          "name": "SEJEL"
+        },
+        {
+          "role": "身体原型制作（展示配置）",
+          "name": "LUTS Creative Team"
+        }
+      ]
+    },
+    {
+      "id": "luts-158-doll",
+      "name": "Grand Senior75 Delf THUBAN",
+      "original": "Grand Senior75 Delf THUBAN",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼",
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "基础配置",
+          "text": "本页可选头、身体与肤色；默认含组装人偶和眼，不含面妆、假发、衣鞋与展示道具。面妆为另选项。"
+        },
+        {
+          "title": "身体版本",
+          "text": "按商品页身体选项分别核对，主高度保持未知；照片所用身体不代表所有订单都用同一身体。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Grand Senior75 Delf THUBAN - LUTS DOLL",
+          "url": "https://www.eluts.com/product/grand-senior75-delf-thuban/33276/category/1/display/2/?icid=MAIN.product_listmain_1",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "厂商的球体关节娃系列与韩国地址，不替代头型专属尺寸"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体的树脂材料背景，不替代本款头型和身体配置"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "头部原型制作",
+          "name": "Horang.99"
+        },
+        {
+          "role": "身体原型制作（展示配置）",
+          "name": "Guncat"
+        }
+      ]
+    },
+    {
+      "id": "luts-170-doll",
+      "name": "Grand Senior78 Delf ERIS",
+      "original": "Grand Senior78 Delf ERIS",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼",
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "基础配置",
+          "text": "本页可选头、身体与肤色；默认含组装人偶和眼，不含面妆、假发、衣鞋与展示道具。面妆为另选项。"
+        },
+        {
+          "title": "身体版本",
+          "text": "按商品页身体选项分别核对，主高度保持未知；照片所用身体不代表所有订单都用同一身体。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Grand Senior78 Delf ERIS - LUTS DOLL",
+          "url": "https://www.eluts.com/product/grand-senior78-delf-eris/33274/category/1/display/2/?icid=MAIN.product_listmain_1",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "厂商的球体关节娃系列与韩国地址，不替代头型专属尺寸"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体的树脂材料背景，不替代本款头型和身体配置"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "头部原型制作",
+          "name": "LUTS_BK"
+        },
+        {
+          "role": "身体原型制作（展示配置）",
+          "name": "Horang.99"
+        },
+        {
+          "role": "身体原型制作（展示配置）",
+          "name": "Guncat"
+        }
+      ]
+    },
+    {
+      "id": "luts-174-doll",
+      "name": "Kid47 Delf MOMO",
+      "original": "Kid47 Delf MOMO",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼",
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "基础配置",
+          "text": "本页可选头、身体与肤色；默认含组装人偶和眼，不含面妆、假发、衣鞋与展示道具。面妆为另选项。"
+        },
+        {
+          "title": "身体版本",
+          "text": "按商品页身体选项分别核对，主高度保持未知；照片所用身体不代表所有订单都用同一身体。"
+        },
+        {
+          "title": "颈围规格",
+          "text": "about 6.6~7.2cm；按本头型资料记录。"
+        },
+        {
+          "title": "头围规格",
+          "text": "6.9inch (17.6cm)；按本头型资料记录。"
+        },
+        {
+          "title": "假发规格",
+          "text": "6~7inch,7~8inch,HDW~KDW；按本头型资料记录。"
+        },
+        {
+          "title": "眼睛规格",
+          "text": "12mm~14mm；按本头型资料记录。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Kid47 Delf MOMO - LUTS DOLL",
+          "url": "https://www.eluts.com/product/kid47-delf-momo/32656/category/1/display/2/?icid=MAIN.product_listmain_1",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "厂商的球体关节娃系列与韩国地址，不替代头型专属尺寸"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体的树脂材料背景，不替代本款头型和身体配置"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "头部原型制作",
+          "name": "SEJEL"
+        },
+        {
+          "role": "身体原型制作（展示配置）",
+          "name": "LUTS_BK"
+        },
+        {
+          "role": "身体原型制作（展示配置）",
+          "name": "SEJEL"
+        }
+      ]
+    },
+    {
+      "id": "luts-178-doll",
+      "name": "Kid47 Delf HAMI",
+      "original": "Kid47 Delf HAMI",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼",
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "基础配置",
+          "text": "本页可选头、身体与肤色；默认含组装人偶和眼，不含面妆、假发、衣鞋与展示道具。面妆为另选项。"
+        },
+        {
+          "title": "身体版本",
+          "text": "按商品页身体选项分别核对，主高度保持未知；照片所用身体不代表所有订单都用同一身体。"
+        },
+        {
+          "title": "颈围规格",
+          "text": "about 6.6~7.2cm；按本头型资料记录。"
+        },
+        {
+          "title": "头围规格",
+          "text": "7inch (17.8cm)；按本头型资料记录。"
+        },
+        {
+          "title": "假发规格",
+          "text": "6~7inch,7~8inch,HDW~KDW；按本头型资料记录。"
+        },
+        {
+          "title": "眼睛规格",
+          "text": "12mm~14mm；按本头型资料记录。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Kid47 Delf HAMI - LUTS DOLL",
+          "url": "https://www.eluts.com/product/kid47-delf-hami/32653/category/1/display/2/?icid=MAIN.product_listmain_1",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "厂商的球体关节娃系列与韩国地址，不替代头型专属尺寸"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体的树脂材料背景，不替代本款头型和身体配置"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "头部原型制作",
+          "name": "Noi"
+        },
+        {
+          "role": "身体原型制作（展示配置）",
+          "name": "LUTS_BK"
+        },
+        {
+          "role": "身体原型制作（展示配置）",
+          "name": "SEJEL"
+        }
+      ]
+    },
+    {
+      "id": "luts-182-doll",
+      "name": "Kid48 Delf LEEK",
+      "original": "Kid48 Delf LEEK",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼",
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "基础配置",
+          "text": "本页可选头、身体与肤色；默认含组装人偶和眼，不含面妆、假发、衣鞋与展示道具。面妆为另选项。"
+        },
+        {
+          "title": "身体版本",
+          "text": "按商品页身体选项分别核对，主高度保持未知；照片所用身体不代表所有订单都用同一身体。"
+        },
+        {
+          "title": "颈围规格",
+          "text": "about 6.6~7.2cm；按本头型资料记录。"
+        },
+        {
+          "title": "头围规格",
+          "text": "7.1inch (18cm)；按本头型资料记录。"
+        },
+        {
+          "title": "假发规格",
+          "text": "6~7inch,7~8inch,HDW~KDW；按本头型资料记录。"
+        },
+        {
+          "title": "眼睛规格",
+          "text": "12mm~14mm；按本头型资料记录。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Kid48 Delf LEEK - LUTS DOLL",
+          "url": "https://www.eluts.com/product/kid48-delf-leek/32660/category/1/display/2/?icid=MAIN.product_listmain_1",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "厂商的球体关节娃系列与韩国地址，不替代头型专属尺寸"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体的树脂材料背景，不替代本款头型和身体配置"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "头部原型制作",
+          "name": "Horang.99"
+        },
+        {
+          "role": "身体原型制作（展示配置）",
+          "name": "LUTS_BK"
+        },
+        {
+          "role": "身体原型制作（展示配置）",
+          "name": "SEJEL"
+        }
+      ]
+    },
+    {
+      "id": "luts-186-doll",
+      "name": "Kid48 Delf ZEA",
+      "original": "Kid48 Delf ZEA",
+      "brand": "LUTS",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼",
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "基础配置",
+          "text": "本页可选头、身体与肤色；默认含组装人偶和眼，不含面妆、假发、衣鞋与展示道具。面妆为另选项。"
+        },
+        {
+          "title": "身体版本",
+          "text": "按商品页身体选项分别核对，主高度保持未知；照片所用身体不代表所有订单都用同一身体。"
+        },
+        {
+          "title": "颈围规格",
+          "text": "about 6.6~7.2cm；按本头型资料记录。"
+        },
+        {
+          "title": "头围规格",
+          "text": "7.2inch (18.2cm)；按本头型资料记录。"
+        },
+        {
+          "title": "假发规格",
+          "text": "6~7inch,7~8inch,HDW~KDW；按本头型资料记录。"
+        },
+        {
+          "title": "眼睛规格",
+          "text": "12mm~14mm；按本头型资料记录。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Kid48 Delf ZEA - LUTS DOLL",
+          "url": "https://www.eluts.com/product/kid48-delf-zea/32663/category/1/display/2/?icid=MAIN.product_listmain_1",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方厂商与系列说明",
+          "title": "Welcome to LUTS - Ball Jointed Dolls Company",
+          "url": "https://www.eluts.com/",
+          "supports": "厂商的球体关节娃系列与韩国地址，不替代头型专属尺寸"
+        },
+        {
+          "kind": "官方身体系列说明",
+          "title": "In-stock LUTS DOLL Body Limited - LUTS DOLL",
+          "url": "https://www.eluts.com/product/in-stock-luts-doll-body-limited/33335/category/1/display/6/?icid=MAIN.product_listmain_5",
+          "supports": "官方现货身体的树脂材料背景，不替代本款头型和身体配置"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "头部原型制作",
+          "name": "LUTS_BK"
+        },
+        {
+          "role": "身体改型原型制作",
+          "name": "Horang.99"
+        }
+      ]
+    },
+    {
+      "id": "fairy-83",
+      "name": "FeePle65 Sylvia Basic",
+      "original": "FeePle65 Sylvia Basic",
+      "brand": "CP/FairyLand",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "服装另配",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "选定配置与尺寸",
+          "text": "Sylvia 的 New Release 身体不使用旧 FeePle65 尺寸表的全高。"
+        },
+        {
+          "title": "交付范围",
+          "text": "Basic／a la carte 的头或面板可选，基本交付为人偶及眼；面妆、睡脸和服装等按页内选项，不能把 Full Package 的衣装套入。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "FeePle65 Sylvia Basic – CP/FairyLand",
+          "url": "https://cpfairyland.com/product/feeple65-sylvia-basic/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方分版本尺寸表",
+          "title": "Measurement Table – CP/FairyLand",
+          "url": "https://cpfairyland.com/mega-shop/links/measurement-table/",
+          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "G.O（Cerberus Project）"
+        },
+        {
+          "role": "头部原型制作",
+          "name": "hae（Cerberus Project）"
+        }
+      ]
+    },
+    {
+      "id": "fairy-87",
+      "name": "pukipuki a la carte",
+      "original": "pukipuki a la carte",
+      "brand": "CP/FairyLand",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 112,
+      "heightBasis": "官方 pukipuki 尺寸表；面板可选",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 11.2 cm",
+          "basis": "官方 pukipuki 尺寸表；面板可选"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "服装另配",
+          "换假发",
+          "换眼",
+          "换脸"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "选定配置与尺寸",
+          "text": "官方 pukipuki 尺寸表；面板可选"
+        },
+        {
+          "title": "交付范围",
+          "text": "Basic／a la carte 的头或面板可选，基本交付为人偶及眼；面妆、睡脸和服装等按页内选项，不能把 Full Package 的衣装套入。"
+        },
+        {
+          "title": "面板适配",
+          "text": "pukipuki 与 Realpuki 面板官方说明可互用；pukipuki 的头、假发、衣服和 Magic Items 用在 Realpuki 上可能偏大，反向的其他配件并不保证适配。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "pukipuki a la carte – CP/FairyLand",
+          "url": "https://cpfairyland.com/product/pukipuki-a-la-carte/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方分版本尺寸表",
+          "title": "Measurement Table – CP/FairyLand",
+          "url": "https://cpfairyland.com/mega-shop/links/measurement-table/",
+          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "fairy-91",
+      "name": "Realpuki a la carte",
+      "original": "Realpuki a la carte",
+      "brand": "CP/FairyLand",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 97,
+      "heightBasis": "官方 Realpuki 尺寸表；面板可选",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 9.7 cm",
+          "basis": "官方 Realpuki 尺寸表；面板可选"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "服装另配",
+          "换假发",
+          "换眼",
+          "换脸"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "选定配置与尺寸",
+          "text": "官方 Realpuki 尺寸表；面板可选"
+        },
+        {
+          "title": "交付范围",
+          "text": "Basic／a la carte 的头或面板可选，基本交付为人偶及眼；面妆、睡脸和服装等按页内选项，不能把 Full Package 的衣装套入。"
+        },
+        {
+          "title": "面板适配",
+          "text": "pukipuki 与 Realpuki 面板官方说明可互用；pukipuki 的头、假发、衣服和 Magic Items 用在 Realpuki 上可能偏大，反向的其他配件并不保证适配。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Realpuki a la carte – CP/FairyLand",
+          "url": "https://cpfairyland.com/product/realpuki-a-la-carte/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方分版本尺寸表",
+          "title": "Measurement Table – CP/FairyLand",
+          "url": "https://cpfairyland.com/mega-shop/links/measurement-table/",
+          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "fairy-99",
+      "name": "FairyLine Girl Body",
+      "original": "FairyLine Girl Body",
+      "brand": "CP/FairyLand",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "选定配置与尺寸",
+          "text": "只售 Girl 身体及 #3 手，胸型可选；尺寸表 41 cm 为带头配置，不能移给无头身体。"
+        },
+        {
+          "title": "交付范围",
+          "text": "身体单售不含头、眼和衣装。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "FairyLine Girl Body – CP/FairyLand",
+          "url": "https://cpfairyland.com/product/fairyline-girl-body/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方分版本尺寸表",
+          "title": "Measurement Table – CP/FairyLand",
+          "url": "https://cpfairyland.com/mega-shop/links/measurement-table/",
+          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "fairy-103",
+      "name": "FairyLine Boy Body",
+      "original": "FairyLine Boy Body",
+      "brand": "CP/FairyLand",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "选定配置与尺寸",
+          "text": "只售 Motion Boy 身体及 #7 手；尺寸表 41 cm 为带头配置，不能移给无头身体。"
+        },
+        {
+          "title": "交付范围",
+          "text": "身体单售不含头、眼和衣装。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "FairyLine Boy Body – CP/FairyLand",
+          "url": "https://cpfairyland.com/product/fairyline-boy-body/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方分版本尺寸表",
+          "title": "Measurement Table – CP/FairyLand",
+          "url": "https://cpfairyland.com/mega-shop/links/measurement-table/",
+          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "fairy-111",
+      "name": "MiniFee a la carte BOY (Active Line)",
+      "original": "MiniFee a la carte BOY (Active Line)",
+      "brand": "CP/FairyLand",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 420,
+      "heightBasis": "官方旧 MiniFee Boy Active Line 带头配置尺寸表；与 New Release 版分开",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 42 cm",
+          "basis": "官方旧 MiniFee Boy Active Line 带头配置尺寸表；与 New Release 版分开"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "服装另配",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "选定配置与尺寸",
+          "text": "官方旧 MiniFee Boy Active Line 带头配置尺寸表；与 New Release 版分开"
+        },
+        {
+          "title": "交付范围",
+          "text": "Basic／a la carte 的头或面板可选，基本交付为人偶及眼；面妆、睡脸和服装等按页内选项，不能把 Full Package 的衣装套入。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "MiniFee a la carte BOY (Active Line) – CP/FairyLand",
+          "url": "https://cpfairyland.com/product/minifee-a-la-carte-boy-active-line/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方分版本尺寸表",
+          "title": "Measurement Table – CP/FairyLand",
+          "url": "https://cpfairyland.com/mega-shop/links/measurement-table/",
+          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "fairy-model-132",
+      "name": "FairyLine60 basic",
+      "original": "FairyLine60 basic",
+      "brand": "CP/FairyLand",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "服装另配",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "选定配置与尺寸",
+          "text": "本页默认 Medium Bust F；尺寸表 FairyLine60 列 Glamour，未把该表数据用于本选项。"
+        },
+        {
+          "title": "交付范围",
+          "text": "Basic／a la carte 的头或面板可选，基本交付为人偶及眼；面妆、睡脸和服装等按页内选项，不能把 Full Package 的衣装套入。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "FairyLine60 basic – CP/FairyLand",
+          "url": "https://cpfairyland.com/product/fairyline60-basic/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方分版本尺寸表",
+          "title": "Measurement Table – CP/FairyLand",
+          "url": "https://cpfairyland.com/mega-shop/links/measurement-table/",
+          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "fairy-model-140",
+      "name": "MiniFee Moe Hybrid",
+      "original": "MiniFee Moe Hybrid",
+      "brand": "CP/FairyLand",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "服装另配",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "选定配置与尺寸",
+          "text": "Moe 身体与 Active Line 胸件组合。官方提示胸件不是为 Moe 设计，不能认定完全兼容。"
+        },
+        {
+          "title": "交付范围",
+          "text": "Basic／a la carte 的头或面板可选，基本交付为人偶及眼；面妆、睡脸和服装等按页内选项，不能把 Full Package 的衣装套入。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "MiniFee Moe Hybrid – CP/FairyLand",
+          "url": "https://cpfairyland.com/product/minifee-moe-hybrid/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方分版本尺寸表",
+          "title": "Measurement Table – CP/FairyLand",
+          "url": "https://cpfairyland.com/mega-shop/links/measurement-table/",
+          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "fairy-model-152",
+      "name": "MiniFee Basic – Lookback",
+      "original": "MiniFee Basic – Lookback",
+      "brand": "CP/FairyLand",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "服装另配",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "选定配置与尺寸",
+          "text": "Lookback 当前头型 El Elf，身体选项不止一种；不合成单一全高。"
+        },
+        {
+          "title": "交付范围",
+          "text": "Basic／a la carte 的头或面板可选，基本交付为人偶及眼；面妆、睡脸和服装等按页内选项，不能把 Full Package 的衣装套入。"
+        },
+        {
+          "title": "复归头型限制",
+          "text": "官方说明眼孔尺寸和内部围度可能调整，外观延续旧造型但不是完全相同的复刻；本线不提供面妆和睡头选项。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "MiniFee Basic – Lookback – CP/FairyLand",
+          "url": "https://cpfairyland.com/product/minifee-lookback/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方分版本尺寸表",
+          "title": "Measurement Table – CP/FairyLand",
+          "url": "https://cpfairyland.com/mega-shop/links/measurement-table/",
+          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "fairy-model-156",
+      "name": "MiniFee a la carte GIRL (New Release Active Line)",
+      "original": "MiniFee a la carte GIRL (New Release Active Line)",
+      "brand": "CP/FairyLand",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 410,
+      "heightBasis": "官方 MiniFee Girl New Release Active Line 对应带头配置尺寸表",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 41 cm",
+          "basis": "官方 MiniFee Girl New Release Active Line 对应带头配置尺寸表"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "服装另配",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "选定配置与尺寸",
+          "text": "官方 MiniFee Girl New Release Active Line 对应带头配置尺寸表"
+        },
+        {
+          "title": "交付范围",
+          "text": "Basic／a la carte 的头或面板可选，基本交付为人偶及眼；面妆、睡脸和服装等按页内选项，不能把 Full Package 的衣装套入。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "MiniFee a la carte GIRL (New Release Active Line) – CP/FairyLand",
+          "url": "https://cpfairyland.com/product/minifee-a-la-carte-girl-new-release-active-line/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方分版本尺寸表",
+          "title": "Measurement Table – CP/FairyLand",
+          "url": "https://cpfairyland.com/mega-shop/links/measurement-table/",
+          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "fairy-model-160",
+      "name": "FeePle60 Moe basic",
+      "original": "FeePle60 Moe basic",
+      "brand": "CP/FairyLand",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 540,
+      "heightBasis": "官方 FeePle60 Female Moe 对应带头配置；此记录选普通腿，Long Legs 选项另看尺寸表",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 54 cm",
+          "basis": "官方 FeePle60 Female Moe 对应带头配置；此记录选普通腿，Long Legs 选项另看尺寸表"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "服装另配",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "选定配置与尺寸",
+          "text": "官方 FeePle60 Female Moe 对应带头配置；此记录选普通腿，Long Legs 选项另看尺寸表"
+        },
+        {
+          "title": "交付范围",
+          "text": "Basic／a la carte 的头或面板可选，基本交付为人偶及眼；面妆、睡脸和服装等按页内选项，不能把 Full Package 的衣装套入。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "FeePle60 Moe basic – CP/FairyLand",
+          "url": "https://cpfairyland.com/product/feeple60-moe-basic/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方分版本尺寸表",
+          "title": "Measurement Table – CP/FairyLand",
+          "url": "https://cpfairyland.com/mega-shop/links/measurement-table/",
+          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "fairy-model-164",
+      "name": "FeePle60 Motion (2022 Release) basic",
+      "original": "FeePle60 Motion (2022 Release) basic",
+      "brand": "CP/FairyLand",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 570,
+      "heightBasis": "官方 FeePle60 Male Motion 2022 Release 带头配置尺寸表",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 57 cm",
+          "basis": "官方 FeePle60 Male Motion 2022 Release 带头配置尺寸表"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "服装另配",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "选定配置与尺寸",
+          "text": "官方 FeePle60 Male Motion 2022 Release 带头配置尺寸表"
+        },
+        {
+          "title": "交付范围",
+          "text": "Basic／a la carte 的头或面板可选，基本交付为人偶及眼；面妆、睡脸和服装等按页内选项，不能把 Full Package 的衣装套入。"
+        },
+        {
+          "title": "衣鞋参考",
+          "text": "Motion 2022 Male 表列头围 20 cm、颈围 9 cm、腰围 20 cm、臀围 25.5 cm、脚长 7.5 cm；不使用旧 Motion 的头围和围度。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "FeePle60 Motion (2022 Release) basic – CP/FairyLand",
+          "url": "https://cpfairyland.com/product/feeple60-motion-2022-release-basic/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方分版本尺寸表",
+          "title": "Measurement Table – CP/FairyLand",
+          "url": "https://cpfairyland.com/mega-shop/links/measurement-table/",
+          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "fairy-model-168",
+      "name": "FeePle60 Basic – Lookback",
+      "original": "FeePle60 Basic – Lookback",
+      "brand": "CP/FairyLand",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "服装另配",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "选定配置与尺寸",
+          "text": "Lookback 当前头型 Chiwoo；Moe、Long Legs、Motion 2022 可选，不能合成单一全高。"
+        },
+        {
+          "title": "交付范围",
+          "text": "Basic／a la carte 的头或面板可选，基本交付为人偶及眼；面妆、睡脸和服装等按页内选项，不能把 Full Package 的衣装套入。"
+        },
+        {
+          "title": "复归头型限制",
+          "text": "官方说明眼孔尺寸和内部围度可能调整，外观延续旧造型但不是完全相同的复刻；本线不提供面妆和睡头选项。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "FeePle60 Basic – Lookback – CP/FairyLand",
+          "url": "https://cpfairyland.com/product/feeple60-basic-lookback/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方分版本尺寸表",
+          "title": "Measurement Table – CP/FairyLand",
+          "url": "https://cpfairyland.com/mega-shop/links/measurement-table/",
+          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "fairy-model-172",
+      "name": "MiniFee a la carte BOY (New Release Active Line)",
+      "original": "MiniFee a la carte BOY (New Release Active Line)",
+      "brand": "CP/FairyLand",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "服装另配",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "选定配置与尺寸",
+          "text": "New Release Active Boy 的踝部由旧版改为磁吸方式；不照搬旧 Active Boy 的 42 cm。"
+        },
+        {
+          "title": "交付范围",
+          "text": "Basic／a la carte 的头或面板可选，基本交付为人偶及眼；面妆、睡脸和服装等按页内选项，不能把 Full Package 的衣装套入。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "MiniFee a la carte BOY (New Release Active Line) – CP/FairyLand",
+          "url": "https://cpfairyland.com/product/minifee-a-la-carte-boy-new-release-active-line/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方分版本尺寸表",
+          "title": "Measurement Table – CP/FairyLand",
+          "url": "https://cpfairyland.com/mega-shop/links/measurement-table/",
+          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "fairy-model-176",
+      "name": "FairyLine Boy basic",
+      "original": "FairyLine Boy basic",
+      "brand": "CP/FairyLand",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 410,
+      "heightBasis": "官方 FairyLine Boy Motion 带头配置尺寸表",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 41 cm",
+          "basis": "官方 FairyLine Boy Motion 带头配置尺寸表"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "服装另配",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "选定配置与尺寸",
+          "text": "官方 FairyLine Boy Motion 带头配置尺寸表"
+        },
+        {
+          "title": "交付范围",
+          "text": "Basic／a la carte 的头或面板可选，基本交付为人偶及眼；面妆、睡脸和服装等按页内选项，不能把 Full Package 的衣装套入。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "FairyLine Boy basic – CP/FairyLand",
+          "url": "https://cpfairyland.com/product/fairyline-boy-basic/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方分版本尺寸表",
+          "title": "Measurement Table – CP/FairyLand",
+          "url": "https://cpfairyland.com/mega-shop/links/measurement-table/",
+          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "fairy-model-180",
+      "name": "FairyLine Girl basic",
+      "original": "FairyLine Girl basic",
+      "brand": "CP/FairyLand",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 410,
+      "heightBasis": "官方 FairyLine Girl 带头配置尺寸表",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 41 cm",
+          "basis": "官方 FairyLine Girl 带头配置尺寸表"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "服装另配",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "选定配置与尺寸",
+          "text": "官方 FairyLine Girl 带头配置尺寸表"
+        },
+        {
+          "title": "交付范围",
+          "text": "Basic／a la carte 的头或面板可选，基本交付为人偶及眼；面妆、睡脸和服装等按页内选项，不能把 Full Package 的衣装套入。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "FairyLine Girl basic – CP/FairyLand",
+          "url": "https://cpfairyland.com/product/fairyline-girl-basic/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方分版本尺寸表",
+          "title": "Measurement Table – CP/FairyLand",
+          "url": "https://cpfairyland.com/mega-shop/links/measurement-table/",
+          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "fairy-model-184",
+      "name": "MiniFee a la carte Boy (Motion Line)",
+      "original": "MiniFee a la carte Boy (Motion Line)",
+      "brand": "CP/FairyLand",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 410,
+      "heightBasis": "官方 MiniFee Boy Motion Line 带头配置尺寸表",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 41 cm",
+          "basis": "官方 MiniFee Boy Motion Line 带头配置尺寸表"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "服装另配",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "选定配置与尺寸",
+          "text": "官方 MiniFee Boy Motion Line 带头配置尺寸表"
+        },
+        {
+          "title": "交付范围",
+          "text": "Basic／a la carte 的头或面板可选，基本交付为人偶及眼；面妆、睡脸和服装等按页内选项，不能把 Full Package 的衣装套入。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "MiniFee a la carte Boy (Motion Line) – CP/FairyLand",
+          "url": "https://cpfairyland.com/product/minifee-a-la-carte-boy-motion-line/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方分版本尺寸表",
+          "title": "Measurement Table – CP/FairyLand",
+          "url": "https://cpfairyland.com/mega-shop/links/measurement-table/",
+          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "fairy-model-188",
+      "name": "MiniFee a la carte BOY (Moe Line)",
+      "original": "MiniFee a la carte BOY (Moe Line)",
+      "brand": "CP/FairyLand",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 415,
+      "heightBasis": "官方 MiniFee Boy Moe Line 带头配置尺寸表",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 41.5 cm",
+          "basis": "官方 MiniFee Boy Moe Line 带头配置尺寸表"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "服装另配",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "选定配置与尺寸",
+          "text": "官方 MiniFee Boy Moe Line 带头配置尺寸表"
+        },
+        {
+          "title": "交付范围",
+          "text": "Basic／a la carte 的头或面板可选，基本交付为人偶及眼；面妆、睡脸和服装等按页内选项，不能把 Full Package 的衣装套入。"
+        },
+        {
+          "title": "衣鞋参考",
+          "text": "对应 Moe Boy 尺寸表：头围 18.5 cm、颈围 6.8 cm、腰围 13.5 cm、臀围 18 cm、脚长 5 cm。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "MiniFee a la carte BOY (Moe Line) – CP/FairyLand",
+          "url": "https://cpfairyland.com/product/minifee-a-la-carte-boy-moe-line/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方分版本尺寸表",
+          "title": "Measurement Table – CP/FairyLand",
+          "url": "https://cpfairyland.com/mega-shop/links/measurement-table/",
+          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "fairy-model-192",
+      "name": "MiniFee a la carte GIRL (Moe Line)",
+      "original": "MiniFee a la carte GIRL (Moe Line)",
+      "brand": "CP/FairyLand",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 380,
+      "heightBasis": "官方 MiniFee Girl Moe Line 带头配置尺寸表",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 38 cm",
+          "basis": "官方 MiniFee Girl Moe Line 带头配置尺寸表"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "服装另配",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "选定配置与尺寸",
+          "text": "官方 MiniFee Girl Moe Line 带头配置尺寸表"
+        },
+        {
+          "title": "交付范围",
+          "text": "Basic／a la carte 的头或面板可选，基本交付为人偶及眼；面妆、睡脸和服装等按页内选项，不能把 Full Package 的衣装套入。"
+        },
+        {
+          "title": "衣鞋参考",
+          "text": "对应 Moe Girl 尺寸表：头围 18.5 cm、颈围 6.5 cm、腰围 12 cm、臀围 18.5 cm、脚长 4.5 cm；Glamour 和 Full 胸围不同。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "MiniFee a la carte GIRL (Moe Line) – CP/FairyLand",
+          "url": "https://cpfairyland.com/product/minifee-a-la-carte-girl-moe-line/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方分版本尺寸表",
+          "title": "Measurement Table – CP/FairyLand",
+          "url": "https://cpfairyland.com/mega-shop/links/measurement-table/",
+          "supports": "对应身体版本的带头尺寸及头围、颈围、脚长；未匹配选项不借用数值"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "iplehouse-1627078403",
+      "name": "JID Boy · Edwin",
+      "original": "JID Boy · Edwin",
+      "brand": "Iplehouse",
+      "country": "未披露",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 460,
+      "heightBasis": "官方本头型页所列带头人偶高度；身体选项的围度另记",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 46 cm",
+          "basis": "官方本头型页所列带头人偶高度；身体选项的围度另记"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "拉筋连接",
+          "球体关节"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼",
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "基础交付",
+          "text": "基本为已组装无妆头与所选身体，眼睛、本款手脚、盒和证书按型号清单；面妆、假发和衣鞋为另选或另售，不把照片衣服当默认附赠。"
+        },
+        {
+          "title": "Normal／Model 身体",
+          "text": "两种身体本页全高均 46 cm；头围 18.8 cm、颈围 8.5 cm、脚长 6.5 cm。Normal／Model 的胸围等不同，以选定身体表为准。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "ITEM VIEW : J. I. D Basic - Boy - Edwin",
+          "url": "https://iplehouse.com/home/shop/item.php?it_id=1627078403&nhn1=en",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "iplehouse-1566598592",
+      "name": "JID Boy · Owen",
+      "original": "JID Boy · Owen",
+      "brand": "Iplehouse",
+      "country": "未披露",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 460,
+      "heightBasis": "官方本头型页所列带头人偶高度；身体选项的围度另记",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 46 cm",
+          "basis": "官方本头型页所列带头人偶高度；身体选项的围度另记"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "拉筋连接",
+          "球体关节"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼",
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "基础交付",
+          "text": "基本为已组装无妆头与所选身体，眼睛、本款手脚、盒和证书按型号清单；面妆、假发和衣鞋为另选或另售，不把照片衣服当默认附赠。"
+        },
+        {
+          "title": "Normal／Model 身体",
+          "text": "两种身体本页全高均 46 cm；头围 18.8 cm、颈围 8.5 cm、脚长 6.5 cm。Normal／Model 的胸围等不同，以选定身体表为准。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "ITEM VIEW : J. I. D Basic - Boy - Owen",
+          "url": "https://iplehouse.com/home/shop/item.php?it_id=1566598592&nhn1=en",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "iplehouse-1701462393",
+      "name": "SID Woman · Mari",
+      "original": "SID Woman · Mari",
+      "brand": "Iplehouse",
+      "country": "未披露",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 620,
+      "heightBasis": "官方本头型页所列带头人偶高度；身体选项的围度另记",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 62 cm",
+          "basis": "官方本头型页所列带头人偶高度；身体选项的围度另记"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "拉筋连接",
+          "球体关节"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼",
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "基础交付",
+          "text": "基本为已组装无妆头与所选身体，眼睛、本款手脚、盒和证书按型号清单；面妆、假发和衣鞋为另选或另售，不把照片衣服当默认附赠。"
+        },
+        {
+          "title": "新旧 SID 围度",
+          "text": "本页 Original 与 New Type 全高均 62 cm；颈围分别 10.5 与 9.7 cm，肩宽分别 12.5 与 11.5 cm，脚长均 7.5 cm。衣装适配不能只看全高相同。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "ITEM VIEW : S. I. D Basic - Woman - Mari",
+          "url": "https://iplehouse.com/home/shop/item.php?it_id=1701462393&nhn1=en",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "iplehouse-1643085582",
+      "name": "SID Woman · Grace",
+      "original": "SID Woman · Grace",
+      "brand": "Iplehouse",
+      "country": "未披露",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 620,
+      "heightBasis": "官方本头型页所列带头人偶高度；身体选项的围度另记",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 62 cm",
+          "basis": "官方本头型页所列带头人偶高度；身体选项的围度另记"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "拉筋连接",
+          "球体关节"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼",
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "基础交付",
+          "text": "基本为已组装无妆头与所选身体，眼睛、本款手脚、盒和证书按型号清单；面妆、假发和衣鞋为另选或另售，不把照片衣服当默认附赠。"
+        },
+        {
+          "title": "新旧 SID 围度",
+          "text": "本页 Original 与 New Type 全高均 62 cm；颈围分别 10.5 与 9.7 cm，肩宽分别 12.5 与 11.5 cm，脚长均 7.5 cm。衣装适配不能只看全高相同。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "ITEM VIEW : S. I. D Basic - Woman - Grace",
+          "url": "https://iplehouse.com/home/shop/item.php?it_id=1643085582&nhn1=en",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "iplehouse-1658523571",
+      "name": "BID · Ellia",
+      "original": "BID · Ellia",
+      "brand": "Iplehouse",
+      "country": "未披露",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 260,
+      "heightBasis": "官方本头型页所列带头人偶高度；身体选项的围度另记",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 26 cm",
+          "basis": "官方本头型页所列带头人偶高度；身体选项的围度另记"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "拉筋连接",
+          "球体关节"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼",
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "基础交付",
+          "text": "基本为已组装无妆头与所选身体，眼睛、本款手脚、盒和证书按型号清单；面妆、假发和衣鞋为另选或另售，不把照片衣服当默认附赠。"
+        },
+        {
+          "title": "身体选项",
+          "text": "可选男／女身体；本页两者全高均 26 cm、头围 17 cm，颈围及躯干围度仍分别按对应表。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "ITEM VIEW : B. I. D Basic - Ellia",
+          "url": "https://iplehouse.com/home/shop/item.php?it_id=1658523571&nhn1=en",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "iplehouse-1650062014",
+      "name": "BID · Mo-A",
+      "original": "BID · Mo-A",
+      "brand": "Iplehouse",
+      "country": "未披露",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 260,
+      "heightBasis": "官方本头型页所列带头人偶高度；身体选项的围度另记",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 26 cm",
+          "basis": "官方本头型页所列带头人偶高度；身体选项的围度另记"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "拉筋连接",
+          "球体关节"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼",
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "基础交付",
+          "text": "基本为已组装无妆头与所选身体，眼睛、本款手脚、盒和证书按型号清单；面妆、假发和衣鞋为另选或另售，不把照片衣服当默认附赠。"
+        },
+        {
+          "title": "身体选项",
+          "text": "可选男／女身体；本页两者全高均 26 cm、头围 17 cm，颈围及躯干围度仍分别按对应表。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "ITEM VIEW : B. I. D Basic - Mo-A",
+          "url": "https://iplehouse.com/home/shop/item.php?it_id=1650062014&nhn1=en",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "iplehouse-1647636795",
+      "name": "FOMA · Yui",
+      "original": "FOMA · Yui",
+      "brand": "Iplehouse",
+      "country": "未披露",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 620,
+      "heightBasis": "官方本头型页所列带头人偶高度；身体选项的围度另记",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 62 cm",
+          "basis": "官方本头型页所列带头人偶高度；身体选项的围度另记"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "拉筋连接",
+          "球体关节"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼",
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "基础交付",
+          "text": "基本为已组装无妆头与所选身体，眼睛、本款手脚、盒和证书按型号清单；面妆、假发和衣鞋为另选或另售，不把照片衣服当默认附赠。"
+        },
+        {
+          "title": "新旧 SID 围度",
+          "text": "本页 Original 与 New Type 全高均 62 cm；颈围分别 10.5 与 9.7 cm，肩宽分别 12.5 与 11.5 cm，脚长均 7.5 cm。衣装适配不能只看全高相同。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "ITEM VIEW : FOMA Doll - Yui",
+          "url": "https://iplehouse.com/home/shop/item.php?it_id=1647636795&nhn1=en",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "iplehouse-1641872326",
+      "name": "FOMA · Raffine Woman",
+      "original": "FOMA · Raffine Woman",
+      "brand": "Iplehouse",
+      "country": "未披露",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 625,
+      "heightBasis": "官方本头型页所列带头人偶高度；身体选项的围度另记",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 62.5 cm",
+          "basis": "官方本头型页所列带头人偶高度；身体选项的围度另记"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "拉筋连接",
+          "球体关节"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼",
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "基础交付",
+          "text": "基本为已组装无妆头与所选身体，眼睛、本款手脚、盒和证书按型号清单；面妆、假发和衣鞋为另选或另售，不把照片衣服当默认附赠。"
+        },
+        {
+          "title": "EID Woman 尺寸",
+          "text": "本页全高 62.5 cm、头围 21 cm、颈围 10.5 cm、脚长 7.5 cm；Large 与 Medium 胸围不同。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "ITEM VIEW : FOMA Doll - Raffine_Woman",
+          "url": "https://iplehouse.com/home/shop/item.php?it_id=1641872326&nhn1=en",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "iplehouse-1659128649",
+      "name": "KID · Paige",
+      "original": "KID · Paige",
+      "brand": "Iplehouse",
+      "country": "未披露",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 345,
+      "heightBasis": "官方本头型页所列带头人偶高度；身体选项的围度另记",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 34.5 cm",
+          "basis": "官方本头型页所列带头人偶高度；身体选项的围度另记"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "拉筋连接",
+          "球体关节"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼",
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "基础交付",
+          "text": "基本为已组装无妆头与所选身体，眼睛、本款手脚、盒和证书按型号清单；面妆、假发和衣鞋为另选或另售，不把照片衣服当默认附赠。"
+        },
+        {
+          "title": "衣鞋与假发",
+          "text": "本页 KID 可选男／女身体、普通或 Mobility 大腿。官方明确可穿 BID 的鞋和假发；JID 假发略松、BID 假发略紧，使用头帽调整。衣装未据此认定通用。"
+        },
+        {
+          "title": "头眼尺寸",
+          "text": "头围 17.5 cm、颈围 6.8 cm；本款默认随机色 8／10 mm 亚克力眼，不从其他 KID 头型借用眼径。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "ITEM VIEW : K. I. D Basic - Paige",
+          "url": "https://iplehouse.com/home/shop/item.php?it_id=1659128649&nhn1=en",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "iplehouse-1562451468",
+      "name": "KID · Peach",
+      "original": "KID · Peach",
+      "brand": "Iplehouse",
+      "country": "未披露",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 345,
+      "heightBasis": "官方本头型页所列带头人偶高度；身体选项的围度另记",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 34.5 cm",
+          "basis": "官方本头型页所列带头人偶高度；身体选项的围度另记"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "拉筋连接",
+          "球体关节"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼",
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "基础交付",
+          "text": "基本为已组装无妆头与所选身体，眼睛、本款手脚、盒和证书按型号清单；面妆、假发和衣鞋为另选或另售，不把照片衣服当默认附赠。"
+        },
+        {
+          "title": "衣鞋与假发",
+          "text": "本页 KID 可选男／女身体、普通或 Mobility 大腿。官方明确可穿 BID 的鞋和假发；JID 假发略松、BID 假发略紧，使用头帽调整。衣装未据此认定通用。"
+        },
+        {
+          "title": "头眼尺寸",
+          "text": "头围 17.5 cm、颈围 6.8 cm；本款默认随机色 12 mm 亚克力眼，不从其他 KID 头型借用眼径。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "ITEM VIEW : K. I. D Basic - Peach",
+          "url": "https://iplehouse.com/home/shop/item.php?it_id=1562451468&nhn1=en",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "iplehouse-1630198494",
+      "name": "EID Man · Rex",
+      "original": "EID Man · Rex",
+      "brand": "Iplehouse",
+      "country": "未披露",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "Model Type · 70.5 cm",
+          "basis": "本头型官方对应身体尺寸"
+        },
+        {
+          "label": "Super Hero Type · 68.5 cm",
+          "basis": "本头型官方对应身体尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "拉筋连接",
+          "球体关节"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼",
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "基础交付",
+          "text": "基本为已组装无妆头与所选身体，眼睛、本款手脚、盒和证书按型号清单；面妆、假发和衣鞋为另选或另售，不把照片衣服当默认附赠。"
+        },
+        {
+          "title": "两种身体",
+          "text": "官网分别列 Model 全高 70.5 cm、颈围 12.8 cm、胸围 35.8 cm；Super Hero 全高 68.5 cm、颈围 13.3 cm、胸围 37.8 cm。两种脚长均 10.2 cm，主高度留空以避免选错配置。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "ITEM VIEW : E. I. D Basic - Man - Rex",
+          "url": "https://iplehouse.com/home/shop/item.php?it_id=1630198494&nhn1=en",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "iplehouse-1323762396",
+      "name": "EID Man · Dexter",
+      "original": "EID Man · Dexter",
+      "brand": "Iplehouse",
+      "country": "未披露",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "Model Type · 70.5 cm",
+          "basis": "本头型官方对应身体尺寸"
+        },
+        {
+          "label": "Super Hero Type · 68.5 cm",
+          "basis": "本头型官方对应身体尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "拉筋连接",
+          "球体关节"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼",
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "基础交付",
+          "text": "基本为已组装无妆头与所选身体，眼睛、本款手脚、盒和证书按型号清单；面妆、假发和衣鞋为另选或另售，不把照片衣服当默认附赠。"
+        },
+        {
+          "title": "两种身体",
+          "text": "官网分别列 Model 全高 70.5 cm、颈围 12.8 cm、胸围 35.8 cm；Super Hero 全高 68.5 cm、颈围 13.3 cm、胸围 37.8 cm。两种脚长均 10.2 cm，主高度留空以避免选错配置。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "ITEM VIEW : E. I. D Basic - Man - Dexter",
+          "url": "https://iplehouse.com/home/shop/item.php?it_id=1323762396&nhn1=en",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "iplehouse-1655512101",
+      "name": "YID Girl · Bliss",
+      "original": "YID Girl · Bliss",
+      "brand": "Iplehouse",
+      "country": "未披露",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 587,
+      "heightBasis": "官方本头型页所列带头人偶高度；身体选项的围度另记",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 58.7 cm",
+          "basis": "官方本头型页所列带头人偶高度；身体选项的围度另记"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "拉筋连接",
+          "球体关节"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼",
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "基础交付",
+          "text": "基本为已组装无妆头与所选身体，眼睛、本款手脚、盒和证书按型号清单；面妆、假发和衣鞋为另选或另售，不把照片衣服当默认附赠。"
+        },
+        {
+          "title": "衣鞋参考",
+          "text": "头围 21 cm（M 假发）、颈围 9.5 cm、脚长 7.5 cm；胸围随 Glamour／Large／Medium／Small 选项变化，不能合成一个胸围。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "ITEM VIEW : Y. I. D Basic - Girl - Bliss",
+          "url": "https://iplehouse.com/home/shop/item.php?it_id=1655512101&nhn1=en",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "iplehouse-1565562524",
+      "name": "YID Girl · Olivia",
+      "original": "YID Girl · Olivia",
+      "brand": "Iplehouse",
+      "country": "未披露",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 587,
+      "heightBasis": "官方本头型页所列带头人偶高度；身体选项的围度另记",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 58.7 cm",
+          "basis": "官方本头型页所列带头人偶高度；身体选项的围度另记"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "拉筋连接",
+          "球体关节"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼",
+          "服装另配"
+        ],
+        "material": [
+          "树脂（未细分）"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "基础交付",
+          "text": "基本为已组装无妆头与所选身体，眼睛、本款手脚、盒和证书按型号清单；面妆、假发和衣鞋为另选或另售，不把照片衣服当默认附赠。"
+        },
+        {
+          "title": "衣鞋参考",
+          "text": "头围 21 cm（M 假发）、颈围 9.5 cm、脚长 7.5 cm；胸围随 Glamour／Large／Medium／Small 选项变化，不能合成一个胸围。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "ITEM VIEW : Y. I. D Basic - Girl - Olivia",
+          "url": "https://iplehouse.com/home/shop/item.php?it_id=1565562524&nhn1=en",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "groove-prunella",
+      "name": "Pullip · Prunella（TS-07）",
+      "original": "Pullip · Prunella（TS-07）",
+      "brand": "Groove",
+      "country": "日本",
+      "origin": "中国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 310,
+      "heightBasis": "官方本款商品全高约值（含头）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 31 cm",
+          "basis": "官方本款商品全高约值（含头）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "视线可调"
+        ],
+        "material": [
+          "ABS树脂",
+          "HIPS",
+          "TPR",
+          "POM树脂"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "材料范围",
+          "text": "本体为 ABS／HIPS／TPR／POM。头发 PET／聚酯、衣装及支架为另一份材料清单，不把衣装中的 PVC 写成人体主体材质。"
+        },
+        {
+          "title": "交付与眼机构",
+          "text": "附本款衣装与配件，眼机构按此身体版本；不能把 Dal／Byul 没有闭眼功能的身体当成同一种功能。"
+        },
+        {
+          "title": "身体围度",
+          "text": "本页 Pullip 表列头围 24.5 cm、胸围 10 cm、腰围 6.8 cm、臀围 10.7 cm、肩宽 4.9 cm；复刻版用材不等同于初版。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Pullip / Prunella(プリュネラ)– Groove Store Japan",
+          "url": "https://www.jgroove.jp/products/ts07-prunella",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方结构与尺寸说明",
+          "title": "What’s Pullip– Groove Store Japan",
+          "url": "https://www.jgroove.jp/pages/what-s-pullip",
+          "supports": "Pullip 家族的可动、视线及不同身体背景；型号页数据优先"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "groove-nosferatu",
+      "name": "Taeyang · Nosferatu（TS-06）",
+      "original": "Taeyang · Nosferatu（TS-06）",
+      "brand": "Groove",
+      "country": "日本",
+      "origin": "中国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "商品规格 · 31 cm",
+          "basis": "官方本页商品尺寸栏"
+        },
+        {
+          "label": "身体表 · 34.8 cm",
+          "basis": "官方本页 Taeyang Body 规格栏"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "视线可调"
+        ],
+        "material": [
+          "ABS树脂",
+          "HIPS",
+          "TPR",
+          "POM树脂"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "材料范围",
+          "text": "本体为 ABS／HIPS／TPR／POM。头发 PET／聚酯、衣装及支架为另一份材料清单，不把衣装中的 PVC 写成人体主体材质。"
+        },
+        {
+          "title": "交付与眼机构",
+          "text": "附本款衣装与配件，眼机构按此身体版本；不能把 Dal／Byul 没有闭眼功能的身体当成同一种功能。"
+        },
+        {
+          "title": "官方数值冲突",
+          "text": "商品栏写约 31 cm，紧随的 Taeyang 身体表写 34.8 cm。主高度留空并同时保留两种标示，不自行选一个当确定值。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Taeyang/Nosferatu(ノスフェラトゥ)– Groove Store Japan",
+          "url": "https://www.jgroove.jp/collections/new-in/products/ts06-nosferatu",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方结构与尺寸说明",
+          "title": "What’s Pullip– Groove Store Japan",
+          "url": "https://www.jgroove.jp/pages/what-s-pullip",
+          "supports": "Pullip 家族的可动、视线及不同身体背景；型号页数据优先"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "groove-nina",
+      "name": "WooriPullip · Nina（WP-003）",
+      "original": "WooriPullip · Nina（WP-003）",
+      "brand": "Groove",
+      "country": "日本",
+      "origin": "中国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 210,
+      "heightBasis": "官方本款商品全高约值（含头）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 21 cm",
+          "basis": "官方本款商品全高约值（含头）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "视线可调"
+        ],
+        "material": [
+          "ABS树脂",
+          "HIPS",
+          "TPR",
+          "POM树脂"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "材料范围",
+          "text": "本体为 ABS／HIPS／TPR／POM。头发 PET／聚酯、衣装及支架为另一份材料清单，不把衣装中的 PVC 写成人体主体材质。"
+        },
+        {
+          "title": "交付与眼机构",
+          "text": "附本款衣装与配件，眼机构按此身体版本；不能把 Dal／Byul 没有闭眼功能的身体当成同一种功能。"
+        },
+        {
+          "title": "系列区别",
+          "text": "WooriPullip Nina 本款为 21 cm，不能套用普通 Pullip 的 31 cm 全高和围度。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "WooriPullip Nina(ニーナ)– Groove Store Japan",
+          "url": "https://www.jgroove.jp/collections/new-in/products/wooripullip-nina",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方结构与尺寸说明",
+          "title": "What’s Pullip– Groove Store Japan",
+          "url": "https://www.jgroove.jp/pages/what-s-pullip",
+          "supports": "Pullip 家族的可动、视线及不同身体背景；型号页数据优先"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "groove-lilith",
+      "name": "Byul · Lilith（TS-05）",
+      "original": "Byul · Lilith（TS-05）",
+      "brand": "Groove",
+      "country": "日本",
+      "origin": "中国（官方标示）",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "商品规格 · 31 cm",
+          "basis": "官方本页商品尺寸栏"
+        },
+        {
+          "label": "Byul 身体表 · 26.8 cm",
+          "basis": "官方家族说明的 Byul 身体表，非本款独立测量"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "视线可调"
+        ],
+        "material": [
+          "ABS树脂",
+          "HIPS",
+          "TPR",
+          "POM树脂"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "材料范围",
+          "text": "本体为 ABS／HIPS／TPR／POM。头发 PET／聚酯、衣装及支架为另一份材料清单，不把衣装中的 PVC 写成人体主体材质。"
+        },
+        {
+          "title": "交付与眼机构",
+          "text": "附本款衣装与配件，眼机构按此身体版本；不能把 Dal／Byul 没有闭眼功能的身体当成同一种功能。"
+        },
+        {
+          "title": "尺寸与眼机构",
+          "text": "本款商品页写约 31 cm，家族说明的 Byul 身体为 26.8 cm，主高度暂留未知。Byul 可调视线但没有闭眼机构，不从 Pullip 搬用眨眼功能。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Byul / Lilith (リリス)– Groove Store Japan",
+          "url": "https://www.jgroove.jp/collections/new-in/products/ts05-lilith",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        },
+        {
+          "kind": "官方结构与尺寸说明",
+          "title": "What’s Pullip– Groove Store Japan",
+          "url": "https://www.jgroove.jp/pages/what-s-pullip",
+          "supports": "Pullip 家族的可动、视线及不同身体背景；型号页数据优先"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "medicom-miles-renewal",
+      "name": "MAFEX · Miles Morales（Comic Renewal）",
+      "original": "MAFEX · Miles Morales（Comic Renewal）",
+      "brand": "MEDICOM TOY",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 160,
+      "heightBasis": "官方本型号全高约值",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 16 cm",
+          "basis": "官方本型号全高约值"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与交付",
+          "text": "可动成品，替换头、手与支架按本页清单；Renewal、Ver.1.5 和原版 No.186 分开，不从常见尺寸推定 1:12，也不从其他 MAFEX 型号推定材料。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "MAFEX SPIDER-MAN Miles Morales (COMIC RENEWAL Ver.) | MEDICOM TOY OFFICIAL STORE",
+          "url": "https://store.medicomtoy.co.jp/en/products/4530956472768",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "PERFECT-STUDIO"
+        }
+      ]
+    },
+    {
+      "id": "medicom-iron-spider-renewal",
+      "name": "MAFEX · Iron Spider（Endgame Renewal）",
+      "original": "MAFEX · Iron Spider（Endgame Renewal）",
+      "brand": "MEDICOM TOY",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 145,
+      "heightBasis": "官方本型号全高约值",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 14.5 cm",
+          "basis": "官方本型号全高约值"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与交付",
+          "text": "可动成品，替换头、手与支架按本页清单；Renewal、Ver.1.5 和原版 No.186 分开，不从常见尺寸推定 1:12，也不从其他 MAFEX 型号推定材料。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "MAFEX IRON SPIDER (ENDGAME Ver.) RENEWAL Ver. | MEDICOM TOY OFFICIAL STORE",
+          "url": "https://store.medicomtoy.co.jp/en/products/mafex-iron-spider-endgame-renewal-ver",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "PERFECT-STUDIO"
+        }
+      ]
+    },
+    {
+      "id": "medicom-scarlet-spider-186",
+      "name": "MAFEX · Scarlet Spider（Comic No.186）",
+      "original": "MAFEX · Scarlet Spider（Comic No.186）",
+      "brand": "MEDICOM TOY",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 155,
+      "heightBasis": "官方本型号全高约值",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 15.5 cm",
+          "basis": "官方本型号全高约值"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与交付",
+          "text": "可动成品，替换头、手与支架按本页清单；Renewal、Ver.1.5 和原版 No.186 分开，不从常见尺寸推定 1:12，也不从其他 MAFEX 型号推定材料。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "MAFEX SCARLET SPIDER(COMIC Ver.) | MEDICOM TOY OFFICIAL STORE",
+          "url": "https://store.medicomtoy.co.jp/en/products/4530956471860",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "medicom-armored-batman-15",
+      "name": "MAFEX · Armored Batman Ver.1.5",
+      "original": "MAFEX · Armored Batman Ver.1.5",
+      "brand": "MEDICOM TOY",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 160,
+      "heightBasis": "官方本型号全高约值",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 16 cm",
+          "basis": "官方本型号全高约值"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与交付",
+          "text": "可动成品，替换头、手与支架按本页清单；Renewal、Ver.1.5 和原版 No.186 分开，不从常见尺寸推定 1:12，也不从其他 MAFEX 型号推定材料。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "MAFEX ARMORED BATMAN Ver.1.5 | MEDICOM TOY OFFICIAL STORE",
+          "url": "https://store.medicomtoy.co.jp/en/products/mafex-armored-batman-ver-1-5",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "PERFECT-STUDIO"
+        }
+      ]
+    },
+    {
+      "id": "medicom-butcher-tempv24",
+      "name": "MAFEX · Billy Butcher（Temp V24）",
+      "original": "MAFEX · Billy Butcher（Temp V24）",
+      "brand": "MEDICOM TOY",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 155,
+      "heightBasis": "官方本型号全高约值",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 15.5 cm",
+          "basis": "官方本型号全高约值"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品",
+          "计划商品"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与交付",
+          "text": "可动成品，替换头、手与支架按本页清单；Renewal、Ver.1.5 和原版 No.186 分开，不从常见尺寸推定 1:12，也不从其他 MAFEX 型号推定材料。"
+        },
+        {
+          "title": "布制服装",
+          "text": "本款明确附布制大衣；官网未在本页保证脱衣范围或与其他素体通用，因此不记为通用换装素体。"
+        },
+        {
+          "title": "官网状态",
+          "text": "本款商品页标为 COMING SOON，保留计划状态；不据预览规格认定已经交付。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "MAFEX WILLIAM \"BILLY\" BUTCHER TEMP V24 Ver. | MEDICOM TOY OFFICIAL STORE",
+          "url": "https://store.medicomtoy.co.jp/en/products/mafex-william-billy-butcher-temp-v24-ver",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "Masato Ohata"
+        }
+      ]
+    },
+    {
+      "id": "tbleague-s24a",
+      "name": "TBLeague · S24A（PL-MB2018-S24A）",
+      "original": "TBLeague · S24A（PL-MB2018-S24A）",
+      "brand": "TBLeague",
+      "country": "未披露",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "frame",
+      "scale": "1:6",
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "经销高度 · 27.8 cm",
+          "basis": "经销页标示；含头／无头口径未明确，不写入主要高度"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "服装另配",
+          "硬质换件"
+        ],
+        "material": [
+          "弹性外皮（成分未细分）",
+          "金属"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "无缝结构",
+          "text": "外皮包覆内部金属骨架，关节可动；不属于拉筋树脂娃。换手脚范围以本款所附零件为准。"
+        },
+        {
+          "title": "单售范围与高度",
+          "text": "身体不含头雕、假发和衣装。经销标示高度的含头口径不清，主要高度保持未知；不根据照片假设通用接头或衣鞋适配。"
+        },
+        {
+          "title": "资料性质",
+          "text": "目前采用公开的海外经销规格；品牌所在地与商品产地未取得明确出处，保留未披露。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "海外经销规格",
+          "title": "Super-Flexible Female Seamless 1/6 Scale Pale Medium Bust Tall Body (S24A)",
+          "url": "https://www.bigbadtoystore.com/product/super-flexible-female-seamless-1_6-scale-pale-medium-bust-tall-body-s24a-36839?variation=74822",
+          "supports": "本款无缝身体、骨架、交付与经销尺寸标示；非厂商原始测量"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "tbleague-s26a",
+      "name": "TBLeague · S26A",
+      "original": "TBLeague · S26A",
+      "brand": "TBLeague",
+      "country": "未披露",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "frame",
+      "scale": "1:6",
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "经销高度 · 27 cm",
+          "basis": "经销页标示；含头／无头口径未明确，不写入主要高度"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "服装另配",
+          "硬质换件"
+        ],
+        "material": [
+          "弹性外皮（成分未细分）",
+          "金属"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "无缝结构",
+          "text": "外皮包覆内部金属骨架，关节可动；不属于拉筋树脂娃。换手脚范围以本款所附零件为准。"
+        },
+        {
+          "title": "单售范围与高度",
+          "text": "身体不含头雕、假发和衣装。经销标示高度的含头口径不清，主要高度保持未知；不根据照片假设通用接头或衣鞋适配。"
+        },
+        {
+          "title": "资料性质",
+          "text": "目前采用公开的海外经销规格；品牌所在地与商品产地未取得明确出处，保留未披露。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "海外经销规格",
+          "title": "Super-Flexible Female Seamless 1/6 Scale Pale Medium Bust Body (S26A)",
+          "url": "https://www.bigbadtoystore.com/product/super-flexible-female-seamless-1_6-scale-pale-medium-bust-body-s26a-36834?variation=74815",
+          "supports": "本款无缝身体、骨架、交付与经销尺寸标示；非厂商原始测量"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "tbleague-m31",
+      "name": "TBLeague · M31 Body 2.0",
+      "original": "TBLeague · M31 Body 2.0",
+      "brand": "TBLeague",
+      "country": "未披露",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "frame",
+      "scale": "1:6",
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "经销高度 · 31 cm",
+          "basis": "经销页标示；含头／无头口径未明确，不写入主要高度"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "服装另配",
+          "硬质换件"
+        ],
+        "material": [
+          "弹性外皮（成分未细分）",
+          "不锈钢"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "无缝结构",
+          "text": "外皮包覆内部金属骨架，关节可动；不属于拉筋树脂娃。换手脚范围以本款所附零件为准。"
+        },
+        {
+          "title": "单售范围与高度",
+          "text": "身体不含头雕、假发和衣装。经销标示高度的含头口径不清，主要高度保持未知；不根据照片假设通用接头或衣鞋适配。"
+        },
+        {
+          "title": "资料性质",
+          "text": "目前采用公开的海外经销规格；品牌所在地与商品产地未取得明确出处，保留未披露。"
+        },
+        {
+          "title": "本款骨架",
+          "text": "M31 Body 2.0 经销页列不锈钢内部骨架及 28 处关节；外皮具体聚合物未披露，不泛称硅胶。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "海外经销规格",
+          "title": "Super-Flexible Male Seamless 1/6 Scale Body 2.0 (M31)",
+          "url": "https://www.bigbadtoystore.com/product/super-flexible-male-seamless-1_6-scale-body-2_0-m31-18345?variation=30393",
+          "supports": "本款无缝身体、骨架、交付与经销尺寸标示；非厂商原始测量"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "tbleague-s42a",
+      "name": "TBLeague · S42A",
+      "original": "TBLeague · S42A",
+      "brand": "TBLeague",
+      "country": "未披露",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "frame",
+      "scale": "1:6",
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "经销高度 · 28.3 cm",
+          "basis": "经销页标示；含头／无头口径未明确，不写入主要高度"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "服装另配",
+          "硬质换件"
+        ],
+        "material": [
+          "TPE",
+          "不锈钢"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "无缝结构",
+          "text": "外皮包覆内部金属骨架，关节可动；不属于拉筋树脂娃。换手脚范围以本款所附零件为准。"
+        },
+        {
+          "title": "单售范围与高度",
+          "text": "身体不含头雕、假发和衣装。经销标示高度的含头口径不清，主要高度保持未知；不根据照片假设通用接头或衣鞋适配。"
+        },
+        {
+          "title": "资料性质",
+          "text": "目前采用公开的海外经销规格；品牌所在地与商品产地未取得明确出处，保留未披露。"
+        },
+        {
+          "title": "材料与脚部",
+          "text": "此经销页明确写 TPE 外皮和不锈钢骨架，脚为连体设计；不把这项材料或脚部结构搬用到其他款。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "海外经销规格",
+          "title": "Phicen TBLeague S42A - Pale, Large Bust Female - 1/6 Scale Seamless Ac – Movie Figures",
+          "url": "https://www.moviefigures.co.uk/products/phicen-tbleague-s42a-pale-large-bust-female-1-6-scale-seamless-action-figure",
+          "supports": "本款无缝身体、骨架、交付与经销尺寸标示；非厂商原始测量"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "kotobukiya-puni-mao",
+      "name": "PUNI☆MOFU · マオ（KP740R）",
+      "original": "PUNI☆MOFU · マオ（KP740R）",
+      "brand": "KOTOBUKIYA",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": "1:1",
+      "heightMm": 135,
+      "heightBasis": "官方组装完成的全高约值",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 13.5 cm",
+          "basis": "官方组装完成的全高约值"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "硬质换件",
+          "换脸"
+        ],
+        "material": [
+          "PS树脂",
+          "ABS树脂",
+          "POM树脂"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "低身长身体",
+          "text": "采用 Masinika Block2-S；3 mm 接口与官方列出的系列部分兼容，不能据此认定所有零件、布衣、头眼都通用。"
+        },
+        {
+          "title": "比例基准",
+          "text": "1:1 以作品设定中的小型自立人偶机器人为基准，不表示真人等身；实体高度以本商品规格为准。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "PUNI☆MOFU マオ｜メガミデバイス｜美少女プラモデル｜プラモデル｜コトブキヤ製品情報ポータルサイト｜フィギュア・プラモデル・ホビー｜壽屋",
+          "url": "https://www.kotobukiya.co.jp/product/detail/p4934054088270/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "浅井真紀"
+        },
+        {
+          "role": "原型制作",
+          "name": "福元徳宝"
+        },
+        {
+          "role": "原型制作",
+          "name": "たすく"
+        },
+        {
+          "role": "原型制作",
+          "name": "工房いやさか"
+        },
+        {
+          "role": "原型制作",
+          "name": "株式会社イクリエ"
+        },
+        {
+          "role": "原型制作",
+          "name": "鳥山とりを"
+        },
+        {
+          "role": "眼部印刷",
+          "name": "雨間"
+        },
+        {
+          "role": "角色设计",
+          "name": "BLADE"
+        }
+      ]
+    },
+    {
+      "id": "kotobukiya-puni-kuro-mao",
+      "name": "PUNI☆MOFU · 黒マオ（KP801）",
+      "original": "PUNI☆MOFU · 黒マオ（KP801）",
+      "brand": "KOTOBUKIYA",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": "1:1",
+      "heightMm": 135,
+      "heightBasis": "官方组装完成的全高约值",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 13.5 cm",
+          "basis": "官方组装完成的全高约值"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "硬质换件",
+          "换脸"
+        ],
+        "material": [
+          "PS树脂",
+          "ABS树脂",
+          "POM树脂"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "低身长身体",
+          "text": "采用 Masinika Block2-S；3 mm 接口与官方列出的系列部分兼容，不能据此认定所有零件、布衣、头眼都通用。"
+        },
+        {
+          "title": "比例基准",
+          "text": "1:1 以作品设定中的小型自立人偶机器人为基准，不表示真人等身；实体高度以本商品规格为准。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "PUNI☆MOFU 黒マオ｜メガミデバイス｜美少女プラモデル｜プラモデル｜コトブキヤ製品情報ポータルサイト｜フィギュア・プラモデル・ホビー｜壽屋",
+          "url": "https://www.kotobukiya.co.jp/product/detail/p4934054068661/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "浅井真紀"
+        },
+        {
+          "role": "原型制作",
+          "name": "福元徳宝"
+        },
+        {
+          "role": "原型制作",
+          "name": "たすく"
+        },
+        {
+          "role": "原型制作",
+          "name": "工房いやさか"
+        },
+        {
+          "role": "原型制作",
+          "name": "株式会社イクリエ"
+        },
+        {
+          "role": "原型制作",
+          "name": "鳥山とりを"
+        },
+        {
+          "role": "眼部印刷",
+          "name": "雨間"
+        },
+        {
+          "role": "角色设计",
+          "name": "BLADE"
+        }
+      ]
+    },
+    {
+      "id": "kotobukiya-buster-gunner",
+      "name": "BUSTER DOLL · ガンナー",
+      "original": "BUSTER DOLL · ガンナー",
+      "brand": "KOTOBUKIYA",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": "1:1",
+      "heightMm": 160,
+      "heightBasis": "官方组装完成的全高约值",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 16 cm",
+          "basis": "官方组装完成的全高约值"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "硬质换件",
+          "换脸"
+        ],
+        "material": [
+          "PS树脂",
+          "ABS树脂",
+          "POM树脂"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体改版",
+          "text": "采用 Masinika Block2-M；分层装甲为硬质换件，服装外观不等于可脱布衣。材料按当前官网 PS／ABS／POM 修订栏记录。"
+        },
+        {
+          "title": "比例基准",
+          "text": "1:1 以作品设定中的小型自立人偶机器人为基准，不表示真人等身；实体高度以本商品规格为准。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "BUSTER DOLL ガンナー｜メガミデバイス｜美少女プラモデル｜プラモデル｜コトブキヤ製品情報ポータルサイト｜フィギュア・プラモデル・ホビー｜壽屋",
+          "url": "https://www.kotobukiya.co.jp/product/detail/p4934054043774/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "浅井真紀"
+        },
+        {
+          "role": "原型制作",
+          "name": "福元徳宝"
+        },
+        {
+          "role": "原型制作",
+          "name": "吉本アートファクトリー"
+        },
+        {
+          "role": "原型制作",
+          "name": "たすく"
+        },
+        {
+          "role": "原型制作",
+          "name": "鳥山とりを"
+        },
+        {
+          "role": "眼部印刷",
+          "name": "雨間"
+        }
+      ]
+    },
+    {
+      "id": "kotobukiya-magatsuki-kit",
+      "name": "Frame Arms Girl · マガツキ（拼装）",
+      "original": "Frame Arms Girl · マガツキ（拼装）",
+      "brand": "KOTOBUKIYA",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 162,
+      "heightBasis": "官方组装完成的全高约值",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 16.2 cm",
+          "basis": "官方组装完成的全高约值"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "硬质换件",
+          "换脸"
+        ],
+        "material": [
+          "PS树脂",
+          "PE树脂",
+          "ABS树脂",
+          "POM树脂",
+          "PVC"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "可动与换件",
+          "text": "胸肩有拉出关节、髋部滑动；PVC 替换手和装甲为硬件。与同角色涂装成品不同，需自行组装。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "フレームアームズ・ガール マガツキ｜フレームアームズ・ガール｜美少女プラモデル｜プラモデル｜コトブキヤ製品情報ポータルサイト｜フィギュア・プラモデル・ホビー｜壽屋",
+          "url": "https://www.kotobukiya.co.jp/product/detail/p4934054062195/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "清水康智"
+        },
+        {
+          "role": "原型制作",
+          "name": "八音"
+        },
+        {
+          "role": "机械设计",
+          "name": "ToMo"
+        },
+        {
+          "role": "角色设计",
+          "name": "駒都えーじ"
+        }
+      ]
+    },
+    {
+      "id": "kotobukiya-magatsuki-figure",
+      "name": "Frame Arms Girl · マガツキ（涂装成品 PV262）",
+      "original": "Frame Arms Girl · マガツキ（涂装成品 PV262）",
+      "brand": "KOTOBUKIYA",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "static",
+      "scale": null,
+      "heightMm": 158,
+      "heightBasis": "官方全高约值（含台座）",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 15.8 cm",
+          "basis": "官方全高约值（含台座）"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "固定姿势"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "磁铁",
+          "亚克力"
+        ],
+        "role": [
+          "静态手办",
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "静态版本",
+          "text": "固定姿势涂装成品，围裙部分磁吸可取下；附亚克力底座，158 mm 包含底座，不能和拼装版 162 mm 作人体高度差比较。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "マガツキ｜フレームアームズ・ガール｜美少女フィギュア｜フィギュア｜コトブキヤ製品情報ポータルサイト｜フィギュア・プラモデル・ホビー｜壽屋",
+          "url": "https://www.kotobukiya.co.jp/product/detail/p4934054064168/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "KOTOBUKIYA"
+        }
+      ]
+    },
+    {
+      "id": "bandai-30ms-kit",
+      "name": "30MS · リシェッタ（Freesia Wear Color A）",
+      "original": "30MS · リシェッタ（Freesia Wear Color A）",
+      "brand": "BANDAI SPIRITS",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "硬质换件",
+          "换脸"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与接口",
+          "text": "本版官方列 2024 年 11 月；股关节有防脱结构，尾部导线用于造型。三种印刷表情及硬质装甲可换，鞋底 3 mm 接口。 官方支持的部分改装不代表所有厂牌、关节与衣装通用。"
+        },
+        {
+          "title": "尺寸与材料",
+          "text": "本商品页没有对应完整人偶的单一全高与聚合物明细，保持未知；不推定 1:12 或 PVC／ABS。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "30MS リシェッタ(フリージアウエア)[カラーA]│株式会社BANDAI SPIRITS（バンダイスピリッツ）",
+          "url": "https://www.bandaispirits.co.jp/products/search/detail.php?grp_id=5325&prd_id=4573102674333000",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "bandai-tiarsha-kit",
+      "name": "30MS · ティアーシャ（Dahlia Wear Color B）",
+      "original": "30MS · ティアーシャ（Dahlia Wear Color B）",
+      "brand": "BANDAI SPIRITS",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "硬质换件",
+          "换脸"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与接口",
+          "text": "本版官方列 2025 年 11 月；腰背可装翼件，三种印刷表情及武装件可换，采用 30 MINUTES LABEL 的 3 mm 接口。 官方支持的部分改装不代表所有厂牌、关节与衣装通用。"
+        },
+        {
+          "title": "尺寸与材料",
+          "text": "本商品页没有对应完整人偶的单一全高与聚合物明细，保持未知；不推定 1:12 或 PVC／ABS。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "30MS ティアーシャ(ダリアウエア)[カラーB]│株式会社BANDAI SPIRITS（バンダイスピリッツ）",
+          "url": "https://www.bandaispirits.co.jp/products/search/detail.php?grp_id=5325&prd_id=4573102691767000",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "medicos-giorno-specific",
+      "name": "超像可动 · 乔鲁诺（2014 再生产）",
+      "original": "超像可动 · 乔鲁诺（2014 再生产）",
+      "brand": "MEDICOS ENTERTAINMENT",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 160,
+      "heightBasis": "所列官方具体版本的全高约值",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 16 cm",
+          "basis": "所列官方具体版本的全高约值"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本限制",
+          "text": "本记录限定为所列年份、配色与发售资料。附替换件及台座，衣装为硬质塑形；不套用后来再版、Third 或 2.0 的身高。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "超像可動“ジョジョの奇妙な冒険　第5部 黄金の風”【ジョルノ・ジョバァーナ】再生産のお知らせ!!｜メディコス・エンタテインメント　公式サイト",
+          "url": "https://www.medicos-e.net/newsdetail/20140221_1/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "PROGRESS"
+        },
+        {
+          "role": "造形制作统筹",
+          "name": "匠工房"
+        }
+      ]
+    },
+    {
+      "id": "medicos-giorno-second-specific",
+      "name": "超像可动 · 乔鲁诺 Second（2016）",
+      "original": "超像可动 · 乔鲁诺 Second（2016）",
+      "brand": "MEDICOS ENTERTAINMENT",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 160,
+      "heightBasis": "所列官方具体版本的全高约值",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 16 cm",
+          "basis": "所列官方具体版本的全高约值"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本限制",
+          "text": "本记录限定为所列年份、配色与发售资料。附替换件及台座，衣装为硬质塑形；不套用后来再版、Third 或 2.0 的身高。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "超像可動“ジョジョの奇妙な冒険 第5部 黄金の風”【ジョルノ・ジョバァーナ・セカンド】受注開始のお知らせ!!｜メディコス・エンタテインメント　公式サイト",
+          "url": "https://www.medicos-e.net/newsdetail/20160606_1/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "PROGRESS"
+        },
+        {
+          "role": "造形制作统筹",
+          "name": "匠工房"
+        }
+      ]
+    },
+    {
+      "id": "medicos-giorno-black-specific",
+      "name": "超像可动 · 乔鲁诺 Ver.BLACK（2020）",
+      "original": "超像可动 · 乔鲁诺 Ver.BLACK（2020）",
+      "brand": "MEDICOS ENTERTAINMENT",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 150,
+      "heightBasis": "所列官方具体版本的全高约值",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 15 cm",
+          "basis": "所列官方具体版本的全高约值"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "尼龙树脂"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本限制",
+          "text": "本记录限定为所列年份、配色与发售资料。附替换件及台座，衣装为硬质塑形；不套用后来再版、Third 或 2.0 的身高。"
+        },
+        {
+          "title": "活动证据范围",
+          "text": "官方以 WF2020 秋销售企划或相关线上销售名义发布；这只能说明销售企划，不作为实际在会场出展的证据。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "【WF2020[秋] 販売企画商品】 『ジョジョの奇妙な冒険 第5部』超像可動「ジョルノ・ジョバァーナ Ver.BLACK」【MEDICOS ONLINE SHOP限定特典付き先行販売】｜メディコス・エンタテインメント　公式サイト",
+          "url": "https://www.medicos-e.net/newsdetail/wf2020a02/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "PROGRESS"
+        },
+        {
+          "role": "造形制作统筹",
+          "name": "匠工房"
+        }
+      ]
+    },
+    {
+      "id": "medicos-risotto-specific",
+      "name": "超像可动 · Risotto Nero（2020 销售企划）",
+      "original": "超像可动 · Risotto Nero（2020 销售企划）",
+      "brand": "MEDICOS ENTERTAINMENT",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 160,
+      "heightBasis": "所列官方具体版本的全高约值",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 16 cm",
+          "basis": "所列官方具体版本的全高约值"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "尼龙树脂"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本限制",
+          "text": "本记录限定为所列年份、配色与发售资料。附替换件及台座，衣装为硬质塑形；不套用后来再版、Third 或 2.0 的身高。"
+        },
+        {
+          "title": "活动证据范围",
+          "text": "官方以 WF2020 秋销售企划或相关线上销售名义发布；这只能说明销售企划，不作为实际在会场出展的证据。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "■店頭販売■【WF2020[秋] 販売企画商品】『ジョジョの奇妙な冒険 第5部』超像可動「ジョルノ・ジョバァーナ Ver.BLACK」超像可動「リゾット・ネエロ」【MEDICOS SHOP限定特典付き販売】｜メディコス・エンタテインメント　公式サイト",
+          "url": "https://www.medicos-e.net/newsdetail/wf2020ashop/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "PROGRESS"
+        },
+        {
+          "role": "造形制作统筹",
+          "name": "匠工房"
+        }
+      ]
+    },
+    {
+      "id": "medicos-jolyne-specific",
+      "name": "超像可动 · 空条徐伦（2014 初版）",
+      "original": "超像可动 · 空条徐伦（2014 初版）",
+      "brand": "MEDICOS ENTERTAINMENT",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 160,
+      "heightBasis": "所列官方具体版本的全高约值",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 16 cm",
+          "basis": "所列官方具体版本的全高约值"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "尼龙树脂"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本限制",
+          "text": "本记录限定为所列年份、配色与发售资料。附替换件及台座，衣装为硬质塑形；不套用后来再版、Third 或 2.0 的身高。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "超像可動｜ジョジョの奇妙な冒険　第６部　-空条徐倫-｜メディコス・エンタテインメント　公式サイト",
+          "url": "https://www.medicos-e.net/gallery/%E8%B6%85%E5%83%8F%E5%8F%AF%E5%8B%95%EF%BD%9C%E3%82%B8%E3%83%A7%E3%82%B8%E3%83%A7%E3%81%AE%E5%A5%87%E5%A6%99%E3%81%AA%E5%86%92%E9%99%BA%E3%80%80%E7%AC%AC%EF%BC%96%E9%83%A8%E3%80%80-%E7%A9%BA%E6%9D%A1/",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "原型制作",
+          "name": "PROGRESS"
+        },
+        {
+          "role": "造形制作统筹",
+          "name": "匠工房"
+        }
+      ]
+    },
+    {
+      "id": "hottoys-spider-black-deluxe-728b",
+      "name": "Movie Masterpiece · 黑制服 Spider-Man（Deluxe MM#728B）",
+      "original": "Movie Masterpiece · 黑制服 Spider-Man（Deluxe MM#728B）",
+      "brand": "Hot Toys",
+      "country": "未披露",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 300,
+      "heightBasis": "官方 Spider-Man 本体约值；不含场景台座",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 30 cm",
+          "basis": "官方 Spider-Man 本体约值；不含场景台座"
+        },
+        {
+          "label": "台座 · 18 × 19 × 12 cm",
+          "basis": "官方台座高 × 宽 × 深；不并入人体全高"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "硬质换件",
+          "视线可调"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "选定版本",
+          "text": "Deluxe、Bonus Accessory、MM#728B，日本官方列 2025 年 5 月。30 处可动、替换头手与可动眼球，场景台座和追加共生体头件按此版本清单。"
+        },
+        {
+          "title": "服装与材料",
+          "text": "本款有黑制服与外套件，但官方未给主体材料明细或保证脱衣换装，不写成通用裸素体。日本发售方不直接当作品牌原始所在地。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "【ムービー・マスターピース】『スパイダーマン3』1/6スケールフィギュア　スパイダーマン（ブラックスーツ／デラックス版）［ボーナスアクセサリー付き］ | 株式会社ホットトイズジャパン",
+          "url": "https://www.hottoys.jp/item/view/4582578319754.php",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "threezero-nezuko",
+      "name": "FigZero · 竈門禰豆子",
+      "original": "FigZero · 竈門禰豆子",
+      "brand": "threezero",
+      "country": "未披露",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 263,
+      "heightBasis": "官方本款人偶全高约值",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 26.3 cm",
+          "basis": "官方本款人偶全高约值"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "硬质换件",
+          "布制服装",
+          "换脸"
+        ],
+        "material": [
+          "ABS树脂",
+          "PVC",
+          "POM树脂",
+          "金属",
+          "磁铁",
+          "布料"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体与衣装",
+          "text": "34 处可动；布制和服及羽织、磁吸脚绑与手球，三种脸及换手。部分发梢含可弯线；不能把这些线当成拉筋。"
+        },
+        {
+          "title": "发货状态",
+          "text": "规格与网页当前所列商品版本对应；历史预计发货季度和页面发货排期不等于每个订单已交付。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Demon Slayer: Kimetsu no Yaiba FigZero 1/6 Nezuko Kamado | My Website",
+          "url": "https://www.threezerohk.com/shop/demon-slayer-kimetsu-no-yaiba-figzero-1-6-nezuko-kamado-6943",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "threezero-giorno",
+      "name": "FigZero · 乔鲁诺",
+      "original": "FigZero · 乔鲁诺",
+      "brand": "threezero",
+      "country": "未披露",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 293,
+      "heightBasis": "官方本款人偶全高约值",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 29.3 cm",
+          "basis": "官方本款人偶全高约值"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "硬质换件",
+          "布衣不可脱",
+          "视线可调",
+          "换脸"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM树脂",
+          "布料"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "布衣限制",
+          "text": "官方明确写布制服装不能脱下。33 处可动、可调眼球、三种脸和换手；头辫与上衣下摆含可弯金属线，不把金属线当成人体骨架。"
+        },
+        {
+          "title": "发货状态",
+          "text": "规格与网页当前所列商品版本对应；历史预计发货季度和页面发货排期不等于每个订单已交付。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "JOJO's Bizarre Adventure: Golden Wind FigZero 1/6 Giorno Giovanna | My Website",
+          "url": "https://www.threezerohk.com/shop/jojo-s-bizarre-adventure-golden-wind-figzero-1-6-giorno-giovanna-6921",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "头部原型制作",
+          "name": "MICHIRU imai"
+        },
+        {
+          "role": "头部涂装样品",
+          "name": "MICHIRU imai"
+        }
+      ]
+    },
+    {
+      "id": "threezero-gold-zeo-chrome",
+      "name": "FigZero · Gold Zeo Power Ranger（Chrome）",
+      "original": "FigZero · Gold Zeo Power Ranger（Chrome）",
+      "brand": "threezero",
+      "country": "未披露",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 307,
+      "heightBasis": "官方本款人偶全高约值",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度 30.7 cm",
+          "basis": "官方本款人偶全高约值"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "硬质换件",
+          "布制服装"
+        ],
+        "material": [
+          "PVC",
+          "ABS树脂",
+          "POM树脂",
+          "布料"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "Chrome 版本",
+          "text": "34 处可动，布制服与镜面镀层装甲／武器，四对换手。本记录不把 Chrome 外观及配件移给普通金色版本；未明确保证可脱衣范围。"
+        },
+        {
+          "title": "发货状态",
+          "text": "规格与网页当前所列商品版本对应；历史预计发货季度和页面发货排期不等于每个订单已交付。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Power Rangers Zeo FigZero 1/6 Gold Zeo Power Ranger (Chrome Edition) | My Website",
+          "url": "https://www.threezerohk.com/shop/power-rangers-zeo-figzero-1-6-gold-zeo-power-ranger-chrome-edition-7141",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        }
+      ],
+      "event": null
+    },
+    {
+      "id": "azone-4573199854304",
+      "name": "赤いカメラ × SugarCups／ ビスケティーナ ～Happy Easter Bunny～　Doll Doll House 20周年記念 空想の庭 ver.",
+      "original": "赤いカメラ × SugarCups／ ビスケティーナ ～Happy Easter Bunny～　Doll Doll House 20周年記念 空想の庭 ver.",
+      "brand": "AZONE",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": "1:12",
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服",
+          "计划商品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换眼"
+        ],
+        "material": [
+          "软质乙烯基树脂",
+          "主体材料未细分"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体版本",
+          "text": "素体：ピコニーモP(ホワイト)。全高字样出现在身体规格行；未确认无头与带头口径前，主高度保持未知。"
+        },
+        {
+          "title": "具体配置",
+          "text": "8 mm ビスケティーナ 专用虹彩，采用 Out of Base 的 OB Doll Eye；2026 年 10 月 16 日起预计发送，Doll Doll House 20 周年版本与普通 Easter Bunny 版本分开。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "アゾネット | 商品詳細 | 赤いカメラ × SugarCups／ ビスケティーナ ～Happy Easter Bunny～　Doll Doll House 20周年記念 空想の庭 ver.",
+          "url": "https://www.azone-int.co.jp/azonet/item/4573199854304",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "身体企划／原型制作",
+          "name": "澤田工房"
+        },
+        {
+          "role": "整体设计／服装版型",
+          "name": "赤いカメラ"
+        },
+        {
+          "role": "头部原型制作",
+          "name": "Out of Base"
+        },
+        {
+          "role": "篮子与蛋制作",
+          "name": "ZAN（猫の小判）"
+        }
+      ]
+    },
+    {
+      "id": "azone-4573199852669",
+      "name": "SugarCups／ マシュマロッタ ～Welcome to Sugar Cup Wonderland！～（アゾンダイレクトストア限定販売）",
+      "original": "SugarCups／ マシュマロッタ ～Welcome to Sugar Cup Wonderland！～（アゾンダイレクトストア限定販売）",
+      "brand": "AZONE",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": "1:12",
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "规格栏全高 · 13 cm",
+          "basis": "官方身体规格行；含头口径未独立说明"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服",
+          "计划商品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换眼"
+        ],
+        "material": [
+          "软质乙烯基树脂",
+          "主体材料未细分"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体版本",
+          "text": "素体：ピコニーモP(ホワイト)※全高約13cm。全高字样出现在身体规格行；未确认无头与带头口径前，主高度保持未知。"
+        },
+        {
+          "title": "具体配置",
+          "text": "8 mm マシュマロッタ 专用虹彩与 OB Doll Eye；官网预计 2027 年 1 月 22 日交付。FC 先行订单与普通订单为同一商品，不重复计数。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "アゾネット | 商品詳細 | SugarCups／ マシュマロッタ ～Welcome to Sugar Cup Wonderland！～（アゾンダイレクトストア限定販売）",
+          "url": "https://www.azone-int.co.jp/azonet/item/4573199852669",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "身体企划／原型制作",
+          "name": "澤田工房"
+        },
+        {
+          "role": "角色／整体设计",
+          "name": "七海喜つゆり"
+        },
+        {
+          "role": "头部原型／面妆／眼睛设计",
+          "name": "Out of Base"
+        },
+        {
+          "role": "服装版型",
+          "name": "赤いカメラ"
+        }
+      ]
+    },
+    {
+      "id": "azone-4573199852256",
+      "name": "Lil’Fairy ～不思議の国のちいさなお手伝いさん～／リピィ",
+      "original": "Lil’Fairy ～不思議の国のちいさなお手伝いさん～／リピィ",
+      "brand": "AZONE",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": "1:12",
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "规格栏全高 · 12.5 cm",
+          "basis": "官方身体规格行；含头口径未独立说明"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服",
+          "计划商品"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "软质乙烯基树脂",
+          "主体材料未细分"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体版本",
+          "text": "素体：ピコニーモP(ミルキーホワイト)　※全高約12.5cm。全高字样出现在身体规格行；未确认无头与带头口径前，主高度保持未知。"
+        },
+        {
+          "title": "头部与交付",
+          "text": "植毛软质头配印刷眼，植发不记为可换假发／换眼；本版官网预计 2026 年 11 月 6 日交付。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "アゾネット | 商品詳細 | Lil’Fairy ～不思議の国のちいさなお手伝いさん～／リピィ",
+          "url": "https://www.azone-int.co.jp/azonet/item/4573199852256",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "身体企划／原型制作",
+          "name": "澤田工房"
+        },
+        {
+          "role": "面妆设计",
+          "name": "ミナ"
+        }
+      ]
+    },
+    {
+      "id": "azone-4573199852263",
+      "name": "Lil’Fairy ～不思議の国のちいさなお手伝いさん～／ロモ",
+      "original": "Lil’Fairy ～不思議の国のちいさなお手伝いさん～／ロモ",
+      "brand": "AZONE",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": "1:12",
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "规格栏全高 · 12.5 cm",
+          "basis": "官方身体规格行；含头口径未独立说明"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服",
+          "计划商品"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "软质乙烯基树脂",
+          "主体材料未细分"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体版本",
+          "text": "素体：ピコニーモP(ミルキーホワイト)　※全高約12.5cm。全高字样出现在身体规格行；未确认无头与带头口径前，主高度保持未知。"
+        },
+        {
+          "title": "头部与交付",
+          "text": "植毛软质头配印刷眼，植发不记为可换假发／换眼；本版官网预计 2026 年 11 月 6 日交付。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "アゾネット | 商品詳細 | Lil’Fairy ～不思議の国のちいさなお手伝いさん～／ロモ",
+          "url": "https://www.azone-int.co.jp/azonet/item/4573199852263",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "身体企划／原型制作",
+          "name": "澤田工房"
+        },
+        {
+          "role": "面妆设计",
+          "name": "ミナ"
+        }
+      ]
+    },
+    {
+      "id": "azone-4582119997298",
+      "name": "Lil’Fairy　～冬の地下道から～／ウィル（Black color ver．）",
+      "original": "Lil’Fairy　～冬の地下道から～／ウィル（Black color ver．）",
+      "brand": "AZONE",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": "1:12",
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "规格栏全高 · 15.5 cm",
+          "basis": "官方身体规格行；含头口径未独立说明"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "软质乙烯基树脂",
+          "主体材料未细分"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体版本",
+          "text": "ボディ：ピコニーモ D/男の子 ホワイト※全高約15.5cm。全高字样出现在身体规格行；未确认无头与带头口径前，主高度保持未知。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "アゾネット | 商品詳細 | Lil’Fairy　～冬の地下道から～／ウィル（Black color ver．）",
+          "url": "https://www.azone-int.co.jp/azonet/item/4582119997298",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "身体企划／原型制作",
+          "name": "澤田工房"
+        },
+        {
+          "role": "面妆设计",
+          "name": "ミナ"
+        }
+      ]
+    },
+    {
+      "id": "azone-4573199849980",
+      "name": "Poe-Poe × Iris Collect petit こもも～かぷっと中華まんガール！～（Angelic Blue ver．）",
+      "original": "Poe-Poe × Iris Collect petit こもも～かぷっと中華まんガール！～（Angelic Blue ver．）",
+      "brand": "AZONE",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "frame",
+      "scale": "1:3",
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服",
+          "计划商品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "软质乙烯基树脂",
+          "主体材料未细分"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体版本",
+          "text": "素体：AZT8-45ボディ(Lバスト)ホワイティ。全高字样出现在身体规格行；未确认无头与带头口径前，主高度保持未知。"
+        },
+        {
+          "title": "头眼与假发",
+          "text": "软质头、假发式，20 mm こもも专用虹彩，使用 OBITSU 尾櫃瞳；AZT8-45 L 胸身体，不把型号 45 直接当成人偶全高。"
+        },
+        {
+          "title": "延期信息",
+          "text": "官网由 2026 年 7 月改为 2026 年 11 月 19 日预计交付，按计划商品保留，不宣称已出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "アゾネット | 商品詳細 | Poe-Poe × Iris Collect petit こもも～かぷっと中華まんガール！～（Angelic Blue ver．）",
+          "url": "https://www.azone-int.co.jp/azonet/item/4573199849980",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "面妆／眼睛设计",
+          "name": "Poe-Poe"
+        }
+      ]
+    },
+    {
+      "id": "azone-4573199849997",
+      "name": "Poe-Poe × Iris Collect petit こもも～かぷっと中華まんガール！～（Lovely Pink ver．）",
+      "original": "Poe-Poe × Iris Collect petit こもも～かぷっと中華まんガール！～（Lovely Pink ver．）",
+      "brand": "AZONE",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "frame",
+      "scale": "1:3",
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服",
+          "计划商品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "软质乙烯基树脂",
+          "主体材料未细分"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体版本",
+          "text": "素体：AZT8-45ボディ(Lバスト)ホワイティ。全高字样出现在身体规格行；未确认无头与带头口径前，主高度保持未知。"
+        },
+        {
+          "title": "头眼与假发",
+          "text": "软质头、假发式，20 mm こもも专用虹彩，使用 OBITSU 尾櫃瞳；AZT8-45 L 胸身体，不把型号 45 直接当成人偶全高。"
+        },
+        {
+          "title": "延期信息",
+          "text": "官网由 2026 年 7 月改为 2026 年 11 月 19 日预计交付，按计划商品保留，不宣称已出货。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "アゾネット | 商品詳細 | Poe-Poe × Iris Collect petit こもも～かぷっと中華まんガール！～（Lovely Pink ver．）",
+          "url": "https://www.azone-int.co.jp/azonet/item/4573199849997",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "面妆／眼睛设计",
+          "name": "Poe-Poe"
+        }
+      ]
+    },
+    {
+      "id": "azone-4573199849331",
+      "name": "謹賀新年 2026／みら（アゾンダイレクトストア限定販売）",
+      "original": "謹賀新年 2026／みら（アゾンダイレクトストア限定販売）",
+      "brand": "AZONE",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体商品与身体版本记录；订购选项、计划日期及交付限制另见说明。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": null,
+      "heightBasis": null,
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "规格栏全高 · 21 cm",
+          "basis": "官方身体规格行；含头口径未独立说明"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换眼"
+        ],
+        "material": [
+          "软质乙烯基树脂",
+          "主体材料未细分"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体版本",
+          "text": "素体：ピュアニーモフレクション XS/女の子(ホワイト)※全高約21cm。全高字样出现在身体规格行；未确认无头与带头口径前，主高度保持未知。"
+        },
+        {
+          "title": "具体头眼",
+          "text": "植毛帽式软质头与 8 mm みら专用虹彩，使用 OBITSU 尾櫃瞳；帽式植发不直接标成通用可换假发。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "アゾネット | 商品詳細 | 謹賀新年 2026／みら（アゾンダイレクトストア限定販売）",
+          "url": "https://www.azone-int.co.jp/azonet/item/4573199849331",
+          "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
+        }
+      ],
+      "event": null,
+      "credits": [
+        {
+          "role": "身体企划／原型制作",
+          "name": "澤田工房"
+        },
+        {
+          "role": "头部原型制作",
+          "name": "ZAN（猫の小判）"
+        },
+        {
+          "role": "面妆／眼睛设计",
+          "name": "出島アイ"
+        }
+      ]
     }
   ],
   "resources": [
@@ -31858,6 +40578,48 @@ window.TOY_COMPARE_DATA = {
       "url": "https://dollfie.volks.co.jp/dd/about_bodysize/",
       "description": "区分 MDD、DDP、DDS、DD、DDdy 的身体版本；带头示例全高不能当作无头素体高度。",
       "checkedAt": "2026-10-06"
+    },
+    {
+      "group": "厂商结构与目录",
+      "name": "LUTS · 身体、头型与系列目录",
+      "url": "https://www.eluts.com/",
+      "description": "韩国厂商的现行身体与头型目录；Active、Muse、Neck compatible 及不同代身体分别核对。",
+      "checkedAt": "2026-10-06"
+    },
+    {
+      "group": "厂商结构与目录",
+      "name": "CP/FairyLand · 分版本尺寸表",
+      "url": "https://cpfairyland.com/mega-shop/links/measurement-table/",
+      "description": "MiniFee、FairyLine、FeePle、pukipuki 与 Realpuki 的头围、颈围、脚长和带头全高；身体单售不能借用带头高度。",
+      "checkedAt": "2026-10-06"
+    },
+    {
+      "group": "厂商结构与目录",
+      "name": "Iplehouse · 多型号身体与选项目录",
+      "url": "https://iplehouse.com/home/?page_no=en_index&nhn1=en",
+      "description": "BID、KID、JID、YID、SID、EID 的公开型号页及身体选项；同一头型可有不同身体与围度。",
+      "checkedAt": "2026-10-06"
+    },
+    {
+      "group": "厂商结构与目录",
+      "name": "Groove · Pullip 家族结构与尺寸",
+      "url": "https://www.jgroove.jp/pages/what-s-pullip",
+      "description": "公开介绍 Pullip、Dal、Byul、Taeyang、Isul 的身体和眼机构；Dal／Byul 没有闭眼功能。",
+      "checkedAt": "2026-10-06"
+    },
+    {
+      "group": "厂商结构与目录",
+      "name": "MEDICOM TOY · MAFEX 官方目录",
+      "url": "https://store.medicomtoy.co.jp/en/collections/mafex",
+      "description": "可动成品的原型、版本与附属件目录；Renewal 与旧版具体产品页分开。",
+      "checkedAt": "2026-10-06"
+    },
+    {
+      "group": "厂商结构与目录",
+      "name": "threezero · FigZero 与系列目录",
+      "url": "https://www.threezerohk.com/shop",
+      "description": "公开商品规格与发货排期；布制服装是否可脱、金属线所在部位及材料分别核对。",
+      "checkedAt": "2026-10-06"
     }
   ],
   "recordingRules": [
@@ -31869,7 +40631,7 @@ window.TOY_COMPARE_DATA = {
     "前端的图形是结构示意，不是产品照片。",
     "大类与数量只在资料层统计，前端不展示大类统计卡片。"
   ],
-  "coverage": "共 269 条具体商品／配套记录；持续按具体型号补充资料。不声称是完整展会目录或热门排名。",
+  "coverage": "共 568 条具体商品／身体／配套记录；持续按具体型号补充，不声称涵盖全部厂商、历史产品或完整展会目录。",
   "previousCheckDate": "2026-10-05",
   "checkDates": {
     "azone-body-pfl103-wht": "2026-10-06",
@@ -32237,6 +40999,131 @@ window.TOY_COMPARE_DATA = {
     "sekiguchi-273": "2026-10-06",
     "sekiguchi-274": "2026-10-06",
     "sekiguchi-275": "2026-10-06",
-    "medicos-jotaro-part4-second": "2026-10-06"
+    "medicos-jotaro-part4-second": "2026-10-06",
+    "luts-body-13564": "2026-10-06",
+    "luts-body-13837": "2026-10-06",
+    "luts-body-14440": "2026-10-06",
+    "luts-body-20514": "2026-10-06",
+    "luts-body-20515": "2026-10-06",
+    "luts-body-22711": "2026-10-06",
+    "luts-body-25371": "2026-10-06",
+    "luts-body-25372": "2026-10-06",
+    "luts-body-26745": "2026-10-06",
+    "luts-body-27525": "2026-10-06",
+    "luts-body-27526": "2026-10-06",
+    "luts-body-28361": "2026-10-06",
+    "luts-body-28839": "2026-10-06",
+    "luts-body-28841": "2026-10-06",
+    "luts-body-29438": "2026-10-06",
+    "luts-body-29789": "2026-10-06",
+    "luts-body-29790": "2026-10-06",
+    "luts-body-29791": "2026-10-06",
+    "luts-body-29792": "2026-10-06",
+    "luts-body-29793": "2026-10-06",
+    "luts-body-30304": "2026-10-06",
+    "luts-body-30305": "2026-10-06",
+    "luts-body-30329": "2026-10-06",
+    "luts-body-30682": "2026-10-06",
+    "luts-body-30683": "2026-10-06",
+    "luts-body-30687": "2026-10-06",
+    "luts-body-32598": "2026-10-06",
+    "luts-body-32649": "2026-10-06",
+    "luts-body-32650": "2026-10-06",
+    "luts-body-3908": "2026-10-06",
+    "luts-body-3960": "2026-10-06",
+    "luts-body-3961": "2026-10-06",
+    "luts-body-3980": "2026-10-06",
+    "luts-body-3983": "2026-10-06",
+    "luts-body-3989": "2026-10-06",
+    "luts-body-4002": "2026-10-06",
+    "luts-body-5491": "2026-10-06",
+    "luts-body-5492": "2026-10-06",
+    "luts-body-5493": "2026-10-06",
+    "luts-body-5759": "2026-10-06",
+    "luts-body-6080": "2026-10-06",
+    "luts-body-6086": "2026-10-06",
+    "luts-body-7280": "2026-10-06",
+    "luts-body-8288": "2026-10-06",
+    "luts-body-8758": "2026-10-06",
+    "luts-body-9093": "2026-10-06",
+    "luts-138-doll": "2026-10-06",
+    "luts-142-doll": "2026-10-06",
+    "luts-154-doll": "2026-10-06",
+    "luts-158-doll": "2026-10-06",
+    "luts-170-doll": "2026-10-06",
+    "luts-174-doll": "2026-10-06",
+    "luts-178-doll": "2026-10-06",
+    "luts-182-doll": "2026-10-06",
+    "luts-186-doll": "2026-10-06",
+    "fairy-83": "2026-10-06",
+    "fairy-87": "2026-10-06",
+    "fairy-91": "2026-10-06",
+    "fairy-99": "2026-10-06",
+    "fairy-103": "2026-10-06",
+    "fairy-111": "2026-10-06",
+    "fairy-model-132": "2026-10-06",
+    "fairy-model-140": "2026-10-06",
+    "fairy-model-152": "2026-10-06",
+    "fairy-model-156": "2026-10-06",
+    "fairy-model-160": "2026-10-06",
+    "fairy-model-164": "2026-10-06",
+    "fairy-model-168": "2026-10-06",
+    "fairy-model-172": "2026-10-06",
+    "fairy-model-176": "2026-10-06",
+    "fairy-model-180": "2026-10-06",
+    "fairy-model-184": "2026-10-06",
+    "fairy-model-188": "2026-10-06",
+    "fairy-model-192": "2026-10-06",
+    "iplehouse-1627078403": "2026-10-06",
+    "iplehouse-1566598592": "2026-10-06",
+    "iplehouse-1701462393": "2026-10-06",
+    "iplehouse-1643085582": "2026-10-06",
+    "iplehouse-1658523571": "2026-10-06",
+    "iplehouse-1650062014": "2026-10-06",
+    "iplehouse-1647636795": "2026-10-06",
+    "iplehouse-1641872326": "2026-10-06",
+    "iplehouse-1659128649": "2026-10-06",
+    "iplehouse-1562451468": "2026-10-06",
+    "iplehouse-1630198494": "2026-10-06",
+    "iplehouse-1323762396": "2026-10-06",
+    "iplehouse-1655512101": "2026-10-06",
+    "iplehouse-1565562524": "2026-10-06",
+    "groove-prunella": "2026-10-06",
+    "groove-nosferatu": "2026-10-06",
+    "groove-nina": "2026-10-06",
+    "groove-lilith": "2026-10-06",
+    "medicom-miles-renewal": "2026-10-06",
+    "medicom-iron-spider-renewal": "2026-10-06",
+    "medicom-scarlet-spider-186": "2026-10-06",
+    "medicom-armored-batman-15": "2026-10-06",
+    "medicom-butcher-tempv24": "2026-10-06",
+    "tbleague-s24a": "2026-10-06",
+    "tbleague-s26a": "2026-10-06",
+    "tbleague-m31": "2026-10-06",
+    "tbleague-s42a": "2026-10-06",
+    "kotobukiya-puni-mao": "2026-10-06",
+    "kotobukiya-puni-kuro-mao": "2026-10-06",
+    "kotobukiya-buster-gunner": "2026-10-06",
+    "kotobukiya-magatsuki-kit": "2026-10-06",
+    "kotobukiya-magatsuki-figure": "2026-10-06",
+    "bandai-30ms-kit": "2026-10-06",
+    "bandai-tiarsha-kit": "2026-10-06",
+    "medicos-giorno-specific": "2026-10-06",
+    "medicos-giorno-second-specific": "2026-10-06",
+    "medicos-giorno-black-specific": "2026-10-06",
+    "medicos-risotto-specific": "2026-10-06",
+    "medicos-jolyne-specific": "2026-10-06",
+    "hottoys-spider-black-deluxe-728b": "2026-10-06",
+    "threezero-nezuko": "2026-10-06",
+    "threezero-giorno": "2026-10-06",
+    "threezero-gold-zeo-chrome": "2026-10-06",
+    "azone-4573199854304": "2026-10-06",
+    "azone-4573199852669": "2026-10-06",
+    "azone-4573199852256": "2026-10-06",
+    "azone-4573199852263": "2026-10-06",
+    "azone-4582119997298": "2026-10-06",
+    "azone-4573199849980": "2026-10-06",
+    "azone-4573199849997": "2026-10-06",
+    "azone-4573199849331": "2026-10-06"
   }
 };
