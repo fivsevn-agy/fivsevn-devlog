@@ -1,0 +1,844 @@
+@font-face {
+  font-family: ToyGamePixel;
+  src: url("./fusion-pixel-12px-monospaced-zh_hans.woff2") format("woff2");
+  font-display: swap;
+}
+
+/* All visual settings live here. The stylesheet only affects this post. */
+#toyCompare {
+  --tc-text: #e3e3e3;
+  --tc-muted: #929292;
+  --tc-arrow: #a4a4a4;
+  --tc-note-heading: #d0d0d0;
+  --tc-link: #6becae;
+  --tc-link-hover: #a2f2ca;
+  --tc-card: #222222;
+  --tc-panel: #191919;
+  --tc-button: #303030;
+  --tc-label: #404040;
+  --tc-selected: #626262;
+  --tc-line: #404040;
+  --tc-layer-shadow: 3px 3px 0 #080808, 6px 6px 0 #000;
+  --tc-control-shadow: 0 2px 6px #0004;
+  --tc-chip-shadow: 0 3px 8px #0004;
+  --tc-font-body: 13px;
+  --tc-font-title: 24px;
+  --tc-font-product: 14px;
+  --tc-font-chip: 11px;
+  --tc-font-detail-chip: 12px;
+  --tc-font-control: 12px;
+  --tc-font-caption: 11px;
+  --tc-font-small: 10px;
+  --tc-font-dialog: 20px;
+  --tc-card-padding: 10px 14px;
+  --tc-chip-padding: 5px 8px;
+  --tc-compare-name-width: 176px;
+  --tc-compare-tag-width: 120px;
+  color: var(--tc-text) !important;
+  font-family: ToyGamePixel, monospace !important;
+  font-size: var(--tc-font-body) !important;
+  line-height: 1.55 !important;
+  margin-top: 28px;
+}
+
+#toyCompare * {
+  box-sizing: border-box;
+  border-radius: 0 !important;
+  font-family: inherit !important;
+}
+#toyCompare [hidden] {
+  display: none !important;
+}
+#toyCompare h2,
+#toyCompare h3,
+#toyCompare p,
+#toyCompare ul {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+#toyCompare h2 {
+  color: var(--tc-text) !important;
+  font-size: var(--tc-font-title) !important;
+  line-height: 1.3 !important;
+  letter-spacing: -0.04em;
+}
+#toyCompare h3 {
+  color: var(--tc-text) !important;
+  font-size: var(--tc-font-product) !important;
+  line-height: 1.45 !important;
+}
+#toyCompare p,
+#toyCompare small,
+#toyCompare li,
+#toyCompare td,
+#toyCompare th,
+#toyCompare label {
+  color: inherit !important;
+  font-size: inherit !important;
+  line-height: inherit !important;
+}
+#toyCompare a,
+#toyCompare a:visited {
+  color: var(--tc-link) !important;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+#toyCompare a:hover {
+  color: var(--tc-link-hover) !important;
+}
+#toyCompare button,
+#toyCompare input {
+  font: inherit !important;
+  color: var(--tc-text) !important;
+  border: 0;
+  background: var(--tc-panel) !important;
+  min-height: 30px;
+  padding: 5px 9px;
+  box-shadow: var(--tc-control-shadow);
+}
+#toyCompare button {
+  cursor: pointer;
+  text-align: center;
+  transition: filter 0.15s;
+}
+#toyCompare button:hover {
+  filter: brightness(1.08);
+}
+#toyCompare button:disabled {
+  cursor: default;
+  opacity: 0.45;
+}
+#toyCompare button:focus-visible,
+#toyCompare input:focus-visible,
+#toyCompare summary:focus-visible {
+  outline: 2px solid var(--tc-muted);
+  outline-offset: 3px;
+}
+#toyCompare a:focus-visible {
+  outline: 2px solid var(--tc-link);
+  outline-offset: 3px;
+}
+#toyCompare button.tc-primary {
+  background: var(--tc-label) !important;
+}
+#toyCompare .tc-muted {
+  color: var(--tc-muted) !important;
+}
+#toyCompare .tc-header {
+  margin-bottom: 20px;
+}
+#toyCompare .tc-tools {
+  display: flex;
+  margin-bottom: 14px;
+}
+#toyCompare .tc-search {
+  flex: 1;
+  min-width: 0;
+  position: relative;
+}
+#toyCompare .tc-search input {
+  width: 100%;
+  min-height: 34px;
+  padding: 6px 10px 6px 34px;
+  font-size: var(--tc-font-control) !important;
+  box-shadow: var(--tc-layer-shadow);
+}
+#toyCompare .tc-search input::placeholder {
+  color: var(--tc-muted);
+}
+#toyCompare .tc-search svg {
+  position: absolute;
+  left: 10px;
+  top: 9px;
+  width: 17px;
+  height: 17px;
+  color: var(--tc-muted);
+}
+#toyCompare .tc-brands {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 16px;
+}
+#toyCompare button.tc-brand-choice {
+  min-height: 20px;
+  padding: 1px 4px;
+  background: var(--tc-label) !important;
+  font-size: var(--tc-font-small) !important;
+  line-height: 1.45 !important;
+  box-shadow: 0 2px 5px #0004;
+}
+#toyCompare button.tc-brand-choice[aria-pressed="true"] {
+  background: var(--tc-selected) !important;
+}
+#toyCompare .tc-sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* Fixed tag categories; unknown and scale labels are explicit variants. */
+#toyCompare [data-category="joint"] {
+  --tc-tag-bg: #243033;
+  --tc-tag-fg: #b5d4d8;
+}
+#toyCompare [data-category="size"] {
+  --tc-tag-bg: #352a28;
+  --tc-tag-fg: #e0b0a5;
+}
+#toyCompare [data-category="delivery"] {
+  --tc-tag-bg: #332f25;
+  --tc-tag-fg: #ded1a5;
+}
+#toyCompare [data-category="dress"] {
+  --tc-tag-bg: #2f2a37;
+  --tc-tag-fg: #cbbbdf;
+}
+#toyCompare [data-category="material"] {
+  --tc-tag-bg: #27332d;
+  --tc-tag-fg: #b2d6c0;
+}
+#toyCompare [data-category="role"] {
+  --tc-tag-bg: #30302d;
+  --tc-tag-fg: #d1d0c3;
+}
+#toyCompare .tc-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: var(--tc-chip-padding);
+  background: var(--tc-tag-bg) !important;
+  color: var(--tc-tag-fg) !important;
+  font-size: var(--tc-font-chip) !important;
+  font-weight: 600;
+  line-height: 1.35 !important;
+  text-align: left;
+  white-space: normal;
+  box-shadow: var(--tc-chip-shadow);
+  text-shadow: 0 0 3px #ffffff12;
+}
+#toyCompare .tc-chip svg {
+  width: 14px;
+  height: 14px;
+  flex-shrink: 0;
+  image-rendering: pixelated;
+}
+#toyCompare .tc-chip[data-variant="scale"] {
+  background: #35272e !important;
+  color: #d8a6bb !important;
+}
+#toyCompare .tc-chip.tc-unknown {
+  background: #2c302d !important;
+  color: #abb4ac !important;
+  text-shadow: none;
+}
+#toyCompare .tc-dot {
+  display: inline-block;
+  width: 9px;
+  height: 9px;
+  background: var(--tc-tag-bg);
+  flex-shrink: 0;
+}
+
+/* Cards and compact controls. */
+#toyCompare .tc-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 13px;
+}
+#toyCompare .tc-card {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  padding: var(--tc-card-padding);
+  background: var(--tc-card) !important;
+  box-shadow: var(--tc-layer-shadow);
+}
+#toyCompare .tc-card.tc-selected {
+  background: #2c2c2c !important;
+}
+#toyCompare .tc-card-head {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  min-height: 42px;
+  margin-bottom: 10px;
+}
+#toyCompare .tc-card-head > div:last-child {
+  min-width: 0;
+}
+#toyCompare .tc-glyph {
+  display: grid;
+  place-items: center;
+  width: 38px;
+  height: 42px;
+  flex: 0 0 38px;
+  color: #b7b7b7 !important;
+  background: var(--tc-panel) !important;
+  box-shadow: var(--tc-control-shadow);
+}
+#toyCompare .tc-glyph svg {
+  width: 26px;
+  height: 34px;
+  image-rendering: auto;
+}
+#toyCompare .tc-brand {
+  display: inline-block;
+  margin-bottom: 4px;
+  padding: 1px 4px;
+  background: var(--tc-label) !important;
+  color: var(--tc-text) !important;
+  font-size: var(--tc-font-small) !important;
+  line-height: 1.4 !important;
+  box-shadow: 0 2px 4px #0003;
+}
+#toyCompare .tc-name {
+  display: block;
+  padding: 0;
+  min-height: 0;
+  text-align: left;
+  background: transparent !important;
+  color: var(--tc-text) !important;
+  font-size: var(--tc-font-product) !important;
+  font-weight: 700;
+  line-height: 1.4 !important;
+  box-shadow: none;
+  overflow-wrap: anywhere;
+}
+#toyCompare .tc-card-tags {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: start;
+  gap: 6px;
+  flex: 1;
+}
+#toyCompare .tc-card-actions {
+  display: flex;
+  gap: 6px;
+  margin-top: 9px;
+}
+#toyCompare .tc-card-actions button {
+  flex: 1;
+  min-width: 0;
+  min-height: 25px;
+  padding: 2px 6px;
+  background: var(--tc-button) !important;
+  font-size: var(--tc-font-caption) !important;
+}
+#toyCompare .tc-card-actions button[aria-pressed="true"] {
+  background: var(--tc-label) !important;
+}
+#toyCompare .tc-action-plus {
+  display: inline-block;
+  font-size: 1.35em !important;
+  line-height: 1;
+  vertical-align: -1px;
+  margin-right: 6px;
+  color: #c5c5c5;
+}
+#toyCompare .tc-more-wrap {
+  text-align: center;
+  margin: 24px 0 8px;
+}
+#toyCompare .tc-empty {
+  text-align: center;
+  padding: 36px 16px;
+  margin: 14px 0;
+  background: var(--tc-card) !important;
+  box-shadow: var(--tc-layer-shadow);
+}
+#toyCompare .tc-empty p {
+  margin: 10px 0 16px;
+  color: var(--tc-muted) !important;
+}
+#toyCompare .tc-tray {
+  position: sticky;
+  bottom: 12px;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 20px;
+  padding: 8px 10px;
+  background: var(--tc-button) !important;
+  box-shadow: var(--tc-layer-shadow);
+}
+#toyCompare .tc-tray-products {
+  display: flex;
+  flex-wrap: wrap;
+  flex: 1;
+  gap: 6px;
+  max-height: 100px;
+  overflow-y: auto;
+  padding-bottom: 3px;
+}
+#toyCompare .tc-tray-products button {
+  min-height: 24px;
+  padding: 2px 6px;
+  background: var(--tc-label) !important;
+  font-size: var(--tc-font-caption) !important;
+}
+#toyCompare .tc-tray-products span {
+  display: inline-block;
+  max-width: 150px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  vertical-align: middle;
+}
+#toyCompare .tc-tray > button {
+  font-size: var(--tc-font-caption) !important;
+}
+
+/* Native blog disclosure markers do not insert emoji-capable triangle glyphs. */
+#toyCompare summary {
+  cursor: pointer;
+  list-style: disclosure-closed inside;
+  font-size: var(--tc-font-control) !important;
+  color: var(--tc-text) !important;
+}
+#toyCompare details[open] > summary {
+  list-style-type: disclosure-open;
+}
+#toyCompare summary:hover {
+  color: #c8c8c8 !important;
+}
+#toyCompare summary::marker,
+#toyCompare .tc-site-triangle::marker {
+  font-family: "Courier New", Courier, monospace !important;
+  font-size: 13px !important;
+  color: var(--tc-arrow);
+}
+#toyCompare .tc-site-triangle {
+  display: inline list-item;
+  list-style: disclosure-closed inside;
+  font-family: "Courier New", Courier, monospace !important;
+  font-size: 13px !important;
+  line-height: 1;
+  margin-right: 5px;
+}
+#toyCompare .tc-dialog-body details > summary {
+  list-style: none;
+}
+#toyCompare .tc-dialog-body details > summary::before {
+  content: ">";
+  display: inline-block;
+  margin-right: 9px;
+  font-family: "Courier New", Courier, monospace !important;
+  font-size: 13px !important;
+  line-height: 1;
+  color: var(--tc-arrow);
+}
+#toyCompare .tc-dialog-body details[open] > summary::before {
+  transform: rotate(90deg);
+}
+#toyCompare details {
+  border-bottom: 1px solid var(--tc-line);
+  padding: 9px 0;
+}
+#toyCompare details > div {
+  margin: 15px 0 5px;
+  background: transparent !important;
+}
+#toyCompare .tc-bottom {
+  margin-top: 28px;
+  border-top: 1px solid var(--tc-line);
+  padding: 10px 0;
+}
+#toyCompare .tc-resources {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+#toyCompare .tc-resource {
+  padding-bottom: 3px;
+}
+#toyCompare .tc-resource-group {
+  grid-column: 1 / -1;
+  font-size: var(--tc-font-caption) !important;
+  color: var(--tc-muted) !important;
+  margin-top: 9px;
+}
+#toyCompare .tc-resource a,
+#toyCompare .tc-resource p,
+#toyCompare .tc-tag-defs p,
+#toyCompare .tc-note-list dd,
+#toyCompare .tc-source p {
+  font-size: var(--tc-font-caption) !important;
+  line-height: 1.5 !important;
+}
+#toyCompare .tc-resource p {
+  margin-top: 3px;
+  color: var(--tc-muted) !important;
+}
+#toyCompare .tc-meta {
+  margin-top: 16px;
+  font-size: var(--tc-font-small) !important;
+  color: var(--tc-muted) !important;
+}
+#toyCompare .tc-tag-defs {
+  display: grid;
+  gap: 13px;
+}
+#toyCompare .tc-tag-defs p {
+  margin-top: 6px;
+  color: var(--tc-muted) !important;
+}
+#toyCompare .tc-raw-scroll {
+  overflow-x: auto;
+  margin-top: 12px;
+}
+#toyCompare .tc-raw-table {
+  width: 100%;
+  min-width: 640px;
+  border-collapse: collapse;
+  background: transparent !important;
+  font-size: var(--tc-font-control) !important;
+}
+#toyCompare .tc-raw-table th,
+#toyCompare .tc-raw-table td {
+  padding: 9px;
+  border: 0;
+  vertical-align: top;
+  background: transparent !important;
+}
+#toyCompare .tc-raw-table th {
+  background: var(--tc-label) !important;
+  text-align: left;
+}
+
+/* Product details and the comparison table. */
+#toyCompare dialog {
+  color: var(--tc-text) !important;
+  background: var(--tc-panel) !important;
+  border: 0;
+  padding: 0;
+  width: min(880px, calc(100vw - 32px));
+  max-width: calc(100% - 16px);
+  max-height: calc(100dvh - 40px);
+  margin: auto;
+  box-shadow:
+    4px 4px 0 #080808,
+    8px 8px 0 #000,
+    0 16px 40px #0008;
+}
+#toyCompare dialog::backdrop {
+  background: #050a07ba;
+  backdrop-filter: blur(3px);
+}
+#toyCompare .tc-dialog-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 12px;
+  padding: 14px 18px 12px;
+  border-bottom: 1px solid var(--tc-line);
+  background: var(--tc-panel) !important;
+  position: sticky;
+  top: 0;
+  z-index: 5;
+}
+#toyCompare .tc-dialog-head h2 {
+  font-size: var(--tc-font-dialog) !important;
+}
+#toyCompare .tc-dialog-head small {
+  font-size: var(--tc-font-control) !important;
+  color: var(--tc-muted) !important;
+}
+#toyCompare .tc-close {
+  font-size: 20px !important;
+  line-height: 1;
+  min-width: 40px;
+  padding: 6px;
+}
+#toyCompare .tc-dialog-body {
+  padding: 16px 18px;
+}
+#toyCompare .tc-facts {
+  display: grid;
+  gap: 13px;
+}
+#toyCompare .tc-fact {
+  display: grid;
+  grid-template-columns: 84px minmax(0, 1fr);
+  align-items: start;
+  gap: 14px;
+  border-bottom: 1px solid var(--tc-line);
+  padding-bottom: 13px;
+}
+#toyCompare .tc-fact-label {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  padding-top: 6px;
+  font-size: var(--tc-font-caption) !important;
+  color: var(--tc-muted) !important;
+}
+#toyCompare .tc-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+}
+#toyCompare .tc-fact .tc-chip {
+  font-size: var(--tc-font-detail-chip) !important;
+  padding: 8px 12px;
+}
+#toyCompare .tc-detail-actions {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin-top: 20px;
+  font-size: var(--tc-font-control) !important;
+}
+#toyCompare .tc-detail-actions button,
+#toyCompare .tc-compare-detail {
+  min-height: 25px;
+  padding: 2px 7px;
+}
+#toyCompare .tc-note-list {
+  display: grid;
+  gap: 12px;
+}
+#toyCompare .tc-note-list dt {
+  color: var(--tc-note-heading) !important;
+  font-size: var(--tc-font-control) !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  text-shadow: none !important;
+}
+#toyCompare .tc-note-list dd {
+  margin: 4px 0 0;
+  color: var(--tc-muted) !important;
+}
+#toyCompare .tc-source {
+  font-size: var(--tc-font-control) !important;
+  margin-bottom: 12px;
+}
+#toyCompare .tc-source p {
+  color: var(--tc-muted) !important;
+  margin-top: 4px;
+}
+#toyCompare .tc-diff-label {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  font-size: var(--tc-font-control) !important;
+  margin-bottom: 12px;
+}
+#toyCompare #tc-diff {
+  min-height: 16px;
+  width: 16px;
+  height: 16px;
+  padding: 0;
+  box-shadow: none;
+  accent-color: var(--tc-muted);
+}
+#toyCompare .tc-compare-scroll {
+  overflow: auto;
+  min-height: 0;
+  overscroll-behavior: contain;
+  box-shadow: var(--tc-layer-shadow);
+}
+#toyCompare .tc-compare {
+  min-width: 0;
+}
+#toyCompare #tc-compare-dialog {
+  width: min(1120px, calc(100vw - 32px));
+  overflow: hidden;
+}
+#toyCompare #tc-compare-dialog[open] {
+  display: flex;
+  flex-direction: column;
+}
+#toyCompare #tc-compare-dialog .tc-dialog-head,
+#toyCompare #tc-compare-dialog .tc-diff-label,
+#toyCompare #tc-compare-note {
+  flex-shrink: 0;
+}
+#toyCompare #tc-compare-dialog .tc-dialog-body {
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+}
+#toyCompare .tc-compare-table {
+  display: table !important;
+  width: 100% !important;
+  min-width: calc(
+    var(--tc-compare-name-width) + var(--tc-compare-tag-width) *
+      var(--tc-compare-columns)
+  );
+  table-layout: fixed;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin: 0;
+  background: var(--tc-card) !important;
+  font-size: var(--tc-font-control) !important;
+}
+#toyCompare .tc-compare-name-col {
+  width: var(--tc-compare-name-width);
+}
+#toyCompare .tc-compare-table th,
+#toyCompare .tc-compare-table td {
+  padding: 10px 8px;
+  border: 0;
+  border-right: 1px solid var(--tc-line);
+  border-bottom: 1px solid var(--tc-line);
+  text-align: left;
+  vertical-align: top;
+  background: var(--tc-card) !important;
+  font-weight: 400;
+}
+#toyCompare .tc-compare-table thead th {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  background: var(--tc-label) !important;
+  color: var(--tc-text) !important;
+  white-space: nowrap;
+  font-size: var(--tc-font-caption) !important;
+}
+#toyCompare .tc-compare-table tr > th:first-child {
+  position: sticky;
+  left: 0;
+  z-index: 1;
+}
+#toyCompare .tc-compare-table thead th:first-child {
+  z-index: 3;
+}
+#toyCompare .tc-compare-identity {
+  display: flex;
+  align-items: flex-start;
+  gap: 7px;
+}
+#toyCompare .tc-compare-identity > div:last-child {
+  min-width: 0;
+}
+#toyCompare .tc-compare-identity .tc-glyph {
+  flex-shrink: 0;
+  width: 28px;
+  height: 34px;
+}
+#toyCompare .tc-compare-product-name {
+  margin: 6px 0 0 !important;
+  font-size: var(--tc-font-control) !important;
+  overflow-wrap: anywhere;
+}
+#toyCompare .tc-compare-detail {
+  font-size: var(--tc-font-caption) !important;
+  margin-top: 8px;
+}
+#toyCompare .tc-compare-table .tc-tags {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 5px;
+}
+#toyCompare .tc-compare-table .tc-chip {
+  max-width: 100%;
+  padding: 4px 6px;
+  gap: 5px;
+  white-space: normal;
+  overflow-wrap: anywhere;
+  font-size: var(--tc-font-chip) !important;
+}
+#toyCompare .tc-compare-table .tc-chip svg {
+  flex-shrink: 0;
+  width: 12px;
+  height: 12px;
+}
+#toyCompare .tc-compare-basis {
+  margin: 7px 0 0 !important;
+  color: var(--tc-muted) !important;
+  font-size: var(--tc-font-caption) !important;
+}
+
+@media (max-width: 760px) {
+  #toyCompare .tc-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (max-width: 480px) {
+  #toyCompare {
+    --tc-font-title: 22px;
+    --tc-font-product: 12px;
+    --tc-font-chip: 10px;
+    --tc-font-detail-chip: 11px;
+    --tc-font-dialog: 17px;
+    --tc-card-padding: 10px;
+    --tc-chip-padding: 4px;
+    --tc-compare-name-width: 136px;
+    margin-top: 20px;
+  }
+  #toyCompare .tc-grid {
+    gap: 9px;
+  }
+  #toyCompare .tc-card-head {
+    align-items: start;
+    gap: 8px;
+  }
+  #toyCompare .tc-card-tags {
+    gap: 5px;
+  }
+  #toyCompare .tc-chip {
+    gap: 4px;
+  }
+  #toyCompare .tc-chip svg {
+    width: 12px;
+    height: 12px;
+  }
+  #toyCompare .tc-card-actions {
+    gap: 5px;
+    margin-top: 10px;
+  }
+  #toyCompare .tc-card-actions button {
+    padding: 2px 4px;
+  }
+  #toyCompare .tc-resources {
+    grid-template-columns: 1fr;
+  }
+  #toyCompare .tc-tray {
+    gap: 7px;
+    bottom: 8px;
+  }
+  #toyCompare .tc-tray-products span {
+    max-width: 80px;
+  }
+  #toyCompare .tc-tray > button {
+    padding: 7px;
+  }
+  #toyCompare dialog {
+    width: calc(100vw - 16px);
+    max-height: calc(100dvh - 20px);
+  }
+  #toyCompare .tc-dialog-head {
+    padding: 13px 14px 10px;
+  }
+  #toyCompare .tc-dialog-body {
+    padding: 14px;
+  }
+  #toyCompare .tc-fact {
+    grid-template-columns: 64px minmax(0, 1fr);
+    gap: 9px;
+  }
+  #toyCompare .tc-fact .tc-chip {
+    padding: 7px 9px;
+  }
+  #toyCompare .tc-detail-actions {
+    flex-wrap: wrap;
+  }
+  #toyCompare #tc-compare-dialog {
+    width: calc(100vw - 16px);
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  #toyCompare * {
+    transition: none !important;
+    scroll-behavior: auto !important;
+  }
+}
