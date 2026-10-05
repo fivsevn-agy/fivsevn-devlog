@@ -1,5 +1,5 @@
 window.TOY_COMPARE_DATA = {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "date": "2026-10-06",
   "title": "人形玩具比照",
   "categories": [
@@ -126,7 +126,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装设计",
           "name": "ボークス・ドール企画室"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "smartdoll-mirai-cinnamon",
@@ -188,7 +193,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "系列背景称 60 cm，不用于本条的型号高度。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "tinyfox-little-ashley",
@@ -256,7 +266,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "该款比例、全高／body 高度、PVC 与 ABS、头眼规格及附件"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "obitsu-11-matte",
@@ -318,7 +333,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "型号、交付形态与商品规格"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "figma-yuki-techwear",
@@ -384,7 +404,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "型号、交付形态与商品规格"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "sousai-dress-up-l",
@@ -452,7 +477,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "型号、交付形态与商品规格"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "volks-yosd-riho",
@@ -517,7 +547,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "补充 SD 系列的拉筋／球体结构与聚氨酯树脂；不替代具体型号规格。"
         }
       ],
-      "event": "官方专题明确：2026-07-26 Home Town Dolls Party 京都 21 发售；同专题另有本款展示地点与日期。"
+      "event": "官方专题明确：2026-07-26 Home Town Dolls Party 京都 21 发售；同专题另有本款展示地点与日期。",
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "volks-dds-rin-original",
@@ -581,7 +616,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "补充 DD 系列的内部骨架构造；具体旧版骨架代际待核实，不套用现行尺寸。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "volks-dds-ranka",
@@ -645,7 +685,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "补充 DD 系列的内部骨架构造；具体旧版骨架代际待核实，不套用现行尺寸。"
         }
       ],
-      "event": "官方专页明确：2018-05-05 Dolls Party 39 会场「天使のすみか SHOP」发售。"
+      "event": "官方专页明确：2018-05-05 Dolls Party 39 会场「天使のすみか SHOP」发售。",
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollzone-mia-full",
@@ -701,7 +746,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "型号、交付形态与商品规格"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "azone-koron-snotty",
@@ -757,7 +807,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "对应身体型号、肤色与套装内容"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "petworks-ruruko-2105",
@@ -817,10 +872,15 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Fresh ruruko 2105",
           "url": "https://www.petworks.co.jp/doll/ruruko/4411/",
-          "supports": "型号、交付形态与商品规格"
+          "supports": "型号、交付形态与商品规格；本型号页面明确列出的发售年月。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "发售：2021年5月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/ruruko/4411/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "barbie-tennis-hkt73",
@@ -876,7 +936,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "型号、交付形态与商品规格"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "obitsu-22-s",
@@ -979,7 +1044,12 @@ window.TOY_COMPARE_DATA = {
         "OB 22",
         "オビツ22",
         "オビツ製作所"
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "obitsu-24-s-matte",
@@ -1086,7 +1156,12 @@ window.TOY_COMPARE_DATA = {
         "OB 24",
         "オビツ24",
         "オビツ製作所"
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "obitsu-50-white",
@@ -1150,7 +1225,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "型号、交付形态与商品规格"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "nendoll-alice",
@@ -1210,10 +1290,15 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Doll Alice",
           "url": "https://www.goodsmile.com/en/product/5336/Nendoroid%2BDoll%2BAlice",
-          "supports": "型号、交付形态与商品规格"
+          "supports": "型号、交付形态与商品规格；本型号页面明确列出的发售年月。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "发售：2019年4月、2020年10月",
+        "sourceUrl": "https://www.goodsmile.com/en/product/5336/Nendoroid%2BDoll%2BAlice",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "nendoll-archetype-boy",
@@ -1273,10 +1358,15 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Doll archetype: Boy / Almond Milk",
           "url": "https://www.goodsmile.info/en/product/8679/Nendoroid%2BDoll%2Barchetype%2BBoy%2BAlmond%2BMilk.html",
-          "supports": "型号、交付形态与商品规格"
+          "supports": "型号、交付形态与商品规格；本型号页面明确列出的发售年月。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "发售：2020年7月",
+        "sourceUrl": "https://www.goodsmile.info/en/product/8679/Nendoroid%2BDoll%2Barchetype%2BBoy%2BAlmond%2BMilk.html",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "harmonia-miku",
@@ -1340,7 +1430,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "型号、交付形态与商品规格"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "nendoroid-miku-adventure",
@@ -1394,10 +1489,15 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Hatsune Miku: 100th Adventure Ver.",
           "url": "https://www.goodsmile.com/en/product/60607/Nendoroid%2BHatsune%2BMiku%2B100th%2BAdventure%2BVer.",
-          "supports": "型号、交付形态与商品规格"
+          "supports": "型号、交付形态与商品规格；本型号页面明确列出的发售年月。"
         }
       ],
-      "event": "官方产品页明确：2025-03-07 至 03-23「100th Nendoroid Miku Exhibition」销售本版本。"
+      "event": "官方产品页明确：2025-03-07 至 03-23「100th Nendoroid Miku Exhibition」销售本版本。",
+      "chronology": {
+        "label": "发售：2025年3月、2025年10月",
+        "sourceUrl": "https://www.goodsmile.com/en/product/60607/Nendoroid%2BHatsune%2BMiku%2B100th%2BAdventure%2BVer.",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "figma-miku-2",
@@ -1456,7 +1556,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "型号、交付形态与商品规格"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "mezco-the-batman",
@@ -1519,7 +1624,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "型号、交付形态与商品规格"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "shf-goku-best",
@@ -1581,7 +1691,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "对应本款的脸、手型替换与操作。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "sousai-dress-up-s",
@@ -1649,7 +1764,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "型号、交付形态与商品规格"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "megami-asra-ninja-kit",
@@ -1713,7 +1833,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "型号、交付形态与商品规格"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "megami-asra-ninja-statue",
@@ -1775,7 +1900,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "型号、交付形态与商品规格"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "arcanadea-lumitea",
@@ -1835,7 +1965,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "型号、交付形态与商品规格"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "kirupla-madoka-winter",
@@ -1909,7 +2044,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "确认计划发售月，不据此推断库存。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "版本：2026年",
+        "sourceUrl": "https://kotobukiya-us.com/products/190526079779",
+        "note": "2026-10-05 核对时，官方日本商店计划 2026 年 12 月发售；记录的是计划规格。"
+      }
     },
     {
       "id": "pop-miku-original",
@@ -1966,7 +2106,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "型号、交付形态与商品规格"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "pop-miku-translucent-l",
@@ -2022,7 +2167,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "型号、交付形态与商品规格"
         }
       ],
-      "event": "官方产品页明确：Smile Fest 2025 会场商品，2025-06-14 发售。"
+      "event": "官方产品页明确：Smile Fest 2025 会场商品，2025-06-14 发售。",
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "nendoll-alice-outfit",
@@ -2074,7 +2224,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "型号、交付形态与商品规格"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "ruruko-11176",
@@ -2133,10 +2288,15 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "CCSgirl 26SS ruruko PS",
           "url": "https://www.petworks.co.jp/doll/ruruko/11176/",
-          "supports": "本款全高、身体版本、衣装组成及产地分工。"
+          "supports": "本款全高、身体版本、衣装组成及产地分工。；本型号页面明确列出的发售年月。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "发售：2026年10月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/ruruko/11176/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "ruruko-11148",
@@ -2195,10 +2355,15 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "タータンバニー ruruko",
           "url": "https://www.petworks.co.jp/doll/ruruko/11148/",
-          "supports": "本款全高、身体版本、衣装组成及产地分工。"
+          "supports": "本款全高、身体版本、衣装组成及产地分工。；本型号页面明确列出的发售年月。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "发售：2026年10月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/ruruko/11148/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "ruruko-11133",
@@ -2257,10 +2422,15 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "朝霧のruruko PS",
           "url": "https://www.petworks.co.jp/doll/ruruko/11133/",
-          "supports": "本款全高、身体版本、衣装组成及产地分工。"
+          "supports": "本款全高、身体版本、衣装组成及产地分工。；本型号页面明确列出的发售年月。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "发售：2026年10月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/ruruko/11133/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "ruruko-11121",
@@ -2319,10 +2489,15 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Fresh ruruko 26AZ",
           "url": "https://www.petworks.co.jp/doll/ruruko/11121/",
-          "supports": "本款全高、身体版本、衣装组成及产地分工。"
+          "supports": "本款全高、身体版本、衣装组成及产地分工。；本型号页面明确列出的发售年月。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "发售：2026年10月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/ruruko/11121/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "ruruko-10989",
@@ -2381,10 +2556,15 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Fresh ruruko 26HB",
           "url": "https://www.petworks.co.jp/doll/ruruko/10989/",
-          "supports": "本款全高、身体版本、衣装组成及产地分工。"
+          "supports": "本款全高、身体版本、衣装组成及产地分工。；本型号页面明确列出的发售年月。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "发售：2026年9月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/ruruko/10989/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "ruruko-10899",
@@ -2443,10 +2623,15 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "朝霧のruruko",
           "url": "https://www.petworks.co.jp/doll/ruruko/10899/",
-          "supports": "本款全高、身体版本、衣装组成及产地分工。"
+          "supports": "本款全高、身体版本、衣装组成及产地分工。；本型号页面明确列出的发售年月。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "发售：2026年7月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/ruruko/10899/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "ruruko-10439",
@@ -2505,10 +2690,15 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "CCSgirl 26干支 ruruko 午 PS",
           "url": "https://www.petworks.co.jp/doll/ruruko/10439/",
-          "supports": "本款全高、身体版本、衣装组成及产地分工。"
+          "supports": "本款全高、身体版本、衣装组成及产地分工。；本型号页面明确列出的发售年月。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "发售：2026年4月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/ruruko/10439/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "ruruko-10499",
@@ -2566,7 +2756,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "本款全高、身体版本、衣装组成及产地分工。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "ruruko-10495",
@@ -2624,7 +2819,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "本款全高、身体版本、衣装组成及产地分工。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "ruruko-10354",
@@ -2683,10 +2883,15 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "CCSgirl 26SS ruruko",
           "url": "https://www.petworks.co.jp/doll/ruruko/10354/",
-          "supports": "本款全高、身体版本、衣装组成及产地分工。"
+          "supports": "本款全高、身体版本、衣装组成及产地分工。；本型号页面明确列出的发售年月。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "发售：2026年4月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/ruruko/10354/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "ruruko-10352",
@@ -2745,10 +2950,15 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Fresh ruruko 2603",
           "url": "https://www.petworks.co.jp/doll/ruruko/10352/",
-          "supports": "本款全高、身体版本、衣装组成及产地分工。"
+          "supports": "本款全高、身体版本、衣装组成及产地分工。；本型号页面明确列出的发售年月。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "发售：2026年3月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/ruruko/10352/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "ruruko-10147",
@@ -2807,10 +3017,15 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "CCSgirl 26干支 ruruko 午",
           "url": "https://www.petworks.co.jp/doll/ruruko/10147/",
-          "supports": "本款全高、身体版本、衣装组成及产地分工。"
+          "supports": "本款全高、身体版本、衣装组成及产地分工。；本型号页面明确列出的发售年月。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "发售：2026年1月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/ruruko/10147/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "ruruko-9994",
@@ -2869,10 +3084,15 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "CCSgirl 26VDAY ruruko",
           "url": "https://www.petworks.co.jp/doll/ruruko/9994/",
-          "supports": "本款全高、身体版本、衣装组成及产地分工。"
+          "supports": "本款全高、身体版本、衣装组成及产地分工。；本型号页面明确列出的发售年月。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "发售：2025年12月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/ruruko/9994/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "ruruko-9937",
@@ -2931,10 +3151,15 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Fresh ruruko 2512 PS",
           "url": "https://www.petworks.co.jp/doll/ruruko/9937/",
-          "supports": "本款全高、身体版本、衣装组成及产地分工。"
+          "supports": "本款全高、身体版本、衣装组成及产地分工。；本型号页面明确列出的发售年月。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "发售：2025年12月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/ruruko/9937/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "ruruko-9736",
@@ -2993,10 +3218,15 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "屋根裏のruruko F.L.C. ver.",
           "url": "https://www.petworks.co.jp/doll/ruruko/9736/",
-          "supports": "本款全高、身体版本、衣装组成及产地分工。"
+          "supports": "本款全高、身体版本、衣装组成及产地分工。；本型号页面明确列出的发售年月。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "发售：2025年10月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/ruruko/9736/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "ruruko-9738",
@@ -3055,10 +3285,15 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "りんご園のruruko F.L.C. ver.",
           "url": "https://www.petworks.co.jp/doll/ruruko/9738/",
-          "supports": "本款全高、身体版本、衣装组成及产地分工。"
+          "supports": "本款全高、身体版本、衣装组成及产地分工。；本型号页面明确列出的发售年月。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "发售：2025年10月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/ruruko/9738/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "ruruko-9754",
@@ -3117,10 +3352,15 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "十夜の夢 ruruko すみれ Azone Ex. bk",
           "url": "https://www.petworks.co.jp/doll/ruruko/9754/",
-          "supports": "本款全高、身体版本、衣装组成及产地分工。"
+          "supports": "本款全高、身体版本、衣装组成及产地分工。；本型号页面明确列出的发售年月。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "发售：2025年10月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/ruruko/9754/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "ruruko-9758",
@@ -3179,10 +3419,15 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "十夜の夢 ruruko すみれ Azone Ex. wh",
           "url": "https://www.petworks.co.jp/doll/ruruko/9758/",
-          "supports": "本款全高、身体版本、衣装组成及产地分工。"
+          "supports": "本款全高、身体版本、衣装组成及产地分工。；本型号页面明确列出的发售年月。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "发售：2025年10月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/ruruko/9758/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "ruruko-9390",
@@ -3241,10 +3486,15 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Fresh ruruko 2507",
           "url": "https://www.petworks.co.jp/doll/ruruko/9390/",
-          "supports": "本款全高、身体版本、衣装组成及产地分工。"
+          "supports": "本款全高、身体版本、衣装组成及产地分工。；本型号页面明确列出的发售年月。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "发售：2025年7月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/ruruko/9390/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "ruruko-9379",
@@ -3303,10 +3553,15 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "CCSgirl 25SS ruruko PS",
           "url": "https://www.petworks.co.jp/doll/ruruko/9379/",
-          "supports": "本款全高、身体版本、衣装组成及产地分工。"
+          "supports": "本款全高、身体版本、衣装组成及产地分工。；本型号页面明确列出的发售年月。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "发售：2025年6月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/ruruko/9379/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "ruruko-9377",
@@ -3365,10 +3620,15 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Fresh ruruko 25HB",
           "url": "https://www.petworks.co.jp/doll/ruruko/9377/",
-          "supports": "本款全高、身体版本、衣装组成及产地分工。"
+          "supports": "本款全高、身体版本、衣装组成及产地分工。；本型号页面明确列出的发售年月。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "发售：2025年6月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/ruruko/9377/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "ruruko-9198",
@@ -3427,10 +3687,15 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "CCSgirl 24AW ruruko PS",
           "url": "https://www.petworks.co.jp/doll/ruruko/9198/",
-          "supports": "本款全高、身体版本、衣装组成及产地分工。"
+          "supports": "本款全高、身体版本、衣装组成及产地分工。；本型号页面明确列出的发售年月。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "发售：2025年5月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/ruruko/9198/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "ruruko-9124",
@@ -3489,10 +3754,15 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "イースターバニー ruruko boy PS",
           "url": "https://www.petworks.co.jp/doll/ruruko/9124/",
-          "supports": "本款全高、身体版本、衣装组成及产地分工。"
+          "supports": "本款全高、身体版本、衣装组成及产地分工。；本型号页面明确列出的发售年月。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "发售：2025年4月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/ruruko/9124/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "ruruko-9127",
@@ -3551,10 +3821,15 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "イースターバニー ruruko girl PS",
           "url": "https://www.petworks.co.jp/doll/ruruko/9127/",
-          "supports": "本款全高、身体版本、衣装组成及产地分工。"
+          "supports": "本款全高、身体版本、衣装组成及产地分工。；本型号页面明确列出的发售年月。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "发售：2025年4月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/ruruko/9127/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "ruruko-9028",
@@ -3613,10 +3888,15 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "CCSgirl 25SS ruruko",
           "url": "https://www.petworks.co.jp/doll/ruruko/9028/",
-          "supports": "本款全高、身体版本、衣装组成及产地分工。"
+          "supports": "本款全高、身体版本、衣装组成及产地分工。；本型号页面明确列出的发售年月。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "发售：2025年3月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/ruruko/9028/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "dollzone-1-3-doll-pre-saledollzone-phantom-1-3-doll-full-set-nude-doll-head-presale-sd-doll-spherical-joint-",
@@ -3671,7 +3951,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "具体名称、比例、标题标称高度及裸娃／身体销售选项；图版参数尚待核对。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollzone-1-3-doll-pre-saledollzone-sun-1-3-doll-full-set-nude-doll-head-presale-sd-doll-spherical-joint-doll",
@@ -3726,7 +4011,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "具体名称、比例、标题标称高度及裸娃／身体销售选项；图版参数尚待核对。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollzone-1-3-doll-pre-saledollzone-gorgon-1-3-doll-full-set-nude-doll-head-presale-sd-doll-spherical-joint-d",
@@ -3781,7 +4071,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "具体名称、比例、标题标称高度及裸娃／身体销售选项；图版参数尚待核对。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollzone-1-3-doll--pre-sale-dollzone-rock-1-3-cooperation-description-doll-full-set-nude-doll-presale-sd-dol",
@@ -3841,7 +4136,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "具体名称、比例、标题标称高度及裸娃／身体销售选项；图版参数尚待核对。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollzone-1-3-doll--pre-sale-dollzone-light-1-3-cooperation-description-doll-full-set-presale-sd-doll-73cm-sp",
@@ -3901,7 +4201,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "具体名称、比例、标题标称高度及裸娃／身体销售选项；图版参数尚待核对。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollzone-1-3-doll--pre-sale-dollzone-troy-1-3-cooperation-description-doll-full-set-nude-doll-presale-sd-dol",
@@ -3961,7 +4266,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "具体名称、比例、标题标称高度及裸娃／身体销售选项；图版参数尚待核对。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollzone-1-3-doll--pre-sale-dollzone-nona-1-3-cooperation-description-doll-full-set-presale-sd-doll-70cm-sph",
@@ -4021,7 +4331,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "具体名称、比例、标题标称高度及裸娃／身体销售选项；图版参数尚待核对。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollzone-1-3-doll--pre-sale-dollzone-moon-1-3-cooperation-description-doll-full-set-presale-sd-doll-73cm-sph",
@@ -4081,7 +4396,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "具体名称、比例、标题标称高度及裸娃／身体销售选项；图版参数尚待核对。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollzone-1-3-doll-dollzone-75-gray",
@@ -4141,7 +4461,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "具体名称、比例、标题标称高度及裸娃／身体销售选项；图版参数尚待核对。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollzone-1-3-doll-evan",
@@ -4201,7 +4526,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "具体名称、比例、标题标称高度及裸娃／身体销售选项；图版参数尚待核对。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollzone-1-4-doll--pre-sale-dollzone-rosa-1-4-doll-full-set-nude-doll-head-presale-sd-doll-spherical-joint-d",
@@ -4256,7 +4586,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "具体名称、比例、标题标称高度及裸娃／身体销售选项；图版参数尚待核对。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollzone-1-4-doll-pre-saledollzone-xiao-yi-1-4-cooperation-description-doll-full-set-nude-doll-head-presale-",
@@ -4316,7 +4651,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "具体名称、比例、标题标称高度及裸娃／身体销售选项；图版参数尚待核对。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollzone-1-4-doll--pre-sale-dollzone-xiao-chu-1-4-cooperation-description-doll-full-set-nude-doll-head-presa",
@@ -4376,7 +4716,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "具体名称、比例、标题标称高度及裸娃／身体销售选项；图版参数尚待核对。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollzone-body-2-pre-saledollzone-the-world-1-4-doll-full-set-nude-doll-head-presale-sd-doll-spherical-join",
@@ -4431,7 +4776,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "具体名称、比例、标题标称高度及裸娃／身体销售选项；图版参数尚待核对。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollzone-body-2-pre-saledollzone-b77-001-1-3-body-presale-sd-doll-77cm-spherical-joint-dolls",
@@ -4491,7 +4841,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "具体名称、比例、标题标称高度及裸娃／身体销售选项；图版参数尚待核对。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollzone-body-2-pre-saledollzone-b71-003-1-b71-003-2-1-3-body-presale-sd-doll-71cm-spherical-joint-dolls",
@@ -4551,7 +4906,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "具体名称、比例、标题标称高度及裸娃／身体销售选项；图版参数尚待核对。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollzone-body-2--pre-sale-dollzone-bobo-body-1-6-body-presale-sd-doll-24cm-spherical-joint-dolls",
@@ -4611,7 +4971,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "具体名称、比例、标题标称高度及裸娃／身体销售选项；图版参数尚待核对。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollzone-body-2-pre-saledollzone-b75-002-1-3-body-presale-sd-doll-75cm-spherical-joint-dolls",
@@ -4671,7 +5036,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "具体名称、比例、标题标称高度及裸娃／身体销售选项；图版参数尚待核对。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollzone-body-2--pre-sale-dollzone-b45-022-1-4-girl-body-presale-sd-doll-43cm-spherical-joint-dolls-hand-a",
@@ -4731,7 +5101,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "具体名称、比例、标题标称高度及裸娃／身体销售选项；图版参数尚待核对。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollzone-body-2-73",
@@ -4786,7 +5161,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "具体名称、比例、标题标称高度及裸娃／身体销售选项；图版参数尚待核对。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-doll-1141832",
@@ -4864,7 +5244,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "Raindrop: Minamin"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-doll-1141833",
@@ -4936,7 +5321,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "Raindrop: Minamin"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-doll-1142668",
@@ -5014,7 +5404,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "yu."
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-doll-1142669",
@@ -5086,7 +5481,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "yu."
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-doll-1143700",
@@ -5164,7 +5564,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "Mieko Akimoto"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-doll-1143701",
@@ -5235,7 +5640,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "Mieko Akimoto"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-doll-1141869",
@@ -5313,7 +5723,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "Aki Sumitomo (Atelier Angelica)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-doll-1141870",
@@ -5385,7 +5800,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "Aki Sumitomo (Atelier Angelica)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-doll-1141871",
@@ -5463,7 +5883,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "Aki Sumitomo (Atelier Angelica)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-doll-1141872",
@@ -5535,7 +5960,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "Aki Sumitomo (Atelier Angelica)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-doll-1142519",
@@ -5613,7 +6043,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "Mayumi Shimada"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-doll-1142520",
@@ -5685,7 +6120,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "Mayumi Shimada"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-doll-1142649",
@@ -5763,7 +6203,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "Suzuko Nagasaki"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-doll-1142650",
@@ -5835,7 +6280,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "Suzuko Nagasaki"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-doll-1142194",
@@ -5913,7 +6363,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "Kazumi Oka"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-doll-1142195",
@@ -5985,7 +6440,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "Kazumi Oka"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-doll-1142502",
@@ -6067,7 +6527,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "Kazumi Oka"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-doll-1142503",
@@ -6143,7 +6608,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "Kazumi Oka"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-doll-1142517",
@@ -6221,7 +6691,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "Mayumi Shimada"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-doll-1142518",
@@ -6293,7 +6768,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "Mayumi Shimada"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-doll-1142666",
@@ -6371,7 +6851,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "Mayumi Shimada"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-doll-1142667",
@@ -6443,7 +6928,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "Mayumi Shimada"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-doll-1142843",
@@ -6521,7 +7011,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "yu."
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-doll-1142844",
@@ -6593,7 +7088,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "yu."
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-doll-1142500",
@@ -6675,7 +7175,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "Kazumi Oka"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-doll-1142501",
@@ -6751,7 +7256,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "Kazumi Oka"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-doll-1140621",
@@ -6829,7 +7339,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "GINGER TEA Cherry"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-doll-1140622",
@@ -6901,7 +7416,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "GINGER TEA Cherry"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-doll-1141536",
@@ -6979,7 +7499,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "Mieko Akimoto"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-doll-1141537",
@@ -7051,7 +7576,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "Mieko Akimoto"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-doll-1141744",
@@ -7115,7 +7645,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "Sawada Koubou, Nendoron"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-doll-9723",
@@ -7180,7 +7715,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Doll Ciel Phantomhive",
           "url": "https://www.goodsmile.com/en/product/9723",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）；本型号页面明确列出的发售年月。"
         }
       ],
       "event": null,
@@ -7197,7 +7732,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "Mieko Akimoto"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2022年10月、2027年3月（预定）",
+        "sourceUrl": "https://www.goodsmile.com/en/product/9723",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "gsc-doll-9725",
@@ -7262,7 +7802,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Nendoroid Doll Sebastian Michaelis",
           "url": "https://www.goodsmile.com/en/product/9725",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）；本型号页面明确列出的发售年月。"
         }
       ],
       "event": null,
@@ -7279,7 +7819,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "Mieko Akimoto"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2022年10月、2027年3月（预定）",
+        "sourceUrl": "https://www.goodsmile.com/en/product/9725",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "gsc-doll-1140127",
@@ -7357,7 +7902,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "Aki Sumitomo (Atelier Angelica)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-doll-1140128",
@@ -7429,7 +7979,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "Aki Sumitomo (Atelier Angelica)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-doll-1140129",
@@ -7507,7 +8062,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "Aki Sumitomo (Atelier Angelica)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-doll-1140130",
@@ -7579,7 +8139,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "Aki Sumitomo (Atelier Angelica)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-doll-1143950",
@@ -7641,7 +8206,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "Sawada Koubou, Nendoron"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-doll-1142290",
@@ -7714,7 +8284,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "Raindrop: Minamin"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-doll-1142291",
@@ -7786,7 +8361,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "Raindrop: Minamin"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-harmonia-60764",
@@ -7859,7 +8439,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "Ayu Ishiwatari (Calalka)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-harmonia-60765",
@@ -7925,7 +8510,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "Red Camera"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-harmonia-1136213",
@@ -7994,7 +8584,12 @@ window.TOY_COMPARE_DATA = {
           "role": "原型制作",
           "name": "Iwanaga Sakurako (Shokubutu Shojo-en)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-harmonia-55924",
@@ -8047,7 +8642,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Near Harmonia Potato from Pui Pui Molcar",
           "url": "https://www.goodsmile.com/en/product/55924",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）；本型号页面明确列出的发售年月。"
         }
       ],
       "event": null,
@@ -8060,7 +8655,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "michiru (babydow)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2025年6月",
+        "sourceUrl": "https://www.goodsmile.com/en/product/55924",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "gsc-harmonia-55925",
@@ -8113,7 +8713,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Near Harmonia Shiromo from Pui Pui Molcar",
           "url": "https://www.goodsmile.com/en/product/55925",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）；本型号页面明确列出的发售年月。"
         }
       ],
       "event": null,
@@ -8126,7 +8726,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "michiru (babydow)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2025年6月",
+        "sourceUrl": "https://www.goodsmile.com/en/product/55925",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "gsc-harmonia-60130",
@@ -8199,7 +8804,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "Rico*(vanilatte)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-harmonia-45955",
@@ -8276,7 +8886,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "Mitsuko Shitara, Akai Camera"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-harmonia-54164",
@@ -8344,7 +8959,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "Rico*(vanilatte)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-harmonia-36197",
@@ -8408,7 +9028,12 @@ window.TOY_COMPARE_DATA = {
           "role": "原型制作",
           "name": "Iwanaga Sakurako (Shokubutu Shojo-en)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-harmonia-36198",
@@ -8472,7 +9097,12 @@ window.TOY_COMPARE_DATA = {
           "role": "原型制作",
           "name": "Iwanaga Sakurako (Shokubutu Shojo-en)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-harmonia-12310",
@@ -8538,7 +9168,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "Mihiru (babydo)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-harmonia-12385",
@@ -8605,7 +9240,12 @@ window.TOY_COMPARE_DATA = {
           "role": "原型制作",
           "name": "Iwanaga Sakurako (Shokubutu Shojo-en)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-harmonia-12384",
@@ -8662,7 +9302,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-harmonia-12383",
@@ -8731,7 +9376,12 @@ window.TOY_COMPARE_DATA = {
           "role": "原型制作",
           "name": "Iwanaga Sakurako (Shokubutu Shojo-en), SELECT D"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-harmonia-12085",
@@ -8801,7 +9451,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "Rico*(vanilatte)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-harmonia-12086",
@@ -8871,7 +9526,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "Rico*(vanilatte)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-harmonia-11731",
@@ -8945,7 +9605,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "Iwanaga Sakurako (Shokubutu Shojo-en)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-harmonia-11732",
@@ -9019,7 +9684,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "Iwanaga Sakurako (Shokubutu Shojo-en)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-harmonia-11646",
@@ -9094,7 +9764,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "Rico*(vanilatte)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-harmonia-11648",
@@ -9160,7 +9835,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "Rico*(vanilatte)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-harmonia-11649",
@@ -9226,7 +9906,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "Rico*(vanilatte)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-harmonia-11338",
@@ -9300,7 +9985,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装／纸样设计",
           "name": "Mihiru (babydo)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-harmonia-11307",
@@ -9362,7 +10052,12 @@ window.TOY_COMPARE_DATA = {
           "role": "原型制作",
           "name": "Iwanaga Sakurako (Shokubutu Shojo-en)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-harmonia-10492",
@@ -9426,7 +10121,12 @@ window.TOY_COMPARE_DATA = {
           "role": "原型制作",
           "name": "Ranran, Iwanaga Sakurako (Shokubutu Shojo-en)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-harmonia-10493",
@@ -9490,7 +10190,12 @@ window.TOY_COMPARE_DATA = {
           "role": "原型制作",
           "name": "Ranran, Iwanaga Sakurako (Shokubutu Shojo-en)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-figma-8648",
@@ -9550,7 +10255,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Hunter: The Old Hunters Edition",
           "url": "https://www.goodsmile.com/en/product/8648",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）；本型号页面明确列出的发售年月。"
         }
       ],
       "event": null,
@@ -9567,7 +10272,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "Masaki Apsy"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2022年10月、2027年5月（预定）",
+        "sourceUrl": "https://www.goodsmile.com/en/product/8648",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "gsc-figma-45954",
@@ -9625,7 +10335,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma 2B (YoRHa No.2 Type B)",
           "url": "https://www.goodsmile.com/en/product/45954",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）；本型号页面明确列出的发售年月。"
         }
       ],
       "event": null,
@@ -9642,7 +10352,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "Masaki Apsy"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2025年11月、2027年7月（预定）",
+        "sourceUrl": "https://www.goodsmile.com/en/product/45954",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "gsc-figma-1145974",
@@ -9713,7 +10428,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "Masaki Apsy"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-figma-2857",
@@ -9770,7 +10490,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Venus de Milo",
           "url": "https://www.goodsmile.com/en/product/2857",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）；本型号页面明确列出的发售年月。"
         }
       ],
       "event": null,
@@ -9783,7 +10503,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "Max Factory"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2016年1月",
+        "sourceUrl": "https://www.goodsmile.com/en/product/2857",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "gsc-figma-1137608",
@@ -9850,7 +10575,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "Masaki Apsy/Max Factory"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-figma-1146142",
@@ -9921,7 +10651,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "Masaki Apsy"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-figma-1146353",
@@ -9992,7 +10727,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "Masaki Apsy/Max Factory"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-figma-1137998",
@@ -10063,7 +10803,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "Masaki Apsy/Max Factory"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-figma-1137999",
@@ -10134,7 +10879,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "Masaki Apsy/Max Factory"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-figma-1137995",
@@ -10205,7 +10955,12 @@ window.TOY_COMPARE_DATA = {
           "role": "设计",
           "name": "Hwansang"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-figma-1145947",
@@ -10276,7 +11031,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "Masaki Apsy"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-figma-1143910",
@@ -10347,7 +11107,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "Masaki Apsy"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-figma-12485",
@@ -10405,7 +11170,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Umamusume: Pretty Derby Nice Nature",
           "url": "https://www.goodsmile.com/en/product/12485",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）；本型号页面明确列出的发售年月。"
         }
       ],
       "event": null,
@@ -10418,7 +11183,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "Masaki Apsy"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2024年5月、2027年4月（预定）",
+        "sourceUrl": "https://www.goodsmile.com/en/product/12485",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "gsc-figma-1137486",
@@ -10485,7 +11255,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "Masaki Apsy/Max Factory"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-figma-1142705",
@@ -10556,7 +11331,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "Masaki Apsy"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-figma-1146176",
@@ -10630,7 +11410,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "Max Factory"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-figma-1146175",
@@ -10704,7 +11489,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "Max Factory"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-figma-62125",
@@ -10765,7 +11555,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-figma-3509",
@@ -10823,7 +11618,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Angel Statues",
           "url": "https://www.goodsmile.com/en/product/3509",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）；本型号页面明确列出的发售年月。"
         }
       ],
       "event": null,
@@ -10836,7 +11631,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "Max Factory"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2017年2月",
+        "sourceUrl": "https://www.goodsmile.com/en/product/3509",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "gsc-figma-60700",
@@ -10903,7 +11703,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "Masaki Apsy/Max Factory"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-figma-1137492",
@@ -10970,7 +11775,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "Masaki Apsy/Max Factory"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-figma-1141915",
@@ -11041,7 +11851,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "Masaki Apsy/Max Factory"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-figma-1144554",
@@ -11116,7 +11931,12 @@ window.TOY_COMPARE_DATA = {
           "role": "设计",
           "name": "kokosando"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-figma-1143909",
@@ -11185,7 +12005,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "Masaki Apsy"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-figma-6055",
@@ -11244,7 +12069,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Tanya Degurechaff",
           "url": "https://www.goodsmile.com/en/product/6055",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）；本型号页面明确列出的发售年月。"
         }
       ],
       "event": null,
@@ -11257,7 +12082,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "Masaki Apsy"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2020年1月、2027年2月（预定）",
+        "sourceUrl": "https://www.goodsmile.com/en/product/6055",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "gsc-figma-1142700",
@@ -11328,7 +12158,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "Masaki Apsy"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-figma-1144552",
@@ -11399,7 +12234,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "Masaki Apsy"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-figma-1137994",
@@ -11470,7 +12310,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "Masaki Apsy/Max Factory"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-figma-1142692",
@@ -11541,7 +12386,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "Masaki Apsy"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-figma-5038",
@@ -11596,7 +12446,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Winged Victory of Samothrace",
           "url": "https://www.goodsmile.com/en/product/5038",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）；本型号页面明确列出的发售年月。"
         }
       ],
       "event": null,
@@ -11609,7 +12459,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "Max Factory"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2020年12月",
+        "sourceUrl": "https://www.goodsmile.com/en/product/5038",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "gsc-figma-1142704",
@@ -11688,7 +12543,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "Masaki Apsy"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-figma-1137488",
@@ -11755,7 +12615,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "Masaki Apsy/Max Factory"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-figma-60342",
@@ -11813,7 +12678,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Yuuka Hayase",
           "url": "https://www.goodsmile.com/en/product/60342",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）；本型号页面明确列出的发售年月。"
         }
       ],
       "event": null,
@@ -11826,7 +12691,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "Masaki Apsy"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2025年2月、2027年1月（预定）",
+        "sourceUrl": "https://www.goodsmile.com/en/product/60342",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "gsc-figma-1142693",
@@ -11897,7 +12767,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "Masaki Apsy"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-figma-1137997",
@@ -11968,7 +12843,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "Masaki Apsy/Max Factory"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-figma-55941",
@@ -12024,7 +12904,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Raging Wolf",
           "url": "https://www.goodsmile.com/en/product/55941",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）；本型号页面明确列出的发售年月。"
         }
       ],
       "event": null,
@@ -12037,7 +12917,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "Masaki Apsy"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2025年1月、2027年1月（预定）",
+        "sourceUrl": "https://www.goodsmile.com/en/product/55941",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "gsc-figma-4722",
@@ -12096,7 +12981,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "figma Lancer/Scáthach",
           "url": "https://www.goodsmile.com/en/product/4722",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）；本型号页面明确列出的发售年月。"
         }
       ],
       "event": null,
@@ -12109,7 +12994,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "Masaki Apsy"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2018年8月、2026年12月（预定）",
+        "sourceUrl": "https://www.goodsmile.com/en/product/4722",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "gsc-figma-1144248",
@@ -12181,7 +13071,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "Max Factory"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-figma-1142689",
@@ -12252,7 +13147,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "Masaki Apsy"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-pop-1141520",
@@ -12321,7 +13221,12 @@ window.TOY_COMPARE_DATA = {
           "role": "涂装",
           "name": "Yotaro Taniguchi"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-pop-1137445",
@@ -12377,7 +13282,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "POP UP PARADE lain iwakura L Size",
           "url": "https://www.goodsmile.com/en/product/1137445",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）；本型号页面明确列出的发售年月。"
         }
       ],
       "event": null,
@@ -12390,7 +13295,12 @@ window.TOY_COMPARE_DATA = {
           "role": "涂装",
           "name": "Kazuya Koubou"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2026年2月、2027年3月（预定）",
+        "sourceUrl": "https://www.goodsmile.com/en/product/1137445",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "gsc-pop-1141247",
@@ -12459,7 +13369,12 @@ window.TOY_COMPARE_DATA = {
           "role": "涂装",
           "name": "Tomofumi (WATANA BOX)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-pop-1141248",
@@ -12528,7 +13443,12 @@ window.TOY_COMPARE_DATA = {
           "role": "涂装",
           "name": "Tomofumi (WATANA BOX)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-pop-1144430",
@@ -12593,7 +13513,12 @@ window.TOY_COMPARE_DATA = {
           "role": "原型制作",
           "name": "Magical Girl ☆ Haruyuki"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-pop-1144464",
@@ -12662,7 +13587,12 @@ window.TOY_COMPARE_DATA = {
           "role": "涂装",
           "name": "Hiroto Tanimoto"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-pop-1144852",
@@ -12731,7 +13661,12 @@ window.TOY_COMPARE_DATA = {
           "role": "涂装",
           "name": "Kazuya Koubou"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-pop-1144959",
@@ -12804,7 +13739,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "Nendoron"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-pop-1136847",
@@ -12873,7 +13813,12 @@ window.TOY_COMPARE_DATA = {
           "role": "涂装",
           "name": "Yotaro Taniguchi"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-pop-1141572",
@@ -12942,7 +13887,12 @@ window.TOY_COMPARE_DATA = {
           "role": "涂装",
           "name": "Tomofumi (WATANA BOX)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-pop-1137607",
@@ -12998,7 +13948,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "POP UP PARADE Lucy L Size",
           "url": "https://www.goodsmile.com/en/product/1137607",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）；本型号页面明确列出的发售年月。"
         }
       ],
       "event": null,
@@ -13011,7 +13961,12 @@ window.TOY_COMPARE_DATA = {
           "role": "涂装",
           "name": "Tomofumi (WATANA BOX)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2026年2月、2027年2月（预定）",
+        "sourceUrl": "https://www.goodsmile.com/en/product/1137607",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "gsc-pop-1145852",
@@ -13080,7 +14035,12 @@ window.TOY_COMPARE_DATA = {
           "role": "涂装",
           "name": "Asuka Marunouchi"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-pop-55958",
@@ -13136,7 +14096,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "POP UP PARADE Racing Miku: 2023 Ver.",
           "url": "https://www.goodsmile.com/en/product/55958",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）；本型号页面明确列出的发售年月。"
         }
       ],
       "event": null,
@@ -13149,7 +14109,12 @@ window.TOY_COMPARE_DATA = {
           "role": "涂装",
           "name": "namoji"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2024年12月、2027年2月（预定）",
+        "sourceUrl": "https://www.goodsmile.com/en/product/55958",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "gsc-pop-1139935",
@@ -13218,7 +14183,12 @@ window.TOY_COMPARE_DATA = {
           "role": "涂装",
           "name": "Kazuya Koubou"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-pop-1136848",
@@ -13283,7 +14253,12 @@ window.TOY_COMPARE_DATA = {
           "role": "原型制作",
           "name": "Sho Nagano"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-pop-1139391",
@@ -13352,7 +14327,12 @@ window.TOY_COMPARE_DATA = {
           "role": "涂装",
           "name": "MIC"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-pop-1139433",
@@ -13421,7 +14401,12 @@ window.TOY_COMPARE_DATA = {
           "role": "涂装",
           "name": "MIC"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-pop-1136656",
@@ -13477,7 +14462,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "POP UP PARADE Saya L Size",
           "url": "https://www.goodsmile.com/en/product/1136656",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）；本型号页面明确列出的发售年月。"
         }
       ],
       "event": null,
@@ -13486,7 +14471,12 @@ window.TOY_COMPARE_DATA = {
           "role": "原型制作",
           "name": "Oomugiyouchien Komugigumi (CONNECTRECT)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2025年9月、2027年1月（预定）",
+        "sourceUrl": "https://www.goodsmile.com/en/product/1136656",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "gsc-pop-1144886",
@@ -13555,7 +14545,12 @@ window.TOY_COMPARE_DATA = {
           "role": "涂装",
           "name": "taumokei"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-pop-61723",
@@ -13628,7 +14623,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "Takao Sigeyama/WAZZE"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-pop-1144885",
@@ -13692,7 +14692,12 @@ window.TOY_COMPARE_DATA = {
           "role": "涂装",
           "name": "Yukichi"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-pop-1143802",
@@ -13757,7 +14762,12 @@ window.TOY_COMPARE_DATA = {
           "role": "涂装",
           "name": "Tomofumi (WATANA BOX)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-pop-1137698",
@@ -13822,7 +14832,12 @@ window.TOY_COMPARE_DATA = {
           "role": "原型制作",
           "name": "Kazuhira Noya"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-pop-1145188",
@@ -13887,7 +14902,12 @@ window.TOY_COMPARE_DATA = {
           "role": "涂装",
           "name": "Shu Kusune (KLAMP STUDIO)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-pop-1143892",
@@ -13955,7 +14975,12 @@ window.TOY_COMPARE_DATA = {
           "role": "涂装",
           "name": "Tomofumi (WATANA BOX)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-pop-1142460",
@@ -14033,7 +15058,12 @@ window.TOY_COMPARE_DATA = {
           "role": "涂装",
           "name": "Tomofumi (WATANA BOX)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-pop-1142459",
@@ -14102,7 +15132,12 @@ window.TOY_COMPARE_DATA = {
           "role": "涂装",
           "name": "Tomofumi (WATANA BOX)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-pop-1142458",
@@ -14171,7 +15206,12 @@ window.TOY_COMPARE_DATA = {
           "role": "涂装",
           "name": "Tomofumi (WATANA BOX)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-pop-1137013",
@@ -14240,7 +15280,12 @@ window.TOY_COMPARE_DATA = {
           "role": "涂装",
           "name": "Hiroto Tanimoto"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-pop-1142837",
@@ -14309,7 +15354,12 @@ window.TOY_COMPARE_DATA = {
           "role": "涂装",
           "name": "Tomoyoshi Hara"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-chito-1138464",
@@ -14385,7 +15435,12 @@ window.TOY_COMPARE_DATA = {
           "role": "设计",
           "name": "huke"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-chito-59941",
@@ -14461,7 +15516,12 @@ window.TOY_COMPARE_DATA = {
           "role": "设计",
           "name": "huke"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-chito-12146",
@@ -14539,7 +15599,12 @@ window.TOY_COMPARE_DATA = {
           "role": "设计",
           "name": "huke"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-chito-10892",
@@ -14617,7 +15682,12 @@ window.TOY_COMPARE_DATA = {
           "role": "设计",
           "name": "huke"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-chito-10241",
@@ -14696,7 +15766,12 @@ window.TOY_COMPARE_DATA = {
           "role": "设计",
           "name": "huke"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-chito-9766",
@@ -14782,7 +15857,12 @@ window.TOY_COMPARE_DATA = {
           "role": "设计",
           "name": "huke"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-chito-6300",
@@ -14844,7 +15924,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "chitocerium VI-carbonia adamas",
           "url": "https://www.goodsmile.com/en/product/6300",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）；本型号页面明确列出的发售年月。"
         }
       ],
       "event": null,
@@ -14861,7 +15941,12 @@ window.TOY_COMPARE_DATA = {
           "role": "设计",
           "name": "huke"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2020年5月、2020年10月",
+        "sourceUrl": "https://www.goodsmile.com/en/product/6300",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "gsc-chito-32646",
@@ -14932,7 +16017,12 @@ window.TOY_COMPARE_DATA = {
           "role": "设计",
           "name": "huke"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-chito-5770",
@@ -14994,7 +16084,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "chitocerium LXXVIII-platinum",
           "url": "https://www.goodsmile.com/en/product/5770",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）；本型号页面明确列出的发售年月。"
         }
       ],
       "event": null,
@@ -15011,7 +16101,12 @@ window.TOY_COMPARE_DATA = {
           "role": "设计",
           "name": "huke"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2019年5月、2020年10月",
+        "sourceUrl": "https://www.goodsmile.com/en/product/5770",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "gsc-chito-7116",
@@ -15090,7 +16185,12 @@ window.TOY_COMPARE_DATA = {
           "role": "设计",
           "name": "huke"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-plamatea-1139093",
@@ -15158,7 +16258,12 @@ window.TOY_COMPARE_DATA = {
           "role": "设计",
           "name": "SELECT D"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-plamatea-1139114",
@@ -15224,7 +16329,12 @@ window.TOY_COMPARE_DATA = {
           "role": "设计",
           "name": "mffp"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-plamatea-1145409",
@@ -15297,7 +16407,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "HOTKEEL"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-plamatea-1138610",
@@ -15357,7 +16472,12 @@ window.TOY_COMPARE_DATA = {
           "role": "原型制作",
           "name": "Keita Tagami"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-plamatea-1137954",
@@ -15425,7 +16545,12 @@ window.TOY_COMPARE_DATA = {
           "role": "设计",
           "name": "POLY-TOYS"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-plamatea-1142817",
@@ -15497,7 +16622,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "POLY-TOYS"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-plamatea-1142140",
@@ -15565,7 +16695,12 @@ window.TOY_COMPARE_DATA = {
           "role": "原型制作",
           "name": "Keita Tagami"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-plamatea-1136972",
@@ -15638,7 +16773,12 @@ window.TOY_COMPARE_DATA = {
           "role": "设计",
           "name": "UNITEC"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-plamatea-1145848",
@@ -15706,7 +16846,12 @@ window.TOY_COMPARE_DATA = {
           "role": "原型制作",
           "name": "Max Factory (Jun Yamaoka)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-plamatea-1138558",
@@ -15780,7 +16925,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "POLY-TOYS"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-plamatea-1144549",
@@ -15847,7 +16997,12 @@ window.TOY_COMPARE_DATA = {
           "role": "原型制作",
           "name": "Max Factory"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-plamatea-1144550",
@@ -15918,7 +17073,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "mffp"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-plamatea-1137892",
@@ -15990,7 +17150,12 @@ window.TOY_COMPARE_DATA = {
           "role": "设计",
           "name": "POLY-TOYS"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-plamatea-1137327",
@@ -16062,7 +17227,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "TEAM NAVEL (UNITEC)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-plamatea-1141570",
@@ -16131,7 +17301,12 @@ window.TOY_COMPARE_DATA = {
           "role": "原型制作",
           "name": "Kenichi Miyashita"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-plamatea-1137923",
@@ -16194,7 +17369,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-plamatea-1137924",
@@ -16257,7 +17437,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-plamatea-1136218",
@@ -16330,7 +17515,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "Tagoichi, Koke"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-plamatea-1138002",
@@ -16401,7 +17591,12 @@ window.TOY_COMPARE_DATA = {
           "role": "原型制作",
           "name": "Max Factory (Nobuhiko Asahina)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-plamatea-1141879",
@@ -16470,7 +17665,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "POLY-TOYS"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-plamatea-36286",
@@ -16530,7 +17730,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "PLAMATEA Cutie Honey",
           "url": "https://www.goodsmile.com/en/product/36286",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）；本型号页面明确列出的发售年月。"
         }
       ],
       "event": null,
@@ -16539,7 +17739,12 @@ window.TOY_COMPARE_DATA = {
           "role": "原型制作",
           "name": "Keita Tagami"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2026年3月、2026年11月（预定）",
+        "sourceUrl": "https://www.goodsmile.com/en/product/36286",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "gsc-plamatea-60249",
@@ -16596,7 +17801,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "PLAMATEA Guts: Berserker Armor Ver.",
           "url": "https://www.goodsmile.com/en/product/60249",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）；本型号页面明确列出的发售年月。"
         }
       ],
       "event": null,
@@ -16609,7 +17814,12 @@ window.TOY_COMPARE_DATA = {
           "role": "制作协力",
           "name": "Ensky PLUS"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2024年11月、2026年10月",
+        "sourceUrl": "https://www.goodsmile.com/en/product/60249",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "gsc-plamatea-1137794",
@@ -16677,7 +17887,12 @@ window.TOY_COMPARE_DATA = {
           "role": "设计",
           "name": "mffp"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "gsc-plamatea-34684",
@@ -16735,7 +17950,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "PLAMATEA Shigure Kai San",
           "url": "https://www.goodsmile.com/en/product/34684",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）；本型号页面明确列出的发售年月。"
         }
       ],
       "event": null,
@@ -16744,7 +17959,12 @@ window.TOY_COMPARE_DATA = {
           "role": "原型制作",
           "name": "POLY-TOYS"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2025年2月、2026年9月",
+        "sourceUrl": "https://www.goodsmile.com/en/product/34684",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "gsc-plamatea-57238",
@@ -16801,7 +18021,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "PLAMATEA Hatsune Miku: Happy 16th Birthday Ver.",
           "url": "https://www.goodsmile.com/en/product/57238",
-          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）"
+          "supports": "具体型号、制造主体、交付规格、材料与尺寸；未知字段保留。；补核本款原型、涂装／制作署名（以页面列项为限）；本型号页面明确列出的发售年月。"
         }
       ],
       "event": null,
@@ -16810,7 +18030,12 @@ window.TOY_COMPARE_DATA = {
           "role": "原型制作",
           "name": "Max Factory (Jun Yamaoka)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2026年9月、2026年10月",
+        "sourceUrl": "https://www.goodsmile.com/en/product/57238",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "azone-body-pfl103-wht",
@@ -16899,7 +18124,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "销售方式变化与适用系列；不作为本款库存或热度排名证据。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "azone-body-pfl104-wht",
@@ -16988,7 +18218,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "销售方式变化与适用系列；不作为本款库存或热度排名证据。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "azone-body-pfl099-wht",
@@ -17077,7 +18312,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "销售方式变化与适用系列；不作为本款库存或热度排名证据。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "azone-body-pfl100-wht",
@@ -17166,7 +18406,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "销售方式变化与适用系列；不作为本款库存或热度排名证据。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "azone-body-pfl088-wht",
@@ -17255,7 +18500,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "销售方式变化与适用系列；不作为本款库存或热度排名证据。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "azone-body-pcn038-wht",
@@ -17326,7 +18576,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "核对当前 PCN 型号及 S／M、D、P 各自的换手和关节配件。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "azone-body-pcn043-wht",
@@ -17397,7 +18652,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "核对当前 PCN 型号及 S／M、D、P 各自的换手和关节配件。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "azone-body-pcn041-wht",
@@ -17468,7 +18728,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "核对当前 PCN 型号及 S／M、D、P 各自的换手和关节配件。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "azone-body-pcn042-wht",
@@ -17539,7 +18804,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "核对当前 PCN 型号及 S／M、D、P 各自的换手和关节配件。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "azone-body-pcn048-wht",
@@ -17601,7 +18871,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "1／12 ピコニーモD 弟 PCN048-WHT",
           "url": "https://www.azone-int.co.jp/azonet/item/4573199848051",
-          "supports": "本款独立素体、型号、尺寸口径、材料及配件范围；未披露项保留。"
+          "supports": "本款独立素体、型号、尺寸口径、材料及配件范围；未披露项保留。；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方型号与配件目录",
@@ -17622,7 +18892,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "PCN048 的身体与首关节、D 系列手脚造型及相对大小。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "发售：2025年6月",
+        "sourceUrl": "https://www.azone-int.co.jp/azonet/item/4573199848051",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "bare-26bd-f01n-s",
@@ -17688,7 +18963,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "厂家型号说明页直接列出的对应 SKU；库存未单独核对。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "bare-27bd-m03n",
@@ -17753,7 +19033,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "厂家型号说明页直接列出的对应 SKU；库存未单独核对。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "bare-27bd-f06n",
@@ -17819,7 +19104,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "厂家型号说明页直接列出的对应 SKU；库存未单独核对。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "bare-30bd-m01n",
@@ -17884,7 +19174,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "厂家型号说明页直接列出的对应 SKU；库存未单独核对。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "bare-50bd-ggrw-g",
@@ -17949,7 +19244,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "厂家型号说明页直接列出的对应 SKU；库存未单独核对。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "piccodo-118319611",
@@ -18012,7 +19312,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "本款独立素体、型号、尺寸口径、材料及配件范围；未披露项保留。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "piccodo-115850461",
@@ -18076,7 +19381,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "本款独立素体、型号、尺寸口径、材料及配件范围；未披露项保留。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "piccodo-76733551",
@@ -18139,7 +19449,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "本款独立素体、型号、尺寸口径、材料及配件范围；未披露项保留。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "piccodo-76732953",
@@ -18202,7 +19517,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "本款独立素体、型号、尺寸口径、材料及配件范围；未披露项保留。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "piccodo-72696060",
@@ -18263,7 +19583,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "本款独立素体、型号、尺寸口径、材料及配件范围；未披露项保留。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "piccodo-72695579",
@@ -18325,7 +19650,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "本款独立素体、型号、尺寸口径、材料及配件范围；未披露项保留。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "piccodo-72138227",
@@ -18387,7 +19717,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "本款独立素体、型号、尺寸口径、材料及配件范围；未披露项保留。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "azone-body-pcn036-wht",
@@ -18460,7 +19795,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "换手配件的新旧品番及内容变化；配件另售，不代表素体附送。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "azone-body-aob016-wht",
@@ -18533,7 +19873,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "换手配件的新旧品番及内容变化；配件另售，不代表素体附送。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "mfield-sfbt-1",
@@ -18593,7 +19938,12 @@ window.TOY_COMPARE_DATA = {
         "SFBT1",
         "SFBT-1",
         "サフビット"
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "mfield-sfbt-3",
@@ -18674,7 +20024,12 @@ window.TOY_COMPARE_DATA = {
           "role": "原型制作",
           "name": "前田強"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "mfield-sfbt-4",
@@ -18734,7 +20089,12 @@ window.TOY_COMPARE_DATA = {
         "SFBT4",
         "SFBT-4",
         "サフビット"
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "petworks-pw-10001",
@@ -18795,7 +20155,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑 26VDAY エイト PS | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/10001/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -18820,7 +20180,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子、笠間綾"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2025年12月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/10001/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-10050",
@@ -18879,7 +20244,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Today’s momoko 2512 | PW-momoko  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/pw_momoko/10050/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -18904,7 +20269,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2025年12月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/pw_momoko/10050/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-10144",
@@ -18963,7 +20333,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "CCS 26干支 momoko 午 | PW-momoko  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/pw_momoko/10144/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -18988,7 +20358,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "鈴木あかね"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2026年1月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/pw_momoko/10144/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-10149",
@@ -19047,7 +20422,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "CCS 26ES momoko Steampunk | PW-momoko  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/pw_momoko/10149/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -19072,7 +20447,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2026年2月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/pw_momoko/10149/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-10152",
@@ -19133,7 +20513,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑 スチームパンク ナイン PS | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/10152/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -19158,7 +20538,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2026年2月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/10152/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-10154",
@@ -19219,7 +20604,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑 スチームパンク エイト PS | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/10154/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -19244,7 +20629,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2026年2月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/10154/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-10157",
@@ -19305,7 +20695,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑 26干支 午 ナイン | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/10157/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -19330,7 +20720,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2026年2月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/10157/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-10159",
@@ -19391,7 +20786,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑 26干支 午 エイト | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/10159/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -19416,7 +20811,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2026年2月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/10159/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-10228",
@@ -19475,7 +20875,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Today’s momoko 2602 | PW-momoko  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/pw_momoko/10228/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -19500,7 +20900,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2026年2月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/pw_momoko/10228/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-10230",
@@ -19558,7 +20963,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Today’s momoko 2602 DS | PW-momoko  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/pw_momoko/10230/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -19579,7 +20984,12 @@ window.TOY_COMPARE_DATA = {
           "role": "原型制作",
           "name": "澤田啓介（澤田工房）"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2026年2月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/pw_momoko/10230/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-10356",
@@ -19638,7 +21048,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "CCS 26SS momoko | PW-momoko  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/pw_momoko/10356/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -19663,7 +21073,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "笠間綾"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2026年4月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/pw_momoko/10356/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-10367",
@@ -19723,7 +21138,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑　B2604 ナイン | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/10367/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -19744,7 +21159,12 @@ window.TOY_COMPARE_DATA = {
           "role": "头部／素体原型",
           "name": "澤田啓介（澤田工房）"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2026年4月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/10367/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-10372",
@@ -19804,7 +21224,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑　B2604 エイト | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/10372/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -19825,7 +21245,12 @@ window.TOY_COMPARE_DATA = {
           "role": "头部／素体原型",
           "name": "澤田啓介（澤田工房）"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2026年4月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/10372/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-10441",
@@ -19884,7 +21309,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "CCS 26ES momoko Steampunk Phantom | PW-momoko  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/pw_momoko/10441/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -19909,7 +21334,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2026年4月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/pw_momoko/10441/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-10443",
@@ -19970,7 +21400,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑 2603ID ナイン PS | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/10443/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -19995,7 +21425,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2026年3月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/10443/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-10445",
@@ -20056,7 +21491,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑 2603ID エイト PS | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/10445/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -20081,7 +21516,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2026年3月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/10445/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-10535",
@@ -20142,7 +21582,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑 26干支 午 エイト PS | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/10535/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -20167,7 +21607,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2026年5月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/10535/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-10537",
@@ -20228,7 +21673,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑 26干支 午 ナイン PS | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/10537/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -20253,7 +21698,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2026年5月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/10537/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-10742",
@@ -20314,7 +21764,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑 ワイルドポップ エイト PS | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/10742/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -20339,7 +21789,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2026年6月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/10742/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-10744",
@@ -20400,7 +21855,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑 ワイルドポップ ナイン PS | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/10744/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -20425,7 +21880,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2026年6月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/10744/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-10747",
@@ -20485,7 +21945,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑　B26AZ ナイン | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/10747/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -20506,7 +21966,12 @@ window.TOY_COMPARE_DATA = {
           "role": "头部／素体原型",
           "name": "澤田啓介（澤田工房）"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2026年6月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/10747/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-10767",
@@ -20566,7 +22031,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑　B26AZ エイト | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/10767/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -20587,7 +22052,12 @@ window.TOY_COMPARE_DATA = {
           "role": "头部／素体原型",
           "name": "澤田啓介（澤田工房）"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2026年6月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/10767/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-10769",
@@ -20648,7 +22118,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑 アイドルリンク ナイン | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/10769/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -20673,7 +22143,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2026年6月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/10769/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-10771",
@@ -20734,7 +22209,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑 アイドルリンク エイト | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/10771/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -20759,7 +22234,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2026年6月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/10771/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-10901",
@@ -20818,7 +22298,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "CCS 26AN momoko | PW-momoko  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/pw_momoko/10901/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -20843,7 +22323,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2026年8月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/pw_momoko/10901/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-10903",
@@ -20901,7 +22386,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Today’s momoko 2608 bl | PW-momoko  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/pw_momoko/10903/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -20922,7 +22407,12 @@ window.TOY_COMPARE_DATA = {
           "role": "原型制作",
           "name": "澤田啓介（澤田工房）"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2026年8月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/pw_momoko/10903/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-10905",
@@ -20980,7 +22470,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Today’s momoko 2608 bk | PW-momoko  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/pw_momoko/10905/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -21001,7 +22491,12 @@ window.TOY_COMPARE_DATA = {
           "role": "原型制作",
           "name": "澤田啓介（澤田工房）"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2026年8月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/pw_momoko/10905/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-10907",
@@ -21061,7 +22556,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑　B2608 ナイン | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/10907/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -21082,7 +22577,12 @@ window.TOY_COMPARE_DATA = {
           "role": "头部／素体原型",
           "name": "澤田啓介（澤田工房）"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2026年8月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/10907/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-10909",
@@ -21142,7 +22642,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑　B2608 エイト | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/10909/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -21163,7 +22663,12 @@ window.TOY_COMPARE_DATA = {
           "role": "头部／素体原型",
           "name": "澤田啓介（澤田工房）"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2026年8月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/10909/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-10985",
@@ -21222,7 +22727,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "CCS 26干支 momoko 午 PS | PW-momoko  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/pw_momoko/10985/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -21247,7 +22752,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2026年8月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/pw_momoko/10985/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-11107",
@@ -21308,7 +22818,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑　B2610 ナイン | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/11107/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -21329,7 +22839,12 @@ window.TOY_COMPARE_DATA = {
           "role": "头部／素体原型",
           "name": "澤田啓介（澤田工房）"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2026年10月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/11107/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-11117",
@@ -21390,7 +22905,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑　B2610 エイト | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/11117/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -21411,7 +22926,12 @@ window.TOY_COMPARE_DATA = {
           "role": "头部／素体原型",
           "name": "澤田啓介（澤田工房）"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2026年10月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/11117/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-4434",
@@ -21471,7 +22991,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑　PW-29BODY アイボリーベージュ | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/4434/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -21492,7 +23012,12 @@ window.TOY_COMPARE_DATA = {
           "role": "头部／素体原型",
           "name": "澤田啓介（澤田工房）"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2021年2月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/4434/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-4445",
@@ -21552,7 +23077,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑　PW-28BODY アイボリーベージュ | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/4445/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -21573,7 +23098,12 @@ window.TOY_COMPARE_DATA = {
           "role": "头部／素体原型",
           "name": "澤田啓介（澤田工房）"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2021年2月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/4445/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-6576",
@@ -21632,7 +23162,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Today’s momoko 2302 | PW-momoko  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/pw_momoko/6576/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -21657,7 +23187,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2023年2月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/pw_momoko/6576/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-6664",
@@ -21716,7 +23251,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Today’s momoko 2304 | PW-momoko  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/pw_momoko/6664/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -21741,7 +23276,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2023年4月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/pw_momoko/6664/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-6770",
@@ -21800,7 +23340,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "CCS 23SS momoko | PW-momoko  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/pw_momoko/6770/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -21825,7 +23365,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子、鈴木あかね"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2023年5月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/pw_momoko/6770/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-6910",
@@ -21884,7 +23429,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "CCS 23SS momoko PS | PW-momoko  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/pw_momoko/6910/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -21909,7 +23454,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2023年6月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/pw_momoko/6910/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-7012",
@@ -21968,7 +23518,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Today’s momoko 2307 | PW-momoko  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/pw_momoko/7012/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -21993,7 +23543,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2023年7月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/pw_momoko/7012/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-7124",
@@ -22052,7 +23607,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "CCS 23SS momoko PS Alice | PW-momoko  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/pw_momoko/7124/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -22077,7 +23632,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "鈴木あかね"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2023年8月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/pw_momoko/7124/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-7127",
@@ -22136,7 +23696,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "CCS 23AN momoko | PW-momoko  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/pw_momoko/7127/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -22161,7 +23721,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子、笠間綾"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2023年8月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/pw_momoko/7127/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-7428",
@@ -22220,7 +23785,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "CCS 23AW momoko | PW-momoko  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/pw_momoko/7428/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -22245,7 +23810,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子、笠間綾"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2023年11月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/pw_momoko/7428/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-7555",
@@ -22304,7 +23874,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "CCS 24干支 momoko 辰 | PW-momoko  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/pw_momoko/7555/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -22329,7 +23899,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2023年11月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/pw_momoko/7555/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-7575",
@@ -22388,7 +23963,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Today’s momoko 2312 | PW-momoko  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/pw_momoko/7575/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -22413,7 +23988,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2023年12月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/pw_momoko/7575/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-7581",
@@ -22473,7 +24053,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑　PW-29BODY 褐色 | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/7581/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -22494,7 +24074,12 @@ window.TOY_COMPARE_DATA = {
           "role": "素体原型",
           "name": "澤田啓介（澤田工房）"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2023年11月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/7581/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-7584",
@@ -22554,7 +24139,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑　PW-28BODY 褐色 | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/7584/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -22575,7 +24160,12 @@ window.TOY_COMPARE_DATA = {
           "role": "素体原型",
           "name": "澤田啓介（澤田工房）"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2023年11月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/7584/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-7761",
@@ -22634,7 +24224,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Today’s momoko 2402 | PW-momoko  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/pw_momoko/7761/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -22659,7 +24249,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2024年2月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/pw_momoko/7761/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-7806",
@@ -22719,7 +24314,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑　B2403 エイト | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/7806/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -22740,7 +24335,12 @@ window.TOY_COMPARE_DATA = {
           "role": "头部／素体原型",
           "name": "澤田啓介（澤田工房）"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2024年3月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/7806/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-7903",
@@ -22799,7 +24399,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Today’s momoko 2403 | PW-momoko  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/pw_momoko/7903/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -22824,7 +24424,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2024年3月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/pw_momoko/7903/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-7906",
@@ -22885,7 +24490,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑　書房のナイン PS | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/7906/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -22910,7 +24515,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子、笠間綾"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2024年3月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/7906/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-7908",
@@ -22971,7 +24581,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑　書房のエイト PS | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/7908/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -22996,7 +24606,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子、笠間綾"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2024年3月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/7908/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-7967",
@@ -23055,7 +24670,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "CCS 24SS momoko | PW-momoko  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/pw_momoko/7967/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -23080,7 +24695,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "笠間綾"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2024年4月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/pw_momoko/7967/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-8155",
@@ -23141,7 +24761,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑 ヴァンパイア ナイン | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/8155/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -23166,7 +24786,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2024年6月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/8155/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-8157",
@@ -23227,7 +24852,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑 ヴァンパイア エイト | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/8157/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -23252,7 +24877,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2024年6月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/8157/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-8301",
@@ -23311,7 +24941,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "CCS 24AN momoko wh | PW-momoko  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/pw_momoko/8301/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -23336,7 +24966,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "鈴木あかね"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2024年8月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/pw_momoko/8301/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-8303",
@@ -23395,7 +25030,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "CCS 24AN momoko bk | PW-momoko  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/pw_momoko/8303/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -23420,7 +25055,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "鈴木あかね"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2024年8月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/pw_momoko/8303/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-8305",
@@ -23479,7 +25119,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "CCS 24AN momoko Azone Ex. | PW-momoko  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/pw_momoko/8305/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -23504,7 +25144,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "鈴木あかね"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2024年8月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/pw_momoko/8305/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-8307",
@@ -23565,7 +25210,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑 ノームコア ナイン | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/8307/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -23590,7 +25235,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2024年9月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/8307/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-8309",
@@ -23651,7 +25301,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑 ノームコア エイト | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/8309/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -23676,7 +25326,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2024年9月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/8309/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-8468",
@@ -23736,7 +25391,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑　B2410 ナイン PS | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/8468/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -23757,7 +25412,12 @@ window.TOY_COMPARE_DATA = {
           "role": "头部／素体原型",
           "name": "澤田啓介（澤田工房）"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2024年10月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/8468/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-8470",
@@ -23817,7 +25477,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑　B2410 エイト PS | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/8470/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -23838,7 +25498,12 @@ window.TOY_COMPARE_DATA = {
           "role": "头部／素体原型",
           "name": "澤田啓介（澤田工房）"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2024年10月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/8470/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-8473",
@@ -23899,7 +25564,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑 カジュアルテック ナイン | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/8473/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -23924,7 +25589,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子、笠間綾"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2024年10月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/8473/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-8475",
@@ -23985,7 +25655,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑 カジュアルテック エイト | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/8475/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -24010,7 +25680,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2024年10月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/8475/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-8521",
@@ -24069,7 +25744,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Today’s momoko 24FS | PW-momoko  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/pw_momoko/8521/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -24094,7 +25769,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2024年10月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/pw_momoko/8521/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-8617",
@@ -24153,7 +25833,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "CCS 24AW momoko | PW-momoko  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/pw_momoko/8617/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -24178,7 +25858,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2024年11月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/pw_momoko/8617/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-8700",
@@ -24239,7 +25924,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑 ノームコア ナイン PS | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/8700/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -24264,7 +25949,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2024年11月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/8700/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-8702",
@@ -24325,7 +26015,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑 ノームコア エイト PS | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/8702/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -24350,7 +26040,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2024年11月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/8702/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-8854",
@@ -24409,7 +26104,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "CCS 25VDAY momoko | PW-momoko  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/pw_momoko/8854/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -24434,7 +26129,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "笠間綾"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2025年1月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/pw_momoko/8854/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-8858",
@@ -24495,7 +26195,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑 25VDAY ナイン PS | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/8858/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -24520,7 +26220,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子、笠間綾"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2025年1月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/8858/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-8860",
@@ -24573,7 +26278,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑 25VDAY エイト PS | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/8860/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -24588,7 +26293,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "本型号页直接链接的活动范围；不据此推定全部系列出展"
         }
       ],
-      "event": "型号页明确关联：Events"
+      "event": "型号页明确关联：Events",
+      "chronology": {
+        "label": "发售：2025年1月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/8860/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-9012",
@@ -24649,7 +26359,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑 25干支 巳 ナイン | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/9012/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -24674,7 +26384,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "STOC"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2025年3月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/9012/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-9015",
@@ -24735,7 +26450,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑 25干支 巳 エイト | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/9015/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -24760,7 +26475,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "STOC"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2025年3月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/9015/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-9017",
@@ -24819,7 +26539,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "CCS 25SS momoko | PW-momoko  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/pw_momoko/9017/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -24844,7 +26564,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2025年3月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/pw_momoko/9017/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-9130",
@@ -24905,7 +26630,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑 ボタニカル ナイン | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/9130/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -24930,7 +26655,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2025年4月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/9130/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-9132",
@@ -24991,7 +26721,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑 ボタニカル エイト | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/9132/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -25016,7 +26746,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2025年4月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/9132/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-9281",
@@ -25076,7 +26811,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑　B25AZ ナイン | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/9281/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -25097,7 +26832,12 @@ window.TOY_COMPARE_DATA = {
           "role": "头部／素体原型",
           "name": "澤田啓介（澤田工房）"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2025年6月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/9281/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-9294",
@@ -25157,7 +26897,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑　B25AZ エイト | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/9294/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -25178,7 +26918,12 @@ window.TOY_COMPARE_DATA = {
           "role": "头部／素体原型",
           "name": "澤田啓介（澤田工房）"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2025年6月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/9294/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-9297",
@@ -25239,7 +26984,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑 袴スタイル・蒼黒 ナイン | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/9297/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -25264,7 +27009,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2025年6月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/9297/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-9328",
@@ -25325,7 +27075,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑 袴スタイル・蒼黒 エイト | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/9328/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -25350,7 +27100,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2025年6月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/9328/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-9334",
@@ -25411,7 +27166,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑 25干支 巳 ナイン PS | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/9334/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -25436,7 +27191,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "STOC"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2025年6月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/9334/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-9354",
@@ -25497,7 +27257,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑 25干支 巳 エイト PS | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/9354/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -25522,7 +27282,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "STOC"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2025年6月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/9354/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-9381",
@@ -25581,7 +27346,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "CCS 25SS momoko PS | PW-momoko  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/pw_momoko/9381/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -25606,7 +27371,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2025年6月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/pw_momoko/9381/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-9419",
@@ -25665,7 +27435,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Today’s momoko 2507 | PW-momoko  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/pw_momoko/9419/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -25690,7 +27460,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2025年7月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/pw_momoko/9419/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-9511",
@@ -25750,7 +27525,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑　B2508 エイト | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/9511/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -25771,7 +27546,12 @@ window.TOY_COMPARE_DATA = {
           "role": "头部／素体原型",
           "name": "澤田啓介（澤田工房）"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2025年8月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/9511/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-9522",
@@ -25831,7 +27611,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑　B2508 ナイン | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/9522/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -25852,7 +27632,12 @@ window.TOY_COMPARE_DATA = {
           "role": "头部／素体原型",
           "name": "澤田啓介（澤田工房）"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2025年8月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/9522/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-9547",
@@ -25911,7 +27696,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "CCS 25AN momoko bk | PW-momoko  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/pw_momoko/9547/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -25936,7 +27721,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2025年9月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/pw_momoko/9547/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-9550",
@@ -25995,7 +27785,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "CCS 25AN momoko wh | PW-momoko  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/pw_momoko/9550/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -26020,7 +27810,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2025年9月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/pw_momoko/9550/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-9620",
@@ -26081,7 +27876,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑 ボタニカル ナイン PS | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/9620/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -26106,7 +27901,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2025年9月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/9620/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-9641",
@@ -26167,7 +27967,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑 ボタニカル エイト PS | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/9641/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -26192,7 +27992,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2025年9月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/9641/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-9663",
@@ -26253,7 +28058,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑 袴スタイル・蒼黒 ナイン  PS | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/9663/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -26278,7 +28083,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2025年9月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/9663/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-9665",
@@ -26339,7 +28149,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑 袴スタイル・蒼黒 エイト PS | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/9665/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -26364,7 +28174,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2025年9月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/9665/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-9733",
@@ -26423,7 +28238,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "Today’s momoko 2510 | PW-momoko  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/pw_momoko/9733/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -26448,7 +28263,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2025年10月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/pw_momoko/9733/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-9920",
@@ -26507,7 +28327,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "CCS 24AN momoko bk PS | PW-momoko  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/pw_momoko/9920/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -26532,7 +28352,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "鈴木あかね"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2025年11月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/pw_momoko/9920/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-9948",
@@ -26592,7 +28417,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑　B2512 ナイン | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/9948/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -26613,7 +28438,12 @@ window.TOY_COMPARE_DATA = {
           "role": "头部／素体原型",
           "name": "澤田啓介（澤田工房）"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2025年12月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/9948/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-9950",
@@ -26673,7 +28503,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑　B2512 エイト | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/9950/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -26694,7 +28524,12 @@ window.TOY_COMPARE_DATA = {
           "role": "头部／素体原型",
           "name": "澤田啓介（澤田工房）"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2025年12月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/9950/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-9992",
@@ -26753,7 +28588,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "CCS 26VDAY momoko | PW-momoko  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/pw_momoko/9992/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -26778,7 +28613,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "笠間綾"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2025年12月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/pw_momoko/9992/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "petworks-pw-9999",
@@ -26839,7 +28679,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "六分の一男子図鑑 26VDAY ナイン PS | 六分の一男子図鑑  |  PetWORKs",
           "url": "https://www.petworks.co.jp/doll/bma/9999/",
-          "supports": "具体版本、交付内容、尺寸、材料及作者署名"
+          "supports": "具体版本、交付内容、尺寸、材料及作者署名；本型号页面明确列出的发售年月。"
         },
         {
           "kind": "官方系列说明",
@@ -26864,7 +28704,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "関口妙子、笠間綾"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2025年12月",
+        "sourceUrl": "https://www.petworks.co.jp/doll/bma/9999/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "azone-aod524-rsg",
@@ -26937,7 +28782,12 @@ window.TOY_COMPARE_DATA = {
           "role": "面妆／眼睛设计",
           "name": "出島アイ"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "azone-aod524-rsb",
@@ -27010,7 +28860,12 @@ window.TOY_COMPARE_DATA = {
           "role": "面妆／眼睛设计",
           "name": "出島アイ"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "azone-aod530-ycn",
@@ -27086,7 +28941,12 @@ window.TOY_COMPARE_DATA = {
           "role": "面妆／眼睛设计",
           "name": "Poe-Poe"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "azone-aod530-yco",
@@ -27162,7 +29022,12 @@ window.TOY_COMPARE_DATA = {
           "role": "面妆／眼睛设计",
           "name": "Poe-Poe"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "azone-aod516-sbb",
@@ -27230,7 +29095,12 @@ window.TOY_COMPARE_DATA = {
           "role": "素体原型",
           "name": "鬼山尚丈(ハイパースペース)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "azone-aod516-sbw",
@@ -27298,7 +29168,12 @@ window.TOY_COMPARE_DATA = {
           "role": "素体原型",
           "name": "鬼山尚丈(ハイパースペース)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "azone-aod518-fmb",
@@ -27362,7 +29237,12 @@ window.TOY_COMPARE_DATA = {
           "role": "头部原型",
           "name": "ZAN（猫の小判）"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "azone-aod518-fms",
@@ -27426,7 +29306,12 @@ window.TOY_COMPARE_DATA = {
           "role": "头部原型",
           "name": "ZAN（猫の小判）"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "azone-aod528-aca",
@@ -27498,7 +29383,12 @@ window.TOY_COMPARE_DATA = {
           "role": "面妆／眼睛设计",
           "name": "Poe-Poe"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "azone-aod528-ach",
@@ -27570,7 +29460,12 @@ window.TOY_COMPARE_DATA = {
           "role": "面妆／眼睛设计",
           "name": "Poe-Poe"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "azone-aod524-gnr",
@@ -27642,7 +29537,12 @@ window.TOY_COMPARE_DATA = {
           "role": "素体原型",
           "name": "鬼山尚丈(ハイパースペース)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "azone-aod513-gmr",
@@ -27710,7 +29610,12 @@ window.TOY_COMPARE_DATA = {
           "role": "素体原型",
           "name": "鬼山尚丈(ハイパースペース)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "azone-aod515-ktp",
@@ -27778,7 +29683,12 @@ window.TOY_COMPARE_DATA = {
           "role": "素体原型",
           "name": "鬼山尚丈(ハイパースペース)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "azone-aod515-kth",
@@ -27846,7 +29756,12 @@ window.TOY_COMPARE_DATA = {
           "role": "素体原型",
           "name": "鬼山尚丈(ハイパースペース)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "azone-aod516-smw",
@@ -27914,7 +29829,12 @@ window.TOY_COMPARE_DATA = {
           "role": "素体原型",
           "name": "鬼山尚丈(ハイパースペース)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "azone-aod516-smp",
@@ -27982,7 +29902,12 @@ window.TOY_COMPARE_DATA = {
           "role": "素体原型",
           "name": "鬼山尚丈(ハイパースペース)"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "kaiyodo-nr114",
@@ -28040,7 +29965,12 @@ window.TOY_COMPARE_DATA = {
           "role": "原型制作",
           "name": "杉本・F・大地"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "kaiyodo-nr115",
@@ -28106,7 +30036,12 @@ window.TOY_COMPARE_DATA = {
           "role": "原型制作",
           "name": "山口勝久"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "kaiyodo-nr133",
@@ -28171,7 +30106,12 @@ window.TOY_COMPARE_DATA = {
           "role": "原型制作",
           "name": "山口勝久"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "kaiyodo-nr134",
@@ -28236,7 +30176,12 @@ window.TOY_COMPARE_DATA = {
           "role": "原型制作",
           "name": "山口勝久"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "kaiyodo-nr140",
@@ -28306,7 +30251,12 @@ window.TOY_COMPARE_DATA = {
           "role": "设计／插画",
           "name": "Mx2J"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "kaiyodo-nr149",
@@ -28372,7 +30322,12 @@ window.TOY_COMPARE_DATA = {
           "role": "原型制作",
           "name": "廖鋭鹏（Ryo_L）"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "kaiyodo-nr150",
@@ -28438,7 +30393,12 @@ window.TOY_COMPARE_DATA = {
           "role": "原型制作",
           "name": "坂本翔太郎"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "kaiyodo-nr153",
@@ -28504,7 +30464,12 @@ window.TOY_COMPARE_DATA = {
           "role": "原型制作",
           "name": "余詩穎"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "kaiyodo-nr154",
@@ -28565,7 +30530,12 @@ window.TOY_COMPARE_DATA = {
           "role": "原型制作",
           "name": "杉本・F・大地"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "volks-body-mdd2",
@@ -28635,7 +30605,12 @@ window.TOY_COMPARE_DATA = {
           "role": "原型制作",
           "name": "造形村"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "volks-body-mdd-mochi2",
@@ -28715,7 +30690,12 @@ window.TOY_COMPARE_DATA = {
           "role": "原型制作",
           "name": "造形村"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "volks-body-ddp-f3",
@@ -28785,7 +30765,12 @@ window.TOY_COMPARE_DATA = {
           "role": "原型制作",
           "name": "造形村"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "volks-body-dds2",
@@ -28855,7 +30840,12 @@ window.TOY_COMPARE_DATA = {
           "role": "原型制作",
           "name": "造形村"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "volks-body-dd2",
@@ -28925,7 +30915,12 @@ window.TOY_COMPARE_DATA = {
           "role": "原型制作",
           "name": "造形村"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "volks-body-dddy-f3",
@@ -28995,7 +30990,12 @@ window.TOY_COMPARE_DATA = {
           "role": "原型制作",
           "name": "造形村"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "volks-standard-ena",
@@ -29076,7 +31076,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装设计",
           "name": "ボークス・ドール企画室"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "volks-standard-honoka",
@@ -29157,7 +31162,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装设计",
           "name": "ボークス・ドール企画室"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "volks-standard-coco",
@@ -29238,7 +31248,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装设计",
           "name": "ボークス・ドール企画室"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "volks-standard-saki",
@@ -29319,7 +31334,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装设计",
           "name": "ボークス・ドール企画室"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "volks-standard-chiyo",
@@ -29400,7 +31420,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装设计",
           "name": "ボークス・ドール企画室"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "volks-sakura-miku2",
@@ -29474,7 +31499,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "ボークス・ドール企画室"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "volks-temari",
@@ -29548,7 +31578,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "ボークス・ドール企画室"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "volks-himari",
@@ -29622,7 +31657,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "ボークス・ドール企画室"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "volks-frieren2",
@@ -29696,7 +31736,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "ボークス・ドール企画室"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "volks-fern",
@@ -29770,7 +31815,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "ボークス・ドール企画室"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "volks-aqua",
@@ -29844,7 +31894,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "ボークス・ドール企画室"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "volks-miku-nt",
@@ -29918,7 +31973,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装制作",
           "name": "ボークス・ドール企画室"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "bandai-13239",
@@ -29972,10 +32032,15 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "S.H.Figuarts ボディちゃん DX SET 2（ Solid black Color Ver.） | 商品一覧 | 魂ウェブ",
           "url": "https://tamashiiweb.com/item/13239/",
-          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限；本型号页面明确列出的发售年月。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "发售：2020年9月",
+        "sourceUrl": "https://tamashiiweb.com/item/13239/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "bandai-13464",
@@ -30029,10 +32094,15 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "S.H.Figuarts ボディくん -ワイヤーフレーム- （Gray Color Ver.） | 商品一覧 | 魂ウェブ",
           "url": "https://tamashiiweb.com/item/13464/",
-          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限；本型号页面明确列出的发售年月。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "发售：2022年4月",
+        "sourceUrl": "https://tamashiiweb.com/item/13464/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "bandai-13465",
@@ -30086,10 +32156,15 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "S.H.Figuarts ボディちゃん -ワイヤーフレーム- （Gray Color Ver.） | 商品一覧 | 魂ウェブ",
           "url": "https://tamashiiweb.com/item/13465/",
-          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限；本型号页面明确列出的发售年月。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "发售：2022年4月",
+        "sourceUrl": "https://tamashiiweb.com/item/13465/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "bandai-13805",
@@ -30143,10 +32218,15 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "S.H.Figuarts ボディちゃん -矢吹健太朗- Edition DX SET (Pale orange Color Ver.) | 商品一覧 | 魂ウェブ",
           "url": "https://tamashiiweb.com/item/13805/",
-          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限；本型号页面明确列出的发售年月。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "发售：2022年5月",
+        "sourceUrl": "https://tamashiiweb.com/item/13805/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "bandai-14279",
@@ -30200,10 +32280,15 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "S.H.Figuarts ボディくん -スポーツ- Edition DX SET (Gray Color Ver.) | 商品一覧 | 魂ウェブ",
           "url": "https://tamashiiweb.com/item/14279/",
-          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限；本型号页面明确列出的发售年月。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "发售：2023年6月",
+        "sourceUrl": "https://tamashiiweb.com/item/14279/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "bandai-14280",
@@ -30257,10 +32342,15 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "S.H.Figuarts ボディちゃん -スポーツ- Edition DX SET (Gray Color Ver.) | 商品一覧 | 魂ウェブ",
           "url": "https://tamashiiweb.com/item/14280/",
-          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限；本型号页面明确列出的发售年月。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "发售：2023年6月",
+        "sourceUrl": "https://tamashiiweb.com/item/14280/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "bandai-14385",
@@ -30314,10 +32404,15 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "S.H.Figuarts ボディちゃん -スポーツ- Edition DX SET (BIRDIE WING Ver.) | 商品一覧 | 魂ウェブ",
           "url": "https://tamashiiweb.com/item/14385/",
-          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限；本型号页面明确列出的发售年月。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "发售：2023年9月",
+        "sourceUrl": "https://tamashiiweb.com/item/14385/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "bandai-14629",
@@ -30371,10 +32466,15 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "S.H.Figuarts ボディくん -スクールライフ- Edition DX SET (Gray Color Ver.) | 商品一覧 | 魂ウェブ",
           "url": "https://tamashiiweb.com/item/14629/",
-          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限；本型号页面明确列出的发售年月。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "发售：2024年3月",
+        "sourceUrl": "https://tamashiiweb.com/item/14629/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "bandai-14630",
@@ -30428,10 +32528,15 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "S.H.Figuarts ボディちゃん -スクールライフ- Edition DX SET (Gray Color Ver.) | 商品一覧 | 魂ウェブ",
           "url": "https://tamashiiweb.com/item/14630/",
-          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限；本型号页面明确列出的发售年月。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "发售：2024年3月",
+        "sourceUrl": "https://tamashiiweb.com/item/14630/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "bandai-15088",
@@ -30485,10 +32590,15 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "S.H.Figuarts ボディくん -スポーツ- Edition -ワイヤーフレーム-(Gray Color Ver.) | 商品一覧 | 魂ウェブ",
           "url": "https://tamashiiweb.com/item/15088/",
-          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限；本型号页面明确列出的发售年月。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "发售：2025年1月",
+        "sourceUrl": "https://tamashiiweb.com/item/15088/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "bandai-15089",
@@ -30542,10 +32652,15 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "S.H.Figuarts ボディちゃん -スポーツ- Edition -ワイヤーフレーム-(Gray Color Ver.) | 商品一覧 | 魂ウェブ",
           "url": "https://tamashiiweb.com/item/15089/",
-          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限；本型号页面明确列出的发售年月。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "发售：2025年1月",
+        "sourceUrl": "https://tamashiiweb.com/item/15089/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "bandai-15790",
@@ -30599,7 +32714,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "S.H.Figuarts ボディちゃん -杉森建- Edition-ワイヤーフレーム-(Gray Color Ver.) | 商品一覧 | 魂ウェブ",
           "url": "https://tamashiiweb.com/item/15790/",
-          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限；本型号页面明确列出的发售年月。"
         }
       ],
       "event": null,
@@ -30608,7 +32723,12 @@ window.TOY_COMPARE_DATA = {
           "role": "企划／制作统筹",
           "name": "杉森建"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2026年8月",
+        "sourceUrl": "https://tamashiiweb.com/item/15790/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "bandai-15791",
@@ -30662,7 +32782,7 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "S.H.Figuarts ボディくん -杉森建- Edition-ワイヤーフレーム-(Gray Color Ver.) | 商品一覧 | 魂ウェブ",
           "url": "https://tamashiiweb.com/item/15791/",
-          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限；本型号页面明确列出的发售年月。"
         }
       ],
       "event": null,
@@ -30671,7 +32791,12 @@ window.TOY_COMPARE_DATA = {
           "role": "企划／制作统筹",
           "name": "杉森建"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "发售：2026年8月",
+        "sourceUrl": "https://tamashiiweb.com/item/15791/",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "bandai-bodykun",
@@ -30721,10 +32846,15 @@ window.TOY_COMPARE_DATA = {
           "kind": "官方产品页",
           "title": "S.H.Figuarts ボディくん DX SET 2（ Solid black Color Ver.） | 商品一覧 | 魂ウェブ",
           "url": "https://tamashiiweb.com/item/13238/?wovn=ja",
-          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
+          "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限；本型号页面明确列出的发售年月。"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "发售：2020年9月",
+        "sourceUrl": "https://tamashiiweb.com/item/13238/?wovn=ja",
+        "note": "该产品页列出的发售／预定信息；同页多次发售并列，后续交付以厂商更新为准。"
+      }
     },
     {
       "id": "tinyfox-2024103002",
@@ -30793,7 +32923,12 @@ window.TOY_COMPARE_DATA = {
           "role": "面妆设计",
           "name": "@这哪儿有北国人"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "tinyfox-2024091101",
@@ -30862,7 +32997,12 @@ window.TOY_COMPARE_DATA = {
           "role": "面妆设计",
           "name": "@YUUKA_KK"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "tinyfox-2024081901",
@@ -30931,7 +33071,12 @@ window.TOY_COMPARE_DATA = {
           "role": "面妆设计",
           "name": "@比格犬夜袭红土大陆"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "tinyfox-2024072401",
@@ -31000,7 +33145,12 @@ window.TOY_COMPARE_DATA = {
           "role": "面妆设计",
           "name": "@小春食堂"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "sekiguchi-264",
@@ -31057,7 +33207,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "momoko 系列1/6与约27cm背景、真鍋奈見江的系列统筹；不代替本款独立尺寸"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "sekiguchi-265",
@@ -31114,7 +33269,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "momoko 系列1/6与约27cm背景、真鍋奈見江的系列统筹；不代替本款独立尺寸"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "sekiguchi-266",
@@ -31171,7 +33331,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "momoko 系列1/6与约27cm背景、真鍋奈見江的系列统筹；不代替本款独立尺寸"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "sekiguchi-267",
@@ -31228,7 +33393,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "momoko 系列1/6与约27cm背景、真鍋奈見江的系列统筹；不代替本款独立尺寸"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "sekiguchi-268",
@@ -31285,7 +33455,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "momoko 系列1/6与约27cm背景、真鍋奈見江的系列统筹；不代替本款独立尺寸"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "sekiguchi-269",
@@ -31342,7 +33517,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "momoko 系列1/6与约27cm背景、真鍋奈見江的系列统筹；不代替本款独立尺寸"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "sekiguchi-270",
@@ -31399,7 +33579,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "momoko 系列1/6与约27cm背景、真鍋奈見江的系列统筹；不代替本款独立尺寸"
         }
       ],
-      "event": "本型号页列明活动会场先行发售：momoko × GAL MODE 会場にて先行発売"
+      "event": "本型号页列明活动会场先行发售：momoko × GAL MODE 会場にて先行発売",
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "sekiguchi-271",
@@ -31456,7 +33641,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "momoko 系列1/6与约27cm背景、真鍋奈見江的系列统筹；不代替本款独立尺寸"
         }
       ],
-      "event": "本型号页列明活动会场先行发售：momoko × GAL MODE 会場にて先行発売"
+      "event": "本型号页列明活动会场先行发售：momoko × GAL MODE 会場にて先行発売",
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "sekiguchi-272",
@@ -31513,7 +33703,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "momoko 系列1/6与约27cm背景、真鍋奈見江的系列统筹；不代替本款独立尺寸"
         }
       ],
-      "event": "本型号页列明活动会场先行发售：momoko × GAL MODE 会場にて先行発売"
+      "event": "本型号页列明活动会场先行发售：momoko × GAL MODE 会場にて先行発売",
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "sekiguchi-273",
@@ -31570,7 +33765,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "momoko 系列1/6与约27cm背景、真鍋奈見江的系列统筹；不代替本款独立尺寸"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "sekiguchi-274",
@@ -31627,7 +33827,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "momoko 系列1/6与约27cm背景、真鍋奈見江的系列统筹；不代替本款独立尺寸"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "sekiguchi-275",
@@ -31685,7 +33890,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "momoko 系列1/6与约27cm背景、真鍋奈見江的系列统筹；不代替本款独立尺寸"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "medicos-jotaro-part4-second",
@@ -31743,7 +33953,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "具体型号、结构、交付内容、尺寸和作者署名，以页面明确列项为限"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-13564",
@@ -31814,7 +34029,12 @@ window.TOY_COMPARE_DATA = {
           "role": "身体原型制作",
           "name": "Guncat"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-13837",
@@ -31885,7 +34105,12 @@ window.TOY_COMPARE_DATA = {
           "role": "身体原型制作",
           "name": "Guncat"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-14440",
@@ -31956,7 +34181,12 @@ window.TOY_COMPARE_DATA = {
           "role": "身体原型制作",
           "name": "Guncat"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-20514",
@@ -32027,7 +34257,12 @@ window.TOY_COMPARE_DATA = {
           "role": "身体原型制作",
           "name": "SEJEL"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-20515",
@@ -32098,7 +34333,12 @@ window.TOY_COMPARE_DATA = {
           "role": "身体原型制作",
           "name": "SEJEL"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-22711",
@@ -32169,7 +34409,12 @@ window.TOY_COMPARE_DATA = {
           "role": "身体原型制作",
           "name": "Guncat"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-25371",
@@ -32240,7 +34485,12 @@ window.TOY_COMPARE_DATA = {
           "role": "身体原型制作",
           "name": "Horang.99"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-25372",
@@ -32311,7 +34561,12 @@ window.TOY_COMPARE_DATA = {
           "role": "身体原型制作",
           "name": "Horang.99"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-26745",
@@ -32382,7 +34637,12 @@ window.TOY_COMPARE_DATA = {
           "role": "身体原型制作",
           "name": "Guncat"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-27525",
@@ -32455,7 +34715,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-27526",
@@ -32524,7 +34789,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-28361",
@@ -32589,7 +34859,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-28839",
@@ -32664,7 +34939,12 @@ window.TOY_COMPARE_DATA = {
           "role": "身体原型制作",
           "name": "Guncat"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-28841",
@@ -32739,7 +35019,12 @@ window.TOY_COMPARE_DATA = {
           "role": "身体原型制作",
           "name": "Guncat"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-29438",
@@ -32804,7 +35089,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-29789",
@@ -32883,7 +35173,12 @@ window.TOY_COMPARE_DATA = {
           "role": "身体原型制作",
           "name": "Guncat"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-29790",
@@ -32962,7 +35257,12 @@ window.TOY_COMPARE_DATA = {
           "role": "身体原型制作",
           "name": "Guncat"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-29791",
@@ -33041,7 +35341,12 @@ window.TOY_COMPARE_DATA = {
           "role": "身体改型原型制作",
           "name": "Guncat"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-29792",
@@ -33120,7 +35425,12 @@ window.TOY_COMPARE_DATA = {
           "role": "身体改型原型制作",
           "name": "Guncat"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-29793",
@@ -33203,7 +35513,12 @@ window.TOY_COMPARE_DATA = {
           "role": "身体原型制作",
           "name": "Guncat"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-30304",
@@ -33278,7 +35593,12 @@ window.TOY_COMPARE_DATA = {
           "role": "身体原型制作",
           "name": "Guncat"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-30305",
@@ -33353,7 +35673,12 @@ window.TOY_COMPARE_DATA = {
           "role": "身体原型制作",
           "name": "SEJEL"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-30329",
@@ -33424,7 +35749,12 @@ window.TOY_COMPARE_DATA = {
           "role": "身体原型制作",
           "name": "Guncat"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-30682",
@@ -33499,7 +35829,12 @@ window.TOY_COMPARE_DATA = {
           "role": "身体原型制作",
           "name": "Guncat"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-30683",
@@ -33574,7 +35909,12 @@ window.TOY_COMPARE_DATA = {
           "role": "身体原型制作",
           "name": "Guncat"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-30687",
@@ -33649,7 +35989,12 @@ window.TOY_COMPARE_DATA = {
           "role": "身体原型制作",
           "name": "Guncat"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-32598",
@@ -33724,7 +36069,12 @@ window.TOY_COMPARE_DATA = {
           "role": "身体原型制作",
           "name": "LUTS Creative Team"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-32649",
@@ -33815,7 +36165,12 @@ window.TOY_COMPARE_DATA = {
           "role": "身体改型原型制作（Type2）",
           "name": "SEJEL"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-32650",
@@ -33894,7 +36249,12 @@ window.TOY_COMPARE_DATA = {
           "role": "身体原型制作",
           "name": "SEJEL"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-3908",
@@ -33959,7 +36319,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-3960",
@@ -34024,7 +36389,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-3961",
@@ -34089,7 +36459,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-3980",
@@ -34154,7 +36529,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-3983",
@@ -34219,7 +36599,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-3989",
@@ -34284,7 +36669,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-4002",
@@ -34349,7 +36739,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-5491",
@@ -34414,7 +36809,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-5492",
@@ -34479,7 +36879,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-5493",
@@ -34544,7 +36949,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-5759",
@@ -34615,7 +37025,12 @@ window.TOY_COMPARE_DATA = {
           "role": "身体原型制作",
           "name": "Guncat"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-6080",
@@ -34686,7 +37101,12 @@ window.TOY_COMPARE_DATA = {
           "role": "身体原型制作",
           "name": "Guncat"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-6086",
@@ -34757,7 +37177,12 @@ window.TOY_COMPARE_DATA = {
           "role": "身体原型制作",
           "name": "Guncat"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-7280",
@@ -34828,7 +37253,12 @@ window.TOY_COMPARE_DATA = {
           "role": "身体原型制作",
           "name": "Guncat"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-8288",
@@ -34899,7 +37329,12 @@ window.TOY_COMPARE_DATA = {
           "role": "身体原型制作",
           "name": "Guncat"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-8758",
@@ -34964,7 +37399,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "Ball Jointed Dolls 厂商与韩国地址；不据名称推定拉筋方式"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-body-9093",
@@ -35035,7 +37475,12 @@ window.TOY_COMPARE_DATA = {
           "role": "身体原型制作",
           "name": "Guncat"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-138-doll",
@@ -35128,7 +37573,12 @@ window.TOY_COMPARE_DATA = {
           "role": "身体原型制作（展示配置）",
           "name": "Guncat"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-142-doll",
@@ -35225,7 +37675,12 @@ window.TOY_COMPARE_DATA = {
           "role": "身体原型制作（展示配置）",
           "name": "SEJEL"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-154-doll",
@@ -35318,7 +37773,12 @@ window.TOY_COMPARE_DATA = {
           "role": "身体原型制作（展示配置）",
           "name": "LUTS Creative Team"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-158-doll",
@@ -35395,7 +37855,12 @@ window.TOY_COMPARE_DATA = {
           "role": "身体原型制作（展示配置）",
           "name": "Guncat"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-170-doll",
@@ -35476,7 +37941,12 @@ window.TOY_COMPARE_DATA = {
           "role": "身体原型制作（展示配置）",
           "name": "Guncat"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-174-doll",
@@ -35573,7 +38043,12 @@ window.TOY_COMPARE_DATA = {
           "role": "身体原型制作（展示配置）",
           "name": "SEJEL"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-178-doll",
@@ -35670,7 +38145,12 @@ window.TOY_COMPARE_DATA = {
           "role": "身体原型制作（展示配置）",
           "name": "SEJEL"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-182-doll",
@@ -35767,7 +38247,12 @@ window.TOY_COMPARE_DATA = {
           "role": "身体原型制作（展示配置）",
           "name": "SEJEL"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "luts-186-doll",
@@ -35860,7 +38345,12 @@ window.TOY_COMPARE_DATA = {
           "role": "身体改型原型制作",
           "name": "Horang.99"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "fairy-83",
@@ -35948,7 +38438,12 @@ window.TOY_COMPARE_DATA = {
           "role": "头部原型制作",
           "name": "hae（Cerberus Project）"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "fairy-87",
@@ -36036,7 +38531,12 @@ window.TOY_COMPARE_DATA = {
           }
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "fairy-91",
@@ -36124,7 +38624,12 @@ window.TOY_COMPARE_DATA = {
           }
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "fairy-99",
@@ -36201,7 +38706,12 @@ window.TOY_COMPARE_DATA = {
           }
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "fairy-103",
@@ -36278,7 +38788,12 @@ window.TOY_COMPARE_DATA = {
           }
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "fairy-111",
@@ -36361,7 +38876,12 @@ window.TOY_COMPARE_DATA = {
           }
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "fairy-model-132",
@@ -36439,7 +38959,12 @@ window.TOY_COMPARE_DATA = {
           }
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "fairy-model-140",
@@ -36517,7 +39042,12 @@ window.TOY_COMPARE_DATA = {
           }
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "fairy-model-152",
@@ -36599,7 +39129,12 @@ window.TOY_COMPARE_DATA = {
           }
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "fairy-model-156",
@@ -36682,7 +39217,12 @@ window.TOY_COMPARE_DATA = {
           }
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "fairy-model-160",
@@ -36765,7 +39305,12 @@ window.TOY_COMPARE_DATA = {
           }
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "fairy-model-164",
@@ -36852,7 +39397,12 @@ window.TOY_COMPARE_DATA = {
           }
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "fairy-model-168",
@@ -36934,7 +39484,12 @@ window.TOY_COMPARE_DATA = {
           }
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "fairy-model-172",
@@ -37012,7 +39567,12 @@ window.TOY_COMPARE_DATA = {
           }
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "fairy-model-176",
@@ -37095,7 +39655,12 @@ window.TOY_COMPARE_DATA = {
           }
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "fairy-model-180",
@@ -37178,7 +39743,12 @@ window.TOY_COMPARE_DATA = {
           }
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "fairy-model-184",
@@ -37261,7 +39831,12 @@ window.TOY_COMPARE_DATA = {
           }
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "fairy-model-188",
@@ -37348,7 +39923,12 @@ window.TOY_COMPARE_DATA = {
           }
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "fairy-model-192",
@@ -37435,7 +40015,12 @@ window.TOY_COMPARE_DATA = {
           }
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "iplehouse-1627078403",
@@ -37495,7 +40080,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "iplehouse-1566598592",
@@ -37555,7 +40145,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "iplehouse-1701462393",
@@ -37615,7 +40210,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "iplehouse-1643085582",
@@ -37675,7 +40275,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "iplehouse-1658523571",
@@ -37735,7 +40340,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "iplehouse-1650062014",
@@ -37795,7 +40405,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "iplehouse-1647636795",
@@ -37855,7 +40470,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "iplehouse-1641872326",
@@ -37915,7 +40535,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "iplehouse-1659128649",
@@ -37979,7 +40604,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "iplehouse-1562451468",
@@ -38043,7 +40673,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "iplehouse-1630198494",
@@ -38107,7 +40742,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "iplehouse-1323762396",
@@ -38171,7 +40811,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "iplehouse-1655512101",
@@ -38231,7 +40876,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "iplehouse-1565562524",
@@ -38291,7 +40941,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "groove-prunella",
@@ -38361,7 +41016,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "Pullip 家族的可动、视线及不同身体背景；型号页数据优先"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "groove-nosferatu",
@@ -38435,7 +41095,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "Pullip 家族的可动、视线及不同身体背景；型号页数据优先"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "groove-nina",
@@ -38505,7 +41170,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "Pullip 家族的可动、视线及不同身体背景；型号页数据优先"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "groove-lilith",
@@ -38579,7 +41249,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "Pullip 家族的可动、视线及不同身体背景；型号页数据优先"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "medicom-miles-renewal",
@@ -38637,7 +41312,12 @@ window.TOY_COMPARE_DATA = {
           "role": "原型制作",
           "name": "PERFECT-STUDIO"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "medicom-iron-spider-renewal",
@@ -38695,7 +41375,12 @@ window.TOY_COMPARE_DATA = {
           "role": "原型制作",
           "name": "PERFECT-STUDIO"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "medicom-scarlet-spider-186",
@@ -38747,7 +41432,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "medicom-armored-batman-15",
@@ -38805,7 +41495,12 @@ window.TOY_COMPARE_DATA = {
           "role": "原型制作",
           "name": "PERFECT-STUDIO"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "medicom-butcher-tempv24",
@@ -38872,7 +41567,12 @@ window.TOY_COMPARE_DATA = {
           "role": "原型制作",
           "name": "Masato Ohata"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "tbleague-s24a",
@@ -38937,7 +41637,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "本款无缝身体、骨架、交付与经销尺寸标示；非厂商原始测量"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "tbleague-s26a",
@@ -39002,7 +41707,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "本款无缝身体、骨架、交付与经销尺寸标示；非厂商原始测量"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "tbleague-m31",
@@ -39071,7 +41781,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "本款无缝身体、骨架、交付与经销尺寸标示；非厂商原始测量"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "tbleague-s42a",
@@ -39140,7 +41855,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "本款无缝身体、骨架、交付与经销尺寸标示；非厂商原始测量"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "kotobukiya-puni-mao",
@@ -39233,7 +41953,12 @@ window.TOY_COMPARE_DATA = {
           "role": "角色设计",
           "name": "BLADE"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "kotobukiya-puni-kuro-mao",
@@ -39326,7 +42051,12 @@ window.TOY_COMPARE_DATA = {
           "role": "角色设计",
           "name": "BLADE"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "kotobukiya-buster-gunner",
@@ -39411,7 +42141,12 @@ window.TOY_COMPARE_DATA = {
           "role": "眼部印刷",
           "name": "雨間"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "kotobukiya-magatsuki-kit",
@@ -39486,7 +42221,12 @@ window.TOY_COMPARE_DATA = {
           "role": "角色设计",
           "name": "駒都えーじ"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "kotobukiya-magatsuki-figure",
@@ -39548,7 +42288,12 @@ window.TOY_COMPARE_DATA = {
           "role": "原型制作",
           "name": "KOTOBUKIYA"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "bandai-30ms-kit",
@@ -39600,7 +42345,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "bandai-tiarsha-kit",
@@ -39652,7 +42402,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "medicos-giorno-specific",
@@ -39715,7 +42470,12 @@ window.TOY_COMPARE_DATA = {
           "role": "造形制作统筹",
           "name": "匠工房"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "medicos-giorno-second-specific",
@@ -39778,7 +42538,12 @@ window.TOY_COMPARE_DATA = {
           "role": "造形制作统筹",
           "name": "匠工房"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "medicos-giorno-black-specific",
@@ -39846,7 +42611,12 @@ window.TOY_COMPARE_DATA = {
           "role": "造形制作统筹",
           "name": "匠工房"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "medicos-risotto-specific",
@@ -39914,7 +42684,12 @@ window.TOY_COMPARE_DATA = {
           "role": "造形制作统筹",
           "name": "匠工房"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "medicos-jolyne-specific",
@@ -39978,7 +42753,12 @@ window.TOY_COMPARE_DATA = {
           "role": "造形制作统筹",
           "name": "匠工房"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "hottoys-spider-black-deluxe-728b",
@@ -40039,7 +42819,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "threezero-nezuko",
@@ -40102,7 +42887,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "threezero-giorno",
@@ -40174,7 +42964,12 @@ window.TOY_COMPARE_DATA = {
           "role": "头部涂装样品",
           "name": "MICHIRU imai"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "threezero-gold-zeo-chrome",
@@ -40234,7 +43029,12 @@ window.TOY_COMPARE_DATA = {
           "supports": "本型号的版本、配置、尺寸与署名，以页面明确列项为限"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "azone-4573199854304",
@@ -40306,7 +43106,12 @@ window.TOY_COMPARE_DATA = {
           "role": "篮子与蛋制作",
           "name": "ZAN（猫の小判）"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "azone-4573199852669",
@@ -40383,7 +43188,12 @@ window.TOY_COMPARE_DATA = {
           "role": "服装版型",
           "name": "赤いカメラ"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "azone-4573199852256",
@@ -40451,7 +43261,12 @@ window.TOY_COMPARE_DATA = {
           "role": "面妆设计",
           "name": "ミナ"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "azone-4573199852263",
@@ -40519,7 +43334,12 @@ window.TOY_COMPARE_DATA = {
           "role": "面妆设计",
           "name": "ミナ"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "azone-4582119997298",
@@ -40582,7 +43402,12 @@ window.TOY_COMPARE_DATA = {
           "role": "面妆设计",
           "name": "ミナ"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "azone-4573199849980",
@@ -40648,7 +43473,12 @@ window.TOY_COMPARE_DATA = {
           "role": "面妆／眼睛设计",
           "name": "Poe-Poe"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "azone-4573199849997",
@@ -40714,7 +43544,12 @@ window.TOY_COMPARE_DATA = {
           "role": "面妆／眼睛设计",
           "name": "Poe-Poe"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "azone-4573199849331",
@@ -40786,7 +43621,12 @@ window.TOY_COMPARE_DATA = {
           "role": "面妆／眼睛设计",
           "name": "出島アイ"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollmore-body-10000",
@@ -40848,7 +43688,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollmore-body-10001",
@@ -40910,7 +43755,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollmore-body-10002",
@@ -40973,7 +43823,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollmore-body-10003",
@@ -41040,7 +43895,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollmore-body-10004",
@@ -41098,7 +43958,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollmore-body-10005",
@@ -41156,7 +44021,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollmore-body-10193",
@@ -41210,7 +44080,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollmore-body-10218",
@@ -41272,7 +44147,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollmore-body-10219",
@@ -41334,7 +44214,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollmore-body-19554",
@@ -41392,7 +44277,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollmore-body-20589",
@@ -41455,7 +44345,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollmore-body-20784",
@@ -41513,7 +44408,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollmore-body-20785",
@@ -41571,7 +44471,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollmore-body-20797",
@@ -41625,7 +44530,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollmore-body-21244",
@@ -41692,7 +44602,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollmore-body-21335",
@@ -41759,7 +44674,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollmore-body-21519",
@@ -41822,7 +44742,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollmore-body-21520",
@@ -41884,7 +44809,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollmore-body-21540",
@@ -41947,7 +44877,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollmore-body-22552",
@@ -42009,7 +44944,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollmore-body-22642",
@@ -42071,7 +45011,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollmore-body-22646",
@@ -42133,7 +45078,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollmore-body-22647",
@@ -42195,7 +45145,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollmore-body-22687",
@@ -42256,7 +45211,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollmore-body-22688",
@@ -42317,7 +45277,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollmore-body-22689",
@@ -42379,7 +45344,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollmore-body-22690",
@@ -42441,7 +45411,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollmore-body-22835",
@@ -42508,7 +45483,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollmore-body-23509",
@@ -42566,7 +45546,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollmore-body-9990",
@@ -42624,7 +45609,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollmore-body-9991",
@@ -42687,7 +45677,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollmore-body-9992",
@@ -42749,7 +45744,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollmore-body-9993",
@@ -42811,7 +45811,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollmore-body-9994",
@@ -42877,7 +45882,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollmore-body-9995",
@@ -42939,7 +45949,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollmore-body-9997",
@@ -42997,7 +46012,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollmore-body-9998",
@@ -43060,7 +46080,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollmore-body-9999",
@@ -43122,7 +46147,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollce-mini-187602340",
@@ -43180,7 +46210,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollce-mini-189795867",
@@ -43238,7 +46273,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollce-mini-184252437",
@@ -43296,7 +46336,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollce-mini-184383713",
@@ -43354,7 +46399,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollce-mini-184383743",
@@ -43412,7 +46462,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollce-mini-184383845",
@@ -43470,7 +46525,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollce-mini-184384031",
@@ -43528,7 +46588,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollce-mini-184384066",
@@ -43586,7 +46651,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollce-mini-184384087",
@@ -43644,7 +46714,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollce-mini-184385091",
@@ -43702,7 +46777,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollce-mini-184385106",
@@ -43760,7 +46840,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollce-mini-184385141",
@@ -43818,7 +46903,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollce-mini-184385148",
@@ -43876,7 +46966,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollce-mini-184385348",
@@ -43934,7 +47029,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollce-mini-184385366",
@@ -43992,7 +47092,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollce-mini-184385400",
@@ -44050,7 +47155,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollce-mini-184385517",
@@ -44108,7 +47218,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollce-mini-184385583",
@@ -44166,7 +47281,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollce-mini-184385614",
@@ -44224,7 +47344,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollce-mini-184385621",
@@ -44282,7 +47407,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollce-parfait-192914756",
@@ -44346,7 +47476,12 @@ window.TOY_COMPARE_DATA = {
           "role": "衣装制作",
           "name": "恋鞠堂"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollce-parfait-192914761",
@@ -44410,7 +47545,12 @@ window.TOY_COMPARE_DATA = {
           "role": "衣装制作",
           "name": "angels_forest"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollce-parfait-192954080",
@@ -44474,7 +47614,12 @@ window.TOY_COMPARE_DATA = {
           "role": "衣装制作",
           "name": "angels_forest"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollce-parfait-192954092",
@@ -44538,7 +47683,12 @@ window.TOY_COMPARE_DATA = {
           "role": "衣装制作",
           "name": "恋鞠堂"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollce-parfait-192954093",
@@ -44602,7 +47752,12 @@ window.TOY_COMPARE_DATA = {
           "role": "衣装制作",
           "name": "angels_forest"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollce-parfait-193815164",
@@ -44666,7 +47821,12 @@ window.TOY_COMPARE_DATA = {
           "role": "衣装制作",
           "name": "恋鞠堂"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollce-parfait-193815179",
@@ -44730,7 +47890,12 @@ window.TOY_COMPARE_DATA = {
           "role": "衣装制作",
           "name": "恋鞠堂"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "dollce-parfait-193815196",
@@ -44794,7 +47959,12 @@ window.TOY_COMPARE_DATA = {
           "role": "衣装制作",
           "name": "恋鞠堂"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "parabox-body-2352",
@@ -44874,7 +48044,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "parabox-body-2354",
@@ -44954,7 +48129,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "parabox-body-2355",
@@ -45034,7 +48214,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "parabox-body-2356",
@@ -45114,7 +48299,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "parabox-body-2357",
@@ -45194,7 +48384,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "parabox-body-3999",
@@ -45274,7 +48469,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "parabox-model-2059",
@@ -45337,7 +48537,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "parabox-model-6644",
@@ -45400,7 +48605,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "parabox-model-6557",
@@ -45463,7 +48673,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "parabox-model-6068",
@@ -45515,7 +48730,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "soom-neor13-rossi-broken-doll",
@@ -45599,7 +48819,17 @@ window.TOY_COMPARE_DATA = {
           "role": "摄影",
           "name": "Choi N."
         }
-      ]
+      ],
+      "chronology": {
+        "label": "受注：2024年12月",
+        "sourceUrl": "https://dollsoom.com/en/product/rossi-broken-doll/",
+        "note": "本条已核实的原始订购期。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "2024 年受注批次已是历史版本；后续受注或再版需另核对。二手或旧库存仍可能流通。"
+      }
     },
     {
       "id": "soom-neor13-holin-fluffy-clown",
@@ -45683,7 +48913,17 @@ window.TOY_COMPARE_DATA = {
           "role": "摄影",
           "name": "Choi N."
         }
-      ]
+      ],
+      "chronology": {
+        "label": "受注：2024年12月",
+        "sourceUrl": "https://dollsoom.com/en/product/holin-fluffy-clown/",
+        "note": "本条已核实的原始订购期。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "2024 年受注批次已是历史版本；后续受注或再版需另核对。二手或旧库存仍可能流通。"
+      }
     },
     {
       "id": "soom-neor13-lumi-trickling-unicorn",
@@ -45767,7 +49007,17 @@ window.TOY_COMPARE_DATA = {
           "role": "摄影",
           "name": "Choi N."
         }
-      ]
+      ],
+      "chronology": {
+        "label": "受注：2024年12月",
+        "sourceUrl": "https://dollsoom.com/en/product/lumi-trickling-unicorn/",
+        "note": "本条已核实的原始订购期。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "2024 年受注批次已是历史版本；后续受注或再版需另核对。二手或旧库存仍可能流通。"
+      }
     },
     {
       "id": "soom-neor13-movy-mysterious-fairy",
@@ -45851,7 +49101,17 @@ window.TOY_COMPARE_DATA = {
           "role": "摄影",
           "name": "Choi N."
         }
-      ]
+      ],
+      "chronology": {
+        "label": "受注：2024年12月",
+        "sourceUrl": "https://dollsoom.com/en/product/movy-mysterious-fairy/",
+        "note": "本条已核实的原始订购期。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "2024 年受注批次已是历史版本；后续受注或再版需另核对。二手或旧库存仍可能流通。"
+      }
     },
     {
       "id": "fairy-dde-celine-a-line-natural-skin-small-bust-cutie-legs-face-up",
@@ -45911,7 +49171,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "fairy-dde-fairyline60-sircca-human-basic-white-skin-blank",
@@ -45974,7 +49239,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "fairy-dde-feeple60-shiwoo-elf-lookback-basic-moe-girl-natural-skin-blank",
@@ -46034,7 +49304,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "fairy-dde-feeple65-rick-basic-natural-skin-make-up",
@@ -46093,7 +49368,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "fairy-dde-iset-full-package-tan-skin-premium-eyes",
@@ -46152,7 +49432,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "fairy-dde-pukifee-ante-natural-skin-make-up",
@@ -46208,7 +49493,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "fairy-dde-pukifee-tika-tan-skin-face-up",
@@ -46268,7 +49558,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "fairy-dde-pukipuki-ante-white-skin-make-up-sleeping-face-w-make-up",
@@ -46328,7 +49623,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "fairy-dde-realpuki-aki-beauty-white-skin-make-up-sleeping-face-w-make-up",
@@ -46387,7 +49687,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "fairy-dde-realpuki-titi-natural-skin-make-up-sleeping-face-w-make-up",
@@ -46446,7 +49751,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "fairy-dde-ruth-motion-line-boy-beauty-white-skin-make-up",
@@ -46506,7 +49816,12 @@ window.TOY_COMPARE_DATA = {
           "checkedAt": "2026-10-06"
         }
       ],
-      "event": null
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "literature-msv-01",
@@ -46563,7 +49878,12 @@ window.TOY_COMPARE_DATA = {
         "MS-06R",
         "ZAKU II",
         "高机动型扎古II"
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "literature-msv-02",
@@ -46620,7 +49940,12 @@ window.TOY_COMPARE_DATA = {
         "MS-06K",
         "ZAKUCANNON",
         "扎古加农"
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "literature-msv-03",
@@ -46677,7 +50002,12 @@ window.TOY_COMPARE_DATA = {
         "YMS-09",
         "PROTOTYPE DOM",
         "原型大魔"
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "literature-msv-04",
@@ -46734,7 +50064,12 @@ window.TOY_COMPARE_DATA = {
         "MS-06D",
         "ZAKU DESERT TYPE",
         "沙漠型扎古"
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "literature-msv-05",
@@ -46791,7 +50126,12 @@ window.TOY_COMPARE_DATA = {
         "RGC-80",
         "GM CANNON",
         "吉姆加农"
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "literature-msv-06",
@@ -46848,7 +50188,12 @@ window.TOY_COMPARE_DATA = {
         "MS-06M",
         "ZAKU MARINE TYPE",
         "水中型扎古"
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "literature-msv-07",
@@ -46905,7 +50250,12 @@ window.TOY_COMPARE_DATA = {
         "MS-14C",
         "GELGOOG CANNON",
         "勇士加农"
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "literature-msv-08",
@@ -46962,7 +50312,12 @@ window.TOY_COMPARE_DATA = {
         "RX-78-1",
         "PROTOTYPE GUNDAM",
         "原型高达"
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "literature-msv-09",
@@ -47019,7 +50374,12 @@ window.TOY_COMPARE_DATA = {
         "MS-07H",
         "GOUF FLYING TEST TYPE",
         "老虎飞行试验型"
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "literature-msv-10",
@@ -47076,7 +50436,12 @@ window.TOY_COMPARE_DATA = {
         "FA-78-1",
         "GUNDAM FULLARMOR TYPE",
         "全装甲高达"
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "literature-msv-11",
@@ -47133,7 +50498,12 @@ window.TOY_COMPARE_DATA = {
         "MS-06E",
         "ZAKU RECON",
         "扎古强行侦察型"
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "literature-msv-12",
@@ -47190,7 +50560,12 @@ window.TOY_COMPARE_DATA = {
         "MS-06V",
         "ZAKU TANK",
         "扎古坦克"
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "literature-msv-13",
@@ -47247,7 +50622,12 @@ window.TOY_COMPARE_DATA = {
         "MS-14C",
         "GELGOOG CANNON",
         "勇士加农"
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "literature-msv-14",
@@ -47304,7 +50684,12 @@ window.TOY_COMPARE_DATA = {
         "MS-06R",
         "SHIN MATSUNAGA’S ZAKU II",
         "松永真专用高机动型扎古II"
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "literature-msv-15",
@@ -47361,7 +50746,12 @@ window.TOY_COMPARE_DATA = {
         "YMS-09",
         "DOM TROPICAL TEST TYPE",
         "大魔热带试验型"
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "literature-msv-16",
@@ -47418,7 +50808,12 @@ window.TOY_COMPARE_DATA = {
         "YMS-09",
         "DOM TROPICAL TEST TYPE",
         "大魔热带试验型"
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "literature-msv-17",
@@ -47475,7 +50870,12 @@ window.TOY_COMPARE_DATA = {
         "MS-06K",
         "ZAKUCANNON",
         "扎古加农"
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "literature-msv-18",
@@ -47532,7 +50932,12 @@ window.TOY_COMPARE_DATA = {
         "MS-06R",
         "ZAKU II Black Tri-Stars use",
         "黑色三连星高机动型扎古II"
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "literature-msv-19",
@@ -47589,7 +50994,12 @@ window.TOY_COMPARE_DATA = {
         "FA-78-1",
         "GUNDAM FULLARMOR TYPE",
         "全装甲高达"
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "literature-msv-20",
@@ -47646,7 +51056,12 @@ window.TOY_COMPARE_DATA = {
         "YMS-09",
         "PROTOTYPE DOM",
         "原型大魔"
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "literature-msv-21",
@@ -47703,7 +51118,12 @@ window.TOY_COMPARE_DATA = {
         "MS-06R-2",
         "JOHNNY RIDDEN’S ZAKU II",
         "强尼莱登专用高机动型扎古II"
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "literature-msv-22",
@@ -47760,7 +51180,12 @@ window.TOY_COMPARE_DATA = {
         "RGM-79",
         "GM SNIPER CUSTOM",
         "吉姆狙击特装型"
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "literature-msv-23",
@@ -47817,7 +51242,12 @@ window.TOY_COMPARE_DATA = {
         "MS-06R-2",
         "JOHNNY RIDDEN’S ZAKU II",
         "强尼莱登专用高机动型扎古II"
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "literature-msv-24",
@@ -47874,7 +51304,12 @@ window.TOY_COMPARE_DATA = {
         "MS-06E3",
         "ZAKU FLIPPER",
         "扎古侦察型Flipper"
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "literature-msv-25",
@@ -47931,7 +51366,12 @@ window.TOY_COMPARE_DATA = {
         "MS-06F",
         "ZAKU MINE LAYER",
         "布雷型扎古"
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "literature-msv-26",
@@ -47988,7 +51428,12 @@ window.TOY_COMPARE_DATA = {
         "FA-78-1",
         "GUNDAM FULLARMOR TYPE",
         "全装甲高达"
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "literature-msv-27",
@@ -48045,7 +51490,12 @@ window.TOY_COMPARE_DATA = {
         "MSN-01",
         "PSYCHOMMU SYSTEM ZAKU",
         "精神感应系统扎古"
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "literature-msv-28",
@@ -48102,7 +51552,12 @@ window.TOY_COMPARE_DATA = {
         "RX-77-4",
         "GUNCANNON-II",
         "钢加农II"
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "literature-msv-29",
@@ -48159,7 +51614,12 @@ window.TOY_COMPARE_DATA = {
         "MS-06Z",
         "PSYCHOMMU SYSTEM ZAKU ZEONG TEST BASE",
         "扎古精神感应系统试验型"
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "literature-msv-30",
@@ -48216,7 +51676,12 @@ window.TOY_COMPARE_DATA = {
         "RX-78",
         "PERFECT GUNDAM",
         "完美高达"
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "literature-msv-31",
@@ -48273,7 +51738,12 @@ window.TOY_COMPARE_DATA = {
         "MSN-02",
         "PSYCHOMMU SYSTEM PERFECT ZEONG",
         "完美吉翁号"
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "literature-msv-32",
@@ -48330,7 +51800,12 @@ window.TOY_COMPARE_DATA = {
         "MS-14B",
         "JOHNNY RIDDEN’S GELGOOG",
         "强尼莱登专用高机动型勇士"
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "literature-msv-33",
@@ -48387,7 +51862,12 @@ window.TOY_COMPARE_DATA = {
         "MS-06R-2",
         "JOHNNY RIDDEN’S ZAKU II",
         "强尼莱登专用高机动型扎古II"
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "literature-msv-34",
@@ -48444,7 +51924,12 @@ window.TOY_COMPARE_DATA = {
         "RX-78",
         "PERFECT GUNDAM",
         "完美高达"
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "literature-gundam1980",
@@ -48498,7 +51983,17 @@ window.TOY_COMPARE_DATA = {
         "GUNPLA",
         "ガンプラ",
         "1/144 ガンダム"
-      ]
+      ],
+      "chronology": {
+        "label": "版本：1980年",
+        "sourceUrl": "https://manual.bandai-hobby.net/menus/detail/1849",
+        "note": "1980年7月版"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历史版本或作品记录；不据年份推定停产。二手或旧库存仍可能流通。"
+      }
     },
     {
       "id": "literature-zaku1981",
@@ -48552,7 +52047,17 @@ window.TOY_COMPARE_DATA = {
         "Zaku",
         "ザク",
         "1/144 量産型ザク"
-      ]
+      ],
+      "chronology": {
+        "label": "版本：1981年",
+        "sourceUrl": "https://manual.bandai-hobby.net/menus/detail/1951",
+        "note": "1981年1月版"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历史版本或作品记录；不据年份推定停产。二手或旧库存仍可能流通。"
+      }
     },
     {
       "id": "literature-char-zaku1980",
@@ -48606,7 +52111,17 @@ window.TOY_COMPARE_DATA = {
         "Char",
         "ザク",
         "1/144 シャア専用ザク"
-      ]
+      ],
+      "chronology": {
+        "label": "版本：1980年",
+        "sourceUrl": "https://manual.bandai-hobby.net/menus/detail/1915",
+        "note": "1980年9月版"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历史版本或作品记录；不据年份推定停产。二手或旧库存仍可能流通。"
+      }
     },
     {
       "id": "literature-mg15",
@@ -48659,7 +52174,17 @@ window.TOY_COMPARE_DATA = {
         "MG",
         "高达",
         "MG 1/100 RX-78-2 ガンダム ver1.5"
-      ]
+      ],
+      "chronology": {
+        "label": "版本：2000年",
+        "sourceUrl": "https://manual.bandai-hobby.net/menus/detail/445",
+        "note": "2000年6月版"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历史版本或作品记录；不据年份推定停产。二手或旧库存仍可能流通。"
+      }
     },
     {
       "id": "literature-mgka",
@@ -48712,7 +52237,17 @@ window.TOY_COMPARE_DATA = {
         "MG",
         "高达",
         "MG 1/100 RX-78-2 ガンダム Ver.Ka"
-      ]
+      ],
+      "chronology": {
+        "label": "版本：2002年",
+        "sourceUrl": "https://manual.bandai-hobby.net/menus/detail/816",
+        "note": "2002年12月版"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历史版本或作品记录；不据年份推定停产。二手或旧库存仍可能流通。"
+      }
     },
     {
       "id": "literature-mg30",
@@ -48765,7 +52300,17 @@ window.TOY_COMPARE_DATA = {
         "MG",
         "高达",
         "MG 1/100 RX-78-2 ガンダムVer.3.0"
-      ]
+      ],
+      "chronology": {
+        "label": "版本：2013年",
+        "sourceUrl": "https://manual.bandai-hobby.net/menus/detail/611",
+        "note": "2013年8月10日版"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历史版本或作品记录；不据年份推定停产。二手或旧库存仍可能流通。"
+      }
     },
     {
       "id": "literature-pg1998",
@@ -48818,7 +52363,17 @@ window.TOY_COMPARE_DATA = {
         "PG",
         "高达",
         "PG 1/60 RX-78-2 ガンダム"
-      ]
+      ],
+      "chronology": {
+        "label": "版本：1998年",
+        "sourceUrl": "https://manual.bandai-hobby.net/menus/detail/985",
+        "note": "1998年11月版"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历史版本或作品记录；不据年份推定停产。二手或旧库存仍可能流通。"
+      }
     },
     {
       "id": "literature-beargguy3",
@@ -48872,7 +52427,17 @@ window.TOY_COMPARE_DATA = {
         "熊霸",
         "熊霸三",
         "HGBF 1/144 ベアッガイIII"
-      ]
+      ],
+      "chronology": {
+        "label": "版本：2013年",
+        "sourceUrl": "https://manual.bandai-hobby.net/menus/detail/10",
+        "note": "2013年12月1日版"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历史版本或作品记录；不据年份推定停产。二手或旧库存仍可能流通。"
+      }
     },
     {
       "id": "literature-beargguyf",
@@ -48926,7 +52491,17 @@ window.TOY_COMPARE_DATA = {
         "熊霸",
         "熊霸家族",
         "HGBF 1/144 ベアッガイF(ファミリー)"
-      ]
+      ],
+      "chronology": {
+        "label": "版本：2014年",
+        "sourceUrl": "https://manual.bandai-hobby.net/menus/detail/23",
+        "note": "2014年11月29日版"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历史版本或作品记录；不据年份推定停产。二手或旧库存仍可能流通。"
+      }
     },
     {
       "id": "literature-beargguyp",
@@ -48979,7 +52554,12 @@ window.TOY_COMPARE_DATA = {
         "Beargguy",
         "熊霸",
         "HGBF 1/144 ベアッガイP(プリティ）"
-      ]
+      ],
+      "chronology": {
+        "label": "版本：2016年",
+        "sourceUrl": "https://manual.bandai-hobby.net/menus/detail/747",
+        "note": "2016年9月10日版"
+      }
     },
     {
       "id": "literature-beargguyohana",
@@ -49034,7 +52614,12 @@ window.TOY_COMPARE_DATA = {
         "Haro",
         "哈罗",
         "HG 1/144 ベアッガイオハナ & アロハロ セット"
-      ]
+      ],
+      "chronology": {
+        "label": "版本：2024年",
+        "sourceUrl": "https://manual.bandai-hobby.net/menus/detail/1354",
+        "note": "2024年2月10日版"
+      }
     },
     {
       "id": "literature-super-action-jenny",
@@ -49088,7 +52673,12 @@ window.TOY_COMPARE_DATA = {
         "スーパーアクションジェニー",
         "Jenny",
         "ジェニー"
-      ]
+      ],
+      "chronology": {
+        "label": "版本：2017年",
+        "sourceUrl": "https://kusa.repo.nii.ac.jp/record/296/files/kk201722023030.pdf",
+        "note": "2017年文献中的历史素体"
+      }
     },
     {
       "id": "literature-nakoruru1994",
@@ -49139,7 +52729,17 @@ window.TOY_COMPARE_DATA = {
       "event": null,
       "aliases": [
         "サムライスピリッツ ナコルル"
-      ]
+      ],
+      "chronology": {
+        "label": "版本：1994年",
+        "sourceUrl": "https://kusa.repo.nii.ac.jp/record/296/files/kk201722023030.pdf",
+        "note": "1994年历史角色玩偶"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历史版本或作品记录；不据年份推定停产。二手或旧库存仍可能流通。"
+      }
     },
     {
       "id": "literature-rayearth1994",
@@ -49190,7 +52790,12 @@ window.TOY_COMPARE_DATA = {
       "event": null,
       "aliases": [
         "魔法戦士レイアース キャラクタードール"
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "literature-dollfie1998",
@@ -49242,7 +52847,17 @@ window.TOY_COMPARE_DATA = {
       "event": null,
       "aliases": [
         "ドルフィー"
-      ]
+      ],
+      "chronology": {
+        "label": "版本：1998年",
+        "sourceUrl": "https://kusa.repo.nii.ac.jp/record/296/files/kk201722023030.pdf",
+        "note": "1998年早期Dollfie素体"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历史版本或作品记录；不据年份推定停产。二手或旧库存仍可能流通。"
+      }
     },
     {
       "id": "literature-dollfie-honey",
@@ -49298,7 +52913,12 @@ window.TOY_COMPARE_DATA = {
       "event": null,
       "aliases": [
         "Dollfie(R) ハニー"
-      ]
+      ],
+      "chronology": {
+        "label": "版本：2017年",
+        "sourceUrl": "https://kusa.repo.nii.ac.jp/record/296/files/kk201722023030.pdf",
+        "note": "2017年文献中的共同开发原型"
+      }
     },
     {
       "id": "literature-blythe-fruity",
@@ -49361,7 +52981,12 @@ window.TOY_COMPARE_DATA = {
         "ブライス",
         "布莱斯",
         "大头娃娃"
-      ]
+      ],
+      "chronology": {
+        "label": "版本：2026年",
+        "sourceUrl": "https://www.goodsmile.com/en/product/1139583/Blythe+Fruity+Kaleidoscope",
+        "note": "2026年 Fruity Kaleidoscope"
+      }
     },
     {
       "id": "literature-licca-ld01",
@@ -49415,7 +53040,12 @@ window.TOY_COMPARE_DATA = {
         "リカちゃん",
         "莉卡",
         "丽佳"
-      ]
+      ],
+      "chronology": {
+        "label": "版本：2025年",
+        "sourceUrl": "https://licca.takaratomy.co.jp/catalog_pdf/202510.pdf",
+        "note": "2025–2026官方目录所列LD-01"
+      }
     },
     {
       "id": "literature-jenny2023",
@@ -49470,7 +53100,12 @@ window.TOY_COMPARE_DATA = {
         "ジェニー",
         "珍妮",
         "#Licca"
-      ]
+      ],
+      "chronology": {
+        "label": "版本：2023年",
+        "sourceUrl": "https://www.takaratomy.co.jp/product_release/pdf/p230531.pdf",
+        "note": "2023年8月5日版"
+      }
     },
     {
       "id": "literature-holiday-barbie2004",
@@ -49523,7 +53158,17 @@ window.TOY_COMPARE_DATA = {
         "Barbie",
         "芭比",
         "Holiday Barbie"
-      ]
+      ],
+      "chronology": {
+        "label": "版本：2004年",
+        "sourceUrl": "https://service.mattel.com/us/productPopup.aspx?prodno=B5848&siteid=27",
+        "note": "2004年 B5848"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历史版本或作品记录；不据年份推定停产。二手或旧库存仍可能流通。"
+      }
     },
     {
       "id": "literature-ken-looks18",
@@ -49587,7 +53232,12 @@ window.TOY_COMPARE_DATA = {
           "role": "设计",
           "name": "Bill Greening"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "版本：2023年",
+        "sourceUrl": "https://creations.mattel.com/products/barbie-looks-18-ken-yellow-shirt-hjw85",
+        "note": "2023年 HJW85"
+      }
     },
     {
       "id": "literature-gi-joe1964",
@@ -49646,7 +53296,17 @@ window.TOY_COMPARE_DATA = {
         "GI Joe",
         "G.I. Joe",
         "特种部队"
-      ]
+      ],
+      "chronology": {
+        "label": "版本：1964年",
+        "sourceUrl": "https://www.toyhalloffame.org/toys/g-i-joe/",
+        "note": "1964年原始军事系列"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历史版本或作品记录；不据年份推定停产。二手或旧库存仍可能流通。"
+      }
     },
     {
       "id": "literature-poppy-pp158",
@@ -49708,7 +53368,17 @@ window.TOY_COMPARE_DATA = {
         "Poppy Parker",
         "Integrity Toys",
         "PP158"
-      ]
+      ],
+      "chronology": {
+        "label": "版本：2019年",
+        "sourceUrl": "https://www.integritytoys.com/brands/convention/2019-2/style-lab/",
+        "note": "2019 Style Lab PP158"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历史版本或作品记录；不据年份推定停产。二手或旧库存仍可能流通。"
+      }
     },
     {
       "id": "literature-poppy-pp159",
@@ -49770,7 +53440,17 @@ window.TOY_COMPARE_DATA = {
         "Poppy Parker",
         "Integrity Toys",
         "PP159"
-      ]
+      ],
+      "chronology": {
+        "label": "版本：2019年",
+        "sourceUrl": "https://www.integritytoys.com/brands/convention/2019-2/style-lab/",
+        "note": "2019 Style Lab PP159"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历史版本或作品记录；不据年份推定停产。二手或旧库存仍可能流通。"
+      }
     },
     {
       "id": "literature-poppy-pp160",
@@ -49832,7 +53512,17 @@ window.TOY_COMPARE_DATA = {
         "Poppy Parker",
         "Integrity Toys",
         "PP160"
-      ]
+      ],
+      "chronology": {
+        "label": "版本：2019年",
+        "sourceUrl": "https://www.integritytoys.com/brands/convention/2019-2/style-lab/",
+        "note": "2019 Style Lab PP160"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历史版本或作品记录；不据年份推定停产。二手或旧库存仍可能流通。"
+      }
     },
     {
       "id": "literature-poppy-pp161",
@@ -49894,7 +53584,17 @@ window.TOY_COMPARE_DATA = {
         "Poppy Parker",
         "Integrity Toys",
         "PP161"
-      ]
+      ],
+      "chronology": {
+        "label": "版本：2019年",
+        "sourceUrl": "https://www.integritytoys.com/brands/convention/2019-2/style-lab/",
+        "note": "2019 Style Lab PP161"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历史版本或作品记录；不据年份推定停产。二手或旧库存仍可能流通。"
+      }
     },
     {
       "id": "literature-poppy-pp162",
@@ -49956,7 +53656,17 @@ window.TOY_COMPARE_DATA = {
         "Poppy Parker",
         "Integrity Toys",
         "PP162"
-      ]
+      ],
+      "chronology": {
+        "label": "版本：2019年",
+        "sourceUrl": "https://www.integritytoys.com/brands/convention/2019-2/style-lab/",
+        "note": "2019 Style Lab PP162"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历史版本或作品记录；不据年份推定停产。二手或旧库存仍可能流通。"
+      }
     },
     {
       "id": "literature-poppy-pp163",
@@ -50018,7 +53728,17 @@ window.TOY_COMPARE_DATA = {
         "Poppy Parker",
         "Integrity Toys",
         "PP163"
-      ]
+      ],
+      "chronology": {
+        "label": "版本：2019年",
+        "sourceUrl": "https://www.integritytoys.com/brands/convention/2019-2/style-lab/",
+        "note": "2019 Style Lab PP163"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历史版本或作品记录；不据年份推定停产。二手或旧库存仍可能流通。"
+      }
     },
     {
       "id": "literature-alice-yotsuki",
@@ -50081,7 +53801,17 @@ window.TOY_COMPARE_DATA = {
           "role": "人形作家",
           "name": "陽月"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "版本：2004年",
+        "sourceUrl": "https://nittaidai.repo.nii.ac.jp/record/2000912/files/BNSSU-54-1071-1083.pdf",
+        "note": "2004年创作人形"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历史版本或作品记录；不据年份推定停产。二手或旧库存仍可能流通。"
+      }
     },
     {
       "id": "literature-alice-curious",
@@ -50144,7 +53874,12 @@ window.TOY_COMPARE_DATA = {
           "role": "人形作家",
           "name": "清水真理"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "版本：2023年",
+        "sourceUrl": "https://nittaidai.repo.nii.ac.jp/record/2000912/files/BNSSU-54-1071-1083.pdf",
+        "note": "2023年创作人形"
+      }
     },
     {
       "id": "literature-alice-pool",
@@ -50207,7 +53942,12 @@ window.TOY_COMPARE_DATA = {
           "role": "人形作家",
           "name": "清水真理"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "版本：2023年",
+        "sourceUrl": "https://nittaidai.repo.nii.ac.jp/record/2000912/files/BNSSU-54-1071-1083.pdf",
+        "note": "2023年创作人形"
+      }
     },
     {
       "id": "literature-alice-shimizu",
@@ -50270,7 +54010,12 @@ window.TOY_COMPARE_DATA = {
           "role": "人形作家",
           "name": "清水真理"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "版本：2023年",
+        "sourceUrl": "https://nittaidai.repo.nii.ac.jp/record/2000912/files/BNSSU-54-1071-1083.pdf",
+        "note": "2023年创作人形"
+      }
     },
     {
       "id": "literature-alice-koitsuki",
@@ -50333,7 +54078,12 @@ window.TOY_COMPARE_DATA = {
           "role": "人形作家",
           "name": "恋月姫"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "版本：2023年",
+        "sourceUrl": "https://nittaidai.repo.nii.ac.jp/record/2000912/files/BNSSU-54-1071-1083.pdf",
+        "note": "2023年创作人形"
+      }
     },
     {
       "id": "literature-alice-mahoko",
@@ -50396,7 +54146,12 @@ window.TOY_COMPARE_DATA = {
           "role": "人形作家",
           "name": "秋山まほこ"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "版本：2023年",
+        "sourceUrl": "https://nittaidai.repo.nii.ac.jp/record/2000912/files/BNSSU-54-1071-1083.pdf",
+        "note": "2023年创作人形"
+      }
     },
     {
       "id": "literature-ningyotsuki",
@@ -50455,7 +54210,17 @@ window.TOY_COMPARE_DATA = {
           "role": "人形作家",
           "name": "恋月姫"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "版本：2006年",
+        "sourceUrl": "https://doshisha.repo.nii.ac.jp/record/20186/files/007000800003.pdf",
+        "note": "2006年出版企划附属品"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历史版本或作品记录；不据年份推定停产。二手或旧库存仍可能流通。"
+      }
     },
     {
       "id": "literature-qee-baseman",
@@ -50515,7 +54280,17 @@ window.TOY_COMPARE_DATA = {
           "role": "设计",
           "name": "Gary Baseman"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "版本：2010年",
+        "sourceUrl": "https://www.researchgate.net/publication/258199546_A_Vinyl_Platform_for_Dissent_Designer_Toys_and_Character_Merchandising",
+        "note": "2010年文献图版所示设计"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历史版本或作品记录；不据年份推定停产。二手或旧库存仍可能流通。"
+      }
     },
     {
       "id": "literature-qee-biskup",
@@ -50575,7 +54350,17 @@ window.TOY_COMPARE_DATA = {
           "role": "设计",
           "name": "Tim Biskup"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "版本：2010年",
+        "sourceUrl": "https://www.researchgate.net/publication/258199546_A_Vinyl_Platform_for_Dissent_Designer_Toys_and_Character_Merchandising",
+        "note": "2010年文献图版所示设计"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历史版本或作品记录；不据年份推定停产。二手或旧库存仍可能流通。"
+      }
     },
     {
       "id": "literature-dunny-jeremy",
@@ -50646,7 +54431,12 @@ window.TOY_COMPARE_DATA = {
           "role": "设计",
           "name": "Jeremyville"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "literature-munny4",
@@ -50708,7 +54498,12 @@ window.TOY_COMPARE_DATA = {
         "MUNNYWORLD",
         "DIY",
         "空白玩具"
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "literature-aurora-frankenstein",
@@ -50763,7 +54558,17 @@ window.TOY_COMPARE_DATA = {
         "Frankenstein",
         "科学怪人",
         "怪物模型"
-      ]
+      ],
+      "chronology": {
+        "label": "版本：1960年",
+        "sourceUrl": "https://www.jeffs60s.com/aurora-instruction-sheets.html",
+        "note": "1960年代原版套件记录"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历史版本或作品记录；不据年份推定停产。二手或旧库存仍可能流通。"
+      }
     },
     {
       "id": "literature-aurora-dracula",
@@ -50818,7 +54623,17 @@ window.TOY_COMPARE_DATA = {
         "Dracula",
         "德古拉",
         "怪物模型"
-      ]
+      ],
+      "chronology": {
+        "label": "版本：1960年",
+        "sourceUrl": "https://www.jeffs60s.com/aurora-instruction-sheets.html",
+        "note": "1960年代原版套件记录"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历史版本或作品记录；不据年份推定停产。二手或旧库存仍可能流通。"
+      }
     },
     {
       "id": "literature-aurora-wolfman",
@@ -50873,7 +54688,17 @@ window.TOY_COMPARE_DATA = {
         "The Wolfman",
         "狼人",
         "怪物模型"
-      ]
+      ],
+      "chronology": {
+        "label": "版本：1960年",
+        "sourceUrl": "https://www.jeffs60s.com/aurora-instruction-sheets.html",
+        "note": "1960年代原版套件记录"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历史版本或作品记录；不据年份推定停产。二手或旧库存仍可能流通。"
+      }
     },
     {
       "id": "literature-aurora-mummy",
@@ -50928,7 +54753,17 @@ window.TOY_COMPARE_DATA = {
         "The Mummy",
         "木乃伊",
         "怪物模型"
-      ]
+      ],
+      "chronology": {
+        "label": "版本：1960年",
+        "sourceUrl": "https://www.jeffs60s.com/aurora-instruction-sheets.html",
+        "note": "1960年代原版套件记录"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历史版本或作品记录；不据年份推定停产。二手或旧库存仍可能流通。"
+      }
     },
     {
       "id": "literature-aurora-phantom",
@@ -50983,7 +54818,17 @@ window.TOY_COMPARE_DATA = {
         "The Phantom of the Opera",
         "歌剧魅影",
         "怪物模型"
-      ]
+      ],
+      "chronology": {
+        "label": "版本：1960年",
+        "sourceUrl": "https://www.jeffs60s.com/aurora-instruction-sheets.html",
+        "note": "1960年代原版套件记录"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历史版本或作品记录；不据年份推定停产。二手或旧库存仍可能流通。"
+      }
     },
     {
       "id": "literature-aurora-creature",
@@ -51038,7 +54883,17 @@ window.TOY_COMPARE_DATA = {
         "The Creature",
         "黑湖妖谭怪物",
         "怪物模型"
-      ]
+      ],
+      "chronology": {
+        "label": "版本：1960年",
+        "sourceUrl": "https://www.jeffs60s.com/aurora-instruction-sheets.html",
+        "note": "1960年代原版套件记录"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历史版本或作品记录；不据年份推定停产。二手或旧库存仍可能流通。"
+      }
     },
     {
       "id": "literature-aurora-prisoner",
@@ -51093,7 +54948,17 @@ window.TOY_COMPARE_DATA = {
         "The Forgotten Prisoner of Castel-Mare",
         "被遗忘的囚徒",
         "怪物模型"
-      ]
+      ],
+      "chronology": {
+        "label": "版本：1960年",
+        "sourceUrl": "https://www.jeffs60s.com/aurora-instruction-sheets.html",
+        "note": "1960年代原版套件记录"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历史版本或作品记录；不据年份推定停产。二手或旧库存仍可能流通。"
+      }
     },
     {
       "id": "literature-aurora-hunchback",
@@ -51148,7 +55013,17 @@ window.TOY_COMPARE_DATA = {
         "The Hunchback of Notre Dame",
         "巴黎圣母院驼背人",
         "怪物模型"
-      ]
+      ],
+      "chronology": {
+        "label": "版本：1960年",
+        "sourceUrl": "https://www.jeffs60s.com/aurora-instruction-sheets.html",
+        "note": "1960年代原版套件记录"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历史版本或作品记录；不据年份推定停产。二手或旧库存仍可能流通。"
+      }
     },
     {
       "id": "literature-boba1979",
@@ -51210,7 +55085,17 @@ window.TOY_COMPARE_DATA = {
         "波巴·费特",
         "Star Wars",
         "星球大战"
-      ]
+      ],
+      "chronology": {
+        "label": "版本：1979年",
+        "sourceUrl": "https://www.starwars.com/news/happy-rancor-mail-away-star-wars-action-figures",
+        "note": "1979年固定火箭寄售版"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历史版本或作品记录；不据年份推定停产。二手或旧库存仍可能流通。"
+      }
     },
     {
       "id": "literature-ken-finland",
@@ -51272,7 +55157,12 @@ window.TOY_COMPARE_DATA = {
           "role": "角色创作",
           "name": "Susanna Mattheiszen"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "literature-socality",
@@ -51334,7 +55224,12 @@ window.TOY_COMPARE_DATA = {
           "role": "角色创作",
           "name": "文献中的摄影作者未署名"
         }
-      ]
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有资料没有确认该具体型号的发售年；资料核对日期另列。"
+      }
     },
     {
       "id": "literature-mazinger1974",
@@ -51391,7 +55286,17 @@ window.TOY_COMPARE_DATA = {
         "魔神 Z",
         "铁甲万能侠",
         "超合金"
-      ]
+      ],
+      "chronology": {
+        "label": "版本：1974年",
+        "sourceUrl": "https://www.bandaispirits.co.jp/story/001/",
+        "note": "1974年2月初代产品"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历史版本或作品记录；不据年份推定停产。二手或旧库存仍可能流通。"
+      }
     },
     {
       "id": "literature-sdcs-rx78clear",
@@ -51446,7 +55351,12 @@ window.TOY_COMPARE_DATA = {
         "SDガンダム",
         "Cross Silhouette",
         "高达"
-      ]
+      ],
+      "chronology": {
+        "label": "版本：2018年",
+        "sourceUrl": "https://manual.bandai-hobby.net/menus/detail/4789",
+        "note": "2018年10月透明色限定版"
+      }
     },
     {
       "id": "literature-rement-puchikitchen",
@@ -51501,7 +55411,3243 @@ window.TOY_COMPARE_DATA = {
         "ぷちサンプル",
         "微缩",
         "迷你食玩"
-      ]
+      ],
+      "chronology": {
+        "label": "版本：2004年",
+        "sourceUrl": "https://www.re-ment.co.jp/product/r50121",
+        "note": "2004年9月20日历史系列"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历史版本或作品记录；不据年份推定停产。二手或旧库存仍可能流通。"
+      }
+    },
+    {
+      "id": "volks-history-msd-mika2002",
+      "name": "MSD · 美加（2002）",
+      "brand": "VOLKS",
+      "original": "Mini Super Dollfie 女の子 美加",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "未披露",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "系列与版本",
+          "text": "MSD 女孩旧款；与后来的 SDM 分开。"
+        },
+        {
+          "title": "尺寸边界",
+          "text": "官方历史档案确认型号与版本年；不把现行身体尺寸代入旧款。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://dollfie.volks.co.jp/sd/model/limited/",
+          "title": "Mini Super Dollfie 女の子 美加",
+          "kind": "官方历史型号档案",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "发售：2002年",
+        "sourceUrl": "https://dollfie.volks.co.jp/sd/model/limited/",
+        "note": "官方限定型号档案的该版本年份。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历年版本记录；未确认该型号持续生产。二手或旧库存仍可能流通。"
+      }
+    },
+    {
+      "id": "volks-history-sdc-kaede2004",
+      "name": "SDCute · 楓（Dolpa 11）",
+      "brand": "VOLKS",
+      "original": "Super Dollfie Cute 楓・ドルパ11ver.",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "未披露",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "系列与版本",
+          "text": "SDCute 旧系列，楓的 Dolpa 11 版本。"
+        },
+        {
+          "title": "尺寸边界",
+          "text": "官方历史档案确认型号与版本年；不把现行身体尺寸代入旧款。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://dollfie.volks.co.jp/sd/model/limited/",
+          "title": "Super Dollfie Cute 楓・ドルパ11ver.",
+          "kind": "官方历史型号档案",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "发售：2004年",
+        "sourceUrl": "https://dollfie.volks.co.jp/sd/model/limited/",
+        "note": "官方限定型号档案的该版本年份。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历年版本记录；未确认该型号持续生产。二手或旧库存仍可能流通。"
+      }
+    },
+    {
+      "id": "volks-history-sdc-kurt2006",
+      "name": "SDCute · クルト（2006）",
+      "brand": "VOLKS",
+      "original": "Super Dollfie Cute 男の子 クルト",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "未披露",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "系列与版本",
+          "text": "SDCute 男孩版本，非 SDM。"
+        },
+        {
+          "title": "尺寸边界",
+          "text": "官方历史档案确认型号与版本年；不把现行身体尺寸代入旧款。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://dollfie.volks.co.jp/sd/model/limited/",
+          "title": "Super Dollfie Cute 男の子 クルト",
+          "kind": "官方历史型号档案",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "发售：2006年",
+        "sourceUrl": "https://dollfie.volks.co.jp/sd/model/limited/",
+        "note": "官方限定型号档案的该版本年份。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历年版本记录；未确认该型号持续生产。二手或旧库存仍可能流通。"
+      }
+    },
+    {
+      "id": "volks-history-sd-shinku2005",
+      "name": "SD · 真红（2005）",
+      "brand": "VOLKS",
+      "original": "Super Dollfie 女の子 真紅",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "未披露",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "系列与版本",
+          "text": "《蔷薇少女》合作旧款；这里记录 2005 年版本。"
+        },
+        {
+          "title": "尺寸边界",
+          "text": "官方历史档案确认型号与版本年；不把现行身体尺寸代入旧款。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://dollfie.volks.co.jp/sd/model/limited/",
+          "title": "Super Dollfie 女の子 真紅",
+          "kind": "官方历史型号档案",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "发售：2005年",
+        "sourceUrl": "https://dollfie.volks.co.jp/sd/model/limited/",
+        "note": "官方限定型号档案的该版本年份。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历年版本记录；未确认该型号持续生产。二手或旧库存仍可能流通。"
+      }
+    },
+    {
+      "id": "volks-history-sd13-isao2004",
+      "name": "SD13 · 南条勋（2004）",
+      "brand": "VOLKS",
+      "original": "Super Dollfie13 男の子 南条勲",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "未披露",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "系列与版本",
+          "text": "东京少年物语旧款；SD13 男孩身体与 SDGr 男孩分开。"
+        },
+        {
+          "title": "尺寸边界",
+          "text": "官方历史档案确认型号与版本年；不把现行身体尺寸代入旧款。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://dollfie.volks.co.jp/sd/model/limited/",
+          "title": "Super Dollfie13 男の子 南条勲",
+          "kind": "官方历史型号档案",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "发售：2004年",
+        "sourceUrl": "https://dollfie.volks.co.jp/sd/model/limited/",
+        "note": "官方限定型号档案的该版本年份。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历年版本记录；未确认该型号持续生产。二手或旧库存仍可能流通。"
+      }
+    },
+    {
+      "id": "volks-history-sd13-williams2006",
+      "name": "SD13 · Williams（2006）",
+      "brand": "VOLKS",
+      "original": "Super Dollfie13 男の子 ウィリアムズ",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "未披露",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "系列与版本",
+          "text": "银货的誓言旧款；不套用后来 SD17 Williams 的规格。"
+        },
+        {
+          "title": "尺寸边界",
+          "text": "官方历史档案确认型号与版本年；不把现行身体尺寸代入旧款。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://dollfie.volks.co.jp/sd/model/limited/",
+          "title": "Super Dollfie13 男の子 ウィリアムズ",
+          "kind": "官方历史型号档案",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "发售：2006年",
+        "sourceUrl": "https://dollfie.volks.co.jp/sd/model/limited/",
+        "note": "官方限定型号档案的该版本年份。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历年版本记录；未确认该型号持续生产。二手或旧库存仍可能流通。"
+      }
+    },
+    {
+      "id": "volks-history-sdgr-okita2010",
+      "name": "SDGr · 冲田总司（2010）",
+      "brand": "VOLKS",
+      "original": "Super Dollfie Graffiti 男の子 沖田総司",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "未披露",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "系列与版本",
+          "text": "SDGr 男孩 2010 年版本；不是 SD13 或稽古着再版。"
+        },
+        {
+          "title": "尺寸边界",
+          "text": "官方历史档案确认型号与版本年；不把现行身体尺寸代入旧款。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://dollfie.volks.co.jp/sd/model/limited/",
+          "title": "Super Dollfie Graffiti 男の子 沖田総司",
+          "kind": "官方历史型号档案",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "发售：2010年",
+        "sourceUrl": "https://dollfie.volks.co.jp/sd/model/limited/",
+        "note": "官方限定型号档案的该版本年份。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历年版本记录；未确认该型号持续生产。二手或旧库存仍可能流通。"
+      }
+    },
+    {
+      "id": "volks-history-sdgr-belldandy2013",
+      "name": "SDGr · 贝璐丹迪（2013）",
+      "brand": "VOLKS",
+      "original": "Super Dollfie Graffiti 女の子 ベルダンディー",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "未披露",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "系列与版本",
+          "text": "《我的女神》合作版本，展示 SDGr 女孩产品线。"
+        },
+        {
+          "title": "尺寸边界",
+          "text": "官方历史档案确认型号与版本年；不把现行身体尺寸代入旧款。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://dollfie.volks.co.jp/sd/model/limited/",
+          "title": "Super Dollfie Graffiti 女の子 ベルダンディー",
+          "kind": "官方历史型号档案",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "发售：2013年",
+        "sourceUrl": "https://dollfie.volks.co.jp/sd/model/limited/",
+        "note": "官方限定型号档案的该版本年份。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历年版本记录；未确认该型号持续生产。二手或旧库存仍可能流通。"
+      }
+    },
+    {
+      "id": "volks-history-sd16-olivia2006",
+      "name": "SD16 · Olivia Morgan（2006）",
+      "brand": "VOLKS",
+      "original": "Super Dollfie16 女の子 オリビア・モーガン",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "未披露",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "系列与版本",
+          "text": "SD16 JEWELS 系列早期女孩版本。"
+        },
+        {
+          "title": "尺寸边界",
+          "text": "官方历史档案确认型号与版本年；不把现行身体尺寸代入旧款。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://dollfie.volks.co.jp/sd/model/limited/",
+          "title": "Super Dollfie16 女の子 オリビア・モーガン",
+          "kind": "官方历史型号档案",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "发售：2006年",
+        "sourceUrl": "https://dollfie.volks.co.jp/sd/model/limited/",
+        "note": "官方限定型号档案的该版本年份。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历年版本记录；未确认该型号持续生产。二手或旧库存仍可能流通。"
+      }
+    },
+    {
+      "id": "volks-history-sd16-yukinojo2005",
+      "name": "SD16 · 椹木雪之丞（2005）",
+      "brand": "VOLKS",
+      "original": "Super Dollfie16 男の子 椹木雪之丞",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "未披露",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "系列与版本",
+          "text": "SD16 男孩版本，与后来 SDGOU 分开。"
+        },
+        {
+          "title": "尺寸边界",
+          "text": "官方历史档案确认型号与版本年；不把现行身体尺寸代入旧款。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://dollfie.volks.co.jp/sd/model/limited/",
+          "title": "Super Dollfie16 男の子 椹木雪之丞",
+          "kind": "官方历史型号档案",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "发售：2005年",
+        "sourceUrl": "https://dollfie.volks.co.jp/sd/model/limited/",
+        "note": "官方限定型号档案的该版本年份。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历年版本记录；未确认该型号持续生产。二手或旧库存仍可能流通。"
+      }
+    },
+    {
+      "id": "volks-history-sd17-reisner2007",
+      "name": "SD17 · Reisner（2007）",
+      "brand": "VOLKS",
+      "original": "Super Dollfie17 Reisner ～The Shadow of Captain～",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "未披露",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "系列与版本",
+          "text": "银货的誓言系列早期 SD17；不并入 2024 年 Captain II 版。"
+        },
+        {
+          "title": "尺寸边界",
+          "text": "官方历史档案确认型号与版本年；不把现行身体尺寸代入旧款。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://dollfie.volks.co.jp/sd/model/limited/",
+          "title": "Super Dollfie17 Reisner ～The Shadow of Captain～",
+          "kind": "官方历史型号档案",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "发售：2007年",
+        "sourceUrl": "https://dollfie.volks.co.jp/sd/model/limited/",
+        "note": "官方限定型号档案的该版本年份。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历年版本记录；未确认该型号持续生产。二手或旧库存仍可能流通。"
+      }
+    },
+    {
+      "id": "volks-history-sdgou-yukinojo2012",
+      "name": "SDGOU · 椹木雪之丞（2012）",
+      "brand": "VOLKS",
+      "original": "Super Dollfie GOU 椹木 雪之丞",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "未披露",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "系列与版本",
+          "text": "SDGOU 男孩系列，和 SD16 同角色为不同身体与版本。"
+        },
+        {
+          "title": "尺寸边界",
+          "text": "官方历史档案确认型号与版本年；不把现行身体尺寸代入旧款。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://dollfie.volks.co.jp/sd/model/limited/",
+          "title": "Super Dollfie GOU 椹木 雪之丞",
+          "kind": "官方历史型号档案",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "发售：2012年",
+        "sourceUrl": "https://dollfie.volks.co.jp/sd/model/limited/",
+        "note": "官方限定型号档案的该版本年份。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历年版本记录；未确认该型号持续生产。二手或旧库存仍可能流通。"
+      }
+    },
+    {
+      "id": "volks-history-dearsd-anna2021",
+      "name": "Dear SD · 安娜（2021）",
+      "brand": "VOLKS",
+      "original": "Dear SD アナ / Disney Collection",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "未披露",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "系列与版本",
+          "text": "Dear SD 的《冰雪奇缘》限定版；不是 SD13 安娜。"
+        },
+        {
+          "title": "尺寸边界",
+          "text": "官方历史档案确认型号与版本年；不把现行身体尺寸代入旧款。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://dollfie.volks.co.jp/sd/model/limited/",
+          "title": "Dear SD アナ / Disney Collection",
+          "kind": "官方历史型号档案",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "发售：2021年",
+        "sourceUrl": "https://dollfie.volks.co.jp/sd/model/limited/",
+        "note": "官方限定型号档案的该版本年份。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历年版本记录；未确认该型号持续生产。二手或旧库存仍可能流通。"
+      }
+    },
+    {
+      "id": "azone-line-kikipop2015",
+      "name": "KIKIPOP! · Marmalade Brown（2015）",
+      "brand": "AZONE",
+      "original": "AKP001-MMB / Hello KIKIPOP!",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "未披露",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "ABS",
+          "PVC"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "本款与系列",
+          "text": "KIKIPOP! 的首批版本之一，官方列出 23 处可动、服装、换手和支架。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.azone-int.co.jp/?sid=kkp402&srs=73&jancd=4580116049538",
+          "title": "AKP001-MMB / Hello KIKIPOP!",
+          "kind": "官方产品页",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "发售：2015年",
+        "sourceUrl": "https://www.azone-int.co.jp/?sid=kkp402&srs=73&jancd=4580116049538",
+        "note": ""
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "2015 年首批版本记录；没有把整个 KIKIPOP! 系列标为停产。二手或旧库存仍可能流通。"
+      }
+    },
+    {
+      "id": "azone-line-alvastaria-torte2026",
+      "name": "Alvastaria · トルテ（幻灯茶制服）",
+      "brand": "AZONE",
+      "original": "POD062-ATB / トルテ～夢見るアトリエ～",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 215,
+      "heightBasis": "官方人形全高",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "约 215 mm",
+          "basis": "官方人形全高"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "机械关节",
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "软胶头",
+          "身体材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "本款与系列",
+          "text": "Pure Neemo Flexion XS 女孩白肌，植毛头；本款全高与单独无头身体分开。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.azone-int.co.jp/?sid=alv402&srs=329&jancd=4573199851532",
+          "title": "POD062-ATB / トルテ～夢見るアトリエ～",
+          "kind": "官方产品页",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "发售：2026年",
+        "sourceUrl": "https://www.azone-int.co.jp/?sid=alv402&srs=329&jancd=4573199851532",
+        "note": ""
+      }
+    },
+    {
+      "id": "azone-line-blackraven-lilia2025",
+      "name": "Black Raven · Lilia（R-Black）",
+      "brand": "AZONE",
+      "original": "AOD502-LNB / The nightmare parallel world",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "未披露",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "内部骨架",
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "身体材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "本款与系列",
+          "text": "OBITSU 50 cm M 胸身体、植毛头，附衣装与镰刀；50 cm 是素体系列规格，不直接当装头全高。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.azone-int.co.jp/?sid=lla402&srs=317&jancd=4573199847337",
+          "title": "AOD502-LNB / The nightmare parallel world",
+          "kind": "官方产品页",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "发售：2025年",
+        "sourceUrl": "https://www.azone-int.co.jp/?sid=lla402&srs=317&jancd=4573199847337",
+        "note": ""
+      }
+    },
+    {
+      "id": "azone-line-sahra-yukata2026",
+      "name": "Sahra a la mode · SAHRA（黑发浴衣）",
+      "brand": "AZONE",
+      "original": "POD012-SYB / Sweet Days YUKATA Collection",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 240,
+      "heightBasis": "官方人形全高",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "约 240 mm",
+          "basis": "官方人形全高"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "机械关节",
+          "关节可动"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "软胶头",
+          "身体材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "本款与系列",
+          "text": "Pure Neemo 2 Emotion M 女孩白肌；2026 年重新使用 2015 年 KIMONO SAHRA 头型，记录的是新浴衣版本。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.azone-int.co.jp/?sid=shr202&cha=12&jancd=4573199853956",
+          "title": "POD012-SYB / Sweet Days YUKATA Collection",
+          "kind": "官方产品页",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "发售：2026年",
+        "sourceUrl": "https://www.azone-int.co.jp/?sid=shr202&cha=12&jancd=4573199853956",
+        "note": ""
+      }
+    },
+    {
+      "id": "petworks-line-odeco022",
+      "name": "おでこちゃん · 裸娃 022",
+      "brand": "PetWORKs",
+      "original": "はだかんぼうのおでこちゃん022",
+      "country": "日本",
+      "origin": "日本（部分活眼中国制造）",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 200,
+      "heightBasis": "官方人形全高",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "约 200 mm",
+          "basis": "官方人形全高"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "裸娃成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "睡眠眼"
+        ],
+        "material": [
+          "PVC",
+          "其他材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "本款交付",
+          "text": "普通肌、青绿色睡眠眼；不含假发、衣服与鞋。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.petworks.co.jp/doll/odeco_nikki/9048/",
+          "title": "はだかんぼうのおでこちゃん022",
+          "kind": "官方产品页",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "发售：2025年",
+        "sourceUrl": "https://www.petworks.co.jp/doll/odeco_nikki/9048/",
+        "note": ""
+      }
+    },
+    {
+      "id": "petworks-line-nikki025",
+      "name": "ニッキ · 裸娃 025",
+      "brand": "PetWORKs",
+      "original": "はだかんぼうのニッキ025",
+      "country": "日本",
+      "origin": "日本（部分活眼中国制造）",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 200,
+      "heightBasis": "官方人形全高",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "约 200 mm",
+          "basis": "官方人形全高"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "裸娃成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "睡眠眼"
+        ],
+        "material": [
+          "PVC",
+          "其他材料未披露"
+        ],
+        "role": [
+          "拟人动物"
+        ]
+      },
+      "notes": [
+        {
+          "title": "本款交付",
+          "text": "猫形换装娃，红色睡眠眼；不含服装与鞋。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.petworks.co.jp/doll/odeco_nikki/9037/",
+          "title": "はだかんぼうのニッキ025",
+          "kind": "官方产品页",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "发售：2025年",
+        "sourceUrl": "https://www.petworks.co.jp/doll/odeco_nikki/9037/",
+        "note": ""
+      }
+    },
+    {
+      "id": "petworks-line-odette004",
+      "name": "Odette · 004",
+      "brand": "PetWORKs",
+      "original": "オデット004 / 1326011",
+      "country": "日本",
+      "origin": "日本",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 240,
+      "heightBasis": "官方人形全高",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "约 240 mm",
+          "basis": "官方人形全高"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "机械关节",
+          "关节可动"
+        ],
+        "delivery": [
+          "裸娃成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "PVC",
+          "ABS",
+          "其他材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "本款交付",
+          "text": "OBITSU 22 cm S 胸身体，含 20 mm 尾柜瞳；本款装头全高约 24 cm。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.petworks.co.jp/doll/odeco_nikki/10358/",
+          "title": "オデット004 / 1326011",
+          "kind": "官方产品页",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "发售：2026年",
+        "sourceUrl": "https://www.petworks.co.jp/doll/odeco_nikki/10358/",
+        "note": ""
+      }
+    },
+    {
+      "id": "petworks-line-usaggie041",
+      "name": "うさぎぃ · 041",
+      "brand": "PetWORKs",
+      "original": "うさぎぃ041 / 1722021",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "未披露",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "裸娃成品"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "PVC",
+          "其他材料未披露"
+        ],
+        "role": [
+          "拟人动物"
+        ]
+      },
+      "notes": [
+        {
+          "title": "本款交付",
+          "text": "气泡透明兔形版本；档案未列出本款全高，不借用其他うさぎぃ型号尺寸。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.petworks.co.jp/doll/usaggie/5413/",
+          "title": "うさぎぃ041 / 1722021",
+          "kind": "官方产品页",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "发售：2022年",
+        "sourceUrl": "https://www.petworks.co.jp/doll/usaggie/5413/",
+        "note": ""
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历年版本记录；未确认该型号持续生产。二手或旧库存仍可能流通。"
+      }
+    },
+    {
+      "id": "petworks-line-jossien18",
+      "name": "Jossie · n18",
+      "brand": "PetWORKs",
+      "original": "ジョシィn18 / 1725021",
+      "country": "日本",
+      "origin": "日本",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 180,
+      "heightBasis": "官方人形全高",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "约 180 mm",
+          "basis": "官方人形全高"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "裸娃成品"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "PVC",
+          "其他材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "本款交付",
+          "text": "使用うさぎぃ身体、植毛头；档案的发售年为 2020，当前商品编号不是年代依据。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.petworks.co.jp/doll/usaggie/9931/",
+          "title": "ジョシィn18 / 1725021",
+          "kind": "官方产品页",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "发售：2020年",
+        "sourceUrl": "https://www.petworks.co.jp/doll/usaggie/9931/",
+        "note": ""
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历年版本记录；未确认该型号持续生产。二手或旧库存仍可能流通。"
+      }
+    },
+    {
+      "id": "petworks-line-minijossien02",
+      "name": "Mini Jossie · n02",
+      "brand": "PetWORKs",
+      "original": "ミニジョシィn02",
+      "country": "日本",
+      "origin": "日本",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 160,
+      "heightBasis": "官方人形全高",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "约 160 mm",
+          "basis": "官方人形全高"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "机械关节",
+          "关节可动"
+        ],
+        "delivery": [
+          "裸娃成品"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "PVC",
+          "ABS",
+          "其他材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "本款交付",
+          "text": "OBITSU 11 身体，含头部转接件、垫圈与换手；装头全高约 16 cm。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.petworks.co.jp/doll/usaggie/3383/",
+          "title": "ミニジョシィn02",
+          "kind": "官方产品页",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "发售：2020年",
+        "sourceUrl": "https://www.petworks.co.jp/doll/usaggie/3383/",
+        "note": ""
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历年版本记录；未确认该型号持续生产。二手或旧库存仍可能流通。"
+      }
+    },
+    {
+      "id": "alchemic-lusis-painted",
+      "name": "Unoa · Lusis（B 级涂装完成品）",
+      "brand": "Alchemic Labo",
+      "original": "UABD-FR-002_b",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "string",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "未披露",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "拉筋连接",
+          "球体关节",
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品",
+          "涂装成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼",
+          "换脸"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "交付选项",
+          "text": "本条选择全涂装并组装完成品；同页另有脸妆、底漆或未涂装选项，交付状态不能混用。"
+        },
+        {
+          "title": "等级与配套",
+          "text": "B 级是部件瑕疵等级，不表示停产。附弹性绳、说明书、假发与 12 mm 眼；衣服不并入默认交付。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "目录归入 42 cm 身体系列；除本款明确全高外，不以侧栏系列名填主高度。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.alchemiclabo-eshop.com/esp/prdUABD-FR-002_b.html",
+          "title": "UABD-FR-002_b",
+          "kind": "官方产品页",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有产品资料未确认本型号的发售年。"
+      }
+    },
+    {
+      "id": "alchemic-sist-kit",
+      "name": "Unoa · Sist（B 级未涂装套件）",
+      "brand": "Alchemic Labo",
+      "original": "UABD-FR-001_blank",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "kit",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "未披露",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "拉筋连接",
+          "球体关节",
+          "关节可动"
+        ],
+        "delivery": [
+          "待拼装",
+          "待加工"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼",
+          "换脸"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "交付选项",
+          "text": "本条选择未涂装套件：交付时临时穿绳，仍需拆解、清洗、涂装与重新组装。"
+        },
+        {
+          "title": "等级与配套",
+          "text": "B 级是部件瑕疵等级，不表示停产。附弹性绳、说明书、假发与 12 mm 眼；衣服不并入默认交付。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "目录归入 42 cm 身体系列；除本款明确全高外，不以侧栏系列名填主高度。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.alchemiclabo-eshop.com/esp/prdUABD-FR-001_blank.html",
+          "title": "UABD-FR-001_blank",
+          "kind": "官方产品页",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有产品资料未确认本型号的发售年。"
+      }
+    },
+    {
+      "id": "alchemic-lbi-painted",
+      "name": "Unoa · L-bi（B 级涂装完成品）",
+      "brand": "Alchemic Labo",
+      "original": "UBBD-FR-102_b",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "string",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "未披露",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "拉筋连接",
+          "球体关节",
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品",
+          "涂装成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼",
+          "换脸"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "交付选项",
+          "text": "本条选择全涂装并组装完成品；同页另有脸妆、底漆或未涂装选项，交付状态不能混用。"
+        },
+        {
+          "title": "等级与配套",
+          "text": "B 级是部件瑕疵等级，不表示停产。附弹性绳、说明书、假发与 12 mm 眼；衣服不并入默认交付。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "目录归入 43 cm 身体系列；除本款明确全高外，不以侧栏系列名填主高度。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.alchemiclabo-eshop.com/esp/prdUBBD-FR-102_b.html",
+          "title": "UBBD-FR-102_b",
+          "kind": "官方产品页",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有产品资料未确认本型号的发售年。"
+      }
+    },
+    {
+      "id": "alchemic-chibi-roron",
+      "name": "Unoa Chibi · Roron（妖精肌完成品）",
+      "brand": "Alchemic Labo",
+      "original": "UCBD-FY-201_b",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "string",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "未披露",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "拉筋连接",
+          "球体关节",
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品",
+          "涂装成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼",
+          "换脸"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "交付选项",
+          "text": "本条选择全涂装并组装完成品；同页另有脸妆、底漆或未涂装选项，交付状态不能混用。"
+        },
+        {
+          "title": "等级与配套",
+          "text": "B 级是部件瑕疵等级，不表示停产。附弹性绳、说明书、假发与 12 mm 眼；衣服不并入默认交付。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "目录归入 35 cm 身体系列；除本款明确全高外，不以侧栏系列名填主高度。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.alchemiclabo-eshop.com/esp/prdUCBD-FY-201_b.html",
+          "title": "UCBD-FY-201_b",
+          "kind": "官方产品页",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有产品资料未确认本型号的发售年。"
+      }
+    },
+    {
+      "id": "alchemic-sister-ange",
+      "name": "Unoa Elder Sister · Ange（完成品）",
+      "brand": "Alchemic Labo",
+      "original": "USBD-FR-302_b",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "string",
+      "scale": null,
+      "heightMm": 440,
+      "heightBasis": "官方人形全高",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "约 440 mm",
+          "basis": "官方人形全高"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "拉筋连接",
+          "球体关节",
+          "关节可动"
+        ],
+        "delivery": [
+          "素体成品",
+          "涂装成品"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼",
+          "换脸"
+        ],
+        "material": [
+          "树脂"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "交付选项",
+          "text": "本条选择全涂装并组装完成品；同页另有脸妆、底漆或未涂装选项，交付状态不能混用。"
+        },
+        {
+          "title": "等级与配套",
+          "text": "B 级是部件瑕疵等级，不表示停产。附弹性绳、说明书、假发与 12 mm 眼；衣服不并入默认交付。"
+        },
+        {
+          "title": "尺寸口径",
+          "text": "目录归入 44 cm 身体系列；除本款明确全高外，不以侧栏系列名填主高度。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.alchemiclabo-eshop.com/esp/prdUSBD-FR-302_b.html",
+          "title": "USBD-FR-302_b",
+          "kind": "官方产品页",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2023年生产批次",
+        "sourceUrl": "https://www.alchemiclabo-eshop.com/esp/prdUSBD-FR-302_b.html",
+        "note": "本页明确记载 2023 年生产；Elder Sister 系列始于 2011 年。"
+      }
+    },
+    {
+      "id": "soom-history-beryl2022",
+      "name": "Super Gem · Beryl（2022 受注）",
+      "brand": "SOOM",
+      "original": "Beryl — Haze of Phantasm",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "未披露",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "裸娃成品",
+          "选配面妆"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与配套",
+          "text": "2008 年 Monthly Doll 经典形象的再版；本条为 2022 年 Human Set。 展示衣装与眼另售，面妆、身体涂装按选项。"
+        },
+        {
+          "title": "尺寸与材料",
+          "text": "不以 Super Gem 系列名、包装尺寸或眼睛树脂材料推算身体高度与材料。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://dollsoom.com/en/the-gem/beryl-haze-of-phantasm/",
+          "title": "Beryl — Haze of Phantasm",
+          "kind": "官方产品页",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "受注：2022年",
+        "sourceUrl": "https://dollsoom.com/en/the-gem/beryl-haze-of-phantasm/",
+        "note": ""
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "本版本当年受注期：7 月 14–27 日，已是过去批次；后续再版另记。二手或旧库存仍可能流通。"
+      }
+    },
+    {
+      "id": "soom-history-heliot2022",
+      "name": "Super Gem · Heliot（2022 受注）",
+      "brand": "SOOM",
+      "original": "Heliot — Penetrates Cosmos",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "未披露",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "裸娃成品",
+          "选配面妆"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与配套",
+          "text": "官方回顾 2008 年原型；本条为 2022 年 Human Set，不并入原版。 展示衣装与眼另售，面妆、身体涂装按选项。"
+        },
+        {
+          "title": "尺寸与材料",
+          "text": "不以 Super Gem 系列名、包装尺寸或眼睛树脂材料推算身体高度与材料。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://dollsoom.com/en/the-gem/heliot-penetrates-cosmos/",
+          "title": "Heliot — Penetrates Cosmos",
+          "kind": "官方产品页",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "受注：2022年",
+        "sourceUrl": "https://dollsoom.com/en/the-gem/heliot-penetrates-cosmos/",
+        "note": ""
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "本版本当年受注期：4 月 19 日–5 月 2 日，已是过去批次；后续再版另记。二手或旧库存仍可能流通。"
+      }
+    },
+    {
+      "id": "soom-history-chalco2022",
+      "name": "Super Gem · Chalco（2022 受注）",
+      "brand": "SOOM",
+      "original": "Chalco — Forest Nightmare",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "未披露",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "裸娃成品",
+          "选配面妆"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与配套",
+          "text": "本条为 2022 年 Human Set；Fantasy Set 与 Full Set 是不同配置。 展示衣装与眼另售，面妆、身体涂装按选项。"
+        },
+        {
+          "title": "尺寸与材料",
+          "text": "不以 Super Gem 系列名、包装尺寸或眼睛树脂材料推算身体高度与材料。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://dollsoom.com/en/the-gem/chalco-forest-nightmare/",
+          "title": "Chalco — Forest Nightmare",
+          "kind": "官方产品页",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "受注：2022年",
+        "sourceUrl": "https://dollsoom.com/en/the-gem/chalco-forest-nightmare/",
+        "note": ""
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "本版本当年受注期：6 月 30 日–7 月 13 日，已是过去批次；后续再版另记。二手或旧库存仍可能流通。"
+      }
+    },
+    {
+      "id": "soom-history-onyx2011",
+      "name": "Super Gem · Onyx（2011）",
+      "brand": "SOOM",
+      "original": "Onyx — Heavenly Light",
+      "country": "韩国",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "未披露",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "球体关节",
+          "连接待核实"
+        ],
+        "delivery": [
+          "裸娃成品",
+          "选配面妆"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发",
+          "换眼"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与配套",
+          "text": "限量 Onyx Romantic Head 人类版本；与其他 Onyx 版本分开。 展示衣装与眼另售，面妆、身体涂装按选项。"
+        },
+        {
+          "title": "尺寸与材料",
+          "text": "不以 Super Gem 系列名、包装尺寸或眼睛树脂材料推算身体高度与材料。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://dollsoom.com/en/the-gem/onyx-heavenly-light/",
+          "title": "Onyx — Heavenly Light",
+          "kind": "官方产品页",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "受注：2011年",
+        "sourceUrl": "https://dollsoom.com/en/the-gem/onyx-heavenly-light/",
+        "note": ""
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "本版本当年受注期：2011 年 9 月，已是过去批次；后续再版另记。二手或旧库存仍可能流通。"
+      }
+    },
+    {
+      "id": "integrity-history-fr-veronique",
+      "name": "Fashion Royalty · Véronique（Love of Luxe）",
+      "brand": "Integrity Toys",
+      "original": "Fashion Royalty · Véronique（Love of Luxe） / 91457",
+      "country": "美国",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "未披露",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "交付未说明"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "系列与版本",
+          "text": "2018 年官方 Convention 型号档案；版本、品番与限量记录保留。档案没有逐项身体结构与厘米尺寸，不代入现行素体规格。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.integritytoys.com/brands/convention/2018-2/fashion-royalty/",
+          "title": "Fashion Royalty · Véronique（Love of Luxe） / 91457",
+          "kind": "官方历史型号档案",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "版本：2018年",
+        "sourceUrl": "https://www.integritytoys.com/brands/convention/2018-2/fashion-royalty/",
+        "note": ""
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历年版本记录；未确认该型号持续生产。二手或旧库存仍可能流通。"
+      }
+    },
+    {
+      "id": "integrity-history-nuface-lilith",
+      "name": "Nu.Face · Lilith（Afterglow）",
+      "brand": "Integrity Toys",
+      "original": "Nu.Face · Lilith（Afterglow） / 82106",
+      "country": "美国",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "未披露",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "交付未说明"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "系列与版本",
+          "text": "2018 年官方 Convention 型号档案；版本、品番与限量记录保留。档案没有逐项身体结构与厘米尺寸，不代入现行素体规格。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.integritytoys.com/brands/convention/2018-2/nu-face/",
+          "title": "Nu.Face · Lilith（Afterglow） / 82106",
+          "kind": "官方历史型号档案",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "版本：2018年",
+        "sourceUrl": "https://www.integritytoys.com/brands/convention/2018-2/nu-face/",
+        "note": ""
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历年版本记录；未确认该型号持续生产。二手或旧库存仍可能流通。"
+      }
+    },
+    {
+      "id": "integrity-history-east59-victoire",
+      "name": "East 59th · Victoire（Divine Evening）",
+      "brand": "Integrity Toys",
+      "original": "East 59th · Victoire（Divine Evening） / 73016",
+      "country": "美国",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "未披露",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "交付未说明"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "系列与版本",
+          "text": "2018 年官方 Convention 型号档案；版本、品番与限量记录保留。档案没有逐项身体结构与厘米尺寸，不代入现行素体规格。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.integritytoys.com/brands/convention/2018-2/east-59th/",
+          "title": "East 59th · Victoire（Divine Evening） / 73016",
+          "kind": "官方历史型号档案",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "版本：2018年",
+        "sourceUrl": "https://www.integritytoys.com/brands/convention/2018-2/east-59th/",
+        "note": ""
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历年版本记录；未确认该型号持续生产。二手或旧库存仍可能流通。"
+      }
+    },
+    {
+      "id": "integrity-body-21047",
+      "name": "The Monarchs · Blush 身体",
+      "brand": "Integrity Toys",
+      "original": "21047",
+      "country": "美国",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 317.5,
+      "heightBasis": "官方身体标称 12.5 英寸，换算为 mm；不含头",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "约 317.5 mm",
+          "basis": "官方身体标称 12.5 英寸，换算为 mm；不含头"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换手"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体交付",
+          "text": "单售身体，附可拆换手；头部、衣服不附属。肤色与身体版本以本 SKU 为准。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://shop.integritytoys.com/products/the-monarchs-body-blush.html",
+          "title": "21047",
+          "kind": "官方产品页",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有产品资料未确认本型号的发售年。"
+      }
+    },
+    {
+      "id": "integrity-body-73033",
+      "name": "East 59th · FR White 身体",
+      "brand": "Integrity Toys",
+      "original": "73033",
+      "country": "美国",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 304.8,
+      "heightBasis": "官方身体标称 12 英寸，换算为 mm；不含头",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "约 304.8 mm",
+          "basis": "官方身体标称 12 英寸，换算为 mm；不含头"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换手"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体交付",
+          "text": "单售身体，附可拆换手；头部、衣服不附属。肤色与身体版本以本 SKU 为准。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://shop.integritytoys.com/products/east-59th-body-fr-white.html",
+          "title": "73033",
+          "kind": "官方产品页",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有产品资料未确认本型号的发售年。"
+      }
+    },
+    {
+      "id": "integrity-body-88087",
+      "name": "TRUE · Sunkissed 身体",
+      "brand": "Integrity Toys",
+      "original": "88087",
+      "country": "美国",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 304.8,
+      "heightBasis": "官方身体标称 12 英寸，换算为 mm；不含头",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "约 304.8 mm",
+          "basis": "官方身体标称 12 英寸，换算为 mm；不含头"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换手"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体交付",
+          "text": "单售身体，附可拆换手；头部、衣服不附属。肤色与身体版本以本 SKU 为准。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://shop.integritytoys.com/products/true-body-sunkissed.html",
+          "title": "88087",
+          "kind": "官方产品页",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有产品资料未确认本型号的发售年。"
+      }
+    },
+    {
+      "id": "integrity-body-46040",
+      "name": "Meteor · FR Black 身体",
+      "brand": "Integrity Toys",
+      "original": "46040",
+      "country": "美国",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 317.5,
+      "heightBasis": "官方身体标称 12.5 英寸，换算为 mm；不含头",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "约 317.5 mm",
+          "basis": "官方身体标称 12.5 英寸，换算为 mm；不含头"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换手"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体交付",
+          "text": "单售身体，附可拆换手；头部、衣服不附属。肤色与身体版本以本 SKU 为准。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://shop.integritytoys.com/products/meteor-body-fr-black.html",
+          "title": "46040",
+          "kind": "官方产品页",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有产品资料未确认本型号的发售年。"
+      }
+    },
+    {
+      "id": "integrity-body-85134",
+      "name": "Color Infusion · Sunkissed 身体",
+      "brand": "Integrity Toys",
+      "original": "85134",
+      "country": "美国",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": "1:6",
+      "heightMm": 317.5,
+      "heightBasis": "官方身体标称 12.5 英寸，换算为 mm；不含头",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "约 317.5 mm",
+          "basis": "官方身体标称 12.5 英寸，换算为 mm；不含头"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "素体成品",
+          "头部另配"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换手"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "素体"
+        ]
+      },
+      "notes": [
+        {
+          "title": "身体交付",
+          "text": "单售身体，附可拆换手；头部、衣服不附属。肤色与身体版本以本 SKU 为准。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://shop.integritytoys.com/products/color-infusion-body-sunkissed.html",
+          "title": "85134",
+          "kind": "官方产品页",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有产品资料未确认本型号的发售年。"
+      }
+    },
+    {
+      "id": "mattel-history-n5946",
+      "name": "Monster High G1 · Draculaura（N5946）",
+      "brand": "Mattel",
+      "original": "Monster High G1 · Draculaura / N5946",
+      "country": "美国",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "未披露",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本范围",
+          "text": "与后来的复刻或新世代身体分开；型号档案未确认本款全高与主体材料。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://service.mattel.com/us/productDetail.aspx?prodno=N5946&siteid=27",
+          "title": "Monster High G1 · Draculaura / N5946",
+          "kind": "官方产品页",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "发售：2010年",
+        "sourceUrl": "https://service.mattel.com/us/productDetail.aspx?prodno=N5946&siteid=27",
+        "note": ""
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": true,
+        "note": "官方型号档案列明 2011 年停售；只针对 N5946。二手或旧库存仍可能流通。"
+      }
+    },
+    {
+      "id": "mattel-history-n5947",
+      "name": "Monster High G1 · Clawdeen Wolf（N5947）",
+      "brand": "Mattel",
+      "original": "Monster High G1 · Clawdeen Wolf / N5947",
+      "country": "美国",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "未披露",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本范围",
+          "text": "与后来的复刻或新世代身体分开；型号档案未确认本款全高与主体材料。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://service.mattel.com/us/productDetail.aspx?prodno=N5947&siteid=27",
+          "title": "Monster High G1 · Clawdeen Wolf / N5947",
+          "kind": "官方产品页",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "发售：2010年",
+        "sourceUrl": "https://service.mattel.com/us/productDetail.aspx?prodno=N5947&siteid=27",
+        "note": ""
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": true,
+        "note": "官方型号档案列明 2011 年停售；只针对 N5947。二手或旧库存仍可能流通。"
+      }
+    },
+    {
+      "id": "mattel-history-bbd52",
+      "name": "Ever After High · Apple White（BBD52）",
+      "brand": "Mattel",
+      "original": "Ever After High · Apple White / BBD52",
+      "country": "美国",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "未披露",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本范围",
+          "text": "与后来的复刻或新世代身体分开；型号档案未确认本款全高与主体材料。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://service.mattel.com/us/productDetail.aspx?prodno=BBD52&siteid=27",
+          "title": "Ever After High · Apple White / BBD52",
+          "kind": "官方产品页",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "发售：2013年",
+        "sourceUrl": "https://service.mattel.com/us/productDetail.aspx?prodno=BBD52&siteid=27",
+        "note": ""
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "2013 年旧版本记录；现有官方档案没有确认整条 Ever After High 产品线的停产年份。二手或旧库存仍可能流通。"
+      }
+    },
+    {
+      "id": "mattel-history-bbd42",
+      "name": "Ever After High · Raven Queen（BBD42）",
+      "brand": "Mattel",
+      "original": "Ever After High · Raven Queen / BBD42",
+      "country": "美国",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "未披露",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本范围",
+          "text": "与后来的复刻或新世代身体分开；型号档案未确认本款全高与主体材料。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://service.mattel.com/us/productDetail.aspx?prodno=BBD42&siteid=27",
+          "title": "Ever After High · Raven Queen / BBD42",
+          "kind": "官方产品页",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "发售：2013年",
+        "sourceUrl": "https://service.mattel.com/us/productDetail.aspx?prodno=BBD42&siteid=27",
+        "note": ""
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "2013 年旧版本记录；现有官方档案没有确认整条 Ever After High 产品线的停产年份。二手或旧库存仍可能流通。"
+      }
+    },
+    {
+      "id": "mattel-history-hhk51",
+      "name": "Monster High G3 · Draculaura（HHK51）",
+      "brand": "Mattel",
+      "original": "Monster High G3 · Draculaura / HHK51",
+      "country": "美国",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "未披露",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本范围",
+          "text": "与后来的复刻或新世代身体分开；型号档案未确认本款全高与主体材料。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://service.mattel.com/us/productDetail.aspx?prodno=HHK51&siteid=27",
+          "title": "Monster High G3 · Draculaura / HHK51",
+          "kind": "官方产品页",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "发售：2022年",
+        "sourceUrl": "https://service.mattel.com/us/productDetail.aspx?prodno=HHK51&siteid=27",
+        "note": ""
+      }
+    },
+    {
+      "id": "mattel-history-b3214",
+      "name": "My Scene · Barbie（Wave 3）（B3214）",
+      "brand": "Mattel",
+      "original": "My Scene · Barbie（Wave 3） / B3214",
+      "country": "美国",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "未披露",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本范围",
+          "text": "与后来的复刻或新世代身体分开；型号档案未确认本款全高与主体材料。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://service.mattel.com/us/productDetail.aspx?prodno=B3214&siteid=27",
+          "title": "My Scene · Barbie（Wave 3） / B3214",
+          "kind": "官方产品页",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "发售：2003年",
+        "sourceUrl": "https://service.mattel.com/us/productDetail.aspx?prodno=B3214&siteid=27",
+        "note": ""
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": true,
+        "note": "官方型号档案列明 2009 年停售；只针对 B3214。二手或旧库存仍可能流通。"
+      }
+    },
+    {
+      "id": "mattel-myscene-hyc17",
+      "name": "My Scene · Barbie（2024 复刻）",
+      "brand": "Mattel",
+      "original": "My Scene Barbie / HYC17",
+      "country": "美国",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "未披露",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "原版与复刻",
+          "text": "原系列于 2002 年登场，本条是 HYC17 新复刻：B2K 身体、原 My Scene Barbie 脸型、服装、支架与证明书。网页售罄不等于整条系列永久停产。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://creations.mattel.com/products/my-scene-barbie-doll-hyc17",
+          "title": "My Scene Barbie / HYC17",
+          "kind": "官方产品页",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "版本：2024年",
+        "sourceUrl": "https://creations.mattel.com/products/my-scene-barbie-doll-hyc17",
+        "note": "官方页面的该商品版权、销售窗口与复刻版本资料。"
+      }
+    },
+    {
+      "id": "groove-isul-yun",
+      "name": "Isul · Yun（I-945）",
+      "brand": "Groove",
+      "original": "Isul Yun / I-945",
+      "country": "日本",
+      "origin": "中国",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 295,
+      "heightBasis": "官方基础身体状态参考测量，非穿衣造型全高",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "约 295 mm",
+          "basis": "官方基础身体状态参考测量，非穿衣造型全高"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "换假发"
+        ],
+        "material": [
+          "HIPS",
+          "ABS",
+          "ATBC-PVC",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "尺寸与交付",
+          "text": "官方同时写约 11 英寸商品尺寸与 295 mm 基础身体参考测量；保留测量口径。附衣装、话筒和支架。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://jpgroove.com/products/yun",
+          "title": "Isul Yun / I-945",
+          "kind": "官方产品页",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有产品资料未确认本型号的发售年。"
+      }
+    },
+    {
+      "id": "groove-dal-alpin",
+      "name": "Dal · Alpin（D-163）",
+      "brand": "Groove",
+      "original": "Dal Alpin / D-163",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 228.6,
+      "heightBasis": "官方商品尺寸约 9 英寸换算；不是包装高度",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "约 228.6 mm",
+          "basis": "官方商品尺寸约 9 英寸换算；不是包装高度"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "HIPS",
+          "ABS",
+          "ATBC-PVC",
+          "布料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "系列与交付",
+          "text": "Dal 换装娃，附头饰、裙装、鞋与支架；独立于 Byul 和 Isul。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://jpgroove.com/products/alpin",
+          "title": "Dal Alpin / D-163",
+          "kind": "官方产品页",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有产品资料未确认本型号的发售年。"
+      }
+    },
+    {
+      "id": "groove-dal-cinnamoroll2012",
+      "name": "Dal · Cinnamoroll（2012 周年版）",
+      "brand": "Groove",
+      "original": "D-140 / Cinnamoroll DAL 10th Anniversary",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 263,
+      "heightBasis": "经销商商品描述全高",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "约 263 mm",
+          "basis": "经销商商品描述全高"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "ABS",
+          "POM",
+          "TPR",
+          "棉及其他材料"
+        ],
+        "role": [
+          "角色人形"
+        ]
+      },
+      "notes": [
+        {
+          "title": "历史版本",
+          "text": "Cinnamoroll 10 周年款；经销商列出 2012 年发售信息、服装与配件。库存状态不作为官方停产证明。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.1999.co.jp/10192111",
+          "title": "D-140 / Cinnamoroll DAL 10th Anniversary",
+          "kind": "日本经销商产品档案",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "发售：2012年8月",
+        "sourceUrl": "https://www.1999.co.jp/10192111",
+        "note": ""
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历年版本记录；未确认该型号持续生产。二手或旧库存仍可能流通。"
+      }
+    },
+    {
+      "id": "groove-jdoll-granvia2008",
+      "name": "J-Doll · Gran Via（2008）",
+      "brand": "Groove",
+      "original": "J-Doll Gran Via / X-126",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": 270,
+      "heightBasis": "经销商商品描述全高",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "约 270 mm",
+          "basis": "经销商商品描述全高"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱"
+        ],
+        "material": [
+          "ABS",
+          "棉及其他材料"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "旧系列",
+          "text": "以世界街道为造型主题的 J-Doll；本条为 X-126，附帽、包与支架。旧档案不用于证明整体系列停售时间。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.1999.co.jp/10067838",
+          "title": "J-Doll Gran Via / X-126",
+          "kind": "日本经销商产品档案",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "发售：2008年5月",
+        "sourceUrl": "https://www.1999.co.jp/10067838",
+        "note": ""
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历年版本记录；未确认该型号持续生产。二手或旧库存仍可能流通。"
+      }
+    },
+    {
+      "id": "junplanning-namu-wolf2004",
+      "name": "Namu · Wolf（2004）",
+      "brand": "Jun Planning",
+      "original": "Namu Wolf / F-903",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "按所列具体型号与交付版本记录。",
+      "icon": "human",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "未披露",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "交付未说明"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "旧系列来源",
+          "text": "Namu 是早期 Pullip 家族男娃。玩家型号表记录 Wolf 的年份、品番和原商品图；结构、材料与尺寸仍保留未核实。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://pullipsandjunk.com/pullips-company/namu/namu-release-list/",
+          "title": "Namu Wolf / F-903",
+          "kind": "玩家历史型号档案",
+          "supports": "本型号、交付组成及明确列出的规格；未披露项保留。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "发售：2004年10月",
+        "sourceUrl": "https://pullipsandjunk.com/pullips-company/namu/namu-release-list/",
+        "note": "玩家整理的历年型号表；尚缺原厂商品专页。"
+      },
+      "lifecycle": {
+        "historical": true,
+        "discontinued": false,
+        "note": "历年版本记录；未确认该型号持续生产。二手或旧库存仍可能流通。"
+      }
     }
   ],
   "resources": [
@@ -51742,9 +58888,10 @@ window.TOY_COMPARE_DATA = {
     "官方产品页优先；经销商、社区、系列说明明确标注来源范围。",
     "跨品牌适配必须保留对象和限制；展会关联需产品对应证据。",
     "前端的图形是结构示意，不是产品照片。",
-    "大类与数量只在资料层统计，前端不展示大类统计卡片。"
+    "大类与数量只在资料层统计，前端不展示大类统计卡片。",
+    "年代优先采用具体版本的官方发售／受注年月；仅有版本年时注明口径，未知写年代待核实。历史型号不等于停产，停售只针对有明确证据的具体版本；二手与旧库存可能继续流通。"
   ],
-  "coverage": "共 659 条具体商品／身体／配套记录；持续按具体型号补充，不声称涵盖全部厂商、历史产品或完整展会目录。",
+  "coverage": "共 798 条具体商品／身体／配套记录；持续按具体型号补充，包含历史版本，不声称涵盖全部厂商或历年产品。",
   "previousCheckDate": "2026-10-05",
   "checkDates": {
     "azone-body-pfl103-wht": "2026-10-06",
@@ -52415,6 +59562,58 @@ window.TOY_COMPARE_DATA = {
     "literature-socality": "2026-10-06",
     "literature-mazinger1974": "2026-10-06",
     "literature-sdcs-rx78clear": "2026-10-06",
-    "literature-rement-puchikitchen": "2026-10-06"
+    "literature-rement-puchikitchen": "2026-10-06",
+    "volks-history-msd-mika2002": "2026-10-06",
+    "volks-history-sdc-kaede2004": "2026-10-06",
+    "volks-history-sdc-kurt2006": "2026-10-06",
+    "volks-history-sd-shinku2005": "2026-10-06",
+    "volks-history-sd13-isao2004": "2026-10-06",
+    "volks-history-sd13-williams2006": "2026-10-06",
+    "volks-history-sdgr-okita2010": "2026-10-06",
+    "volks-history-sdgr-belldandy2013": "2026-10-06",
+    "volks-history-sd16-olivia2006": "2026-10-06",
+    "volks-history-sd16-yukinojo2005": "2026-10-06",
+    "volks-history-sd17-reisner2007": "2026-10-06",
+    "volks-history-sdgou-yukinojo2012": "2026-10-06",
+    "volks-history-dearsd-anna2021": "2026-10-06",
+    "azone-line-kikipop2015": "2026-10-06",
+    "azone-line-alvastaria-torte2026": "2026-10-06",
+    "azone-line-blackraven-lilia2025": "2026-10-06",
+    "azone-line-sahra-yukata2026": "2026-10-06",
+    "petworks-line-odeco022": "2026-10-06",
+    "petworks-line-nikki025": "2026-10-06",
+    "petworks-line-odette004": "2026-10-06",
+    "petworks-line-usaggie041": "2026-10-06",
+    "petworks-line-jossien18": "2026-10-06",
+    "petworks-line-minijossien02": "2026-10-06",
+    "alchemic-lusis-painted": "2026-10-06",
+    "alchemic-sist-kit": "2026-10-06",
+    "alchemic-lbi-painted": "2026-10-06",
+    "alchemic-chibi-roron": "2026-10-06",
+    "alchemic-sister-ange": "2026-10-06",
+    "soom-history-beryl2022": "2026-10-06",
+    "soom-history-heliot2022": "2026-10-06",
+    "soom-history-chalco2022": "2026-10-06",
+    "soom-history-onyx2011": "2026-10-06",
+    "integrity-history-fr-veronique": "2026-10-06",
+    "integrity-history-nuface-lilith": "2026-10-06",
+    "integrity-history-east59-victoire": "2026-10-06",
+    "integrity-body-21047": "2026-10-06",
+    "integrity-body-73033": "2026-10-06",
+    "integrity-body-88087": "2026-10-06",
+    "integrity-body-46040": "2026-10-06",
+    "integrity-body-85134": "2026-10-06",
+    "mattel-history-n5946": "2026-10-06",
+    "mattel-history-n5947": "2026-10-06",
+    "mattel-history-bbd52": "2026-10-06",
+    "mattel-history-bbd42": "2026-10-06",
+    "mattel-history-hhk51": "2026-10-06",
+    "mattel-history-b3214": "2026-10-06",
+    "mattel-myscene-hyc17": "2026-10-06",
+    "groove-isul-yun": "2026-10-06",
+    "groove-dal-alpin": "2026-10-06",
+    "groove-dal-cinnamoroll2012": "2026-10-06",
+    "groove-jdoll-granvia2008": "2026-10-06",
+    "junplanning-namu-wolf2004": "2026-10-06"
   }
 };

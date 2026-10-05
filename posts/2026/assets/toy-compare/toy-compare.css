@@ -5,6 +5,41 @@
 }
 
 /* All visual settings live here. The stylesheet only affects this post. */
+#toyCompare .tc-era {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 4px 7px;
+  margin-top: 5px;
+  color: var(--tc-muted);
+  font-size: 12px;
+  line-height: 1.4;
+}
+#toyCompare .tc-history {
+  padding: 1px 4px;
+  border: 1px solid var(--tc-line);
+  color: var(--tc-note-heading);
+  white-space: nowrap;
+}
+#toyCompare .tc-history-filter {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  color: var(--tc-muted);
+  font-size: 13px;
+  white-space: nowrap;
+}
+#toyCompare .tc-detail-era { margin-bottom: 14px; }
+#toyCompare .tc-detail-era p {
+  margin: 7px 0 0;
+  color: var(--tc-muted);
+  font-size: 13px;
+  line-height: 1.6;
+}
+@media (max-width: 480px) {
+  #toyCompare .tc-tools { flex-wrap: wrap; }
+  #toyCompare .tc-search { flex-basis: 100%; }
+}
 #toyCompare {
   --tc-text: #e3e3e3;
   --tc-muted: #929292;
@@ -134,6 +169,7 @@
 }
 #toyCompare .tc-tools {
   display: flex;
+  gap: 12px;
   margin-bottom: 14px;
 }
 #toyCompare .tc-search {

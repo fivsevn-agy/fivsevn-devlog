@@ -41,10 +41,11 @@ updated: 2026-10-06
       ><input
         id="tc-search"
         type="search"
-        aria-label="搜索产品、厂商、作者或标签"
-        placeholder="搜索产品、厂商、作者或标签…"
+        aria-label="搜索产品、厂商、作者、年代或标签"
+        placeholder="搜索产品、厂商、年代或标签…"
         autocomplete="off"
     /></label>
+    <label class="tc-history-filter"><input id="tc-history-only" type="checkbox" />仅看历史型号</label>
   </div>
   <div
     id="tc-brands"
@@ -81,6 +82,9 @@ updated: 2026-10-06
       <div>
         <p class="tc-muted">
           以具体型号和交付版本记录。厂商标称比例、实际高度、头身比各自保留；“未披露”不等于“没有”。跨品牌适配需有具体对象与限制。
+        </p>
+        <p class="tc-meta">
+          年代按具体版本的发售、受注或生产年份记录；“年代待核实”表示尚缺可靠年份。“历史型号”不等于停产；“已停产”只用于官方明确停售的具体版本。二手与旧库存仍可能流通，复刻另记。
         </p>
         <p class="tc-meta">
           本版整理：<span id="tc-date"></span
