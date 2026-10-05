@@ -40,7 +40,7 @@ updated: 2026-10-06
 
 检索以非中文文献为限，重点补查日本研究，同时纳入相关英文及韩文文献。资料来自学术期刊、学会会议资料、大学机构仓储、CiNii Research、日本国立国会图书馆和韩国学术期刊数据库 KCI。这是一份围绕具体问题整理的文献调查，不是对所有语种、所有数据库的穷尽检索。
 
-每篇依次列出关键词、内容、涉及产品和文献引用。关键词是便于阅读的中文概括，不等同于作者原有的关键词；文献题名保留原文，采用作者—年份的引用格式。完整来源网址集中列在文末。只能核对摘要的文章，在相应条目中注明；不会根据常见品牌补写文献没有交代的样本。
+每篇依次列出关键词、内容、涉及产品和文献引用。关键词是便于阅读的中文概括，不等同于作者原有的关键词；文献题名保留原文，采用作者—年份的引用格式。完整来源网址分别列在对应文献的引用下方。只能核对摘要的文章，在相应条目中注明；不会根据常见品牌补写文献没有交代的样本。
 
 ## 1. 手办与玩偶的区别和联系，已有直接研究
 
@@ -64,6 +64,12 @@ Jenny、Super Action Jenny、《侍魂》娜可露露角色玩偶、《魔法骑
 
 中川浩一、山田剣士郎（2017）。美少女フィギュア・美少女ドールの差異と進路。*倉敷芸術科学大学紀要，22*，23–30。
 
+**来源网站**
+
+- <https://kusa.repo.nii.ac.jp/records/296>
+- <https://kusa.repo.nii.ac.jp/record/296/files/kk201722023030.pdf>
+- <https://cir.nii.ac.jp/crid/1050564287947297920>
+
 ## 2. 玩家对类别的认同，与实际使用未必一致
 
 **关键词：1/6人形｜头部替换｜服装制作｜玩家认同**
@@ -86,6 +92,12 @@ G.I. Joe 与 Barbie 是文章题名和讨论中的对照对象；具体改造案
 
 Godwin, V. (2015). G.I. Joe vs. Barbie: Anti-fandom, fashion, dolls, and one-sixth scale action figures. *The Journal of Fandom Studies, 3*(2), 119–133. <https://doi.org/10.1386/jfs.3.2.119_1>
 
+**来源网站**
+
+- <https://doi.org/10.1386/jfs.3.2.119_1>
+- <https://intellectdiscover.com/content/journals/10.1386/jfs.3.2.119_1>
+- <https://www.researchgate.net/publication/279459181_GI_Joe_vs_Barbie_Anti-fandom_fashion_dolls_and_one-sixth_scale_action_figures>
+
 ## 3. 不同来源的玩具，可以进入同一个场景
 
 **关键词：成人玩法｜混合场景｜玩具摄影｜故事创作**
@@ -105,6 +117,10 @@ Blythe、Barbie、Ken，以及 Re-Ment 微缩配件、玩偶家具和玩家制�
 **文献引用**
 
 Heljakka, K., & Harviainen, J. T. (2019). From displays and dioramas to doll dramas: Adult world building and world playing with toys. *American Journal of Play, 11*(3), 351–378.
+
+**来源网站**
+
+- <https://www.museumofplay.org/app/uploads/2022/01/11-3-Article-3.pdf>
 
 ## 4. 模型改造可以同时改变材料、场景和故事
 
@@ -126,6 +142,11 @@ Aurora 的科学怪人、德古拉、狼人和木乃伊模型，以及后来的�
 
 Rehak, B. (2012). Materializing monsters: Aurora models, garage kits and the object practices of horror fandom. *The Journal of Fandom Studies, 1*(1), 27–45. <https://doi.org/10.1386/jfs.1.1.27_1>
 
+**来源网站**
+
+- <https://doi.org/10.1386/jfs.1.1.27_1>
+- <https://www.academia.edu/3750995/Materializing_Monsters_Aurora_Models_Garage_Kits_and_the_Object_Practices_of_Horror_Fandom>
+
 ## 5. 高达模型吸收了军事模型的制作方法
 
 **关键词：模型杂志｜旧化标识｜场景制作｜玩家改造**
@@ -145,6 +166,11 @@ Rehak, B. (2012). Materializing monsters: Aurora models, garage kits and the obj
 **文献引用**
 
 川村清志（2011）。ガンプラ、我らが世代のフェティシズム。*比較文化論叢，26*，48(45)–30(63)。
+
+**来源网站**
+
+- <https://sapporo-u.repo.nii.ac.jp/records/6305>
+- <https://sapporo-u.repo.nii.ac.jp/record/6305/files/H-26-4.pdf>
 
 ## 6. 跨杂志的资料使用，参与了高达模型文化的形成
 
@@ -166,6 +192,11 @@ Lee Seok 的2026年研究，考察了1980年代高达模型的改造活动和杂
 
 이석（2026）。1980년대 건담 프라모델의 팬덤 문화에 관한 고찰－개조 문화와 잡지 미디어에 주목하여－。*日本學，68*，43–66。<https://doi.org/10.21442/djs.2026.68.03>
 
+**来源网站**
+
+- <https://doi.org/10.21442/djs.2026.68.03>
+- <https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003330456>
+
 ## 7. 模型产品也会扩展角色与作品设定
 
 **关键词：高达模型｜设定扩展｜SD高达｜角色再设计**
@@ -185,6 +216,11 @@ MSV、SD 高达模型、Beargguy，以及实体尺寸高达立像。小说、漫
 **文献引用**
 
 Kinoshita, S. (2024). Gundam and the Japanese media mix: Novelizations, model kits and statues. *The Journal of Anime and Manga Studies, 5*, 140–190. <https://doi.org/10.21900/j.jams.v5.1584>
+
+**来源网站**
+
+- <https://doi.org/10.21900/j.jams.v5.1584>
+- <https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546>
 
 ## 8. 艺术人形与换装、服装及商品制作已有联系
 
@@ -206,6 +242,12 @@ Kinoshita, S. (2024). Gundam and the Japanese media mix: Novelizations, model ki
 
 田中圭子（2008）。日本における球体関節人形の系譜。*社会科学，80*，43–58。<https://doi.org/10.14988/pa.2017.0000011352>
 
+**来源网站**
+
+- <https://doi.org/10.14988/pa.2017.0000011352>
+- <https://doshisha.repo.nii.ac.jp/records/20186>
+- <https://doshisha.repo.nii.ac.jp/record/20186/files/007000800003.pdf>
+
 ## 9. 同一种身体造型，可以承载不同作者的设计
 
 **关键词：设计师玩具｜共同造型｜表面设计｜角色故事**
@@ -225,6 +267,11 @@ Qee、Dunny，以及 Gary Baseman、Tim Biskup、Jeremyville 等创作者的设�
 **文献引用**
 
 Steinberg, M. (2010). A vinyl platform for dissent: Designer toys and character merchandising. *Journal of Visual Culture, 9*(2), 209–228. <https://doi.org/10.1177/1470412910372760>
+
+**来源网站**
+
+- <https://doi.org/10.1177/1470412910372760>
+- <https://www.researchgate.net/publication/258199546_A_Vinyl_Platform_for_Dissent_Designer_Toys_and_Character_Merchandising>
 
 ## 10. 文学和插画中的角色，会在人形中获得新的表达
 
@@ -246,6 +293,12 @@ Steinberg, M. (2010). A vinyl platform for dissent: Designer toys and character 
 
 市川純（2025）。日本の球体関節人形におけるアリス表象。*日本体育大学紀要，54*，1071–1083。<https://doi.org/10.69204/bnssu.54.1071>
 
+**来源网站**
+
+- <https://doi.org/10.69204/bnssu.54.1071>
+- <https://nittaidai.repo.nii.ac.jp/records/2000912>
+- <https://nittaidai.repo.nii.ac.jp/record/2000912/files/BNSSU-54-1071-1083.pdf>
+
 ## 11. 玩家改造与厂商定制之间，也会发生联系
 
 **关键词：玩家改造｜厂商定制｜批量制作｜个人表达**
@@ -265,6 +318,11 @@ Barbie，包括 Holiday Barbie 2004；1/6可动人形及相关服装、配件。
 **文献引用**
 
 Godwin, V. L. (2018). Customizations, collections and corporations: Mass production and self-expression. *The Journal of Fandom Studies, 6*(3), 211–224. <https://doi.org/10.1386/jfs.6.3.211_1>
+
+**来源网站**
+
+- <https://doi.org/10.1386/jfs.6.3.211_1>
+- <https://www.researchgate.net/publication/331041275_Customizations_collections_and_corporations_Mass_production_and_self-expression>
 
 ## 12. 喜欢同一作品，未必参加同一种玩具活动
 
@@ -286,6 +344,11 @@ Kenner《星球大战》可动人形，包括波巴·费特等角色；相关资
 
 Keidl, P. D. (2018). Between textuality and materiality: Fandom and the mediation of action figures. *Film Criticism, 42*(2). <https://doi.org/10.3998/fc.13761232.0042.207>
 
+**来源网站**
+
+- <https://doi.org/10.3998/fc.13761232.0042.207>
+- <https://people.southwestern.edu/~bednarb/vmc/articles/keidl.pdf>
+
 ## 13. 少女拼装模型已有跨系列的外观与设定比较
 
 **关键词：少女拼装模型｜发型配色｜角色设定｜创作自由度**
@@ -305,6 +368,12 @@ Keidl, P. D. (2018). Between textuality and materiality: Fandom and the mediatio
 **文献引用**
 
 今野貴斗、松吉俊（2024）。8企業におけるガールズプラモデルの設定と外見の分析。*画像電子学会第308回研究会講演予稿*，331–334。<https://doi.org/10.11371/wiieej.23.04.0_331>
+
+**来源网站**
+
+- <https://doi.org/10.11371/wiieej.23.04.0_331>
+- <https://www.jstage.jst.go.jp/article/wiieej/23.04/0/23.04_331/_article/-char/ja>
+- <https://www.ite.or.jp/ken/paper/20240305gAMo/>
 
 ## 14. BJD 产品比较已有尺寸、比例和部件方面的调查
 
@@ -326,6 +395,11 @@ Keidl, P. D. (2018). Between textuality and materiality: Fandom and the mediatio
 
 전미화、장정아（2021）。여성 구체관절인형 생산실태 분석。*복식문화연구，29*(6)，779–794。<https://doi.org/10.29049/rjcc.2021.29.6.779>
 
+**来源网站**
+
+- <https://doi.org/10.29049/rjcc.2021.29.6.779>
+- <https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002799539>
+
 ## 15. 不同类别的人形，可以采用共同的造型比较方法
 
 **关键词：莉卡｜脸部造型｜跨类别比较｜形状测量**
@@ -345,6 +419,12 @@ Licca（莉卡）玩偶、日本人形和动漫角色手办。文中没有明确
 **文献引用**
 
 山田浩子、原田利宣（2004）。キャラクターデザイン支援システムのための知識ベース構築。*第18回人工知能学会全国大会論文集*，発表番号1E3-03。<https://doi.org/10.11517/pjsai.JSAI04.0.47.0>
+
+**来源网站**
+
+- <https://doi.org/10.11517/pjsai.JSAI04.0.47.0>
+- <https://www.jstage.jst.go.jp/article/pjsai/JSAI04/0/JSAI04_0_47/_article/-char/ja/>
+- <https://www.jstage.jst.go.jp/article/pjsai/JSAI04/0/JSAI04_0_47/_pdf/-char/ja>
 
 ## 16. 比较模玩，还需要考虑材料、触感和记忆
 
@@ -366,6 +446,12 @@ Licca（莉卡）玩偶、日本人形和动漫角色手办。文中没有明确
 
 松井広志（2013）。ポピュラーカルチャーにおけるモノ：記号・物質・記憶。*社会学評論，63*(4)，503–518。<https://doi.org/10.4057/jsr.63.503>
 
+**来源网站**
+
+- <https://doi.org/10.4057/jsr.63.503>
+- <https://www.jstage.jst.go.jp/article/jsr/63/4/63_503/_article/-char/ja/>
+- <https://www.jstage.jst.go.jp/article/jsr/63/4/63_503/_pdf/-char/ja>
+
 ## 已有研究说明了什么
 
 这些文献已经讨论了几种不同的联系：手办原型制作进入角色玩偶，玩偶头部被用于可动人形改造，军事模型的方法进入高达模型，不同玩具进入共同的摄影场景，以及文学和插画形象进入人形创作。共同造型、厂商定制和玩家改造，也都有相应研究。
@@ -378,96 +464,6 @@ Licca（莉卡）玩偶、日本人形和动漫角色手办。文中没有明确
 
 已有的“人形玩具比照”页面，可用于逐项整理产品信息、核对来源和发现需要继续调查的差异。它目前的用途是支持熟悉和比较具体产品，不能当作具有市场代表性的抽样调查。本文只整理先行研究，不在这里展开下一篇的产品互通分析。
 
-## 来源网站
-
-以下列出各条目使用的来源页面及可公开阅读的正文地址。网址完整显示，可直接点击；出版页面或 DOI 地址并不保证正文免费开放。
-
-### 1. 中川浩一、山田剣士郎（2017）
-
-- <https://kusa.repo.nii.ac.jp/records/296>
-- <https://kusa.repo.nii.ac.jp/record/296/files/kk201722023030.pdf>
-- <https://cir.nii.ac.jp/crid/1050564287947297920>
-
-### 2. Godwin（2015）
-
-- <https://doi.org/10.1386/jfs.3.2.119_1>
-- <https://intellectdiscover.com/content/journals/10.1386/jfs.3.2.119_1>
-- <https://www.researchgate.net/publication/279459181_GI_Joe_vs_Barbie_Anti-fandom_fashion_dolls_and_one-sixth_scale_action_figures>
-
-### 3. Heljakka、Harviainen（2019）
-
-- <https://www.museumofplay.org/app/uploads/2022/01/11-3-Article-3.pdf>
-
-### 4. Rehak（2012）
-
-- <https://doi.org/10.1386/jfs.1.1.27_1>
-- <https://www.academia.edu/3750995/Materializing_Monsters_Aurora_Models_Garage_Kits_and_the_Object_Practices_of_Horror_Fandom>
-
-### 5. 川村清志（2011）
-
-- <https://sapporo-u.repo.nii.ac.jp/records/6305>
-- <https://sapporo-u.repo.nii.ac.jp/record/6305/files/H-26-4.pdf>
-
-### 6. Lee Seok（2026）
-
-- <https://doi.org/10.21442/djs.2026.68.03>
-- <https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003330456>
-
-### 7. Kinoshita（2024）
-
-- <https://doi.org/10.21900/j.jams.v5.1584>
-- <https://iopn.library.illinois.edu/journals/jams/article/download/1584/1468/6546>
-
-### 8. 田中圭子（2008）
-
-- <https://doi.org/10.14988/pa.2017.0000011352>
-- <https://doshisha.repo.nii.ac.jp/records/20186>
-- <https://doshisha.repo.nii.ac.jp/record/20186/files/007000800003.pdf>
-
-### 9. Steinberg（2010）
-
-- <https://doi.org/10.1177/1470412910372760>
-- <https://www.researchgate.net/publication/258199546_A_Vinyl_Platform_for_Dissent_Designer_Toys_and_Character_Merchandising>
-
-### 10. 市川純（2025）
-
-- <https://doi.org/10.69204/bnssu.54.1071>
-- <https://nittaidai.repo.nii.ac.jp/records/2000912>
-- <https://nittaidai.repo.nii.ac.jp/record/2000912/files/BNSSU-54-1071-1083.pdf>
-
-### 11. Godwin（2018）
-
-- <https://doi.org/10.1386/jfs.6.3.211_1>
-- <https://www.researchgate.net/publication/331041275_Customizations_collections_and_corporations_Mass_production_and_self-expression>
-
-### 12. Keidl（2018）
-
-- <https://doi.org/10.3998/fc.13761232.0042.207>
-- <https://people.southwestern.edu/~bednarb/vmc/articles/keidl.pdf>
-
-### 13. 今野貴斗、松吉俊（2024）
-
-- <https://doi.org/10.11371/wiieej.23.04.0_331>
-- <https://www.jstage.jst.go.jp/article/wiieej/23.04/0/23.04_331/_article/-char/ja>
-- <https://www.ite.or.jp/ken/paper/20240305gAMo/>
-
-### 14. 전미화、장정아（2021）
-
-- <https://doi.org/10.29049/rjcc.2021.29.6.779>
-- <https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002799539>
-
-### 15. 山田浩子、原田利宣（2004）
-
-- <https://doi.org/10.11517/pjsai.JSAI04.0.47.0>
-- <https://www.jstage.jst.go.jp/article/pjsai/JSAI04/0/JSAI04_0_47/_article/-char/ja/>
-- <https://www.jstage.jst.go.jp/article/pjsai/JSAI04/0/JSAI04_0_47/_pdf/-char/ja>
-
-### 16. 松井広志（2013）
-
-- <https://doi.org/10.4057/jsr.63.503>
-- <https://www.jstage.jst.go.jp/article/jsr/63/4/63_503/_article/-char/ja/>
-- <https://www.jstage.jst.go.jp/article/jsr/63/4/63_503/_pdf/-char/ja>
-
-### 相关产品资料页
+## 相关产品资料页
 
 - <https://devlog.fivsevn.com/posts/2026/posts-toy-compare.html>
