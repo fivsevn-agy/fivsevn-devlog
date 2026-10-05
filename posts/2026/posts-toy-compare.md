@@ -125,7 +125,7 @@ updated: 2026-10-06
     <div class="tc-dialog-head">
       <div>
         <h2 id="tc-compare-title">产品对比</h2>
-        <small>逐件向下查看；详情中保留解释与来源。</small>
+        <small>六类横向比照，产品向下排列。</small>
       </div>
       <button
         class="tc-close"
@@ -143,7 +143,7 @@ updated: 2026-10-06
         id="tc-compare-scroll"
         class="tc-compare-scroll"
         tabindex="0"
-        aria-label="所选产品比照，向下阅读"
+        aria-label="产品比照表，六类横向排列，产品向下阅读"
       >
         <div id="tc-compare" class="tc-compare"></div>
       </div>

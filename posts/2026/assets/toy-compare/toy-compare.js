@@ -328,11 +328,14 @@
     openDialog("tc-detail", fromCompare ? $("tc-compare-open") : null);
   }
   function compare() {
-    const ps = [...selected].map((id) => byId.get(id));
+    const rows = [...selected].map((id) => {
+      const product = byId.get(id);
+      return { product, tags: allTags(product) };
+    });
     const visibleCats = cats.filter((c) => {
       if (!$("tc-diff").checked) return true;
-      const sets = ps.map((p) =>
-        allTags(p)
+      const sets = rows.map((row) =>
+        row.tags
           .filter((t) => t.cat === c.id)
           .map((t) => t.text)
           .sort(),
@@ -340,20 +343,31 @@
       return sets.some((ts) => JSON.stringify(ts) !== JSON.stringify(sets[0]));
     });
     $("tc-compare").innerHTML = visibleCats.length
-      ? ps
-          .map(
-            (p) =>
-              `<article class="tc-compare-product"><div class="tc-compare-product-head"><div class="tc-glyph" data-category="joint">${glyph(p)}</div><div><div class="tc-brand">${esc(p.brand)}</div><h3>${esc(p.name)}</h3></div><button data-view="${p.id}">详情与来源</button></div><div class="tc-facts">${visibleCats
-                .map((c) => {
-                  const ts = allTags(p).filter((t) => t.cat === c.id);
-                  return `<div class="tc-fact"><div class="tc-fact-label" data-category="${c.id}"><i class="tc-dot"></i>${esc(c.name)}</div><div><div class="tc-tags">${ts.length ? ts.map(chip).join("") : '<span class="tc-muted">未披露</span>'}</div>${c.id === "size" && p.heightMm ? `<div class="tc-size-line"><div class="tc-size-bar" style="height:${(p.heightMm / 1000) * 85}px"></div><span>${p.heightMm / 10} cm</span></div><p class="tc-meta">${esc(p.heightBasis)}</p>` : ""}</div></div>`;
-                })
-                .join("")}</div></article>`,
-          )
-          .join("")
+      ? `<table class="tc-compare-table" style="--tc-compare-columns:${visibleCats.length}">
+          <caption class="tc-sr-only">所选产品的分类标签比照</caption>
+          <colgroup><col class="tc-compare-name-col" /><col span="${visibleCats.length}" /></colgroup>
+          <thead><tr><th scope="col">产品</th>${visibleCats.map((c) => `<th scope="col">${esc(c.name)}</th>`).join("")}</tr></thead>
+          <tbody>${rows
+            .map(
+              ({ product: p, tags }) => `<tr>
+            <th scope="row"><div class="tc-compare-identity"><div class="tc-glyph">${glyph(p)}</div><div><span class="tc-brand">${esc(p.brand)}</span><h3 class="tc-compare-product-name">${esc(p.name)}</h3></div></div><button class="tc-compare-detail" data-view="${esc(p.id)}">详情与来源</button></th>
+            ${visibleCats
+              .map((c) => {
+                const ts = tags.filter((t) => t.cat === c.id);
+                const basis =
+                  c.id === "size" && p.heightMm
+                    ? `<p class="tc-compare-basis">${esc(p.heightBasis)}</p>`
+                    : "";
+                return `<td><div class="tc-tags">${ts.length ? ts.map(chip).join("") : '<span class="tc-muted">未披露</span>'}</div>${basis}</td>`;
+              })
+              .join("")}
+          </tr>`,
+            )
+            .join("")}</tbody>
+        </table>`
       : '<p class="tc-muted">这些类别的标签相同。取消“只看不同之处”可查看全部。</p>';
     $("tc-compare-note").textContent = visibleCats.length
-      ? "高度图按 100 cm 为同一基准绘制；各产品是否含头或底座，见图下口径。比例按厂商标注保留，不用于推算身高。"
+      ? "尺寸口径与适配限制见“详情与来源”；“未披露”不等于“没有”。"
       : "";
   }
   function refresh() {

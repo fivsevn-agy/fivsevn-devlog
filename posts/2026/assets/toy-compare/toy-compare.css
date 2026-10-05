@@ -32,6 +32,8 @@
   --tc-font-dialog: 20px;
   --tc-card-padding: 10px 14px;
   --tc-chip-padding: 5px 8px;
+  --tc-compare-name-width: 176px;
+  --tc-compare-tag-width: 120px;
   color: var(--tc-text) !important;
   font-family: ToyGamePixel, monospace !important;
   font-size: var(--tc-font-body) !important;
@@ -512,7 +514,7 @@
   text-align: left;
 }
 
-/* Dialogs and the vertical comparison share the same fact rows. */
+/* Product details and the comparison table. */
 #toyCompare dialog {
   color: var(--tc-text) !important;
   background: var(--tc-panel) !important;
@@ -596,7 +598,7 @@
   font-size: var(--tc-font-control) !important;
 }
 #toyCompare .tc-detail-actions button,
-#toyCompare .tc-compare-product-head button {
+#toyCompare .tc-compare-detail {
   min-height: 25px;
   padding: 2px 7px;
 }
@@ -639,58 +641,121 @@
   accent-color: var(--tc-muted);
 }
 #toyCompare .tc-compare-scroll {
-  overflow-x: hidden;
+  overflow: auto;
+  min-height: 0;
   overscroll-behavior: contain;
-}
-#toyCompare .tc-compare {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr);
-  gap: 16px;
-}
-#toyCompare .tc-compare-product {
-  padding: 12px 14px;
-  background: var(--tc-card) !important;
   box-shadow: var(--tc-layer-shadow);
 }
-#toyCompare .tc-compare-product-head {
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  margin-bottom: 13px;
-}
-#toyCompare .tc-compare-product-head > div:nth-child(2) {
-  flex: 1;
+#toyCompare .tc-compare {
   min-width: 0;
 }
-#toyCompare .tc-compare-product-head h3 {
+#toyCompare #tc-compare-dialog {
+  width: min(1120px, calc(100vw - 32px));
+  overflow: hidden;
+}
+#toyCompare #tc-compare-dialog[open] {
+  display: flex;
+  flex-direction: column;
+}
+#toyCompare #tc-compare-dialog .tc-dialog-head,
+#toyCompare #tc-compare-dialog .tc-diff-label,
+#toyCompare #tc-compare-note {
+  flex-shrink: 0;
+}
+#toyCompare #tc-compare-dialog .tc-dialog-body {
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+}
+#toyCompare .tc-compare-table {
+  display: table !important;
+  width: 100% !important;
+  min-width: calc(
+    var(--tc-compare-name-width) + var(--tc-compare-tag-width) *
+      var(--tc-compare-columns)
+  );
+  table-layout: fixed;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin: 0;
+  background: var(--tc-card) !important;
+  font-size: var(--tc-font-control) !important;
+}
+#toyCompare .tc-compare-name-col {
+  width: var(--tc-compare-name-width);
+}
+#toyCompare .tc-compare-table th,
+#toyCompare .tc-compare-table td {
+  padding: 10px 8px;
+  border: 0;
+  border-right: 1px solid var(--tc-line);
+  border-bottom: 1px solid var(--tc-line);
+  text-align: left;
+  vertical-align: top;
+  background: var(--tc-card) !important;
+  font-weight: 400;
+}
+#toyCompare .tc-compare-table thead th {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  background: var(--tc-label) !important;
+  color: var(--tc-text) !important;
+  white-space: nowrap;
+  font-size: var(--tc-font-caption) !important;
+}
+#toyCompare .tc-compare-table tr > th:first-child {
+  position: sticky;
+  left: 0;
+  z-index: 1;
+}
+#toyCompare .tc-compare-table thead th:first-child {
+  z-index: 3;
+}
+#toyCompare .tc-compare-identity {
+  display: flex;
+  align-items: flex-start;
+  gap: 7px;
+}
+#toyCompare .tc-compare-identity > div:last-child {
+  min-width: 0;
+}
+#toyCompare .tc-compare-identity .tc-glyph {
+  flex-shrink: 0;
+  width: 28px;
+  height: 34px;
+}
+#toyCompare .tc-compare-product-name {
+  margin: 6px 0 0 !important;
+  font-size: var(--tc-font-control) !important;
   overflow-wrap: anywhere;
 }
-#toyCompare .tc-compare-product-head button {
+#toyCompare .tc-compare-detail {
   font-size: var(--tc-font-caption) !important;
+  margin-top: 8px;
 }
-#toyCompare .tc-compare-product .tc-fact {
-  border: 0;
-  padding-bottom: 0;
+#toyCompare .tc-compare-table .tc-tags {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 5px;
 }
-#toyCompare .tc-compare-product .tc-meta {
-  margin-top: 5px;
+#toyCompare .tc-compare-table .tc-chip {
+  max-width: 100%;
+  padding: 4px 6px;
+  gap: 5px;
+  white-space: normal;
+  overflow-wrap: anywhere;
+  font-size: var(--tc-font-chip) !important;
+}
+#toyCompare .tc-compare-table .tc-chip svg {
+  flex-shrink: 0;
+  width: 12px;
+  height: 12px;
+}
+#toyCompare .tc-compare-basis {
+  margin: 7px 0 0 !important;
+  color: var(--tc-muted) !important;
   font-size: var(--tc-font-caption) !important;
-}
-#toyCompare .tc-size-line {
-  height: 90px;
-  display: flex;
-  align-items: end;
-  gap: 10px;
-  margin: 10px 0 5px;
-}
-#toyCompare .tc-size-bar {
-  width: 24px;
-  background: #bf746d !important;
-  box-shadow: 0 3px 0 #211816;
-}
-#toyCompare .tc-size-line span {
-  font-size: var(--tc-font-control) !important;
-  color: #e7c1ba;
 }
 
 @media (max-width: 760px) {
@@ -707,6 +772,7 @@
     --tc-font-dialog: 17px;
     --tc-card-padding: 10px;
     --tc-chip-padding: 4px;
+    --tc-compare-name-width: 136px;
     margin-top: 20px;
   }
   #toyCompare .tc-grid {
@@ -766,15 +832,8 @@
   #toyCompare .tc-detail-actions {
     flex-wrap: wrap;
   }
-  #toyCompare .tc-compare-product {
-    padding: 10px;
-  }
-  #toyCompare .tc-compare-product-head {
-    gap: 8px;
-    flex-wrap: wrap;
-  }
-  #toyCompare .tc-compare-product-head button {
-    margin-left: 44px;
+  #toyCompare #tc-compare-dialog {
+    width: calc(100vw - 16px);
   }
 }
 @media (prefers-reduced-motion: reduce) {
