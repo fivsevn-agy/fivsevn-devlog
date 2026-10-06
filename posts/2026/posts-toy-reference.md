@@ -27,7 +27,7 @@ created: 2026-10-05
 updated: 2026-10-07
 ---
 
-<link rel="stylesheet" href="{{ '/posts/2026/assets/toy-reference/toy-reference.css' | relative_url }}?v=20261007-reference" />
+<link rel="stylesheet" href="{{ '/posts/2026/assets/toy-reference/toy-reference.css' | relative_url }}?v=20261007-dialog-scroll" />
 <div id="toyReference">
   <header class="tr-header">
     <div><h2>玩具资料整理</h2><p class="tr-english-title" lang="en">Toy Reference</p></div>
@@ -165,4 +165,4 @@ updated: 2026-10-07
 </div>
 <script defer src="{{ '/posts/2026/assets/toy-reference/toy-data.js' | relative_url }}?v=20261007-reference"></script>
 <script defer src="{{ '/posts/2026/assets/toy-reference/toy-browse.js' | relative_url }}?v=20261007-reference"></script>
-<script defer src="{{ '/posts/2026/assets/toy-reference/toy-reference.js' | relative_url }}?v=20261007-reference"></script>
+<script defer src="{{ '/posts/2026/assets/toy-reference/toy-reference.js' | relative_url }}?v=20261007-dialog-scroll"></script>
