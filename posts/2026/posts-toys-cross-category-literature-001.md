@@ -9,8 +9,13 @@ topic: toys-cross-category-literature
 type: note
 status: active
 canonical: true
+canonical_url: https://devlog.fivsevn.com/posts/2026/posts-toys-cross-category-literature-001.html
+lang: zh-CN
 
 summary: >
+  整理二十一篇日文、英文和韩文文献，涉及玩具与模型的制作、改造、角色表现、使用场景与类别认知。
+  逐篇记录研究问题、材料、主要发现、涉及对象与阅读依据，并区分产品调查和类别形成的参考研究。
+description: >
   整理二十一篇日文、英文和韩文文献，涉及玩具与模型的制作、改造、角色表现、使用场景与类别认知。
   逐篇记录研究问题、材料、主要发现、涉及对象与阅读依据，并区分产品调查和类别形成的参考研究。
 
