@@ -1,5 +1,5 @@
 ---
-id: posts-toy-compare-001
+id: posts-toy-reference-001
 title: 玩具资料整理 · Toy Reference
 module: posts
 submodule: reference
@@ -19,7 +19,7 @@ confidence: 0.8
 visibility: public
 source_of_truth: devlog
 created: 2026-10-05
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 <link rel="stylesheet" href="{{ '/posts/2026/assets/toy-compare/toy-compare.css' | relative_url }}?v=20261006-layout" />
