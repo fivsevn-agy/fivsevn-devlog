@@ -44,7 +44,7 @@ updated: 2026-06-15
 #### > Directory
 
 <!-- AUTO-INDEX:POSTS_RECENT:START -->
-- 2026.10.06 [玩具与模型的跨类别流动①：文献整理](2026/posts-humanoid-toys-cross-category-literature-001.md)
+- 2026.10.06 [玩具与模型的跨类别流动①：文献整理](2026/posts-toys-cross-category-literature-001.md)
 
 - 2026.10.05 [玩具资料整理 · Toy Reference](2026/posts-toy-reference.md)
 
