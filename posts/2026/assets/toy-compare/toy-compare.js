@@ -11,17 +11,27 @@
     $("tc-empty-reset").hidden = true;
     $("tc-more").hidden = true;
     $("tc-search").disabled = true;
-    $("tc-json").disabled = true;
+    $("tc-type").disabled = true;
     return;
   }
   const PAGE_SIZE = 24;
   const checked = (p) =>
     db.checkDates?.[p.id] || db.previousCheckDate || db.date;
   const byId = new Map(db.products.map((p) => [p.id, p]));
-  const cats = db.categories,
+  const cats = db.categories.map((c) => ({
+      ...c,
+      name: c.id === "role" ? "对象／品类" : c.name,
+    })),
     products = db.products,
-    selected = new Set();
-  let activeBrand = "",
+    selected = new Set(),
+    activeTags = new Set(),
+    browse = window.TOY_COMPARE_BROWSE;
+  const types = browse?.types || [{ id: "human", name: "人形" }];
+  const memberships = new Map(products.map((p) => [
+    p.id, new Set(browse?.products[p.id] || ["human"]),
+  ]));
+  let activeType = "human",
+    activeBrand = "",
     visibleLimit = PAGE_SIZE,
     activeId = null,
     lastFocus;
@@ -189,13 +199,17 @@
       `<circle cx="24" cy="12" r="5"/><path d="M24 19v18M15 29l9-8 9 8M24 37l-7 14m7-14 7 14"${movable ? ' stroke-width="2.2" stroke-dasharray="5 3.5"' : ""}/>`,
     );
   }
+  function scaleLabel(value) {
+    const ratio = value?.match(/^(?:比例\s*)?(\d+(?:\.\d+)?)\s*[:：]\s*(\d+(?:\.\d+)?)$/);
+    return ratio ? `比例 ${ratio[1]}:${ratio[2]}` : value;
+  }
   function sizeTags(p) {
     if (p.sizeNA)
-      return [{ cat: "size", text: "人形尺寸不适用", variant: "unknown" }];
+      return [{ cat: "size", text: "尺寸不适用", variant: "unknown" }];
     return [
       {
         cat: "size",
-        text: p.scale || "比例未披露",
+        text: scaleLabel(p.scale) || "比例未披露",
         variant: p.scale ? "scale" : "unknown",
       },
       ...(p.dimensions.length
@@ -211,60 +225,79 @@
     return cats.flatMap((c) =>
       c.id === "size"
         ? sizeTags(p)
-        : p.tags[c.id].map((t) => ({ cat: c.id, text: t })),
+        : p.tags[c.id].map((t) => ({ cat: c.id, text: normalizedTag(c.id, t) })),
     );
   }
+  function normalizedTag(cat, text) {
+    const aliases = cat === "material" ? {
+      ABS树脂: "ABS", POM树脂: "POM", PS树脂: "PS",
+      塑料: "塑料（未细分）",
+    } : {};
+    return aliases[text] || text;
+  }
+  const tagKey = (t) => `${t.cat}:${t.text}`;
+  const productTags = new Map(products.map((p) => [p.id, allTags(p)]));
+  const productTagKeys = new Map(products.map((p) => [
+    p.id, new Set(productTags.get(p.id).map(tagKey)),
+  ]));
+  const searchable = new Map(products.map((p) => [p.id, [
+    p.name, p.brand, p.original, p.country, eraLabel(p), historyLabel(p),
+    ...(p.aliases || []), ...(p.credits || []).map((c) => c.name),
+    ...productTags.get(p.id).map((t) => t.text),
+    ...Object.values(p.tags).flat(),
+  ].join(" ").toLocaleLowerCase()]));
+  const vocabulary = new Map();
+  products.forEach((p) => {
+    productTags.get(p.id).forEach((t) => {
+      const key = tagKey(t);
+      if (!vocabulary.has(key)) vocabulary.set(key, { ...t, count: 0 });
+      vocabulary.get(key).count++;
+    });
+  });
+  const matchesType = (p) => activeType === "all" || memberships.get(p.id).has(activeType);
   function chip(t) {
     return `<span class="tc-chip${t.variant === "unknown" ? " tc-unknown" : ""}" data-category="${t.cat}"${t.variant === "scale" ? ' data-variant="scale"' : ""}>${icons[t.cat]}${esc(t.text)}</span>`;
   }
-  function matches(p) {
-    const q = $("tc-search").value.trim().toLocaleLowerCase(),
-      terms = q.split(/\s+/).filter(Boolean),
-      all = [
-        p.name,
-        p.brand,
-        p.original,
-        p.country,
-        eraLabel(p),
-        historyLabel(p),
-        ...(p.aliases || []),
-        ...(p.credits || []).map((c) => c.name),
-        ...allTags(p).map((t) => t.text),
-      ]
-        .join(" ")
-        .toLocaleLowerCase();
-    return (
-      terms.every((t) => all.includes(t)) &&
-      (!activeBrand || p.brand === activeBrand)
-    );
+  function matches(p, terms) {
+    return matchesType(p) && (!activeBrand || p.brand === activeBrand) &&
+      terms.every((t) => searchable.get(p.id).includes(t)) &&
+      [...activeTags].every((key) => productTagKeys.get(p.id).has(key));
   }
   function render() {
-    const shown = products.filter((p) => matches(p));
+    const terms = $("tc-search").value.trim().toLocaleLowerCase().split(/\s+/).filter(Boolean);
+    const shown = products.filter((p) => matches(p, terms));
     $("tc-count").textContent = `${shown.length} / ${products.length} 件产品`;
     $("tc-empty").hidden = shown.length > 0;
     renderBrands();
+    renderTagFilters();
+    const typeIsEmpty = !products.some(matchesType);
+    $("tc-empty").querySelector("h3").textContent = typeIsEmpty ? "这个类型尚待整理" : "没有匹配的产品";
+    $("tc-empty").querySelector("p").textContent = typeIsEmpty
+      ? "已预留分类位置，之后逐步补充。"
+      : "试试取消标签、切换厂商，或换一个关键词。";
     $("tc-more").hidden = shown.length <= visibleLimit;
     $("tc-more").textContent = "显示更多";
     $("tc-grid").innerHTML = shown
       .slice(0, visibleLimit)
       .map((p) => {
         const main = [
-          { cat: "joint", text: p.tags.joint[0] || "不适用" },
-          { cat: "delivery", text: p.tags.delivery[0] },
-          ...(p.tags.delivery.includes("计划商品")
-            ? [{ cat: "delivery", text: "计划商品" }]
-            : []),
-          ...(p.tags.role.includes("机械角色")
-            ? [{ cat: "role", text: "机械角色" }]
-            : []),
-          ...(p.scale
-            ? [{ cat: "size", text: p.scale, variant: "scale" }]
-            : []),
+          ...productTags.get(p.id).filter((t) => t.cat === "joint").slice(0, 1),
+          ...productTags.get(p.id).filter((t) => t.variant === "scale"),
           ...p.dimensions
             .slice(0, 1)
             .map((d) => ({ cat: "size", text: d.label, variant: "height" })),
+          ...productTags.get(p.id).filter((t) => t.cat === "delivery").slice(0, 1),
         ];
         if (p.tags.dress[0]) main.push({ cat: "dress", text: p.tags.dress[0] });
+        const material = productTags.get(p.id).find((t) => t.cat === "material" && !/未披露|未说明/.test(t.text));
+        if (material) main.push(material);
+        const role = productTags.get(p.id).find((t) => t.cat === "role");
+        if (role) main.push(role);
+        if (p.tags.delivery.includes("计划商品")) main.push({ cat: "delivery", text: "计划商品" });
+        activeTags.forEach((key) => {
+          const t = vocabulary.get(key);
+          if (!main.some((m) => tagKey(m) === key)) main.push(t);
+        });
         return `<article class="tc-card${selected.has(p.id) ? " tc-selected" : ""}"><div class="tc-card-head"><div class="tc-glyph" data-category="${p.icon === "kit" ? "delivery" : p.icon === "outfit" ? "dress" : "joint"}" aria-hidden="true">${glyph(p)}</div><div><div class="tc-brand">${esc(p.brand)}</div><button class="tc-name" data-view="${p.id}">${esc(p.name)}</button>${chronologyLine(p)}</div></div><div class="tc-card-tags">${main.map(chip).join("")}</div><div class="tc-card-actions"><button data-view="${p.id}"><span class="tc-action-arrow tc-site-triangle" aria-hidden="true"></span>详细</button><button data-select="${p.id}" aria-label="${selected.has(p.id) ? "移出" : "加入"}比照：${esc(p.name)}" aria-pressed="${selected.has(p.id)}"><span class="tc-action-arrow tc-action-plus" aria-hidden="true">${selected.has(p.id) ? "−" : "+"}</span>对比</button></div></article>`;
       })
       .join("");
@@ -410,11 +443,15 @@
   }
   function reset() {
     $("tc-search").value = "";
+    activeType = "all";
+    $("tc-type").value = "all";
     activeBrand = "";
+    activeTags.clear();
     refresh();
   }
-  const brands = [...new Set(products.map((p) => p.brand))].sort();
   function renderBrands() {
+    const brands = [...new Set(products.filter(matchesType).map((p) => p.brand))].sort();
+    $("tc-brands").hidden = brands.length === 0;
     $("tc-brands").innerHTML = ["", ...brands]
       .map(
         (b) =>
@@ -422,6 +459,27 @@
       )
       .join("");
   }
+  function filterChip(key, removable = false) {
+    const t = vocabulary.get(key);
+    return `<button class="tc-chip tc-tag-choice${t.variant === "unknown" ? " tc-unknown" : ""}" data-category="${t.cat}"${t.variant === "scale" ? ' data-variant="scale"' : ""} data-tag-filter="${esc(key)}" aria-pressed="${activeTags.has(key)}" aria-label="${removable ? "取消标签：" : "筛选标签："}${esc(t.text)}">${icons[t.cat]}${esc(t.text)}${removable ? '<span aria-hidden="true"> ×</span>' : ""}</button>`;
+  }
+  function renderTagFilters() {
+    const available = new Set(products.filter((p) => matchesType(p) && (!activeBrand || p.brand === activeBrand))
+      .flatMap((p) => [...productTagKeys.get(p.id)]));
+    activeTags.forEach((key) => available.add(key));
+    $("tc-tag-choices").innerHTML = cats.map((c) => {
+      const keys = [...available].filter((key) => vocabulary.get(key).cat === c.id)
+        .sort((a, b) => vocabulary.get(b).count - vocabulary.get(a).count || vocabulary.get(a).text.localeCompare(vocabulary.get(b).text, "zh-CN", { numeric: true }));
+      return keys.length ? `<div class="tc-tag-filter-group" role="group" aria-label="${esc(c.name)}">${keys.map((key) => filterChip(key)).join("")}</div>` : "";
+    }).join("");
+    $("tc-tag-filter").hidden = available.size === 0;
+    $("tc-tag-filter-count").textContent = activeTags.size ? ` (${activeTags.size})` : "";
+    $("tc-active-tags").innerHTML = [...activeTags].map((key) => filterChip(key, true)).join("");
+    $("tc-active-filters").hidden = !activeTags.size && !activeBrand && !$("tc-search").value.trim();
+  }
+  $("tc-type").innerHTML = [{ id: "all", name: "全部类型" }, ...types].map((t) =>
+    `<option value="${t.id}"${t.id === "human" ? " selected" : ""}>${esc(t.name)}${t.id !== "all" && !products.some((p) => memberships.get(p.id).has(t.id)) ? " · 待整理" : ""}</option>`
+  ).join("");
   $("tc-resources").innerHTML = [...new Set(db.resources.map((r) => r.group))]
     .map(
       (group) =>
@@ -441,19 +499,29 @@
           `<div><span class="tc-chip" data-category="${c.id}">${icons[c.id]}${esc(c.name)}</span><p>${esc(c.description)}</p></div>`,
       )
       .join("") +
+    '<p>厂商下方的“标签筛选”列出当前类型与厂商记录中用过的标签。点击选中，再点一次取消；多选标签需要同时满足，并可与类型、厂商和关键词组合筛选。选中的标签也会显示在产品卡片上。</p>' +
+    '<p>一级按对象大类浏览，二级保留厂商。同一条记录可以出现在多个大类中；大类是浏览入口，不替代产品的具体标签，也不重复建立产品记录。尚未整理的类型保留入口。</p>' +
+    '<p>对象、商品组成和通行品类分别理解：“机器人”“拟人动物”描述形象，“素体”“服装配套”描述组成，“BJD”“手办”“战棋模型”等名称用于检索。多个标签可以同时使用，不从称谓推定结构、材料或适配。</p>' +
+    '<p>组装方式与交付状态分别记录：插接、粘接等说明连接方法，“待拼装”说明收到时的状态。换件能力也不等于跨品牌通用。未披露、待核实和不适用分别保留；尚无资料支持的标签不补填。</p>' +
+    '<p>仅表记不同的同一比例（如“1:6”和“比例 1:6”）统一检索，近似比例与具体测量口径仍分别保留。ABS 与 ABS树脂、POM 与 POM树脂、PS 与 PS树脂分别统一检索；只写“塑料”的资料归入“塑料（未细分）”。来源原文和具体组成仍保留在记录与说明中。</p>' +
     "<p>卡片上的人形、骨架、机械、板件和衣服图形表示结构或商品组成，不是产品实物照片。</p>";
-  $("tc-raw").innerHTML = products
-    .map(
-      (p) =>
-        `<tr><td>${esc(p.brand)}</td><td>${esc(p.name)}${chronologyLine(p)}</td><td>${esc(p.tags.joint.join("、") || "不适用")}</td><td>${esc(p.sizeNA ? "不适用" : p.dimensions.map((d) => d.label + "（" + d.basis + "）").join("；") || "未披露")}</td><td>${sourceLink(primarySource(p), primarySource(p).kind)}</td></tr>`,
-    )
-    .join("");
   root.addEventListener("click", (e) => {
     const b = e.target.closest("button");
     if (!b) return;
     if (b.dataset.view) showDetail(b.dataset.view);
     if (b.dataset.select) toggle(b.dataset.select);
     if (b.dataset.close) closeDialog(b.dataset.close);
+    if (b.hasAttribute("data-tag-filter")) {
+      const key = b.dataset.tagFilter;
+      const fromChoices = $("tc-tag-choices").contains(b);
+      if (activeTags.has(key)) activeTags.delete(key);
+      else activeTags.add(key);
+      refresh();
+      const buttons = (fromChoices ? $("tc-tag-choices") : $("tc-active-tags")).querySelectorAll("button");
+      const next = [...buttons].find((x) => x.dataset.tagFilter === key)
+        || $("tc-tag-filter").querySelector("summary");
+      next.focus({ preventScroll: true });
+    }
     if (b.hasAttribute("data-brand")) {
       activeBrand = b.dataset.brand;
       refresh();
@@ -461,6 +529,18 @@
         .find((x) => x.dataset.brand === activeBrand)
         ?.focus({ preventScroll: true });
     }
+  });
+  $("tc-type").addEventListener("change", () => {
+    activeType = $("tc-type").value;
+    if (!products.some((p) => matchesType(p) && p.brand === activeBrand)) activeBrand = "";
+    const available = new Set(products.filter((p) => matchesType(p) && (!activeBrand || p.brand === activeBrand))
+      .flatMap((p) => [...productTagKeys.get(p.id)]));
+    activeTags.forEach((key) => { if (!available.has(key)) activeTags.delete(key); });
+    refresh();
+  });
+  $("tc-filter-reset").addEventListener("click", () => {
+    reset();
+    $("tc-search").focus({ preventScroll: true });
   });
   $("tc-search").addEventListener("input", refresh);
   $("tc-more").addEventListener("click", () => {
@@ -495,19 +575,6 @@
       e.preventDefault();
       closeDialog(d.id);
     });
-  });
-  $("tc-json").addEventListener("click", () => {
-    const u = URL.createObjectURL(
-      new Blob([JSON.stringify(db, null, 2)], { type: "application/json" }),
-    );
-    const a = document.createElement("a");
-    a.href = u;
-    a.download = "人形玩具比照-完整记录.json";
-    a.hidden = true;
-    root.append(a);
-    a.click();
-    a.remove();
-    setTimeout(() => URL.revokeObjectURL(u), 1000);
   });
   $("tc-date").textContent = db.date;
   render();
