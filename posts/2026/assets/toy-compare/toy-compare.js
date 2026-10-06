@@ -178,6 +178,10 @@
       return svg(
         '<rect x="9" y="9" width="30" height="42"/><path d="M24 9v42M9 36h30M17 9v8M28 36v6"/><circle cx="17" cy="21" r="4"/><path d="M28 17h6v13h-6zM15 42h5v4h-5"/>',
       );
+    if (p.icon === "machine")
+      return svg(
+        '<rect x="13" y="12" width="22" height="14" rx="2"/><circle cx="20" cy="19" r="2"/><path d="M28 17v4M24 26v5M12 32h24v12H12zM16 44v6m16-6v6M8 34v8m32-8v8"/>',
+      );
     const movable = p.tags.joint.some((t) =>
       /可动|拉筋|骨架|球体|球窝|关节/.test(t),
     );
@@ -249,6 +253,9 @@
           { cat: "delivery", text: p.tags.delivery[0] },
           ...(p.tags.delivery.includes("计划商品")
             ? [{ cat: "delivery", text: "计划商品" }]
+            : []),
+          ...(p.tags.role.includes("机械角色")
+            ? [{ cat: "role", text: "机械角色" }]
             : []),
           ...(p.scale
             ? [{ cat: "size", text: p.scale, variant: "scale" }]
@@ -434,7 +441,7 @@
           `<div><span class="tc-chip" data-category="${c.id}">${icons[c.id]}${esc(c.name)}</span><p>${esc(c.description)}</p></div>`,
       )
       .join("") +
-    "<p>卡片上的人形、骨架、板件和衣服图形表示结构或商品组成，不是产品实物照片。</p>";
+    "<p>卡片上的人形、骨架、机械、板件和衣服图形表示结构或商品组成，不是产品实物照片。</p>";
   $("tc-raw").innerHTML = products
     .map(
       (p) =>

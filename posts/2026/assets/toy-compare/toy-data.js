@@ -37,7 +37,7 @@ window.TOY_COMPARE_DATA = {
       "id": "role",
       "name": "对象类型",
       "color": "灰米色",
-      "description": "角色人形、原创人偶、素体、静态手办、战棋模型和服装配套可交叉标记，不作为互斥类别。"
+      "description": "角色人形、原创人偶、素体、静态手办、战棋模型和服装配套可交叉标记。相关机械角色与机器人另有对象标签，比例以原型设定为参照，不作人体换算。"
     }
   ],
   "products": [
@@ -107285,6 +107285,685 @@ window.TOY_COMPARE_DATA = {
         "Guilty Princess",
         "罪姬"
       ]
+    },
+    {
+      "id": "planet-ring-000008",
+      "name": "Castle-3 SUM019 VER.",
+      "brand": "星环重工",
+      "original": "Castle-3 SUM019 VER. · Pre-Painted",
+      "country": "中国",
+      "origin": "未披露",
+      "version": "按所列具体型号及交付版本记录。",
+      "icon": "machine",
+      "scale": "无固定比例",
+      "heightMm": null,
+      "heightBasis": "未披露",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "ABS",
+          "PVC",
+          "金属"
+        ],
+        "role": [
+          "机械角色",
+          "机器人"
+        ]
+      },
+      "notes": [
+        {
+          "title": "对象与结构",
+          "text": "作为与人形模玩相关的机械角色记录；可动范围按本型号公开资料核对，不从外形或品牌系列名称推定。"
+        },
+        {
+          "title": "交付版本",
+          "text": "官网明确列为涂装完成品；生产产地和具体可动范围尚未从文字规格确认。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.planet-ring.com/detail/000008",
+          "title": "Castle-3 SUM019 VER.",
+          "kind": "官方商品页",
+          "supports": "该具体版本的名称、交付、比例、材料及官网标注月份；网站档案月份不作为当前库存或实际出货证明。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "官网标注：2022年11月",
+        "sourceUrl": "https://www.planet-ring.com/detail/000008",
+        "note": "对应版本商品页的发售日期栏；官网新闻更新较早，未据此确认实际出货与当前销售状态。"
+      },
+      "lifecycle": {
+        "historical": false,
+        "discontinued": false,
+        "note": ""
+      },
+      "aliases": [
+        "Planet Ring",
+        "星環重工",
+        "合金重工",
+        "明日方舟",
+        "Castle-3 SUM019 VER."
+      ]
+    },
+    {
+      "id": "planet-ring-000009",
+      "name": "Lancet-2 海岸救援改装 VER.",
+      "brand": "星环重工",
+      "original": "Lancet-2 Shore Rescue Modification VER. · Pre-Painted",
+      "country": "中国",
+      "origin": "未披露",
+      "version": "按所列具体型号及交付版本记录。",
+      "icon": "machine",
+      "scale": "无固定比例",
+      "heightMm": null,
+      "heightBasis": "未披露",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "ABS",
+          "PVC",
+          "金属"
+        ],
+        "role": [
+          "机械角色",
+          "机器人"
+        ]
+      },
+      "notes": [
+        {
+          "title": "对象与结构",
+          "text": "作为与人形模玩相关的机械角色记录；可动范围按本型号公开资料核对，不从外形或品牌系列名称推定。"
+        },
+        {
+          "title": "交付版本",
+          "text": "官网明确列为涂装完成品；生产产地和具体可动范围尚未从文字规格确认。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.planet-ring.com/detail/000009",
+          "title": "Lancet-2 海岸救援改装 VER.",
+          "kind": "官方商品页",
+          "supports": "该具体版本的名称、交付、比例、材料及官网标注月份；网站档案月份不作为当前库存或实际出货证明。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "官网标注：2022年11月",
+        "sourceUrl": "https://www.planet-ring.com/detail/000009",
+        "note": "对应版本商品页的发售日期栏；官网新闻更新较早，未据此确认实际出货与当前销售状态。"
+      },
+      "lifecycle": {
+        "historical": false,
+        "discontinued": false,
+        "note": ""
+      },
+      "aliases": [
+        "Planet Ring",
+        "星環重工",
+        "合金重工",
+        "明日方舟",
+        "Lancet-2 海難救助特化型 VER."
+      ]
+    },
+    {
+      "id": "planet-ring-000010",
+      "name": "流浪地球2 笨笨拼装版",
+      "brand": "星环重工",
+      "original": "Mechanical Dog Dynamic Omniterrain Guardian System · Kit",
+      "country": "中国",
+      "origin": "未披露",
+      "version": "按所列具体型号及交付版本记录。",
+      "icon": "kit",
+      "scale": "比例 1:6",
+      "heightMm": null,
+      "heightBasis": "未披露",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [],
+        "material": [
+          "ABS",
+          "PVC",
+          "金属",
+          "磁铁",
+          "电路板（PCB）"
+        ],
+        "role": [
+          "机械角色",
+          "机器人"
+        ]
+      },
+      "notes": [
+        {
+          "title": "对象与结构",
+          "text": "作为与人形模玩相关的机械角色记录；可动范围按本型号公开资料核对，不从外形或品牌系列名称推定。"
+        },
+        {
+          "title": "交付版本",
+          "text": "官网单独列出的拼装套件版本，与涂装成品分别记录；分色零件不等于全部零件已涂装。"
+        },
+        {
+          "title": "比例口径",
+          "text": "1:6以电影中的机械狗为参照，不是人体缩尺。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.planet-ring.com/detail/000010",
+          "title": "流浪地球2 笨笨拼装版",
+          "kind": "官方商品页",
+          "supports": "该具体版本的名称、交付、比例、材料及官网标注月份；网站档案月份不作为当前库存或实际出货证明。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "官网标注：2023年6月",
+        "sourceUrl": "https://www.planet-ring.com/detail/000010",
+        "note": "对应版本商品页的发售日期栏；官网新闻更新较早，未据此确认实际出货与当前销售状态。"
+      },
+      "lifecycle": {
+        "historical": false,
+        "discontinued": false,
+        "note": ""
+      },
+      "aliases": [
+        "Planet Ring",
+        "星環重工",
+        "合金重工",
+        "电影流浪地球2",
+        "流転の地球2 「ベンベン」"
+      ]
+    },
+    {
+      "id": "planet-ring-000011",
+      "name": "流浪地球2 笨笨成品版",
+      "brand": "星环重工",
+      "original": "Mechanical Dog Dynamic Omniterrain Guardian System · Pre-Painted",
+      "country": "中国",
+      "origin": "未披露",
+      "version": "按所列具体型号及交付版本记录。",
+      "icon": "machine",
+      "scale": "比例 1:6",
+      "heightMm": null,
+      "heightBasis": "未披露",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "ABS",
+          "PVC",
+          "金属",
+          "磁铁",
+          "电路板（PCB）"
+        ],
+        "role": [
+          "机械角色",
+          "机器人"
+        ]
+      },
+      "notes": [
+        {
+          "title": "对象与结构",
+          "text": "作为与人形模玩相关的机械角色记录；可动范围按本型号公开资料核对，不从外形或品牌系列名称推定。"
+        },
+        {
+          "title": "交付版本",
+          "text": "官网明确列为涂装完成品；生产产地和具体可动范围尚未从文字规格确认。"
+        },
+        {
+          "title": "比例口径",
+          "text": "1:6以电影中的机械狗为参照，不是人体缩尺。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.planet-ring.com/detail/000011",
+          "title": "流浪地球2 笨笨成品版",
+          "kind": "官方商品页",
+          "supports": "该具体版本的名称、交付、比例、材料及官网标注月份；网站档案月份不作为当前库存或实际出货证明。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "官网标注：2023年6月",
+        "sourceUrl": "https://www.planet-ring.com/detail/000011",
+        "note": "对应版本商品页的发售日期栏；官网新闻更新较早，未据此确认实际出货与当前销售状态。"
+      },
+      "lifecycle": {
+        "historical": false,
+        "discontinued": false,
+        "note": ""
+      },
+      "aliases": [
+        "Planet Ring",
+        "星環重工",
+        "合金重工",
+        "电影流浪地球2",
+        "流転の地球2 「ベンベン」完成品"
+      ]
+    },
+    {
+      "id": "planet-ring-000012",
+      "name": "流浪地球2 MOSS拼装版",
+      "brand": "星环重工",
+      "original": "Movie The Wandering Earth 2 MOSS Intelligent Quantum Computer · Kit",
+      "country": "中国",
+      "origin": "未披露",
+      "version": "按所列具体型号及交付版本记录。",
+      "icon": "kit",
+      "scale": "比例 1:6",
+      "heightMm": null,
+      "heightBasis": "未披露",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [],
+        "material": [
+          "ABS",
+          "PVC",
+          "磁铁",
+          "电路板（PCB）"
+        ],
+        "role": [
+          "机械角色"
+        ]
+      },
+      "notes": [
+        {
+          "title": "对象与结构",
+          "text": "作为与人形模玩相关的机械角色记录；可动范围按本型号公开资料核对，不从外形或品牌系列名称推定。"
+        },
+        {
+          "title": "交付版本",
+          "text": "官网单独列出的拼装套件版本，与涂装成品分别记录；分色零件不等于全部零件已涂装。"
+        },
+        {
+          "title": "比例口径",
+          "text": "1:6以电影中的MOSS道具为参照，不是人体缩尺。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.planet-ring.com/detail/000012",
+          "title": "流浪地球2 MOSS拼装版",
+          "kind": "官方商品页",
+          "supports": "该具体版本的名称、交付、比例、材料及官网标注月份；网站档案月份不作为当前库存或实际出货证明。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "官网标注：2023年6月",
+        "sourceUrl": "https://www.planet-ring.com/detail/000012",
+        "note": "对应版本商品页的发售日期栏；官网新闻更新较早，未据此确认实际出货与当前销售状态。"
+      },
+      "lifecycle": {
+        "historical": false,
+        "discontinued": false,
+        "note": ""
+      },
+      "aliases": [
+        "Planet Ring",
+        "星環重工",
+        "合金重工",
+        "电影流浪地球2",
+        "流転の地球2 「MOSS」"
+      ]
+    },
+    {
+      "id": "planet-ring-000013",
+      "name": "流浪地球2 MOSS成品版",
+      "brand": "星环重工",
+      "original": "Movie The Wandering Earth 2 MOSS Intelligent Quantum Computer · Pre-Painted",
+      "country": "中国",
+      "origin": "未披露",
+      "version": "按所列具体型号及交付版本记录。",
+      "icon": "machine",
+      "scale": "比例 1:6",
+      "heightMm": null,
+      "heightBasis": "未披露",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "ABS",
+          "PVC",
+          "磁铁",
+          "电路板（PCB）"
+        ],
+        "role": [
+          "机械角色"
+        ]
+      },
+      "notes": [
+        {
+          "title": "对象与结构",
+          "text": "作为与人形模玩相关的机械角色记录；可动范围按本型号公开资料核对，不从外形或品牌系列名称推定。"
+        },
+        {
+          "title": "交付版本",
+          "text": "官网明确列为涂装完成品；生产产地和具体可动范围尚未从文字规格确认。"
+        },
+        {
+          "title": "比例口径",
+          "text": "1:6以电影中的MOSS道具为参照，不是人体缩尺。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.planet-ring.com/detail/000013",
+          "title": "流浪地球2 MOSS成品版",
+          "kind": "官方商品页",
+          "supports": "该具体版本的名称、交付、比例、材料及官网标注月份；网站档案月份不作为当前库存或实际出货证明。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "官网标注：2023年6月",
+        "sourceUrl": "https://www.planet-ring.com/detail/000013",
+        "note": "对应版本商品页的发售日期栏；官网新闻更新较早，未据此确认实际出货与当前销售状态。"
+      },
+      "lifecycle": {
+        "historical": false,
+        "discontinued": false,
+        "note": ""
+      },
+      "aliases": [
+        "Planet Ring",
+        "星環重工",
+        "合金重工",
+        "电影流浪地球2",
+        "流転の地球2 「MOSS」 完成品"
+      ]
+    },
+    {
+      "id": "planet-ring-000023",
+      "name": "明日方舟 THRM-EX",
+      "brand": "星环重工",
+      "original": "Arknights THRM-EX · Pre-Painted",
+      "country": "中国",
+      "origin": "未披露",
+      "version": "按所列具体型号及交付版本记录。",
+      "icon": "machine",
+      "scale": "无固定比例",
+      "heightMm": null,
+      "heightBasis": "未披露",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "ABS",
+          "PVC",
+          "金属"
+        ],
+        "role": [
+          "机械角色",
+          "机器人"
+        ]
+      },
+      "notes": [
+        {
+          "title": "对象与结构",
+          "text": "作为与人形模玩相关的机械角色记录；可动范围按本型号公开资料核对，不从外形或品牌系列名称推定。"
+        },
+        {
+          "title": "交付版本",
+          "text": "官网明确列为涂装完成品；生产产地和具体可动范围尚未从文字规格确认。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.planet-ring.com/detail/000023",
+          "title": "明日方舟 THRM-EX",
+          "kind": "官方商品页",
+          "supports": "该具体版本的名称、交付、比例、材料及官网标注月份；网站档案月份不作为当前库存或实际出货证明。",
+          "checkedAt": "2026-10-06"
+        },
+        {
+          "url": "https://www.sina.cn/news/detail/5029568339775456.html",
+          "title": "朝陇山：THRM-EX与正义骑士号公开",
+          "kind": "授权方官号公告（新浪公开页）",
+          "supports": "官方署名星环重工制作，并明确两款在2024年5月3–5日明日方舟嘉年华展示。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": "2024明日方舟嘉年华 · 官方明确展示型号",
+      "chronology": {
+        "label": "官网标注：2024年11月",
+        "sourceUrl": "https://www.planet-ring.com/detail/000023",
+        "note": "对应版本商品页的发售日期栏；官网新闻更新较早，未据此确认实际出货与当前销售状态。"
+      },
+      "lifecycle": {
+        "historical": false,
+        "discontinued": false,
+        "note": ""
+      },
+      "aliases": [
+        "Planet Ring",
+        "星環重工",
+        "合金重工",
+        "明日方舟",
+        "アークナイツ サーマル-EX"
+      ]
+    },
+    {
+      "id": "planet-ring-friston-3",
+      "name": "明日方舟 · Friston-3（合金重工系列）",
+      "brand": "星环重工",
+      "original": "Arknights Alloy Frame Collection Friston-3",
+      "country": "中国",
+      "origin": "未披露",
+      "version": "按所列具体型号及交付版本记录。",
+      "icon": "machine",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "未披露",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "三维 9 × 7 × 8.1 cm",
+          "basis": "官方标注90×70×81 mm，未注明各轴含义；不另填人物身高。"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "ABS",
+          "PVC",
+          "金属"
+        ],
+        "role": [
+          "机械角色",
+          "机器人"
+        ]
+      },
+      "notes": [
+        {
+          "title": "对象与结构",
+          "text": "作为与人形模玩相关的机械角色记录；可动范围按本型号公开资料核对，不从外形或品牌系列名称推定。"
+        },
+        {
+          "title": "灯光与换件",
+          "text": "厂商明确含灯光及表情替换件；记录为硬质换件，不把表情替换视为关节可动。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.sina.cn/news/detail/5201385739781104.html",
+          "title": "星环重工：Friston-3预售公告",
+          "kind": "厂商官号公告（新浪公开页）",
+          "supports": "认证主体为深圳市星环造物文化传播有限公司；明确型号、材料、三维规格、表情替换件与2025–2026销售排期。",
+          "checkedAt": "2026-10-06"
+        },
+        {
+          "url": "https://www.sina.cn/news/detail/5296263160923258.html",
+          "title": "朝陇山：Friston-3补款与现货上架排期",
+          "kind": "授权方官号公告（新浪公开页）",
+          "supports": "2026年5月9日开始补款；公告列明现货原定6月22日上架，未作为当前有货证明。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "预售：2025年8月 · 原定出货：2026年6月",
+        "sourceUrl": "https://www.sina.cn/news/detail/5201385739781104.html",
+        "note": "后续授权方公告于2026年5月开始补款，现货原定6月22日上架；具体订单出货与当前库存另查官方渠道。"
+      },
+      "lifecycle": {
+        "historical": false,
+        "discontinued": false,
+        "note": ""
+      },
+      "aliases": [
+        "Planet Ring",
+        "星環重工",
+        "合金重工"
+      ]
+    },
+    {
+      "id": "planet-ring-justice-knight",
+      "name": "明日方舟 · 正义骑士号（合金重工系列）",
+      "brand": "星环重工",
+      "original": "Arknights Alloy Frame Collection Justice Knight",
+      "country": "中国",
+      "origin": "未披露",
+      "version": "按所列具体型号及交付版本记录。",
+      "icon": "machine",
+      "scale": "无固定比例",
+      "heightMm": null,
+      "heightBasis": "未披露",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "三维 8 × 5.6 × 10 cm",
+          "basis": "Hpoi对应型号记录80×56×100 mm；未注明各轴含义，不另填人物身高。"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "ABS",
+          "PVC",
+          "金属"
+        ],
+        "role": [
+          "机械角色",
+          "机器人"
+        ]
+      },
+      "notes": [
+        {
+          "title": "对象与结构",
+          "text": "作为与人形模玩相关的机械角色记录；可动范围按本型号公开资料核对，不从外形或品牌系列名称推定。"
+        },
+        {
+          "title": "规格来源",
+          "text": "展示与制作署名使用授权方公告；材料与三维尺寸补充自本款社区档案，未由系列其他商品代填。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.sina.cn/news/detail/5029568339775456.html",
+          "title": "朝陇山：THRM-EX与正义骑士号公开",
+          "kind": "授权方官号公告（新浪公开页）",
+          "supports": "官方署名星环重工制作，并明确两款在2024年5月3–5日明日方舟嘉年华展示。",
+          "checkedAt": "2026-10-06"
+        },
+        {
+          "url": "https://www.hpoi.net/hobby/album/97270",
+          "title": "Hpoi：正义骑士号型号档案",
+          "kind": "社区型号档案",
+          "supports": "补充本款ABS、PVC、合金与80×56×100 mm三维规格；尺寸顺序未注明各轴。",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": "2024明日方舟嘉年华 · 官方明确展示型号",
+      "chronology": {
+        "label": "官方公布：2024年5月",
+        "sourceUrl": "https://www.sina.cn/news/detail/5029568339775456.html",
+        "note": "这是对应型号的公开时间，未作为实际发售或出货日期。"
+      },
+      "lifecycle": {
+        "historical": false,
+        "discontinued": false,
+        "note": ""
+      },
+      "aliases": [
+        "Planet Ring",
+        "星環重工",
+        "合金重工"
+      ]
     }
   ],
   "resources": [
@@ -107572,6 +108251,20 @@ window.TOY_COMPARE_DATA = {
       "url": "https://mcfarlanetoysstore.com/gaming/warhammer-40000/",
       "description": "已涂装与Artist Proof未涂装可动成品；库存售完不作为停产证据。",
       "checkedAt": "2026-10-06"
+    },
+    {
+      "group": "厂商结构与目录",
+      "name": "星环重工 · 官方产品目录",
+      "url": "https://www.planet-ring.com/products",
+      "description": "查具体机械角色的成品与拼装版本。官网档案较早，销售排期与当前库存另外核实。",
+      "checkedAt": "2026-10-06"
+    },
+    {
+      "group": "厂商结构与目录",
+      "name": "星环重工 · 品牌介绍与官方渠道",
+      "url": "https://www.planet-ring.com/about",
+      "description": "硬表面科幻模型品牌；官网关联微博、Bilibili与X等官方账号，核对制作署名和后续产品公告。",
+      "checkedAt": "2026-10-06"
     }
   ],
   "recordingRules": [
@@ -107585,7 +108278,7 @@ window.TOY_COMPARE_DATA = {
     "年代优先采用具体版本的官方发售／受注年月；仅有版本年时注明口径，未知写年代待核实。历史型号不等于停产，停售只针对有明确证据的具体版本；二手与旧库存可能继续流通。",
     "展会公布时间与发售时间分开记录；官方图录有具体型号时才标注展会。只有企划或原型资料时，不推定最终材质、尺寸、交付组成和当前销售状态。"
   ],
-  "coverage": "共 1522 条具体商品／身体／配套与已命名企划记录；持续按型号补充，包含历史版本和展会公布新作，不声称涵盖全部厂商或历年产品。",
+  "coverage": "共 1531 条具体商品／身体／配套与已命名企划记录；包含人形及相关机械角色、历史版本和展会公布新作，持续按型号补充。",
   "previousCheckDate": "2026-10-05",
   "checkDates": {
     "azone-body-pfl103-wht": "2026-10-06",
@@ -109032,6 +109725,15 @@ window.TOY_COMPARE_DATA = {
     "expanded-bc4029fd1fc11437": "2026-10-06",
     "expanded-e2aeef5d579bdfd1": "2026-10-06",
     "expanded-57ef9d5a7e768783": "2026-10-06",
-    "expanded-5f75cd76574ec87b": "2026-10-06"
+    "expanded-5f75cd76574ec87b": "2026-10-06",
+    "planet-ring-000008": "2026-10-06",
+    "planet-ring-000009": "2026-10-06",
+    "planet-ring-000010": "2026-10-06",
+    "planet-ring-000011": "2026-10-06",
+    "planet-ring-000012": "2026-10-06",
+    "planet-ring-000013": "2026-10-06",
+    "planet-ring-000023": "2026-10-06",
+    "planet-ring-friston-3": "2026-10-06",
+    "planet-ring-justice-knight": "2026-10-06"
   }
 };
