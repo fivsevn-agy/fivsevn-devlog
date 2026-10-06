@@ -1,6 +1,6 @@
 window.TOY_REFERENCE_DATA = {
   "schemaVersion": 3,
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "title": "玩具资料整理 · Toy Reference",
   "categories": [
     {
@@ -115525,6 +115525,4235 @@ window.TOY_REFERENCE_DATA = {
         "sourceUrl": "https://takaratomymall.jp/shop/g/g4904810160557/",
         "note": "按该商品编号的官方商品页发售日期记录，沿用或换版编号分别处理。"
       }
+    },
+    {
+      "id": "bandai-ikimono-adv-pillbug-plain",
+      "name": "生物大图鉴 ADVANCE · 鼠妇",
+      "brand": "Bandai",
+      "original": "いきもの大図鑑 アドバンス ダンゴムシ ダンゴムシ",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "ADVANCE 鼠妇 胶囊版／ダンゴムシ",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 140 mm",
+          "basis": "官网注明不含触角。"
+        },
+        {
+          "label": "球体直径约 70 mm",
+          "basis": "官网球形状态尺寸。"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "甲壳动物"
+        ]
+      },
+      "notes": [
+        {
+          "title": "结构与版本",
+          "text": "72 处可动，可卷成球状。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "いきもの大図鑑 アドバンス ダンゴムシ",
+          "url": "https://gashapon.jp/dangomushi/special/adv_dangomushi/",
+          "supports": "各配色、可动与版本说明。",
+          "checkedAt": "2026-10-07"
+        },
+        {
+          "kind": "官方发售记录",
+          "title": "万代生物大图鉴官方发售记录",
+          "url": "https://www.gashapon.jp/products/detail.php?jan_code=4582769720116000",
+          "supports": "本弹胶囊版的发售日期。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "万代",
+        "生物大图鉴",
+        "生物大図鑑",
+        "いきもの大図鑑",
+        "ダンゴムシ"
+      ],
+      "chronology": {
+        "label": "2025-12 发售",
+        "sourceUrl": "https://www.gashapon.jp/products/detail.php?jan_code=4582769720116000",
+        "note": "具体版本采用官网公布的日期。"
+      }
+    },
+    {
+      "id": "bandai-ikimono-adv-pillbug-irido",
+      "name": "生物大图鉴 ADVANCE · 鼠妇（虹彩色）",
+      "brand": "Bandai",
+      "original": "いきもの大図鑑 アドバンス ダンゴムシ イリドダンゴムシ",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "ADVANCE 鼠妇 胶囊版／イリドダンゴムシ",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 140 mm",
+          "basis": "官网注明不含触角。"
+        },
+        {
+          "label": "球体直径约 70 mm",
+          "basis": "官网球形状态尺寸。"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "甲壳动物"
+        ]
+      },
+      "notes": [
+        {
+          "title": "结构与版本",
+          "text": "72 处可动，可卷成球状。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "いきもの大図鑑 アドバンス ダンゴムシ",
+          "url": "https://gashapon.jp/dangomushi/special/adv_dangomushi/",
+          "supports": "各配色、可动与版本说明。",
+          "checkedAt": "2026-10-07"
+        },
+        {
+          "kind": "官方发售记录",
+          "title": "万代生物大图鉴官方发售记录",
+          "url": "https://www.gashapon.jp/products/detail.php?jan_code=4582769720116000",
+          "supports": "本弹胶囊版的发售日期。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "万代",
+        "生物大图鉴",
+        "生物大図鑑",
+        "いきもの大図鑑",
+        "イリドダンゴムシ"
+      ],
+      "chronology": {
+        "label": "2025-12 发售",
+        "sourceUrl": "https://www.gashapon.jp/products/detail.php?jan_code=4582769720116000",
+        "note": "具体版本采用官网公布的日期。"
+      }
+    },
+    {
+      "id": "bandai-ikimono-adv-pillbug-zebra",
+      "name": "生物大图鉴 ADVANCE · 鼠妇（斑马纹）",
+      "brand": "Bandai",
+      "original": "いきもの大図鑑 アドバンス ダンゴムシ ゼブラダンゴムシ",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "ADVANCE 鼠妇 胶囊版／ゼブラダンゴムシ",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 140 mm",
+          "basis": "官网注明不含触角。"
+        },
+        {
+          "label": "球体直径约 70 mm",
+          "basis": "官网球形状态尺寸。"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "甲壳动物"
+        ]
+      },
+      "notes": [
+        {
+          "title": "结构与版本",
+          "text": "72 处可动，可卷成球状。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "いきもの大図鑑 アドバンス ダンゴムシ",
+          "url": "https://gashapon.jp/dangomushi/special/adv_dangomushi/",
+          "supports": "各配色、可动与版本说明。",
+          "checkedAt": "2026-10-07"
+        },
+        {
+          "kind": "官方发售记录",
+          "title": "万代生物大图鉴官方发售记录",
+          "url": "https://www.gashapon.jp/products/detail.php?jan_code=4582769720116000",
+          "supports": "本弹胶囊版的发售日期。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "万代",
+        "生物大图鉴",
+        "生物大図鑑",
+        "いきもの大図鑑",
+        "ゼブラダンゴムシ"
+      ],
+      "chronology": {
+        "label": "2025-12 发售",
+        "sourceUrl": "https://www.gashapon.jp/products/detail.php?jan_code=4582769720116000",
+        "note": "具体版本采用官网公布的日期。"
+      }
+    },
+    {
+      "id": "bandai-ikimono-repti-frog-strawberry",
+      "name": "生物大图鉴 REPTI 箭毒蛙 · 草莓箭毒蛙",
+      "brand": "Bandai",
+      "original": "いきもの大図鑑 レプティ ヤドクガエル イチゴヤドクガエル",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "REPTI 箭毒蛙 胶囊版／イチゴヤドクガエル",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 50 mm",
+          "basis": "官方模型尺寸；与包装尺寸分开记录。"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "两栖动物"
+        ]
+      },
+      "notes": [
+        {
+          "title": "结构与版本",
+          "text": "9 处可动，含嘴部及后肢。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "いきもの大図鑑 レプティ ヤドクガエル",
+          "url": "https://gashapon.jp/dangomushi/special/repti_poisondart_frog/",
+          "supports": "各配色、可动与版本说明。",
+          "checkedAt": "2026-10-07"
+        },
+        {
+          "kind": "官方发售记录",
+          "title": "万代生物大图鉴官方发售记录",
+          "url": "https://gashapon.jp/dangomushi/search/list.php",
+          "supports": "本弹胶囊版的发售日期。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "万代",
+        "生物大图鉴",
+        "生物大図鑑",
+        "いきもの大図鑑",
+        "イチゴヤドクガエル"
+      ],
+      "chronology": {
+        "label": "2025-11 发售",
+        "sourceUrl": "https://gashapon.jp/dangomushi/search/list.php",
+        "note": "具体版本采用官网公布的日期。"
+      }
+    },
+    {
+      "id": "bandai-ikimono-repti-frog-cobalt",
+      "name": "生物大图鉴 REPTI 箭毒蛙 · 钴蓝箭毒蛙",
+      "brand": "Bandai",
+      "original": "いきもの大図鑑 レプティ ヤドクガエル コバルトヤドクガエル",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "REPTI 箭毒蛙 胶囊版／コバルトヤドクガエル",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 50 mm",
+          "basis": "官方模型尺寸；与包装尺寸分开记录。"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "两栖动物"
+        ]
+      },
+      "notes": [
+        {
+          "title": "结构与版本",
+          "text": "9 处可动，含嘴部及后肢。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "いきもの大図鑑 レプティ ヤドクガエル",
+          "url": "https://gashapon.jp/dangomushi/special/repti_poisondart_frog/",
+          "supports": "各配色、可动与版本说明。",
+          "checkedAt": "2026-10-07"
+        },
+        {
+          "kind": "官方发售记录",
+          "title": "万代生物大图鉴官方发售记录",
+          "url": "https://gashapon.jp/dangomushi/search/list.php",
+          "supports": "本弹胶囊版的发售日期。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "万代",
+        "生物大图鉴",
+        "生物大図鑑",
+        "いきもの大図鑑",
+        "コバルトヤドクガエル"
+      ],
+      "chronology": {
+        "label": "2025-11 发售",
+        "sourceUrl": "https://gashapon.jp/dangomushi/search/list.php",
+        "note": "具体版本采用官网公布的日期。"
+      }
+    },
+    {
+      "id": "bandai-ikimono-repti-frog-yellow",
+      "name": "生物大图鉴 REPTI 箭毒蛙 · 黄带箭毒蛙",
+      "brand": "Bandai",
+      "original": "いきもの大図鑑 レプティ ヤドクガエル キオビヤドクガエル",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "REPTI 箭毒蛙 胶囊版／キオビヤドクガエル",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 50 mm",
+          "basis": "官方模型尺寸；与包装尺寸分开记录。"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "两栖动物"
+        ]
+      },
+      "notes": [
+        {
+          "title": "结构与版本",
+          "text": "9 处可动，含嘴部及后肢。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "いきもの大図鑑 レプティ ヤドクガエル",
+          "url": "https://gashapon.jp/dangomushi/special/repti_poisondart_frog/",
+          "supports": "各配色、可动与版本说明。",
+          "checkedAt": "2026-10-07"
+        },
+        {
+          "kind": "官方发售记录",
+          "title": "万代生物大图鉴官方发售记录",
+          "url": "https://gashapon.jp/dangomushi/search/list.php",
+          "supports": "本弹胶囊版的发售日期。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "万代",
+        "生物大图鉴",
+        "生物大図鑑",
+        "いきもの大図鑑",
+        "キオビヤドクガエル"
+      ],
+      "chronology": {
+        "label": "2025-11 发售",
+        "sourceUrl": "https://gashapon.jp/dangomushi/search/list.php",
+        "note": "具体版本采用官网公布的日期。"
+      }
+    },
+    {
+      "id": "bandai-ikimono-repti-frog-marbled",
+      "name": "生物大图鉴 REPTI 箭毒蛙 · 斑纹箭毒蛙",
+      "brand": "Bandai",
+      "original": "いきもの大図鑑 レプティ ヤドクガエル マダラヤドクガエル",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "REPTI 箭毒蛙 胶囊版／マダラヤドクガエル",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 50 mm",
+          "basis": "官方模型尺寸；与包装尺寸分开记录。"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "两栖动物"
+        ]
+      },
+      "notes": [
+        {
+          "title": "结构与版本",
+          "text": "9 处可动，含嘴部及后肢。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "いきもの大図鑑 レプティ ヤドクガエル",
+          "url": "https://gashapon.jp/dangomushi/special/repti_poisondart_frog/",
+          "supports": "各配色、可动与版本说明。",
+          "checkedAt": "2026-10-07"
+        },
+        {
+          "kind": "官方发售记录",
+          "title": "万代生物大图鉴官方发售记录",
+          "url": "https://gashapon.jp/dangomushi/search/list.php",
+          "supports": "本弹胶囊版的发售日期。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "万代",
+        "生物大图鉴",
+        "生物大図鑑",
+        "いきもの大図鑑",
+        "マダラヤドクガエル"
+      ],
+      "chronology": {
+        "label": "2025-11 发售",
+        "sourceUrl": "https://gashapon.jp/dangomushi/search/list.php",
+        "note": "具体版本采用官网公布的日期。"
+      }
+    },
+    {
+      "id": "bandai-ikimono-repti-frog-semadara",
+      "name": "生物大图鉴 REPTI 箭毒蛙 · 箭毒蛙（セマダラ）",
+      "brand": "Bandai",
+      "original": "いきもの大図鑑 レプティ ヤドクガエル セマダラヤドクガエル",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "REPTI 箭毒蛙 胶囊版／セマダラヤドクガエル",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 50 mm",
+          "basis": "官方模型尺寸；与包装尺寸分开记录。"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "两栖动物"
+        ]
+      },
+      "notes": [
+        {
+          "title": "结构与版本",
+          "text": "9 处可动，含嘴部及后肢。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "いきもの大図鑑 レプティ ヤドクガエル",
+          "url": "https://gashapon.jp/dangomushi/special/repti_poisondart_frog/",
+          "supports": "各配色、可动与版本说明。",
+          "checkedAt": "2026-10-07"
+        },
+        {
+          "kind": "官方发售记录",
+          "title": "万代生物大图鉴官方发售记录",
+          "url": "https://gashapon.jp/dangomushi/search/list.php",
+          "supports": "本弹胶囊版的发售日期。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "万代",
+        "生物大图鉴",
+        "生物大図鑑",
+        "いきもの大図鑑",
+        "セマダラヤドクガエル"
+      ],
+      "chronology": {
+        "label": "2025-11 发售",
+        "sourceUrl": "https://gashapon.jp/dangomushi/search/list.php",
+        "note": "具体版本采用官网公布的日期。"
+      }
+    },
+    {
+      "id": "bandai-ikimono-adv-turtle02-yellow",
+      "name": "生物大图鉴 ADVANCE 龟 02 · 日本石龟（黄色）",
+      "brand": "Bandai",
+      "original": "いきもの大図鑑 アドバンス カメ02 イシガメ（イエロー）",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "ADVANCE 龟 02 胶囊版／イシガメ（イエロー）",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "爬行动物"
+        ]
+      },
+      "notes": [
+        {
+          "title": "结构与版本",
+          "text": "头、颈与四肢可动，可缩入壳内。此处为胶囊版；磁吸石台座套装另属在线版。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "いきもの大図鑑 アドバンス カメ02",
+          "url": "https://gashapon.jp/dangomushi/special/adv_tortoise02/",
+          "supports": "各配色、可动与版本说明。",
+          "checkedAt": "2026-10-07"
+        },
+        {
+          "kind": "官方发售记录",
+          "title": "万代生物大图鉴官方发售记录",
+          "url": "https://gashapon.jp/dangomushi/search/list.php",
+          "supports": "本弹胶囊版的发售日期。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "万代",
+        "生物大图鉴",
+        "生物大図鑑",
+        "いきもの大図鑑",
+        "イシガメ（イエロー）"
+      ],
+      "chronology": {
+        "label": "2025-06 发售",
+        "sourceUrl": "https://gashapon.jp/dangomushi/search/list.php",
+        "note": "具体版本采用官网公布的日期。"
+      }
+    },
+    {
+      "id": "bandai-ikimono-adv-turtle02-orange",
+      "name": "生物大图鉴 ADVANCE 龟 02 · 日本石龟（橙色）",
+      "brand": "Bandai",
+      "original": "いきもの大図鑑 アドバンス カメ02 イシガメ（オレンジ）",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "ADVANCE 龟 02 胶囊版／イシガメ（オレンジ）",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "爬行动物"
+        ]
+      },
+      "notes": [
+        {
+          "title": "结构与版本",
+          "text": "头、颈与四肢可动，可缩入壳内。此处为胶囊版；磁吸石台座套装另属在线版。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "いきもの大図鑑 アドバンス カメ02",
+          "url": "https://gashapon.jp/dangomushi/special/adv_tortoise02/",
+          "supports": "各配色、可动与版本说明。",
+          "checkedAt": "2026-10-07"
+        },
+        {
+          "kind": "官方发售记录",
+          "title": "万代生物大图鉴官方发售记录",
+          "url": "https://gashapon.jp/dangomushi/search/list.php",
+          "supports": "本弹胶囊版的发售日期。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "万代",
+        "生物大图鉴",
+        "生物大図鑑",
+        "いきもの大図鑑",
+        "イシガメ（オレンジ）"
+      ],
+      "chronology": {
+        "label": "2025-06 发售",
+        "sourceUrl": "https://gashapon.jp/dangomushi/search/list.php",
+        "note": "具体版本采用官网公布的日期。"
+      }
+    },
+    {
+      "id": "bandai-ikimono-adv-turtle02-pastel",
+      "name": "生物大图鉴 ADVANCE 龟 02 · 红耳龟（浅色）",
+      "brand": "Bandai",
+      "original": "いきもの大図鑑 アドバンス カメ02 ミシシッピアカミミガメ（パステル）",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "ADVANCE 龟 02 胶囊版／ミシシッピアカミミガメ（パステル）",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "爬行动物"
+        ]
+      },
+      "notes": [
+        {
+          "title": "结构与版本",
+          "text": "头、颈与四肢可动，可缩入壳内。此处为胶囊版；磁吸石台座套装另属在线版。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "いきもの大図鑑 アドバンス カメ02",
+          "url": "https://gashapon.jp/dangomushi/special/adv_tortoise02/",
+          "supports": "各配色、可动与版本说明。",
+          "checkedAt": "2026-10-07"
+        },
+        {
+          "kind": "官方发售记录",
+          "title": "万代生物大图鉴官方发售记录",
+          "url": "https://gashapon.jp/dangomushi/search/list.php",
+          "supports": "本弹胶囊版的发售日期。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "万代",
+        "生物大图鉴",
+        "生物大図鑑",
+        "いきもの大図鑑",
+        "ミシシッピアカミミガメ（パステル）"
+      ],
+      "chronology": {
+        "label": "2025-06 发售",
+        "sourceUrl": "https://gashapon.jp/dangomushi/search/list.php",
+        "note": "具体版本采用官网公布的日期。"
+      }
+    },
+    {
+      "id": "bandai-ikimono-adv-turtle02-cooter",
+      "name": "生物大图鉴 ADVANCE 龟 02 · 里奥格兰德彩龟",
+      "brand": "Bandai",
+      "original": "いきもの大図鑑 アドバンス カメ02 リオグランデクーター",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "ADVANCE 龟 02 胶囊版／リオグランデクーター",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "爬行动物"
+        ]
+      },
+      "notes": [
+        {
+          "title": "结构与版本",
+          "text": "头、颈与四肢可动，可缩入壳内。此处为胶囊版；磁吸石台座套装另属在线版。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "いきもの大図鑑 アドバンス カメ02",
+          "url": "https://gashapon.jp/dangomushi/special/adv_tortoise02/",
+          "supports": "各配色、可动与版本说明。",
+          "checkedAt": "2026-10-07"
+        },
+        {
+          "kind": "官方发售记录",
+          "title": "万代生物大图鉴官方发售记录",
+          "url": "https://gashapon.jp/dangomushi/search/list.php",
+          "supports": "本弹胶囊版的发售日期。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "万代",
+        "生物大图鉴",
+        "生物大図鑑",
+        "いきもの大図鑑",
+        "リオグランデクーター"
+      ],
+      "chronology": {
+        "label": "2025-06 发售",
+        "sourceUrl": "https://gashapon.jp/dangomushi/search/list.php",
+        "note": "具体版本采用官网公布的日期。"
+      }
+    },
+    {
+      "id": "bandai-ikimono-mantis02-diamond-dark",
+      "name": "生物大图鉴 螳螂 02 · 菱胸枯叶螳螂（深棕）",
+      "brand": "Bandai",
+      "original": "いきもの大図鑑 かまきり02 ヒシムネカレハカマキリ（ダークブラウン）",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "螳螂 02 胶囊版／ヒシムネカレハカマキリ（ダークブラウン）",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "涂装成品",
+          "局部组装"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "昆虫"
+        ]
+      },
+      "notes": [
+        {
+          "title": "结构与版本",
+          "text": "基于 CT 扫描制作可动结构；部分部件与展示底座需组装。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "いきもの大図鑑 かまきり02",
+          "url": "https://gashapon.jp/dangomushi/special/mantis02/",
+          "supports": "各配色、可动与版本说明。",
+          "checkedAt": "2026-10-07"
+        },
+        {
+          "kind": "官方发售记录",
+          "title": "万代生物大图鉴官方发售记录",
+          "url": "https://gashapon.jp/products/detail.php?jan_code=4549660630814000",
+          "supports": "本弹胶囊版的发售日期。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "万代",
+        "生物大图鉴",
+        "生物大図鑑",
+        "いきもの大図鑑",
+        "ヒシムネカレハカマキリ（ダークブラウン）"
+      ],
+      "chronology": {
+        "label": "2021-10 发售",
+        "sourceUrl": "https://gashapon.jp/products/detail.php?jan_code=4549660630814000",
+        "note": "具体版本采用官网公布的日期。"
+      }
+    },
+    {
+      "id": "bandai-ikimono-mantis02-diamond-light",
+      "name": "生物大图鉴 螳螂 02 · 菱胸枯叶螳螂（浅棕）",
+      "brand": "Bandai",
+      "original": "いきもの大図鑑 かまきり02 ヒシムネカレハカマキリ（ライトブラウン）",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "螳螂 02 胶囊版／ヒシムネカレハカマキリ（ライトブラウン）",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "涂装成品",
+          "局部组装"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "昆虫"
+        ]
+      },
+      "notes": [
+        {
+          "title": "结构与版本",
+          "text": "基于 CT 扫描制作可动结构；部分部件与展示底座需组装。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "いきもの大図鑑 かまきり02",
+          "url": "https://gashapon.jp/dangomushi/special/mantis02/",
+          "supports": "各配色、可动与版本说明。",
+          "checkedAt": "2026-10-07"
+        },
+        {
+          "kind": "官方发售记录",
+          "title": "万代生物大图鉴官方发售记录",
+          "url": "https://gashapon.jp/products/detail.php?jan_code=4549660630814000",
+          "supports": "本弹胶囊版的发售日期。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "万代",
+        "生物大图鉴",
+        "生物大図鑑",
+        "いきもの大図鑑",
+        "ヒシムネカレハカマキリ（ライトブラウン）"
+      ],
+      "chronology": {
+        "label": "2021-10 发售",
+        "sourceUrl": "https://gashapon.jp/products/detail.php?jan_code=4549660630814000",
+        "note": "具体版本采用官网公布的日期。"
+      }
+    },
+    {
+      "id": "bandai-ikimono-mantis02-round-dark",
+      "name": "生物大图鉴 螳螂 02 · 圆胸枯叶螳螂（深棕）",
+      "brand": "Bandai",
+      "original": "いきもの大図鑑 かまきり02 マルムネカレハカマキリ（ダークブラウン）",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "螳螂 02 胶囊版／マルムネカレハカマキリ（ダークブラウン）",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "涂装成品",
+          "局部组装"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "昆虫"
+        ]
+      },
+      "notes": [
+        {
+          "title": "结构与版本",
+          "text": "基于 CT 扫描制作可动结构；部分部件与展示底座需组装。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "いきもの大図鑑 かまきり02",
+          "url": "https://gashapon.jp/dangomushi/special/mantis02/",
+          "supports": "各配色、可动与版本说明。",
+          "checkedAt": "2026-10-07"
+        },
+        {
+          "kind": "官方发售记录",
+          "title": "万代生物大图鉴官方发售记录",
+          "url": "https://gashapon.jp/products/detail.php?jan_code=4549660630814000",
+          "supports": "本弹胶囊版的发售日期。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "万代",
+        "生物大图鉴",
+        "生物大図鑑",
+        "いきもの大図鑑",
+        "マルムネカレハカマキリ（ダークブラウン）"
+      ],
+      "chronology": {
+        "label": "2021-10 发售",
+        "sourceUrl": "https://gashapon.jp/products/detail.php?jan_code=4549660630814000",
+        "note": "具体版本采用官网公布的日期。"
+      }
+    },
+    {
+      "id": "bandai-ikimono-mantis02-round-light",
+      "name": "生物大图鉴 螳螂 02 · 圆胸枯叶螳螂（浅棕）",
+      "brand": "Bandai",
+      "original": "いきもの大図鑑 かまきり02 マルムネカレハカマキリ（ライトブラウン）",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "螳螂 02 胶囊版／マルムネカレハカマキリ（ライトブラウン）",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "涂装成品",
+          "局部组装"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "昆虫"
+        ]
+      },
+      "notes": [
+        {
+          "title": "结构与版本",
+          "text": "基于 CT 扫描制作可动结构；部分部件与展示底座需组装。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "いきもの大図鑑 かまきり02",
+          "url": "https://gashapon.jp/dangomushi/special/mantis02/",
+          "supports": "各配色、可动与版本说明。",
+          "checkedAt": "2026-10-07"
+        },
+        {
+          "kind": "官方发售记录",
+          "title": "万代生物大图鉴官方发售记录",
+          "url": "https://gashapon.jp/products/detail.php?jan_code=4549660630814000",
+          "supports": "本弹胶囊版的发售日期。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "万代",
+        "生物大图鉴",
+        "生物大図鑑",
+        "いきもの大図鑑",
+        "マルムネカレハカマキリ（ライトブラウン）"
+      ],
+      "chronology": {
+        "label": "2021-10 发售",
+        "sourceUrl": "https://gashapon.jp/products/detail.php?jan_code=4549660630814000",
+        "note": "具体版本采用官网公布的日期。"
+      }
+    },
+    {
+      "id": "bandai-ikimono-mantis02-green-expanded",
+      "name": "生物大图鉴 螳螂 02 · 大螳螂（深绿·膨腹）",
+      "brand": "Bandai",
+      "original": "いきもの大図鑑 かまきり02 オオカマキリ（ダークグリーン腹部膨張版）",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "螳螂 02 胶囊版／オオカマキリ（ダークグリーン腹部膨張版）",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "涂装成品",
+          "局部组装"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "昆虫"
+        ]
+      },
+      "notes": [
+        {
+          "title": "结构与版本",
+          "text": "基于 CT 扫描制作可动结构；部分部件与展示底座需组装。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "いきもの大図鑑 かまきり02",
+          "url": "https://gashapon.jp/dangomushi/special/mantis02/",
+          "supports": "各配色、可动与版本说明。",
+          "checkedAt": "2026-10-07"
+        },
+        {
+          "kind": "官方发售记录",
+          "title": "万代生物大图鉴官方发售记录",
+          "url": "https://gashapon.jp/products/detail.php?jan_code=4549660630814000",
+          "supports": "本弹胶囊版的发售日期。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "万代",
+        "生物大图鉴",
+        "生物大図鑑",
+        "いきもの大図鑑",
+        "オオカマキリ（ダークグリーン腹部膨張版）"
+      ],
+      "chronology": {
+        "label": "2021-10 发售",
+        "sourceUrl": "https://gashapon.jp/products/detail.php?jan_code=4549660630814000",
+        "note": "具体版本采用官网公布的日期。"
+      }
+    },
+    {
+      "id": "bandai-ikimono-mantis02-green-normal",
+      "name": "生物大图鉴 螳螂 02 · 大螳螂（深绿·通常腹部）",
+      "brand": "Bandai",
+      "original": "いきもの大図鑑 かまきり02 オオカマキリ（ダークグリーン腹部通常版）",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "螳螂 02 胶囊版／オオカマキリ（ダークグリーン腹部通常版）",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "涂装成品",
+          "局部组装"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "昆虫"
+        ]
+      },
+      "notes": [
+        {
+          "title": "结构与版本",
+          "text": "基于 CT 扫描制作可动结构；部分部件与展示底座需组装。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "いきもの大図鑑 かまきり02",
+          "url": "https://gashapon.jp/dangomushi/special/mantis02/",
+          "supports": "各配色、可动与版本说明。",
+          "checkedAt": "2026-10-07"
+        },
+        {
+          "kind": "官方发售记录",
+          "title": "万代生物大图鉴官方发售记录",
+          "url": "https://gashapon.jp/products/detail.php?jan_code=4549660630814000",
+          "supports": "本弹胶囊版的发售日期。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "万代",
+        "生物大图鉴",
+        "生物大図鑑",
+        "いきもの大図鑑",
+        "オオカマキリ（ダークグリーン腹部通常版）"
+      ],
+      "chronology": {
+        "label": "2021-10 发售",
+        "sourceUrl": "https://gashapon.jp/products/detail.php?jan_code=4549660630814000",
+        "note": "具体版本采用官网公布的日期。"
+      }
+    },
+    {
+      "id": "bandai-ikimono-beetle03-goliath",
+      "name": "生物大图鉴 兜虫 03 · 歌利亚大角花金龟",
+      "brand": "Bandai",
+      "original": "いきもの大図鑑 かぶとむし03 ゴライアスオオツノハナムグリ",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "兜虫 03 胶囊版／ゴライアスオオツノハナムグリ",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "涂装成品",
+          "局部组装"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "昆虫"
+        ]
+      },
+      "notes": [
+        {
+          "title": "结构与版本",
+          "text": "依据实物扫描制作，含飞行展示用部件；部分部件需组装。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "いきもの大図鑑 かぶとむし03",
+          "url": "https://gashapon.jp/dangomushi/special/beetle03/",
+          "supports": "各配色、可动与版本说明。",
+          "checkedAt": "2026-10-07"
+        },
+        {
+          "kind": "官方发售记录",
+          "title": "万代生物大图鉴官方发售记录",
+          "url": "https://gashapon.jp/dangomushi/search/list.php",
+          "supports": "本弹胶囊版的发售日期。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "万代",
+        "生物大图鉴",
+        "生物大図鑑",
+        "いきもの大図鑑",
+        "ゴライアスオオツノハナムグリ"
+      ],
+      "chronology": {
+        "label": "2022-06 发售",
+        "sourceUrl": "https://gashapon.jp/dangomushi/search/list.php",
+        "note": "具体版本采用官网公布的日期。"
+      }
+    },
+    {
+      "id": "bandai-ikimono-beetle03-neptune",
+      "name": "生物大图鉴 兜虫 03 · 海神大兜虫",
+      "brand": "Bandai",
+      "original": "いきもの大図鑑 かぶとむし03 ネプチューンオオカブト",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "兜虫 03 胶囊版／ネプチューンオオカブト",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "涂装成品",
+          "局部组装"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "昆虫"
+        ]
+      },
+      "notes": [
+        {
+          "title": "结构与版本",
+          "text": "依据实物扫描制作，含飞行展示用部件；部分部件需组装。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "いきもの大図鑑 かぶとむし03",
+          "url": "https://gashapon.jp/dangomushi/special/beetle03/",
+          "supports": "各配色、可动与版本说明。",
+          "checkedAt": "2026-10-07"
+        },
+        {
+          "kind": "官方发售记录",
+          "title": "万代生物大图鉴官方发售记录",
+          "url": "https://gashapon.jp/dangomushi/search/list.php",
+          "supports": "本弹胶囊版的发售日期。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "万代",
+        "生物大图鉴",
+        "生物大図鑑",
+        "いきもの大図鑑",
+        "ネプチューンオオカブト"
+      ],
+      "chronology": {
+        "label": "2022-06 发售",
+        "sourceUrl": "https://gashapon.jp/dangomushi/search/list.php",
+        "note": "具体版本采用官网公布的日期。"
+      }
+    },
+    {
+      "id": "bandai-ikimono-beetle03-grant-white",
+      "name": "生物大图鉴 兜虫 03 · 格兰特白兜虫（白色）",
+      "brand": "Bandai",
+      "original": "いきもの大図鑑 かぶとむし03 グラントシロカブト（ホワイト）",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "兜虫 03 胶囊版／グラントシロカブト（ホワイト）",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "涂装成品",
+          "局部组装"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "昆虫"
+        ]
+      },
+      "notes": [
+        {
+          "title": "结构与版本",
+          "text": "依据实物扫描制作，含飞行展示用部件；部分部件需组装。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "いきもの大図鑑 かぶとむし03",
+          "url": "https://gashapon.jp/dangomushi/special/beetle03/",
+          "supports": "各配色、可动与版本说明。",
+          "checkedAt": "2026-10-07"
+        },
+        {
+          "kind": "官方发售记录",
+          "title": "万代生物大图鉴官方发售记录",
+          "url": "https://gashapon.jp/dangomushi/search/list.php",
+          "supports": "本弹胶囊版的发售日期。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "万代",
+        "生物大图鉴",
+        "生物大図鑑",
+        "いきもの大図鑑",
+        "グラントシロカブト（ホワイト）"
+      ],
+      "chronology": {
+        "label": "2022-06 发售",
+        "sourceUrl": "https://gashapon.jp/dangomushi/search/list.php",
+        "note": "具体版本采用官网公布的日期。"
+      }
+    },
+    {
+      "id": "bandai-ikimono-beetle03-grant-black",
+      "name": "生物大图鉴 兜虫 03 · 格兰特白兜虫（黑色）",
+      "brand": "Bandai",
+      "original": "いきもの大図鑑 かぶとむし03 グラントシロカブト（ブラック）",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "兜虫 03 胶囊版／グラントシロカブト（ブラック）",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "涂装成品",
+          "局部组装"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "昆虫"
+        ]
+      },
+      "notes": [
+        {
+          "title": "结构与版本",
+          "text": "依据实物扫描制作，含飞行展示用部件；部分部件需组装。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "いきもの大図鑑 かぶとむし03",
+          "url": "https://gashapon.jp/dangomushi/special/beetle03/",
+          "supports": "各配色、可动与版本说明。",
+          "checkedAt": "2026-10-07"
+        },
+        {
+          "kind": "官方发售记录",
+          "title": "万代生物大图鉴官方发售记录",
+          "url": "https://gashapon.jp/dangomushi/search/list.php",
+          "supports": "本弹胶囊版的发售日期。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "万代",
+        "生物大图鉴",
+        "生物大図鑑",
+        "いきもの大図鑑",
+        "グラントシロカブト（ブラック）"
+      ],
+      "chronology": {
+        "label": "2022-06 发售",
+        "sourceUrl": "https://gashapon.jp/dangomushi/search/list.php",
+        "note": "具体版本采用官网公布的日期。"
+      }
+    },
+    {
+      "id": "bandai-ikimono-beetle03-hime-brown",
+      "name": "生物大图鉴 兜虫 03 · 姬兜虫（红褐色）",
+      "brand": "Bandai",
+      "original": "いきもの大図鑑 かぶとむし03 ヒメカブト（赤褐色）",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "兜虫 03 胶囊版／ヒメカブト（赤褐色）",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "涂装成品",
+          "局部组装"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "昆虫"
+        ]
+      },
+      "notes": [
+        {
+          "title": "结构与版本",
+          "text": "依据实物扫描制作，含飞行展示用部件；部分部件需组装。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "いきもの大図鑑 かぶとむし03",
+          "url": "https://gashapon.jp/dangomushi/special/beetle03/",
+          "supports": "各配色、可动与版本说明。",
+          "checkedAt": "2026-10-07"
+        },
+        {
+          "kind": "官方发售记录",
+          "title": "万代生物大图鉴官方发售记录",
+          "url": "https://gashapon.jp/dangomushi/search/list.php",
+          "supports": "本弹胶囊版的发售日期。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "万代",
+        "生物大图鉴",
+        "生物大図鑑",
+        "いきもの大図鑑",
+        "ヒメカブト（赤褐色）"
+      ],
+      "chronology": {
+        "label": "2022-06 发售",
+        "sourceUrl": "https://gashapon.jp/dangomushi/search/list.php",
+        "note": "具体版本采用官网公布的日期。"
+      }
+    },
+    {
+      "id": "bandai-ikimono-beetle03-hime-black",
+      "name": "生物大图鉴 兜虫 03 · 姬兜虫（黑色）",
+      "brand": "Bandai",
+      "original": "いきもの大図鑑 かぶとむし03 ヒメカブト（ブラック）",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "兜虫 03 胶囊版／ヒメカブト（ブラック）",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "涂装成品",
+          "局部组装"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "昆虫"
+        ]
+      },
+      "notes": [
+        {
+          "title": "结构与版本",
+          "text": "依据实物扫描制作，含飞行展示用部件；部分部件需组装。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "いきもの大図鑑 かぶとむし03",
+          "url": "https://gashapon.jp/dangomushi/special/beetle03/",
+          "supports": "各配色、可动与版本说明。",
+          "checkedAt": "2026-10-07"
+        },
+        {
+          "kind": "官方发售记录",
+          "title": "万代生物大图鉴官方发售记录",
+          "url": "https://gashapon.jp/dangomushi/search/list.php",
+          "supports": "本弹胶囊版的发售日期。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "万代",
+        "生物大图鉴",
+        "生物大図鑑",
+        "いきもの大図鑑",
+        "ヒメカブト（ブラック）"
+      ],
+      "chronology": {
+        "label": "2022-06 发售",
+        "sourceUrl": "https://gashapon.jp/dangomushi/search/list.php",
+        "note": "具体版本采用官网公布的日期。"
+      }
+    },
+    {
+      "id": "kaiyodo-revogeo-rg001",
+      "name": "REVOGEO RG001 帝王蝎",
+      "brand": "海洋堂",
+      "original": "ダイオウサソリ",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "普通版",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "PVC",
+          "ABS"
+        ],
+        "role": [
+          "动物造型",
+          "蝎类"
+        ]
+      },
+      "notes": [
+        {
+          "title": "结构与版本",
+          "text": "螯、身体与尾部可动；足部为保证站立稳定而固定。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "ダイオウサソリ",
+          "url": "https://kaiyodo.co.jp/items/revoltech/rg001/",
+          "supports": "具体型号、形象与官网公布的规格；未列字段保留未知。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Kaiyodo",
+        "REVOGEO",
+        "リボジオ",
+        "ダイオウサソリ"
+      ],
+      "chronology": {
+        "label": "2019-02 发售",
+        "sourceUrl": "https://kaiyodo.co.jp/items/revoltech/rg001/",
+        "note": "具体版本采用官网公布的日期。"
+      }
+    },
+    {
+      "id": "kaiyodo-revogeo-rg002",
+      "name": "REVOGEO RG002 红螯蟹",
+      "brand": "海洋堂",
+      "original": "アカテガニ",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "普通版",
+      "icon": "animal",
+      "scale": "约 2:1",
+      "heightMm": 73,
+      "heightBasis": "官网明确标注的模型高度",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "宽约 140 mm",
+          "basis": "官方模型尺寸；与包装尺寸分开记录。"
+        },
+        {
+          "label": "高约 73 mm",
+          "basis": "官网注明为甲壳高度。"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "PVC",
+          "ABS"
+        ],
+        "role": [
+          "动物造型",
+          "甲壳动物"
+        ]
+      },
+      "notes": [
+        {
+          "title": "结构与版本",
+          "text": "10 处可动，螯与眼柄可动，步足固定；官网延期通知将发售日改为 6 月 25 日。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "アカテガニ",
+          "url": "https://kaiyodo.co.jp/items/revoltech/rg002/",
+          "supports": "具体型号、形象与官网公布的规格；未列字段保留未知。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Kaiyodo",
+        "REVOGEO",
+        "リボジオ",
+        "アカテガニ"
+      ],
+      "chronology": {
+        "label": "2019-06-25 发售",
+        "sourceUrl": "https://kaiyodo.co.jp/items/revoltech/rg002/",
+        "note": "具体版本采用官网公布的日期。"
+      }
+    },
+    {
+      "id": "kaiyodo-revogeo-rg003",
+      "name": "REVOGEO RG003 帝王蝎（蓄光版）",
+      "brand": "海洋堂",
+      "original": "ダイオウサソリ 蓄光版",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "蓄光版",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "PVC",
+          "ABS"
+        ],
+        "role": [
+          "动物造型",
+          "蝎类"
+        ]
+      },
+      "notes": [
+        {
+          "title": "结构与版本",
+          "text": "帝王蝎的蓄光配色版本，单独记录。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "ダイオウサソリ 蓄光版",
+          "url": "https://kaiyodo.co.jp/items/revoltech/rg003/",
+          "supports": "具体型号、形象与官网公布的规格；未列字段保留未知。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Kaiyodo",
+        "REVOGEO",
+        "リボジオ",
+        "ダイオウサソリ 蓄光版"
+      ],
+      "chronology": {
+        "label": "2019-03-25 发售",
+        "sourceUrl": "https://kaiyodo.co.jp/items/revoltech/rg003/",
+        "note": "具体版本采用官网公布的日期。"
+      }
+    },
+    {
+      "id": "kaiyodo-revogeo-rg004",
+      "name": "REVOGEO RG004 大雀蜂（2021 再贩）",
+      "brand": "海洋堂",
+      "original": "オオスズメバチ 再販",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "2021 再贩版",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 180 mm",
+          "basis": "官方模型尺寸；与包装尺寸分开记录。"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS"
+        ],
+        "role": [
+          "动物造型",
+          "昆虫"
+        ]
+      },
+      "notes": [
+        {
+          "title": "结构与版本",
+          "text": "25 处可动，含口器、腹部与毒针；初版为 2020-08，当前记录采用官网再贩版。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "オオスズメバチ 再販",
+          "url": "https://kaiyodo.co.jp/items/revoltech/rg004/",
+          "supports": "具体型号、形象与官网公布的规格；未列字段保留未知。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Kaiyodo",
+        "REVOGEO",
+        "リボジオ",
+        "オオスズメバチ 再販"
+      ],
+      "chronology": {
+        "label": "2021-09-18 再贩",
+        "sourceUrl": "https://kaiyodo.co.jp/items/revoltech/rg004/",
+        "note": "具体版本采用官网公布的日期。"
+      }
+    },
+    {
+      "id": "kaiyodo-revogeo-rg005",
+      "name": "REVOGEO RG005 田鳖",
+      "brand": "海洋堂",
+      "original": "タガメ",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "普通版",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 155 mm",
+          "basis": "官方模型尺寸；与包装尺寸分开记录。"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "昆虫"
+        ]
+      },
+      "notes": [
+        {
+          "title": "结构与版本",
+          "text": "18 处可动，含口器与呼吸管；附带蜻蜓幼虫与展示台座。日期依据官网预定，实际到货日未另行确认。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "タガメ",
+          "url": "https://kaiyodo.co.jp/items/revoltech/rg005/",
+          "supports": "具体型号、形象与官网公布的规格；未列字段保留未知。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Kaiyodo",
+        "REVOGEO",
+        "リボジオ",
+        "タガメ"
+      ],
+      "chronology": {
+        "label": "2021-04（官方预定）",
+        "sourceUrl": "https://kaiyodo.co.jp/items/revoltech/rg005/",
+        "note": "具体版本采用官网公布的日期。"
+      }
+    },
+    {
+      "id": "kaiyodo-revogeo-rg006",
+      "name": "REVOGEO RG006 田鳖（橙色蓄光版）",
+      "brand": "海洋堂",
+      "original": "タガメ オレンジ蓄光版",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "直营店限定／橙色蓄光",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 155 mm",
+          "basis": "官方模型尺寸；与包装尺寸分开记录。"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "昆虫"
+        ]
+      },
+      "notes": [
+        {
+          "title": "结构与版本",
+          "text": "18 处可动；海洋堂直营店限定蓄光配色。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "タガメ オレンジ蓄光版",
+          "url": "https://kaiyodo.co.jp/items/revoltech/rg006/",
+          "supports": "具体型号、形象与官网公布的规格；未列字段保留未知。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Kaiyodo",
+        "REVOGEO",
+        "リボジオ",
+        "タガメ オレンジ蓄光版"
+      ],
+      "chronology": {
+        "label": "2021-02-07 发售",
+        "sourceUrl": "https://kaiyodo.co.jp/items/revoltech/rg006/",
+        "note": "具体版本采用官网公布的日期。"
+      }
+    },
+    {
+      "id": "kaiyodo-revogeo-rg007",
+      "name": "REVOGEO RG007 长颈鹿锯锹形虫",
+      "brand": "海洋堂",
+      "original": "ギラファノコギリクワガタ",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "普通版",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 210 mm",
+          "basis": "官方模型尺寸；与包装尺寸分开记录。"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS"
+        ],
+        "role": [
+          "动物造型",
+          "昆虫"
+        ]
+      },
+      "notes": [
+        {
+          "title": "结构与版本",
+          "text": "20 处可动，含飞行用替换翅与磁吸展示适配件。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "ギラファノコギリクワガタ",
+          "url": "https://kaiyodo.co.jp/items/revoltech/rg007/",
+          "supports": "具体型号、形象与官网公布的规格；未列字段保留未知。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Kaiyodo",
+        "REVOGEO",
+        "リボジオ",
+        "ギラファノコギリクワガタ"
+      ],
+      "chronology": {
+        "label": "2021-10-29 发售",
+        "sourceUrl": "https://kaiyodo.co.jp/items/revoltech/rg007/",
+        "note": "具体版本采用官网公布的日期。"
+      }
+    },
+    {
+      "id": "kaiyodo-revogeo-rg008",
+      "name": "REVOGEO RG008 长颈鹿锯锹形虫（白眼版）",
+      "brand": "海洋堂",
+      "original": "ギラファノコギリクワガタ ホワイトアイ",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "直营店限定／白眼版",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 210 mm",
+          "basis": "官方模型尺寸；与包装尺寸分开记录。"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "PVC",
+          "ABS"
+        ],
+        "role": [
+          "动物造型",
+          "昆虫"
+        ]
+      },
+      "notes": [
+        {
+          "title": "结构与版本",
+          "text": "20 处可动；海洋堂直营店限定白眼配色。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "ギラファノコギリクワガタ ホワイトアイ",
+          "url": "https://kaiyodo.co.jp/items/revoltech/rg008/",
+          "supports": "具体型号、形象与官网公布的规格；未列字段保留未知。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Kaiyodo",
+        "REVOGEO",
+        "リボジオ",
+        "ギラファノコギリクワガタ ホワイトアイ"
+      ],
+      "chronology": {
+        "label": "2021-10-29 发售",
+        "sourceUrl": "https://kaiyodo.co.jp/items/revoltech/rg008/",
+        "note": "具体版本采用官网公布的日期。"
+      }
+    },
+    {
+      "id": "takara-ania-as01",
+      "name": "Ania AS01 狮子（附狐獴）",
+      "brand": "タカラ／タカラトミー",
+      "original": "ライオン（ミーアキャット付き）",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "AS01／官网当前目录版本",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "局部可动"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "哺乳动物"
+        ]
+      },
+      "notes": [
+        {
+          "title": "系列与规格",
+          "text": "Ania 为局部可动的掌心大小动物模型。目录确认此型号与版本；各型号的具体可动部位、尺寸、材料及发售年份未在所用目录中单列。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方型号目录",
+          "title": "Ania 官方单品目录",
+          "url": "https://www.takaratomy.co.jp/products/ania/products/figure/",
+          "supports": "此具体编号、动物形象及附属物／漂浮版本。",
+          "checkedAt": "2026-10-07"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "Ania 品牌与可动说明",
+          "url": "https://www.takaratomy.co.jp/products/ania/about.html",
+          "supports": "系列的局部可动特征；未据此推定关节数量。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "多美",
+        "TAKARA TOMY",
+        "アニア",
+        "Ania",
+        "ライオン（ミーアキャット付き）",
+        "AS-01"
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有官网页面未单列本型号的发售年份。"
+      }
+    },
+    {
+      "id": "takara-ania-as02",
+      "name": "Ania AS02 非洲象（附橙子）",
+      "brand": "タカラ／タカラトミー",
+      "original": "アフリカゾウ（オレンジ付き）",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "AS02／官网当前目录版本",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "局部可动"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "哺乳动物"
+        ]
+      },
+      "notes": [
+        {
+          "title": "系列与规格",
+          "text": "Ania 为局部可动的掌心大小动物模型。目录确认此型号与版本；各型号的具体可动部位、尺寸、材料及发售年份未在所用目录中单列。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方型号目录",
+          "title": "Ania 官方单品目录",
+          "url": "https://www.takaratomy.co.jp/products/ania/products/figure/",
+          "supports": "此具体编号、动物形象及附属物／漂浮版本。",
+          "checkedAt": "2026-10-07"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "Ania 品牌与可动说明",
+          "url": "https://www.takaratomy.co.jp/products/ania/about.html",
+          "supports": "系列的局部可动特征；未据此推定关节数量。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "多美",
+        "TAKARA TOMY",
+        "アニア",
+        "Ania",
+        "アフリカゾウ（オレンジ付き）",
+        "AS-02"
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有官网页面未单列本型号的发售年份。"
+      }
+    },
+    {
+      "id": "takara-ania-as03",
+      "name": "Ania AS03 大熊猫",
+      "brand": "タカラ／タカラトミー",
+      "original": "ジャイアントパンダ",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "AS03／官网当前目录版本",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "局部可动"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "哺乳动物"
+        ]
+      },
+      "notes": [
+        {
+          "title": "系列与规格",
+          "text": "Ania 为局部可动的掌心大小动物模型。目录确认此型号与版本；各型号的具体可动部位、尺寸、材料及发售年份未在所用目录中单列。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方型号目录",
+          "title": "Ania 官方单品目录",
+          "url": "https://www.takaratomy.co.jp/products/ania/products/figure/",
+          "supports": "此具体编号、动物形象及附属物／漂浮版本。",
+          "checkedAt": "2026-10-07"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "Ania 品牌与可动说明",
+          "url": "https://www.takaratomy.co.jp/products/ania/about.html",
+          "supports": "系列的局部可动特征；未据此推定关节数量。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "多美",
+        "TAKARA TOMY",
+        "アニア",
+        "Ania",
+        "ジャイアントパンダ",
+        "AS-03"
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有官网页面未单列本型号的发售年份。"
+      }
+    },
+    {
+      "id": "takara-ania-as04",
+      "name": "Ania AS04 斑马",
+      "brand": "タカラ／タカラトミー",
+      "original": "シマウマ",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "AS04／官网当前目录版本",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "局部可动"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "哺乳动物"
+        ]
+      },
+      "notes": [
+        {
+          "title": "系列与规格",
+          "text": "Ania 为局部可动的掌心大小动物模型。目录确认此型号与版本；各型号的具体可动部位、尺寸、材料及发售年份未在所用目录中单列。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方型号目录",
+          "title": "Ania 官方单品目录",
+          "url": "https://www.takaratomy.co.jp/products/ania/products/figure/",
+          "supports": "此具体编号、动物形象及附属物／漂浮版本。",
+          "checkedAt": "2026-10-07"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "Ania 品牌与可动说明",
+          "url": "https://www.takaratomy.co.jp/products/ania/about.html",
+          "supports": "系列的局部可动特征；未据此推定关节数量。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "多美",
+        "TAKARA TOMY",
+        "アニア",
+        "Ania",
+        "シマウマ",
+        "AS-04"
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有官网页面未单列本型号的发售年份。"
+      }
+    },
+    {
+      "id": "takara-ania-as05",
+      "name": "Ania AS05 白头海雕",
+      "brand": "タカラ／タカラトミー",
+      "original": "ワシ（ハクトウワシ）",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "AS05／官网当前目录版本",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "局部可动"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "鸟类"
+        ]
+      },
+      "notes": [
+        {
+          "title": "系列与规格",
+          "text": "Ania 为局部可动的掌心大小动物模型。目录确认此型号与版本；各型号的具体可动部位、尺寸、材料及发售年份未在所用目录中单列。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方型号目录",
+          "title": "Ania 官方单品目录",
+          "url": "https://www.takaratomy.co.jp/products/ania/products/figure/",
+          "supports": "此具体编号、动物形象及附属物／漂浮版本。",
+          "checkedAt": "2026-10-07"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "Ania 品牌与可动说明",
+          "url": "https://www.takaratomy.co.jp/products/ania/about.html",
+          "supports": "系列的局部可动特征；未据此推定关节数量。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "多美",
+        "TAKARA TOMY",
+        "アニア",
+        "Ania",
+        "ワシ（ハクトウワシ）",
+        "AS-05"
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有官网页面未单列本型号的发售年份。"
+      }
+    },
+    {
+      "id": "takara-ania-as06",
+      "name": "Ania AS06 河马（水面漂浮版）",
+      "brand": "タカラ／タカラトミー",
+      "original": "カバ（水に浮くVer.）",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "AS06／官网当前目录版本",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "局部可动"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "哺乳动物"
+        ]
+      },
+      "notes": [
+        {
+          "title": "系列与规格",
+          "text": "Ania 为局部可动的掌心大小动物模型。目录确认此型号与版本；各型号的具体可动部位、尺寸、材料及发售年份未在所用目录中单列。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方型号目录",
+          "title": "Ania 官方单品目录",
+          "url": "https://www.takaratomy.co.jp/products/ania/products/figure/",
+          "supports": "此具体编号、动物形象及附属物／漂浮版本。",
+          "checkedAt": "2026-10-07"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "Ania 品牌与可动说明",
+          "url": "https://www.takaratomy.co.jp/products/ania/about.html",
+          "supports": "系列的局部可动特征；未据此推定关节数量。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "多美",
+        "TAKARA TOMY",
+        "アニア",
+        "Ania",
+        "カバ（水に浮くVer.）",
+        "AS-06"
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有官网页面未单列本型号的发售年份。"
+      }
+    },
+    {
+      "id": "takara-ania-as07",
+      "name": "Ania AS07 大白鲨（水面漂浮版）",
+      "brand": "タカラ／タカラトミー",
+      "original": "ホホジロザメ（水に浮くVer.）",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "AS07／官网当前目录版本",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "局部可动"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "鱼类"
+        ]
+      },
+      "notes": [
+        {
+          "title": "系列与规格",
+          "text": "Ania 为局部可动的掌心大小动物模型。目录确认此型号与版本；各型号的具体可动部位、尺寸、材料及发售年份未在所用目录中单列。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方型号目录",
+          "title": "Ania 官方单品目录",
+          "url": "https://www.takaratomy.co.jp/products/ania/products/figure/",
+          "supports": "此具体编号、动物形象及附属物／漂浮版本。",
+          "checkedAt": "2026-10-07"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "Ania 品牌与可动说明",
+          "url": "https://www.takaratomy.co.jp/products/ania/about.html",
+          "supports": "系列的局部可动特征；未据此推定关节数量。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "多美",
+        "TAKARA TOMY",
+        "アニア",
+        "Ania",
+        "ホホジロザメ（水に浮くVer.）",
+        "AS-07"
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有官网页面未单列本型号的发售年份。"
+      }
+    },
+    {
+      "id": "takara-ania-as08",
+      "name": "Ania AS08 尼罗鳄",
+      "brand": "タカラ／タカラトミー",
+      "original": "ナイルワニ",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "AS08／官网当前目录版本",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "局部可动"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "爬行动物"
+        ]
+      },
+      "notes": [
+        {
+          "title": "系列与规格",
+          "text": "Ania 为局部可动的掌心大小动物模型。目录确认此型号与版本；各型号的具体可动部位、尺寸、材料及发售年份未在所用目录中单列。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方型号目录",
+          "title": "Ania 官方单品目录",
+          "url": "https://www.takaratomy.co.jp/products/ania/products/figure/",
+          "supports": "此具体编号、动物形象及附属物／漂浮版本。",
+          "checkedAt": "2026-10-07"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "Ania 品牌与可动说明",
+          "url": "https://www.takaratomy.co.jp/products/ania/about.html",
+          "supports": "系列的局部可动特征；未据此推定关节数量。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "多美",
+        "TAKARA TOMY",
+        "アニア",
+        "Ania",
+        "ナイルワニ",
+        "AS-08"
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有官网页面未单列本型号的发售年份。"
+      }
+    },
+    {
+      "id": "takara-ania-as09",
+      "name": "Ania AS09 大猩猩",
+      "brand": "タカラ／タカラトミー",
+      "original": "ゴリラ",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "AS09／官网当前目录版本",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "局部可动"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "哺乳动物"
+        ]
+      },
+      "notes": [
+        {
+          "title": "系列与规格",
+          "text": "Ania 为局部可动的掌心大小动物模型。目录确认此型号与版本；各型号的具体可动部位、尺寸、材料及发售年份未在所用目录中单列。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方型号目录",
+          "title": "Ania 官方单品目录",
+          "url": "https://www.takaratomy.co.jp/products/ania/products/figure/",
+          "supports": "此具体编号、动物形象及附属物／漂浮版本。",
+          "checkedAt": "2026-10-07"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "Ania 品牌与可动说明",
+          "url": "https://www.takaratomy.co.jp/products/ania/about.html",
+          "supports": "系列的局部可动特征；未据此推定关节数量。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "多美",
+        "TAKARA TOMY",
+        "アニア",
+        "Ania",
+        "ゴリラ",
+        "AS-09"
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有官网页面未单列本型号的发售年份。"
+      }
+    },
+    {
+      "id": "takara-ania-as10",
+      "name": "Ania AS10 北极熊",
+      "brand": "タカラ／タカラトミー",
+      "original": "ホッキョクグマ",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "AS10／官网当前目录版本",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "局部可动"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "哺乳动物"
+        ]
+      },
+      "notes": [
+        {
+          "title": "系列与规格",
+          "text": "Ania 为局部可动的掌心大小动物模型。目录确认此型号与版本；各型号的具体可动部位、尺寸、材料及发售年份未在所用目录中单列。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方型号目录",
+          "title": "Ania 官方单品目录",
+          "url": "https://www.takaratomy.co.jp/products/ania/products/figure/",
+          "supports": "此具体编号、动物形象及附属物／漂浮版本。",
+          "checkedAt": "2026-10-07"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "Ania 品牌与可动说明",
+          "url": "https://www.takaratomy.co.jp/products/ania/about.html",
+          "supports": "系列的局部可动特征；未据此推定关节数量。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "多美",
+        "TAKARA TOMY",
+        "アニア",
+        "Ania",
+        "ホッキョクグマ",
+        "AS-10"
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有官网页面未单列本型号的发售年份。"
+      }
+    },
+    {
+      "id": "takara-ania-al01",
+      "name": "Ania AL01 霸王龙",
+      "brand": "タカラ／タカラトミー",
+      "original": "ティラノサウルス",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "AL01／官网当前目录版本",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "局部可动"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "恐龙"
+        ]
+      },
+      "notes": [
+        {
+          "title": "系列与规格",
+          "text": "Ania 为局部可动的掌心大小动物模型。目录确认此型号与版本；各型号的具体可动部位、尺寸、材料及发售年份未在所用目录中单列。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方型号目录",
+          "title": "Ania 官方单品目录",
+          "url": "https://www.takaratomy.co.jp/products/ania/products/figure/",
+          "supports": "此具体编号、动物形象及附属物／漂浮版本。",
+          "checkedAt": "2026-10-07"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "Ania 品牌与可动说明",
+          "url": "https://www.takaratomy.co.jp/products/ania/about.html",
+          "supports": "系列的局部可动特征；未据此推定关节数量。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "多美",
+        "TAKARA TOMY",
+        "アニア",
+        "Ania",
+        "ティラノサウルス",
+        "AL-01"
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有官网页面未单列本型号的发售年份。"
+      }
+    },
+    {
+      "id": "takara-ania-al02",
+      "name": "Ania AL02 三角龙",
+      "brand": "タカラ／タカラトミー",
+      "original": "トリケラトプス",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "AL02／官网当前目录版本",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "局部可动"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "恐龙"
+        ]
+      },
+      "notes": [
+        {
+          "title": "系列与规格",
+          "text": "Ania 为局部可动的掌心大小动物模型。目录确认此型号与版本；各型号的具体可动部位、尺寸、材料及发售年份未在所用目录中单列。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方型号目录",
+          "title": "Ania 官方单品目录",
+          "url": "https://www.takaratomy.co.jp/products/ania/products/figure/",
+          "supports": "此具体编号、动物形象及附属物／漂浮版本。",
+          "checkedAt": "2026-10-07"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "Ania 品牌与可动说明",
+          "url": "https://www.takaratomy.co.jp/products/ania/about.html",
+          "supports": "系列的局部可动特征；未据此推定关节数量。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "多美",
+        "TAKARA TOMY",
+        "アニア",
+        "Ania",
+        "トリケラトプス",
+        "AL-02"
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有官网页面未单列本型号的发售年份。"
+      }
+    },
+    {
+      "id": "takara-ania-al05",
+      "name": "Ania AL05 鲸鲨（水面漂浮版）",
+      "brand": "タカラ／タカラトミー",
+      "original": "ジンベエザメ（水に浮くVer.）",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "AL05／官网当前目录版本",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "局部可动"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "鱼类"
+        ]
+      },
+      "notes": [
+        {
+          "title": "系列与规格",
+          "text": "Ania 为局部可动的掌心大小动物模型。目录确认此型号与版本；各型号的具体可动部位、尺寸、材料及发售年份未在所用目录中单列。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方型号目录",
+          "title": "Ania 官方单品目录",
+          "url": "https://www.takaratomy.co.jp/products/ania/products/figure/",
+          "supports": "此具体编号、动物形象及附属物／漂浮版本。",
+          "checkedAt": "2026-10-07"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "Ania 品牌与可动说明",
+          "url": "https://www.takaratomy.co.jp/products/ania/about.html",
+          "supports": "系列的局部可动特征；未据此推定关节数量。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "多美",
+        "TAKARA TOMY",
+        "アニア",
+        "Ania",
+        "ジンベエザメ（水に浮くVer.）",
+        "AL-05"
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有官网页面未单列本型号的发售年份。"
+      }
+    },
+    {
+      "id": "takara-ania-al07",
+      "name": "Ania AL07 沧龙（水面漂浮版）",
+      "brand": "タカラ／タカラトミー",
+      "original": "モササウルス（水に浮くVer.）",
+      "country": "日本",
+      "origin": "未披露",
+      "version": "AL07／官网当前目录版本",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "局部可动"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "史前海生爬行动物"
+        ]
+      },
+      "notes": [
+        {
+          "title": "系列与规格",
+          "text": "Ania 为局部可动的掌心大小动物模型。目录确认此型号与版本；各型号的具体可动部位、尺寸、材料及发售年份未在所用目录中单列。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方型号目录",
+          "title": "Ania 官方单品目录",
+          "url": "https://www.takaratomy.co.jp/products/ania/products/figure/",
+          "supports": "此具体编号、动物形象及附属物／漂浮版本。",
+          "checkedAt": "2026-10-07"
+        },
+        {
+          "kind": "官方系列说明",
+          "title": "Ania 品牌与可动说明",
+          "url": "https://www.takaratomy.co.jp/products/ania/about.html",
+          "supports": "系列的局部可动特征；未据此推定关节数量。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "多美",
+        "TAKARA TOMY",
+        "アニア",
+        "Ania",
+        "モササウルス（水に浮くVer.）",
+        "AL-07"
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有官网页面未单列本型号的发售年份。"
+      }
+    },
+    {
+      "id": "schleich-14812",
+      "name": "Schleich 14812 狮子",
+      "brand": "Schleich",
+      "original": "Lion",
+      "country": "德国",
+      "origin": "未披露",
+      "version": "14812",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "尺寸 120 × 36 × 73 mm",
+          "basis": "官网 Dimensions 由厘米换算，保留原列示顺序；未据此单列高度。"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "可动未披露"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "哺乳动物"
+        ]
+      },
+      "notes": [],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Lion",
+          "url": "https://gb.schleich-s.com/products/lion-14812-1",
+          "supports": "具体型号、形象与官网公布的规格；未列字段保留未知。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "思乐",
+        "schleich®",
+        "14812"
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有官网页面未单列本型号的发售年份。"
+      }
+    },
+    {
+      "id": "schleich-14761",
+      "name": "Schleich 14761 非洲象（雌性）",
+      "brand": "Schleich",
+      "original": "African elephant, female",
+      "country": "德国",
+      "origin": "未披露",
+      "version": "14761",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "尺寸 146 × 75 × 91 mm",
+          "basis": "官网 Dimensions 由厘米换算，保留原列示顺序；未据此单列高度。"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "可动未披露"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "哺乳动物"
+        ]
+      },
+      "notes": [],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "African elephant, female",
+          "url": "https://gb.schleich-s.com/products/african-elephant-female-14761-1",
+          "supports": "具体型号、形象与官网公布的规格；未列字段保留未知。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "思乐",
+        "schleich®",
+        "14761"
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有官网页面未单列本型号的发售年份。"
+      }
+    },
+    {
+      "id": "schleich-14750",
+      "name": "Schleich 14750 长颈鹿（雌性）",
+      "brand": "Schleich",
+      "original": "Giraffe, female",
+      "country": "德国",
+      "origin": "未披露",
+      "version": "14750",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "尺寸 90 × 42 × 172 mm",
+          "basis": "官网 Dimensions 由厘米换算，保留原列示顺序；未据此单列高度。"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "可动未披露"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "哺乳动物"
+        ]
+      },
+      "notes": [],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Giraffe, female",
+          "url": "https://gb.schleich-s.com/products/giraffe-female-14750",
+          "supports": "具体型号、形象与官网公布的规格；未列字段保留未知。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "思乐",
+        "schleich®",
+        "14750"
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有官网页面未单列本型号的发售年份。"
+      }
+    },
+    {
+      "id": "schleich-14809",
+      "name": "Schleich 14809 大白鲨",
+      "brand": "Schleich",
+      "original": "Great white shark",
+      "country": "德国",
+      "origin": "未披露",
+      "version": "14809",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "尺寸 177 × 80 × 78 mm",
+          "basis": "官网 Dimensions 由厘米换算，保留原列示顺序；未据此单列高度。"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "可动未披露"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "鱼类"
+        ]
+      },
+      "notes": [],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Great white shark",
+          "url": "https://gb.schleich-s.com/products/great-white-shark-14809",
+          "supports": "具体型号、形象与官网公布的规格；未列字段保留未知。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "思乐",
+        "schleich®",
+        "14809"
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有官网页面未单列本型号的发售年份。"
+      }
+    },
+    {
+      "id": "schleich-14525",
+      "name": "Schleich 14525 霸王龙",
+      "brand": "Schleich",
+      "original": "Tyrannosaurus rex",
+      "country": "德国",
+      "origin": "未披露",
+      "version": "14525",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "尺寸 280 × 95 × 140 mm",
+          "basis": "官网 Dimensions 由厘米换算，保留原列示顺序；未据此单列高度。"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "局部可动",
+          "下颚可动"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "恐龙"
+        ]
+      },
+      "notes": [
+        {
+          "title": "可动说明",
+          "text": "官网明确说明下颚可动。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Tyrannosaurus rex",
+          "url": "https://gb.schleich-s.com/products/tyrannosaurus-rex-14525",
+          "supports": "具体型号、形象与官网公布的规格；未列字段保留未知。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "思乐",
+        "schleich®",
+        "14525"
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有官网页面未单列本型号的发售年份。"
+      }
+    },
+    {
+      "id": "schleich-14736",
+      "name": "Schleich 14736 鳄鱼",
+      "brand": "Schleich",
+      "original": "Crocodile",
+      "country": "德国",
+      "origin": "未披露",
+      "version": "14736",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "尺寸 180 × 67 × 52 mm",
+          "basis": "官网 Dimensions 由厘米换算，保留原列示顺序；未据此单列高度。"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "局部可动",
+          "下颚可动"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "爬行动物"
+        ]
+      },
+      "notes": [
+        {
+          "title": "可动说明",
+          "text": "官网明确说明下颚可动。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Crocodile",
+          "url": "https://gb.schleich-s.com/products/crocodile-14736-1",
+          "supports": "具体型号、形象与官网公布的规格；未列字段保留未知。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "思乐",
+        "schleich®",
+        "14736"
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有官网页面未单列本型号的发售年份。"
+      }
+    },
+    {
+      "id": "papo-50004",
+      "name": "Papo 50004 老虎",
+      "brand": "Papo",
+      "original": "Tigre",
+      "country": "法国",
+      "origin": "未披露",
+      "version": "50004",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": 68,
+      "heightBasis": "官网明确标注的模型高度",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "长 156 mm",
+          "basis": "官方模型尺寸；与包装尺寸分开记录。"
+        },
+        {
+          "label": "宽 43 mm",
+          "basis": "官方模型尺寸；与包装尺寸分开记录。"
+        },
+        {
+          "label": "高 68 mm",
+          "basis": "官方模型尺寸；与包装尺寸分开记录。"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "可动未披露"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "PVC"
+        ],
+        "role": [
+          "动物造型",
+          "哺乳动物"
+        ]
+      },
+      "notes": [
+        {
+          "title": "材料与尺寸",
+          "text": "官网图片说明标注 PVC；尺寸按产品信息的 L、P、H 换算为毫米。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Tigre",
+          "url": "https://www.papo-france.com/products/tigre",
+          "supports": "具体型号、形象与官网公布的规格；未列字段保留未知。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "50004",
+        "Tigre"
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有官网页面未单列本型号的发售年份。"
+      }
+    },
+    {
+      "id": "papo-50238",
+      "name": "Papo 50238 奔跑的猎豹",
+      "brand": "Papo",
+      "original": "Guépard courant",
+      "country": "法国",
+      "origin": "未披露",
+      "version": "50238",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": 68,
+      "heightBasis": "官网明确标注的模型高度",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "长 125 mm",
+          "basis": "官方模型尺寸；与包装尺寸分开记录。"
+        },
+        {
+          "label": "宽 35 mm",
+          "basis": "官方模型尺寸；与包装尺寸分开记录。"
+        },
+        {
+          "label": "高 68 mm",
+          "basis": "官方模型尺寸；与包装尺寸分开记录。"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "可动未披露"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "PVC"
+        ],
+        "role": [
+          "动物造型",
+          "哺乳动物"
+        ]
+      },
+      "notes": [
+        {
+          "title": "材料与尺寸",
+          "text": "官网图片说明标注 PVC；尺寸按产品信息的 L、P、H 换算为毫米。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Guépard courant",
+          "url": "https://www.papo-france.com/products/guepard-courant",
+          "supports": "具体型号、形象与官网公布的规格；未列字段保留未知。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "50238",
+        "Guépard courant"
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有官网页面未单列本型号的发售年份。"
+      }
+    },
+    {
+      "id": "papo-56002",
+      "name": "Papo 56002 大白鲨",
+      "brand": "Papo",
+      "original": "Requin blanc",
+      "country": "法国",
+      "origin": "未披露",
+      "version": "56002",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": 62,
+      "heightBasis": "官网明确标注的模型高度",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "长 178 mm",
+          "basis": "官方模型尺寸；与包装尺寸分开记录。"
+        },
+        {
+          "label": "宽 118 mm",
+          "basis": "官方模型尺寸；与包装尺寸分开记录。"
+        },
+        {
+          "label": "高 62 mm",
+          "basis": "官方模型尺寸；与包装尺寸分开记录。"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "可动未披露"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "PVC"
+        ],
+        "role": [
+          "动物造型",
+          "鱼类"
+        ]
+      },
+      "notes": [
+        {
+          "title": "材料与尺寸",
+          "text": "官网图片说明标注 PVC；尺寸按产品信息的 L、P、H 换算为毫米。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Requin blanc",
+          "url": "https://www.papo-france.com/products/requin-blanc",
+          "supports": "具体型号、形象与官网公布的规格；未列字段保留未知。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "56002",
+        "Requin blanc"
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有官网页面未单列本型号的发售年份。"
+      }
+    },
+    {
+      "id": "papo-56039",
+      "name": "Papo 56039 鲸鲨",
+      "brand": "Papo",
+      "original": "Requin baleine",
+      "country": "法国",
+      "origin": "未披露",
+      "version": "56039",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": 65,
+      "heightBasis": "官网明确标注的模型高度",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "长 247 mm",
+          "basis": "官方模型尺寸；与包装尺寸分开记录。"
+        },
+        {
+          "label": "宽 105 mm",
+          "basis": "官方模型尺寸；与包装尺寸分开记录。"
+        },
+        {
+          "label": "高 65 mm",
+          "basis": "官方模型尺寸；与包装尺寸分开记录。"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "可动未披露"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "PVC"
+        ],
+        "role": [
+          "动物造型",
+          "鱼类"
+        ]
+      },
+      "notes": [
+        {
+          "title": "材料与尺寸",
+          "text": "官网图片说明标注 PVC；尺寸按产品信息的 L、P、H 换算为毫米。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Requin baleine",
+          "url": "https://www.papo-france.com/products/requin-baleine",
+          "supports": "具体型号、形象与官网公布的规格；未列字段保留未知。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "56039",
+        "Requin baleine"
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有官网页面未单列本型号的发售年份。"
+      }
+    },
+    {
+      "id": "papo-56000",
+      "name": "Papo 56000 虎鲸",
+      "brand": "Papo",
+      "original": "Orque",
+      "country": "法国",
+      "origin": "未披露",
+      "version": "56000",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": 95,
+      "heightBasis": "官网明确标注的模型高度",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "长 190 mm",
+          "basis": "官方模型尺寸；与包装尺寸分开记录。"
+        },
+        {
+          "label": "宽 95 mm",
+          "basis": "官方模型尺寸；与包装尺寸分开记录。"
+        },
+        {
+          "label": "高 95 mm",
+          "basis": "官方模型尺寸；与包装尺寸分开记录。"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "可动未披露"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "PVC"
+        ],
+        "role": [
+          "动物造型",
+          "哺乳动物"
+        ]
+      },
+      "notes": [
+        {
+          "title": "材料与尺寸",
+          "text": "官网图片说明标注 PVC；尺寸按产品信息的 L、P、H 换算为毫米。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Orque",
+          "url": "https://www.papo-france.com/products/orque",
+          "supports": "具体型号、形象与官网公布的规格；未列字段保留未知。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "56000",
+        "Orque"
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有官网页面未单列本型号的发售年份。"
+      }
+    },
+    {
+      "id": "papo-56037",
+      "name": "Papo 56037 蓝鲸",
+      "brand": "Papo",
+      "original": "Baleine bleue",
+      "country": "法国",
+      "origin": "未披露",
+      "version": "56037",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": 75,
+      "heightBasis": "官网明确标注的模型高度",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "长 385 mm",
+          "basis": "官方模型尺寸；与包装尺寸分开记录。"
+        },
+        {
+          "label": "宽 170 mm",
+          "basis": "官方模型尺寸；与包装尺寸分开记录。"
+        },
+        {
+          "label": "高 75 mm",
+          "basis": "官方模型尺寸；与包装尺寸分开记录。"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "可动未披露"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "PVC"
+        ],
+        "role": [
+          "动物造型",
+          "哺乳动物"
+        ]
+      },
+      "notes": [
+        {
+          "title": "材料与尺寸",
+          "text": "官网图片说明标注 PVC；尺寸按产品信息的 L、P、H 换算为毫米。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Baleine bleue",
+          "url": "https://www.papo-france.com/products/baleine-bleue",
+          "supports": "具体型号、形象与官网公布的规格；未列字段保留未知。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "56037",
+        "Baleine bleue"
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有官网页面未单列本型号的发售年份。"
+      }
+    },
+    {
+      "id": "safari-275029",
+      "name": "Safari Ltd 大白鲨",
+      "brand": "Safari Ltd",
+      "original": "Great White Shark",
+      "country": "美国",
+      "origin": "未披露",
+      "version": "275029",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "长 177.8 mm",
+          "basis": "官网 7 英寸，按 25.4 mm／英寸换算。"
+        },
+        {
+          "label": "宽 76.2 mm",
+          "basis": "官网 3 英寸，按 25.4 mm／英寸换算。"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "可动未披露"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "鱼类"
+        ]
+      },
+      "notes": [],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Great White Shark",
+          "url": "https://www.safariltd.com/products/wild-safari-sea-life-great-white-shark-figurines-275029",
+          "supports": "具体型号、形象与官网公布的规格；未列字段保留未知。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Safari",
+        "Great White Shark",
+        "275029"
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有官网页面未单列本型号的发售年份。"
+      }
+    },
+    {
+      "id": "safari-mosasaurus",
+      "name": "Safari Ltd 沧龙",
+      "brand": "Safari Ltd",
+      "original": "Mosasaurus",
+      "country": "美国",
+      "origin": "未披露",
+      "version": "官网现行单品",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长略大于 7.5 英寸",
+          "basis": "官方模型尺寸；与包装尺寸分开记录。"
+        },
+        {
+          "label": "宽度略大于 3 英寸",
+          "basis": "官方模型尺寸；与包装尺寸分开记录。"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "可动未披露"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "史前海生爬行动物"
+        ]
+      },
+      "notes": [],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Mosasaurus",
+          "url": "https://www.safariltd.com/products/mosasaurus-toy-figure",
+          "supports": "具体型号、形象与官网公布的规格；未列字段保留未知。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Safari",
+        "Mosasaurus",
+        "mosasaurus"
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有官网页面未单列本型号的发售年份。"
+      }
+    },
+    {
+      "id": "safari-amazon-dolphin",
+      "name": "Safari Ltd 亚马孙河豚",
+      "brand": "Safari Ltd",
+      "original": "Amazon River Dolphin",
+      "country": "美国",
+      "origin": "未披露",
+      "version": "官网现行单品",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长 152.4 mm",
+          "basis": "官网 6 英寸，按 25.4 mm／英寸换算。"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "可动未披露"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "哺乳动物"
+        ]
+      },
+      "notes": [],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Amazon River Dolphin",
+          "url": "https://www.safariltd.com/products/amazon-river-dolpin-toy-figurine",
+          "supports": "具体型号、形象与官网公布的规格；未列字段保留未知。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Safari",
+        "Amazon River Dolphin",
+        "amazon-dolphin"
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有官网页面未单列本型号的发售年份。"
+      }
+    },
+    {
+      "id": "safari-goblin-shark",
+      "name": "Safari Ltd 哥布林鲨",
+      "brand": "Safari Ltd",
+      "original": "Goblin Shark",
+      "country": "美国",
+      "origin": "未披露",
+      "version": "官网现行单品",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长略大于 5.5 英寸",
+          "basis": "官方模型尺寸；与包装尺寸分开记录。"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "可动未披露"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "鱼类"
+        ]
+      },
+      "notes": [],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Goblin Shark",
+          "url": "https://www.safariltd.com/products/goblin-shark-toy-figure",
+          "supports": "具体型号、形象与官网公布的规格；未列字段保留未知。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Safari",
+        "Goblin Shark",
+        "goblin-shark"
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有官网页面未单列本型号的发售年份。"
+      }
+    },
+    {
+      "id": "safari-200929",
+      "name": "Safari Ltd 章鱼（绿蓝色）",
+      "brand": "Safari Ltd",
+      "original": "Octopus",
+      "country": "美国",
+      "origin": "未披露",
+      "version": "200929／绿蓝色",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": 15.24,
+      "heightBasis": "官网明确标注的模型高度",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "长 127 mm",
+          "basis": "官网 5 英寸。"
+        },
+        {
+          "label": "高 15.24 mm",
+          "basis": "官网 0.6 英寸。"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "可动未披露"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "软体动物"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与组成",
+          "text": "本条对应绿蓝色 200929；同名橙色 274429 为另一款，尺寸分开记录。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Octopus",
+          "url": "https://www.safariltd.com/products/wild-safari-sea-life-octopus-figurines-200929",
+          "supports": "具体型号、形象与官网公布的规格；未列字段保留未知。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Safari",
+        "Octopus",
+        "200929"
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有官网页面未单列本型号的发售年份。"
+      }
+    },
+    {
+      "id": "safari-622616",
+      "name": "Safari Ltd 帝王蝶生命周期套装",
+      "brand": "Safari Ltd",
+      "original": "Life Cycle of a Monarch Butterfly",
+      "country": "美国",
+      "origin": "未披露",
+      "version": "622616／四阶段套装",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "成蝶翼展 88.9 mm",
+          "basis": "官网 3.5 英寸；不采用泡罩包装尺寸。"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "可动未披露"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物造型",
+          "昆虫",
+          "生命周期模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "版本与组成",
+          "text": "包含卵、幼虫、蛹与成蝶四个阶段。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "官方产品页",
+          "title": "Life Cycle of a Monarch Butterfly",
+          "url": "https://www.safariltd.com/products/life-cycle-series-life-cycle-of-a-monarch-butterfly-figurines-622616",
+          "supports": "具体型号、形象与官网公布的规格；未列字段保留未知。",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "event": null,
+      "aliases": [
+        "Safari",
+        "Life Cycle of a Monarch Butterfly",
+        "622616"
+      ],
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": null,
+        "note": "现有官网页面未单列本型号的发售年份。"
+      }
     }
   ],
   "resources": [
@@ -115854,6 +120083,48 @@ window.TOY_REFERENCE_DATA = {
       "description": "微缩物件与场景配套；系列、单盒组成及包装尺寸分别记录。",
       "url": "https://www.re-ment.co.jp/product/brand.php?c=puchisample",
       "checkedAt": "2026-10-06"
+    },
+    {
+      "group": "生物模型官方目录",
+      "name": "万代生物大图鉴官方目录",
+      "url": "https://gashapon.jp/dangomushi/search/list.php",
+      "description": "按各弹与版本列出发售记录。",
+      "checkedAt": "2026-10-07"
+    },
+    {
+      "group": "生物模型官方目录",
+      "name": "海洋堂 REVOGEO",
+      "url": "https://kaiyodo.co.jp/items/revogeo/",
+      "description": "昆虫等生物可动模型的官方产品档案。",
+      "checkedAt": "2026-10-07"
+    },
+    {
+      "group": "生物模型官方目录",
+      "name": "多美 Ania 官方单品目录",
+      "url": "https://www.takaratomy.co.jp/products/ania/products/figure/",
+      "description": "按 AS、AL 编号查找动物与史前生物模型。",
+      "checkedAt": "2026-10-07"
+    },
+    {
+      "group": "生物模型官方目录",
+      "name": "Schleich WILD LIFE",
+      "url": "https://gb.schleich-s.com/collections/wild-life",
+      "description": "动物模型官方目录；具体尺寸以对应编号的产品页为准。",
+      "checkedAt": "2026-10-07"
+    },
+    {
+      "group": "生物模型官方目录",
+      "name": "Safari Ltd 官方动物模型",
+      "url": "https://www.safariltd.com/collections/safari-ltd-figurines",
+      "description": "自然与生命教育模型目录。",
+      "checkedAt": "2026-10-07"
+    },
+    {
+      "group": "生物模型官方目录",
+      "name": "Papo 官方目录",
+      "url": "https://www.papo-france.com/collections/",
+      "description": "动物等系列的官方目录；具体编号见各产品页。",
+      "checkedAt": "2026-10-07"
     }
   ],
   "recordingRules": [
@@ -115867,7 +120138,7 @@ window.TOY_REFERENCE_DATA = {
     "年代优先采用具体版本的官方发售／受注年月；仅有版本年时注明口径，未知写年代待核实。历史型号不等于停产，停售只针对有明确证据的具体版本；二手与旧库存可能继续流通。",
     "展会公布时间与发售时间分开记录；官方图录有具体型号时才标注展会。只有企划或原型资料时，不推定最终材质、尺寸、交付组成和当前销售状态。"
   ],
-  "coverage": "共 1642 条具名商品、身体、配套与已公开规格的企划记录；按具体型号持续补充人形、机械、生物、拟人角色、载具及场景配件。",
+  "coverage": "共 1706 条具名商品、身体、配套与已公开规格的企划记录；按具体型号持续补充人形、机械、生物、拟人角色、载具及场景配件。",
   "previousCheckDate": "2026-10-05",
   "checkDates": {
     "azone-body-pfl103-wht": "2026-10-06",
@@ -117434,6 +121705,70 @@ window.TOY_REFERENCE_DATA = {
     "batch-ania-4904810919384": "2026-10-06",
     "batch-ania-4904810919360": "2026-10-06",
     "batch-ania-4904810995074": "2026-10-06",
-    "batch-ania-4904810160557": "2026-10-06"
+    "batch-ania-4904810160557": "2026-10-06",
+    "bandai-ikimono-adv-pillbug-plain": "2026-10-07",
+    "bandai-ikimono-adv-pillbug-irido": "2026-10-07",
+    "bandai-ikimono-adv-pillbug-zebra": "2026-10-07",
+    "bandai-ikimono-repti-frog-strawberry": "2026-10-07",
+    "bandai-ikimono-repti-frog-cobalt": "2026-10-07",
+    "bandai-ikimono-repti-frog-yellow": "2026-10-07",
+    "bandai-ikimono-repti-frog-marbled": "2026-10-07",
+    "bandai-ikimono-repti-frog-semadara": "2026-10-07",
+    "bandai-ikimono-adv-turtle02-yellow": "2026-10-07",
+    "bandai-ikimono-adv-turtle02-orange": "2026-10-07",
+    "bandai-ikimono-adv-turtle02-pastel": "2026-10-07",
+    "bandai-ikimono-adv-turtle02-cooter": "2026-10-07",
+    "bandai-ikimono-mantis02-diamond-dark": "2026-10-07",
+    "bandai-ikimono-mantis02-diamond-light": "2026-10-07",
+    "bandai-ikimono-mantis02-round-dark": "2026-10-07",
+    "bandai-ikimono-mantis02-round-light": "2026-10-07",
+    "bandai-ikimono-mantis02-green-expanded": "2026-10-07",
+    "bandai-ikimono-mantis02-green-normal": "2026-10-07",
+    "bandai-ikimono-beetle03-goliath": "2026-10-07",
+    "bandai-ikimono-beetle03-neptune": "2026-10-07",
+    "bandai-ikimono-beetle03-grant-white": "2026-10-07",
+    "bandai-ikimono-beetle03-grant-black": "2026-10-07",
+    "bandai-ikimono-beetle03-hime-brown": "2026-10-07",
+    "bandai-ikimono-beetle03-hime-black": "2026-10-07",
+    "kaiyodo-revogeo-rg001": "2026-10-07",
+    "kaiyodo-revogeo-rg002": "2026-10-07",
+    "kaiyodo-revogeo-rg003": "2026-10-07",
+    "kaiyodo-revogeo-rg004": "2026-10-07",
+    "kaiyodo-revogeo-rg005": "2026-10-07",
+    "kaiyodo-revogeo-rg006": "2026-10-07",
+    "kaiyodo-revogeo-rg007": "2026-10-07",
+    "kaiyodo-revogeo-rg008": "2026-10-07",
+    "takara-ania-as01": "2026-10-07",
+    "takara-ania-as02": "2026-10-07",
+    "takara-ania-as03": "2026-10-07",
+    "takara-ania-as04": "2026-10-07",
+    "takara-ania-as05": "2026-10-07",
+    "takara-ania-as06": "2026-10-07",
+    "takara-ania-as07": "2026-10-07",
+    "takara-ania-as08": "2026-10-07",
+    "takara-ania-as09": "2026-10-07",
+    "takara-ania-as10": "2026-10-07",
+    "takara-ania-al01": "2026-10-07",
+    "takara-ania-al02": "2026-10-07",
+    "takara-ania-al05": "2026-10-07",
+    "takara-ania-al07": "2026-10-07",
+    "schleich-14812": "2026-10-07",
+    "schleich-14761": "2026-10-07",
+    "schleich-14750": "2026-10-07",
+    "schleich-14809": "2026-10-07",
+    "schleich-14525": "2026-10-07",
+    "schleich-14736": "2026-10-07",
+    "papo-50004": "2026-10-07",
+    "papo-50238": "2026-10-07",
+    "papo-56002": "2026-10-07",
+    "papo-56039": "2026-10-07",
+    "papo-56000": "2026-10-07",
+    "papo-56037": "2026-10-07",
+    "safari-275029": "2026-10-07",
+    "safari-mosasaurus": "2026-10-07",
+    "safari-amazon-dolphin": "2026-10-07",
+    "safari-goblin-shark": "2026-10-07",
+    "safari-200929": "2026-10-07",
+    "safari-622616": "2026-10-07"
   }
 };

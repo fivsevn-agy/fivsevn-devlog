@@ -53,11 +53,11 @@ updated: 2026-10-07
   </div>
   <details id="tr-type-filter" class="tr-filter-section" open>
     <summary>类型<span id="tr-type-current" class="tr-filter-current"></span></summary>
-    <div id="tr-types" class="tr-types" role="group" aria-label="类型筛选"></div>
+    <div id="tr-types" class="tr-types" role="group" aria-label="类型筛选，可复选"></div>
   </details>
   <details id="tr-brand-filter" class="tr-filter-section" open>
     <summary>厂商<span id="tr-brand-current" class="tr-filter-current"></span></summary>
-    <div id="tr-brands" class="tr-brands" role="group" aria-label="厂商筛选"></div>
+    <div id="tr-brands" class="tr-brands" role="group" aria-label="厂商筛选，可复选"></div>
   </details>
   <details id="tr-tag-filter" class="tr-filter-section tr-tag-filter">
     <summary>标签<span id="tr-tag-filter-count"></span></summary>
@@ -108,7 +108,7 @@ updated: 2026-10-07
           >。资料尚未覆盖历年展会的全部产品。展会记录需有与具体产品对应的证据；社区链接用于查找讨论，不作为热度排名的依据。
         </p>
         <p class="tr-meta">
-          <a id="tr-xlsx" href="{{ '/posts/2026/assets/toy-reference/toy-data.xlsx' | relative_url }}" download="玩具资料整理.xlsx"
+          <a id="tr-xlsx" href="{{ '/posts/2026/assets/toy-reference/toy-data.xlsx' | relative_url }}?v=20261007-creatures" download="玩具资料整理.xlsx"
             >下载完整资料表（Excel）</a
           >
         </p>
@@ -163,6 +163,6 @@ updated: 2026-10-07
     </p></noscript
   >
 </div>
-<script defer src="{{ '/posts/2026/assets/toy-reference/toy-data.js' | relative_url }}?v=20261007-reference"></script>
-<script defer src="{{ '/posts/2026/assets/toy-reference/toy-browse.js' | relative_url }}?v=20261007-reference"></script>
-<script defer src="{{ '/posts/2026/assets/toy-reference/toy-reference.js' | relative_url }}?v=20261007-guide-copy"></script>
+<script defer src="{{ '/posts/2026/assets/toy-reference/toy-data.js' | relative_url }}?v=20261007-creatures"></script>
+<script defer src="{{ '/posts/2026/assets/toy-reference/toy-browse.js' | relative_url }}?v=20261007-creatures"></script>
+<script defer src="{{ '/posts/2026/assets/toy-reference/toy-reference.js' | relative_url }}?v=20261007-multiselect"></script>

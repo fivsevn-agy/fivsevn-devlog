@@ -27,14 +27,14 @@
     })),
     products = db.products,
     selected = new Set(),
-    activeTags = new Set();
+    activeTags = new Set(),
+    activeTypes = new Set(["human"]),
+    activeBrands = new Set();
   const types = browse.types;
   const memberships = new Map(products.map((p) => [
     p.id, new Set(browse?.products[p.id] || ["human"]),
   ]));
-  let activeType = "human",
-    activeBrand = "",
-    visibleLimit = PAGE_SIZE,
+  let visibleLimit = PAGE_SIZE,
     activeId = null,
     lastFocus,
     pageScrollLock;
@@ -263,12 +263,13 @@
       vocabulary.get(key).count++;
     });
   });
-  const matchesType = (p) => activeType === "all" || memberships.get(p.id).has(activeType);
+  const matchesType = (p) => !activeTypes.size || [...activeTypes].some((type) => memberships.get(p.id).has(type));
+  const matchesBrand = (p) => !activeBrands.size || activeBrands.has(p.brand);
   function chip(t) {
     return `<span class="tr-chip${t.variant === "unknown" ? " tr-unknown" : ""}" data-category="${t.cat}"${t.variant === "scale" ? ' data-variant="scale"' : ""}>${icons[t.cat]}${esc(t.text)}</span>`;
   }
   function matches(p, terms) {
-    return matchesType(p) && (!activeBrand || p.brand === activeBrand) &&
+    return matchesType(p) && matchesBrand(p) &&
       terms.every((t) => searchable.get(p.id).includes(t)) &&
       [...activeTags].every((key) => productTagKeys.get(p.id).has(key));
   }
@@ -500,25 +501,25 @@
   }
   function reset() {
     $("tr-search").value = "";
-    activeType = "all";
-    activeBrand = "";
+    activeTypes.clear();
+    activeBrands.clear();
     activeTags.clear();
     refresh();
   }
   function renderTypes() {
     $("tr-types").innerHTML = [{ id: "all", name: "全部类型" }, ...types].map((t) => {
       const pending = t.id !== "all" && !products.some((p) => memberships.get(p.id).has(t.id));
-      return `<button class="tr-type-choice" data-type="${t.id}" aria-pressed="${activeType === t.id}">${esc(t.name)}${pending ? " · 待整理" : ""}</button>`;
+      return `<button class="tr-type-choice" data-type="${t.id}" aria-pressed="${t.id === "all" ? !activeTypes.size : activeTypes.has(t.id)}">${esc(t.name)}${pending ? " · 待整理" : ""}</button>`;
     }).join("");
-    $("tr-type-current").textContent = activeType === "all" ? "全部类型" : types.find((t) => t.id === activeType).name;
+    $("tr-type-current").textContent = activeTypes.size ? types.filter((t) => activeTypes.has(t.id)).map((t) => t.name).join("、") : "全部类型";
   }
   function renderBrands() {
-    const brands = [...new Set(products.filter(matchesType).map((p) => p.brand))].sort();
-    $("tr-brand-current").textContent = activeBrand || "全部厂商";
+    const brands = [...new Set([...products.filter(matchesType).map((p) => p.brand), ...activeBrands])].sort();
+    $("tr-brand-current").textContent = activeBrands.size ? [...activeBrands].join("、") : "全部厂商";
     $("tr-brands").innerHTML = brands.length ? ["", ...brands]
       .map(
         (b) =>
-          `<button class="tr-brand-choice" data-brand="${esc(b)}" aria-pressed="${activeBrand === b}">${esc(b || "全部厂商")}</button>`,
+          `<button class="tr-brand-choice" data-brand="${esc(b)}" aria-pressed="${b ? activeBrands.has(b) : !activeBrands.size}">${esc(b || "全部厂商")}</button>`,
       )
       .join("") : '<p class="tr-filter-empty">尚无厂商记录</p>';
   }
@@ -527,7 +528,7 @@
     return `<button class="tr-chip tr-tag-choice${t.variant === "unknown" ? " tr-unknown" : ""}" data-category="${t.cat}"${t.variant === "scale" ? ' data-variant="scale"' : ""} data-tag-filter="${esc(key)}" aria-pressed="${activeTags.has(key)}" aria-label="${removable ? "取消标签：" : "筛选标签："}${esc(t.text)}">${icons[t.cat]}${esc(t.text)}${removable ? '<span aria-hidden="true"> ×</span>' : ""}</button>`;
   }
   function renderTagFilters() {
-    const available = new Set(products.filter((p) => matchesType(p) && (!activeBrand || p.brand === activeBrand))
+    const available = new Set(products.filter((p) => matchesType(p) && matchesBrand(p))
       .flatMap((p) => [...productTagKeys.get(p.id)]));
     activeTags.forEach((key) => available.add(key));
     $("tr-tag-choices").innerHTML = cats.map((c) => {
@@ -538,7 +539,7 @@
     if (!available.size) $("tr-tag-choices").innerHTML = '<p class="tr-filter-empty">尚无标签记录</p>';
     $("tr-tag-filter-count").textContent = activeTags.size ? ` (${activeTags.size})` : "";
     $("tr-active-tags").innerHTML = [...activeTags].map((key) => filterChip(key, true)).join("");
-    $("tr-active-filters").hidden = !activeTags.size && !activeBrand && !$("tr-search").value.trim();
+    $("tr-active-filters").hidden = !activeTags.size && !activeTypes.size && !activeBrands.size && !$("tr-search").value.trim();
   }
   $("tr-resources").innerHTML = [...new Set(db.resources.map((r) => r.group))]
     .map(
@@ -564,17 +565,15 @@
     `<div class="tr-tag-definition"><span class="tr-chip" data-category="${c.id}">${icons[c.id]}${esc(c.name)}</span><p>${esc(tagDefinitions[c.id])}</p></div>`
   ).join("")}</div><div class="tr-tag-rules"><h3>筛选与记录</h3><ul>
     <li>点击标签选中，再次点击取消。多选标签代表同时满足条件，可与类型、厂商和关键词一起筛选。选中的标签会显示在产品卡片上。</li>
-    <li>先按类型浏览，再按厂商筛选。同一产品可归入多个类型，仍对应同一条记录；标为“待整理”的类型目前没有产品资料。</li>
+    <li>类型与厂商均可复选，再次点击取消；“全部”清空本组选择。同一组内匹配任一选项，不同组与标签、关键词共同筛选。同一产品可归入多个类型，仍只显示一条记录；“待整理”表示目前没有产品资料。</li>
     <li>“未披露”表示现有来源未提供该信息；“待核实”表示信息仍需确认；“不适用”表示该项不适合用于描述这件产品。具体组成、配件适用范围与来源见详情。卡片上的小图标用于提示形象或商品类型。</li>
   </ul></div>`;
   function chooseType(type) {
-    activeType = type;
-    if (!products.some((p) => matchesType(p) && p.brand === activeBrand)) activeBrand = "";
-    const available = new Set(products.filter((p) => matchesType(p) && (!activeBrand || p.brand === activeBrand))
-      .flatMap((p) => [...productTagKeys.get(p.id)]));
-    activeTags.forEach((key) => { if (!available.has(key)) activeTags.delete(key); });
+    if (type === "all") activeTypes.clear();
+    else if (activeTypes.has(type)) activeTypes.delete(type);
+    else activeTypes.add(type);
     refresh();
-    [...$("tr-types").querySelectorAll("button")].find((b) => b.dataset.type === activeType)?.focus({ preventScroll: true });
+    [...$("tr-types").querySelectorAll("button")].find((b) => b.dataset.type === type)?.focus({ preventScroll: true });
   }
   root.addEventListener("click", (e) => {
     const b = e.target.closest("button");
@@ -595,10 +594,13 @@
       next.focus({ preventScroll: true });
     }
     if (b.hasAttribute("data-brand")) {
-      activeBrand = b.dataset.brand;
+      const brand = b.dataset.brand;
+      if (!brand) activeBrands.clear();
+      else if (activeBrands.has(brand)) activeBrands.delete(brand);
+      else activeBrands.add(brand);
       refresh();
       [...$("tr-brands").querySelectorAll("button")]
-        .find((x) => x.dataset.brand === activeBrand)
+        .find((x) => x.dataset.brand === brand)
         ?.focus({ preventScroll: true });
     }
   });
