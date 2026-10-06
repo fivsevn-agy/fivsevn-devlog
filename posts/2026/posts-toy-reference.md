@@ -1,6 +1,7 @@
 ---
 id: posts-toy-reference-001
 title: 玩具资料整理 · Toy Reference
+layout: toy-post
 module: posts
 submodule: reference
 topic: toy-reference

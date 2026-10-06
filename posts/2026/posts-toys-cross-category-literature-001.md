@@ -1,6 +1,7 @@
 ---
 id: posts-toys-cross-category-literature-001
 title: 玩具与模型的跨类别流动①：文献整理
+layout: toy-post
 
 module: posts
 submodule: culture
