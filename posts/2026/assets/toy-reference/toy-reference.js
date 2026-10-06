@@ -36,7 +36,8 @@
     activeBrand = "",
     visibleLimit = PAGE_SIZE,
     activeId = null,
-    lastFocus;
+    lastFocus,
+    pageScrollLock;
   const esc = (v) =>
     String(v ?? "").replace(
       /[&<>"']/g,
@@ -347,9 +348,55 @@
       next.focus({ preventScroll: true });
     }
   }
+  function lockPageScroll() {
+    if (pageScrollLock) return;
+    const html = document.documentElement,
+      body = document.body,
+      x = window.scrollX,
+      y = window.scrollY,
+      scrollbarWidth = Math.max(0, window.innerWidth - html.clientWidth),
+      paddingRight = parseFloat(window.getComputedStyle(body).paddingRight) || 0;
+    const styles = [
+      [html.style, ["overflow", "scroll-behavior"]],
+      [body.style, ["position", "top", "left", "right", "overflow", "padding-right"]],
+    ].flatMap(([style, names]) => names.map((name) => [
+      style, name, style.getPropertyValue(name), style.getPropertyPriority(name),
+    ]));
+    pageScrollLock = { x, y, styles };
+    // A fixed body also prevents background touch scrolling in iOS Safari.
+    html.style.setProperty("overflow", "hidden", "important");
+    html.style.setProperty("scroll-behavior", "auto", "important");
+    body.style.setProperty("position", "fixed", "important");
+    body.style.setProperty("top", `${-y}px`, "important");
+    body.style.setProperty("left", `${-x}px`, "important");
+    body.style.setProperty("right", `${x}px`, "important");
+    body.style.setProperty("overflow", "hidden", "important");
+    if (scrollbarWidth) {
+      body.style.setProperty("padding-right", `${paddingRight + scrollbarWidth}px`, "important");
+    }
+  }
+  function unlockPageScroll() {
+    // Keep the same lock when switching from comparison to product details.
+    if (!pageScrollLock || root.querySelector("dialog[open]")) return;
+    const { x, y, styles } = pageScrollLock;
+    pageScrollLock = null;
+    const restore = ([style, name, value, priority]) => {
+      if (value) style.setProperty(name, value, priority);
+      else style.removeProperty(name);
+    };
+    styles.filter(([, name]) => name !== "scroll-behavior").forEach(restore);
+    window.scrollTo(x, y);
+    styles.filter(([, name]) => name === "scroll-behavior").forEach(restore);
+  }
   function openDialog(id, returnFocus) {
     lastFocus = returnFocus || document.activeElement;
-    $(id).showModal();
+    lockPageScroll();
+    try {
+      $(id).showModal();
+    } catch (error) {
+      unlockPageScroll();
+      throw error;
+    }
     $(id).scrollTop = 0;
     $(id).querySelector(".tr-close").focus({ preventScroll: true });
   }
@@ -369,6 +416,7 @@
   }
   function closeDialog(id) {
     $(id).close();
+    unlockPageScroll();
     restoreFocus();
   }
   function notes(p) {
@@ -575,6 +623,7 @@
   });
   $("tr-diff").addEventListener("change", compare);
   root.querySelectorAll("dialog").forEach((d) => {
+    d.addEventListener("close", unlockPageScroll);
     d.addEventListener("click", (e) => {
       if (e.target === d) {
         const r = d.getBoundingClientRect();
