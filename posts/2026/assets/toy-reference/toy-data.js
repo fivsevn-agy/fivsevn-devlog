@@ -1,4 +1,4 @@
-window.TOY_COMPARE_DATA = {
+window.TOY_REFERENCE_DATA = {
   "schemaVersion": 3,
   "date": "2026-10-06",
   "title": "玩具资料整理 · Toy Reference",

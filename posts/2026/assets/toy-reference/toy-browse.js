@@ -1,4 +1,4 @@
-window.TOY_COMPARE_BROWSE = {
+window.TOY_REFERENCE_BROWSE = {
   "schemaVersion": 1,
   "types": [
     {
