@@ -1,13 +1,16 @@
 (() => {
   "use strict";
-  const root = document.getElementById("toyCompare"),
-    db = window.TOY_COMPARE_DATA,
-    $ = (id) => document.getElementById(id);
-  if (!db) {
+  const root = document.getElementById("toyCompare");
+  if (!root) return;
+  const db = window.TOY_COMPARE_DATA,
+    browse = window.TOY_COMPARE_BROWSE,
+    $ = (id) => root.querySelector(`#${id}`);
+  if (!db || !browse) {
     $("tc-empty").hidden = false;
     $("tc-empty").querySelector("h3").textContent = "资料未载入";
     $("tc-empty").querySelector("p").textContent =
-      "请检查文章专用资料文件是否上传完整。";
+      "请刷新页面重试，或展开下方“完整资料与记录口径”下载资料表。";
+    $("tc-count").textContent = "资料未载入";
     $("tc-empty-reset").hidden = true;
     $("tc-more").hidden = true;
     $("tc-search").disabled = true;
@@ -24,9 +27,8 @@
     })),
     products = db.products,
     selected = new Set(),
-    activeTags = new Set(),
-    browse = window.TOY_COMPARE_BROWSE;
-  const types = browse?.types || [{ id: "human", name: "人形" }];
+    activeTags = new Set();
+  const types = browse.types;
   const memberships = new Map(products.map((p) => [
     p.id, new Set(browse?.products[p.id] || ["human"]),
   ]));

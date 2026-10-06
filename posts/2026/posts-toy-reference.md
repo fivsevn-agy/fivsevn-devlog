@@ -7,7 +7,11 @@ topic: toy-reference
 type: note
 status: active
 canonical: true
+canonical_url: https://devlog.fivsevn.com/posts/2026/posts-toy-reference.html
+lang: zh-CN
 summary: >
+  按对象类型与厂商浏览玩具资料，以彩色标签筛选和比照结构、比例尺寸、交付、换装与材料；保留具体型号、版本、来源和说明。
+description: >
   按对象类型与厂商浏览玩具资料，以彩色标签筛选和比照结构、比例尺寸、交付、换装与材料；保留具体型号、版本、来源和说明。
 parents: [posts-index]
 related: []
@@ -158,6 +162,6 @@ updated: 2026-10-07
     </p></noscript
   >
 </div>
-<script src="{{ '/posts/2026/assets/toy-compare/toy-data.js' | relative_url }}?v=20261006-batch1"></script>
-<script src="{{ '/posts/2026/assets/toy-compare/toy-browse.js' | relative_url }}?v=20261006-batch1"></script>
-<script src="{{ '/posts/2026/assets/toy-compare/toy-compare.js' | relative_url }}?v=20261006-batch1"></script>
+<script defer src="{{ '/posts/2026/assets/toy-compare/toy-data.js' | relative_url }}?v=20261006-batch1"></script>
+<script defer src="{{ '/posts/2026/assets/toy-compare/toy-browse.js' | relative_url }}?v=20261006-batch1"></script>
+<script defer src="{{ '/posts/2026/assets/toy-compare/toy-compare.js' | relative_url }}?v=20261007-structure"></script>
