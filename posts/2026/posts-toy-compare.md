@@ -1,14 +1,14 @@
 ---
 id: posts-toy-compare-001
-title: 人形玩具比照
+title: 玩具资料整理 · Toy Reference
 module: posts
 submodule: reference
-topic: humanoid-toy-comparison
+topic: toy-reference
 type: note
 status: active
 canonical: true
 summary: >
-  以彩色标签比照具体人偶、人形玩具与相关机械角色的连接方式、比例高度、交付形态、换装和材料；保留型号来源与展开说明。
+  按对象类型与厂商浏览玩具资料，以彩色标签筛选和比照结构、比例尺寸、交付、换装与材料；保留具体型号、版本、来源和说明。
 parents: [posts-index]
 related: []
 tags: [posts, toys, dolls, comparison, reference]
@@ -22,11 +22,23 @@ created: 2026-10-05
 updated: 2026-10-06
 ---
 
-<link rel="stylesheet" href="{{ '/posts/2026/assets/toy-compare/toy-compare.css' | relative_url }}" />
+<link rel="stylesheet" href="{{ '/posts/2026/assets/toy-compare/toy-compare.css' | relative_url }}?v=20261006-tags" />
 <div id="toyCompare">
   <header class="tc-header">
-    <div><h2>人形玩具比照</h2></div>
+    <div><h2>玩具资料整理</h2><p class="tc-english-title" lang="en">Toy Reference</p></div>
   </header>
+  <div class="tc-type-nav">
+    <label class="tc-sr-only" for="tc-type">对象大类</label>
+    <select id="tc-type" aria-label="对象大类">
+      <option value="human">人形</option>
+      <option value="all">全部类型</option>
+      <option value="mechanical">机器人／机械</option>
+      <option value="creature">生物／怪兽</option>
+      <option value="anthro">拟人／抽象角色</option>
+      <option value="vehicle">载具 · 待整理</option>
+      <option value="props">配件／场景</option>
+    </select>
+  </div>
   <div class="tc-tools">
     <label class="tc-search"
       ><svg
@@ -52,13 +64,21 @@ updated: 2026-10-06
     role="group"
     aria-label="厂商筛选"
   ></div>
+  <details id="tc-tag-filter" class="tc-tag-filter">
+    <summary>标签筛选<span id="tc-tag-filter-count"></span></summary>
+    <div id="tc-tag-choices" class="tc-tag-choices"></div>
+  </details>
+  <div id="tc-active-filters" class="tc-active-filters" hidden>
+    <div id="tc-active-tags" class="tc-active-tags"></div>
+    <button id="tc-filter-reset">清空筛选</button>
+  </div>
   <div class="tc-results tc-sr-only">
     <span id="tc-count" role="status" aria-live="polite"></span>
   </div>
   <div id="tc-grid" class="tc-grid"></div>
   <div id="tc-empty" class="tc-empty" hidden>
     <h3>没有匹配的产品</h3>
-    <p>试试切换厂商，或换一个关键词。</p>
+    <p>试试取消标签、切换厂商，或换一个关键词。</p>
     <button id="tc-empty-reset">清空筛选</button>
   </div>
   <div class="tc-more-wrap"><button id="tc-more" hidden>显示更多</button></div>
@@ -69,7 +89,7 @@ updated: 2026-10-06
   </div>
   <div class="tc-bottom">
     <details>
-      <summary>资料整理</summary>
+      <summary>延伸资料</summary>
       <div class="tc-resources" id="tc-resources"></div>
     </details>
     <details>
@@ -80,7 +100,7 @@ updated: 2026-10-06
       <summary>完整资料与记录口径</summary>
       <div>
         <p class="tc-muted">
-          以具体型号和交付版本记录。厂商标称比例、实际高度、头身比各自保留；“未披露”不等于“没有”。跨品牌适配需有具体对象与限制。
+          以具体型号和交付版本记录。厂商标称比例、实际尺寸、头身比各自保留；“未披露”不等于“没有”。跨品牌适配需有具体对象与限制。
         </p>
         <p class="tc-meta">
           年代按具体版本的发售、受注或生产年份记录；“年代待核实”表示尚缺可靠年份。“历史型号”不等于停产；“已停产”只用于官方明确停售的具体版本。二手与旧库存仍可能流通，复刻另记。
@@ -93,25 +113,10 @@ updated: 2026-10-06
           >。尚未覆盖历年展会的全部产品；展会关联只在有对应证据时记录，社区链接也不作为热度排名。
         </p>
         <p class="tc-meta">
-          <a id="tc-xlsx" href="{{ '/posts/2026/assets/toy-compare/toy-data.xlsx' | relative_url }}" download
+          <a id="tc-xlsx" href="{{ '/posts/2026/assets/toy-compare/toy-data.xlsx' | relative_url }}" download="玩具资料整理.xlsx"
             >下载完整资料表（Excel）</a
           >
-          · <button id="tc-json">导出完整记录</button>
         </p>
-        <div class="tc-raw-scroll">
-          <table class="tc-raw-table">
-            <thead>
-              <tr>
-                <th>品牌</th>
-                <th>产品</th>
-                <th>连接／可动</th>
-                <th>尺寸口径</th>
-                <th>产品来源</th>
-              </tr>
-            </thead>
-            <tbody id="tc-raw"></tbody>
-          </table>
-        </div>
       </div>
     </details>
   </div>
@@ -164,4 +169,5 @@ updated: 2026-10-06
   >
 </div>
 <script src="{{ '/posts/2026/assets/toy-compare/toy-data.js' | relative_url }}"></script>
-<script src="{{ '/posts/2026/assets/toy-compare/toy-compare.js' | relative_url }}"></script>
+<script src="{{ '/posts/2026/assets/toy-compare/toy-browse.js' | relative_url }}?v=20261006-tags"></script>
+<script src="{{ '/posts/2026/assets/toy-compare/toy-compare.js' | relative_url }}?v=20261006-tags"></script>

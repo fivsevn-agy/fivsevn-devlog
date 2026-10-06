@@ -46,7 +46,7 @@ updated: 2026-06-15
 <!-- AUTO-INDEX:POSTS_RECENT:START -->
 - 2026.10.06 [人形模玩的跨类别流动①：先行研究](2026/posts-humanoid-toys-cross-category-literature-001.md)
 
-- 2026.10.05 [人形玩具比照](2026/posts-toy-compare.md)
+- 2026.10.05 [玩具资料整理 · Toy Reference](2026/posts-toy-compare.md)
 
 - 2026.06.26 [亚洲的城市化、大型项目与剥夺（译文）](2026/posts-urban-studies-megaprojects-asia-001.md)
 
