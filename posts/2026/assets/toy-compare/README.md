@@ -2,6 +2,7 @@
 
 ## 页面入口
 
+- `../../../../_layouts/toy-post.html`：仅供下面两篇文章使用的页面模板。沿用主题的容器、样式、页脚和标题锚点，并读取文章自己的 `lang`。全站默认模板保持不变。
 - `../../posts-toy-reference.md`：资料页的 HTML 结构、页面元数据和资源引用。
 - `../../posts-toys-cross-category-literature-001.md`：独立的文献文章；不加载资料页脚本。
 - `../../posts-toy-compare.html`、`../../posts-humanoid-toys-cross-category-literature-001.html`：旧网址跳转，保留查询参数和页内锚点，不进入文章目录。
