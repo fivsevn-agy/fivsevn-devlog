@@ -161,24 +161,6 @@
   font-size: 12px !important;
   letter-spacing: 0.02em;
 }
-#toyCompare .tc-type-nav {
-  margin-bottom: 12px;
-}
-#toyCompare select {
-  max-width: 100%;
-  min-height: 30px;
-  padding: 5px 9px;
-  border: 1px solid var(--tc-line);
-  font: inherit !important;
-  color: var(--tc-text) !important;
-  background: var(--tc-panel) !important;
-  color-scheme: dark;
-  box-shadow: var(--tc-control-shadow);
-}
-#toyCompare select:focus-visible {
-  outline: 2px solid var(--tc-muted);
-  outline-offset: 3px;
-}
 #toyCompare .tc-tools {
   display: flex;
   gap: 12px;
@@ -207,12 +189,14 @@
   height: 17px;
   color: var(--tc-muted);
 }
+#toyCompare .tc-types,
 #toyCompare .tc-brands {
   display: flex;
   flex-wrap: wrap;
   gap: 6px;
-  margin-bottom: 16px;
+  margin: 0;
 }
+#toyCompare button.tc-type-choice,
 #toyCompare button.tc-brand-choice {
   min-height: 20px;
   padding: 1px 4px;
@@ -221,6 +205,7 @@
   line-height: 1.45 !important;
   box-shadow: 0 2px 5px #0004;
 }
+#toyCompare button.tc-type-choice[aria-pressed="true"],
 #toyCompare button.tc-brand-choice[aria-pressed="true"] {
   background: var(--tc-selected) !important;
 }
@@ -299,14 +284,31 @@
   flex-shrink: 0;
 }
 
-/* The upper vocabulary contains controls only; explanations remain below. */
-#toyCompare details.tc-tag-filter {
-  margin: 0 0 16px;
+/* Consistent borderless disclosures for the three filters. */
+#toyCompare details.tc-filter-section {
+  margin: 0 0 12px;
   padding: 0;
+  border: 0;
 }
-#toyCompare .tc-tag-filter summary {
-  min-height: 28px;
+#toyCompare .tc-filter-section > summary {
+  min-height: 24px;
   font-size: var(--tc-font-control) !important;
+}
+#toyCompare .tc-filter-section > div {
+  margin: 7px 0 0;
+}
+#toyCompare .tc-filter-current {
+  margin-left: 9px;
+  color: var(--tc-muted);
+  font-size: var(--tc-font-small);
+  font-weight: normal;
+}
+#toyCompare .tc-filter-section[open] .tc-filter-current {
+  display: none;
+}
+#toyCompare .tc-filter-empty {
+  color: var(--tc-muted) !important;
+  font-size: var(--tc-font-caption) !important;
 }
 #toyCompare .tc-tag-choices {
   max-height: min(340px, 48vh);
@@ -572,8 +574,17 @@
 }
 #toyCompare .tc-bottom {
   margin-top: 28px;
-  border-top: 1px solid var(--tc-line);
-  padding: 10px 0;
+  padding: 0;
+}
+#toyCompare .tc-bottom > details {
+  border: 0;
+  padding: 7px 0;
+}
+#toyCompare .tc-bottom > details > div {
+  margin: 10px 0 7px;
+}
+#toyCompare .tc-bottom .tc-meta {
+  margin-top: 10px;
 }
 #toyCompare .tc-resources {
   display: grid;
@@ -606,13 +617,37 @@
   font-size: var(--tc-font-small) !important;
   color: var(--tc-muted) !important;
 }
-#toyCompare .tc-tag-defs {
+#toyCompare .tc-tag-guide {
   display: grid;
-  gap: 13px;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px 28px;
 }
-#toyCompare .tc-tag-defs p {
-  margin-top: 6px;
+#toyCompare .tc-tag-definition {
+  min-width: 0;
+}
+#toyCompare .tc-tag-definition p {
+  margin-top: 7px;
   color: var(--tc-muted) !important;
+}
+#toyCompare .tc-tag-rules {
+  margin-top: 20px;
+}
+#toyCompare .tc-tag-rules h3 {
+  color: var(--tc-note-heading) !important;
+  font-size: var(--tc-font-control) !important;
+}
+#toyCompare .tc-tag-rules ul {
+  margin-top: 7px;
+  padding-left: 18px;
+  color: var(--tc-muted) !important;
+}
+#toyCompare .tc-tag-rules li {
+  margin-top: 5px;
+  font-size: var(--tc-font-caption) !important;
+  line-height: 1.6 !important;
+}
+@media (max-width: 640px) {
+  #toyCompare .tc-tag-guide { grid-template-columns: 1fr; gap: 16px; }
 }
 #toyCompare .tc-raw-scroll {
   overflow-x: auto;
@@ -922,7 +957,17 @@
   #toyCompare .tc-card-actions button {
     padding: 2px 4px;
   }
-  #toyCompare .tc-resources {
+  #toyCompare .tc-bottom > details {
+  border: 0;
+  padding: 7px 0;
+}
+#toyCompare .tc-bottom > details > div {
+  margin: 10px 0 7px;
+}
+#toyCompare .tc-bottom .tc-meta {
+  margin-top: 10px;
+}
+#toyCompare .tc-resources {
     grid-template-columns: 1fr;
   }
   #toyCompare .tc-tray {
