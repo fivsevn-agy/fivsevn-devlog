@@ -1,4 +1,3 @@
-// Browse memberships are independent of product specifications and can overlap.
 window.TOY_COMPARE_BROWSE = {
   "schemaVersion": 1,
   "types": [
@@ -379,6 +378,364 @@ window.TOY_COMPARE_BROWSE = {
     ],
     "planet-ring-justice-knight": [
       "mechanical"
+    ],
+    "batch-moderoid-35139": [
+      "human",
+      "mechanical"
+    ],
+    "batch-moderoid-35826": [
+      "vehicle"
+    ],
+    "batch-moderoid-61093": [
+      "vehicle"
+    ],
+    "batch-moderoid-60743": [
+      "vehicle"
+    ],
+    "batch-moderoid-47547": [
+      "human",
+      "mechanical"
+    ],
+    "batch-moderoid-55922": [
+      "vehicle"
+    ],
+    "batch-moderoid-55923": [
+      "vehicle"
+    ],
+    "batch-moderoid-55935": [
+      "human",
+      "mechanical"
+    ],
+    "batch-moderoid-35106": [
+      "vehicle"
+    ],
+    "batch-moderoid-13020": [
+      "human",
+      "mechanical"
+    ],
+    "batch-moderoid-12719": [
+      "human",
+      "mechanical"
+    ],
+    "batch-moderoid-12634": [
+      "human",
+      "mechanical"
+    ],
+    "batch-moderoid-12633": [
+      "props"
+    ],
+    "batch-moderoid-10850": [
+      "human",
+      "mechanical"
+    ],
+    "batch-moderoid-9169": [
+      "anthro",
+      "vehicle"
+    ],
+    "batch-moderoid-12043": [
+      "human",
+      "mechanical"
+    ],
+    "batch-moderoid-12024": [
+      "mechanical"
+    ],
+    "batch-moderoid-10349": [
+      "human",
+      "mechanical"
+    ],
+    "batch-moderoid-5657": [
+      "human",
+      "mechanical"
+    ],
+    "batch-moderoid-8502": [
+      "human",
+      "mechanical"
+    ],
+    "batch-moderoid-10703": [
+      "vehicle"
+    ],
+    "batch-moderoid-11606": [
+      "mechanical"
+    ],
+    "batch-moderoid-11042": [
+      "human",
+      "mechanical"
+    ],
+    "batch-moderoid-7612": [
+      "human",
+      "mechanical"
+    ],
+    "batch-moderoid-9744": [
+      "human",
+      "mechanical"
+    ],
+    "batch-moderoid-9674": [
+      "anthro",
+      "vehicle"
+    ],
+    "batch-moderoid-9675": [
+      "anthro",
+      "vehicle"
+    ],
+    "batch-moderoid-8938": [
+      "human",
+      "mechanical"
+    ],
+    "batch-moderoid-8619": [
+      "human",
+      "mechanical"
+    ],
+    "batch-moderoid-6384": [
+      "human",
+      "mechanical"
+    ],
+    "batch-moderoid-5325": [
+      "human",
+      "mechanical"
+    ],
+    "batch-moderoid-6870": [
+      "human",
+      "mechanical"
+    ],
+    "batch-rement-r70143": [
+      "props"
+    ],
+    "batch-rement-r70101": [
+      "props"
+    ],
+    "batch-rement-r70117": [
+      "props"
+    ],
+    "batch-rement-r70022": [
+      "props"
+    ],
+    "batch-rement-r70095": [
+      "props"
+    ],
+    "batch-rement-r70077": [
+      "props"
+    ],
+    "batch-rement-r50797": [
+      "props"
+    ],
+    "batch-rement-r70026": [
+      "props"
+    ],
+    "batch-rement-r70024": [
+      "props"
+    ],
+    "batch-rement-r50787": [
+      "props"
+    ],
+    "batch-rement-r50795": [
+      "props"
+    ],
+    "batch-rement-r70014": [
+      "props"
+    ],
+    "batch-rement-r50793": [
+      "props"
+    ],
+    "batch-rement-r50791": [
+      "props"
+    ],
+    "batch-rement-r50781": [
+      "props"
+    ],
+    "batch-rement-r50785": [
+      "props"
+    ],
+    "batch-rement-r50769": [
+      "props"
+    ],
+    "batch-rement-r50771": [
+      "props"
+    ],
+    "batch-rement-r50767": [
+      "props"
+    ],
+    "batch-rement-r50759": [
+      "props"
+    ],
+    "batch-rement-r50741": [
+      "props"
+    ],
+    "batch-rement-r50737": [
+      "props"
+    ],
+    "batch-tamiya-12036": [
+      "vehicle"
+    ],
+    "batch-tamiya-20058": [
+      "vehicle"
+    ],
+    "batch-tamiya-24379": [
+      "vehicle"
+    ],
+    "batch-tamiya-20072": [
+      "vehicle"
+    ],
+    "batch-tamiya-24378": [
+      "vehicle"
+    ],
+    "batch-tamiya-12031": [
+      "vehicle"
+    ],
+    "batch-tamiya-14014": [
+      "vehicle"
+    ],
+    "batch-tamiya-14037": [
+      "vehicle"
+    ],
+    "batch-tamiya-16002": [
+      "vehicle"
+    ],
+    "batch-tamiya-14144": [
+      "vehicle"
+    ],
+    "batch-tamiya-14058": [
+      "vehicle"
+    ],
+    "batch-tamiya-35081": [
+      "vehicle"
+    ],
+    "batch-tamiya-35083": [
+      "vehicle"
+    ],
+    "batch-tamiya-35394": [
+      "vehicle"
+    ],
+    "batch-tamiya-35070": [
+      "vehicle"
+    ],
+    "batch-tamiya-35103": [
+      "vehicle",
+      "props"
+    ],
+    "batch-tamiya-61128": [
+      "vehicle"
+    ],
+    "batch-tamiya-60795": [
+      "vehicle"
+    ],
+    "batch-tamiya-60794": [
+      "vehicle"
+    ],
+    "batch-tamiya-61127": [
+      "vehicle"
+    ],
+    "batch-tamiya-60793": [
+      "vehicle"
+    ],
+    "batch-tamiya-31037": [
+      "vehicle"
+    ],
+    "batch-tamiya-25190": [
+      "props"
+    ],
+    "batch-tamiya-31460": [
+      "vehicle"
+    ],
+    "batch-tamiya-78032": [
+      "vehicle"
+    ],
+    "batch-tamiya-31359": [
+      "vehicle"
+    ],
+    "batch-tamiya-28502": [
+      "creature"
+    ],
+    "batch-tamiya-28501": [
+      "creature"
+    ],
+    "batch-tamiya-60204": [
+      "creature"
+    ],
+    "batch-tamiya-60203": [
+      "creature"
+    ],
+    "batch-tamiya-60202": [
+      "creature"
+    ],
+    "batch-tamiya-60201": [
+      "creature"
+    ],
+    "batch-tamiya-60103": [
+      "creature",
+      "props"
+    ],
+    "batch-tamiya-60101": [
+      "creature",
+      "props"
+    ],
+    "batch-petworks-8056": [
+      "anthro"
+    ],
+    "batch-petworks-7292": [
+      "anthro"
+    ],
+    "batch-petworks-5426": [
+      "anthro"
+    ],
+    "batch-petworks-4117": [
+      "anthro"
+    ],
+    "batch-petworks-2802": [
+      "anthro"
+    ],
+    "batch-petworks-2794": [
+      "anthro"
+    ],
+    "batch-petworks-2377": [
+      "anthro"
+    ],
+    "batch-petworks-670": [
+      "anthro"
+    ],
+    "batch-petworks-8681": [
+      "anthro"
+    ],
+    "batch-petworks-8679": [
+      "anthro"
+    ],
+    "batch-petworks-7129": [
+      "anthro"
+    ],
+    "batch-petworks-6585": [
+      "anthro"
+    ],
+    "batch-petworks-6467": [
+      "anthro"
+    ],
+    "batch-petworks-6465": [
+      "anthro"
+    ],
+    "batch-petworks-5410": [
+      "anthro"
+    ],
+    "batch-petworks-4762": [
+      "anthro"
+    ],
+    "batch-ania-4904810836582": [
+      "creature"
+    ],
+    "batch-ania-4904810919377": [
+      "creature"
+    ],
+    "batch-ania-4904810098898": [
+      "creature"
+    ],
+    "batch-ania-4904810919384": [
+      "creature"
+    ],
+    "batch-ania-4904810919360": [
+      "creature"
+    ],
+    "batch-ania-4904810995074": [
+      "creature"
+    ],
+    "batch-ania-4904810160557": [
+      "creature"
     ]
   }
 };

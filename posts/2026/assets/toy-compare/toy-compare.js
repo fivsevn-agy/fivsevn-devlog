@@ -192,6 +192,12 @@
       return svg(
         '<rect x="13" y="12" width="22" height="14" rx="2"/><circle cx="20" cy="19" r="2"/><path d="M28 17v4M24 26v5M12 32h24v12H12zM16 44v6m16-6v6M8 34v8m32-8v8"/>',
       );
+    if (p.icon === "vehicle")
+      return svg('<path d="M8 31h32v12H8zM13 31l4-12h14l5 12M21 19v12m-9 0h24"/><circle cx="15" cy="45" r="4"/><circle cx="33" cy="45" r="4"/>');
+    if (p.icon === "animal")
+      return svg('<path d="M13 18l-3-8 10 5m8 0 10-5-3 8M13 18c0-8 22-8 22 0v8c0 10-22 10-22 0zM17 35l-5 13m19-13 5 13M17 35h14v15H17z"/><circle cx="19" cy="23" r="1"/><circle cx="29" cy="23" r="1"/><path d="M22 29h4"/>');
+    if (p.icon === "props")
+      return svg('<path d="M9 27h30v6H9zM13 33v18m22-18v18M18 27V12h12v15M18 17h12m-7 0v10"/>');
     const movable = p.tags.joint.some((t) =>
       /可动|拉筋|骨架|球体|球窝|关节/.test(t),
     );
@@ -218,7 +224,7 @@
             text: d.label,
             variant: "height",
           }))
-        : [{ cat: "size", text: "高度未披露", variant: "unknown" }]),
+        : [{ cat: "size", text: "尺寸未披露", variant: "unknown" }]),
     ];
   }
   function allTags(p) {
@@ -287,7 +293,7 @@
           ...p.dimensions
             .slice(0, 1)
             .map((d) => ({ cat: "size", text: d.label, variant: "height" })),
-          ...productTags.get(p.id).filter((t) => t.cat === "delivery").slice(0, 1),
+          ...productTags.get(p.id).filter((t) => t.cat === "delivery" && t.text !== "计划商品").slice(0, 1),
         ];
         if (p.tags.dress[0]) main.push({ cat: "dress", text: p.tags.dress[0] });
         const material = productTags.get(p.id).find((t) => t.cat === "material" && !/未披露|未说明/.test(t.text));

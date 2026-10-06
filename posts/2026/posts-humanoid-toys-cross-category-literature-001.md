@@ -62,7 +62,7 @@ updated: 2026-10-06
 
 在作者的比较中，手办侧重把已有角色和故事定型为立体形象，玩偶的换装和操作则为使用者塑造角色留下空间。结尾讨论了当时正在共同开发的机械驱动玩偶 Dollfie Honey，设想人形在活动与交互方面的发展。
 
-**涉及产品**：Jenny、Super Action Jenny、《侍魂》娜可露露角色玩偶、《魔法骑士雷阿斯》角色玩偶、Dollfie、Super Dollfie、Dollfie Dream，以及文中当时正在开发的 Dollfie Honey。
+**涉及产品**：[Jenny](https://takara-usa.com/toys/jenny/history/h86.html)、[Super Action Jenny](https://takara-usa.com/toys/jenny/history/h96.html)、[《侍魂》娜可露露角色玩偶](https://www.ne.jp/asahi/nyajitan/lazy-club/chara/nakoruru.html)、[《魔法骑士雷阿斯》角色玩偶](https://www.ne.jp/asahi/nyajitan/lazy-club/chara/umi.html)、[Dollfie](https://dollfie.volks.co.jp/special/dollfie25th/)、[Super Dollfie](https://dollfie.volks.co.jp/sd/)、[Dollfie Dream](https://dollfie.volks.co.jp/dd/)，以及文中当时正在开发的 [Dollfie Honey](https://www.dreamnews.jp/press/0000124132/)。
 
 **文献**：中川浩一、山田剣士郎（2017）。美少女フィギュア・美少女ドールの差異と進路。*倉敷芸術科学大学紀要，22*，23–30。
 
@@ -80,7 +80,7 @@ Godwin 研究部分 1/6 可动人形爱好者对时装玩偶和时尚活动的�
 
 文章据此分析爱好者与其排斥对象之间的复杂关系，以及可动人形在具体实践中承担的多种角色。
 
-**涉及产品**：G.I. Joe、Barbie，以及 Mattel、Integrity Toys 的时装玩偶头部与 1/6 可动人形身体。
+**涉及产品**：[G.I. Joe](https://www.toyhalloffame.org/toys/g-i-joe/)、[Barbie](https://shop.mattel.com/collections/barbie)，以及 Mattel、[Integrity Toys](https://www.integritytoys.com/brands/fashion-royalty/) 的时装玩偶头部与 1/6 可动人形身体。
 
 **文献**：Godwin, V. (2015). G.I. Joe vs. Barbie: Anti-fandom, fashion, dolls, and one-sixth scale action figures. *The Journal of Fandom Studies, 3*(2), 119–133. <https://doi.org/10.1386/jfs.3.2.119_1>
 
@@ -98,7 +98,7 @@ Heljakka、Harviainen 研究成人如何通过实体玩具和网络交流建构�
 
 Ken of Finland 与 Socality Barbie 是文中的两个具体案例。前者通过服装、出行和持续更新形成个人角色世界，后者借玩具摄影评论社交媒体上的生活方式。文章把场景制作、角色扮演、摄影和网络互动联系起来，提出理解成人“世界建构”与“世界玩耍”的方式。
 
-**涉及产品**：Blythe、Barbie、Ken，以及 Re-Ment 微缩配件、玩偶家具和玩家制作或改造的场景物件。具体摄影案例包括 Ken of Finland 与 Socality Barbie。
+**涉及产品**：[Blythe](https://www.blythedoll.com/)、[Barbie](https://shop.mattel.com/collections/barbie)、[Ken](https://shop.mattel.com/collections/ken-dolls)，以及 [Re-Ment 微缩配件](https://www.re-ment.co.jp/product/brand.php?c=puchisample)、玩偶家具和玩家制作或改造的场景物件。具体摄影案例包括 Ken of Finland 与 [Socality Barbie](https://shortyawards.com/8th/socality-barbie)。
 
 **文献**：Heljakka, K., & Harviainen, J. T. (2019). From displays and dioramas to doll dramas: Adult world building and world playing with toys. *American Journal of Play, 11*(3), 351–378.
 
@@ -116,7 +116,7 @@ Aurora 套件把电影形象分解为可拼装、涂装和修改的零件。1964
 
 作者用“物件／文本生态系统”描述电影、杂志、技术知识与实体作品之间的关系。量产零件在玩家投入时间和劳动之后，成为兼具共同来源和个人意义的作品；这种实践也参与塑造制作者的技能、记忆与身份。
 
-**涉及产品**：Aurora 的科学怪人、德古拉、狼人和木乃伊模型，以及后来的恐怖题材车库套件。本文相关案例主要是人形或拟人怪物。
+**涉及产品**：Aurora 的[科学怪人](https://www.jeffs60s.com/aurora-instruction-sheets.html#frank)、[德古拉](https://www.jeffs60s.com/aurora-instruction-sheets.html#drac)、[狼人](https://www.jeffs60s.com/aurora-instruction-sheets.html#wolf)和[木乃伊](https://www.jeffs60s.com/aurora-instruction-sheets.html#mummy)模型，以及后来的恐怖题材车库套件。本文相关案例主要是人形或拟人怪物。
 
 **文献**：Rehak, B. (2012). Materializing monsters: Aurora models, garage kits and the object practices of horror fandom. *The Journal of Fandom Studies, 1*(1), 27–45. <https://doi.org/10.1386/jfs.1.1.27_1>
 
@@ -134,7 +134,7 @@ Aurora 套件把电影形象分解为可拼装、涂装和修改的零件。1964
 
 文章也讨论 MG、PG 等系列在结构和细节上的发展，以及长期投入制作的爱好者如何积累知识、形成共同经验。高达模型由此成为连接作品世界、手工劳动、商品和世代记忆的物件。
 
-**涉及产品**：早期高达模型、扎古及其改造作品、MSV 系列，以及 MG、PG 高达模型；《Hobby Japan》等模型杂志是相关制作知识和作品交流的载体。
+**涉及产品**：[早期高达模型](https://manual.bandai-hobby.net/menus/detail/1849)、[扎古](https://manual.bandai-hobby.net/menus/detail/1951)及其改造作品、[MSV](https://www.bandainamco.co.jp/files/64473.pdf) 系列，以及 [MG](https://manual.bandai-hobby.net/?freeword=MG)、[PG](https://manual.bandai-hobby.net/?freeword=PG) 高达模型；《Hobby Japan》等模型杂志是相关制作知识和作品交流的载体。
 
 **文献**：川村清志（2011）。ガンプラ、我らが世代のフェティシズム。*比較文化論叢，26*，48(45)–30(63)。
 
@@ -152,7 +152,7 @@ Aurora 套件把电影形象分解为可拼装、涂装和修改的零件。1964
 
 作者关注玩家从亲手造型、修改和完成作品中获得的乐趣，以及这些活动如何发展出自己的交流与评价方式。摘要以《魔神 Z》合金成品玩具作为相关对照。
 
-**涉及产品**：1980 年代高达拼装模型，以及《魔神 Z》的合金成品玩具。
+**涉及产品**：[1980 年代高达拼装模型](https://manual.bandai-hobby.net/menus/detail/1849)，以及[《魔神 Z》的合金成品玩具](https://www.bandaispirits.co.jp/story/001/)。
 
 **文献**：이석（2026）。1980년대 건담 프라모델의 팬덤 문화에 관한 고찰－개조 문화와 잡지 미디어에 주목하여－。*日本學，68*，43–66。<https://doi.org/10.21442/djs.2026.68.03>
 
@@ -170,7 +170,7 @@ Kinoshita 分析高达系列在小说、模型和实体尺寸雕像中的发展�
 
 雕像部分讨论 2009 年以来的实体尺寸高达及其展示、活动和地方场景。作者据此说明，高达的媒介组合包含各形式对作品内容和受众经验的持续发展。
 
-**涉及产品**：MSV、SD 高达模型、Beargguy，以及实体尺寸高达立像。小说、漫画和动画是文中用于解释设定发展的相关资料。
+**涉及产品**：[MSV](https://www.bandainamco.co.jp/files/64473.pdf)、[SD 高达模型](https://online.bandai-hobby.net/)、[Beargguy](https://www.bandaispirits.co.jp/products/calendar/?category=1&month_frm=12&year_frm=2010)，以及[实体尺寸高达立像](https://archive.g-mark.org/2009/best15/09E16019.html)。小说、漫画和动画是文中用于解释设定发展的相关资料。
 
 **文献**：Kinoshita, S. (2024). Gundam and the Japanese media mix: Novelizations, model kits and statues. *The Journal of Anime and Manga Studies, 5*, 140–190. <https://doi.org/10.21900/j.jams.v5.1584>
 
@@ -188,7 +188,7 @@ Kinoshita 分析高达系列在小说、模型和实体尺寸雕像中的发展�
 
 文中还介绍《人形月》附带的小型人形，以及人形服装与人类服装的品牌合作。作者通过这些作品和活动，呈现日本球体关节艺术人形在艺术表达、玩具性和时尚性上的多种发展方向。
 
-**涉及作品**：四谷シモン、天野可淡、吉田良、恋月姬的艺术人形；恋月姬《人形月》附带的小型人形及换装作品。Jumeau、Bru 等西洋古董人形是文中讨论的结构和造型参照。
+**涉及作品**：[四谷シモン](https://www.akionagasawa.com/jp/exhibition/simon-yotsuya-eikoh-hosoe-hajime-sawatari-tenmei-kanoh/)、[天野可淡](https://www.kawade.co.jp/np/isbn/9784309907420/)、[吉田良](https://www.kawade.co.jp/sp/isbn/9784309904887/)、[恋月姬](https://www.koitsukihime.com/%E8%A4%87%E8%A3%BD-web-exibition-1)的艺术人形；[恋月姬《人形月》附带的小型人形](https://www.koitsukihime.com/books)及换装作品。[Jumeau](https://www.dollreference.com/jumeau-bebe-doll-marks/)、[Bru](https://www.dollreference.com/bru-jne-et-cie-antique-bebe-dolls-french/) 等西洋古董人形是文中讨论的结构和造型参照。
 
 **文献**：田中圭子（2008）。日本における球体関節人形の系譜。*社会科学，80*，43–58。<https://doi.org/10.14988/pa.2017.0000011352>
 
@@ -206,7 +206,7 @@ Qee、Dunny 等平台提供共同的身体形态，由不同创作者改变图�
 
 文章关注这些设计对角色稳定性、图像流通和商品复制逻辑的重新处理，以及设计师玩具形成的艺术与商业网络。实体物件在这里成为创作者思考和评论角色商品化的媒介。
 
-**涉及产品**：Qee、Dunny，以及 Gary Baseman、Tim Biskup、Jeremyville 等创作者的设计版本，包括 Buckingham Forest Qee、Wrecker Panda Qee 和 Nightmare in Jeremyville Dunny。
+**涉及产品**：[Qee](https://www.toy2r.com/?q=about/qee)、[Dunny](https://blog.kidrobot.com/dunny-part-1/)，以及 Gary Baseman、Tim Biskup、Jeremyville 等创作者的设计版本，包括 [Buckingham Forest Qee](https://www.zonatoys.com/qee/)、Wrecker Panda Qee 和 [Nightmare in Jeremyville Dunny](https://www.kidrobot.com/blogs/news/jeremyville)。
 
 **文献**：Steinberg, M. (2010). A vinyl platform for dissent: Designer toys and character merchandising. *Journal of Visual Culture, 9*(2), 209–228. <https://doi.org/10.1177/1470412910372760>
 
@@ -224,7 +224,7 @@ Qee、Dunny 等平台提供共同的身体形态，由不同创作者改变图�
 
 文章也考察涩泽龙彦关于男性创作者欲望与自我投射的解释，并讨论当代女性人形作家的创作经验。作者认为，爱丽丝可以承载不同性别作家的多样表达愿望，其文学和插画形象为人形创作提供了持续的资源。
 
-**涉及作品**：阳月《Alice in…》、清水真理《Curious and curiouser》《Pool of tears》《Alice 2023》、恋月姬《記憶の迷宮》、秋山まほこ《白兎の少女アリス》等。
+**涉及作品**：[阳月《Alice in…》](https://ameblo.jp/hituzou/entry-12844221220.html)、清水真理《Curious and curiouser》《Pool of tears》《Alice 2023》、[恋月姬《記憶の迷宮》](https://ameblo.jp/hituzou/entry-12844221220.html)、秋山まほこ《白兎の少女アリス》等。
 
 **文献**：市川純（2025）。日本の球体関節人形におけるアリス表象。*日本体育大学紀要，54*，1071–1083。<https://doi.org/10.69204/bnssu.54.1071>
 
@@ -242,7 +242,7 @@ Godwin 讨论个人改造、收藏和厂商提供的定制服务如何满足人�
 
 作者把收藏的选择和陈列、细微版本差异的挑选、手工改造与菜单式定制放在一起分析。不同活动所投入的时间、技能和材料资源各异，也都能形成个人意义；厂商与玩家会采用相近的稀缺性和个性化表达方式。
 
-**涉及产品**：Barbie，包括 Holiday Barbie 2004；1/6 可动人形及相关服装、配件，以及鞋、手机壳等定制商品。
+**涉及产品**：[Barbie](https://shop.mattel.com/collections/barbie)，包括 [Holiday Barbie 2004](https://service.mattel.com/us/productPopup.aspx?prodno=B5848&siteid=27)；1/6 可动人形及相关服装、配件，以及鞋、手机壳等定制商品。
 
 **文献**：Godwin, V. L. (2018). Customizations, collections and corporations: Mass production and self-expression. *The Journal of Fandom Studies, 6*(3), 211–224. <https://doi.org/10.1386/jfs.6.3.211_1>
 
@@ -260,7 +260,7 @@ Keidl 以《星球大战》为案例，研究可动人形如何通过实体玩�
 
 文章进一步讨论这些内容进入大众文化产业的过程，以及可动人形爱好者在《星球大战》粉丝文化中形成的专门知识、技能和评价秩序。玩具的物质特征与关于玩具的媒介内容，共同组织了这一群体的兴趣。
 
-**涉及产品与资料**：Kenner《星球大战》可动人形，包括波巴·费特等角色；相关资料包括纪录片《Plastic Galaxy: The Story of Star Wars Toys》及收藏、生产史资料。
+**涉及产品与资料**：[Kenner《星球大战》可动人形](https://www.starwars.com/news/happy-rancor-mail-away-star-wars-action-figures)，包括[波巴·费特](https://www.starwars.com/news/happy-rancor-mail-away-star-wars-action-figures)等角色；相关资料包括纪录片《Plastic Galaxy: The Story of Star Wars Toys》及收藏、生产史资料。
 
 **文献**：Keidl, P. D. (2018). Between textuality and materiality: Fandom and the mediation of action figures. *Film Criticism, 42*(2). <https://doi.org/10.3998/fc.13761232.0042.207>
 
@@ -310,7 +310,7 @@ Keidl 以《星球大战》为案例，研究可动人形如何通过实体玩�
 
 这些结果被整理为角色设计知识库的基础。论文还提出进一步积累造型特征与印象之间的资料，并用于角色自动生成系统。
 
-**涉及产品**：Licca（莉卡）玩偶、日本人形和动漫角色手办。
+**涉及产品**：[Licca（莉卡）玩偶](https://licca.takaratomy.co.jp/)、日本人形和动漫角色手办。
 
 **文献**：山田浩子、原田利宣（2004）。キャラクターデザイン支援システムのための知識ベース構築。*第18回人工知能学会全国大会論文集*，発表番号1E3-03。<https://doi.org/10.11517/pjsai.JSAI04.0.47.0>
 
@@ -328,7 +328,7 @@ Keidl 以《星球大战》为案例，研究可动人形如何通过实体玩�
 
 文章把记号、物质与记忆综合为相互作用的分析视角，用于解释日常生活中人们与流行文化物件建立关系的过程。
 
-**涉及产品与作品**：高达模型、实体尺寸高达立像、铁人28号雕像，以及模型制作者的改造作品。
+**涉及产品与作品**：[高达模型](https://manual.bandai-hobby.net/menus/detail/1849)、[实体尺寸高达立像](https://archive.g-mark.org/2009/best15/09E16019.html)、[铁人28号雕像](https://www.hokkai.co.jp/products/tetsujin28/)，以及模型制作者的改造作品。
 
 **文献**：松井広志（2013）。ポピュラーカルチャーにおけるモノ：記号・物質・記憶。*社会学評論，63*(4)，503–518。<https://doi.org/10.4057/jsr.63.503>
 
@@ -346,7 +346,7 @@ Heljakka 的博士论文研究成人如何与玩偶、可动人形和毛绒玩�
 
 论文以“wow、flow、glow”组织设计吸引、投入玩耍与实践发展的讨论，呈现成人玩具文化中的材料、社会关系和创造性活动。
 
-**涉及对象**：Blythe、Pullip、Barbie、可动人形及多种设计师玩具和毛绒玩具；论文同时记录相关商店与展示场景。
+**涉及对象**：[Blythe](https://www.blythedoll.com/)、[Pullip](https://www.jgroove.jp/)、[Barbie](https://shop.mattel.com/collections/barbie)、可动人形及多种设计师玩具和毛绒玩具；论文同时记录相关商店与展示场景。
 
 **文献**：Heljakka, K. (2013). *Principles of adult play(fulness) in contemporary toy cultures: From wow to flow to glow*. Aalto University, doctoral dissertation, 72/2013.
 

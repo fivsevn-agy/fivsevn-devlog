@@ -1,7 +1,7 @@
 window.TOY_COMPARE_DATA = {
   "schemaVersion": 3,
   "date": "2026-10-06",
-  "title": "人形玩具比照",
+  "title": "玩具资料整理 · Toy Reference",
   "categories": [
     {
       "id": "joint",
@@ -107964,6 +107964,7567 @@ window.TOY_COMPARE_DATA = {
         "星環重工",
         "合金重工"
       ]
+    },
+    {
+      "id": "batch-moderoid-35139",
+      "name": "MODEROID TYPE-7 布罗肯",
+      "brand": "Good Smile Company",
+      "original": "Mobile Police Patlabor",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2025-10 官方页面所列版本",
+      "icon": "machine",
+      "scale": "1:60",
+      "heightMm": 130,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度约 13 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "机械角色",
+          "机器人"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品年代",
+          "text": "官方发行记录：Shipping 10/2025"
+        },
+        {
+          "title": "交付与尺寸",
+          "text": "塑料拼装套件；颜色处理按本商品页记录。非比例或未标比例的规格不换算成真人或实物尺寸。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.goodsmile.com/en/product/35139/MODEROID+TYPE-7+Brocken",
+          "title": "MODEROID TYPE-7 布罗肯",
+          "kind": "官方产品页",
+          "supports": "具体型号、题材、组装交付、模型尺寸、官方明确列出的可动机构与发行记录",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2025-10",
+        "sourceUrl": "https://www.goodsmile.com/en/product/35139/MODEROID+TYPE-7+Brocken",
+        "note": "按当前官方页面所列发行或再版月记录；初版与再版分开说明。"
+      },
+      "aliases": [
+        "MODEROID TYPE-7 Brocken"
+      ]
+    },
+    {
+      "id": "batch-moderoid-35826",
+      "name": "MODEROID Gatcha Spartan",
+      "brand": "Good Smile Company",
+      "original": "Gatchaman Fighter",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2025-08 官方页面所列版本",
+      "icon": "vehicle",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 33 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "连接待核实",
+          "变形机构",
+          "合体机构"
+        ],
+        "delivery": [
+          "待拼装",
+          "部分彩色零件"
+        ],
+        "dress": [
+          "硬质换件",
+          "贴饰定制"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "载具模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品年代",
+          "text": "官方发行记录：Shipping 08/2025"
+        },
+        {
+          "title": "交付与尺寸",
+          "text": "塑料拼装套件；颜色处理按本商品页记录。非比例或未标比例的规格不换算成真人或实物尺寸。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.goodsmile.com/en/product/35826/MODEROID+Gatcha+Spartan",
+          "title": "MODEROID Gatcha Spartan",
+          "kind": "官方产品页",
+          "supports": "具体型号、题材、组装交付、模型尺寸、官方明确列出的可动机构与发行记录",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2025-08",
+        "sourceUrl": "https://www.goodsmile.com/en/product/35826/MODEROID+Gatcha+Spartan",
+        "note": "按当前官方页面所列发行或再版月记录；初版与再版分开说明。"
+      },
+      "aliases": [
+        "MODEROID Gatcha Spartan"
+      ]
+    },
+    {
+      "id": "batch-moderoid-61093",
+      "name": "MODEROID 超级X3",
+      "brand": "Good Smile Company",
+      "original": "Godzilla vs. Destoroyah",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2025-05 官方页面所列版本",
+      "icon": "vehicle",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 18.5 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        },
+        {
+          "label": "宽度约 29 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装",
+          "部分彩色零件"
+        ],
+        "dress": [
+          "贴饰定制"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "载具模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品年代",
+          "text": "官方发行记录：Shipping 05/2025"
+        },
+        {
+          "title": "交付与尺寸",
+          "text": "塑料拼装套件；颜色处理按本商品页记录。非比例或未标比例的规格不换算成真人或实物尺寸。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.goodsmile.com/en/product/61093/MODEROID+Super+X3",
+          "title": "MODEROID 超级X3",
+          "kind": "官方产品页",
+          "supports": "具体型号、题材、组装交付、模型尺寸、官方明确列出的可动机构与发行记录",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2025-05",
+        "sourceUrl": "https://www.goodsmile.com/en/product/61093/MODEROID+Super+X3",
+        "note": "按当前官方页面所列发行或再版月记录；初版与再版分开说明。"
+      },
+      "aliases": [
+        "MODEROID Super X3"
+      ]
+    },
+    {
+      "id": "batch-moderoid-60743",
+      "name": "MODEROID 24式机动步行战斗车 烈火（通用型）",
+      "brand": "Good Smile Company",
+      "original": "Bang Brave Bang Bravern",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2025-08 官方页面所列版本",
+      "icon": "vehicle",
+      "scale": null,
+      "heightMm": 110,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度约 11 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "载具模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品年代",
+          "text": "官方发行记录：Shipping 08/2025"
+        },
+        {
+          "title": "交付与尺寸",
+          "text": "塑料拼装套件；颜色处理按本商品页记录。非比例或未标比例的规格不换算成真人或实物尺寸。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.goodsmile.com/en/product/60743/MODEROID+Type+24+Mobile+Walking+Combat+Vehicle+Rekka+All-Purpose+Type",
+          "title": "MODEROID 24式机动步行战斗车 烈火（通用型）",
+          "kind": "官方产品页",
+          "supports": "具体型号、题材、组装交付、模型尺寸、官方明确列出的可动机构与发行记录",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2025-08",
+        "sourceUrl": "https://www.goodsmile.com/en/product/60743/MODEROID+Type+24+Mobile+Walking+Combat+Vehicle+Rekka+All-Purpose+Type",
+        "note": "按当前官方页面所列发行或再版月记录；初版与再版分开说明。"
+      },
+      "aliases": [
+        "MODEROID Type 24 Mobile Walking Combat Vehicle Rekka All-Purpose Type"
+      ]
+    },
+    {
+      "id": "batch-moderoid-47547",
+      "name": "MODEROID 迷你合体变形 飞越巅峰 Gunbuster",
+      "brand": "Good Smile Company",
+      "original": "Gunbuster",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2025-10 官方页面所列版本",
+      "icon": "machine",
+      "scale": null,
+      "heightMm": 115,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度约 11.5 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实",
+          "变形机构",
+          "合体机构"
+        ],
+        "delivery": [
+          "待拼装",
+          "部分彩色零件"
+        ],
+        "dress": [
+          "硬质换件",
+          "贴饰定制"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "机械角色",
+          "机器人"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品年代",
+          "text": "官方发行记录：[Available: 02/2025][Rerelease:10/2025]"
+        },
+        {
+          "title": "交付与尺寸",
+          "text": "塑料拼装套件；颜色处理按本商品页记录。非比例或未标比例的规格不换算成真人或实物尺寸。"
+        },
+        {
+          "title": "变形与合体",
+          "text": "Buster Machine 1、2可变形并合体，官方明确无需替换件完成合体。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.goodsmile.com/en/product/47547/MODEROID+Miniature+Combining+Transforming+Gunbuster",
+          "title": "MODEROID 迷你合体变形 飞越巅峰 Gunbuster",
+          "kind": "官方产品页",
+          "supports": "具体型号、题材、组装交付、模型尺寸、官方明确列出的可动机构与发行记录",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2025-10",
+        "sourceUrl": "https://www.goodsmile.com/en/product/47547/MODEROID+Miniature+Combining+Transforming+Gunbuster",
+        "note": "按当前官方页面所列发行或再版月记录；初版与再版分开说明。"
+      },
+      "aliases": [
+        "MODEROID Miniature Combining & Transforming Gunbuster"
+      ]
+    },
+    {
+      "id": "batch-moderoid-55922",
+      "name": "MODEROID 超级X",
+      "brand": "Good Smile Company",
+      "original": "The Return of Godzilla",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2025-11 官方页面所列版本",
+      "icon": "vehicle",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 13.5 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "水贴定制"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "载具模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品年代",
+          "text": "官方发行记录：[Available: 12/2024][Rerelease:11/2025]"
+        },
+        {
+          "title": "交付与尺寸",
+          "text": "塑料拼装套件；颜色处理按本商品页记录。非比例或未标比例的规格不换算成真人或实物尺寸。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.goodsmile.com/en/product/55922/MODEROID+Super+X",
+          "title": "MODEROID 超级X",
+          "kind": "官方产品页",
+          "supports": "具体型号、题材、组装交付、模型尺寸、官方明确列出的可动机构与发行记录",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2025-11",
+        "sourceUrl": "https://www.goodsmile.com/en/product/55922/MODEROID+Super+X",
+        "note": "按当前官方页面所列发行或再版月记录；初版与再版分开说明。"
+      },
+      "aliases": [
+        "MODEROID Super X"
+      ]
+    },
+    {
+      "id": "batch-moderoid-55923",
+      "name": "MODEROID 超级X2",
+      "brand": "Good Smile Company",
+      "original": "Godzilla vs. Biollante",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2024-12 官方页面所列版本",
+      "icon": "vehicle",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 17.5 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装",
+          "部分彩色零件"
+        ],
+        "dress": [
+          "硬质换件",
+          "贴饰定制"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "载具模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品年代",
+          "text": "官方发行记录：Shipping 12/2024"
+        },
+        {
+          "title": "交付与尺寸",
+          "text": "塑料拼装套件；颜色处理按本商品页记录。非比例或未标比例的规格不换算成真人或实物尺寸。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.goodsmile.com/en/product/55923/MODEROID+Super+X2",
+          "title": "MODEROID 超级X2",
+          "kind": "官方产品页",
+          "supports": "具体型号、题材、组装交付、模型尺寸、官方明确列出的可动机构与发行记录",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2024-12",
+        "sourceUrl": "https://www.goodsmile.com/en/product/55923/MODEROID+Super+X2",
+        "note": "按当前官方页面所列发行或再版月记录；初版与再版分开说明。"
+      },
+      "aliases": [
+        "MODEROID Super X2"
+      ]
+    },
+    {
+      "id": "batch-moderoid-55935",
+      "name": "MODEROID King’s Style 魔动王 Granzort",
+      "brand": "Good Smile Company",
+      "original": "Mado King Granzort",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2025-10 官方页面所列版本",
+      "icon": "machine",
+      "scale": null,
+      "heightMm": 185,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度约 18.5 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实",
+          "变形机构"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "机械角色",
+          "机器人"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品年代",
+          "text": "官方发行记录：[Available: 11/2024][Rerelease:11/2026][Rerelease:10/2025]"
+        },
+        {
+          "title": "交付与尺寸",
+          "text": "塑料拼装套件；颜色处理按本商品页记录。非比例或未标比例的规格不换算成真人或实物尺寸。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.goodsmile.com/en/product/55935/MODEROID+King+s+Style+Granzort",
+          "title": "MODEROID King’s Style 魔动王 Granzort",
+          "kind": "官方产品页",
+          "supports": "具体型号、题材、组装交付、模型尺寸、官方明确列出的可动机构与发行记录",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2025-10",
+        "sourceUrl": "https://www.goodsmile.com/en/product/55935/MODEROID+King+s+Style+Granzort",
+        "note": "按当前官方页面所列发行或再版月记录；初版与再版分开说明。"
+      },
+      "aliases": [
+        "MODEROID King's Style Granzort"
+      ]
+    },
+    {
+      "id": "batch-moderoid-35106",
+      "name": "MODEROID M2 Exceed Rhino",
+      "brand": "Good Smile Company",
+      "original": "Bang Brave Bang Bravern",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2024-09 官方页面所列版本",
+      "icon": "vehicle",
+      "scale": null,
+      "heightMm": 110,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度约 11 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "载具模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品年代",
+          "text": "官方发行记录：Shipping 09/2024"
+        },
+        {
+          "title": "交付与尺寸",
+          "text": "塑料拼装套件；颜色处理按本商品页记录。非比例或未标比例的规格不换算成真人或实物尺寸。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.goodsmile.com/en/product/35106/MODEROID+M2+Exceed+Rhino",
+          "title": "MODEROID M2 Exceed Rhino",
+          "kind": "官方产品页",
+          "supports": "具体型号、题材、组装交付、模型尺寸、官方明确列出的可动机构与发行记录",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2024-09",
+        "sourceUrl": "https://www.goodsmile.com/en/product/35106/MODEROID+M2+Exceed+Rhino",
+        "note": "按当前官方页面所列发行或再版月记录；初版与再版分开说明。"
+      },
+      "aliases": [
+        "MODEROID M2 Exceed Rhino"
+      ]
+    },
+    {
+      "id": "batch-moderoid-13020",
+      "name": "MODEROID 机械战警 RoboCop",
+      "brand": "Good Smile Company",
+      "original": "Robocop",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2026-06 官方页面所列版本",
+      "icon": "machine",
+      "scale": null,
+      "heightMm": 175,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度约 17.5 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "机械角色",
+          "机器人"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品年代",
+          "text": "官方发行记录：[Available: 07/2024][Rerelease:06/2026]"
+        },
+        {
+          "title": "交付与尺寸",
+          "text": "塑料拼装套件；颜色处理按本商品页记录。非比例或未标比例的规格不换算成真人或实物尺寸。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.goodsmile.com/en/product/13020/MODEROID+RoboCop",
+          "title": "MODEROID 机械战警 RoboCop",
+          "kind": "官方产品页",
+          "supports": "具体型号、题材、组装交付、模型尺寸、官方明确列出的可动机构与发行记录",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2026-06",
+        "sourceUrl": "https://www.goodsmile.com/en/product/13020/MODEROID+RoboCop",
+        "note": "按当前官方页面所列发行或再版月记录；初版与再版分开说明。"
+      },
+      "aliases": [
+        "MODEROID RoboCop"
+      ]
+    },
+    {
+      "id": "batch-moderoid-12719",
+      "name": "MODEROID Garland",
+      "brand": "Good Smile Company",
+      "original": "Megazone 23",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2024-04 官方页面所列版本",
+      "icon": "machine",
+      "scale": null,
+      "heightMm": 160,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度约 16 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实",
+          "变形机构"
+        ],
+        "delivery": [
+          "待拼装",
+          "部分彩色零件"
+        ],
+        "dress": [],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "机械角色",
+          "机器人"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品年代",
+          "text": "官方发行记录：Shipping 04/2024"
+        },
+        {
+          "title": "交付与尺寸",
+          "text": "塑料拼装套件；颜色处理按本商品页记录。非比例或未标比例的规格不换算成真人或实物尺寸。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.goodsmile.com/en/product/12719/MODEROID+Garland",
+          "title": "MODEROID Garland",
+          "kind": "官方产品页",
+          "supports": "具体型号、题材、组装交付、模型尺寸、官方明确列出的可动机构与发行记录",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2024-04",
+        "sourceUrl": "https://www.goodsmile.com/en/product/12719/MODEROID+Garland",
+        "note": "按当前官方页面所列发行或再版月记录；初版与再版分开说明。"
+      },
+      "aliases": [
+        "MODEROID Garland"
+      ]
+    },
+    {
+      "id": "batch-moderoid-12634",
+      "name": "MODEROID Toybox 幻晶骑士",
+      "brand": "Good Smile Company",
+      "original": "Knight's & Magic",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2024-05 官方页面所列版本",
+      "icon": "machine",
+      "scale": null,
+      "heightMm": 140,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度约 14 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装",
+          "部分彩色零件"
+        ],
+        "dress": [
+          "硬质换件",
+          "水贴定制"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "机械角色",
+          "机器人"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品年代",
+          "text": "官方发行记录：Shipping 05/2024"
+        },
+        {
+          "title": "交付与尺寸",
+          "text": "塑料拼装套件；颜色处理按本商品页记录。非比例或未标比例的规格不换算成真人或实物尺寸。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.goodsmile.com/en/product/12634/MODEROID+Toybox",
+          "title": "MODEROID Toybox 幻晶骑士",
+          "kind": "官方产品页",
+          "supports": "具体型号、题材、组装交付、模型尺寸、官方明确列出的可动机构与发行记录",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2024-05",
+        "sourceUrl": "https://www.goodsmile.com/en/product/12634/MODEROID+Toybox",
+        "note": "按当前官方页面所列发行或再版月记录；初版与再版分开说明。"
+      },
+      "aliases": [
+        "MODEROID Toybox"
+      ]
+    },
+    {
+      "id": "batch-moderoid-12633",
+      "name": "MODEROID Type-3 装备套装",
+      "brand": "Good Smile Company",
+      "original": "Knight's & Magic",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2024-05 官方页面所列版本",
+      "icon": "props",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 35 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        },
+        {
+          "label": "全长约 50 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        },
+        {
+          "label": "宽度约 70 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "连接待核实",
+          "变形机构"
+        ],
+        "delivery": [
+          "待拼装",
+          "部分彩色零件"
+        ],
+        "dress": [
+          "水贴定制"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "模型配件"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品年代",
+          "text": "官方发行记录：Shipping 05/2024"
+        },
+        {
+          "title": "交付与尺寸",
+          "text": "塑料拼装套件；颜色处理按本商品页记录。非比例或未标比例的规格不换算成真人或实物尺寸。"
+        },
+        {
+          "title": "适配范围",
+          "text": "这是指定机器人模型的配套装备；机器人主体另售。配件连接与适配依照官方说明。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.goodsmile.com/en/product/12633/MODEROID+Type-3+Equipment",
+          "title": "MODEROID Type-3 装备套装",
+          "kind": "官方产品页",
+          "supports": "具体型号、题材、组装交付、模型尺寸、官方明确列出的可动机构与发行记录",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2024-05",
+        "sourceUrl": "https://www.goodsmile.com/en/product/12633/MODEROID+Type-3+Equipment",
+        "note": "按当前官方页面所列发行或再版月记录；初版与再版分开说明。"
+      },
+      "aliases": [
+        "MODEROID Type-3 Equipment"
+      ]
+    },
+    {
+      "id": "batch-moderoid-10850",
+      "name": "MODEROID The Big O",
+      "brand": "Good Smile Company",
+      "original": "The Big O",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2025-09 官方页面所列版本",
+      "icon": "machine",
+      "scale": null,
+      "heightMm": 230,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度约 23 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装",
+          "部分彩色零件"
+        ],
+        "dress": [],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "机械角色",
+          "机器人"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品年代",
+          "text": "官方发行记录：[Available: 04/2023][Rerelease:02/2027][Rerelease:09/2025]"
+        },
+        {
+          "title": "交付与尺寸",
+          "text": "塑料拼装套件；颜色处理按本商品页记录。非比例或未标比例的规格不换算成真人或实物尺寸。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.goodsmile.com/en/product/10850/MODEROID+Big+O",
+          "title": "MODEROID The Big O",
+          "kind": "官方产品页",
+          "supports": "具体型号、题材、组装交付、模型尺寸、官方明确列出的可动机构与发行记录",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2025-09",
+        "sourceUrl": "https://www.goodsmile.com/en/product/10850/MODEROID+Big+O",
+        "note": "按当前官方页面所列发行或再版月记录；初版与再版分开说明。"
+      },
+      "aliases": [
+        "MODEROID Big O"
+      ]
+    },
+    {
+      "id": "batch-moderoid-9169",
+      "name": "MODEROID 天竺鼠车车 Potato",
+      "brand": "Good Smile Company",
+      "original": "Pui Pui Molcar",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2023-11 官方页面所列版本",
+      "icon": "vehicle",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 7 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "贴饰定制"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "拟人动物",
+          "载具角色"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品年代",
+          "text": "官方发行记录：Originally released in January 2022 with a rerelease in August 2022 and November 2023."
+        },
+        {
+          "title": "交付与尺寸",
+          "text": "塑料拼装套件；颜色处理按本商品页记录。非比例或未标比例的规格不换算成真人或实物尺寸。"
+        },
+        {
+          "title": "轮组与组成",
+          "text": "天竺鼠车形角色；普通轮组与可滚动轮组分别用于摆姿和移动。包装中附驾驶员小人；不按1:1人类比例理解。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.goodsmile.com/en/product/9169/MODEROID+Molcar+Potato",
+          "title": "MODEROID 天竺鼠车车 Potato",
+          "kind": "官方产品页",
+          "supports": "具体型号、题材、组装交付、模型尺寸、官方明确列出的可动机构与发行记录",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2023-11",
+        "sourceUrl": "https://www.goodsmile.com/en/product/9169/MODEROID+Molcar+Potato",
+        "note": "按当前官方页面所列发行或再版月记录；初版与再版分开说明。"
+      },
+      "aliases": [
+        "MODEROID Molcar Potato"
+      ]
+    },
+    {
+      "id": "batch-moderoid-12043",
+      "name": "MODEROID Hyper Granzort",
+      "brand": "Good Smile Company",
+      "original": "Mado King Granzort: The Last Magical War",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2024-11 官方页面所列版本",
+      "icon": "machine",
+      "scale": null,
+      "heightMm": 190,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度约 19 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实",
+          "合体机构"
+        ],
+        "delivery": [
+          "待拼装",
+          "部分彩色零件"
+        ],
+        "dress": [
+          "贴饰定制"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "机械角色",
+          "机器人"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品年代",
+          "text": "官方发行记录：[Available: 12/2023][Rerelease:11/2024]\nDesign\nTEAM NAVEL (UNITEC)"
+        },
+        {
+          "title": "交付与尺寸",
+          "text": "塑料拼装套件；颜色处理按本商品页记录。非比例或未标比例的规格不换算成真人或实物尺寸。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.goodsmile.com/en/product/12043/MODEROID+Hyper+Granzort",
+          "title": "MODEROID Hyper Granzort",
+          "kind": "官方产品页",
+          "supports": "具体型号、题材、组装交付、模型尺寸、官方明确列出的可动机构与发行记录",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2024-11",
+        "sourceUrl": "https://www.goodsmile.com/en/product/12043/MODEROID+Hyper+Granzort",
+        "note": "按当前官方页面所列发行或再版月记录；初版与再版分开说明。"
+      },
+      "aliases": [
+        "MODEROID Hyper Granzort"
+      ]
+    },
+    {
+      "id": "batch-moderoid-12024",
+      "name": "MODEROID 雷霆牙 Thunderjaw",
+      "brand": "Good Smile Company",
+      "original": "Horizon Forbidden West",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2025-07 官方页面所列版本",
+      "icon": "machine",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 38 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "硬质换件",
+          "水贴定制"
+        ],
+        "material": [
+          "PVC",
+          "塑料（未细分）"
+        ],
+        "role": [
+          "非人形机械"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品年代",
+          "text": "官方发行记录：[Available: 12/2023][Rerelease:07/2025]"
+        },
+        {
+          "title": "交付与尺寸",
+          "text": "塑料拼装套件；颜色处理按本商品页记录。非比例或未标比例的规格不换算成真人或实物尺寸。"
+        },
+        {
+          "title": "结构与材料",
+          "text": "恐龙形机械；颈、尾可摆动，髋部使用预装棘轮关节。连接头侧炮械的带状零件注明使用 PVC。全长约38cm，不是高度。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.goodsmile.com/en/product/12024/MODEROID+Thunderjaw",
+          "title": "MODEROID 雷霆牙 Thunderjaw",
+          "kind": "官方产品页",
+          "supports": "具体型号、题材、组装交付、模型尺寸、官方明确列出的可动机构与发行记录",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2025-07",
+        "sourceUrl": "https://www.goodsmile.com/en/product/12024/MODEROID+Thunderjaw",
+        "note": "按当前官方页面所列发行或再版月记录；初版与再版分开说明。"
+      },
+      "aliases": [
+        "MODEROID Thunderjaw"
+      ]
+    },
+    {
+      "id": "batch-moderoid-10349",
+      "name": "MODEROID Xabungle",
+      "brand": "Good Smile Company",
+      "original": "Combat Mecha Xabungle",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2023-10 官方页面所列版本",
+      "icon": "machine",
+      "scale": "1:100",
+      "heightMm": 180,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度约 18 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实",
+          "变形机构",
+          "合体机构"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [],
+        "material": [
+          "ABS",
+          "PS",
+          "塑料（未细分）"
+        ],
+        "role": [
+          "机械角色",
+          "机器人"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品年代",
+          "text": "官方发行记录：Originally released in December 2022 with a rerelease in October 2023."
+        },
+        {
+          "title": "交付与尺寸",
+          "text": "塑料拼装套件；颜色处理按本商品页记录。非比例或未标比例的规格不换算成真人或实物尺寸。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.goodsmile.com/en/product/10349/MODEROID+Xabungle",
+          "title": "MODEROID Xabungle",
+          "kind": "官方产品页",
+          "supports": "具体型号、题材、组装交付、模型尺寸、官方明确列出的可动机构与发行记录",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2023-10",
+        "sourceUrl": "https://www.goodsmile.com/en/product/10349/MODEROID+Xabungle",
+        "note": "按当前官方页面所列发行或再版月记录；初版与再版分开说明。"
+      },
+      "aliases": [
+        "MODEROID Xabungle"
+      ]
+    },
+    {
+      "id": "batch-moderoid-5657",
+      "name": "MODEROID ARIEL C-TYPE",
+      "brand": "Good Smile Company",
+      "original": "ARIEL",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2023-07 官方页面所列版本",
+      "icon": "machine",
+      "scale": null,
+      "heightMm": 160,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度约 16 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [],
+        "material": [
+          "PVC",
+          "ABS",
+          "PS",
+          "POM",
+          "塑料（未细分）"
+        ],
+        "role": [
+          "机械角色",
+          "机器人"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品年代",
+          "text": "官方发行记录：Originally released in May 2019 with a rerelease in July 2023."
+        },
+        {
+          "title": "交付与尺寸",
+          "text": "塑料拼装套件；颜色处理按本商品页记录。非比例或未标比例的规格不换算成真人或实物尺寸。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.goodsmile.com/en/product/5657/MODEROID+ARIEL+C-TYPE",
+          "title": "MODEROID ARIEL C-TYPE",
+          "kind": "官方产品页",
+          "supports": "具体型号、题材、组装交付、模型尺寸、官方明确列出的可动机构与发行记录",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2023-07",
+        "sourceUrl": "https://www.goodsmile.com/en/product/5657/MODEROID+ARIEL+C-TYPE",
+        "note": "按当前官方页面所列发行或再版月记录；初版与再版分开说明。"
+      },
+      "aliases": [
+        "MODEROID ARIEL C-TYPE"
+      ]
+    },
+    {
+      "id": "batch-moderoid-8502",
+      "name": "MODEROID TYPE-J9 狮鹫 飞行／水中单元套装",
+      "brand": "Good Smile Company",
+      "original": "Mobile Police Patlabor",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2023-08 官方页面所列版本",
+      "icon": "machine",
+      "scale": null,
+      "heightMm": 130,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度约 13 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装",
+          "部分彩色零件"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "ABS",
+          "PS",
+          "塑料（未细分）"
+        ],
+        "role": [
+          "机械角色",
+          "机器人"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品年代",
+          "text": "官方发行记录：Originally released in August 2021 with a rerelease in August 2023"
+        },
+        {
+          "title": "交付与尺寸",
+          "text": "塑料拼装套件；颜色处理按本商品页记录。非比例或未标比例的规格不换算成真人或实物尺寸。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.goodsmile.com/en/product/8502/MODEROID+TYPE-J9+Griffon+Flight+Aqua+Unit+Set",
+          "title": "MODEROID TYPE-J9 狮鹫 飞行／水中单元套装",
+          "kind": "官方产品页",
+          "supports": "具体型号、题材、组装交付、模型尺寸、官方明确列出的可动机构与发行记录",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2023-08",
+        "sourceUrl": "https://www.goodsmile.com/en/product/8502/MODEROID+TYPE-J9+Griffon+Flight+Aqua+Unit+Set",
+        "note": "按当前官方页面所列发行或再版月记录；初版与再版分开说明。"
+      },
+      "aliases": [
+        "MODEROID TYPE-J9 Griffon Flight & Aqua Unit Set"
+      ]
+    },
+    {
+      "id": "batch-moderoid-10703",
+      "name": "MODEROID 98式指挥车＆99式劳动机运输车",
+      "brand": "Good Smile Company",
+      "original": "Mobile Police Patlabor",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2026-07 官方页面所列版本",
+      "icon": "vehicle",
+      "scale": "1:60",
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "运输车全长约 29 cm",
+          "basis": "厂商分别公布的运输车尺寸"
+        },
+        {
+          "label": "指挥车全长约 5.5 cm",
+          "basis": "厂商分别公布的指挥车尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装",
+          "部分彩色零件"
+        ],
+        "dress": [],
+        "material": [
+          "塑料（未细分）",
+          "橡胶",
+          "金属"
+        ],
+        "role": [
+          "载具模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品年代",
+          "text": "官方发行记录：[Available: 07/2023][Rerelease:07/2026]"
+        },
+        {
+          "title": "交付与尺寸",
+          "text": "塑料拼装套件；颜色处理按本商品页记录。非比例或未标比例的规格不换算成真人或实物尺寸。"
+        },
+        {
+          "title": "可动与配套",
+          "text": "车轮、转向牵引车头、吊臂及支撑结构可动；轮轴为金属，轮胎为橡胶。可搭载另售的指定 MODEROID 劳动机，适配以官方说明为准。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.goodsmile.com/en/product/10703/MODEROID+Type+98+Special+Command+Vehicle+Type+99+Special+Labor+Carrier",
+          "title": "MODEROID 98式指挥车＆99式劳动机运输车",
+          "kind": "官方产品页",
+          "supports": "具体型号、题材、组装交付、模型尺寸、官方明确列出的可动机构与发行记录",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2026-07",
+        "sourceUrl": "https://www.goodsmile.com/en/product/10703/MODEROID+Type+98+Special+Command+Vehicle+Type+99+Special+Labor+Carrier",
+        "note": "按当前官方页面所列发行或再版月记录；初版与再版分开说明。"
+      },
+      "aliases": [
+        "MODEROID Type 98 Special Command Vehicle & Type 99 Special Labor Carrier"
+      ]
+    },
+    {
+      "id": "batch-moderoid-11606",
+      "name": "MODEROID TYPE97 TFV-EX 蟹型高脚劳动机",
+      "brand": "Good Smile Company",
+      "original": "Mobile Police Patlabor",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2023-08 官方页面所列版本",
+      "icon": "machine",
+      "scale": "1:60",
+      "heightMm": 170,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度约 17 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装",
+          "部分彩色零件"
+        ],
+        "dress": [
+          "贴饰定制"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "非人形机械"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品年代",
+          "text": "官方发行记录：Shipping 08/2023"
+        },
+        {
+          "title": "交付与尺寸",
+          "text": "塑料拼装套件；颜色处理按本商品页记录。非比例或未标比例的规格不换算成真人或实物尺寸。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.goodsmile.com/en/product/11606/MODEROID+TYPE97+TFV-EX+Crab-Man+High+Leg",
+          "title": "MODEROID TYPE97 TFV-EX 蟹型高脚劳动机",
+          "kind": "官方产品页",
+          "supports": "具体型号、题材、组装交付、模型尺寸、官方明确列出的可动机构与发行记录",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2023-08",
+        "sourceUrl": "https://www.goodsmile.com/en/product/11606/MODEROID+TYPE97+TFV-EX+Crab-Man+High+Leg",
+        "note": "按当前官方页面所列发行或再版月记录；初版与再版分开说明。"
+      },
+      "aliases": [
+        "MODEROID TYPE97 TFV-EX Crab-Man High Leg"
+      ]
+    },
+    {
+      "id": "batch-moderoid-11042",
+      "name": "MODEROID 机械战警2 Cain",
+      "brand": "Good Smile Company",
+      "original": "RoboCop 2",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2026-06 官方页面所列版本",
+      "icon": "machine",
+      "scale": null,
+      "heightMm": 220,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度约 22 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "硬质换件",
+          "水贴定制",
+          "贴饰定制"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "机械角色",
+          "机器人"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品年代",
+          "text": "官方发行记录：[Available: 03/2023][Rerelease:06/2026]"
+        },
+        {
+          "title": "交付与尺寸",
+          "text": "塑料拼装套件；颜色处理按本商品页记录。非比例或未标比例的规格不换算成真人或实物尺寸。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.goodsmile.com/en/product/11042/MODEROID+RoboCop+2+Cain+",
+          "title": "MODEROID 机械战警2 Cain",
+          "kind": "官方产品页",
+          "supports": "具体型号、题材、组装交付、模型尺寸、官方明确列出的可动机构与发行记录",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2026-06",
+        "sourceUrl": "https://www.goodsmile.com/en/product/11042/MODEROID+RoboCop+2+Cain+",
+        "note": "按当前官方页面所列发行或再版月记录；初版与再版分开说明。"
+      },
+      "aliases": [
+        "MODEROID RoboCop 2 (Cain)"
+      ]
+    },
+    {
+      "id": "batch-moderoid-7612",
+      "name": "MODEROID 新干线变形机器人 E5 隼 Mk II",
+      "brand": "Good Smile Company",
+      "original": "Shinkansen Henkei Robo Shinkalion",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2023-02 官方页面所列版本",
+      "icon": "machine",
+      "scale": null,
+      "heightMm": 135,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度约 13.5 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实",
+          "变形机构"
+        ],
+        "delivery": [
+          "待拼装",
+          "部分彩色零件"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "ABS",
+          "PS",
+          "POM",
+          "塑料（未细分）"
+        ],
+        "role": [
+          "机械角色",
+          "机器人"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品年代",
+          "text": "官方发行记录：Originally released in January 2021 with a rerelease in February 2023"
+        },
+        {
+          "title": "交付与尺寸",
+          "text": "塑料拼装套件；颜色处理按本商品页记录。非比例或未标比例的规格不换算成真人或实物尺寸。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.goodsmile.com/en/product/7612/MODEROID+Shinkalion+E5+Hayabusa+Mk+II",
+          "title": "MODEROID 新干线变形机器人 E5 隼 Mk II",
+          "kind": "官方产品页",
+          "supports": "具体型号、题材、组装交付、模型尺寸、官方明确列出的可动机构与发行记录",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2023-02",
+        "sourceUrl": "https://www.goodsmile.com/en/product/7612/MODEROID+Shinkalion+E5+Hayabusa+Mk+II",
+        "note": "按当前官方页面所列发行或再版月记录；初版与再版分开说明。"
+      },
+      "aliases": [
+        "MODEROID Shinkalion E5 Hayabusa Mk II"
+      ]
+    },
+    {
+      "id": "batch-moderoid-9744",
+      "name": "MODEROID 新干线变形机器人Z E7 梓",
+      "brand": "Good Smile Company",
+      "original": "Shinkansen Henkei Robo Shinkalion Z",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "官方产品页所列版本",
+      "icon": "machine",
+      "scale": null,
+      "heightMm": 135,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度约 13.5 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实",
+          "合体机构"
+        ],
+        "delivery": [
+          "待拼装",
+          "部分彩色零件"
+        ],
+        "dress": [
+          "贴饰定制"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "机械角色",
+          "机器人"
+        ]
+      },
+      "notes": [
+        {
+          "title": "交付与尺寸",
+          "text": "塑料拼装套件；颜色处理按本商品页记录。非比例或未标比例的规格不换算成真人或实物尺寸。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.goodsmile.com/en/product/9744/MODEROID+Shinkalion+Z+E7+Azusa",
+          "title": "MODEROID 新干线变形机器人Z E7 梓",
+          "kind": "官方产品页",
+          "supports": "具体型号、题材、组装交付、模型尺寸、官方明确列出的可动机构与发行记录",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": "https://www.goodsmile.com/en/product/9744/MODEROID+Shinkalion+Z+E7+Azusa",
+        "note": "未以作品设定年代或图片年份代替商品年份。"
+      },
+      "aliases": [
+        "MODEROID Shinkalion Z E7 Azusa"
+      ]
+    },
+    {
+      "id": "batch-moderoid-9674",
+      "name": "MODEROID 天竺鼠车车 巡逻车",
+      "brand": "Good Smile Company",
+      "original": "Pui Pui Molcar",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "官方产品页所列版本",
+      "icon": "vehicle",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 7 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "贴饰定制"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "拟人动物",
+          "载具角色"
+        ]
+      },
+      "notes": [
+        {
+          "title": "交付与尺寸",
+          "text": "塑料拼装套件；颜色处理按本商品页记录。非比例或未标比例的规格不换算成真人或实物尺寸。"
+        },
+        {
+          "title": "轮组与组成",
+          "text": "天竺鼠车形角色；普通轮组与可滚动轮组分别用于摆姿和移动。包装中附驾驶员小人；不按1:1人类比例理解。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.goodsmile.com/en/product/9674/MODEROID+Molcar+Patrol+Molcar",
+          "title": "MODEROID 天竺鼠车车 巡逻车",
+          "kind": "官方产品页",
+          "supports": "具体型号、题材、组装交付、模型尺寸、官方明确列出的可动机构与发行记录",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": "https://www.goodsmile.com/en/product/9674/MODEROID+Molcar+Patrol+Molcar",
+        "note": "未以作品设定年代或图片年份代替商品年份。"
+      },
+      "aliases": [
+        "MODEROID Molcar Patrol Molcar"
+      ]
+    },
+    {
+      "id": "batch-moderoid-9675",
+      "name": "MODEROID 天竺鼠车车 救护车",
+      "brand": "Good Smile Company",
+      "original": "Pui Pui Molcar",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "官方产品页所列版本",
+      "icon": "vehicle",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 7 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "贴饰定制"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "拟人动物",
+          "载具角色"
+        ]
+      },
+      "notes": [
+        {
+          "title": "交付与尺寸",
+          "text": "塑料拼装套件；颜色处理按本商品页记录。非比例或未标比例的规格不换算成真人或实物尺寸。"
+        },
+        {
+          "title": "轮组与组成",
+          "text": "天竺鼠车形角色；普通轮组与可滚动轮组分别用于摆姿和移动。包装中附驾驶员小人；不按1:1人类比例理解。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.goodsmile.com/en/product/9675/MODEROID+Molcar+Ambulance+Molcar",
+          "title": "MODEROID 天竺鼠车车 救护车",
+          "kind": "官方产品页",
+          "supports": "具体型号、题材、组装交付、模型尺寸、官方明确列出的可动机构与发行记录",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": "https://www.goodsmile.com/en/product/9675/MODEROID+Molcar+Ambulance+Molcar",
+        "note": "未以作品设定年代或图片年份代替商品年份。"
+      },
+      "aliases": [
+        "MODEROID Molcar Ambulance Molcar"
+      ]
+    },
+    {
+      "id": "batch-moderoid-8938",
+      "name": "MODEROID Blodia",
+      "brand": "Good Smile Company",
+      "original": "Cyberbots: Full Metal Madness",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "官方产品页所列版本",
+      "icon": "machine",
+      "scale": null,
+      "heightMm": 110,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度约 11 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装",
+          "部分彩色零件"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "ABS",
+          "PS",
+          "塑料（未细分）"
+        ],
+        "role": [
+          "机械角色",
+          "机器人"
+        ]
+      },
+      "notes": [
+        {
+          "title": "交付与尺寸",
+          "text": "塑料拼装套件；颜色处理按本商品页记录。非比例或未标比例的规格不换算成真人或实物尺寸。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.goodsmile.com/en/product/8938/MODEROID+Blodia",
+          "title": "MODEROID Blodia",
+          "kind": "官方产品页",
+          "supports": "具体型号、题材、组装交付、模型尺寸、官方明确列出的可动机构与发行记录",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": "https://www.goodsmile.com/en/product/8938/MODEROID+Blodia",
+        "note": "未以作品设定年代或图片年份代替商品年份。"
+      },
+      "aliases": [
+        "MODEROID Blodia"
+      ]
+    },
+    {
+      "id": "batch-moderoid-8619",
+      "name": "MODEROID 魔动王 Granzort",
+      "brand": "Good Smile Company",
+      "original": "Mado King Granzort",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2023-05 官方页面所列版本",
+      "icon": "machine",
+      "scale": null,
+      "heightMm": 135,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度约 13.5 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实",
+          "变形机构"
+        ],
+        "delivery": [
+          "待拼装",
+          "部分彩色零件"
+        ],
+        "dress": [
+          "硬质换件"
+        ],
+        "material": [
+          "ABS",
+          "PS",
+          "塑料（未细分）"
+        ],
+        "role": [
+          "机械角色",
+          "机器人"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品年代",
+          "text": "官方发行记录：Originally released in October 2021 with a rerelease in June 2022 and May 2023."
+        },
+        {
+          "title": "交付与尺寸",
+          "text": "塑料拼装套件；颜色处理按本商品页记录。非比例或未标比例的规格不换算成真人或实物尺寸。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.goodsmile.com/en/product/8619/MODEROID+Granzort",
+          "title": "MODEROID 魔动王 Granzort",
+          "kind": "官方产品页",
+          "supports": "具体型号、题材、组装交付、模型尺寸、官方明确列出的可动机构与发行记录",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2023-05",
+        "sourceUrl": "https://www.goodsmile.com/en/product/8619/MODEROID+Granzort",
+        "note": "按当前官方页面所列发行或再版月记录；初版与再版分开说明。"
+      },
+      "aliases": [
+        "MODEROID Granzort"
+      ]
+    },
+    {
+      "id": "batch-moderoid-6384",
+      "name": "MODEROID 新干线变形机器人 N700A 希望号",
+      "brand": "Good Smile Company",
+      "original": "Shinkansen Henkei Robo Shinkalion",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2021-05 官方页面所列版本",
+      "icon": "machine",
+      "scale": null,
+      "heightMm": 145,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度约 14.5 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实",
+          "变形机构"
+        ],
+        "delivery": [
+          "待拼装",
+          "部分彩色零件"
+        ],
+        "dress": [],
+        "material": [
+          "ABS",
+          "PS",
+          "POM",
+          "塑料（未细分）"
+        ],
+        "role": [
+          "机械角色",
+          "机器人"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品年代",
+          "text": "官方发行记录：Originally released in January 2020 with a rerelease in May 2021."
+        },
+        {
+          "title": "交付与尺寸",
+          "text": "塑料拼装套件；颜色处理按本商品页记录。非比例或未标比例的规格不换算成真人或实物尺寸。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.goodsmile.com/en/product/6384/MODEROID+Shinkalion+N700A+Nozomi",
+          "title": "MODEROID 新干线变形机器人 N700A 希望号",
+          "kind": "官方产品页",
+          "supports": "具体型号、题材、组装交付、模型尺寸、官方明确列出的可动机构与发行记录",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2021-05",
+        "sourceUrl": "https://www.goodsmile.com/en/product/6384/MODEROID+Shinkalion+N700A+Nozomi",
+        "note": "按当前官方页面所列发行或再版月记录；初版与再版分开说明。"
+      },
+      "aliases": [
+        "MODEROID Shinkalion N700A Nozomi"
+      ]
+    },
+    {
+      "id": "batch-moderoid-5325",
+      "name": "MODEROID 新干线变形机器人 E5 隼",
+      "brand": "Good Smile Company",
+      "original": "Shinkansen Henkei Robo Shinkalion",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2021-04 官方页面所列版本",
+      "icon": "machine",
+      "scale": null,
+      "heightMm": 135,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度约 13.5 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实",
+          "变形机构"
+        ],
+        "delivery": [
+          "待拼装",
+          "部分彩色零件"
+        ],
+        "dress": [],
+        "material": [
+          "ABS",
+          "PS",
+          "塑料（未细分）"
+        ],
+        "role": [
+          "机械角色",
+          "机器人"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品年代",
+          "text": "官方发行记录：Originally released in February 2019 with a rerelease in December 2019 and April 2021."
+        },
+        {
+          "title": "交付与尺寸",
+          "text": "塑料拼装套件；颜色处理按本商品页记录。非比例或未标比例的规格不换算成真人或实物尺寸。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.goodsmile.com/en/product/5325/MODEROID+Shinkalion+E5+Hayabusa",
+          "title": "MODEROID 新干线变形机器人 E5 隼",
+          "kind": "官方产品页",
+          "supports": "具体型号、题材、组装交付、模型尺寸、官方明确列出的可动机构与发行记录",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2021-04",
+        "sourceUrl": "https://www.goodsmile.com/en/product/5325/MODEROID+Shinkalion+E5+Hayabusa",
+        "note": "按当前官方页面所列发行或再版月记录；初版与再版分开说明。"
+      },
+      "aliases": [
+        "MODEROID Shinkalion E5 Hayabusa"
+      ]
+    },
+    {
+      "id": "batch-moderoid-6870",
+      "name": "MODEROID 新干线变形机器人 500 TYPE EVA",
+      "brand": "Good Smile Company",
+      "original": "Shinkansen Henkei Robo Shinkalion",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2020-12 官方页面所列版本",
+      "icon": "machine",
+      "scale": null,
+      "heightMm": 140,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度约 14 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实",
+          "变形机构"
+        ],
+        "delivery": [
+          "待拼装",
+          "部分彩色零件"
+        ],
+        "dress": [],
+        "material": [
+          "ABS",
+          "PS",
+          "POM",
+          "塑料（未细分）"
+        ],
+        "role": [
+          "机械角色",
+          "机器人"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品年代",
+          "text": "官方发行记录：Originally released in June 2020 with a rerelease in December 2020."
+        },
+        {
+          "title": "交付与尺寸",
+          "text": "塑料拼装套件；颜色处理按本商品页记录。非比例或未标比例的规格不换算成真人或实物尺寸。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.goodsmile.com/en/product/6870/MODEROID+Shinkalion+500+TYPE+EVA",
+          "title": "MODEROID 新干线变形机器人 500 TYPE EVA",
+          "kind": "官方产品页",
+          "supports": "具体型号、题材、组装交付、模型尺寸、官方明确列出的可动机构与发行记录",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2020-12",
+        "sourceUrl": "https://www.goodsmile.com/en/product/6870/MODEROID+Shinkalion+500+TYPE+EVA",
+        "note": "按当前官方页面所列发行或再版月记录；初版与再版分开说明。"
+      },
+      "aliases": [
+        "MODEROID Shinkalion 500 TYPE EVA"
+      ]
+    },
+    {
+      "id": "batch-rement-r70143",
+      "name": "おいしい野菜の育てかた",
+      "brand": "Re-Ment",
+      "original": "ぷちサンプルシリーズ",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2026-10 官方页面所列版本",
+      "icon": "props",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "计划商品",
+          "成品配件"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "微缩配件",
+          "场景配件"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "本条记录一个具名商品系列；官方列为全6種類，商品内容为フィギュア＋ミニシート。不把系列图片中的全部物件当作单盒交付内容。"
+        },
+        {
+          "title": "包装与模型尺寸",
+          "text": "官方包装规格：箱：115（高さ）×70（幅）×60（奥行）ｍｍ。这是包装尺寸，模型的实际尺寸与比例另待来源说明。"
+        },
+        {
+          "title": "销售记录",
+          "text": "核对时官方商品页列为“発売予定”；此状态不代表所有地区或店铺都有现货。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.re-ment.co.jp/product/r70143",
+          "title": "おいしい野菜の育てかた",
+          "kind": "官方产品页",
+          "supports": "型号与商品规格",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2026-10-12（计划）",
+        "sourceUrl": "https://www.re-ment.co.jp/product/r70143",
+        "note": "按本商品系列的官方发售日期记录。"
+      }
+    },
+    {
+      "id": "batch-rement-r70101",
+      "name": "しぼりたて！ぷち牧場！",
+      "brand": "Re-Ment",
+      "original": "ぷちサンプルシリーズ",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2026-09 官方页面所列版本",
+      "icon": "props",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品配件"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "微缩配件",
+          "场景配件"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "本条记录一个具名商品系列；官方列为全8種類，商品内容为フィギュア＋ミニシート。不把系列图片中的全部物件当作单盒交付内容。"
+        },
+        {
+          "title": "包装与模型尺寸",
+          "text": "官方包装规格：箱：115（高さ）×70（幅）×50（奥行）ｍｍ。这是包装尺寸，模型的实际尺寸与比例另待来源说明。"
+        },
+        {
+          "title": "销售记录",
+          "text": "核对时官方商品页列为“発売中”；此状态不代表所有地区或店铺都有现货。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.re-ment.co.jp/product/r70101",
+          "title": "しぼりたて！ぷち牧場！",
+          "kind": "官方产品页",
+          "supports": "型号与商品规格",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2026-09-14",
+        "sourceUrl": "https://www.re-ment.co.jp/product/r70101",
+        "note": "按本商品系列的官方发售日期记录。"
+      }
+    },
+    {
+      "id": "batch-rement-r70117",
+      "name": "町のパン屋さん　-懐かしい味は、今日も焼きたて。",
+      "brand": "Re-Ment",
+      "original": "ぷちサンプルシリーズ",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2026-08 官方页面所列版本",
+      "icon": "props",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品配件"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "微缩配件",
+          "场景配件"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "本条记录一个具名商品系列；官方列为全8種類，商品内容为フィギュア。不把系列图片中的全部物件当作单盒交付内容。"
+        },
+        {
+          "title": "包装与模型尺寸",
+          "text": "官方包装规格：箱：115（高さ）×70（幅）×60（奥行）ｍｍ。这是包装尺寸，模型的实际尺寸与比例另待来源说明。"
+        },
+        {
+          "title": "销售记录",
+          "text": "核对时官方商品页列为“発売中”；此状态不代表所有地区或店铺都有现货。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.re-ment.co.jp/product/r70117",
+          "title": "町のパン屋さん　-懐かしい味は、今日も焼きたて。",
+          "kind": "官方产品页",
+          "supports": "型号与商品规格",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2026-08-24",
+        "sourceUrl": "https://www.re-ment.co.jp/product/r70117",
+        "note": "按本商品系列的官方发售日期记录。"
+      }
+    },
+    {
+      "id": "batch-rement-r70022",
+      "name": "うちのコ 今日から一人ぐらしはじまります！",
+      "brand": "Re-Ment",
+      "original": "ぷちサンプルシリーズ",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2026-06 官方页面所列版本",
+      "icon": "props",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品配件"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "微缩配件",
+          "场景配件"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "本条记录一个具名商品系列；官方列为全8種類，商品内容为フィギュア。不把系列图片中的全部物件当作单盒交付内容。"
+        },
+        {
+          "title": "包装与模型尺寸",
+          "text": "官方包装规格：箱：115（高さ）×70（幅）×50（奥行）ｍｍ。这是包装尺寸，模型的实际尺寸与比例另待来源说明。"
+        },
+        {
+          "title": "销售记录",
+          "text": "核对时官方商品页列为“発売中”；此状态不代表所有地区或店铺都有现货。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.re-ment.co.jp/product/r70022",
+          "title": "うちのコ 今日から一人ぐらしはじまります！",
+          "kind": "官方产品页",
+          "supports": "型号与商品规格",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2026-06-01",
+        "sourceUrl": "https://www.re-ment.co.jp/product/r70022",
+        "note": "按本商品系列的官方发售日期记录。"
+      }
+    },
+    {
+      "id": "batch-rement-r70095",
+      "name": "ていねいさんの花咲く和の暮らし",
+      "brand": "Re-Ment",
+      "original": "ぷちサンプルシリーズ",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2026-05 官方页面所列版本",
+      "icon": "props",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品配件"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "微缩配件",
+          "场景配件"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "本条记录一个具名商品系列；官方列为全8種類，商品内容为フィギュア＋ミニシート。不把系列图片中的全部物件当作单盒交付内容。"
+        },
+        {
+          "title": "包装与模型尺寸",
+          "text": "官方包装规格：箱：115（高さ）×70（幅）×50（奥行）ｍｍ。这是包装尺寸，模型的实际尺寸与比例另待来源说明。"
+        },
+        {
+          "title": "销售记录",
+          "text": "核对时官方商品页列为“発売中”；此状态不代表所有地区或店铺都有现货。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.re-ment.co.jp/product/r70095",
+          "title": "ていねいさんの花咲く和の暮らし",
+          "kind": "官方产品页",
+          "supports": "型号与商品规格",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2026-05-25",
+        "sourceUrl": "https://www.re-ment.co.jp/product/r70095",
+        "note": "按本商品系列的官方发售日期记录。"
+      }
+    },
+    {
+      "id": "batch-rement-r70077",
+      "name": "おまつりの思い出 ～夏の夜市～",
+      "brand": "Re-Ment",
+      "original": "ぷちサンプルシリーズ",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2026-05 官方页面所列版本",
+      "icon": "props",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品配件"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "微缩配件",
+          "场景配件"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "本条记录一个具名商品系列；官方列为全8種類，商品内容为フィギュア＋ミニシート。不把系列图片中的全部物件当作单盒交付内容。"
+        },
+        {
+          "title": "包装与模型尺寸",
+          "text": "官方包装规格：箱：115（高さ）×70（幅）×50（奥行）ｍｍ。这是包装尺寸，模型的实际尺寸与比例另待来源说明。"
+        },
+        {
+          "title": "销售记录",
+          "text": "核对时官方商品页列为“発売中”；此状态不代表所有地区或店铺都有现货。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.re-ment.co.jp/product/r70077",
+          "title": "おまつりの思い出 ～夏の夜市～",
+          "kind": "官方产品页",
+          "supports": "型号与商品规格",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2026-05-25",
+        "sourceUrl": "https://www.re-ment.co.jp/product/r70077",
+        "note": "按本商品系列的官方发售日期记录。"
+      }
+    },
+    {
+      "id": "batch-rement-r50797",
+      "name": "Petit Crepe",
+      "brand": "Re-Ment",
+      "original": "ぷちサンプルシリーズ",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2026-03 官方页面所列版本",
+      "icon": "props",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品配件"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "微缩配件",
+          "场景配件"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "本条记录一个具名商品系列；官方列为全1種類，商品内容为フィギュア＋紙小物。不把系列图片中的全部物件当作单盒交付内容。"
+        },
+        {
+          "title": "包装与模型尺寸",
+          "text": "官方包装规格：箱：185（高さ）×160（幅）×95（奥行）ｍｍ。这是包装尺寸，模型的实际尺寸与比例另待来源说明。"
+        },
+        {
+          "title": "销售记录",
+          "text": "核对时官方商品页列为“発売中”；此状态不代表所有地区或店铺都有现货。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.re-ment.co.jp/product/r50797",
+          "title": "Petit Crepe",
+          "kind": "官方产品页",
+          "supports": "型号与商品规格",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2026-03-23",
+        "sourceUrl": "https://www.re-ment.co.jp/product/r50797",
+        "note": "按本商品系列的官方发售日期记录。"
+      }
+    },
+    {
+      "id": "batch-rement-r70026",
+      "name": "丘の上のカントリーいちごカフェ",
+      "brand": "Re-Ment",
+      "original": "ぷちサンプルシリーズ",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2026-02 官方页面所列版本",
+      "icon": "props",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品配件"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "微缩配件",
+          "场景配件"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "本条记录一个具名商品系列；官方列为全8種類，商品内容为フィギュア＋ミニシート。不把系列图片中的全部物件当作单盒交付内容。"
+        },
+        {
+          "title": "包装与模型尺寸",
+          "text": "官方包装规格：箱：115（高さ）×70（幅）×50（奥行）ｍｍ。这是包装尺寸，模型的实际尺寸与比例另待来源说明。"
+        },
+        {
+          "title": "销售记录",
+          "text": "核对时官方商品页列为“発売中”；此状态不代表所有地区或店铺都有现货。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.re-ment.co.jp/product/r70026",
+          "title": "丘の上のカントリーいちごカフェ",
+          "kind": "官方产品页",
+          "supports": "型号与商品规格",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2026-02-23",
+        "sourceUrl": "https://www.re-ment.co.jp/product/r70026",
+        "note": "按本商品系列的官方发售日期记录。"
+      }
+    },
+    {
+      "id": "batch-rement-r70024",
+      "name": "帰り道、いいにおい！～晩ごはんの想い出～",
+      "brand": "Re-Ment",
+      "original": "ぷちサンプルシリーズ",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2026-02 官方页面所列版本",
+      "icon": "props",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品配件"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "微缩配件",
+          "场景配件"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "本条记录一个具名商品系列；官方列为全8種類，商品内容为フィギュア＋ミニシート。不把系列图片中的全部物件当作单盒交付内容。"
+        },
+        {
+          "title": "包装与模型尺寸",
+          "text": "官方包装规格：箱：115（高さ）×70（幅）×50（奥行）ｍｍ。这是包装尺寸，模型的实际尺寸与比例另待来源说明。"
+        },
+        {
+          "title": "销售记录",
+          "text": "核对时官方商品页列为“発売中”；此状态不代表所有地区或店铺都有现货。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.re-ment.co.jp/product/r70024",
+          "title": "帰り道、いいにおい！～晩ごはんの想い出～",
+          "kind": "官方产品页",
+          "supports": "型号与商品规格",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2026-02-16",
+        "sourceUrl": "https://www.re-ment.co.jp/product/r70024",
+        "note": "按本商品系列的官方发售日期记录。"
+      }
+    },
+    {
+      "id": "batch-rement-r50787",
+      "name": "ぜいたくぜんぶのせ！ぷちホテルビュッフェ",
+      "brand": "Re-Ment",
+      "original": "ぷちサンプルシリーズ",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2026-01 官方页面所列版本",
+      "icon": "props",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品配件"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "微缩配件",
+          "场景配件"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "本条记录一个具名商品系列；官方列为全8種類，商品内容为フィギュア＋ミニシート。不把系列图片中的全部物件当作单盒交付内容。"
+        },
+        {
+          "title": "包装与模型尺寸",
+          "text": "官方包装规格：箱：115（高さ）×70（幅）×60（奥行）ｍｍ。这是包装尺寸，模型的实际尺寸与比例另待来源说明。"
+        },
+        {
+          "title": "销售记录",
+          "text": "核对时官方商品页列为“発売中”；此状态不代表所有地区或店铺都有现货。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.re-ment.co.jp/product/r50787",
+          "title": "ぜいたくぜんぶのせ！ぷちホテルビュッフェ",
+          "kind": "官方产品页",
+          "supports": "型号与商品规格",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2026-01-19",
+        "sourceUrl": "https://www.re-ment.co.jp/product/r50787",
+        "note": "按本商品系列的官方发售日期记录。"
+      }
+    },
+    {
+      "id": "batch-rement-r50795",
+      "name": "みんなだいすき！ファミレス デリシャーズ",
+      "brand": "Re-Ment",
+      "original": "ぷちサンプルシリーズ",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2026-01 官方页面所列版本",
+      "icon": "props",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品配件"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "微缩配件",
+          "场景配件"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "本条记录一个具名商品系列；官方列为全8種類，商品内容为フィギュア＋ミニシート。不把系列图片中的全部物件当作单盒交付内容。"
+        },
+        {
+          "title": "包装与模型尺寸",
+          "text": "官方包装规格：箱：115（高さ）×70（幅）×60（奥行）ｍｍ。这是包装尺寸，模型的实际尺寸与比例另待来源说明。"
+        },
+        {
+          "title": "销售记录",
+          "text": "核对时官方商品页列为“発売中”；此状态不代表所有地区或店铺都有现货。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.re-ment.co.jp/product/r50795",
+          "title": "みんなだいすき！ファミレス デリシャーズ",
+          "kind": "官方产品页",
+          "supports": "型号与商品规格",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2026-01-12",
+        "sourceUrl": "https://www.re-ment.co.jp/product/r50795",
+        "note": "按本商品系列的官方发售日期记录。"
+      }
+    },
+    {
+      "id": "batch-rement-r70014",
+      "name": "君と過ごした四畳半",
+      "brand": "Re-Ment",
+      "original": "ぷちサンプルシリーズ",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2025-12 官方页面所列版本",
+      "icon": "props",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品配件"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "微缩配件",
+          "场景配件"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "本条记录一个具名商品系列；官方列为全8種類，商品内容为フィギュア＋ミニシート。不把系列图片中的全部物件当作单盒交付内容。"
+        },
+        {
+          "title": "包装与模型尺寸",
+          "text": "官方包装规格：箱：115（高さ）×70（幅）×60（奥行）ｍｍ。这是包装尺寸，模型的实际尺寸与比例另待来源说明。"
+        },
+        {
+          "title": "销售记录",
+          "text": "核对时官方商品页列为“発売中”；此状态不代表所有地区或店铺都有现货。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.re-ment.co.jp/product/r70014",
+          "title": "君と過ごした四畳半",
+          "kind": "官方产品页",
+          "supports": "型号与商品规格",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2025-12-22",
+        "sourceUrl": "https://www.re-ment.co.jp/product/r70014",
+        "note": "按本商品系列的官方发售日期记录。"
+      }
+    },
+    {
+      "id": "batch-rement-r50793",
+      "name": "わんこと一緒",
+      "brand": "Re-Ment",
+      "original": "ぷちサンプルシリーズ",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2025-10 官方页面所列版本",
+      "icon": "props",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品配件"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "微缩配件",
+          "场景配件"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "本条记录一个具名商品系列；官方列为全8種類，商品内容为フィギュア＋ミニシート。不把系列图片中的全部物件当作单盒交付内容。"
+        },
+        {
+          "title": "包装与模型尺寸",
+          "text": "官方包装规格：箱：115（高さ）×70（幅）×50（奥行）ｍｍ。这是包装尺寸，模型的实际尺寸与比例另待来源说明。"
+        },
+        {
+          "title": "销售记录",
+          "text": "核对时官方商品页列为“発売中”；此状态不代表所有地区或店铺都有现货。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.re-ment.co.jp/product/r50793",
+          "title": "わんこと一緒",
+          "kind": "官方产品页",
+          "supports": "型号与商品规格",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2025-10-20",
+        "sourceUrl": "https://www.re-ment.co.jp/product/r50793",
+        "note": "按本商品系列的官方发售日期记录。"
+      }
+    },
+    {
+      "id": "batch-rement-r50791",
+      "name": "お料理上手のキッチンツール",
+      "brand": "Re-Ment",
+      "original": "ぷちサンプルシリーズ",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2025-09 官方页面所列版本",
+      "icon": "props",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品配件"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "微缩配件",
+          "场景配件"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "本条记录一个具名商品系列；官方列为全8種類，商品内容为フィギュア＋ミニシート。不把系列图片中的全部物件当作单盒交付内容。"
+        },
+        {
+          "title": "包装与模型尺寸",
+          "text": "官方包装规格：箱：115（高さ）×70（幅）×50（奥行）ｍｍ。这是包装尺寸，模型的实际尺寸与比例另待来源说明。"
+        },
+        {
+          "title": "销售记录",
+          "text": "核对时官方商品页列为“発売中”；此状态不代表所有地区或店铺都有现货。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.re-ment.co.jp/product/r50791",
+          "title": "お料理上手のキッチンツール",
+          "kind": "官方产品页",
+          "supports": "型号与商品规格",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2025-09-29",
+        "sourceUrl": "https://www.re-ment.co.jp/product/r50791",
+        "note": "按本商品系列的官方发售日期记录。"
+      }
+    },
+    {
+      "id": "batch-rement-r50781",
+      "name": "やっぱりこの味！路地裏町中華",
+      "brand": "Re-Ment",
+      "original": "ぷちサンプルシリーズ",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2025-09 官方页面所列版本",
+      "icon": "props",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品配件"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "微缩配件",
+          "场景配件"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "本条记录一个具名商品系列；官方列为全8種類，商品内容为フィギュア。不把系列图片中的全部物件当作单盒交付内容。"
+        },
+        {
+          "title": "包装与模型尺寸",
+          "text": "官方包装规格：箱：115（高さ）×70（幅）×60（奥行）ｍｍ。这是包装尺寸，模型的实际尺寸与比例另待来源说明。"
+        },
+        {
+          "title": "销售记录",
+          "text": "核对时官方商品页列为“発売中”；此状态不代表所有地区或店铺都有现货。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.re-ment.co.jp/product/r50781",
+          "title": "やっぱりこの味！路地裏町中華",
+          "kind": "官方产品页",
+          "supports": "型号与商品规格",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2025-09-15",
+        "sourceUrl": "https://www.re-ment.co.jp/product/r50781",
+        "note": "按本商品系列的官方发售日期记录。"
+      }
+    },
+    {
+      "id": "batch-rement-r50785",
+      "name": "銘酒専門 富士丸酒店〜もう1杯〜",
+      "brand": "Re-Ment",
+      "original": "ぷちサンプルシリーズ",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2025-07 官方页面所列版本",
+      "icon": "props",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品配件"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "微缩配件",
+          "场景配件"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "本条记录一个具名商品系列；官方列为全8種類，商品内容为フィギュア＋ミニシート。不把系列图片中的全部物件当作单盒交付内容。"
+        },
+        {
+          "title": "包装与模型尺寸",
+          "text": "官方包装规格：箱：115（高さ）×70（幅）×50（奥行）ｍｍ。这是包装尺寸，模型的实际尺寸与比例另待来源说明。"
+        },
+        {
+          "title": "销售记录",
+          "text": "核对时官方商品页列为“発売中”；此状态不代表所有地区或店铺都有现货。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.re-ment.co.jp/product/r50785",
+          "title": "銘酒専門 富士丸酒店〜もう1杯〜",
+          "kind": "官方产品页",
+          "supports": "型号与商品规格",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2025-07-28",
+        "sourceUrl": "https://www.re-ment.co.jp/product/r50785",
+        "note": "按本商品系列的官方发售日期记录。"
+      }
+    },
+    {
+      "id": "batch-rement-r50769",
+      "name": "昭和レトロ　思い出マイルーム",
+      "brand": "Re-Ment",
+      "original": "ぷちサンプルシリーズ",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2025-02 官方页面所列版本",
+      "icon": "props",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品配件"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "微缩配件",
+          "场景配件"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "本条记录一个具名商品系列；官方列为全8種類，商品内容为フィギュア＋ミニシート。不把系列图片中的全部物件当作单盒交付内容。"
+        },
+        {
+          "title": "包装与模型尺寸",
+          "text": "官方包装规格：箱：115（高さ）×70（幅）×60（奥行）ｍｍ。这是包装尺寸，模型的实际尺寸与比例另待来源说明。"
+        },
+        {
+          "title": "销售记录",
+          "text": "核对时官方商品页列为“発売中”；此状态不代表所有地区或店铺都有现货。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.re-ment.co.jp/product/r50769",
+          "title": "昭和レトロ　思い出マイルーム",
+          "kind": "官方产品页",
+          "supports": "型号与商品规格",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2025-02-24",
+        "sourceUrl": "https://www.re-ment.co.jp/product/r50769",
+        "note": "按本商品系列的官方发售日期记录。"
+      }
+    },
+    {
+      "id": "batch-rement-r50771",
+      "name": "Gelateria Puccini",
+      "brand": "Re-Ment",
+      "original": "ぷちサンプルシリーズ",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2025-02 官方页面所列版本",
+      "icon": "props",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品配件"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "微缩配件",
+          "场景配件"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "本条记录一个具名商品系列；官方列为全1種類，商品内容为フィギュア＋紙小物。不把系列图片中的全部物件当作单盒交付内容。"
+        },
+        {
+          "title": "包装与模型尺寸",
+          "text": "官方包装规格：箱：185（高さ）×140（幅）×95（奥行）ｍｍ。这是包装尺寸，模型的实际尺寸与比例另待来源说明。"
+        },
+        {
+          "title": "销售记录",
+          "text": "核对时官方商品页列为“発売中”；此状态不代表所有地区或店铺都有现货。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.re-ment.co.jp/product/r50771",
+          "title": "Gelateria Puccini",
+          "kind": "官方产品页",
+          "supports": "型号与商品规格",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2025-02-17",
+        "sourceUrl": "https://www.re-ment.co.jp/product/r50771",
+        "note": "按本商品系列的官方发售日期记录。"
+      }
+    },
+    {
+      "id": "batch-rement-r50767",
+      "name": "小さな街角 トラットリア",
+      "brand": "Re-Ment",
+      "original": "ぷちサンプルシリーズ",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2025-02 官方页面所列版本",
+      "icon": "props",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品配件"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "微缩配件",
+          "场景配件"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "本条记录一个具名商品系列；官方列为全8種類，商品内容为フィギュア。不把系列图片中的全部物件当作单盒交付内容。"
+        },
+        {
+          "title": "包装与模型尺寸",
+          "text": "官方包装规格：箱：115（高さ）×70（幅）×50（奥行）ｍｍ。这是包装尺寸，模型的实际尺寸与比例另待来源说明。"
+        },
+        {
+          "title": "销售记录",
+          "text": "核对时官方商品页列为“発売中”；此状态不代表所有地区或店铺都有现货。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.re-ment.co.jp/product/r50767",
+          "title": "小さな街角 トラットリア",
+          "kind": "官方产品页",
+          "supports": "型号与商品规格",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2025-02-10",
+        "sourceUrl": "https://www.re-ment.co.jp/product/r50767",
+        "note": "按本商品系列的官方发售日期记录。"
+      }
+    },
+    {
+      "id": "batch-rement-r50759",
+      "name": "My Sweet Closet",
+      "brand": "Re-Ment",
+      "original": "ぷちサンプルシリーズ",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2024-10 官方页面所列版本",
+      "icon": "props",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品配件"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "微缩配件",
+          "场景配件"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "本条记录一个具名商品系列；官方列为全8種類，商品内容为フィギュア＋ミニシート。不把系列图片中的全部物件当作单盒交付内容。"
+        },
+        {
+          "title": "包装与模型尺寸",
+          "text": "官方包装规格：箱：115（高さ）×70（幅）×50（奥行）ｍｍ。这是包装尺寸，模型的实际尺寸与比例另待来源说明。"
+        },
+        {
+          "title": "销售记录",
+          "text": "核对时官方商品页列为“発売中”；此状态不代表所有地区或店铺都有现货。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.re-ment.co.jp/product/r50759",
+          "title": "My Sweet Closet",
+          "kind": "官方产品页",
+          "supports": "型号与商品规格",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2024-10-21",
+        "sourceUrl": "https://www.re-ment.co.jp/product/r50759",
+        "note": "按本商品系列的官方发售日期记录。"
+      }
+    },
+    {
+      "id": "batch-rement-r50741",
+      "name": "猫田さんの日常",
+      "brand": "Re-Ment",
+      "original": "ぷちサンプルシリーズ",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2024-05 官方页面所列版本",
+      "icon": "props",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品配件"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "微缩配件",
+          "场景配件"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "本条记录一个具名商品系列；官方列为全8種類，商品内容为フィギュア＋ミニシート。不把系列图片中的全部物件当作单盒交付内容。"
+        },
+        {
+          "title": "包装与模型尺寸",
+          "text": "官方包装规格：箱：115（高さ）×70（幅）×50（奥行）ｍｍ。这是包装尺寸，模型的实际尺寸与比例另待来源说明。"
+        },
+        {
+          "title": "销售记录",
+          "text": "核对时官方商品页列为“発売中”；此状态不代表所有地区或店铺都有现货。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.re-ment.co.jp/product/r50741",
+          "title": "猫田さんの日常",
+          "kind": "官方产品页",
+          "supports": "型号与商品规格",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2024-05-27",
+        "sourceUrl": "https://www.re-ment.co.jp/product/r50741",
+        "note": "按本商品系列的官方发售日期记录。"
+      }
+    },
+    {
+      "id": "batch-rement-r50737",
+      "name": "うちの自慢のダイニングテーブル",
+      "brand": "Re-Ment",
+      "original": "ぷちサンプルシリーズ",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2024-02 官方页面所列版本",
+      "icon": "props",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品配件"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "微缩配件",
+          "场景配件"
+        ]
+      },
+      "notes": [
+        {
+          "title": "商品组成",
+          "text": "本条记录一个具名商品系列；官方列为全1種類，商品内容为フィギュア。不把系列图片中的全部物件当作单盒交付内容。"
+        },
+        {
+          "title": "包装与模型尺寸",
+          "text": "官方包装规格：箱：220（高さ）×145（幅）×100（奥行）ｍｍ。这是包装尺寸，模型的实际尺寸与比例另待来源说明。"
+        },
+        {
+          "title": "销售记录",
+          "text": "核对时官方商品页列为“発売中”；此状态不代表所有地区或店铺都有现货。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.re-ment.co.jp/product/r50737",
+          "title": "うちの自慢のダイニングテーブル",
+          "kind": "官方产品页",
+          "supports": "型号与商品规格",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2024-02-19",
+        "sourceUrl": "https://www.re-ment.co.jp/product/r50737",
+        "note": "按本商品系列的官方发售日期记录。"
+      }
+    },
+    {
+      "id": "batch-tamiya-12036",
+      "name": "タイレルP34 シックスホイーラー （エッチングパーツ付き）",
+      "brand": "Tamiya",
+      "original": "现实载具",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2026-12 计划交付版本",
+      "icon": "vehicle",
+      "scale": "1:12",
+      "heightMm": 84,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 33.6 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        },
+        {
+          "label": "宽度约 16.6 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        },
+        {
+          "label": "高度约 8.4 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "局部可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "计划商品",
+          "待拼装"
+        ],
+        "dress": [
+          "涂装定制",
+          "水贴定制"
+        ],
+        "material": [
+          "塑料（未细分）",
+          "橡胶",
+          "金属"
+        ],
+        "role": [
+          "载具模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "初版记录",
+          "text": "官方注明初次发售为2007年11月。与页面本次发售或发货日期分别保留。"
+        },
+        {
+          "title": "交付与表现",
+          "text": "官方产品页的展示照片为组装、涂装后的完成效果；本条按未完成的拼装套件记录。可选的舱盖、机翼或车体状态不等于组装后可动。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.tamiya.com/japan/products/12036/index.html",
+          "title": "タイレルP34 シックスホイーラー （エッチングパーツ付き）",
+          "kind": "官方产品页",
+          "supports": "商品编号、标称比例、模型尺寸、拼装交付、本次及初次发售记录和明确列出的材料／机构",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2026-12（计划）",
+        "sourceUrl": "https://www.tamiya.com/japan/products/12036/index.html",
+        "note": "按官方当前页面的本次发售／发货月记录；实车或古生物的年代不作为模型商品年代。"
+      }
+    },
+    {
+      "id": "batch-tamiya-20058",
+      "name": "1/20 グランプリコレクション　タイレル P34 1976 日本GP",
+      "brand": "Tamiya",
+      "original": "现实载具",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2026-12 计划交付版本",
+      "icon": "vehicle",
+      "scale": "1:20",
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 20.1 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        },
+        {
+          "label": "宽度约 10 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "计划商品",
+          "待拼装"
+        ],
+        "dress": [
+          "涂装定制",
+          "水贴定制"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "载具模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "初版记录",
+          "text": "官方注明初次发售为2022年8月。与页面本次发售或发货日期分别保留。"
+        },
+        {
+          "title": "交付与表现",
+          "text": "官方产品页的展示照片为组装、涂装后的完成效果；本条按未完成的拼装套件记录。可选的舱盖、机翼或车体状态不等于组装后可动。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.tamiya.com/japan/products/20058/index.html",
+          "title": "1/20 グランプリコレクション　タイレル P34 1976 日本GP",
+          "kind": "官方产品页",
+          "supports": "商品编号、标称比例、模型尺寸、拼装交付、本次及初次发售记录和明确列出的材料／机构",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2026-12（计划）",
+        "sourceUrl": "https://www.tamiya.com/japan/products/20058/index.html",
+        "note": "按官方当前页面的本次发售／发货月记录；实车或古生物的年代不作为模型商品年代。"
+      }
+    },
+    {
+      "id": "batch-tamiya-24379",
+      "name": "1/24 BMW 320i レーシング",
+      "brand": "Tamiya",
+      "original": "现实载具",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2026-11-21 计划交付版本",
+      "icon": "vehicle",
+      "scale": "1:24",
+      "heightMm": 55,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 20.3 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        },
+        {
+          "label": "宽度约 8.5 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        },
+        {
+          "label": "高度约 5.5 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "计划商品",
+          "待拼装"
+        ],
+        "dress": [
+          "涂装定制",
+          "水贴定制"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "载具模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "交付与表现",
+          "text": "官方产品页的展示照片为组装、涂装后的完成效果；本条按未完成的拼装套件记录。可选的舱盖、机翼或车体状态不等于组装后可动。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.tamiya.com/japan/products/24379/index.html",
+          "title": "1/24 BMW 320i レーシング",
+          "kind": "官方产品页",
+          "supports": "商品编号、标称比例、模型尺寸、拼装交付、本次及初次发售记录和明确列出的材料／机构",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2026-11-21（计划）",
+        "sourceUrl": "https://www.tamiya.com/japan/products/24379/index.html",
+        "note": "按官方当前页面的本次发售／发货月记录；实车或古生物的年代不作为模型商品年代。"
+      }
+    },
+    {
+      "id": "batch-tamiya-20072",
+      "name": "1/20 グランプリコレクション　トヨタ セリカ LB ターボ Gr.5",
+      "brand": "Tamiya",
+      "original": "现实载具",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2026-11-14 计划交付版本",
+      "icon": "vehicle",
+      "scale": "1:20",
+      "heightMm": 61,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 24 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        },
+        {
+          "label": "宽度约 10.5 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        },
+        {
+          "label": "高度约 6.1 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "计划商品",
+          "待拼装"
+        ],
+        "dress": [
+          "涂装定制",
+          "水贴定制"
+        ],
+        "material": [
+          "塑料（未细分）",
+          "橡胶"
+        ],
+        "role": [
+          "载具模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "初版记录",
+          "text": "官方注明初次发售为2024年1月。与页面本次发售或发货日期分别保留。"
+        },
+        {
+          "title": "交付与表现",
+          "text": "官方产品页的展示照片为组装、涂装后的完成效果；本条按未完成的拼装套件记录。可选的舱盖、机翼或车体状态不等于组装后可动。"
+        },
+        {
+          "title": "附属对象",
+          "text": "套件还包含官方页面注明的人形或比例参照件；以包装清单为准。此记录按主要载具／生物归类。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.tamiya.com/japan/products/20072/index.html",
+          "title": "1/20 グランプリコレクション　トヨタ セリカ LB ターボ Gr.5",
+          "kind": "官方产品页",
+          "supports": "商品编号、标称比例、模型尺寸、拼装交付、本次及初次发售记录和明确列出的材料／机构",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2026-11-14（计划）",
+        "sourceUrl": "https://www.tamiya.com/japan/products/20072/index.html",
+        "note": "按官方当前页面的本次发售／发货月记录；实车或古生物的年代不作为模型商品年代。"
+      }
+    },
+    {
+      "id": "batch-tamiya-24378",
+      "name": "1/24 NISSAN レパード2ドア ハードトップ280X･SF-L",
+      "brand": "Tamiya",
+      "original": "现实载具",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2026-09-12 官方页面所列版本",
+      "icon": "vehicle",
+      "scale": "1:24",
+      "heightMm": 56,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 19.3 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        },
+        {
+          "label": "宽度约 7.5 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        },
+        {
+          "label": "高度约 5.6 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "局部可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "涂装定制",
+          "水贴定制"
+        ],
+        "material": [
+          "塑料（未细分）",
+          "橡胶"
+        ],
+        "role": [
+          "载具模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "交付与表现",
+          "text": "官方产品页的展示照片为组装、涂装后的完成效果；本条按未完成的拼装套件记录。可选的舱盖、机翼或车体状态不等于组装后可动。"
+        },
+        {
+          "title": "附属对象",
+          "text": "套件还包含官方页面注明的人形或比例参照件；以包装清单为准。此记录按主要载具／生物归类。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.tamiya.com/japan/products/24378/index.html",
+          "title": "1/24 NISSAN レパード2ドア ハードトップ280X･SF-L",
+          "kind": "官方产品页",
+          "supports": "商品编号、标称比例、模型尺寸、拼装交付、本次及初次发售记录和明确列出的材料／机构",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2026-09-12",
+        "sourceUrl": "https://www.tamiya.com/japan/products/24378/index.html",
+        "note": "按官方当前页面的本次发售／发货月记录；实车或古生物的年代不作为模型商品年代。"
+      }
+    },
+    {
+      "id": "batch-tamiya-12031",
+      "name": "ミニクーパー 1.3i",
+      "brand": "Tamiya",
+      "original": "现实载具",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2026-09-12 官方页面所列版本",
+      "icon": "vehicle",
+      "scale": "1:12",
+      "heightMm": 113,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 25.6 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        },
+        {
+          "label": "宽度约 13.3 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        },
+        {
+          "label": "高度约 11.3 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "局部可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "涂装定制",
+          "水贴定制"
+        ],
+        "material": [
+          "塑料（未细分）",
+          "橡胶"
+        ],
+        "role": [
+          "载具模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "初版记录",
+          "text": "官方注明初次发售为1995年7月。与页面本次发售或发货日期分别保留。"
+        },
+        {
+          "title": "交付与表现",
+          "text": "官方产品页的展示照片为组装、涂装后的完成效果；本条按未完成的拼装套件记录。可选的舱盖、机翼或车体状态不等于组装后可动。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.tamiya.com/japan/products/12031/index.html",
+          "title": "ミニクーパー 1.3i",
+          "kind": "官方产品页",
+          "supports": "商品编号、标称比例、模型尺寸、拼装交付、本次及初次发售记录和明确列出的材料／机构",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2026-09-12",
+        "sourceUrl": "https://www.tamiya.com/japan/products/12031/index.html",
+        "note": "按官方当前页面的本次发售／发货月记录；实车或古生物的年代不作为模型商品年代。"
+      }
+    },
+    {
+      "id": "batch-tamiya-14014",
+      "name": "Honda RS1000 耐久レーサー",
+      "brand": "Tamiya",
+      "original": "现实载具",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2026-06-13 官方页面所列版本",
+      "icon": "vehicle",
+      "scale": "1:12",
+      "heightMm": 115,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 18 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        },
+        {
+          "label": "宽度约 4.4 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        },
+        {
+          "label": "高度约 11.5 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "涂装定制",
+          "水贴定制"
+        ],
+        "material": [
+          "塑料（未细分）",
+          "橡胶",
+          "金属"
+        ],
+        "role": [
+          "载具模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "初版记录",
+          "text": "官方注明初次发售为1982年10月。与页面本次发售或发货日期分别保留。"
+        },
+        {
+          "title": "交付与表现",
+          "text": "官方产品页的展示照片为组装、涂装后的完成效果；本条按未完成的拼装套件记录。可选的舱盖、机翼或车体状态不等于组装后可动。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.tamiya.com/japan/products/14014/index.html",
+          "title": "Honda RS1000 耐久レーサー",
+          "kind": "官方产品页",
+          "supports": "商品编号、标称比例、模型尺寸、拼装交付、本次及初次发售记录和明确列出的材料／机构",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2026-06-13",
+        "sourceUrl": "https://www.tamiya.com/japan/products/14014/index.html",
+        "note": "按官方当前页面的本次发售／发货月记录；实车或古生物的年代不作为模型商品年代。"
+      }
+    },
+    {
+      "id": "batch-tamiya-14037",
+      "name": "ヤマハ RZV500R",
+      "brand": "Tamiya",
+      "original": "现实载具",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2026-05-23 官方页面所列版本",
+      "icon": "vehicle",
+      "scale": "1:12",
+      "heightMm": 97,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 17.2 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        },
+        {
+          "label": "宽度约 5.6 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        },
+        {
+          "label": "高度约 9.7 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "涂装定制",
+          "水贴定制"
+        ],
+        "material": [
+          "塑料（未细分）",
+          "金属"
+        ],
+        "role": [
+          "载具模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "初版记录",
+          "text": "官方注明初次发售为1984年11月。与页面本次发售或发货日期分别保留。"
+        },
+        {
+          "title": "交付与表现",
+          "text": "官方产品页的展示照片为组装、涂装后的完成效果；本条按未完成的拼装套件记录。可选的舱盖、机翼或车体状态不等于组装后可动。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.tamiya.com/japan/products/14037/index.html",
+          "title": "ヤマハ RZV500R",
+          "kind": "官方产品页",
+          "supports": "商品编号、标称比例、模型尺寸、拼装交付、本次及初次发售记录和明确列出的材料／机构",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2026-05-23",
+        "sourceUrl": "https://www.tamiya.com/japan/products/14037/index.html",
+        "note": "按官方当前页面的本次发售／发货月记录；实车或古生物的年代不作为模型商品年代。"
+      }
+    },
+    {
+      "id": "batch-tamiya-16002",
+      "name": "ダックス Honda ST70",
+      "brand": "Tamiya",
+      "original": "现实载具",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2026-05-23 官方页面所列版本",
+      "icon": "vehicle",
+      "scale": "1:6",
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 25 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "局部可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "涂装定制",
+          "水贴定制"
+        ],
+        "material": [
+          "塑料（未细分）",
+          "橡胶",
+          "金属"
+        ],
+        "role": [
+          "载具模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "初版记录",
+          "text": "官方注明初次发售为1971年6月。与页面本次发售或发货日期分别保留。"
+        },
+        {
+          "title": "交付与表现",
+          "text": "官方产品页的展示照片为组装、涂装后的完成效果；本条按未完成的拼装套件记录。可选的舱盖、机翼或车体状态不等于组装后可动。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.tamiya.com/japan/products/16002/index.html",
+          "title": "ダックス Honda ST70",
+          "kind": "官方产品页",
+          "supports": "商品编号、标称比例、模型尺寸、拼装交付、本次及初次发售记录和明确列出的材料／机构",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2026-05-23",
+        "sourceUrl": "https://www.tamiya.com/japan/products/16002/index.html",
+        "note": "按官方当前页面的本次发售／发货月记录；实车或古生物的年代不作为模型商品年代。"
+      }
+    },
+    {
+      "id": "batch-tamiya-14144",
+      "name": "1/12 Honda CB1000F",
+      "brand": "Tamiya",
+      "original": "现实载具",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2026-04-18 官方页面所列版本",
+      "icon": "vehicle",
+      "scale": "1:12",
+      "heightMm": 109,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 17.8 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        },
+        {
+          "label": "宽度约 7.3 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        },
+        {
+          "label": "高度约 10.9 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "局部可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "涂装定制",
+          "水贴定制"
+        ],
+        "material": [
+          "塑料（未细分）",
+          "橡胶"
+        ],
+        "role": [
+          "载具模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "交付与表现",
+          "text": "官方产品页的展示照片为组装、涂装后的完成效果；本条按未完成的拼装套件记录。可选的舱盖、机翼或车体状态不等于组装后可动。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.tamiya.com/japan/products/14144/index.html",
+          "title": "1/12 Honda CB1000F",
+          "kind": "官方产品页",
+          "supports": "商品编号、标称比例、模型尺寸、拼装交付、本次及初次发售记录和明确列出的材料／机构",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2026-04-18",
+        "sourceUrl": "https://www.tamiya.com/japan/products/14144/index.html",
+        "note": "按官方当前页面的本次发售／发货月记录；实车或古生物的年代不作为模型商品年代。"
+      }
+    },
+    {
+      "id": "batch-tamiya-14058",
+      "name": "ヤマハ FZR750R （OW01）",
+      "brand": "Tamiya",
+      "original": "现实载具",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2025-12-13 官方页面所列版本",
+      "icon": "vehicle",
+      "scale": "1:12",
+      "heightMm": 96,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 17.4 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        },
+        {
+          "label": "宽度约 6.2 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        },
+        {
+          "label": "高度约 9.6 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "涂装定制",
+          "水贴定制"
+        ],
+        "material": [
+          "塑料（未细分）",
+          "橡胶"
+        ],
+        "role": [
+          "载具模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "初版记录",
+          "text": "官方注明初次发售为1989年8月。与页面本次发售或发货日期分别保留。"
+        },
+        {
+          "title": "交付与表现",
+          "text": "官方产品页的展示照片为组装、涂装后的完成效果；本条按未完成的拼装套件记录。可选的舱盖、机翼或车体状态不等于组装后可动。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.tamiya.com/japan/products/14058/index.html",
+          "title": "ヤマハ FZR750R （OW01）",
+          "kind": "官方产品页",
+          "supports": "商品编号、标称比例、模型尺寸、拼装交付、本次及初次发售记录和明确列出的材料／机构",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2025-12-13",
+        "sourceUrl": "https://www.tamiya.com/japan/products/14058/index.html",
+        "note": "按官方当前页面的本次发售／发货月记录；实车或古生物的年代不作为模型商品年代。"
+      }
+    },
+    {
+      "id": "batch-tamiya-35081",
+      "name": "アメリカ 自走対空機銃 M16 スカイクリーナー",
+      "brand": "Tamiya",
+      "original": "现实载具",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2026-10-24 计划交付版本",
+      "icon": "vehicle",
+      "scale": "1:35",
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 18.9 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "局部可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "计划商品",
+          "待拼装"
+        ],
+        "dress": [
+          "涂装定制"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "载具模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "初版记录",
+          "text": "官方注明初次发售为1976年4月。与页面本次发售或发货日期分别保留。"
+        },
+        {
+          "title": "交付与表现",
+          "text": "官方产品页的展示照片为组装、涂装后的完成效果；本条按未完成的拼装套件记录。可选的舱盖、机翼或车体状态不等于组装后可动。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.tamiya.com/japan/products/35081/index.html",
+          "title": "アメリカ 自走対空機銃 M16 スカイクリーナー",
+          "kind": "官方产品页",
+          "supports": "商品编号、标称比例、模型尺寸、拼装交付、本次及初次发售记录和明确列出的材料／机构",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2026-10-24（计划）",
+        "sourceUrl": "https://www.tamiya.com/japan/products/35081/index.html",
+        "note": "按官方当前页面的本次发售／发货月记录；实车或古生物的年代不作为模型商品年代。"
+      }
+    },
+    {
+      "id": "batch-tamiya-35083",
+      "name": "アメリカ陸軍 M21モーターキャリヤー",
+      "brand": "Tamiya",
+      "original": "现实载具",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2026-10-24 计划交付版本",
+      "icon": "vehicle",
+      "scale": "1:35",
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 18.3 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "计划商品",
+          "待拼装"
+        ],
+        "dress": [
+          "涂装定制"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "载具模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "初版记录",
+          "text": "官方注明初次发售为1976年8月。与页面本次发售或发货日期分别保留。"
+        },
+        {
+          "title": "交付与表现",
+          "text": "官方产品页的展示照片为组装、涂装后的完成效果；本条按未完成的拼装套件记录。可选的舱盖、机翼或车体状态不等于组装后可动。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.tamiya.com/japan/products/35083/index.html",
+          "title": "アメリカ陸軍 M21モーターキャリヤー",
+          "kind": "官方产品页",
+          "supports": "商品编号、标称比例、模型尺寸、拼装交付、本次及初次发售记录和明确列出的材料／机构",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2026-10-24（计划）",
+        "sourceUrl": "https://www.tamiya.com/japan/products/35083/index.html",
+        "note": "按官方当前页面的本次发售／发货月记录；实车或古生物的年代不作为模型商品年代。"
+      }
+    },
+    {
+      "id": "batch-tamiya-35394",
+      "name": "1/35 ドイツRSO/01多用途牽引車",
+      "brand": "Tamiya",
+      "original": "现实载具",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2026-10-10 计划交付版本",
+      "icon": "vehicle",
+      "scale": "1:35",
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 12.6 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "计划商品",
+          "待拼装"
+        ],
+        "dress": [
+          "涂装定制",
+          "水贴定制"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "载具模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "交付与表现",
+          "text": "官方产品页的展示照片为组装、涂装后的完成效果；本条按未完成的拼装套件记录。可选的舱盖、机翼或车体状态不等于组装后可动。"
+        },
+        {
+          "title": "附属对象",
+          "text": "套件还包含官方页面注明的人形或比例参照件；以包装清单为准。此记录按主要载具／生物归类。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.tamiya.com/japan/products/35394/index.html",
+          "title": "1/35 ドイツRSO/01多用途牽引車",
+          "kind": "官方产品页",
+          "supports": "商品编号、标称比例、模型尺寸、拼装交付、本次及初次发售记录和明确列出的材料／机构",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2026-10-10（计划）",
+        "sourceUrl": "https://www.tamiya.com/japan/products/35394/index.html",
+        "note": "按官方当前页面的本次发售／发货月记录；实车或古生物的年代不作为模型商品年代。"
+      }
+    },
+    {
+      "id": "batch-tamiya-35070",
+      "name": "アメリカ M3A2 パーソナルキャリヤー",
+      "brand": "Tamiya",
+      "original": "现实载具",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2026-09-19 官方页面所列版本",
+      "icon": "vehicle",
+      "scale": "1:35",
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 19 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "涂装定制"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "载具模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "初版记录",
+          "text": "官方注明初次发售为1975年9月。与页面本次发售或发货日期分别保留。"
+        },
+        {
+          "title": "交付与表现",
+          "text": "官方产品页的展示照片为组装、涂装后的完成效果；本条按未完成的拼装套件记录。可选的舱盖、机翼或车体状态不等于组装后可动。"
+        },
+        {
+          "title": "附属对象",
+          "text": "套件还包含官方页面注明的人形或比例参照件；以包装清单为准。此记录按主要载具／生物归类。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.tamiya.com/japan/products/35070/index.html",
+          "title": "アメリカ M3A2 パーソナルキャリヤー",
+          "kind": "官方产品页",
+          "supports": "商品编号、标称比例、模型尺寸、拼装交付、本次及初次发售记录和明确列出的材料／机构",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2026-09-19",
+        "sourceUrl": "https://www.tamiya.com/japan/products/35070/index.html",
+        "note": "按官方当前页面的本次发售／发货月记录；实车或古生物的年代不作为模型商品年代。"
+      }
+    },
+    {
+      "id": "batch-tamiya-35103",
+      "name": "ドイツ･フィールドキッチンセット",
+      "brand": "Tamiya",
+      "original": "现实载具",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2026-08-01 官方页面所列版本",
+      "icon": "vehicle",
+      "scale": "1:35",
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "涂装定制"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "载具模型",
+          "场景配件"
+        ]
+      },
+      "notes": [
+        {
+          "title": "初版记录",
+          "text": "官方注明初次发售为1978年3月。与页面本次发售或发货日期分别保留。"
+        },
+        {
+          "title": "交付与表现",
+          "text": "官方产品页的展示照片为组装、涂装后的完成效果；本条按未完成的拼装套件记录。可选的舱盖、机翼或车体状态不等于组装后可动。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.tamiya.com/japan/products/35103/index.html",
+          "title": "ドイツ･フィールドキッチンセット",
+          "kind": "官方产品页",
+          "supports": "商品编号、标称比例、模型尺寸、拼装交付、本次及初次发售记录和明确列出的材料／机构",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2026-08-01",
+        "sourceUrl": "https://www.tamiya.com/japan/products/35103/index.html",
+        "note": "按官方当前页面的本次发售／发货月记录；实车或古生物的年代不作为模型商品年代。"
+      }
+    },
+    {
+      "id": "batch-tamiya-61128",
+      "name": "メッサーシュミット Bf109 G-6 後期生産型",
+      "brand": "Tamiya",
+      "original": "现实载具",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2026-07-11 官方页面所列版本",
+      "icon": "vehicle",
+      "scale": "1:48",
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 18.8 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        },
+        {
+          "label": "宽度约 20.7 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "连接待核实",
+          "磁吸连接"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "涂装定制",
+          "水贴定制"
+        ],
+        "material": [
+          "塑料（未细分）",
+          "磁铁"
+        ],
+        "role": [
+          "载具模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "交付与表现",
+          "text": "官方产品页的展示照片为组装、涂装后的完成效果；本条按未完成的拼装套件记录。可选的舱盖、机翼或车体状态不等于组装后可动。"
+        },
+        {
+          "title": "附属对象",
+          "text": "套件还包含官方页面注明的人形或比例参照件；以包装清单为准。此记录按主要载具／生物归类。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.tamiya.com/japan/products/61128/index.html",
+          "title": "メッサーシュミット Bf109 G-6 後期生産型",
+          "kind": "官方产品页",
+          "supports": "商品编号、标称比例、模型尺寸、拼装交付、本次及初次发售记录和明确列出的材料／机构",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2026-07-11",
+        "sourceUrl": "https://www.tamiya.com/japan/products/61128/index.html",
+        "note": "按官方当前页面的本次发售／发货月记录；实车或古生物的年代不作为模型商品年代。"
+      }
+    },
+    {
+      "id": "batch-tamiya-60795",
+      "name": "1/72 ウォーバードコレクション　1/72 グラマン F-14D トムキャット",
+      "brand": "Tamiya",
+      "original": "现实载具",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2026-01-10 官方页面所列版本",
+      "icon": "vehicle",
+      "scale": "1:72",
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 26.5 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        },
+        {
+          "label": "宽度约 27.2 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "局部可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "涂装定制",
+          "水贴定制"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "载具模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "交付与表现",
+          "text": "官方产品页的展示照片为组装、涂装后的完成效果；本条按未完成的拼装套件记录。可选的舱盖、机翼或车体状态不等于组装后可动。"
+        },
+        {
+          "title": "附属对象",
+          "text": "套件还包含官方页面注明的人形或比例参照件；以包装清单为准。此记录按主要载具／生物归类。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.tamiya.com/japan/products/60795/index.html",
+          "title": "1/72 ウォーバードコレクション　1/72 グラマン F-14D トムキャット",
+          "kind": "官方产品页",
+          "supports": "商品编号、标称比例、模型尺寸、拼装交付、本次及初次发售记录和明确列出的材料／机构",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2026-01-10",
+        "sourceUrl": "https://www.tamiya.com/japan/products/60795/index.html",
+        "note": "按官方当前页面的本次发售／发货月记录；实车或古生物的年代不作为模型商品年代。"
+      }
+    },
+    {
+      "id": "batch-tamiya-60794",
+      "name": "1/72 ウォーバードコレクション　1/72 ロッキード マーチン F-35C ライトニングII",
+      "brand": "Tamiya",
+      "original": "现实载具",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2025-08-23 官方页面所列版本",
+      "icon": "vehicle",
+      "scale": "1:72",
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 21.8 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        },
+        {
+          "label": "宽度约 18.2 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "涂装定制"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "载具模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "交付与表现",
+          "text": "官方产品页的展示照片为组装、涂装后的完成效果；本条按未完成的拼装套件记录。可选的舱盖、机翼或车体状态不等于组装后可动。"
+        },
+        {
+          "title": "附属对象",
+          "text": "套件还包含官方页面注明的人形或比例参照件；以包装清单为准。此记录按主要载具／生物归类。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.tamiya.com/japan/products/60794/index.html",
+          "title": "1/72 ウォーバードコレクション　1/72 ロッキード マーチン F-35C ライトニングII",
+          "kind": "官方产品页",
+          "supports": "商品编号、标称比例、模型尺寸、拼装交付、本次及初次发售记录和明确列出的材料／机构",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2025-08-23",
+        "sourceUrl": "https://www.tamiya.com/japan/products/60794/index.html",
+        "note": "按官方当前页面的本次发售／发货月记录；实车或古生物的年代不作为模型商品年代。"
+      }
+    },
+    {
+      "id": "batch-tamiya-61127",
+      "name": "ロッキード マーチン F-35C ライトニングII",
+      "brand": "Tamiya",
+      "original": "现实载具",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2024-12-14 官方页面所列版本",
+      "icon": "vehicle",
+      "scale": "1:48",
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 32.7 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        },
+        {
+          "label": "宽度约 27.3 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "涂装定制",
+          "水贴定制"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "载具模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "交付与表现",
+          "text": "官方产品页的展示照片为组装、涂装后的完成效果；本条按未完成的拼装套件记录。可选的舱盖、机翼或车体状态不等于组装后可动。"
+        },
+        {
+          "title": "附属对象",
+          "text": "套件还包含官方页面注明的人形或比例参照件；以包装清单为准。此记录按主要载具／生物归类。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.tamiya.com/japan/products/61127/index.html",
+          "title": "ロッキード マーチン F-35C ライトニングII",
+          "kind": "官方产品页",
+          "supports": "商品编号、标称比例、模型尺寸、拼装交付、本次及初次发售记录和明确列出的材料／机构",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2024-12-14",
+        "sourceUrl": "https://www.tamiya.com/japan/products/61127/index.html",
+        "note": "按官方当前页面的本次发售／发货月记录；实车或古生物的年代不作为模型商品年代。"
+      }
+    },
+    {
+      "id": "batch-tamiya-60793",
+      "name": "1/72 ウォーバードコレクション　1/72 ロッキード マーチンF-35B ライトニングII",
+      "brand": "Tamiya",
+      "original": "现实载具",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2024-08-10 官方页面所列版本",
+      "icon": "vehicle",
+      "scale": "1:72",
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 21.5 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        },
+        {
+          "label": "宽度约 14.8 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "涂装定制"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "载具模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "交付与表现",
+          "text": "官方产品页的展示照片为组装、涂装后的完成效果；本条按未完成的拼装套件记录。可选的舱盖、机翼或车体状态不等于组装后可动。"
+        },
+        {
+          "title": "附属对象",
+          "text": "套件还包含官方页面注明的人形或比例参照件；以包装清单为准。此记录按主要载具／生物归类。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.tamiya.com/japan/products/60793/index.html",
+          "title": "1/72 ウォーバードコレクション　1/72 ロッキード マーチンF-35B ライトニングII",
+          "kind": "官方产品页",
+          "supports": "商品编号、标称比例、模型尺寸、拼装交付、本次及初次发售记录和明确列出的材料／机构",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2024-08-10",
+        "sourceUrl": "https://www.tamiya.com/japan/products/60793/index.html",
+        "note": "按官方当前页面的本次发售／发货月记录；实车或古生物的年代不作为模型商品年代。"
+      }
+    },
+    {
+      "id": "batch-tamiya-31037",
+      "name": "海上自衛隊 護衛艦 FFM-1 もがみ",
+      "brand": "Tamiya",
+      "original": "现实载具",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2023-12-02 官方页面所列版本",
+      "icon": "vehicle",
+      "scale": "1:700",
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 19 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        },
+        {
+          "label": "宽度约 2.3 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "局部可动",
+          "连接待核实",
+          "局部插接组装"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "涂装定制",
+          "水贴定制"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "载具模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "组装",
+          "text": "指定的船体结构可无需粘接地插入固定；不据此认定整件套件免胶。"
+        },
+        {
+          "title": "交付与表现",
+          "text": "官方产品页的展示照片为组装、涂装后的完成效果；本条按未完成的拼装套件记录。可选的舱盖、机翼或车体状态不等于组装后可动。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.tamiya.com/japan/products/31037/index.html",
+          "title": "海上自衛隊 護衛艦 FFM-1 もがみ",
+          "kind": "官方产品页",
+          "supports": "商品编号、标称比例、模型尺寸、拼装交付、本次及初次发售记录和明确列出的材料／机构",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2023-12-02",
+        "sourceUrl": "https://www.tamiya.com/japan/products/31037/index.html",
+        "note": "按官方当前页面的本次发售／发货月记录；实车或古生物的年代不作为模型商品年代。"
+      }
+    },
+    {
+      "id": "batch-tamiya-25190",
+      "name": "スケール限定商品 1/350 日本駆逐艦 雪風 ディテールアップセット",
+      "brand": "Tamiya",
+      "original": "现实载具",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2019-07-13 官方页面所列版本",
+      "icon": "vehicle",
+      "scale": "1:350",
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "涂装定制"
+        ],
+        "material": [
+          "金属"
+        ],
+        "role": [
+          "模型配件"
+        ]
+      },
+      "notes": [
+        {
+          "title": "配套范围",
+          "text": "雪风驱逐舰的金属细节改造套件，包含蚀刻片与黄铜加工件；舰船主体另售。"
+        },
+        {
+          "title": "交付与表现",
+          "text": "官方产品页的展示照片为组装、涂装后的完成效果；本条按未完成的拼装套件记录。可选的舱盖、机翼或车体状态不等于组装后可动。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.tamiya.com/japan/products/25190/index.html",
+          "title": "スケール限定商品 1/350 日本駆逐艦 雪風 ディテールアップセット",
+          "kind": "官方产品页",
+          "supports": "商品编号、标称比例、模型尺寸、拼装交付、本次及初次发售记录和明确列出的材料／机构",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2019-07-13",
+        "sourceUrl": "https://www.tamiya.com/japan/products/25190/index.html",
+        "note": "按官方当前页面的本次发售／发货月记录；实车或古生物的年代不作为模型商品年代。"
+      }
+    },
+    {
+      "id": "batch-tamiya-31460",
+      "name": "日本海軍駆逐艦 島風（しまかぜ）",
+      "brand": "Tamiya",
+      "original": "现实载具",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2017-07-15 官方页面所列版本",
+      "icon": "vehicle",
+      "scale": "1:700",
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 18.5 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "局部可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "涂装定制"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "载具模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "交付与表现",
+          "text": "官方产品页的展示照片为组装、涂装后的完成效果；本条按未完成的拼装套件记录。可选的舱盖、机翼或车体状态不等于组装后可动。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.tamiya.com/japan/products/31460/index.html",
+          "title": "日本海軍駆逐艦 島風（しまかぜ）",
+          "kind": "官方产品页",
+          "supports": "商品编号、标称比例、模型尺寸、拼装交付、本次及初次发售记录和明确列出的材料／机构",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2017-07-15",
+        "sourceUrl": "https://www.tamiya.com/japan/products/31460/index.html",
+        "note": "按官方当前页面的本次发售／发货月记录；实车或古生物的年代不作为模型商品年代。"
+      }
+    },
+    {
+      "id": "batch-tamiya-78032",
+      "name": "日本海軍駆逐艦 陽炎",
+      "brand": "Tamiya",
+      "original": "现实载具",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2015-11-28 官方页面所列版本",
+      "icon": "vehicle",
+      "scale": "1:350",
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 33.8 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        },
+        {
+          "label": "宽度约 3.1 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "局部可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "涂装定制"
+        ],
+        "material": [
+          "ABS",
+          "塑料（未细分）",
+          "金属"
+        ],
+        "role": [
+          "载具模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "交付与表现",
+          "text": "官方产品页的展示照片为组装、涂装后的完成效果；本条按未完成的拼装套件记录。可选的舱盖、机翼或车体状态不等于组装后可动。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.tamiya.com/japan/products/78032/index.html",
+          "title": "日本海軍駆逐艦 陽炎",
+          "kind": "官方产品页",
+          "supports": "商品编号、标称比例、模型尺寸、拼装交付、本次及初次发售记录和明确列出的材料／机构",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2015-11-28",
+        "sourceUrl": "https://www.tamiya.com/japan/products/78032/index.html",
+        "note": "按官方当前页面的本次发售／发货月记录；实车或古生物的年代不作为模型商品年代。"
+      }
+    },
+    {
+      "id": "batch-tamiya-31359",
+      "name": "日本軽巡洋艦 最上（もがみ）",
+      "brand": "Tamiya",
+      "original": "现实载具",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2015-07-18 官方页面所列版本",
+      "icon": "vehicle",
+      "scale": "1:700",
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 28.65 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        },
+        {
+          "label": "宽度约 3.65 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "局部可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "涂装定制"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "载具模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "交付与表现",
+          "text": "官方产品页的展示照片为组装、涂装后的完成效果；本条按未完成的拼装套件记录。可选的舱盖、机翼或车体状态不等于组装后可动。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.tamiya.com/japan/products/31359/index.html",
+          "title": "日本軽巡洋艦 最上（もがみ）",
+          "kind": "官方产品页",
+          "supports": "商品编号、标称比例、模型尺寸、拼装交付、本次及初次发售记录和明确列出的材料／机构",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2015-07-18",
+        "sourceUrl": "https://www.tamiya.com/japan/products/31359/index.html",
+        "note": "按官方当前页面的本次发售／发货月记录；实车或古生物的年代不作为模型商品年代。"
+      }
+    },
+    {
+      "id": "batch-tamiya-28502",
+      "name": "フクイサウルス",
+      "brand": "Tamiya",
+      "original": "古生物复原",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2026-10-10 计划交付版本",
+      "icon": "animal",
+      "scale": "1:35",
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 13.4 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "插接组装"
+        ],
+        "delivery": [
+          "计划商品",
+          "待拼装"
+        ],
+        "dress": [
+          "涂装定制"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "古生物模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "组装",
+          "text": "官方明确为无需粘接的插接套件。"
+        },
+        {
+          "title": "复原口径",
+          "text": "这是厂商所列的古生物复原模型；旧套件仍采用原发售时的考证，不将其等同于现行古生物学结论。"
+        },
+        {
+          "title": "交付与表现",
+          "text": "官方产品页的展示照片为组装、涂装后的完成效果；本条按未完成的拼装套件记录。可选的舱盖、机翼或车体状态不等于组装后可动。"
+        },
+        {
+          "title": "附属对象",
+          "text": "套件还包含官方页面注明的人形或比例参照件；以包装清单为准。此记录按主要载具／生物归类。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://tamiya.com/japan/products/28502/index.html",
+          "title": "フクイサウルス",
+          "kind": "官方产品页",
+          "supports": "商品编号、标称比例、模型尺寸、拼装交付、本次及初次发售记录和明确列出的材料／机构",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2026-10-10（计划）",
+        "sourceUrl": "https://tamiya.com/japan/products/28502/index.html",
+        "note": "按官方当前页面的本次发售／发货月记录；实车或古生物的年代不作为模型商品年代。"
+      }
+    },
+    {
+      "id": "batch-tamiya-28501",
+      "name": "フクイラプトル",
+      "brand": "Tamiya",
+      "original": "古生物复原",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2026-08-08 官方页面所列版本",
+      "icon": "animal",
+      "scale": "1:35",
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 11.8 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "插接组装"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "涂装定制"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "古生物模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "组装",
+          "text": "官方明确为无需粘接的插接套件。"
+        },
+        {
+          "title": "复原口径",
+          "text": "这是厂商所列的古生物复原模型；旧套件仍采用原发售时的考证，不将其等同于现行古生物学结论。"
+        },
+        {
+          "title": "交付与表现",
+          "text": "官方产品页的展示照片为组装、涂装后的完成效果；本条按未完成的拼装套件记录。可选的舱盖、机翼或车体状态不等于组装后可动。"
+        },
+        {
+          "title": "附属对象",
+          "text": "套件还包含官方页面注明的人形或比例参照件；以包装清单为准。此记录按主要载具／生物归类。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://tamiya.com/japan/products/28501/index.html",
+          "title": "フクイラプトル",
+          "kind": "官方产品页",
+          "supports": "商品编号、标称比例、模型尺寸、拼装交付、本次及初次发售记录和明确列出的材料／机构",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2026-08-08",
+        "sourceUrl": "https://tamiya.com/japan/products/28501/index.html",
+        "note": "按官方当前页面的本次发售／发货月记录；实车或古生物的年代不作为模型商品年代。"
+      }
+    },
+    {
+      "id": "batch-tamiya-60204",
+      "name": "プテラノドン",
+      "brand": "Tamiya",
+      "original": "古生物复原",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2024-05-25 官方页面所列版本",
+      "icon": "animal",
+      "scale": "1:35",
+      "heightMm": 143,
+      "heightBasis": "厂商产品页公布的完成高度，含情景底座",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 11.5 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        },
+        {
+          "label": "宽度约 23.1 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        },
+        {
+          "label": "高度约 14.3 cm",
+          "basis": "厂商产品页公布的完成高度，含情景底座"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "涂装定制"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "古生物模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "复原口径",
+          "text": "这是厂商所列的古生物复原模型；旧套件仍采用原发售时的考证，不将其等同于现行古生物学结论。"
+        },
+        {
+          "title": "交付与表现",
+          "text": "官方产品页的展示照片为组装、涂装后的完成效果；本条按未完成的拼装套件记录。可选的舱盖、机翼或车体状态不等于组装后可动。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://tamiya.com/japan/products/60204/index.html",
+          "title": "プテラノドン",
+          "kind": "官方产品页",
+          "supports": "商品编号、标称比例、模型尺寸、拼装交付、本次及初次发售记录和明确列出的材料／机构",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2024-05-25",
+        "sourceUrl": "https://tamiya.com/japan/products/60204/index.html",
+        "note": "按官方当前页面的本次发售／发货月记录；实车或古生物的年代不作为模型商品年代。"
+      }
+    },
+    {
+      "id": "batch-tamiya-60203",
+      "name": "ティラノサウルス",
+      "brand": "Tamiya",
+      "original": "古生物复原",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2023-07-15 官方页面所列版本",
+      "icon": "animal",
+      "scale": "1:35",
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 30 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "涂装定制"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "古生物模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "初版记录",
+          "text": "官方注明初次发售为1981年11月。与页面本次发售或发货日期分别保留。"
+        },
+        {
+          "title": "复原口径",
+          "text": "这是厂商所列的古生物复原模型；旧套件仍采用原发售时的考证，不将其等同于现行古生物学结论。"
+        },
+        {
+          "title": "交付与表现",
+          "text": "官方产品页的展示照片为组装、涂装后的完成效果；本条按未完成的拼装套件记录。可选的舱盖、机翼或车体状态不等于组装后可动。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://tamiya.com/japan/products/60203/index.html",
+          "title": "ティラノサウルス",
+          "kind": "官方产品页",
+          "supports": "商品编号、标称比例、模型尺寸、拼装交付、本次及初次发售记录和明确列出的材料／机构",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2023-07-15",
+        "sourceUrl": "https://tamiya.com/japan/products/60203/index.html",
+        "note": "按官方当前页面的本次发售／发货月记录；实车或古生物的年代不作为模型商品年代。"
+      }
+    },
+    {
+      "id": "batch-tamiya-60202",
+      "name": "ステゴサウルス",
+      "brand": "Tamiya",
+      "original": "古生物复原",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2023-07-15 官方页面所列版本",
+      "icon": "animal",
+      "scale": "1:35",
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 21 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "涂装定制"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "古生物模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "初版记录",
+          "text": "官方注明初次发售为1981年9月。与页面本次发售或发货日期分别保留。"
+        },
+        {
+          "title": "复原口径",
+          "text": "这是厂商所列的古生物复原模型；旧套件仍采用原发售时的考证，不将其等同于现行古生物学结论。"
+        },
+        {
+          "title": "交付与表现",
+          "text": "官方产品页的展示照片为组装、涂装后的完成效果；本条按未完成的拼装套件记录。可选的舱盖、机翼或车体状态不等于组装后可动。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://tamiya.com/japan/products/60202/index.html",
+          "title": "ステゴサウルス",
+          "kind": "官方产品页",
+          "supports": "商品编号、标称比例、模型尺寸、拼装交付、本次及初次发售记录和明确列出的材料／机构",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2023-07-15",
+        "sourceUrl": "https://tamiya.com/japan/products/60202/index.html",
+        "note": "按官方当前页面的本次发售／发货月记录；实车或古生物的年代不作为模型商品年代。"
+      }
+    },
+    {
+      "id": "batch-tamiya-60201",
+      "name": "トリケラトプス",
+      "brand": "Tamiya",
+      "original": "古生物复原",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2023-07-15 官方页面所列版本",
+      "icon": "animal",
+      "scale": "1:35",
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "全长约 21 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "涂装定制"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "古生物模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "初版记录",
+          "text": "官方注明初次发售为1981年6月。与页面本次发售或发货日期分别保留。"
+        },
+        {
+          "title": "复原口径",
+          "text": "这是厂商所列的古生物复原模型；旧套件仍采用原发售时的考证，不将其等同于现行古生物学结论。"
+        },
+        {
+          "title": "交付与表现",
+          "text": "官方产品页的展示照片为组装、涂装后的完成效果；本条按未完成的拼装套件记录。可选的舱盖、机翼或车体状态不等于组装后可动。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://tamiya.com/japan/products/60201/index.html",
+          "title": "トリケラトプス",
+          "kind": "官方产品页",
+          "supports": "商品编号、标称比例、模型尺寸、拼装交付、本次及初次发售记录和明确列出的材料／机构",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2023-07-15",
+        "sourceUrl": "https://tamiya.com/japan/products/60201/index.html",
+        "note": "按官方当前页面的本次发售／发货月记录；实车或古生物的年代不作为模型商品年代。"
+      }
+    },
+    {
+      "id": "batch-tamiya-60103",
+      "name": "パラサウロロフス 情景セット",
+      "brand": "Tamiya",
+      "original": "古生物复原",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2023-07-15 官方页面所列版本",
+      "icon": "animal",
+      "scale": "1:35",
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "体长约 25 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "涂装定制"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "古生物模型",
+          "场景配件"
+        ]
+      },
+      "notes": [
+        {
+          "title": "初版记录",
+          "text": "官方注明初次发售为1993年12月。与页面本次发售或发货日期分别保留。"
+        },
+        {
+          "title": "复原口径",
+          "text": "这是厂商所列的古生物复原模型；旧套件仍采用原发售时的考证，不将其等同于现行古生物学结论。"
+        },
+        {
+          "title": "交付与表现",
+          "text": "官方产品页的展示照片为组装、涂装后的完成效果；本条按未完成的拼装套件记录。可选的舱盖、机翼或车体状态不等于组装后可动。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://tamiya.com/japan/products/60103/index.html",
+          "title": "パラサウロロフス 情景セット",
+          "kind": "官方产品页",
+          "supports": "商品编号、标称比例、模型尺寸、拼装交付、本次及初次发售记录和明确列出的材料／机构",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2023-07-15",
+        "sourceUrl": "https://tamiya.com/japan/products/60103/index.html",
+        "note": "按官方当前页面的本次发售／发货月记录；实车或古生物的年代不作为模型商品年代。"
+      }
+    },
+    {
+      "id": "batch-tamiya-60101",
+      "name": "カスモサウルス 情景セット",
+      "brand": "Tamiya",
+      "original": "古生物复原",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2023-07-15 官方页面所列版本",
+      "icon": "animal",
+      "scale": "1:35",
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "亲体体长约 16.8 cm",
+          "basis": "厂商分别公布的亲体尺寸"
+        },
+        {
+          "label": "幼体体长约 6.8 cm",
+          "basis": "厂商分别公布的幼体尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "待拼装"
+        ],
+        "dress": [
+          "涂装定制"
+        ],
+        "material": [
+          "塑料（未细分）"
+        ],
+        "role": [
+          "古生物模型",
+          "场景配件"
+        ]
+      },
+      "notes": [
+        {
+          "title": "初版记录",
+          "text": "官方注明初次发售为1993年7月。与页面本次发售或发货日期分别保留。"
+        },
+        {
+          "title": "复原口径",
+          "text": "这是厂商所列的古生物复原模型；旧套件仍采用原发售时的考证，不将其等同于现行古生物学结论。"
+        },
+        {
+          "title": "交付与表现",
+          "text": "官方产品页的展示照片为组装、涂装后的完成效果；本条按未完成的拼装套件记录。可选的舱盖、机翼或车体状态不等于组装后可动。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://tamiya.com/japan/products/60101/index.html",
+          "title": "カスモサウルス 情景セット",
+          "kind": "官方产品页",
+          "supports": "商品编号、标称比例、模型尺寸、拼装交付、本次及初次发售记录和明确列出的材料／机构",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2023-07-15",
+        "sourceUrl": "https://tamiya.com/japan/products/60101/index.html",
+        "note": "按官方当前页面的本次发售／发货月记录；实车或古生物的年代不作为模型商品年代。"
+      }
+    },
+    {
+      "id": "batch-petworks-8056",
+      "name": "そらいろのニッキ PS",
+      "brand": "PetWORKs",
+      "original": "PetWORKs 原创角色",
+      "country": "日本",
+      "origin": "MADE IN JAPAN（衣装はベトナム製、アクリルアイは中国製です）",
+      "version": "2024-05 官方页面所列版本",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": 200,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度约 20 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "眼位调整"
+        ],
+        "material": [
+          "PVC",
+          "布料"
+        ],
+        "role": [
+          "拟人动物",
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "交付清单",
+          "text": "人形本体、ティードレス、バレエシューズ。"
+        },
+        {
+          "title": "材料口径",
+          "text": "官方注明 ：PVC、他；“其他”未进一步细分，保留未披露部分。"
+        },
+        {
+          "title": "制造地口径",
+          "text": "身体与附属衣装、眼部的制造地分别按官方注明保留：MADE IN JAPAN（衣装はベトナム製、アクリルアイは中国製です）"
+        },
+        {
+          "title": "商品组成",
+          "text": "完整的拟人动物玩偶；服装、鞋子、支架是否附带按本商品的交付清单记录。"
+        },
+        {
+          "title": "交付边界",
+          "text": "本商品页面注明部分服装、鞋子或支架另配；不按展示照片推定全部配件随附。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.petworks.co.jp/doll/odeco_nikki/8056/",
+          "title": "そらいろのニッキ PS",
+          "kind": "官方产品页",
+          "supports": "型号与商品规格",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2024-05",
+        "sourceUrl": "https://www.petworks.co.jp/doll/odeco_nikki/8056/",
+        "note": "按本型号官方产品页列出的发售月记录。"
+      }
+    },
+    {
+      "id": "batch-petworks-7292",
+      "name": "花園のニッキ",
+      "brand": "PetWORKs",
+      "original": "PetWORKs 原创角色",
+      "country": "日本",
+      "origin": "MADE IN JAPAN（衣装はベトナム製、活眼は中国製です）",
+      "version": "2023-10 官方页面所列版本",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": 200,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度约 20 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "眼位调整"
+        ],
+        "material": [
+          "PVC",
+          "布料"
+        ],
+        "role": [
+          "拟人动物",
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "交付清单",
+          "text": "人形本体、ティードレス、編み上げブーツ。"
+        },
+        {
+          "title": "材料口径",
+          "text": "官方注明 ：PVC、他；“其他”未进一步细分，保留未披露部分。"
+        },
+        {
+          "title": "制造地口径",
+          "text": "身体与附属衣装、眼部的制造地分别按官方注明保留：MADE IN JAPAN（衣装はベトナム製、活眼は中国製です）"
+        },
+        {
+          "title": "商品组成",
+          "text": "完整的拟人动物玩偶；服装、鞋子、支架是否附带按本商品的交付清单记录。"
+        },
+        {
+          "title": "交付边界",
+          "text": "本商品页面注明部分服装、鞋子或支架另配；不按展示照片推定全部配件随附。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.petworks.co.jp/doll/odeco_nikki/7292/",
+          "title": "花園のニッキ",
+          "kind": "官方产品页",
+          "supports": "型号与商品规格",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2023-10",
+        "sourceUrl": "https://www.petworks.co.jp/doll/odeco_nikki/7292/",
+        "note": "按本型号官方产品页列出的发售月记录。"
+      }
+    },
+    {
+      "id": "batch-petworks-5426",
+      "name": "ラビリンスのニッキ",
+      "brand": "PetWORKs",
+      "original": "PetWORKs 原创角色",
+      "country": "日本",
+      "origin": "MADE IN JAPAN（活眼と衣装は中国製です）",
+      "version": "2022-03 官方页面所列版本",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": 200,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度约 20 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "成品含服"
+        ],
+        "dress": [
+          "布衣穿脱",
+          "睡眠眼",
+          "眼位调整"
+        ],
+        "material": [
+          "PVC",
+          "布料"
+        ],
+        "role": [
+          "拟人动物",
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "交付清单",
+          "text": "人形本体、オリジナルプリントワンピース、ローファー。"
+        },
+        {
+          "title": "材料口径",
+          "text": "官方注明 ：PVC、他；“其他”未进一步细分，保留未披露部分。"
+        },
+        {
+          "title": "制造地口径",
+          "text": "身体与附属衣装、眼部的制造地分别按官方注明保留：MADE IN JAPAN（活眼と衣装は中国製です）"
+        },
+        {
+          "title": "商品组成",
+          "text": "完整的拟人动物玩偶；服装、鞋子、支架是否附带按本商品的交付清单记录。"
+        },
+        {
+          "title": "交付边界",
+          "text": "本商品页面注明部分服装、鞋子或支架另配；不按展示照片推定全部配件随附。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.petworks.co.jp/doll/odeco_nikki/5426/",
+          "title": "ラビリンスのニッキ",
+          "kind": "官方产品页",
+          "supports": "型号与商品规格",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2022-03",
+        "sourceUrl": "https://www.petworks.co.jp/doll/odeco_nikki/5426/",
+        "note": "按本型号官方产品页列出的发售月记录。"
+      }
+    },
+    {
+      "id": "batch-petworks-4117",
+      "name": "はだかんぼうのニッキ 024",
+      "brand": "PetWORKs",
+      "original": "PetWORKs 原创角色",
+      "country": "日本",
+      "origin": "MADE IN JAPAN",
+      "version": "2021-03 官方页面所列版本",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": 200,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度约 20 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "裸娃成品"
+        ],
+        "dress": [
+          "服装另配",
+          "眼位调整"
+        ],
+        "material": [
+          "PVC"
+        ],
+        "role": [
+          "拟人动物",
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "交付清单",
+          "text": "人形本体"
+        },
+        {
+          "title": "材料口径",
+          "text": "官方注明 ：PVC、他；“其他”未进一步细分，保留未披露部分。"
+        },
+        {
+          "title": "制造地口径",
+          "text": "身体与附属衣装、眼部的制造地分别按官方注明保留：MADE IN JAPAN"
+        },
+        {
+          "title": "商品组成",
+          "text": "完整的拟人动物玩偶；服装、鞋子、支架是否附带按本商品的交付清单记录。"
+        },
+        {
+          "title": "交付边界",
+          "text": "本商品页面注明部分服装、鞋子或支架另配；不按展示照片推定全部配件随附。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.petworks.co.jp/doll/odeco_nikki/4117/",
+          "title": "はだかんぼうのニッキ 024",
+          "kind": "官方产品页",
+          "supports": "型号与商品规格",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2021-03",
+        "sourceUrl": "https://www.petworks.co.jp/doll/odeco_nikki/4117/",
+        "note": "按本型号官方产品页列出的发售月记录。"
+      }
+    },
+    {
+      "id": "batch-petworks-2802",
+      "name": "ミニえほんのニッキ002",
+      "brand": "PetWORKs",
+      "original": "PetWORKs 原创角色",
+      "country": "日本",
+      "origin": "MADE IN JAPAN",
+      "version": "2020-07 官方页面所列版本",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": 130,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度约 13 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "裸娃成品"
+        ],
+        "dress": [
+          "服装另配",
+          "换手",
+          "头部适配器"
+        ],
+        "material": [
+          "PVC",
+          "ABS"
+        ],
+        "role": [
+          "拟人动物",
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "交付清单",
+          "text": "人形本体、ヘッドアダプタ×2、頸部用補助ワッシャー×1、ハンドパーツ×2（持ち手・握り手）"
+        },
+        {
+          "title": "材料口径",
+          "text": "官方注明 ：PVC、ABS他；“其他”未进一步细分，保留未披露部分。"
+        },
+        {
+          "title": "身体与适配",
+          "text": "官方注明采用 OBITSU 11 身体，并附头部适配器或手部配件；头部与身高按本商品规格，服装适配仍需核对。"
+        },
+        {
+          "title": "制造地口径",
+          "text": "身体与附属衣装、眼部的制造地分别按官方注明保留：MADE IN JAPAN"
+        },
+        {
+          "title": "商品组成",
+          "text": "完整的拟人动物玩偶；服装、鞋子、支架是否附带按本商品的交付清单记录。"
+        },
+        {
+          "title": "交付边界",
+          "text": "本商品页面注明部分服装、鞋子或支架另配；不按展示照片推定全部配件随附。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.petworks.co.jp/doll/odeco_nikki/2802/",
+          "title": "ミニえほんのニッキ002",
+          "kind": "官方产品页",
+          "supports": "型号与商品规格",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2020-07",
+        "sourceUrl": "https://www.petworks.co.jp/doll/odeco_nikki/2802/",
+        "note": "按本型号官方产品页列出的发售月记录。"
+      }
+    },
+    {
+      "id": "batch-petworks-2794",
+      "name": "ミニえほんのニッキ001",
+      "brand": "PetWORKs",
+      "original": "PetWORKs 原创角色",
+      "country": "日本",
+      "origin": "MADE IN JAPAN",
+      "version": "2020-07 官方页面所列版本",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": 130,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度约 13 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "裸娃成品"
+        ],
+        "dress": [
+          "服装另配",
+          "换手",
+          "头部适配器"
+        ],
+        "material": [
+          "PVC",
+          "ABS"
+        ],
+        "role": [
+          "拟人动物",
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "交付清单",
+          "text": "人形本体、ヘッドアダプタ×2、頸部用補助ワッシャー×1、ハンドパーツ×2（持ち手・握り手）"
+        },
+        {
+          "title": "材料口径",
+          "text": "官方注明 ：PVC、ABS他；“其他”未进一步细分，保留未披露部分。"
+        },
+        {
+          "title": "身体与适配",
+          "text": "官方注明采用 OBITSU 11 身体，并附头部适配器或手部配件；头部与身高按本商品规格，服装适配仍需核对。"
+        },
+        {
+          "title": "制造地口径",
+          "text": "身体与附属衣装、眼部的制造地分别按官方注明保留：MADE IN JAPAN"
+        },
+        {
+          "title": "商品组成",
+          "text": "完整的拟人动物玩偶；服装、鞋子、支架是否附带按本商品的交付清单记录。"
+        },
+        {
+          "title": "交付边界",
+          "text": "本商品页面注明部分服装、鞋子或支架另配；不按展示照片推定全部配件随附。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.petworks.co.jp/doll/odeco_nikki/2794/",
+          "title": "ミニえほんのニッキ001",
+          "kind": "官方产品页",
+          "supports": "型号与商品规格",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2020-07",
+        "sourceUrl": "https://www.petworks.co.jp/doll/odeco_nikki/2794/",
+        "note": "按本型号官方产品页列出的发售月记录。"
+      }
+    },
+    {
+      "id": "batch-petworks-2377",
+      "name": "はだかんぼうのニッキ 023",
+      "brand": "PetWORKs",
+      "original": "PetWORKs 原创角色",
+      "country": "日本",
+      "origin": "MADE IN JAPAN（本体は日本製、活眼は中国製です）",
+      "version": "2020-03 官方页面所列版本",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": 200,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度约 20 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "裸娃成品"
+        ],
+        "dress": [
+          "服装另配",
+          "睡眠眼",
+          "眼位调整"
+        ],
+        "material": [
+          "PVC"
+        ],
+        "role": [
+          "拟人动物",
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "交付清单",
+          "text": "ドール本体"
+        },
+        {
+          "title": "材料口径",
+          "text": "官方注明 ：PVC、他；“其他”未进一步细分，保留未披露部分。"
+        },
+        {
+          "title": "制造地口径",
+          "text": "身体与附属衣装、眼部的制造地分别按官方注明保留：MADE IN JAPAN（本体は日本製、活眼は中国製です）"
+        },
+        {
+          "title": "商品组成",
+          "text": "完整的拟人动物玩偶；服装、鞋子、支架是否附带按本商品的交付清单记录。"
+        },
+        {
+          "title": "交付边界",
+          "text": "本商品页面注明部分服装、鞋子或支架另配；不按展示照片推定全部配件随附。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.petworks.co.jp/doll/odeco_nikki/2377/",
+          "title": "はだかんぼうのニッキ 023",
+          "kind": "官方产品页",
+          "supports": "型号与商品规格",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2020-03",
+        "sourceUrl": "https://www.petworks.co.jp/doll/odeco_nikki/2377/",
+        "note": "按本型号官方产品页列出的发售月记录。"
+      }
+    },
+    {
+      "id": "batch-petworks-670",
+      "name": "はだかんぼうのニッキ アラカルト",
+      "brand": "PetWORKs",
+      "original": "PetWORKs 原创角色",
+      "country": "日本",
+      "origin": "MADE IN JAPAN（本体は日本製、活眼は中国製です）",
+      "version": "官方产品页所列版本",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": 200,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度约 20 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "裸娃成品"
+        ],
+        "dress": [
+          "服装另配",
+          "眼位调整"
+        ],
+        "material": [
+          "PVC"
+        ],
+        "role": [
+          "拟人动物",
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "交付清单",
+          "text": "ドール本体"
+        },
+        {
+          "title": "材料口径",
+          "text": "官方注明 ：PVC、他；“其他”未进一步细分，保留未披露部分。"
+        },
+        {
+          "title": "制造地口径",
+          "text": "身体与附属衣装、眼部的制造地分别按官方注明保留：MADE IN JAPAN（本体は日本製、活眼は中国製です）"
+        },
+        {
+          "title": "商品组成",
+          "text": "完整的拟人动物玩偶；服装、鞋子、支架是否附带按本商品的交付清单记录。"
+        },
+        {
+          "title": "交付边界",
+          "text": "本商品页面注明部分服装、鞋子或支架另配；不按展示照片推定全部配件随附。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.petworks.co.jp/doll/odeco_nikki/670/",
+          "title": "はだかんぼうのニッキ アラカルト",
+          "kind": "官方产品页",
+          "supports": "型号与商品规格",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "年代待核实",
+        "sourceUrl": "https://www.petworks.co.jp/doll/odeco_nikki/670/",
+        "note": "未以作品设定年代或图片年份代替商品年份。"
+      }
+    },
+    {
+      "id": "batch-petworks-8681",
+      "name": "ミニひつじぃ 005 PS",
+      "brand": "PetWORKs",
+      "original": "PetWORKs 原创角色",
+      "country": "日本",
+      "origin": "MADE IN JAPAN",
+      "version": "2024-11 官方页面所列版本",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": 130,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度约 13 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "裸娃成品"
+        ],
+        "dress": [
+          "服装另配",
+          "换手",
+          "头部适配器"
+        ],
+        "material": [
+          "PVC",
+          "ABS"
+        ],
+        "role": [
+          "拟人动物",
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "交付清单",
+          "text": "人形本体、ヘッドアダプタ×2、頸部用補助ワッシャー×1、ハンドパーツ×2（持ち手・握り手）"
+        },
+        {
+          "title": "材料口径",
+          "text": "官方注明 ：PVC、ABS他；“其他”未进一步细分，保留未披露部分。"
+        },
+        {
+          "title": "身体与适配",
+          "text": "官方注明采用 OBITSU 11 身体，并附头部适配器或手部配件；头部与身高按本商品规格，服装适配仍需核对。"
+        },
+        {
+          "title": "制造地口径",
+          "text": "身体与附属衣装、眼部的制造地分别按官方注明保留：MADE IN JAPAN"
+        },
+        {
+          "title": "商品组成",
+          "text": "完整的拟人动物玩偶；服装、鞋子、支架是否附带按本商品的交付清单记录。"
+        },
+        {
+          "title": "交付边界",
+          "text": "本商品页面注明部分服装、鞋子或支架另配；不按展示照片推定全部配件随附。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.petworks.co.jp/doll/usaggie/8681/",
+          "title": "ミニひつじぃ 005 PS",
+          "kind": "官方产品页",
+          "supports": "型号与商品规格",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2024-11",
+        "sourceUrl": "https://www.petworks.co.jp/doll/usaggie/8681/",
+        "note": "按本型号官方产品页列出的发售月记录。"
+      }
+    },
+    {
+      "id": "batch-petworks-8679",
+      "name": "ミニうさぎぃ 005 PS",
+      "brand": "PetWORKs",
+      "original": "PetWORKs 原创角色",
+      "country": "日本",
+      "origin": "MADE IN JAPAN",
+      "version": "2024-11 官方页面所列版本",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": 160,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度约 16 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "裸娃成品"
+        ],
+        "dress": [
+          "服装另配",
+          "换手",
+          "头部适配器"
+        ],
+        "material": [
+          "PVC",
+          "ABS"
+        ],
+        "role": [
+          "拟人动物",
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "交付清单",
+          "text": "人形本体、ヘッドアダプタ×2、頸部用補助ワッシャー×1、ハンドパーツ×2（持ち手・握り手）"
+        },
+        {
+          "title": "材料口径",
+          "text": "官方注明 ：PVC、ABS他；“其他”未进一步细分，保留未披露部分。"
+        },
+        {
+          "title": "身体与适配",
+          "text": "官方注明采用 OBITSU 11 身体，并附头部适配器或手部配件；头部与身高按本商品规格，服装适配仍需核对。"
+        },
+        {
+          "title": "制造地口径",
+          "text": "身体与附属衣装、眼部的制造地分别按官方注明保留：MADE IN JAPAN"
+        },
+        {
+          "title": "商品组成",
+          "text": "完整的拟人动物玩偶；服装、鞋子、支架是否附带按本商品的交付清单记录。"
+        },
+        {
+          "title": "交付边界",
+          "text": "本商品页面注明部分服装、鞋子或支架另配；不按展示照片推定全部配件随附。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.petworks.co.jp/doll/usaggie/8679/",
+          "title": "ミニうさぎぃ 005 PS",
+          "kind": "官方产品页",
+          "supports": "型号与商品规格",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2024-11",
+        "sourceUrl": "https://www.petworks.co.jp/doll/usaggie/8679/",
+        "note": "按本型号官方产品页列出的发售月记录。"
+      }
+    },
+    {
+      "id": "batch-petworks-7129",
+      "name": "ミニみゃみぃ003",
+      "brand": "PetWORKs",
+      "original": "PetWORKs 原创角色",
+      "country": "日本",
+      "origin": "MADE IN JAPAN",
+      "version": "2023-08 官方页面所列版本",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": 130,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度约 13 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "裸娃成品"
+        ],
+        "dress": [
+          "服装另配",
+          "换手",
+          "头部适配器"
+        ],
+        "material": [
+          "PVC",
+          "ABS"
+        ],
+        "role": [
+          "拟人动物",
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "交付清单",
+          "text": "人形本体、ヘッドアダプタ×2、頸部用補助ワッシャー×1、ハンドパーツ×2（持ち手・握り手）"
+        },
+        {
+          "title": "材料口径",
+          "text": "官方注明 ：PVC、ABS他；“其他”未进一步细分，保留未披露部分。"
+        },
+        {
+          "title": "身体与适配",
+          "text": "官方注明采用 OBITSU 11 身体，并附头部适配器或手部配件；头部与身高按本商品规格，服装适配仍需核对。"
+        },
+        {
+          "title": "制造地口径",
+          "text": "身体与附属衣装、眼部的制造地分别按官方注明保留：MADE IN JAPAN"
+        },
+        {
+          "title": "商品组成",
+          "text": "完整的拟人动物玩偶；服装、鞋子、支架是否附带按本商品的交付清单记录。"
+        },
+        {
+          "title": "交付边界",
+          "text": "本商品页面注明部分服装、鞋子或支架另配；不按展示照片推定全部配件随附。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.petworks.co.jp/doll/usaggie/7129/",
+          "title": "ミニみゃみぃ003",
+          "kind": "官方产品页",
+          "supports": "型号与商品规格",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2023-08",
+        "sourceUrl": "https://www.petworks.co.jp/doll/usaggie/7129/",
+        "note": "按本型号官方产品页列出的发售月记录。"
+      }
+    },
+    {
+      "id": "batch-petworks-6585",
+      "name": "ミニうさぎぃ004",
+      "brand": "PetWORKs",
+      "original": "PetWORKs 原创角色",
+      "country": "日本",
+      "origin": "MADE IN JAPAN",
+      "version": "2023-02 官方页面所列版本",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": 160,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度约 16 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "裸娃成品"
+        ],
+        "dress": [
+          "服装另配",
+          "换手",
+          "头部适配器"
+        ],
+        "material": [
+          "PVC",
+          "ABS"
+        ],
+        "role": [
+          "拟人动物",
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "交付清单",
+          "text": "人形本体、ヘッドアダプタ×2、頸部用補助ワッシャー×1、ハンドパーツ×2（持ち手・握り手）"
+        },
+        {
+          "title": "材料口径",
+          "text": "官方注明 ：PVC、ABS他；“其他”未进一步细分，保留未披露部分。"
+        },
+        {
+          "title": "身体与适配",
+          "text": "官方注明采用 OBITSU 11 身体，并附头部适配器或手部配件；头部与身高按本商品规格，服装适配仍需核对。"
+        },
+        {
+          "title": "制造地口径",
+          "text": "身体与附属衣装、眼部的制造地分别按官方注明保留：MADE IN JAPAN"
+        },
+        {
+          "title": "商品组成",
+          "text": "完整的拟人动物玩偶；服装、鞋子、支架是否附带按本商品的交付清单记录。"
+        },
+        {
+          "title": "交付边界",
+          "text": "本商品页面注明部分服装、鞋子或支架另配；不按展示照片推定全部配件随附。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.petworks.co.jp/doll/usaggie/6585/",
+          "title": "ミニうさぎぃ004",
+          "kind": "官方产品页",
+          "supports": "型号与商品规格",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2023-02",
+        "sourceUrl": "https://www.petworks.co.jp/doll/usaggie/6585/",
+        "note": "按本型号官方产品页列出的发售月记录。"
+      }
+    },
+    {
+      "id": "batch-petworks-6467",
+      "name": "干支うさぎぃ2023",
+      "brand": "PetWORKs",
+      "original": "PetWORKs 原创角色",
+      "country": "日本",
+      "origin": "MADE IN JAPAN",
+      "version": "2022-12 官方页面所列版本",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": 200,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度约 20 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "裸娃成品"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "PVC"
+        ],
+        "role": [
+          "拟人动物",
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "交付清单",
+          "text": "人形本体（衣装、靴は付属しません。）"
+        },
+        {
+          "title": "材料口径",
+          "text": "官方注明 ：PVC、他；“其他”未进一步细分，保留未披露部分。"
+        },
+        {
+          "title": "制造地口径",
+          "text": "身体与附属衣装、眼部的制造地分别按官方注明保留：MADE IN JAPAN"
+        },
+        {
+          "title": "商品组成",
+          "text": "完整的拟人动物玩偶；服装、鞋子、支架是否附带按本商品的交付清单记录。"
+        },
+        {
+          "title": "交付边界",
+          "text": "本商品页面注明部分服装、鞋子或支架另配；不按展示照片推定全部配件随附。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.petworks.co.jp/doll/usaggie/6467/",
+          "title": "干支うさぎぃ2023",
+          "kind": "官方产品页",
+          "supports": "型号与商品规格",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2022-12",
+        "sourceUrl": "https://www.petworks.co.jp/doll/usaggie/6467/",
+        "note": "按本型号官方产品页列出的发售月记录。"
+      }
+    },
+    {
+      "id": "batch-petworks-6465",
+      "name": "ミニひつじぃ004",
+      "brand": "PetWORKs",
+      "original": "PetWORKs 原创角色",
+      "country": "日本",
+      "origin": "MADE IN JAPAN",
+      "version": "2022-12 官方页面所列版本",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": 130,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度约 13 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "裸娃成品"
+        ],
+        "dress": [
+          "服装另配",
+          "换手",
+          "头部适配器"
+        ],
+        "material": [
+          "PVC",
+          "ABS"
+        ],
+        "role": [
+          "拟人动物",
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "交付清单",
+          "text": "人形本体、ヘッドアダプタ×2、頸部用補助ワッシャー×1、ハンドパーツ×2（持ち手・握り手）"
+        },
+        {
+          "title": "材料口径",
+          "text": "官方注明 ：PVC、ABS他；“其他”未进一步细分，保留未披露部分。"
+        },
+        {
+          "title": "身体与适配",
+          "text": "官方注明采用 OBITSU 11 身体，并附头部适配器或手部配件；头部与身高按本商品规格，服装适配仍需核对。"
+        },
+        {
+          "title": "制造地口径",
+          "text": "身体与附属衣装、眼部的制造地分别按官方注明保留：MADE IN JAPAN"
+        },
+        {
+          "title": "商品组成",
+          "text": "完整的拟人动物玩偶；服装、鞋子、支架是否附带按本商品的交付清单记录。"
+        },
+        {
+          "title": "交付边界",
+          "text": "本商品页面注明部分服装、鞋子或支架另配；不按展示照片推定全部配件随附。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.petworks.co.jp/doll/usaggie/6465/",
+          "title": "ミニひつじぃ004",
+          "kind": "官方产品页",
+          "supports": "型号与商品规格",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2022-12",
+        "sourceUrl": "https://www.petworks.co.jp/doll/usaggie/6465/",
+        "note": "按本型号官方产品页列出的发售月记录。"
+      }
+    },
+    {
+      "id": "batch-petworks-5410",
+      "name": "うさぎぃ040",
+      "brand": "PetWORKs",
+      "original": "PetWORKs 原创角色",
+      "country": "日本",
+      "origin": "MADE IN JAPAN",
+      "version": "2022-03 官方页面所列版本",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": 200,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度约 20 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "连接待核实"
+        ],
+        "delivery": [
+          "裸娃成品"
+        ],
+        "dress": [
+          "服装另配"
+        ],
+        "material": [
+          "PVC"
+        ],
+        "role": [
+          "拟人动物",
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "交付清单",
+          "text": "人形本体（衣装、靴は付属しません。）"
+        },
+        {
+          "title": "材料口径",
+          "text": "官方注明 ：PVC、他；“其他”未进一步细分，保留未披露部分。"
+        },
+        {
+          "title": "制造地口径",
+          "text": "身体与附属衣装、眼部的制造地分别按官方注明保留：MADE IN JAPAN"
+        },
+        {
+          "title": "商品组成",
+          "text": "完整的拟人动物玩偶；服装、鞋子、支架是否附带按本商品的交付清单记录。"
+        },
+        {
+          "title": "交付边界",
+          "text": "本商品页面注明部分服装、鞋子或支架另配；不按展示照片推定全部配件随附。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.petworks.co.jp/doll/usaggie/5410/",
+          "title": "うさぎぃ040",
+          "kind": "官方产品页",
+          "supports": "型号与商品规格",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2022-03",
+        "sourceUrl": "https://www.petworks.co.jp/doll/usaggie/5410/",
+        "note": "按本型号官方产品页列出的发售月记录。"
+      }
+    },
+    {
+      "id": "batch-petworks-4762",
+      "name": "ミニひつじぃ003",
+      "brand": "PetWORKs",
+      "original": "PetWORKs 原创角色",
+      "country": "日本",
+      "origin": "MADE IN JAPAN",
+      "version": "2021-09 官方页面所列版本",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": 130,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "高度约 13 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "关节可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "裸娃成品"
+        ],
+        "dress": [
+          "服装另配",
+          "换手",
+          "头部适配器"
+        ],
+        "material": [
+          "PVC",
+          "ABS"
+        ],
+        "role": [
+          "拟人动物",
+          "原创人偶"
+        ]
+      },
+      "notes": [
+        {
+          "title": "交付清单",
+          "text": "人形本体、ヘッドアダプタ×2、頸部用補助ワッシャー×1、ハンドパーツ×2（持ち手・握り手）"
+        },
+        {
+          "title": "材料口径",
+          "text": "官方注明 ：PVC、ABS他；“其他”未进一步细分，保留未披露部分。"
+        },
+        {
+          "title": "身体与适配",
+          "text": "官方注明采用 OBITSU 11 身体，并附头部适配器或手部配件；头部与身高按本商品规格，服装适配仍需核对。"
+        },
+        {
+          "title": "制造地口径",
+          "text": "身体与附属衣装、眼部的制造地分别按官方注明保留：MADE IN JAPAN"
+        },
+        {
+          "title": "商品组成",
+          "text": "完整的拟人动物玩偶；服装、鞋子、支架是否附带按本商品的交付清单记录。"
+        },
+        {
+          "title": "交付边界",
+          "text": "本商品页面注明部分服装、鞋子或支架另配；不按展示照片推定全部配件随附。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.petworks.co.jp/doll/usaggie/4762/",
+          "title": "ミニひつじぃ003",
+          "kind": "官方产品页",
+          "supports": "型号与商品规格",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2021-09",
+        "sourceUrl": "https://www.petworks.co.jp/doll/usaggie/4762/",
+        "note": "按本型号官方产品页列出的发售月记录。"
+      }
+    },
+    {
+      "id": "batch-ania-4904810836582",
+      "name": "Ania AL-10 剑齿虎（附尼安德特人）",
+      "brand": "タカラ／タカラトミー",
+      "original": "Ania 动物系列",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2015-08 官方页面所列版本",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": 44,
+      "heightBasis": "厂商产品页公布的模型尺寸",
+      "sizeNA": false,
+      "dimensions": [
+        {
+          "label": "宽度约 14.2 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        },
+        {
+          "label": "高度约 4.4 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        },
+        {
+          "label": "深度约 6.6 cm",
+          "basis": "厂商产品页公布的模型尺寸"
+        }
+      ],
+      "tags": {
+        "joint": [
+          "局部可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "可动部位",
+          "text": "剑齿虎嘴部可动；附带的尼安德特人双臂可动。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://takaratomymall.jp/shop/g/g4904810836582/",
+          "title": "Ania AL-10 剑齿虎（附尼安德特人）",
+          "kind": "官方产品页",
+          "supports": "本商品编号、发售日期、明确注明的可动部位、模型本体尺寸（仅实际披露时）",
+          "checkedAt": "2026-10-06",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "note": "官方商品页在核对期间部分请求进入排队页或无法读取；保留本次读取的规格及官方产品目录。",
+            "checkedAt": "2026-10-06"
+          }
+        },
+        {
+          "url": "https://www.takaratomy.co.jp/products/ania/products/animal.html",
+          "title": "Ania 官方动物产品目录",
+          "kind": "官方产品页",
+          "supports": "具体AL／AS型号、名称、对象与官方商品链接",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2015-08",
+        "sourceUrl": "https://takaratomymall.jp/shop/g/g4904810836582/",
+        "note": "按该商品编号的官方商品页发售日期记录，沿用或换版编号分别处理。"
+      }
+    },
+    {
+      "id": "batch-ania-4904810919377",
+      "name": "Ania AL-26 非洲象",
+      "brand": "タカラ／タカラトミー",
+      "original": "Ania 动物系列",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2024-05 官方页面所列版本",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "局部可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "可动部位",
+          "text": "鼻、颈、耳、尾可动。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://takaratomymall.jp/shop/g/g4904810919377/",
+          "title": "Ania AL-26 非洲象",
+          "kind": "官方产品页",
+          "supports": "本商品编号、发售日期、明确注明的可动部位、模型本体尺寸（仅实际披露时）",
+          "checkedAt": "2026-10-06",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "note": "官方商品页在核对期间部分请求进入排队页或无法读取；保留本次读取的规格及官方产品目录。",
+            "checkedAt": "2026-10-06"
+          }
+        },
+        {
+          "url": "https://www.takaratomy.co.jp/products/ania/products/animal.html",
+          "title": "Ania 官方动物产品目录",
+          "kind": "官方产品页",
+          "supports": "具体AL／AS型号、名称、对象与官方商品链接",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2024-05",
+        "sourceUrl": "https://takaratomymall.jp/shop/g/g4904810919377/",
+        "note": "按该商品编号的官方商品页发售日期记录，沿用或换版编号分别处理。"
+      }
+    },
+    {
+      "id": "batch-ania-4904810098898",
+      "name": "Ania AL-27 大熊猫",
+      "brand": "タカラ／タカラトミー",
+      "original": "Ania 动物系列",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2026-02 官方页面所列版本",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "局部可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "可动部位",
+          "text": "头、前足、后足可动；另附竹子。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://takaratomymall.jp/shop/g/g4904810098898/",
+          "title": "Ania AL-27 大熊猫",
+          "kind": "官方产品页",
+          "supports": "本商品编号、发售日期、明确注明的可动部位、模型本体尺寸（仅实际披露时）",
+          "checkedAt": "2026-10-06",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "note": "官方商品页在核对期间部分请求进入排队页或无法读取；保留本次读取的规格及官方产品目录。",
+            "checkedAt": "2026-10-06"
+          }
+        },
+        {
+          "url": "https://www.takaratomy.co.jp/products/ania/products/animal.html",
+          "title": "Ania 官方动物产品目录",
+          "kind": "官方产品页",
+          "supports": "具体AL／AS型号、名称、对象与官方商品链接",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2026-02",
+        "sourceUrl": "https://takaratomymall.jp/shop/g/g4904810098898/",
+        "note": "按该商品编号的官方商品页发售日期记录，沿用或换版编号分别处理。"
+      }
+    },
+    {
+      "id": "batch-ania-4904810919384",
+      "name": "Ania AL-28 咸水鳄",
+      "brand": "タカラ／タカラトミー",
+      "original": "Ania 动物系列",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2024-05 官方页面所列版本",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "局部可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "可动部位",
+          "text": "嘴、双足、尾部可动；水面漂浮版。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://takaratomymall.jp/shop/g/g4904810919384/",
+          "title": "Ania AL-28 咸水鳄",
+          "kind": "官方产品页",
+          "supports": "本商品编号、发售日期、明确注明的可动部位、模型本体尺寸（仅实际披露时）",
+          "checkedAt": "2026-10-06",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "note": "官方商品页在核对期间部分请求进入排队页或无法读取；保留本次读取的规格及官方产品目录。",
+            "checkedAt": "2026-10-06"
+          }
+        },
+        {
+          "url": "https://www.takaratomy.co.jp/products/ania/products/animal.html",
+          "title": "Ania 官方动物产品目录",
+          "kind": "官方产品页",
+          "supports": "具体AL／AS型号、名称、对象与官方商品链接",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2024-05",
+        "sourceUrl": "https://takaratomymall.jp/shop/g/g4904810919384/",
+        "note": "按该商品编号的官方商品页发售日期记录，沿用或换版编号分别处理。"
+      }
+    },
+    {
+      "id": "batch-ania-4904810919360",
+      "name": "Ania AL-30 网纹长颈鹿",
+      "brand": "タカラ／タカラトミー",
+      "original": "Ania 动物系列",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2024-05 官方页面所列版本",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "局部可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "可动部位",
+          "text": "头、颈、尾可动。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://takaratomymall.jp/shop/g/g4904810919360/",
+          "title": "Ania AL-30 网纹长颈鹿",
+          "kind": "官方产品页",
+          "supports": "本商品编号、发售日期、明确注明的可动部位、模型本体尺寸（仅实际披露时）",
+          "checkedAt": "2026-10-06",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "note": "官方商品页在核对期间部分请求进入排队页或无法读取；保留本次读取的规格及官方产品目录。",
+            "checkedAt": "2026-10-06"
+          }
+        },
+        {
+          "url": "https://www.takaratomy.co.jp/products/ania/products/animal.html",
+          "title": "Ania 官方动物产品目录",
+          "kind": "官方产品页",
+          "supports": "具体AL／AS型号、名称、对象与官方商品链接",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2024-05",
+        "sourceUrl": "https://takaratomymall.jp/shop/g/g4904810919360/",
+        "note": "按该商品编号的官方商品页发售日期记录，沿用或换版编号分别处理。"
+      }
+    },
+    {
+      "id": "batch-ania-4904810995074",
+      "name": "Ania AL-35 北极熊（水面漂浮版）",
+      "brand": "タカラ／タカラトミー",
+      "original": "Ania 动物系列",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2025-12 官方页面所列版本",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "局部可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "可动部位",
+          "text": "头、颈、前足、后足可动；此版本可以在水面漂浮。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://takaratomymall.jp/shop/g/g4904810995074/",
+          "title": "Ania AL-35 北极熊（水面漂浮版）",
+          "kind": "官方产品页",
+          "supports": "本商品编号、发售日期、明确注明的可动部位、模型本体尺寸（仅实际披露时）",
+          "checkedAt": "2026-10-06",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "note": "官方商品页在核对期间部分请求进入排队页或无法读取；保留本次读取的规格及官方产品目录。",
+            "checkedAt": "2026-10-06"
+          }
+        },
+        {
+          "url": "https://www.takaratomy.co.jp/products/ania/products/animal.html",
+          "title": "Ania 官方动物产品目录",
+          "kind": "官方产品页",
+          "supports": "具体AL／AS型号、名称、对象与官方商品链接",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2025-12",
+        "sourceUrl": "https://takaratomymall.jp/shop/g/g4904810995074/",
+        "note": "按该商品编号的官方商品页发售日期记录，沿用或换版编号分别处理。"
+      }
+    },
+    {
+      "id": "batch-ania-4904810160557",
+      "name": "Ania AS-01 狮子（附狐獴）",
+      "brand": "タカラ／タカラトミー",
+      "original": "Ania 动物系列",
+      "country": "日本",
+      "origin": "官方未注明产地",
+      "version": "2020-12 官方页面所列版本",
+      "icon": "animal",
+      "scale": null,
+      "heightMm": null,
+      "heightBasis": "官方未披露模型高度；包装尺寸另记",
+      "sizeNA": false,
+      "dimensions": [],
+      "tags": {
+        "joint": [
+          "局部可动",
+          "连接待核实"
+        ],
+        "delivery": [
+          "涂装成品"
+        ],
+        "dress": [],
+        "material": [
+          "材料未披露"
+        ],
+        "role": [
+          "动物模型"
+        ]
+      },
+      "notes": [
+        {
+          "title": "可动部位",
+          "text": "颈部可动；另附狐獴与图鉴卡。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://takaratomymall.jp/shop/g/g4904810160557/",
+          "title": "Ania AS-01 狮子（附狐獴）",
+          "kind": "官方产品页",
+          "supports": "本商品编号、发售日期、明确注明的可动部位、模型本体尺寸（仅实际披露时）",
+          "checkedAt": "2026-10-06",
+          "availability": {
+            "state": "temporarily-unavailable",
+            "note": "官方商品页在核对期间部分请求进入排队页或无法读取；保留本次读取的规格及官方产品目录。",
+            "checkedAt": "2026-10-06"
+          }
+        },
+        {
+          "url": "https://www.takaratomy.co.jp/products/ania/products/animal.html",
+          "title": "Ania 官方动物产品目录",
+          "kind": "官方产品页",
+          "supports": "具体AL／AS型号、名称、对象与官方商品链接",
+          "checkedAt": "2026-10-06"
+        }
+      ],
+      "event": null,
+      "chronology": {
+        "label": "2020-12",
+        "sourceUrl": "https://takaratomymall.jp/shop/g/g4904810160557/",
+        "note": "按该商品编号的官方商品页发售日期记录，沿用或换版编号分别处理。"
+      }
     }
   ],
   "resources": [
@@ -108265,6 +115826,34 @@ window.TOY_COMPARE_DATA = {
       "url": "https://www.planet-ring.com/about",
       "description": "硬表面科幻模型品牌；官网关联微博、Bilibili与X等官方账号，核对制作署名和后续产品公告。",
       "checkedAt": "2026-10-06"
+    },
+    {
+      "group": "产品目录",
+      "name": "MODEROID 官方产品目录",
+      "description": "机器人、机械角色、载具及配套模型的具名商品页。",
+      "url": "https://www.goodsmile.com/en/moderoid",
+      "checkedAt": "2026-10-06"
+    },
+    {
+      "group": "产品目录",
+      "name": "Ania 官方动物目录",
+      "description": "AL、AS、AC动物模型与具体商品链接；主体与包装尺寸分别核对。",
+      "url": "https://www.takaratomy.co.jp/products/ania/products/animal.html",
+      "checkedAt": "2026-10-06"
+    },
+    {
+      "group": "产品目录",
+      "name": "Tamiya 官方模型目录",
+      "description": "汽车、摩托车、军用载具、飞机、舰船与古生物套件。",
+      "url": "https://www.tamiya.com/japan/products/archive.htm",
+      "checkedAt": "2026-10-06"
+    },
+    {
+      "group": "产品目录",
+      "name": "Re-Ment ぷちサンプル系列",
+      "description": "微缩物件与场景配套；系列、单盒组成及包装尺寸分别记录。",
+      "url": "https://www.re-ment.co.jp/product/brand.php?c=puchisample",
+      "checkedAt": "2026-10-06"
     }
   ],
   "recordingRules": [
@@ -108278,7 +115867,7 @@ window.TOY_COMPARE_DATA = {
     "年代优先采用具体版本的官方发售／受注年月；仅有版本年时注明口径，未知写年代待核实。历史型号不等于停产，停售只针对有明确证据的具体版本；二手与旧库存可能继续流通。",
     "展会公布时间与发售时间分开记录；官方图录有具体型号时才标注展会。只有企划或原型资料时，不推定最终材质、尺寸、交付组成和当前销售状态。"
   ],
-  "coverage": "共 1531 条具体商品／身体／配套与已命名企划记录；包含人形及相关机械角色、历史版本和展会公布新作，持续按型号补充。",
+  "coverage": "共 1642 条具名商品、身体、配套与已公开规格的企划记录；按具体型号持续补充人形、机械、生物、拟人角色、载具及场景配件。",
   "previousCheckDate": "2026-10-05",
   "checkDates": {
     "azone-body-pfl103-wht": "2026-10-06",
@@ -109734,6 +117323,117 @@ window.TOY_COMPARE_DATA = {
     "planet-ring-000013": "2026-10-06",
     "planet-ring-000023": "2026-10-06",
     "planet-ring-friston-3": "2026-10-06",
-    "planet-ring-justice-knight": "2026-10-06"
+    "planet-ring-justice-knight": "2026-10-06",
+    "batch-moderoid-35139": "2026-10-06",
+    "batch-moderoid-35826": "2026-10-06",
+    "batch-moderoid-61093": "2026-10-06",
+    "batch-moderoid-60743": "2026-10-06",
+    "batch-moderoid-47547": "2026-10-06",
+    "batch-moderoid-55922": "2026-10-06",
+    "batch-moderoid-55923": "2026-10-06",
+    "batch-moderoid-55935": "2026-10-06",
+    "batch-moderoid-35106": "2026-10-06",
+    "batch-moderoid-13020": "2026-10-06",
+    "batch-moderoid-12719": "2026-10-06",
+    "batch-moderoid-12634": "2026-10-06",
+    "batch-moderoid-12633": "2026-10-06",
+    "batch-moderoid-10850": "2026-10-06",
+    "batch-moderoid-9169": "2026-10-06",
+    "batch-moderoid-12043": "2026-10-06",
+    "batch-moderoid-12024": "2026-10-06",
+    "batch-moderoid-10349": "2026-10-06",
+    "batch-moderoid-5657": "2026-10-06",
+    "batch-moderoid-8502": "2026-10-06",
+    "batch-moderoid-10703": "2026-10-06",
+    "batch-moderoid-11606": "2026-10-06",
+    "batch-moderoid-11042": "2026-10-06",
+    "batch-moderoid-7612": "2026-10-06",
+    "batch-moderoid-9744": "2026-10-06",
+    "batch-moderoid-9674": "2026-10-06",
+    "batch-moderoid-9675": "2026-10-06",
+    "batch-moderoid-8938": "2026-10-06",
+    "batch-moderoid-8619": "2026-10-06",
+    "batch-moderoid-6384": "2026-10-06",
+    "batch-moderoid-5325": "2026-10-06",
+    "batch-moderoid-6870": "2026-10-06",
+    "batch-rement-r70143": "2026-10-06",
+    "batch-rement-r70101": "2026-10-06",
+    "batch-rement-r70117": "2026-10-06",
+    "batch-rement-r70022": "2026-10-06",
+    "batch-rement-r70095": "2026-10-06",
+    "batch-rement-r70077": "2026-10-06",
+    "batch-rement-r50797": "2026-10-06",
+    "batch-rement-r70026": "2026-10-06",
+    "batch-rement-r70024": "2026-10-06",
+    "batch-rement-r50787": "2026-10-06",
+    "batch-rement-r50795": "2026-10-06",
+    "batch-rement-r70014": "2026-10-06",
+    "batch-rement-r50793": "2026-10-06",
+    "batch-rement-r50791": "2026-10-06",
+    "batch-rement-r50781": "2026-10-06",
+    "batch-rement-r50785": "2026-10-06",
+    "batch-rement-r50769": "2026-10-06",
+    "batch-rement-r50771": "2026-10-06",
+    "batch-rement-r50767": "2026-10-06",
+    "batch-rement-r50759": "2026-10-06",
+    "batch-rement-r50741": "2026-10-06",
+    "batch-rement-r50737": "2026-10-06",
+    "batch-tamiya-12036": "2026-10-06",
+    "batch-tamiya-20058": "2026-10-06",
+    "batch-tamiya-24379": "2026-10-06",
+    "batch-tamiya-20072": "2026-10-06",
+    "batch-tamiya-24378": "2026-10-06",
+    "batch-tamiya-12031": "2026-10-06",
+    "batch-tamiya-14014": "2026-10-06",
+    "batch-tamiya-14037": "2026-10-06",
+    "batch-tamiya-16002": "2026-10-06",
+    "batch-tamiya-14144": "2026-10-06",
+    "batch-tamiya-14058": "2026-10-06",
+    "batch-tamiya-35081": "2026-10-06",
+    "batch-tamiya-35083": "2026-10-06",
+    "batch-tamiya-35394": "2026-10-06",
+    "batch-tamiya-35070": "2026-10-06",
+    "batch-tamiya-35103": "2026-10-06",
+    "batch-tamiya-61128": "2026-10-06",
+    "batch-tamiya-60795": "2026-10-06",
+    "batch-tamiya-60794": "2026-10-06",
+    "batch-tamiya-61127": "2026-10-06",
+    "batch-tamiya-60793": "2026-10-06",
+    "batch-tamiya-31037": "2026-10-06",
+    "batch-tamiya-25190": "2026-10-06",
+    "batch-tamiya-31460": "2026-10-06",
+    "batch-tamiya-78032": "2026-10-06",
+    "batch-tamiya-31359": "2026-10-06",
+    "batch-tamiya-28502": "2026-10-06",
+    "batch-tamiya-28501": "2026-10-06",
+    "batch-tamiya-60204": "2026-10-06",
+    "batch-tamiya-60203": "2026-10-06",
+    "batch-tamiya-60202": "2026-10-06",
+    "batch-tamiya-60201": "2026-10-06",
+    "batch-tamiya-60103": "2026-10-06",
+    "batch-tamiya-60101": "2026-10-06",
+    "batch-petworks-8056": "2026-10-06",
+    "batch-petworks-7292": "2026-10-06",
+    "batch-petworks-5426": "2026-10-06",
+    "batch-petworks-4117": "2026-10-06",
+    "batch-petworks-2802": "2026-10-06",
+    "batch-petworks-2794": "2026-10-06",
+    "batch-petworks-2377": "2026-10-06",
+    "batch-petworks-670": "2026-10-06",
+    "batch-petworks-8681": "2026-10-06",
+    "batch-petworks-8679": "2026-10-06",
+    "batch-petworks-7129": "2026-10-06",
+    "batch-petworks-6585": "2026-10-06",
+    "batch-petworks-6467": "2026-10-06",
+    "batch-petworks-6465": "2026-10-06",
+    "batch-petworks-5410": "2026-10-06",
+    "batch-petworks-4762": "2026-10-06",
+    "batch-ania-4904810836582": "2026-10-06",
+    "batch-ania-4904810919377": "2026-10-06",
+    "batch-ania-4904810098898": "2026-10-06",
+    "batch-ania-4904810919384": "2026-10-06",
+    "batch-ania-4904810919360": "2026-10-06",
+    "batch-ania-4904810995074": "2026-10-06",
+    "batch-ania-4904810160557": "2026-10-06"
   }
 };
