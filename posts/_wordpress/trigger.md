@@ -8,4 +8,4 @@ timezone: ”Asia/Taipei“
 # 正文写在第二个 --- 后面
 ---
 
-资料页面方便对比：https://devlog.fivsevn.com/posts/2026/posts-toy-compare.html
+资料页面方便对比：https://devlog.fivsevn.com/posts/2026/posts-toy-reference.html
