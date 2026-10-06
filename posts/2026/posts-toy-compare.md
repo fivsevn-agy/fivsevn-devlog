@@ -158,6 +158,6 @@ updated: 2026-10-06
     </p></noscript
   >
 </div>
-<script src="{{ '/posts/2026/assets/toy-compare/toy-data.js' | relative_url }}"></script>
-<script src="{{ '/posts/2026/assets/toy-compare/toy-browse.js' | relative_url }}?v=20261006-layout"></script>
-<script src="{{ '/posts/2026/assets/toy-compare/toy-compare.js' | relative_url }}?v=20261006-layout"></script>
+<script src="{{ '/posts/2026/assets/toy-compare/toy-data.js' | relative_url }}?v=20261006-batch1"></script>
+<script src="{{ '/posts/2026/assets/toy-compare/toy-browse.js' | relative_url }}?v=20261006-batch1"></script>
+<script src="{{ '/posts/2026/assets/toy-compare/toy-compare.js' | relative_url }}?v=20261006-batch1"></script>
