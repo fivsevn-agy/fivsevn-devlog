@@ -15,7 +15,7 @@ summary: >
   逐篇记录研究问题、材料、主要发现、涉及对象与阅读依据，并区分产品调查和类别形成的参考研究。
 
 parents: [posts-index]
-related: [posts-toy-compare-001]
+related: [posts-toy-reference-001]
 
 tags: [toys, dolls, figures, gunpla, customization, literature-review]
 
@@ -29,7 +29,7 @@ visibility: public
 source_of_truth: devlog
 
 created: 2026-10-06
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # 玩具与模型的跨类别流动①：文献整理
@@ -50,7 +50,7 @@ updated: 2026-10-06
 
 第13—15篇侧重产品调查与造型分析，第16篇提供物质文化的讨论，第20篇以真实汽车市场为对象，供理解类别形成时参考。各篇开头标明阅读依据。
 
-另有[玩具资料整理](posts-toy-compare.html)，按具体型号记录产品资料。下文的产品与作品链接包括具体产品页、系列资料、历史资料和作品介绍；代表性产品另作标注。
+另有[玩具资料整理](posts-toy-reference.html)，按具体型号记录产品资料。下文的产品与作品链接包括具体产品页、系列资料、历史资料和作品介绍；代表性产品另作标注。
 
 ---
 
