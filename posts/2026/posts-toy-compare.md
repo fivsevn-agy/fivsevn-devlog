@@ -22,23 +22,11 @@ created: 2026-10-05
 updated: 2026-10-06
 ---
 
-<link rel="stylesheet" href="{{ '/posts/2026/assets/toy-compare/toy-compare.css' | relative_url }}?v=20261006-tags" />
+<link rel="stylesheet" href="{{ '/posts/2026/assets/toy-compare/toy-compare.css' | relative_url }}?v=20261006-layout" />
 <div id="toyCompare">
   <header class="tc-header">
     <div><h2>玩具资料整理</h2><p class="tc-english-title" lang="en">Toy Reference</p></div>
   </header>
-  <div class="tc-type-nav">
-    <label class="tc-sr-only" for="tc-type">对象大类</label>
-    <select id="tc-type" aria-label="对象大类">
-      <option value="human">人形</option>
-      <option value="all">全部类型</option>
-      <option value="mechanical">机器人／机械</option>
-      <option value="creature">生物／怪兽</option>
-      <option value="anthro">拟人／抽象角色</option>
-      <option value="vehicle">载具 · 待整理</option>
-      <option value="props">配件／场景</option>
-    </select>
-  </div>
   <div class="tc-tools">
     <label class="tc-search"
       ><svg
@@ -58,14 +46,16 @@ updated: 2026-10-06
         autocomplete="off"
     /></label>
   </div>
-  <div
-    id="tc-brands"
-    class="tc-brands"
-    role="group"
-    aria-label="厂商筛选"
-  ></div>
-  <details id="tc-tag-filter" class="tc-tag-filter">
-    <summary>标签筛选<span id="tc-tag-filter-count"></span></summary>
+  <details id="tc-type-filter" class="tc-filter-section" open>
+    <summary>类型<span id="tc-type-current" class="tc-filter-current"></span></summary>
+    <div id="tc-types" class="tc-types" role="group" aria-label="类型筛选"></div>
+  </details>
+  <details id="tc-brand-filter" class="tc-filter-section" open>
+    <summary>厂商<span id="tc-brand-current" class="tc-filter-current"></span></summary>
+    <div id="tc-brands" class="tc-brands" role="group" aria-label="厂商筛选"></div>
+  </details>
+  <details id="tc-tag-filter" class="tc-filter-section tc-tag-filter">
+    <summary>标签<span id="tc-tag-filter-count"></span></summary>
     <div id="tc-tag-choices" class="tc-tag-choices"></div>
   </details>
   <div id="tc-active-filters" class="tc-active-filters" hidden>
@@ -169,5 +159,5 @@ updated: 2026-10-06
   >
 </div>
 <script src="{{ '/posts/2026/assets/toy-compare/toy-data.js' | relative_url }}"></script>
-<script src="{{ '/posts/2026/assets/toy-compare/toy-browse.js' | relative_url }}?v=20261006-tags"></script>
-<script src="{{ '/posts/2026/assets/toy-compare/toy-compare.js' | relative_url }}?v=20261006-tags"></script>
+<script src="{{ '/posts/2026/assets/toy-compare/toy-browse.js' | relative_url }}?v=20261006-layout"></script>
+<script src="{{ '/posts/2026/assets/toy-compare/toy-compare.js' | relative_url }}?v=20261006-layout"></script>

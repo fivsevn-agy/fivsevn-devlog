@@ -11,7 +11,7 @@
     $("tc-empty-reset").hidden = true;
     $("tc-more").hidden = true;
     $("tc-search").disabled = true;
-    $("tc-type").disabled = true;
+    root.querySelectorAll(".tc-filter-section").forEach((d) => { d.hidden = true; });
     return;
   }
   const PAGE_SIZE = 24;
@@ -20,7 +20,7 @@
   const byId = new Map(db.products.map((p) => [p.id, p]));
   const cats = db.categories.map((c) => ({
       ...c,
-      name: c.id === "role" ? "对象／品类" : c.name,
+      name: c.id === "role" ? "对象／品类" : c.id === "size" ? "比例／尺寸" : c.name,
     })),
     products = db.products,
     selected = new Set(),
@@ -268,6 +268,7 @@
     const shown = products.filter((p) => matches(p, terms));
     $("tc-count").textContent = `${shown.length} / ${products.length} 件产品`;
     $("tc-empty").hidden = shown.length > 0;
+    renderTypes();
     renderBrands();
     renderTagFilters();
     const typeIsEmpty = !products.some(matchesType);
@@ -444,20 +445,26 @@
   function reset() {
     $("tc-search").value = "";
     activeType = "all";
-    $("tc-type").value = "all";
     activeBrand = "";
     activeTags.clear();
     refresh();
   }
+  function renderTypes() {
+    $("tc-types").innerHTML = [{ id: "all", name: "全部类型" }, ...types].map((t) => {
+      const pending = t.id !== "all" && !products.some((p) => memberships.get(p.id).has(t.id));
+      return `<button class="tc-type-choice" data-type="${t.id}" aria-pressed="${activeType === t.id}">${esc(t.name)}${pending ? " · 待整理" : ""}</button>`;
+    }).join("");
+    $("tc-type-current").textContent = activeType === "all" ? "全部类型" : types.find((t) => t.id === activeType).name;
+  }
   function renderBrands() {
     const brands = [...new Set(products.filter(matchesType).map((p) => p.brand))].sort();
-    $("tc-brands").hidden = brands.length === 0;
-    $("tc-brands").innerHTML = ["", ...brands]
+    $("tc-brand-current").textContent = activeBrand || "全部厂商";
+    $("tc-brands").innerHTML = brands.length ? ["", ...brands]
       .map(
         (b) =>
           `<button class="tc-brand-choice" data-brand="${esc(b)}" aria-pressed="${activeBrand === b}">${esc(b || "全部厂商")}</button>`,
       )
-      .join("");
+      .join("") : '<p class="tc-filter-empty">尚无厂商记录</p>';
   }
   function filterChip(key, removable = false) {
     const t = vocabulary.get(key);
@@ -472,14 +479,11 @@
         .sort((a, b) => vocabulary.get(b).count - vocabulary.get(a).count || vocabulary.get(a).text.localeCompare(vocabulary.get(b).text, "zh-CN", { numeric: true }));
       return keys.length ? `<div class="tc-tag-filter-group" role="group" aria-label="${esc(c.name)}">${keys.map((key) => filterChip(key)).join("")}</div>` : "";
     }).join("");
-    $("tc-tag-filter").hidden = available.size === 0;
+    if (!available.size) $("tc-tag-choices").innerHTML = '<p class="tc-filter-empty">尚无标签记录</p>';
     $("tc-tag-filter-count").textContent = activeTags.size ? ` (${activeTags.size})` : "";
     $("tc-active-tags").innerHTML = [...activeTags].map((key) => filterChip(key, true)).join("");
     $("tc-active-filters").hidden = !activeTags.size && !activeBrand && !$("tc-search").value.trim();
   }
-  $("tc-type").innerHTML = [{ id: "all", name: "全部类型" }, ...types].map((t) =>
-    `<option value="${t.id}"${t.id === "human" ? " selected" : ""}>${esc(t.name)}${t.id !== "all" && !products.some((p) => memberships.get(p.id).has(t.id)) ? " · 待整理" : ""}</option>`
-  ).join("");
   $("tc-resources").innerHTML = [...new Set(db.resources.map((r) => r.group))]
     .map(
       (group) =>
@@ -492,22 +496,34 @@
           .join("")}`,
     )
     .join("");
-  $("tc-tag-defs").innerHTML =
-    cats
-      .map(
-        (c) =>
-          `<div><span class="tc-chip" data-category="${c.id}">${icons[c.id]}${esc(c.name)}</span><p>${esc(c.description)}</p></div>`,
-      )
-      .join("") +
-    '<p>厂商下方的“标签筛选”列出当前类型与厂商记录中用过的标签。点击选中，再点一次取消；多选标签需要同时满足，并可与类型、厂商和关键词组合筛选。选中的标签也会显示在产品卡片上。</p>' +
-    '<p>一级按对象大类浏览，二级保留厂商。同一条记录可以出现在多个大类中；大类是浏览入口，不替代产品的具体标签，也不重复建立产品记录。尚未整理的类型保留入口。</p>' +
-    '<p>对象、商品组成和通行品类分别理解：“机器人”“拟人动物”描述形象，“素体”“服装配套”描述组成，“BJD”“手办”“战棋模型”等名称用于检索。多个标签可以同时使用，不从称谓推定结构、材料或适配。</p>' +
-    '<p>组装方式与交付状态分别记录：插接、粘接等说明连接方法，“待拼装”说明收到时的状态。换件能力也不等于跨品牌通用。未披露、待核实和不适用分别保留；尚无资料支持的标签不补填。</p>' +
-    '<p>仅表记不同的同一比例（如“1:6”和“比例 1:6”）统一检索，近似比例与具体测量口径仍分别保留。ABS 与 ABS树脂、POM 与 POM树脂、PS 与 PS树脂分别统一检索；只写“塑料”的资料归入“塑料（未细分）”。来源原文和具体组成仍保留在记录与说明中。</p>' +
-    "<p>卡片上的人形、骨架、机械、板件和衣服图形表示结构或商品组成，不是产品实物照片。</p>";
+  const tagDefinitions = {
+    joint: "拉筋、内部骨架、机械关节、可动部位与固定姿势分别记录。球体关节描述形状，不能仅凭 BJD 称谓判断是否拉筋。插接、粘接等属于连接方法；来源未说明时保留待核实。",
+    size: "深红表示厂商标称比例，浅红表示公布的高度等实际尺寸。比例、头身比和尺寸分别记录；1:1、2:1 也可能按作品中的小型人偶为基准。含头、含底座等测量口径保留，不直接换算人体身高。同一比例的不同写法统一筛选，近似比例仍分开。",
+    delivery: "涂装、组装、是否附素体或服装分别记录，例如涂装成品、未涂装成品、待拼装、成品含服。计划商品按官方预定日期记录；只有展会资料时，交付与发售状态保留待核实。",
+    dress: "布衣穿脱、换假发、换眼、换脸和硬质换件分别记录。附带替换件不代表跨品牌通用，具体适配对象与限制见产品详情。",
+    material: "仅记录来源明确的材料，主体与附属部件尽量分开。ABS 与 ABS树脂等同名写法统一筛选；只写“塑料”时记为“塑料（未细分）”。材料标签不代表耐热、耐染或安全评级。",
+    role: "“机器人”“拟人动物”描述形象，“素体”“服装配套”描述商品组成，“BJD”“手办”“战棋模型”等是检索称谓。可以交叉标记，不据称谓推定结构、材料或适配。",
+  };
+  $("tc-tag-defs").innerHTML = `<div class="tc-tag-guide">${cats.map((c) =>
+    `<div class="tc-tag-definition"><span class="tc-chip" data-category="${c.id}">${icons[c.id]}${esc(c.name)}</span><p>${esc(tagDefinitions[c.id])}</p></div>`
+  ).join("")}</div><div class="tc-tag-rules"><h3>筛选与记录</h3><ul>
+    <li>点击标签选中，再点取消；多选标签需要同时满足，可与类型、厂商和关键词组合。选中的标签也会出现在产品卡片上。</li>
+    <li>类型为一级，厂商为二级。同一产品可出现在多个类型中，仍使用同一条记录；尚未整理的类型保留入口。</li>
+    <li>未披露、待核实和不适用分别保留。来源原文、具体组成与适配限制见详情；卡片图形是结构或商品组成示意图。</li>
+  </ul></div>`;
+  function chooseType(type) {
+    activeType = type;
+    if (!products.some((p) => matchesType(p) && p.brand === activeBrand)) activeBrand = "";
+    const available = new Set(products.filter((p) => matchesType(p) && (!activeBrand || p.brand === activeBrand))
+      .flatMap((p) => [...productTagKeys.get(p.id)]));
+    activeTags.forEach((key) => { if (!available.has(key)) activeTags.delete(key); });
+    refresh();
+    [...$("tc-types").querySelectorAll("button")].find((b) => b.dataset.type === activeType)?.focus({ preventScroll: true });
+  }
   root.addEventListener("click", (e) => {
     const b = e.target.closest("button");
     if (!b) return;
+    if (b.dataset.type) chooseType(b.dataset.type);
     if (b.dataset.view) showDetail(b.dataset.view);
     if (b.dataset.select) toggle(b.dataset.select);
     if (b.dataset.close) closeDialog(b.dataset.close);
@@ -529,14 +545,6 @@
         .find((x) => x.dataset.brand === activeBrand)
         ?.focus({ preventScroll: true });
     }
-  });
-  $("tc-type").addEventListener("change", () => {
-    activeType = $("tc-type").value;
-    if (!products.some((p) => matchesType(p) && p.brand === activeBrand)) activeBrand = "";
-    const available = new Set(products.filter((p) => matchesType(p) && (!activeBrand || p.brand === activeBrand))
-      .flatMap((p) => [...productTagKeys.get(p.id)]));
-    activeTags.forEach((key) => { if (!available.has(key)) activeTags.delete(key); });
-    refresh();
   });
   $("tc-filter-reset").addEventListener("click", () => {
     reset();
