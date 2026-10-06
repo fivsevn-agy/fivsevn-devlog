@@ -69,11 +69,11 @@ updated: 2026-10-06
   </div>
   <div class="tc-bottom">
     <details>
-      <summary>玩具资源整理</summary>
+      <summary>资料整理</summary>
       <div class="tc-resources" id="tc-resources"></div>
     </details>
     <details>
-      <summary>标签怎么读</summary>
+      <summary>标签说明</summary>
       <div id="tc-tag-defs" class="tc-tag-defs"></div>
     </details>
     <details>
