@@ -1,10 +1,10 @@
 ---
-id: posts-humanoid-toys-cross-category-literature-001
+id: posts-toys-cross-category-literature-001
 title: 玩具与模型的跨类别流动①：文献整理
 
 module: posts
 submodule: culture
-topic: humanoid-toys-cross-category-literature
+topic: toys-cross-category-literature
 
 type: note
 status: active
