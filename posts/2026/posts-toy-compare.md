@@ -8,7 +8,7 @@ type: note
 status: active
 canonical: true
 summary: >
-  以彩色标签比照具体人偶与人形玩具的连接方式、比例高度、交付形态、换装和材料；保留型号来源与展开说明。
+  以彩色标签比照具体人偶、人形玩具与相关机械角色的连接方式、比例高度、交付形态、换装和材料；保留型号来源与展开说明。
 parents: [posts-index]
 related: []
 tags: [posts, toys, dolls, comparison, reference]
