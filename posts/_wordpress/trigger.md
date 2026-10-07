@@ -8,5 +8,5 @@ timezone: ”Asia/Taipei“
 # 正文写在第二个 --- 后面
 ---
 
-玩具和模型的跨类别流动，先整理了一些相关文献：
-https://devlog.fivsevn.com/posts/2026/posts-toys-cross-category-literature-001.html
+玩具资料整理：
+https://devlog.fivsevn.com/posts/2026/posts-toy-reference.html
