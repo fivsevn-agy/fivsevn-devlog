@@ -736,6 +736,198 @@ window.TOY_REFERENCE_BROWSE = {
     ],
     "batch-ania-4904810160557": [
       "creature"
+    ],
+    "bandai-ikimono-adv-pillbug-plain": [
+      "creature"
+    ],
+    "bandai-ikimono-adv-pillbug-irido": [
+      "creature"
+    ],
+    "bandai-ikimono-adv-pillbug-zebra": [
+      "creature"
+    ],
+    "bandai-ikimono-repti-frog-strawberry": [
+      "creature"
+    ],
+    "bandai-ikimono-repti-frog-cobalt": [
+      "creature"
+    ],
+    "bandai-ikimono-repti-frog-yellow": [
+      "creature"
+    ],
+    "bandai-ikimono-repti-frog-marbled": [
+      "creature"
+    ],
+    "bandai-ikimono-repti-frog-semadara": [
+      "creature"
+    ],
+    "bandai-ikimono-adv-turtle02-yellow": [
+      "creature"
+    ],
+    "bandai-ikimono-adv-turtle02-orange": [
+      "creature"
+    ],
+    "bandai-ikimono-adv-turtle02-pastel": [
+      "creature"
+    ],
+    "bandai-ikimono-adv-turtle02-cooter": [
+      "creature"
+    ],
+    "bandai-ikimono-mantis02-diamond-dark": [
+      "creature"
+    ],
+    "bandai-ikimono-mantis02-diamond-light": [
+      "creature"
+    ],
+    "bandai-ikimono-mantis02-round-dark": [
+      "creature"
+    ],
+    "bandai-ikimono-mantis02-round-light": [
+      "creature"
+    ],
+    "bandai-ikimono-mantis02-green-expanded": [
+      "creature"
+    ],
+    "bandai-ikimono-mantis02-green-normal": [
+      "creature"
+    ],
+    "bandai-ikimono-beetle03-goliath": [
+      "creature"
+    ],
+    "bandai-ikimono-beetle03-neptune": [
+      "creature"
+    ],
+    "bandai-ikimono-beetle03-grant-white": [
+      "creature"
+    ],
+    "bandai-ikimono-beetle03-grant-black": [
+      "creature"
+    ],
+    "bandai-ikimono-beetle03-hime-brown": [
+      "creature"
+    ],
+    "bandai-ikimono-beetle03-hime-black": [
+      "creature"
+    ],
+    "kaiyodo-revogeo-rg001": [
+      "creature"
+    ],
+    "kaiyodo-revogeo-rg002": [
+      "creature"
+    ],
+    "kaiyodo-revogeo-rg003": [
+      "creature"
+    ],
+    "kaiyodo-revogeo-rg004": [
+      "creature"
+    ],
+    "kaiyodo-revogeo-rg005": [
+      "creature"
+    ],
+    "kaiyodo-revogeo-rg006": [
+      "creature"
+    ],
+    "kaiyodo-revogeo-rg007": [
+      "creature"
+    ],
+    "kaiyodo-revogeo-rg008": [
+      "creature"
+    ],
+    "takara-ania-as01": [
+      "creature"
+    ],
+    "takara-ania-as02": [
+      "creature"
+    ],
+    "takara-ania-as03": [
+      "creature"
+    ],
+    "takara-ania-as04": [
+      "creature"
+    ],
+    "takara-ania-as05": [
+      "creature"
+    ],
+    "takara-ania-as06": [
+      "creature"
+    ],
+    "takara-ania-as07": [
+      "creature"
+    ],
+    "takara-ania-as08": [
+      "creature"
+    ],
+    "takara-ania-as09": [
+      "creature"
+    ],
+    "takara-ania-as10": [
+      "creature"
+    ],
+    "takara-ania-al01": [
+      "creature"
+    ],
+    "takara-ania-al02": [
+      "creature"
+    ],
+    "takara-ania-al05": [
+      "creature"
+    ],
+    "takara-ania-al07": [
+      "creature"
+    ],
+    "schleich-14812": [
+      "creature"
+    ],
+    "schleich-14761": [
+      "creature"
+    ],
+    "schleich-14750": [
+      "creature"
+    ],
+    "schleich-14809": [
+      "creature"
+    ],
+    "schleich-14525": [
+      "creature"
+    ],
+    "schleich-14736": [
+      "creature"
+    ],
+    "papo-50004": [
+      "creature"
+    ],
+    "papo-50238": [
+      "creature"
+    ],
+    "papo-56002": [
+      "creature"
+    ],
+    "papo-56039": [
+      "creature"
+    ],
+    "papo-56000": [
+      "creature"
+    ],
+    "papo-56037": [
+      "creature"
+    ],
+    "safari-275029": [
+      "creature"
+    ],
+    "safari-mosasaurus": [
+      "creature"
+    ],
+    "safari-amazon-dolphin": [
+      "creature"
+    ],
+    "safari-goblin-shark": [
+      "creature"
+    ],
+    "safari-200929": [
+      "creature"
+    ],
+    "safari-622616": [
+      "creature"
     ]
   }
 };

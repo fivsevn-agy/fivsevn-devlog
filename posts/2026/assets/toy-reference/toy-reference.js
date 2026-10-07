@@ -9,7 +9,7 @@
     $("tr-empty").hidden = false;
     $("tr-empty").querySelector("h3").textContent = "资料未载入";
     $("tr-empty").querySelector("p").textContent =
-      "请刷新页面重试，或展开下方“完整资料与记录口径”下载资料表。";
+      "请刷新页面重试，或展开下方“完整资料与记录说明”下载资料表。";
     $("tr-count").textContent = "资料未载入";
     $("tr-empty-reset").hidden = true;
     $("tr-more").hidden = true;
@@ -27,16 +27,17 @@
     })),
     products = db.products,
     selected = new Set(),
-    activeTags = new Set();
+    activeTags = new Set(),
+    activeTypes = new Set(["human"]),
+    activeBrands = new Set();
   const types = browse.types;
   const memberships = new Map(products.map((p) => [
     p.id, new Set(browse?.products[p.id] || ["human"]),
   ]));
-  let activeType = "human",
-    activeBrand = "",
-    visibleLimit = PAGE_SIZE,
+  let visibleLimit = PAGE_SIZE,
     activeId = null,
-    lastFocus;
+    lastFocus,
+    pageScrollLock;
   const esc = (v) =>
     String(v ?? "").replace(
       /[&<>"']/g,
@@ -262,12 +263,13 @@
       vocabulary.get(key).count++;
     });
   });
-  const matchesType = (p) => activeType === "all" || memberships.get(p.id).has(activeType);
+  const matchesType = (p) => !activeTypes.size || [...activeTypes].some((type) => memberships.get(p.id).has(type));
+  const matchesBrand = (p) => !activeBrands.size || activeBrands.has(p.brand);
   function chip(t) {
     return `<span class="tr-chip${t.variant === "unknown" ? " tr-unknown" : ""}" data-category="${t.cat}"${t.variant === "scale" ? ' data-variant="scale"' : ""}>${icons[t.cat]}${esc(t.text)}</span>`;
   }
   function matches(p, terms) {
-    return matchesType(p) && (!activeBrand || p.brand === activeBrand) &&
+    return matchesType(p) && matchesBrand(p) &&
       terms.every((t) => searchable.get(p.id).includes(t)) &&
       [...activeTags].every((key) => productTagKeys.get(p.id).has(key));
   }
@@ -347,9 +349,55 @@
       next.focus({ preventScroll: true });
     }
   }
+  function lockPageScroll() {
+    if (pageScrollLock) return;
+    const html = document.documentElement,
+      body = document.body,
+      x = window.scrollX,
+      y = window.scrollY,
+      scrollbarWidth = Math.max(0, window.innerWidth - html.clientWidth),
+      paddingRight = parseFloat(window.getComputedStyle(body).paddingRight) || 0;
+    const styles = [
+      [html.style, ["overflow", "scroll-behavior"]],
+      [body.style, ["position", "top", "left", "right", "overflow", "padding-right"]],
+    ].flatMap(([style, names]) => names.map((name) => [
+      style, name, style.getPropertyValue(name), style.getPropertyPriority(name),
+    ]));
+    pageScrollLock = { x, y, styles };
+    // A fixed body also prevents background touch scrolling in iOS Safari.
+    html.style.setProperty("overflow", "hidden", "important");
+    html.style.setProperty("scroll-behavior", "auto", "important");
+    body.style.setProperty("position", "fixed", "important");
+    body.style.setProperty("top", `${-y}px`, "important");
+    body.style.setProperty("left", `${-x}px`, "important");
+    body.style.setProperty("right", `${x}px`, "important");
+    body.style.setProperty("overflow", "hidden", "important");
+    if (scrollbarWidth) {
+      body.style.setProperty("padding-right", `${paddingRight + scrollbarWidth}px`, "important");
+    }
+  }
+  function unlockPageScroll() {
+    // Keep the same lock when switching from comparison to product details.
+    if (!pageScrollLock || root.querySelector("dialog[open]")) return;
+    const { x, y, styles } = pageScrollLock;
+    pageScrollLock = null;
+    const restore = ([style, name, value, priority]) => {
+      if (value) style.setProperty(name, value, priority);
+      else style.removeProperty(name);
+    };
+    styles.filter(([, name]) => name !== "scroll-behavior").forEach(restore);
+    window.scrollTo(x, y);
+    styles.filter(([, name]) => name === "scroll-behavior").forEach(restore);
+  }
   function openDialog(id, returnFocus) {
     lastFocus = returnFocus || document.activeElement;
-    $(id).showModal();
+    lockPageScroll();
+    try {
+      $(id).showModal();
+    } catch (error) {
+      unlockPageScroll();
+      throw error;
+    }
     $(id).scrollTop = 0;
     $(id).querySelector(".tr-close").focus({ preventScroll: true });
   }
@@ -369,6 +417,7 @@
   }
   function closeDialog(id) {
     $(id).close();
+    unlockPageScroll();
     restoreFocus();
   }
   function notes(p) {
@@ -443,7 +492,7 @@
         </table>`
       : '<p class="tr-muted">这些类别的标签相同。取消“只看不同之处”可查看全部。</p>';
     $("tr-compare-note").textContent = visibleCats.length
-      ? "尺寸口径与适配限制见“详情与来源”；“未披露”不等于“没有”。"
+      ? "尺寸的测量说明与配件适用范围见“详情与来源”；“未披露”表示现有来源未提供该信息。"
       : "";
   }
   function refresh() {
@@ -452,25 +501,25 @@
   }
   function reset() {
     $("tr-search").value = "";
-    activeType = "all";
-    activeBrand = "";
+    activeTypes.clear();
+    activeBrands.clear();
     activeTags.clear();
     refresh();
   }
   function renderTypes() {
     $("tr-types").innerHTML = [{ id: "all", name: "全部类型" }, ...types].map((t) => {
       const pending = t.id !== "all" && !products.some((p) => memberships.get(p.id).has(t.id));
-      return `<button class="tr-type-choice" data-type="${t.id}" aria-pressed="${activeType === t.id}">${esc(t.name)}${pending ? " · 待整理" : ""}</button>`;
+      return `<button class="tr-type-choice" data-type="${t.id}" aria-pressed="${t.id === "all" ? !activeTypes.size : activeTypes.has(t.id)}">${esc(t.name)}${pending ? " · 待整理" : ""}</button>`;
     }).join("");
-    $("tr-type-current").textContent = activeType === "all" ? "全部类型" : types.find((t) => t.id === activeType).name;
+    $("tr-type-current").textContent = activeTypes.size ? types.filter((t) => activeTypes.has(t.id)).map((t) => t.name).join("、") : "全部类型";
   }
   function renderBrands() {
-    const brands = [...new Set(products.filter(matchesType).map((p) => p.brand))].sort();
-    $("tr-brand-current").textContent = activeBrand || "全部厂商";
+    const brands = [...new Set([...products.filter(matchesType).map((p) => p.brand), ...activeBrands])].sort();
+    $("tr-brand-current").textContent = activeBrands.size ? [...activeBrands].join("、") : "全部厂商";
     $("tr-brands").innerHTML = brands.length ? ["", ...brands]
       .map(
         (b) =>
-          `<button class="tr-brand-choice" data-brand="${esc(b)}" aria-pressed="${activeBrand === b}">${esc(b || "全部厂商")}</button>`,
+          `<button class="tr-brand-choice" data-brand="${esc(b)}" aria-pressed="${b ? activeBrands.has(b) : !activeBrands.size}">${esc(b || "全部厂商")}</button>`,
       )
       .join("") : '<p class="tr-filter-empty">尚无厂商记录</p>';
   }
@@ -479,7 +528,7 @@
     return `<button class="tr-chip tr-tag-choice${t.variant === "unknown" ? " tr-unknown" : ""}" data-category="${t.cat}"${t.variant === "scale" ? ' data-variant="scale"' : ""} data-tag-filter="${esc(key)}" aria-pressed="${activeTags.has(key)}" aria-label="${removable ? "取消标签：" : "筛选标签："}${esc(t.text)}">${icons[t.cat]}${esc(t.text)}${removable ? '<span aria-hidden="true"> ×</span>' : ""}</button>`;
   }
   function renderTagFilters() {
-    const available = new Set(products.filter((p) => matchesType(p) && (!activeBrand || p.brand === activeBrand))
+    const available = new Set(products.filter((p) => matchesType(p) && matchesBrand(p))
       .flatMap((p) => [...productTagKeys.get(p.id)]));
     activeTags.forEach((key) => available.add(key));
     $("tr-tag-choices").innerHTML = cats.map((c) => {
@@ -490,7 +539,7 @@
     if (!available.size) $("tr-tag-choices").innerHTML = '<p class="tr-filter-empty">尚无标签记录</p>';
     $("tr-tag-filter-count").textContent = activeTags.size ? ` (${activeTags.size})` : "";
     $("tr-active-tags").innerHTML = [...activeTags].map((key) => filterChip(key, true)).join("");
-    $("tr-active-filters").hidden = !activeTags.size && !activeBrand && !$("tr-search").value.trim();
+    $("tr-active-filters").hidden = !activeTags.size && !activeTypes.size && !activeBrands.size && !$("tr-search").value.trim();
   }
   $("tr-resources").innerHTML = [...new Set(db.resources.map((r) => r.group))]
     .map(
@@ -505,28 +554,26 @@
     )
     .join("");
   const tagDefinitions = {
-    joint: "拉筋、内部骨架、机械关节、可动部位与固定姿势分别记录。球体关节描述形状，不能仅凭 BJD 称谓判断是否拉筋。插接、粘接等属于连接方法；来源未说明时保留待核实。",
-    size: "深红表示厂商标称比例，浅红表示公布的高度等实际尺寸。比例、头身比和尺寸分别记录；1:1、2:1 也可能按作品中的小型人偶为基准。含头、含底座等测量口径保留，不直接换算人体身高。同一比例的不同写法统一筛选，近似比例仍分开。",
-    delivery: "涂装、组装、是否附素体或服装分别记录，例如涂装成品、未涂装成品、待拼装、成品含服。计划商品按官方预定日期记录；只有展会资料时，交付与发售状态保留待核实。",
-    dress: "布衣穿脱、换假发、换眼、换脸和硬质换件分别记录。附带替换件不代表跨品牌通用，具体适配对象与限制见产品详情。",
-    material: "仅记录来源明确的材料，主体与附属部件尽量分开。ABS 与 ABS树脂等同名写法统一筛选；只写“塑料”时记为“塑料（未细分）”。材料标签不代表耐热、耐染或安全评级。",
-    role: "“机器人”“拟人动物”描述形象，“素体”“服装配套”描述商品组成，“BJD”“手办”“战棋模型”等是检索称谓。可以交叉标记，不据称谓推定结构、材料或适配。",
+    joint: "连接方式、关节结构、可动部位和固定姿势分别记录。拉筋、插接、粘接属于连接方式；球体关节描述关节形状。是否采用拉筋需核对具体产品资料，不能仅凭“BJD”名称判断。尚未确认的连接方式标为“连接待核实”。",
+    size: "深红标签表示厂商标称比例，浅红标签表示来源公布的高度等尺寸，并非自行测量。比例、头身比与尺寸分开记录，保留“含头”“含底座”等测量说明。1:1、2:1 等比例需结合厂商指定的参照对象理解。同一比例的不同写法合并筛选，近似比例单独保留。",
+    delivery: "说明收到商品时的状态：是否已涂装、是否需要拼装、是否包含素体或服装。计划发售的商品采用官方预定日期；只有展会展示、缺少商品说明时，交付与发售状态保留为待核实。",
+    dress: "分别记录布衣穿脱、换假发、换眼、换脸和硬质部件替换。替换件是否适用于其他型号或品牌，需核对具体配件；适用范围与使用限制见产品详情。",
+    material: "材料以来源明确说明为准，主体与附属部件尽量分开记录。ABS 与“ABS树脂”等同名写法合并筛选；来源仅写“塑料”时，标为“塑料（未细分）”。材料名称不用于判断耐热、耐染或安全等级。",
+    role: "“机器人”“拟人动物”描述形象；“素体”“服装配套”描述商品组成；“BJD”“手办”“战棋模型”等保留为品类检索标签。同一产品可使用多个标签，结构、材料与配件适用范围另按具体产品资料记录。",
   };
   $("tr-tag-defs").innerHTML = `<div class="tr-tag-guide">${cats.map((c) =>
     `<div class="tr-tag-definition"><span class="tr-chip" data-category="${c.id}">${icons[c.id]}${esc(c.name)}</span><p>${esc(tagDefinitions[c.id])}</p></div>`
   ).join("")}</div><div class="tr-tag-rules"><h3>筛选与记录</h3><ul>
-    <li>点击标签选中，再点取消；多选标签需要同时满足，可与类型、厂商和关键词组合。选中的标签也会出现在产品卡片上。</li>
-    <li>类型为一级，厂商为二级。同一产品可出现在多个类型中，仍使用同一条记录；尚未整理的类型保留入口。</li>
-    <li>未披露、待核实和不适用分别保留。来源原文、具体组成与适配限制见详情；卡片图形是结构或商品组成示意图。</li>
+    <li>点击标签选中，再次点击取消。多选标签代表同时满足条件，可与类型、厂商和关键词一起筛选。选中的标签会显示在产品卡片上。</li>
+    <li>类型与厂商均可复选，再次点击取消；“全部”清空本组选择。同一组内匹配任一选项，不同组与标签、关键词共同筛选。同一产品可归入多个类型，仍只显示一条记录；“待整理”表示目前没有产品资料。</li>
+    <li>“未披露”表示现有来源未提供该信息；“待核实”表示信息仍需确认；“不适用”表示该项不适合用于描述这件产品。具体组成、配件适用范围与来源见详情。卡片上的小图标用于提示形象或商品类型。</li>
   </ul></div>`;
   function chooseType(type) {
-    activeType = type;
-    if (!products.some((p) => matchesType(p) && p.brand === activeBrand)) activeBrand = "";
-    const available = new Set(products.filter((p) => matchesType(p) && (!activeBrand || p.brand === activeBrand))
-      .flatMap((p) => [...productTagKeys.get(p.id)]));
-    activeTags.forEach((key) => { if (!available.has(key)) activeTags.delete(key); });
+    if (type === "all") activeTypes.clear();
+    else if (activeTypes.has(type)) activeTypes.delete(type);
+    else activeTypes.add(type);
     refresh();
-    [...$("tr-types").querySelectorAll("button")].find((b) => b.dataset.type === activeType)?.focus({ preventScroll: true });
+    [...$("tr-types").querySelectorAll("button")].find((b) => b.dataset.type === type)?.focus({ preventScroll: true });
   }
   root.addEventListener("click", (e) => {
     const b = e.target.closest("button");
@@ -547,10 +594,13 @@
       next.focus({ preventScroll: true });
     }
     if (b.hasAttribute("data-brand")) {
-      activeBrand = b.dataset.brand;
+      const brand = b.dataset.brand;
+      if (!brand) activeBrands.clear();
+      else if (activeBrands.has(brand)) activeBrands.delete(brand);
+      else activeBrands.add(brand);
       refresh();
       [...$("tr-brands").querySelectorAll("button")]
-        .find((x) => x.dataset.brand === activeBrand)
+        .find((x) => x.dataset.brand === brand)
         ?.focus({ preventScroll: true });
     }
   });
@@ -575,6 +625,7 @@
   });
   $("tr-diff").addEventListener("change", compare);
   root.querySelectorAll("dialog").forEach((d) => {
+    d.addEventListener("close", unlockPageScroll);
     d.addEventListener("click", (e) => {
       if (e.target === d) {
         const r = d.getBoundingClientRect();

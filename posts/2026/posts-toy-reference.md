@@ -27,7 +27,7 @@ created: 2026-10-05
 updated: 2026-10-07
 ---
 
-<link rel="stylesheet" href="{{ '/posts/2026/assets/toy-reference/toy-reference.css' | relative_url }}?v=20261007-reference" />
+<link rel="stylesheet" href="{{ '/posts/2026/assets/toy-reference/toy-reference.css' | relative_url }}?v=20261007-dialog-scroll" />
 <div id="toyReference">
   <header class="tr-header">
     <div><h2>玩具资料整理</h2><p class="tr-english-title" lang="en">Toy Reference</p></div>
@@ -53,11 +53,11 @@ updated: 2026-10-07
   </div>
   <details id="tr-type-filter" class="tr-filter-section" open>
     <summary>类型<span id="tr-type-current" class="tr-filter-current"></span></summary>
-    <div id="tr-types" class="tr-types" role="group" aria-label="类型筛选"></div>
+    <div id="tr-types" class="tr-types" role="group" aria-label="类型筛选，可复选"></div>
   </details>
   <details id="tr-brand-filter" class="tr-filter-section" open>
     <summary>厂商<span id="tr-brand-current" class="tr-filter-current"></span></summary>
-    <div id="tr-brands" class="tr-brands" role="group" aria-label="厂商筛选"></div>
+    <div id="tr-brands" class="tr-brands" role="group" aria-label="厂商筛选，可复选"></div>
   </details>
   <details id="tr-tag-filter" class="tr-filter-section tr-tag-filter">
     <summary>标签<span id="tr-tag-filter-count"></span></summary>
@@ -92,23 +92,23 @@ updated: 2026-10-07
       <div id="tr-tag-defs" class="tr-tag-defs"></div>
     </details>
     <details>
-      <summary>完整资料与记录口径</summary>
+      <summary>完整资料与记录说明</summary>
       <div>
         <p class="tr-muted">
-          以具体型号和交付版本记录。厂商标称比例、实际尺寸、头身比各自保留；“未披露”不等于“没有”。跨品牌适配需有具体对象与限制。
+          按具体型号和版本分别记录。比例、尺寸和头身比分开列出；尺寸采用来源公布的数值，测量说明一并保留。跨品牌适配只记录来源明确的适用型号与限制。
         </p>
         <p class="tr-meta">
-          年代按具体版本的发售、受注或生产年份记录；“年代待核实”表示尚缺可靠年份。“历史型号”不等于停产；“已停产”只用于官方明确停售的具体版本。二手与旧库存仍可能流通，复刻另记。
+          年代采用具体版本的发售、接受预订或生产年份；缺少可靠年份时标为“年代待核实”。历史型号是否停产需另行核实；“已停产”只用于官方明确停售的具体版本。二手商品和旧库存仍可能流通，复刻版本单独记录。
         </p>
         <p class="tr-meta">
-          来源优先用官方产品页、厂商旧档案与作家作品页，其次为对应版本的商店或收藏记录；找不到可核对的资料时，才保留研究链接。
+          来源优先采用官方产品页、厂商档案与作者作品页，商店和收藏记录须对应具体型号与版本。研究与社区链接供延伸阅读，产品规格以可核对的产品资料为准。
         </p>
         <p class="tr-meta">
-          本版整理：<span id="tr-date"></span
-          >。尚未覆盖历年展会的全部产品；展会关联只在有对应证据时记录，社区链接也不作为热度排名。
+          本版整理日期：<span id="tr-date"></span
+          >。资料尚未覆盖历年展会的全部产品。展会记录需有与具体产品对应的证据；社区链接用于查找讨论，不作为热度排名的依据。
         </p>
         <p class="tr-meta">
-          <a id="tr-xlsx" href="{{ '/posts/2026/assets/toy-reference/toy-data.xlsx' | relative_url }}" download="玩具资料整理.xlsx"
+          <a id="tr-xlsx" href="{{ '/posts/2026/assets/toy-reference/toy-data.xlsx' | relative_url }}?v=20261007-creatures" download="玩具资料整理.xlsx"
             >下载完整资料表（Excel）</a
           >
         </p>
@@ -163,6 +163,6 @@ updated: 2026-10-07
     </p></noscript
   >
 </div>
-<script defer src="{{ '/posts/2026/assets/toy-reference/toy-data.js' | relative_url }}?v=20261007-reference"></script>
-<script defer src="{{ '/posts/2026/assets/toy-reference/toy-browse.js' | relative_url }}?v=20261007-reference"></script>
-<script defer src="{{ '/posts/2026/assets/toy-reference/toy-reference.js' | relative_url }}?v=20261007-reference"></script>
+<script defer src="{{ '/posts/2026/assets/toy-reference/toy-data.js' | relative_url }}?v=20261007-creatures"></script>
+<script defer src="{{ '/posts/2026/assets/toy-reference/toy-browse.js' | relative_url }}?v=20261007-creatures"></script>
+<script defer src="{{ '/posts/2026/assets/toy-reference/toy-reference.js' | relative_url }}?v=20261007-multiselect"></script>

@@ -680,7 +680,12 @@
   padding: 0;
   width: min(880px, calc(100vw - 32px));
   max-width: calc(100% - 16px);
+  max-height: calc(100vh - 40px);
   max-height: calc(100dvh - 40px);
+  overflow-x: hidden;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  -webkit-overflow-scrolling: touch;
   margin: auto;
   box-shadow:
     4px 4px 0 #080808,
@@ -982,6 +987,7 @@
   }
   #toyReference dialog {
     width: calc(100vw - 16px);
+    max-height: calc(100vh - 20px);
     max-height: calc(100dvh - 20px);
   }
   #toyReference .tr-dialog-head {
