@@ -46,12 +46,30 @@
 
 ## 2. 长文章｜devlog
 
+### 目前的内容
+
+以下是现有内容概览，后续可增减，不必另建分类目录。
+
+- **旧 WordPress 存档**：早期内容按年份保留，见 [2019](https://github.com/fivsevn-agy/fivsevn-devlog/tree/main/posts/2019)、[2025](https://github.com/fivsevn-agy/fivsevn-devlog/tree/main/posts/2025)；保留原文来源与链接。
+- **自己写的文章**：随笔、观察、资料整理与研究笔记，按年份存放。
+- **译文存档**：外文材料的中文译稿，使用 `type: translation`，保留原文链接与翻译说明。
+- **AI 写给五月七日**：知识讲解、方法手册与指导笔记；沿用“ChatGPT 写给五月七日的……”命名，例如[游戏开发流程手册](https://devlog.fivsevn.com/posts/2026/posts-2026-umwelt-game-development-handbook-001.html)。
+- **[AI 话语分析](https://devlog.fivsevn.com/posts/ai-discourse-analysis/)**：AI 辅助拆解公共讨论的论证结构；在首页底部 `Section` 单独列出，[栏目目录](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/posts/ai-discourse-analysis/index.md)独立维护。
+
 ### 新建草稿
 
 - 放进 [`posts/_drafts/`](https://github.com/fivsevn-agy/fivsevn-devlog/tree/main/posts/_drafts) 第一层 → 提交并推送。
 - 自动处理后先拉取，再继续编辑；草稿不进入文章目录。
 
 > [草稿处理任务](https://github.com/fivsevn-agy/fivsevn-devlog/actions/workflows/apply-draft-frontmatter.yml)启动 → [脚本](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/scripts/apply_draft_frontmatter.py)提取正文标题 → 补 metadata、生成占位文件名 → 自动提交回仓库。已有 frontmatter 的文件跳过，不反复改名。
+
+### 新建译文｜translate & post
+
+- 分享原文网址 → 运行 [`translate & post`](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/blogops/docs/auto-translation-shortcut.md) → 将生成的提示词文件分享给 ChatGPT。无分享输入时读取剪贴板。
+- 按[翻译规范](https://github.com/fivsevn-agy/fivsevn-spec/blob/main/content/spec-content-translation-001.md)检查译稿、metadata、原文链接与公开发布授权 → 按下方正式文章流程保存、提交；抓取不完整时先补齐原文。
+
+> 快捷指令给原文网址加上 `https://r.jina.ai/` 前缀 → [Jina Reader](https://jina.ai/reader/)抓取网页、返回 Markdown → 拼入原文网址、翻译要求和规范链接 → 生成日期命名的 `.md` **提示词文件**。  
+> 分享给 AI → AI 生成带 metadata 的**中文译稿**；日期文件不是最终译文，快捷指令本身不直接发文。提交译稿后，再由目录任务和 Pages 处理发布。
 
 ### 发布正式文章
 
@@ -79,7 +97,6 @@
 - **提交**：保存 → 本地 commit → 推送到 `main`；只在手机本地保存、commit，不会启动远端任务。
 - **目录**：改文章 metadata，不手改 [`index.md`](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/posts/index.md) 的 `AUTO-INDEX` 区域；脚本会替换这部分。
 - **README**：直接改；索引脚本按文件名排除它，不作为普通文章收录。
-- **ChatGPT 文章**：沿用“ChatGPT 写给五月七日的……”命名，保留具体主题，不另设系列名。
 - **上线检查**：打开 [devlog Actions](https://github.com/fivsevn-agy/fivsevn-devlog/actions) 或 [flux Actions](https://github.com/fivsevn/fivsevn-flux/actions) → 查看处理结果 → 检查部署 → 打开实际页面。
 
 ---
