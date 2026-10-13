@@ -65,7 +65,7 @@ TRANSLATION_TYPES = {
 DATE_RE = re.compile(r"(\d{4})[-.](\d{1,2})[-.](\d{1,2})")
 
 
-# Only this series opts into reading order; ordinary posts keep their existing sort.
+# Same-day installments use descending numbers; ordinary posts keep their existing sort.
 GAME_HANDBOOK_RE = re.compile(
     r"(?P<series>posts-\d{4}-umwelt-game-development-handbook)-(?P<number>\d+)\.md"
 )
@@ -157,8 +157,9 @@ def should_skip_path(path: Path, root_dir: Path, extra_exclude_dirs: set[str]) -
 
 
 def sort_notes(notes: list[Note], module_name: str) -> list[Note]:
-    """Keep reverse chronology, grouping same-day handbooks in numeric order.
+    """Keep reverse chronology, grouping same-day handbooks newest first.
 
+    Descending installment numbers resolve tied publication dates in this series.
     A group occupies its first position in the original title-sorted list.
     Other articles retain their relative order, titles, dates and links.
     """
@@ -186,7 +187,7 @@ def sort_notes(notes: list[Note], module_name: str) -> list[Note]:
         if key is None:
             result.append(note)
         elif key not in emitted:
-            members = sorted(groups[key], key=lambda item: (item[0], item[1].source_path))
+            members = sorted(groups[key], key=lambda item: (-item[0], item[1].source_path))
             result.extend(member for _, member in members)
             emitted.add(key)
     return result
