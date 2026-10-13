@@ -42,4 +42,92 @@ class IndexTests(unittest.TestCase):
         for value in ['hidden','private','archived']:self.assertEqual(index.status_mode(value),'hide')
         for value in ['active','publish','published']:self.assertEqual(index.status_mode(value),'link')
         self.assertEqual(index.status_mode('draft'),'text')
+
+class HandbookOrderTests(unittest.TestCase):
+    def note(self, number, title, day='2026-10-13', status='active'):
+        path=f'2026/posts-2026-umwelt-game-development-handbook-{number}.md'
+        return index.Note(title, day, status, 'note', path, path)
+
+    def ordinary(self, title, day='2026-10-13'):
+        path=f'2026/{title}.md'
+        return index.Note(title, day, 'active', 'note', path, path)
+
+    def test_current_seven_handbooks_follow_reading_order(self):
+        titles=['游戏开发流程手册', '游戏开发软件地图手册', '游戏程序与运行原理手册',
+                '游戏画面与动画制作手册', '玩法与交互叙事设计手册',
+                '项目阅读、修改与发布实务手册', '研究资料与游戏表达手册']
+        notes=[self.note(f'{i:03}', title) for i,title in enumerate(titles,1)]
+        shuffled=[notes[i] for i in [5,6,4,2,3,1,0]]
+        before=list(shuffled)
+        result=index.sort_notes(shuffled,'posts')
+        self.assertEqual(result,notes)
+        self.assertEqual(shuffled,before)
+        self.assertEqual(index.sort_notes(result,'posts'),result)
+
+    def test_new_installments_sort_numerically_not_lexically(self):
+        notes=[self.note(n,'Same title') for n in ['10','2','001','1000','999','008']]
+        self.assertEqual([n.source_path for n in index.sort_notes(notes,'posts')],
+                         [self.note(n,'Same title').source_path for n in ['001','2','008','10','999','1000']])
+
+    def test_titles_do_not_determine_installment_order(self):
+        first=self.note('001','A renamed title')
+        last=self.note('007','Z renamed title')
+        self.assertEqual(index.sort_notes([last,first],'posts'),[first,last])
+
+    def test_dates_remain_primary_and_unrelated_posts_keep_order(self):
+        notes=[self.ordinary('new','2026-10-14'),self.note('001','A'),
+               self.ordinary('M'),self.note('002','Z'),self.ordinary('B'),
+               self.note('003','Later installment','2026-10-14'),
+               self.ordinary('old','2026-10-12')]
+        baseline=sorted(notes,key=lambda n:(n.date,n.title,n.source_path),reverse=True)
+        result=index.sort_notes(notes,'posts')
+        self.assertEqual([n.date for n in result],sorted([n.date for n in notes],reverse=True))
+        ordinary=lambda items:[n for n in items if 'handbook-' not in n.source_path]
+        self.assertEqual(ordinary(result),ordinary(baseline))
+        same_day=[n for n in result if n.date=='2026-10-13']
+        self.assertEqual(same_day,[notes[1],notes[3],notes[2],notes[4]])
+        self.assertCountEqual(result,notes)
+
+    def test_unrelated_numbered_articles_and_other_modules_unchanged(self):
+        notes=[self.ordinary('other-series-001'),self.ordinary('other-series-002')]
+        baseline=sorted(notes,key=lambda n:(n.date,n.title,n.source_path),reverse=True)
+        self.assertEqual(index.sort_notes(notes,'posts'),baseline)
+        handbooks=[self.note('001','A'),self.note('002','Z')]
+        for module in ['natsci','netcom']:
+            self.assertEqual(index.sort_notes(handbooks,module),list(reversed(handbooks)))
+        self.assertEqual(index.sort_notes([],'posts'),[])
+
+    def test_collection_filters_and_index_regeneration_are_preserved(self):
+        from tempfile import TemporaryDirectory
+        from unittest.mock import patch
+        with TemporaryDirectory() as directory:
+            root=Path(directory)
+            for number,title,status,visibility,folder in [
+                ('001','A first','active','public','2026'),
+                ('002','Z second','active','public','2026'),
+                ('003','Hidden','hidden','public','2026'),
+                ('004','Private','private','private','2026'),
+                ('005','Draft','active','public','_drafts')]:
+                path=root/'posts'/folder/f'posts-2026-umwelt-game-development-handbook-{number}.md'
+                path.parent.mkdir(parents=True,exist_ok=True)
+                path.write_text('---\n'+yaml.safe_dump(dict(title=title,created='2026-10-13',
+                    updated='2026-10-14',module='posts',status=status,visibility=visibility))+'---\nBody\n')
+            config=index.MODULES['posts']
+            dest=root/config['index']
+            dest.write_text('Header\n<!-- AUTO-INDEX:POSTS_RECENT:START -->\nold\n<!-- AUTO-INDEX:POSTS_RECENT:END -->\nFooter\n')
+            original={p:p.read_bytes() for p in (root/'posts').rglob('*.md') if p!=dest}
+            with patch.object(index,'ROOT',root):
+                notes,warnings=index.collect_notes('posts',config)
+                self.assertEqual(warnings,[])
+                self.assertEqual([n.title for n in notes],['A first','Z second'])
+                self.assertEqual([n.date for n in notes],['2026-10-13']*2)
+                self.assertTrue(index.update_index(config,index.render_notes(notes)))
+                self.assertFalse(index.update_index(config,index.render_notes(notes)))
+            rendered=dest.read_text()
+            self.assertTrue(rendered.startswith('Header\n'))
+            self.assertTrue(rendered.endswith('Footer\n'))
+            for note in notes:
+                self.assertIn(f'[{note.title}]({note.link})',rendered)
+            self.assertEqual({p:p.read_bytes() for p in original},original)
+
 if __name__=='__main__':unittest.main()
