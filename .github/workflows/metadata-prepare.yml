@@ -27,6 +27,7 @@ jobs:
         run: |
           python _maintenance_metadata.py --repo devlog --root .
           python _maintenance_helpers.py .
+          git restore -- .github/workflows/update-indexes.yml
           python - <<'PY'
           from pathlib import Path
           for name in ['auto-draft-frontmatter.md','auto-index.md','post-publish-trigger.md']:
