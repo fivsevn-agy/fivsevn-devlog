@@ -1,36 +1,40 @@
 ---
-id: netcom-methods-packet-learning-001
-title: 用分组交换模型理解学习路径结构
+id: "netcom-methods-packet-learning-001"
+title: "用分组交换模型理解学习路径结构"
 
-module: netcom
-submodule: methods
-topic: structural-learning-model
+module: "netcom"
+submodule: "methods"
+topic: "structural-learning-model"
 
-type: article
-status: active
+type: "article"
+status: "active"
 canonical: true
 
-summary: >
-  借助计算机网络中的分组交换与路由概念，
-  类比学习过程中的知识拆分与依赖路径结构，
-  探讨学习系统的结构优化思路。
+summary: |
+  借助计算机网络中的分组交换与路由概念， 类比学习过程中的知识拆分与依赖路径结构， 探讨学习系统的结构优化思路。
 
-parents: [netcom-module-map]
-related: [posts-index]
+parents: ["netcom-index"]
+related: ["posts-index"]
 
-tags: [netcom, methods, learning-model, packet-switching]
+tags: ["netcom", "methods", "learning-model", "packet-switching"]
 
-audience: [public]
-languages: [zh]
+audience: ["public"]
+languages: ["zh"]
 
-maturity: evolving
+maturity: "evolving"
 confidence: 0.94
 
-visibility: public
-source_of_truth: devlog
+visibility: "public"
+source_of_truth: "devlog"
 
-created: 2025-11-19
-updated: 2026-03-01
+legacy:
+  metadata:
+    parents:
+    - netcom-module-map
+
+created: "2025-11-19"
+updated: "2026-03-01"
+metadata_updated: "2026-10-13"
 ---
 ## 把计算机的分组交换思路用来理解学习方式
 

@@ -1,3 +1,37 @@
+---
+id: "publish-memo"
+title: "博客发布与维护入口"
+
+module: "blogops"
+submodule: "docs"
+topic: "publish-memo"
+
+type: "note"
+status: "active"
+canonical: true
+
+summary: "说明博客发布与维护入口。"
+
+parents: []
+related: []
+
+tags: []
+
+audience: ["self", "internal"]
+languages: ["zh"]
+
+maturity: "evolving"
+confidence: null
+
+visibility: "public"
+source_of_truth: "devlog"
+
+note: "未记录原始写作日期；created 为本路径首次 Git 记录日期，无法合理确定时留空。"
+
+created: "2026-06-17"
+updated: "2026-10-13"
+metadata_updated: "2026-10-13"
+---
 # 博客发布与维护入口
 
 > 本页保留旧链接，只提供导航；原来的综合发布表不再单独维护。具体操作统一看各板块 README，实际行为以当前脚本和工作流为准。
@@ -20,6 +54,5 @@
 
 - **入口与分工**：[系统总览](../../system-map.md)。
 - **公共规范**：[fivsevn-spec](https://github.com/fivsevn-agy/fivsevn-spec)。
-- **历史版本**：[本文件修改历史](https://github.com/fivsevn-agy/fivsevn-devlog/commits/main/blogops/docs/publish-memo.md)，仅供回看，不作为现行操作说明。
 
 更新日期：2026-10-13。

@@ -1,42 +1,46 @@
 ---
-id: posts-population-doomsday-2026-001
-title: 科学：公元2026年的世界末日
+id: "posts-population-doomsday-2026-001"
+title: "科学：公元2026年的世界末日"
 
-module: posts
-submodule: population
-topic: doomsday-2026
+module: "posts"
+submodule: "2026"
+topic: "doomsday-2026"
 
-type: translation
-status: active
+type: "translation"
+status: "active"
 canonical: true
 
-summary: >
+summary: |
   本文翻译《时代》1960 年关于海因茨·冯·福斯特人口增长模型的报道，介绍其用数学方程推导“世界末日”日期的论证，以及文章对技术、食物供给和生育控制的讨论。
 
 parents: []
 related: []
 
-tags: [population-growth, doomsday, malthusianism, demography, science-history, birth-control]
+tags: ["population-growth", "doomsday", "malthusianism", "demography", "science-history", "birth-control"]
 
-audience: [self, public]
-languages: [zh]
+audience: ["self", "public"]
+languages: ["zh"]
 
-maturity: stable
+maturity: "stable"
 confidence: 0.9
 
-visibility: public
-source_of_truth: translation
+visibility: "public"
+source_of_truth: "translation"
 
 original_title: "Science: Doomsday in 2026 A.D."
-original_source: TIME Archive
-original_publisher: TIME
-original_url: https://time.com/archive/6647875/science-doomsday-in-2026-a-d/
-translation_note: >
-  本文为原文内容的中文翻译，仅用于学习与知识整理。
-  原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+original_source: "TIME Archive"
+original_publisher: "TIME"
+original_url: "https://time.com/archive/6647875/science-doomsday-in-2026-a-d/"
+translation_note: |
+  本文为原文内容的中文翻译，仅用于学习与知识整理。 原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
 
-created: 2026-06-22
-updated: 2026-06-22
+legacy:
+  metadata:
+    submodule: population
+
+created: "2026-06-22"
+updated: "2026-06-22"
+metadata_updated: "2026-10-13"
 ---
 
 文章翻译

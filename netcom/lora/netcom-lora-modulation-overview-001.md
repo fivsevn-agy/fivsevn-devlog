@@ -1,36 +1,43 @@
 ---
-id: netcom-lora-modulation-overview-001
-title: 从内容到电磁波：LoRa 调制方式与通信路径
+id: "netcom-lora-modulation-overview-001"
+title: "从内容到电磁波：LoRa 调制方式与通信路径"
 
-module: netcom
-submodule: lora
-topic: modulation-and-signal-path
+module: "netcom"
+submodule: "lora"
+topic: "modulation-and-signal-path"
 
-type: article
-status: active
+type: "article"
+status: "active"
 canonical: true
 
-summary: >
-  从“内容如何变成电磁波”这一链路出发，
-  梳理模拟与数字概念差异，
-  并解释 LoRa 作为调制方式在无线通信中的位置。
+summary: |
+  从“内容如何变成电磁波”这一链路出发， 梳理模拟与数字概念差异， 并解释 LoRa 作为调制方式在无线通信中的位置。
 
-parents: [netcom-module-map]
-related: [netcom-architecture-four-layer-model-001, netcom-rf-spectrum-001]
+parents: ["netcom-index"]
+related: ["netcom-architecture-four-layer-model-001", "netcom-rf-spectrum-overview-001"]
 
-tags: [netcom, lora, modulation, rf, signal-path]
+tags: ["netcom", "lora", "modulation", "rf", "signal-path"]
 
-audience: [public]
-languages: [zh]
+audience: ["public"]
+languages: ["zh"]
 
-maturity: stable
+maturity: "stable"
 confidence: 0.98
 
-visibility: public
-source_of_truth: devlog
+visibility: "public"
+source_of_truth: "devlog"
 
-created: 2025-11-23
-updated: 2026-03-01
+legacy:
+  metadata:
+    parents:
+    - netcom-module-map
+    related:
+    - netcom-architecture-four-layer-model-001
+    - netcom-rf-spectrum-001
+
+created: "2025-11-23"
+updated: "2026-03-01"
+metadata_updated: "2026-10-13"
 ---
 ## 从内容到电磁波，以及LoRa这种调制方式
 

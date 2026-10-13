@@ -1,37 +1,43 @@
 ---
-id: netcom-cs-heap-stack-001
-title: 堆（heap）与栈（stack）的直观理解与工程语境
+id: "netcom-cs-heap-stack-001"
+title: "堆（heap）与栈（stack）的直观理解与工程语境"
 
-module: netcom
-submodule: cs
-topic: memory-model
+module: "netcom"
+submodule: "cs"
+topic: "memory-model"
 
-type: article
-status: active
+type: "article"
+status: "active"
 canonical: true
 
-summary: >
-  通过厨房类比与真实开发语境，
-  解释 stack 与 heap 的差异、
-  生命周期特征与性能影响，
-  并结合实际编程场景进行说明。
+summary: |
+  通过厨房类比与真实开发语境， 解释 stack 与 heap 的差异、 生命周期特征与性能影响， 并结合实际编程场景进行说明。
 
-parents: [netcom-module-map]
-related: [netcom-mcu-001, netcom-math-dynamicalsystem-001]
+parents: ["netcom-index"]
+related: ["netcom-mcu-overview-001", "netcom-math-dynamical-system-prototypes-001"]
 
-tags: [netcom, cs, memory-model, heap, stack]
+tags: ["netcom", "cs", "memory-model", "heap", "stack"]
 
-audience: [public]
-languages: [zh]
+audience: ["public"]
+languages: ["zh"]
 
-maturity: stable
+maturity: "stable"
 confidence: 0.98
 
-visibility: public
-source_of_truth: devlog
+visibility: "public"
+source_of_truth: "devlog"
 
-created: 2025-11-24
-updated: 2026-03-01
+legacy:
+  metadata:
+    parents:
+    - netcom-module-map
+    related:
+    - netcom-mcu-001
+    - netcom-math-dynamicalsystem-001
+
+created: "2025-11-24"
+updated: "2026-03-01"
+metadata_updated: "2026-10-13"
 ---
 ## 堆（heap）和栈（stack）
 

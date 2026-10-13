@@ -1,44 +1,42 @@
 ---
-id: natsci-paleontology-oxfordshire-dinosaur-tracks-001
-title: 牛津郡发现大规模恐龙足迹
+id: "natsci-paleontology-oxfordshire-dinosaur-tracks-001"
+title: "牛津郡发现大规模恐龙足迹"
 
-module: natsci
-submodule: paleontology
-topic: oxfordshire-dinosaur-tracks
+module: "natsci"
+submodule: "paleontology"
+topic: "oxfordshire-dinosaur-tracks"
 
-type: translation
-status: active
+type: "translation"
+status: "active"
 canonical: true
 
-summary: >
-  本文翻译介绍了牛津郡 Dewars Farm Quarry 发现的大规模中侏罗世恐龙足迹遗址，
-  包括可能属于 Megalosaurus 和 Cetiosaurus 的兽脚类、蜥脚类行迹，以及研究团队的三维记录工作。
-
+summary: |
+  本文翻译介绍了牛津郡 Dewars Farm Quarry 发现的大规模中侏罗世恐龙足迹遗址， 包括可能属于 Megalosaurus 和 Cetiosaurus 的兽脚类、蜥脚类行迹，以及研究团队的三维记录工作。
 
 parents: []
 related: []
 
-tags: [dinosaur-tracks, oxfordshire, middle-jurassic, megalosaurus, cetiosaurus, paleontology, trace-fossils, quarry]
+tags: ["dinosaur-tracks", "oxfordshire", "middle-jurassic", "megalosaurus", "cetiosaurus", "paleontology", "trace-fossils", "quarry"]
 
-audience: [self, public]
-languages: [zh]
+audience: ["self", "public"]
+languages: ["zh"]
 
-maturity: stable
+maturity: "stable"
 confidence: 0.9
 
-visibility: public
-source_of_truth: translation
+visibility: "public"
+source_of_truth: "translation"
 
-original_title: Extensive Dinosaur Tracks Uncovered in Oxfordshire
-original_source: Everything Dinosaur
-original_publisher: Everything Dinosaur
-original_url: https://blog.everythingdinosaur.com/blog/_archives/2025/01/03/remarkable-dinosaur-highway-uncovered-in-oxfordshire.html
-translation_note: >
-  本文为原文内容的中文翻译，仅用于学习与知识整理。
-  原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+original_title: "Extensive Dinosaur Tracks Uncovered in Oxfordshire"
+original_source: "Everything Dinosaur"
+original_publisher: "Everything Dinosaur"
+original_url: "https://blog.everythingdinosaur.com/blog/_archives/2025/01/03/remarkable-dinosaur-highway-uncovered-in-oxfordshire.html"
+translation_note: |
+  本文为原文内容的中文翻译，仅用于学习与知识整理。 原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
 
-created: 2026-06-13
-updated: 2026-06-13
+created: "2026-06-13"
+updated: "2026-06-13"
+metadata_updated: "2026-10-13"
 ---
 
 ## 文章翻译

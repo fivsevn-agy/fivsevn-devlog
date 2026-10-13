@@ -1,35 +1,39 @@
 ---
-id: blogops-about-001
-title: 关于本博客（About This Blog）
+id: "blogops-about-001"
+title: "关于本博客（About This Blog）"
 
-module: blogops
-submodule: identity
-topic: blog-identity
+module: "blogops"
+submodule: "content"
+topic: "blog-identity"
 
-type: article
-status: active
+type: "article"
+status: "active"
 canonical: true
 
-summary: >
-  博客基本信息、结构说明、版权声明、AI 使用声明与免责声明。
-  作为对外公开的身份、内容边界与责任说明页面。
+summary: |
+  博客基本信息、结构说明、版权声明、AI 使用声明与免责声明。 作为对外公开的身份、内容边界与责任说明页面。
 
 parents: []
 related: []
 
-tags: [blogops, identity, about, ai-assistance]
+tags: ["blogops", "identity", "about", "ai-assistance"]
 
-audience: [public]
-languages: [zh, en, ja]
+audience: ["public"]
+languages: ["zh", "en", "ja"]
 
-maturity: stable
+maturity: "stable"
 confidence: 0.99
 
-visibility: public
-source_of_truth: site
+visibility: "public"
+source_of_truth: "site"
 
-created: 2026-02-19
-updated: 2026-06-18
+legacy:
+  metadata:
+    submodule: identity
+
+created: "2026-02-19"
+updated: "2026-06-18"
+metadata_updated: "2026-10-13"
 ---
 # 关于本博客
 # About This Blog

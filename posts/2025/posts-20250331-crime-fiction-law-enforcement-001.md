@@ -1,37 +1,71 @@
 ---
-id: posts-2025-03-31-犯罪小说当中对执法机构的描述-虚构文学研究
-title: 犯罪小说当中对执法机构的描述（虚构文学研究）
+id: "posts-20250331-crime-fiction-law-enforcement-001"
+title: "犯罪小说当中对执法机构的描述（虚构文学研究）"
 
-module: posts
-submodule: 2025
-topic: legacy-wordpress
+module: "posts"
+submodule: "2025"
+topic: "legacy-wordpress"
 
-type: note
-status: active
+type: "note"
+status: "active"
 canonical: false
 
-summary: >
-  LEA
+summary: "摘录并比较犯罪小说中的虚构执法机构、人物关系和叙述方式。"
 
 parents: []
 related: []
 
-tags: [posts, elleryqueen, fiction, kinseymillhone, marlowe, raymondchandler]
+tags: ["posts", "elleryqueen", "fiction", "kinseymillhone", "marlowe", "raymondchandler"]
 
-audience: [public]
-languages: [zh]
+audience: ["public"]
+languages: ["zh"]
 
-maturity: stable
+maturity: "stable"
 confidence: 0.9
 
-visibility: public
-source_of_truth: external
+visibility: "public"
+source_of_truth: "external"
 
-original_source: WordPress
-original_url: https://fivsevn.home.blog/2025/03/31/%e7%8a%af%e7%bd%aa%e5%b0%8f%e8%af%b4%e5%bd%93%e4%b8%ad%e5%af%b9%e6%89%a7%e6%b3%95%e6%9c%ba%e6%9e%84%e7%9a%84%e6%8f%8f%e8%bf%b0%ef%bc%88%e8%99%9a%e6%9e%84%e6%96%87%e5%ad%a6%e7%a0%94%e7%a9%b6%ef%bc%89/
+original_title: "犯罪小说当中对执法机构的描述（虚构文学研究）"
+original_source: "WordPress"
+original_publisher: "五月七日"
+original_url: "https://fivsevn.home.blog/2025/03/31/%e7%8a%af%e7%bd%aa%e5%b0%8f%e8%af%b4%e5%bd%93%e4%b8%ad%e5%af%b9%e6%89%a7%e6%b3%95%e6%9c%ba%e6%9e%84%e7%9a%84%e6%8f%8f%e8%bf%b0%ef%bc%88%e8%99%9a%e6%9e%84%e6%96%87%e5%ad%a6%e7%a0%94%e7%a9%b6%ef%bc%89/"
 
-created: 2025-03-31
-updated: 2025-04-02
+subtitle: "LEA"
+references:
+- section: 相关作者
+  text: Raymond Chandler（雷蒙德·钱德勒）July 23, 1888 – March 26, 1959
+- section: 相关作者
+  text: Sue Grafton（苏·格拉夫顿）April 24, 1940 – December 28, 2017
+- section: 相关作者
+  text: Ellery Queen（“埃勒里·奎因”）1928，是由 Dannay（丹内）和 Lee（李）联合创作的笔名。 Frederic Dannay（弗雷德里克·丹内）October 20, 1905 – September 3,
+    1982 Manfred Bennington Lee（曼弗雷德·本宁顿·李）January 11, 1905 – April 3, 1971
+- section: 参考版本
+  text: '雷蒙德·钱德勒. 长眠不醒[M]. 傅惟慈译. 北京: 新星出版社, 2018.（原作出版于1939年） Chandler, R. (1939).[_The big sleep_](https://www.goodreads.com/book/show/2052.The_Big_Sleep).
+    Alfred A. Knopf.'
+- section: 参考版本
+  text: 苏·格拉夫顿.《B：窃贼》. 朱小丽译. 北京：新星出版社，2009年8月初版.（原作出版于1985年） Grafton, S. (1985).[_B is for burglar_](https://www.goodreads.com/book/show/64865.B_is_for_Burglar?from_search=true&from_srp=true&qid=c7dm6acwuU&rank=1)(1st
+    ed.). Henry Holt and Company.
+- section: 参考版本
+  text: '埃勒里·奎因.[希腊棺材之谜](https://book.douban.com/subject/3112726/)[M]. 王敬之, 译. 北京: 新星出版社, 2008.(原作出版于 1932 年) 埃勒里·奎因.[希腊棺材](https://book.douban.com/subject/36536326//)[M].
+    程小青, 庞啸龙, 译. 上海: 上海中央书店, 1946. Ellery Queen. (1932).[_The Greek Coffin Mystery_](https://www.goodreads.com/book/show/1808330.The_Greek_Coffin_Mystery).
+    Frederick A. Stokes.'
+note: "旧 WordPress 存档；保留原文、图片链接、异名及参考资料的原有表达，未扩写正文。"
+aliases: ["posts-2025-03-31-犯罪小说当中对执法机构的描述-虚构文学研究"]
+legacy:
+  metadata:
+    id: posts-2025-03-31-犯罪小说当中对执法机构的描述-虚构文学研究
+    submodule: 2025
+    summary: 'LEA
+
+      '
+  path: posts/2025/2025-03-31-犯罪小说当中对执法机构的描述（虚构文学研究）.md
+
+permalink: "/posts/2025/2025-03-31-犯罪小说当中对执法机构的描述（虚构文学研究）.html"
+
+created: "2025-03-31"
+updated: "2025-04-02"
+metadata_updated: "2026-10-13"
 ---
 LEA
 

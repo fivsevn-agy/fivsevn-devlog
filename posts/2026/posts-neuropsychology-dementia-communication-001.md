@@ -1,42 +1,46 @@
 ---
-id: posts-neuropsychology-dementia-communication-001
-title: 如何与患有痴呆症的人交谈
+id: "posts-neuropsychology-dementia-communication-001"
+title: "如何与患有痴呆症的人交谈"
 
-module: posts
-submodule: neuropsychology
-topic: dementia-communication
+module: "posts"
+submodule: "2026"
+topic: "dementia-communication"
 
-type: translation
-status: active
+type: "translation"
+status: "active"
 canonical: true
 
-summary: >
+summary: |
   本文介绍与患有痴呆症的亲人沟通时可采用的具体方法，包括理解不同类型痴呆症对交流的影响、避免适得其反的反应、减少干扰、使用视觉辅助，以及在行为和心理症状出现时保持连接与安抚。
 
 parents: []
 related: []
 
-tags: [dementia, caregiving, communication, alzheimers, neuropsychology, elder-care]
+tags: ["dementia", "caregiving", "communication", "alzheimers", "neuropsychology", "elder-care"]
 
-audience: [self, public]
-languages: [zh]
+audience: ["self", "public"]
+languages: ["zh"]
 
-maturity: stable
+maturity: "stable"
 confidence: 0.9
 
-visibility: public
-source_of_truth: translation
+visibility: "public"
+source_of_truth: "translation"
 
-original_title: How to talk to someone who has dementia
-original_source: Psyche
-original_publisher: Psyche
-original_url: https://psyche.co/guides/how-to-talk-to-someone-who-has-dementia
-translation_note: >
-  本文为原文内容的中文翻译，仅用于学习与知识整理。
-  原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+original_title: "How to talk to someone who has dementia"
+original_source: "Psyche"
+original_publisher: "Psyche"
+original_url: "https://psyche.co/guides/how-to-talk-to-someone-who-has-dementia"
+translation_note: |
+  本文为原文内容的中文翻译，仅用于学习与知识整理。 原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
 
-created: 2026-06-15
-updated: 2026-06-15
+legacy:
+  metadata:
+    submodule: neuropsychology
+
+created: "2026-06-15"
+updated: "2026-06-15"
+metadata_updated: "2026-10-13"
 ---
 
 ## 文章翻译

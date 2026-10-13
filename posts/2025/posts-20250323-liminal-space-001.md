@@ -1,38 +1,52 @@
 ---
-id: posts-2025-03-23-阈限地带
-title: 阈限地带
+id: "posts-20250323-liminal-space-001"
+title: "阈限地带"
 
-module: posts
-submodule: 2025
-topic: legacy-wordpress
+module: "posts"
+submodule: "2025"
+topic: "legacy-wordpress"
 
-type: note
-status: active
+type: "note"
+status: "active"
 canonical: false
 
-summary: >
-  阅览本文，获取更多沉睡地摊儿材质包！ 周末的午夜，地摊布、麻袋、塑料框、捆扎带和镇石，在时间的软泥板上压印出奇妙的楔形文字，和路过的猫猫狗狗车车
-  人人形成“此处有物”或者“此处有故事”的默契。
+summary: "记录午夜集市的摊位遗留物、空间痕迹与阈限感。"
 
 parents: []
 related: []
 
-tags: [posts, daily, liminalspace]
+tags: ["posts", "daily", "liminalspace"]
 
-audience: [public]
-languages: [zh]
+audience: ["public"]
+languages: ["zh"]
 
-maturity: stable
+maturity: "stable"
 confidence: 0.9
 
-visibility: public
-source_of_truth: external
+visibility: "public"
+source_of_truth: "external"
 
-original_source: WordPress
-original_url: https://fivsevn.home.blog/2025/03/23/%e9%98%88%e9%99%90%e5%9c%b0%e5%b8%a6/
+original_title: "阈限地带"
+original_source: "WordPress"
+original_publisher: "五月七日"
+original_url: "https://fivsevn.home.blog/2025/03/23/%e9%98%88%e9%99%90%e5%9c%b0%e5%b8%a6/"
 
-created: 2025-03-23
-updated: 2025-03-29
+note: "旧 WordPress 存档；保留原文、图片链接、异名及参考资料的原有表达，未扩写正文。"
+aliases: ["posts-2025-03-23-阈限地带"]
+legacy:
+  metadata:
+    id: posts-2025-03-23-阈限地带
+    submodule: 2025
+    summary: '阅览本文，获取更多沉睡地摊儿材质包！ 周末的午夜，地摊布、麻袋、塑料框、捆扎带和镇石，在时间的软泥板上压印出奇妙的楔形文字，和路过的猫猫狗狗车车 人人形成“此处有物”或者“此处有故事”的默契。
+
+      '
+  path: posts/2025/2025-03-23-阈限地带.md
+
+permalink: "/posts/2025/2025-03-23-阈限地带.html"
+
+created: "2025-03-23"
+updated: "2025-03-29"
+metadata_updated: "2026-10-13"
 ---
 ![Image 3](https://cdn.jsdelivr.net/gh/fivsevn/fivsevn-assets/post/2025/202503/20250323sleepingstall02.jpeg)
 
