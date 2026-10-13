@@ -27,6 +27,12 @@ jobs:
         run: |
           python _maintenance_metadata.py --repo devlog --root .
           python _maintenance_helpers.py .
+          python - <<'PY'
+          from pathlib import Path
+          for name in ['auto-draft-frontmatter.md','auto-index.md','post-publish-trigger.md']:
+              path=Path('blogops/docs')/name
+              path.write_text(path.read_text().rstrip()+'\n')
+          PY
       - name: Verify metadata and existing publishing contracts
         run: |
           python /tmp/metadata-spec/tools/check_metadata.py --repo devlog --root . --schema /tmp/metadata-spec/content/content-metadata.schema.json --references /tmp/metadata-spec --json /tmp/metadata-check.json
