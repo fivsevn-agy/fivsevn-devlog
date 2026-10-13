@@ -8,7 +8,7 @@ type: "note"
 status: "active"
 canonical: true
 summary: |
-  按用途认识游戏开发中的软件、引擎、编程语言、程序库与在线服务。解释它们的职责、区别与配合方式，覆盖个人、小团队与大型制作中的主要环节，并附工具官网、易混名称和示例组合。
+  按用途认识游戏开发中的软件、引擎、编程语言、程序库与在线服务。解释它们的职责、区别与配合方式，覆盖个人、小团队与大型制作中的主要环节，并附工具官网、易混名称、示例组合及《等足目赋格》的实际技术对应。
 parents: ["posts-index"]
 related: ["posts-2026-umwelt-game-development-handbook-001"]
 tags: ["game-development", "software", "tools", "game-engine", "programming", "workflow", "handbook"]
@@ -79,6 +79,7 @@ metadata_updated: "2026-10-13"
 | [21 构建与发布](#tools-21) · [22 维护与运营](#tools-22) | 生成成品、平台分发、运行监控与玩家反馈 |
 | [23 宣传制作](#tools-23) · [24 素材与加工](#tools-24) · [25 AI 辅助](#tools-25) | 宣传内容、现成资源、批量处理与 AI 工具 |
 | [授权类型](#licensing) · [组合示例](#combinations) · [易混名称](#confusions) | 使用条件、工具配合方式与名称对照 |
+| [实际案例：《等足目赋格》](#case-isopoda) | 将本游戏的实现与上述工具类别逐项对应 |
 
 初次阅读可先了解基本概念、02—06 节和组合示例，其余部分按用途查阅。查找具体软件时，可使用浏览器的“在页面中查找”功能。
 
@@ -690,3 +691,57 @@ Blender 负责制作画面；HTML 定义图片、对话框和按钮等内容；C
 概念的主要核对入口包括 [Unity 的引擎介绍](https://unity.com/products/unity-engine)、[Godot 的功能说明](https://godotengine.org/features/)、[Phaser 的自我定义](https://docs.phaser.io/phaser/getting-started/what-is-phaser)、[MDN 的网页技术说明](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/What_is_JavaScript)、[Git 文档](https://git-scm.com/about)、[Git LFS](https://git-lfs.com/)、[glTF 规范入口](https://www.khronos.org/gltf/)和 [OSI 开源定义](https://opensource.org/osd)。
 
 资料查阅日期为 **2026-10-13**。本文用于认识工具，不提供价格或平台授权保证；实际采用仍需核对当前版本、许可与项目兼容性，并完成相应测试。
+
+<a id="case-isopoda"></a>
+## 实际案例：《等足目赋格》的技术对应
+
+本节以 UMWELT 中的《等足目赋格》网页版为例，将实际实现对应到前面的分类。依据为 **2026-10-13** 核对的[仓库版本 `0bbe083`](https://github.com/fivsevn/umwelt/tree/0bbe083943a4b307e38e3ea0de435d3d7864a345)，范围限于网页主游戏及其配套开发工具，不将桌面封装或其他作品的方案混入其中。
+
+### 整体技术路线
+
+**《等足目赋格》没有采用 Unity、Godot 这类现成的通用游戏引擎，而是直接使用 JavaScript 编写游戏逻辑，通过浏览器的 Canvas 2D 绘制场景，以 HTML 和 CSS 组织界面。** 项目将状态、交互、叙事和绘制拆分为不同模块，由网页入口加载。[网页入口](https://github.com/fivsevn/umwelt/blob/0bbe083943a4b307e38e3ea0de435d3d7864a345/isopoda/index.html) · [模块分工](https://github.com/fivsevn/umwelt/blob/0bbe083943a4b307e38e3ea0de435d3d7864a345/isopoda/README.md)
+
+这不意味着从零实现所有基础功能。浏览器已经提供 [Canvas 绘图](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)、[Web Audio 音频](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)等接口，项目代码调用这些接口并实现具体规则。**因此，浏览器提供执行环境和基础能力，JavaScript 模块负责本游戏的内容与行为；Canvas 2D 是绘图接口，不是完整游戏引擎。**
+
+### 与手册分类逐项对应
+
+| 对应分类 | 本项目的实现 | 具体职责与依据 |
+| --- | --- | --- |
+| [01 规划与资料](#tools-01) | Markdown 开发文档、资料与数据约定 | 记录扩展步骤、来源归属、存档和内容的维护规则；属于设计与维护资料，不是玩家端的游戏引擎。[文档入口](https://github.com/fivsevn/umwelt/blob/0bbe083943a4b307e38e3ea0de435d3d7864a345/isopoda/docs/README.md) |
+| [02—04 游戏主体与运行结构](#tools-02) | 项目自定义的 JavaScript 模块 | `game.js` 连接界面与游戏流程，`engine.mjs` 等模块处理状态和规则，没有采用通用引擎的整套制作流程。[运行模块](https://github.com/fivsevn/umwelt/blob/0bbe083943a4b307e38e3ea0de435d3d7864a345/isopoda/README.md) |
+| [05 语言](#tools-05) · [15 界面](#tools-15) | JavaScript、HTML、CSS | JavaScript 编写行为，HTML 定义画布、按钮和文字区，CSS 规定布局与样式。界面并非全部绘制在 Canvas 中。[入口与样式引用](https://github.com/fivsevn/umwelt/blob/0bbe083943a4b307e38e3ea0de435d3d7864a345/isopoda/index.html) |
+| [07 二维图像](#tools-07) · [11 动画](#tools-11) | 程序化像素绘制 | `sprites.mjs` 根据身体比例、配色、姿态和动作阶段计算角色像素；这部分不是逐张导入预先画好的角色图。[角色实现](https://github.com/fivsevn/umwelt/blob/0bbe083943a4b307e38e3ea0de435d3d7864a345/isopoda/sprites.mjs) |
+| [10 场景](#tools-10) · [12 渲染](#tools-12) | Canvas 2D 与场景模块 | `habitat.mjs` 通过 `getContext('2d')` 获取绘图接口，组合生境、角色与动态效果。[场景实现](https://github.com/fivsevn/umwelt/blob/0bbe083943a4b307e38e3ea0de435d3d7864a345/isopoda/habitat.mjs) |
+| [10 场景编辑](#tools-10) | 阿西莫夫环境实验室 | 提供布置、点选拖动、布局导入与导出等功能，是项目专用的编辑工具；采用其布局仍需单独接入游戏。[实验室约定](https://github.com/fivsevn/umwelt/blob/0bbe083943a4b307e38e3ea0de435d3d7864a345/isopoda/docs/laboratories.md) |
+| [13 音频](#tools-13) | Web Audio 与项目共享音频模块 | 用浏览器音频接口控制音乐、音效和音量，点击音效由程序合成；音频代码也是游戏系统的一部分。[音频实现](https://github.com/fivsevn/umwelt/blob/0bbe083943a4b307e38e3ea0de435d3d7864a345/assets/audio/audio-engine.mjs) · [游戏接入](https://github.com/fivsevn/umwelt/blob/0bbe083943a4b307e38e3ea0de435d3d7864a345/isopoda/audio-ui.mjs) |
+| [14 交互叙事](#tools-14) | 内容数据与状态逻辑模块 | 内容模块保存观察文本、事件和结局，游戏逻辑根据当前状态与操作决定推进和反馈。[内容分工](https://github.com/fivsevn/umwelt/blob/0bbe083943a4b307e38e3ea0de435d3d7864a345/isopoda/README.md) · [状态逻辑](https://github.com/fivsevn/umwelt/blob/0bbe083943a4b307e38e3ea0de435d3d7864a345/isopoda/engine.mjs) |
+| [15 本地化](#tools-15) | `i18n.mjs`、`runtime-locales.mjs` 与 `locales/` | 组织语言文本、读取当前语言并更新显示；语言内容与运行规则分别维护。[模块分工](https://github.com/fivsevn/umwelt/blob/0bbe083943a4b307e38e3ea0de435d3d7864a345/isopoda/README.md) |
+| [20 数据存储](#tools-20) | `localStorage` 与 JSON | 网页版将进度等数据转换为 JSON 文本，写入浏览器本地存储，进入游戏时再读取；这是本地存档，不是云端账号数据库。[读写实现](https://github.com/fivsevn/umwelt/blob/0bbe083943a4b307e38e3ea0de435d3d7864a345/isopoda/game.js) |
+| [16 版本管理](#tools-16) | Git 与 GitHub 仓库 | 保存项目文件、修改记录和可定位的版本；这里固定引用的提交就是一个具体版本，而非游戏存档。[仓库版本](https://github.com/fivsevn/umwelt/tree/0bbe083943a4b307e38e3ea0de435d3d7864a345) |
+| [06 开发工具](#tools-06) · [18 测试](#tools-18) | Node.js、自动化测试与 Playwright 浏览器检查 | Node.js 执行规则和结构检查，浏览器测试检查交互、画面及存档等。它们是开发阶段的验证工具，不要求网页版玩家安装。[测试说明](https://github.com/fivsevn/umwelt/blob/0bbe083943a4b307e38e3ea0de435d3d7864a345/tests/README.md) |
+| [21 发布](#tools-21) · [24 资源加工](#tools-24) | GitHub Actions／Pages 发布流程 | 准备站点文件、处理字体子集和资源版本标识，再发布网页。发布流程不负责实时计算玩家的游戏规则。[发布说明](https://github.com/fivsevn/umwelt/blob/0bbe083943a4b307e38e3ea0de435d3d7864a345/isopoda/docs/deployment.md) |
+| [25 AI 辅助](#tools-25) | AI 辅助开发与维护 | 辅助程序实现、调试、资料整理和文档工作；主题、内容取舍与最终公开版本由作者决定和维护。[项目说明](https://github.com/fivsevn/umwelt/blob/0bbe083943a4b307e38e3ea0de435d3d7864a345/README.md) |
+
+表中列的是可以从项目代码和文档确认的实现，不是要求每一类都选一个品牌。当前材料不足以确定的代码编辑器、绘图软件或宣传工具，不作为已使用的工具填写。
+
+### 引擎、编辑器与运行程序的实际区别
+
+`engine.mjs` 是本项目的游戏逻辑文件，处理初始状态、交互记录和规则。文件名中有 `engine`，并不能单独证明它是一套可供其他作品使用的通用引擎。**这里更准确的区分是：`engine.mjs` 承担本游戏的规则处理，相关模块共同组成项目专用的运行系统。** [逻辑实现](https://github.com/fivsevn/umwelt/blob/0bbe083943a4b307e38e3ea0de435d3d7864a345/isopoda/engine.mjs)
+
+环境实验室则体现了编辑器的职责：作者在其中调整布置，导出 JSON 或分享代码，再通过开发流程将选定布局接入游戏。实验室里的编辑不会直接修改游戏存档或仓库，也不会自动发布到线上。**因此，环境实验室负责编辑布局，导出的数据记录布局，游戏程序负责使用已接入的布局并执行规则。** [编辑与发布边界](https://github.com/fivsevn/umwelt/blob/0bbe083943a4b307e38e3ea0de435d3d7864a345/isopoda/docs/laboratories.md#编辑与发布边界)
+
+存档与发布也属于两个环节。游戏在玩家浏览器中读写 `localStorage`；Pages 提供网页和资源文件，不替玩家保管这份本地进度。清除对应网站数据可能使存档丢失，本地存储本身也不提供跨设备同步。**因此，GitHub 保存开发版本，Pages 分发网页文件，浏览器本地存储保存该浏览器中的游玩进度。** [游戏读写](https://github.com/fivsevn/umwelt/blob/0bbe083943a4b307e38e3ea0de435d3d7864a345/isopoda/game.js) · [发布流程](https://github.com/fivsevn/umwelt/blob/0bbe083943a4b307e38e3ea0de435d3d7864a345/isopoda/docs/deployment.md) · [localStorage 说明](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
+
+### 本游戏的技术说明
+
+用于评论区的简短表述：
+
+> 原生 JavaScript + Canvas 2D 制作，没有采用 Unity、Godot 这类通用游戏引擎，游戏逻辑由项目自己的模块实现。
+
+用于项目介绍的完整表述：
+
+> 《等足目赋格》基于 HTML、CSS 和 JavaScript 开发，以 Canvas 2D 绘制场景，采用程序化像素绘制呈现动物形态与动作。交互、环境状态和叙事推进由项目自定义模块处理，网页版使用浏览器本地存储保存进度，通过 GitHub Pages 发布。开发过程中使用 AI 辅助实现与维护，作品方向和最终版本由作者决定。
+
+以上表述对应本节列出的代码和项目说明。**语言说明规则的编写方式，图形接口说明画面的绘制方式，运行模块说明游戏如何组织，发布服务说明文件如何交给玩家，AI 辅助则说明开发过程中的协作方式。**
+
+[返回用途分类](#map) · [返回个人笔记目录](../index.html)
