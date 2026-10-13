@@ -1,43 +1,42 @@
 ---
-id: posts-ai-discourse-analysis-002
+id: "posts-ai-discourse-analysis-002"
+title: "002｜AI 生成文本与沟通责任问题"
 
-title: 002｜AI 生成文本与沟通责任问题
+module: "posts"
+submodule: "ai-discourse-analysis"
+topic: "ai-chatbot-etiquette"
 
-module: posts
-submodule: ai-ai-discourse-analysis
-topic: ai-chatbot-etiquette
-
-type: article
-status: active
+type: "article"
+status: "active"
 canonical: true
 
-summary: >
-  对文章《Don't Make Me Talk to Your Chatbot》进行AI辅助结构分析，
-  讨论AI生成文本在公共交流中的沟通成本问题，以及“未经过滤的AI输出”
-  如何改变人与人交流的责任结构。
+summary: |
+  对文章《Don't Make Me Talk to Your Chatbot》进行AI辅助结构分析， 讨论AI生成文本在公共交流中的沟通成本问题，以及“未经过滤的AI输出” 如何改变人与人交流的责任结构。
 
 parents: []
 related: []
 
-tags: [
-  ai-analysis,
-  discourse,
-  communication,
-  ai-usage,
-  rhetoric
-]
+tags: ["ai-analysis", "discourse", "communication", "ai-usage", "rhetoric"]
 
-audience: [public]
-languages: [zh]
+audience: ["public"]
+languages: ["zh"]
 
-maturity: evolving
+maturity: "evolving"
 confidence: 0.93
 
-visibility: public
-source_of_truth: posts
+visibility: "public"
+source_of_truth: "devlog"
 
-created: 2026-03-04
-updated: 2026-03-04
+note: "保留现有文件名：展示目录或已发布链接使用该路径，本次不修改展示页；metadata id 继续作为内容身份。"
+legacy:
+  metadata:
+    submodule: ai-ai-discourse-analysis
+    source_of_truth: posts
+filename_policy: "stable-link"
+
+created: "2026-03-04"
+updated: "2026-03-04"
+metadata_updated: "2026-10-13"
 ---
 # 本期材料
 

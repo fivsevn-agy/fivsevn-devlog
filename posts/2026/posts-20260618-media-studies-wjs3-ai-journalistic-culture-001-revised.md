@@ -1,37 +1,44 @@
 ---
-id: posts-20260618-media-studies-wjs3-ai-journalistic-culture-001
-title: WJS3 核心问卷与 Kang et al. (2026) 的 39 个 GPT 提问题项
+id: "posts-20260618-media-studies-wjs3-ai-journalistic-culture-001"
+title: "WJS3 核心问卷与 Kang et al. (2026) 的 39 个 GPT 提问题项"
 
-module: posts
-submodule: media-studies
-topic: wjs-ai-journalistic-culture
+module: "posts"
+submodule: "2026"
+topic: "wjs-ai-journalistic-culture"
 
-type: note
-status: active
+type: "note"
+status: "active"
 canonical: true
 
-summary: >
+summary: |
   本文整理 WJS3 core questionnaire 的主要提问模块，以及 Kang et al. (2026) 用于询问 GPT-4o 的 39 个 WJS 新闻文化题项。
 
 parents: []
 related: []
 
-tags: [journalism, wjs, ai, gpt-4o, media-studies, survey-methods, journalistic-culture]
+tags: ["journalism", "wjs", "ai", "gpt-4o", "media-studies", "survey-methods", "journalistic-culture"]
 
-audience: [self, public]
-languages: [zh, en]
+audience: ["self", "public"]
+languages: ["zh", "en"]
 
-maturity: evolving
+maturity: "evolving"
 confidence: 0.82
 
-visibility: public
-source_of_truth: devlog
+visibility: "public"
+source_of_truth: "devlog"
 
-created: 2026-06-18
-updated: 2026-06-18
+note: "保留现有文件名：展示目录或已发布链接使用该路径，本次不修改展示页；metadata id 继续作为内容身份。"
+legacy:
+  metadata:
+    submodule: media-studies
+filename_policy: "stable-link"
+
+created: "2026-06-18"
+updated: "2026-06-18"
+metadata_updated: "2026-10-13"
 ---
 
-相关报道：[新闻机构应如何向受众标注 AI 使用？新研究给出了一些答案（译文）](2026/posts-journalism-ai-labeling-001.md)
+相关报道：[新闻机构应如何向受众标注 AI 使用？新研究给出了一些答案（译文）](posts-journalism-ai-labeling-001.md)
 
 # WJS3
 

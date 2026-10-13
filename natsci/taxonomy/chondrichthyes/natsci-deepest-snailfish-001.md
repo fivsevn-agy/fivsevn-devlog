@@ -1,42 +1,48 @@
 ---
-id: natsci-reading-deepest-snailfish-001
-title: 科学家在日本附近海床拍到迄今最深处的鱼类
+id: "natsci-reading-deepest-snailfish-001"
+title: "科学家在日本附近海床拍到迄今最深处的鱼类"
 
-module: natsci
-submodule: reading
-topic: deepest-snailfish
+module: "natsci"
+submodule: "taxonomy"
+topic: "deepest-snailfish"
 
-type: translation
-status: active
+type: "translation"
+status: "active"
 canonical: true
 
-summary: >
+summary: |
   本文翻译 CNN 关于科学家在日本附近深海海沟拍到迄今最深处鱼类影像的报道，介绍狮子鱼在极端深度环境中的记录、采样与生存特征。
 
 parents: []
 related: []
 
-tags: [deep-sea, snailfish, japan-trench, marine-biology, oceanography, hadal-zone]
+tags: ["deep-sea", "snailfish", "japan-trench", "marine-biology", "oceanography", "hadal-zone"]
 
-audience: [self, public]
-languages: [zh]
+audience: ["self", "public"]
+languages: ["zh"]
 
-maturity: stable
+maturity: "stable"
 confidence: 0.9
 
-visibility: public
-source_of_truth: translation
+visibility: "public"
+source_of_truth: "translation"
 
-original_title: Scientists film deepest ever fish on seabed off Japan
-original_source: CNN World / Asia
-original_publisher: CNN
-original_url: https://edition.cnn.com/2023/04/03/asia/deepest-fish-filmed-off-japan-scn-intl-hnk/index.html
-translation_note: >
-  本文为原文内容的中文翻译，仅用于学习与知识整理。
-  原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+original_title: "Scientists film deepest ever fish on seabed off Japan"
+original_source: "CNN World / Asia"
+original_publisher: "CNN"
+original_url: "https://edition.cnn.com/2023/04/03/asia/deepest-fish-filmed-off-japan-scn-intl-hnk/index.html"
+translation_note: |
+  本文为原文内容的中文翻译，仅用于学习与知识整理。 原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
 
-created: 2026-06-17
-updated: 2026-06-17
+note: "保留现有文件名：展示目录或已发布链接使用该路径，本次不修改展示页；metadata id 继续作为内容身份。"
+legacy:
+  metadata:
+    submodule: reading
+filename_policy: "stable-link"
+
+created: "2026-06-17"
+updated: "2026-06-17"
+metadata_updated: "2026-10-13"
 ---
 
 文章翻译

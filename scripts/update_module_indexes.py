@@ -2,6 +2,9 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 from pathlib import Path
+from datetime import date
+
+import yaml
 import re
 import sys
 
@@ -13,7 +16,7 @@ MODULES = {
         "index": "posts/index.md",
         "heading": "## Recent Posts",
         "marker": "POSTS_RECENT",
-        "exclude_dirs": {"assets", "_drafts", "ai-discourse-analysis"},
+        "exclude_dirs": {"assets", "_drafts", "_wordpress", "ai-discourse-analysis"},
     },
     "natsci": {
         "root": "natsci",
@@ -80,40 +83,20 @@ def strip_quotes(value: str) -> str:
 
 
 def parse_frontmatter(text: str) -> dict[str, str] | None:
-    """Parse simple YAML front matter using only the standard library.
-
-    It intentionally extracts only scalar `key: value` fields. That is enough for
-    title/module/status/type/created/date/updated/original_url.
-    """
-    lines = text.splitlines()
-
+    """Read real YAML scalars; quoting and multiline values retain their meaning."""
+    lines = text.lstrip("\ufeff").splitlines()
     if not lines or lines[0].strip() != "---":
         return None
-
-    end = None
-    for i in range(1, len(lines)):
-        if lines[i].strip() == "---":
-            end = i
-            break
-
+    end = next((i for i in range(1, len(lines)) if lines[i].strip() == "---"), None)
     if end is None:
         return None
-
-    fm: dict[str, str] = {}
-    for raw_line in lines[1:end]:
-        if not raw_line.strip() or raw_line.startswith((" ", "\t", "-")):
-            continue
-        if ":" not in raw_line:
-            continue
-
-        key, value = raw_line.split(":", 1)
-        key = key.strip()
-        value = strip_quotes(value)
-
-        if key:
-            fm[key] = value
-
-    return fm
+    try:
+        meta = yaml.safe_load("\n".join(lines[1:end])) or {}
+    except yaml.YAMLError:
+        return None
+    if not isinstance(meta, dict):
+        return None
+    return {str(k): str(v) for k, v in meta.items() if v is not None and not isinstance(v, (list, dict))}
 
 
 def normalize_date(value: str | None) -> str | None:
@@ -125,7 +108,10 @@ def normalize_date(value: str | None) -> str | None:
         return None
 
     year, month, day = match.groups()
-    return f"{int(year):04d}-{int(month):02d}-{int(day):02d}"
+    try:
+        return date(int(year), int(month), int(day)).isoformat()
+    except ValueError:
+        return None
 
 
 def get_note_date(fm: dict[str, str]) -> str | None:
@@ -272,7 +258,7 @@ def replace_between_markers(text: str, marker: str, body: str) -> tuple[str, boo
     replacement = f"{start}\n{body}\n{end}"
 
     if pattern.search(text):
-        return pattern.sub(replacement, text), True
+        return pattern.sub(lambda _: replacement, text), True
 
     return text, False
 

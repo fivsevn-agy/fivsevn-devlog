@@ -1,34 +1,38 @@
 ---
-id: blogops-docs-auto-translation-shortcut-001
-title: 自动翻译快捷流程说明
+id: "blogops-docs-auto-translation-shortcut-001"
+title: "自动翻译快捷流程说明"
 
-module: blogops
-submodule: docs
-topic: auto-translation-shortcut
+module: "blogops"
+submodule: "docs"
+topic: "auto-translation-shortcut"
 
-type: note
-status: active
+type: "note"
+status: "active"
 canonical: true
 
-summary: >
+summary: |
   说明 自动翻译快捷流程说明 的使用场景、操作流程与维护规则。
 
 parents: []
-related: [spec-content-translation-001, spec-content-frontmatter-001]
+related: ["spec-content-translation-001", "spec-content-frontmatter-001"]
 
-tags: [blogops, docs, translation, shortcuts, automation]
+tags: ["blogops", "docs", "translation", "shortcuts", "automation"]
 
-audience: [self, internal]
-languages: [zh]
+audience: ["self", "internal"]
+languages: ["zh"]
 
-maturity: stable
+maturity: "stable"
 confidence: 0.9
 
-visibility: public
-source_of_truth: devlog
+visibility: "public"
+source_of_truth: "devlog"
 
-created: 2026-06-15
-updated: 2026-06-15
+note: "保留现有文件名：展示目录或已发布链接使用该路径，本次不修改展示页；metadata id 继续作为内容身份。"
+filename_policy: "stable-link"
+
+created: "2026-06-15"
+updated: "2026-06-15"
+metadata_updated: "2026-10-13"
 ---
 
 # Auto Translation Shortcut Workflow

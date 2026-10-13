@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import re
+import json
 
 from datetime import date
 from pathlib import Path
@@ -53,7 +54,7 @@ def next_draft_id(module: str, draft_dir: Path, today: str) -> str:
 def make_frontmatter(module: str, doc_id: str, title: str, today: str) -> str:
     return f"""---
 id: {doc_id}
-title: {title}
+title: {json.dumps(title, ensure_ascii=False)}
 
 module: {module}
 submodule: drafts

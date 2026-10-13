@@ -1,37 +1,47 @@
 ---
-id: netcom-architecture-four-layer-model-001
-title: 网络通信的四层模型（以 Meshtastic 为例）
+id: "netcom-architecture-four-layer-model-001"
+title: "网络通信的四层模型（以 Meshtastic 为例）"
 
-module: netcom
-submodule: architecture
-topic: layered-communication-model
+module: "netcom"
+submodule: "architecture"
+topic: "layered-communication-model"
 
-type: article
-status: active
+type: "article"
+status: "active"
 canonical: true
 
-summary: >
-  以 Meshtastic 为案例，
-  从物理层、链路层、网络层与应用层四个维度，
-  拆解无线通信系统的结构逻辑。
-  强调工程分层与实际参数之间的对应关系。
+summary: |
+  以 Meshtastic 为案例， 从物理层、链路层、网络层与应用层四个维度， 拆解无线通信系统的结构逻辑。 强调工程分层与实际参数之间的对应关系。
 
-parents: [netcom-module-map]
-related: [netcom-lora-meshtastic-001]
+parents: ["netcom-index"]
+related: []
 
-tags: [netcom, architecture, layered-model, meshtastic, lora]
+tags: ["netcom", "architecture", "layered-model", "meshtastic", "lora"]
 
-audience: [public]
-languages: [zh]
+audience: ["public"]
+languages: ["zh"]
 
-maturity: stable
+maturity: "stable"
 confidence: 0.98
 
-visibility: public
-source_of_truth: devlog
+visibility: "public"
+source_of_truth: "devlog"
 
-created: 2025-11-22
-updated: 2026-03-01
+note: "保留现有文件名：展示目录或已发布链接使用该路径，本次不修改展示页；metadata id 继续作为内容身份。"
+legacy:
+  metadata:
+    parents:
+    - netcom-module-map
+    related:
+    - netcom-lora-meshtastic-001
+  unresolved_relations:
+    related:
+    - netcom-lora-meshtastic-001
+filename_policy: "stable-link"
+
+created: "2025-11-22"
+updated: "2026-03-01"
+metadata_updated: "2026-10-13"
 ---
 ## 网络通信的四层（类比大型时尚品牌的完整运作体系）
 

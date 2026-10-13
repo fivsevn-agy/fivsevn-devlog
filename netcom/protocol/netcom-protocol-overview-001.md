@@ -1,36 +1,40 @@
 ---
-id: netcom-protocol-overview-001
-title: 协议（Protocol）的基本结构与分类
+id: "netcom-protocol-overview-001"
+title: "协议（Protocol）的基本结构与分类"
 
-module: netcom
-submodule: protocol
-topic: protocol-concept
+module: "netcom"
+submodule: "protocol"
+topic: "protocol-concept"
 
-type: article
-status: active
+type: "article"
+status: "active"
 canonical: true
 
-summary: >
-  梳理协议在工程语境中的基本含义，
-  区分不同层级与类型的协议，
-  为理解网络与通信系统结构提供概念框架。
+summary: |
+  梳理协议在工程语境中的基本含义， 区分不同层级与类型的协议， 为理解网络与通信系统结构提供概念框架。
 
-parents: [netcom-module-map]
-related: [netcom-methods-spec-concept-001, netcom-architecture-four-layer-model-001]
+parents: ["netcom-index"]
+related: ["netcom-methods-spec-concept-001", "netcom-architecture-four-layer-model-001"]
 
-tags: [netcom, protocol, networking]
+tags: ["netcom", "protocol", "networking"]
 
-audience: [public]
-languages: [zh]
+audience: ["public"]
+languages: ["zh"]
 
-maturity: evolving
+maturity: "evolving"
 confidence: 0.95
 
-visibility: public
-source_of_truth: devlog
+visibility: "public"
+source_of_truth: "devlog"
 
-created: 2025-12-16
-updated: 2026-03-01
+legacy:
+  metadata:
+    parents:
+    - netcom-module-map
+
+created: "2025-12-16"
+updated: "2026-03-01"
+metadata_updated: "2026-10-13"
 ---
 ## 协议（protocol）
 

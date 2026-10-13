@@ -1,35 +1,39 @@
 ---
-id: posts-20260222-speluncean-001
-title: 《洞穴奇案》速记与立场对照
+id: "posts-20260222-speluncean-001"
+title: "《洞穴奇案》速记与立场对照"
 
-module: posts
-submodule: reading
-topic: legal-philosophy-case
+module: "posts"
+submodule: "2026"
+topic: "legal-philosophy-case"
 
-type: article
-status: active
+type: "article"
+status: "active"
 canonical: true
 
-summary: >
-  对《The Case of the Speluncean Explorers》原版与扩展版法官意见进行结构化速记，
-  梳理法律实证主义、自然法、现实主义与后续流派的分歧逻辑。
+summary: |
+  对《The Case of the Speluncean Explorers》原版与扩展版法官意见进行结构化速记， 梳理法律实证主义、自然法、现实主义与后续流派的分歧逻辑。
 
-parents: [posts-index]
+parents: ["posts-index"]
 related: []
 
-tags: [posts, reading, law, philosophy, case-study]
+tags: ["posts", "reading", "law", "philosophy", "case-study"]
 
-audience: [public]
-languages: [zh]
+audience: ["public"]
+languages: ["zh"]
 
-maturity: stable
+maturity: "stable"
 confidence: 1.0
 
-visibility: public
-source_of_truth: devlog
+visibility: "public"
+source_of_truth: "devlog"
 
-created: 2026-02-22
-updated: 2026-03-01
+legacy:
+  metadata:
+    submodule: reading
+
+created: "2026-02-22"
+updated: "2026-03-01"
+metadata_updated: "2026-10-13"
 ---
 
 ## 《洞穴奇案》速记

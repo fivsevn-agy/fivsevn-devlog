@@ -1,45 +1,46 @@
 ---
-id: natsci-arthropod-arota-festae-001
-title: 粉色螽斯模拟延迟变绿
+id: "natsci-arthropod-arota-festae-001"
+title: "粉色螽斯模拟延迟变绿"
 
-module: natsci
-submodule: arthropod
-topic: arota-festae
+module: "natsci"
+submodule: "taxonomy"
+topic: "arota-festae"
 
-type: translation
-status: active
+type: "translation"
+status: "active"
 canonical: true
 
-summary: >
-  研究人员发现一种热带螽斯能够在约两周内从亮粉色变为绿色，
-  这种颜色变化可能用于模拟热带雨林植物“延迟变绿”的新叶，
-  从而实现动态伪装。
-
+summary: |
+  研究人员发现一种热带螽斯能够在约两周内从亮粉色变为绿色， 这种颜色变化可能用于模拟热带雨林植物“延迟变绿”的新叶， 从而实现动态伪装。
 
 parents: []
 related: []
 
-tags: [entomology, katydid, camouflage, rainforest, color-change, neotropics, arthropods]
+tags: ["entomology", "katydid", "camouflage", "rainforest", "color-change", "neotropics", "arthropods"]
 
-audience: [self, public]
-languages: [zh]
+audience: ["self", "public"]
+languages: ["zh"]
 
-maturity: stable
+maturity: "stable"
 confidence: 0.9
 
-visibility: public
-source_of_truth: translation
+visibility: "public"
+source_of_truth: "translation"
 
-original_title: Bright pink insect stands out to blend in, scientists say
-original_source: Phys.org / University of Reading
-original_publisher: University of Reading / Phys.org
-original_url: https://phys.org/news/2026-03-bright-pink-insect-blend-scientists.html
-translation_note: >
-  本文为原文内容的中文翻译，仅用于学习与知识整理。
-  原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+original_title: "Bright pink insect stands out to blend in, scientists say"
+original_source: "Phys.org / University of Reading"
+original_publisher: "University of Reading / Phys.org"
+original_url: "https://phys.org/news/2026-03-bright-pink-insect-blend-scientists.html"
+translation_note: |
+  本文为原文内容的中文翻译，仅用于学习与知识整理。 原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
 
-created: 2026-01-01
-updated: 2026-01-01
+legacy:
+  metadata:
+    submodule: arthropod
+
+created: "2026-01-01"
+updated: "2026-01-01"
+metadata_updated: "2026-10-13"
 ---
 
 ## 文章翻译

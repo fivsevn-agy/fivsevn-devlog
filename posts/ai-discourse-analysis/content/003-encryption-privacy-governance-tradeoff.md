@@ -1,44 +1,41 @@
 ---
-id: posts-ai-discourse-analysis-003
+id: "posts-ai-discourse-analysis-003"
+title: "003｜端到端加密、平台治理与通信系统的结构性权衡"
 
-title: 003｜端到端加密、平台治理与通信系统的结构性权衡
+module: "posts"
+submodule: "ai-discourse-analysis"
+topic: "encryption-privacy-governance-tradeoff"
 
-module: posts
-submodule: ai-discourse-analysis
-topic: encryption-privacy-governance-tradeoff
-
-type: article
-status: active
+type: "article"
+status: "active"
 canonical: true
 
-summary: >
-  以 TikTok 私信是否采用端到端加密的讨论为例，
-  分析通信系统在隐私、平台治理与工程成本之间的结构性权衡，
-  并梳理不同组织在这些目标组合上的典型选择。
+summary: |
+  以 TikTok 私信是否采用端到端加密的讨论为例， 分析通信系统在隐私、平台治理与工程成本之间的结构性权衡， 并梳理不同组织在这些目标组合上的典型选择。
 
 parents: []
 related: []
 
-tags: [
-  ai-analysis,
-  discourse,
-  encryption,
-  privacy,
-  platform-governance,
-  system-design
-]
+tags: ["ai-analysis", "discourse", "encryption", "privacy", "platform-governance", "system-design"]
 
-audience: [public]
-languages: [zh]
+audience: ["public"]
+languages: ["zh"]
 
-maturity: evolving
+maturity: "evolving"
 confidence: 0.91
 
-visibility: public
-source_of_truth: posts
+visibility: "public"
+source_of_truth: "devlog"
 
-created: 2026-03-04
-updated: 2026-03-04
+note: "保留现有文件名：展示目录或已发布链接使用该路径，本次不修改展示页；metadata id 继续作为内容身份。"
+legacy:
+  metadata:
+    source_of_truth: posts
+filename_policy: "stable-link"
+
+created: "2026-03-04"
+updated: "2026-03-04"
+metadata_updated: "2026-10-13"
 ---
 # 本期材料
 

@@ -1,37 +1,74 @@
 ---
-id: posts-2025-03-17-廷巴克图
-title: 廷巴克图
+id: "posts-20250317-timbuktu-001"
+title: "廷巴克图"
 
-module: posts
-submodule: 2025
-topic: legacy-wordpress
+module: "posts"
+submodule: "2025"
+topic: "legacy-wordpress"
 
-type: note
-status: active
+type: "note"
+status: "active"
 canonical: false
 
-summary: >
-  Timbuktu/Timbuctoo/Tambutum
+summary: "汇集廷巴克图的地名意象、历史、手稿保护与相关外文资料。"
 
 parents: []
 related: []
 
-tags: [posts, agatha, timbuktu]
+tags: ["posts", "agatha", "timbuktu"]
 
-audience: [public]
-languages: [zh]
+audience: ["public"]
+languages: ["zh"]
 
-maturity: stable
+maturity: "stable"
 confidence: 0.9
 
-visibility: public
-source_of_truth: external
+visibility: "public"
+source_of_truth: "external"
 
-original_source: WordPress
-original_url: https://fivsevn.home.blog/2025/03/17/%e5%bb%b7%e5%b7%b4%e5%85%8b%e5%9b%be/
+original_title: "廷巴克图"
+original_source: "WordPress"
+original_publisher: "五月七日"
+original_url: "https://fivsevn.home.blog/2025/03/17/%e5%bb%b7%e5%b7%b4%e5%85%8b%e5%9b%be/"
 
-created: 2025-03-17
-updated: 2025-03-29
+subtitle: "Timbuktu/Timbuctoo/Tambutum"
+references:
+- section: 相关作者
+  text: Agatha Christie（阿加莎·克里斯蒂）December 15, 1890 – January 12, 1976
+- section: 参考版本
+  text: '阿加莎克里斯蒂. 罗杰疑案[M]. 常禾, 译. 北京: 新星出版社, 2013. (原作出版于 1926 年) Christie, A. (1926). The murder of Roger Ackroyd. William
+    Collins, Sons.'
+- section: 其他参考
+  text: Etymology Online. (2024, April 15)._Timbuktu | Etymology of the name Timbuktu_. Retrieved March 16, 2025, from[https://www.etymonline.com/word/Timbuktu](https://www.etymonline.com/word/Timbuktu)
+- section: 其他参考
+  text: 'Geoghegan, T. (2012, April 3)._Who, what, why: Why do we know Timbuktu?_ BBC News. Retrieved March 17, 2025, from[https://www.bbc.co.uk/news/magazine-17583772](https://www.bbc.co.uk/news/magazine-17583772)'
+- section: 其他参考
+  text: 'Smith, A. D. (2014, September 16)._Life in Timbuktu: How the ancient city of gold is slowly turning to dust_. The
+    Guardian.[https://www.theguardian.com/cities/2014/sep/16/-sp-life-timbuktu-mali-ancient-city-gold-slowly-turning-to-dust](https://www.theguardian.com/cities/2014/sep/16/-sp-life-timbuktu-mali-ancient-city-gold-slowly-turning-to-dust)'
+- section: 其他参考
+  text: The Editors of Encyclopaedia Britannica. (2025, March 16)._Timbuktu | History, Map, Population, & Facts_. Encyclopaedia
+    Britannica. Retrieved from[https://www.britannica.com/place/Timbuktu-Mali](https://www.britannica.com/place/Timbuktu-Mali)
+- section: 其他参考
+  text: 'Neuman, S. (2013, January 29)._From here to Timbuktu: Myth and reality at the world’s edge_. NPR.[https://www.npr.org/2013/01/29/170562921/from-here-to-timbuktu-myth-and-reality-at-the-world-s-edge](https://www.npr.org/2013/01/29/170562921/from-here-to-timbuktu-myth-and-reality-at-the-world-s-edge)'
+- section: 其他参考
+  text: Understanding Slavery Initiative. (n.d.)._The lost libraries of Timbuktu_. Understanding Slavery Initiative. Retrieved
+    March 17, 2025, from[https://understandingslavery.com/casestudy/the-lost-libraries-of-timbuktu/](https://understandingslavery.com/casestudy/the-lost-libraries-of-timbuktu/)
+note: "旧 WordPress 存档；保留原文、图片链接、异名及参考资料的原有表达，未扩写正文。"
+aliases: ["posts-2025-03-17-廷巴克图"]
+legacy:
+  metadata:
+    id: posts-2025-03-17-廷巴克图
+    submodule: 2025
+    summary: 'Timbuktu/Timbuctoo/Tambutum
+
+      '
+  path: posts/2025/2025-03-17-廷巴克图.md
+
+permalink: "/posts/2025/2025-03-17-廷巴克图.html"
+
+created: "2025-03-17"
+updated: "2025-03-29"
+metadata_updated: "2026-10-13"
 ---
 Timbuktu/Timbuctoo/Tambutum
 

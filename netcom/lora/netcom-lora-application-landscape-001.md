@@ -1,36 +1,40 @@
 ---
-id: netcom-lora-application-landscape-001
-title: LoRa 开发板的应用场景与系统组合方式
+id: "netcom-lora-application-landscape-001"
+title: "LoRa 开发板的应用场景与系统组合方式"
 
-module: netcom
-submodule: lora
-topic: application-landscape
+module: "netcom"
+submodule: "lora"
+topic: "application-landscape"
 
-type: article
-status: active
+type: "article"
+status: "active"
 canonical: true
 
-summary: >
-  以开发板为核心，梳理 LoRa 系统的硬件组合方式、
-  固件层与应用层之间的关系，
-  并列举常见应用场景与技术能力结构。
+summary: |
+  以开发板为核心，梳理 LoRa 系统的硬件组合方式、 固件层与应用层之间的关系， 并列举常见应用场景与技术能力结构。
 
-parents: [netcom-module-map]
-related: [netcom-lora-modulation-overview-001, netcom-lora-meshtastic-structure-001]
+parents: ["netcom-index"]
+related: ["netcom-lora-modulation-overview-001", "netcom-lora-meshtastic-structure-001"]
 
-tags: [netcom, lora, meshtastic, hardware-architecture, application]
+tags: ["netcom", "lora", "meshtastic", "hardware-architecture", "application"]
 
-audience: [public]
-languages: [zh]
+audience: ["public"]
+languages: ["zh"]
 
-maturity: evolving
+maturity: "evolving"
 confidence: 0.96
 
-visibility: public
-source_of_truth: devlog
+visibility: "public"
+source_of_truth: "devlog"
 
-created: 2025-11-23
-updated: 2026-03-01
+legacy:
+  metadata:
+    parents:
+    - netcom-module-map
+
+created: "2025-11-23"
+updated: "2026-03-01"
+metadata_updated: "2026-10-13"
 ---
 ## LoRa开发板可以做些什么
 

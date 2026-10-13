@@ -1,43 +1,46 @@
 ---
-id: posts-literature-tolkien-fairy-stories-001
-title: J.R.R. 托尔金论童话、语言、幻想心理学，以及为何不存在“为儿童”而写
+id: "posts-literature-tolkien-fairy-stories-001"
+title: "J.R.R. 托尔金论童话、语言、幻想心理学，以及为何不存在“为儿童”而写"
 
-module: posts
-submodule: literature
-topic: tolkien-fairy-stories
+module: "posts"
+submodule: "2026"
+topic: "tolkien-fairy-stories"
 
-type: translation
-status: active
+type: "translation"
+status: "active"
 canonical: true
 
-summary: >
-  本文围绕 J.R.R. 托尔金《论童话故事》的核心观点，讨论童话与语言、幻想、艺术和儿童文学标签之间的关系。
-  文章强调童话并非天然“为儿童”而写，幻想也不是理性的反面，而是一种高度纯粹且困难的艺术形式。
+summary: |
+  本文围绕 J.R.R. 托尔金《论童话故事》的核心观点，讨论童话与语言、幻想、艺术和儿童文学标签之间的关系。 文章强调童话并非天然“为儿童”而写，幻想也不是理性的反面，而是一种高度纯粹且困难的艺术形式。
 
 parents: []
 related: []
 
-tags: [tolkien, fairy-tales, fantasy, literature, language, children, art]
+tags: ["tolkien", "fairy-tales", "fantasy", "literature", "language", "children", "art"]
 
-audience: [self, public]
-languages: [zh]
+audience: ["self", "public"]
+languages: ["zh"]
 
-maturity: stable
+maturity: "stable"
 confidence: 0.9
 
-visibility: public
-source_of_truth: translation
+visibility: "public"
+source_of_truth: "translation"
 
-original_title: J.R.R. Tolkien on Fairy Tales, Language, the Psychology of Fantasy, and Why There’s No Such Thing as Writing “For Children”
-original_source: The Marginalian
-original_publisher: Maria Popova / The Marginalian
-original_url: https://www.themarginalian.org/2026/06/06/j-r-r-tolkien-on-fairy-stories/
-translation_note: >
-  本文为原文内容的中文翻译，仅用于学习与知识整理。
-  原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+original_title: "J.R.R. Tolkien on Fairy Tales, Language, the Psychology of Fantasy, and Why There’s No Such Thing as Writing “For Children”"
+original_source: "The Marginalian"
+original_publisher: "Maria Popova / The Marginalian"
+original_url: "https://www.themarginalian.org/2026/06/06/j-r-r-tolkien-on-fairy-stories/"
+translation_note: |
+  本文为原文内容的中文翻译，仅用于学习与知识整理。 原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
 
-created: 2026-06-08
-updated: 2026-06-08
+legacy:
+  metadata:
+    submodule: literature
+
+created: "2026-06-08"
+updated: "2026-06-08"
+metadata_updated: "2026-10-13"
 ---
 
 ## 文章翻译

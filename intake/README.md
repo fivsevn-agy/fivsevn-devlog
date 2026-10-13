@@ -1,3 +1,38 @@
+---
+id: "intake-readme"
+title: "Intake"
+
+module: "intake"
+submodule: "guide"
+topic: "guide"
+
+type: "note"
+status: "active"
+canonical: true
+
+summary: "说明Intake。"
+
+parents: []
+related: []
+
+tags: []
+
+audience: ["self", "internal"]
+languages: ["zh"]
+
+maturity: "evolving"
+confidence: null
+
+visibility: "public"
+source_of_truth: "devlog"
+
+note: "未记录原始写作日期；created 为本路径首次 Git 记录日期，无法合理确定时留空。"
+filename_policy: "entrypoint"
+
+created: "2026-06-03"
+updated: "2026-10-13"
+metadata_updated: "2026-10-13"
+---
 # Intake
 
 `intake/` generates the [public daily intake page](https://devlog.fivsevn.com/intake/).

@@ -1,37 +1,52 @@
 ---
-id: posts-2025-03-18-绿化带射灯
-title: 绿化带射灯
+id: "posts-20250318-ground-light-001"
+title: "绿化带射灯"
 
-module: posts
-submodule: 2025
-topic: legacy-wordpress
+module: "posts"
+submodule: "2025"
+topic: "legacy-wordpress"
 
-type: note
-status: active
+type: "note"
+status: "active"
 canonical: false
 
-summary: >
-  绿化带奇怪射灯
+summary: "记录绿化带射灯及其照明场景。"
 
 parents: []
 related: []
 
-tags: [posts, daily]
+tags: ["posts", "daily"]
 
-audience: [public]
-languages: [zh]
+audience: ["public"]
+languages: ["zh"]
 
-maturity: stable
+maturity: "stable"
 confidence: 0.9
 
-visibility: public
-source_of_truth: external
+visibility: "public"
+source_of_truth: "external"
 
-original_source: WordPress
-original_url: https://fivsevn.home.blog/2025/03/18/%e8%8d%89%e5%9d%aa%e5%b0%84%e7%81%af/
+original_title: "绿化带射灯"
+original_source: "WordPress"
+original_publisher: "五月七日"
+original_url: "https://fivsevn.home.blog/2025/03/18/%e8%8d%89%e5%9d%aa%e5%b0%84%e7%81%af/"
 
-created: 2025-03-18
-updated: 2025-03-29
+note: "旧 WordPress 存档；保留原文、图片链接、异名及参考资料的原有表达，未扩写正文。"
+aliases: ["posts-2025-03-18-绿化带射灯"]
+legacy:
+  metadata:
+    id: posts-2025-03-18-绿化带射灯
+    submodule: 2025
+    summary: '绿化带奇怪射灯
+
+      '
+  path: posts/2025/2025-03-18-绿化带射灯.md
+
+permalink: "/posts/2025/2025-03-18-绿化带射灯.html"
+
+created: "2025-03-18"
+updated: "2025-03-29"
+metadata_updated: "2026-10-13"
 ---
 ![Image 5](https://cdn.jsdelivr.net/gh/fivsevn/fivsevn-assets/post/2025/202503/20250318spotlight00hellospotlight.jpeg)![Image 6](https://cdn.jsdelivr.net/gh/fivsevn/fivsevn-assets/post/2025/202503/20250318spotlight00hellospotlight.jpeg)![Image 7](https://cdn.jsdelivr.net/gh/fivsevn/fivsevn-assets/post/2025/202503/20250318spotlight00hellospotlight.jpeg)![Image 8](https://cdn.jsdelivr.net/gh/fivsevn/fivsevn-assets/post/2025/202503/20250318spotlight00hellospotlight.jpeg)![Image 9](https://cdn.jsdelivr.net/gh/fivsevn/fivsevn-assets/post/2025/202503/20250318spotlight00hellospotlight.jpeg)![Image 10](https://cdn.jsdelivr.net/gh/fivsevn/fivsevn-assets/post/2025/202503/20250318spotlight00hellospotlight.jpeg)![Image 11](https://cdn.jsdelivr.net/gh/fivsevn/fivsevn-assets/post/2025/202503/20250318spotlight00hellospotlight.jpeg)
 

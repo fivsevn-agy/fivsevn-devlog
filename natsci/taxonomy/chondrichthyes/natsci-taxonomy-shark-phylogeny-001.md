@@ -1,45 +1,42 @@
 ---
-id: natsci-taxonomy-shark-phylogeny-001
-title: 世界上其实没有“鲨鱼”？基因组研究撼动海洋顶级捕食者的家族谱系
+id: "natsci-taxonomy-shark-phylogeny-001"
+title: "世界上其实没有“鲨鱼”？基因组研究撼动海洋顶级捕食者的家族谱系"
 
-module: natsci
-submodule: taxonomy
-topic: shark-phylogeny
+module: "natsci"
+submodule: "taxonomy"
+topic: "shark-phylogeny"
 
-type: translation
-status: active
+type: "translation"
+status: "active"
 canonical: true
 
-summary: >
-  对 Nature 新闻文章 “No such thing as a shark? Genomes shake up ocean predator’s family tree”
-  的完整中文翻译。文章讨论新的基因组研究如何挑战传统鲨鱼分类体系，
-  并提出鲨鱼可能是并系群（paraphyletic group）的假说。
-
+summary: |
+  对 Nature 新闻文章 “No such thing as a shark? Genomes shake up ocean predator’s family tree” 的完整中文翻译。文章讨论新的基因组研究如何挑战传统鲨鱼分类体系， 并提出鲨鱼可能是并系群（paraphyletic group）的假说。
 
 parents: []
 related: []
 
-tags: [shark, phylogeny, evolution, chondrichthyes, taxonomy]
+tags: ["shark", "phylogeny", "evolution", "chondrichthyes", "taxonomy"]
 
-audience: [self, public]
-languages: [zh]
+audience: ["self", "public"]
+languages: ["zh"]
 
-maturity: stable
+maturity: "stable"
 confidence: 0.9
 
-visibility: public
-source_of_truth: translation
+visibility: "public"
+source_of_truth: "translation"
 
 original_title: "No such thing as a shark? Genomes shake up ocean predator’s family tree"
-original_source: Nature
-original_publisher: Nature
-original_url: https://www.nature.com/articles/d41586-026-00594-w
-translation_note: >
-  本文为原文内容的中文翻译，仅用于学习与知识整理。
-  原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+original_source: "Nature"
+original_publisher: "Nature"
+original_url: "https://www.nature.com/articles/d41586-026-00594-w"
+translation_note: |
+  本文为原文内容的中文翻译，仅用于学习与知识整理。 原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
 
-created: 2026-03-13
-updated: 2026-03-13
+created: "2026-03-13"
+updated: "2026-03-13"
+metadata_updated: "2026-10-13"
 ---
 
 ## 文章翻译

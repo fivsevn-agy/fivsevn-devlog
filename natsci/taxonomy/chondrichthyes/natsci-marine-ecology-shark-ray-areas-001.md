@@ -1,44 +1,46 @@
 ---
-id: natsci-marine-ecology-shark-ray-areas-001
-title: 澳大利亚被纳入全球鲨鱼与鳐类重要栖息地数据库
+id: "natsci-marine-ecology-shark-ray-areas-001"
+title: "澳大利亚被纳入全球鲨鱼与鳐类重要栖息地数据库"
 
-module: natsci
-submodule: marine-ecology
-topic: sharks-rays-isra
+module: "natsci"
+submodule: "taxonomy"
+topic: "sharks-rays-isra"
 
-type: translation
-status: active
+type: "translation"
+status: "active"
 canonical: true
 
-summary: >
-  一项全球鲨鱼、鳐类和银鲛关键栖息地数据库扩展至澳大利亚。
-  研究人员利用多年数据划定重要栖息区域，为未来海洋保护和政策制定提供科学依据。
-
+summary: |
+  一项全球鲨鱼、鳐类和银鲛关键栖息地数据库扩展至澳大利亚。 研究人员利用多年数据划定重要栖息区域，为未来海洋保护和政策制定提供科学依据。
 
 parents: []
 related: []
 
-tags: [sharks, rays, marine-conservation, ISRA, Australia, marine-ecology]
+tags: ["sharks", "rays", "marine-conservation", "ISRA", "Australia", "marine-ecology"]
 
-audience: [self, public]
-languages: [zh]
+audience: ["self", "public"]
+languages: ["zh"]
 
-maturity: stable
+maturity: "stable"
 confidence: 0.9
 
-visibility: public
-source_of_truth: translation
+visibility: "public"
+source_of_truth: "translation"
 
-original_title: Australia added to global sharks and rays database
-original_source: Phys.org / Charles Darwin University
-original_publisher: Charles Darwin University / Phys.org
-original_url: https://phys.org/news/2026-03-australia-added-global-sharks-rays.html
-translation_note: >
-  本文为原文内容的中文翻译，仅用于学习与知识整理。
-  原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+original_title: "Australia added to global sharks and rays database"
+original_source: "Phys.org / Charles Darwin University"
+original_publisher: "Charles Darwin University / Phys.org"
+original_url: "https://phys.org/news/2026-03-australia-added-global-sharks-rays.html"
+translation_note: |
+  本文为原文内容的中文翻译，仅用于学习与知识整理。 原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
 
-created: 2026-03-14
-updated: 2026-03-14
+legacy:
+  metadata:
+    submodule: marine-ecology
+
+created: "2026-03-14"
+updated: "2026-03-14"
+metadata_updated: "2026-10-13"
 ---
 
 ## 文章翻译

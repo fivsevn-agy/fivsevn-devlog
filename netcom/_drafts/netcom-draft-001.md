@@ -1,33 +1,34 @@
 ---
-id: netcom-draft-001
-title: TODO
+id: "netcom-draft-001"
+title: "TODO"
 
-module: netcom
-submodule: drafts
-topic: draft
+module: "netcom"
+submodule: "drafts"
+topic: "draft"
 
-type: note
-status: hidden
+type: "note"
+status: "hidden"
 canonical: true
 
-summary: TODO
+summary: "TODO"
 
 parents: []
 related: []
 
-tags: [netcom]
+tags: ["netcom"]
 
-audience: [self]
-languages: [zh]
+audience: ["self"]
+languages: ["zh"]
 
-maturity: draft
+maturity: "draft"
 confidence: 0.0
 
-visibility: private
-source_of_truth: devlog
+visibility: "private"
+source_of_truth: "devlog"
 
-created: 2026-06-12
-updated: 2026-06-12
+created: "2026-06-12"
+updated: "2026-06-12"
+metadata_updated: "2026-10-13"
 ---
 
   
