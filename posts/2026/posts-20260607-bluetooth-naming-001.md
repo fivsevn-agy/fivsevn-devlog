@@ -1,34 +1,39 @@
 ---
-id: posts-20260607-bluetooth-naming-001
-title: 蓝牙技术命名
+id: "posts-20260607-bluetooth-naming-001"
+title: "蓝牙技术命名"
 
-module: posts
-submodule: reference
-topic: bluetooth-naming
+module: "posts"
+submodule: "2026"
+topic: "bluetooth-naming"
 
-type: note
-status: active
+type: "note"
+status: "active"
 canonical: true
 
-summary: >
+summary: |
   整理蓝牙技术命名来源相关参考，包括 Bluetooth SIG、Jim Kardach、Intel、Jelling Stones、UNESCO 与 Britannica 等来源。
 
-parents: [posts-index]
-related: [netcom-bluetooth-naming-001]
+parents: ["posts-index"]
+related: ["netcom-bluetooth-naming-001"]
 
-tags: [posts, bluetooth, naming, technology, history, jelling]
+tags: ["posts", "bluetooth", "naming", "technology", "history", "jelling"]
 
-audience: [public]
-languages: [zh]
+audience: ["public"]
+languages: ["zh"]
 
-maturity: evolving
+maturity: "evolving"
 confidence: 0.8
 
-visibility: public
-source_of_truth: devlog
+visibility: "public"
+source_of_truth: "devlog"
 
-created: 2026-06-07
-updated: 2026-06-07
+legacy:
+  metadata:
+    submodule: reference
+
+created: "2026-06-07"
+updated: "2026-06-07"
+metadata_updated: "2026-10-13"
 ---
 
 ## 蓝牙技术命名

@@ -1,35 +1,35 @@
 ---
-id: netcom-rf-spectrum-bands-001
-title: 电磁波频段俗称与工程命名体系
+id: "netcom-rf-spectrum-bands-001"
+title: "电磁波频段俗称与工程命名体系"
 
-module: netcom
-submodule: rf
-topic: spectrum-band-classification
+module: "netcom"
+submodule: "rf"
+topic: "spectrum-band-classification"
 
-type: article
-status: active
+type: "article"
+status: "active"
 canonical: true
 
-summary: >
-  对比 ITU 频段命名与微波产业命名体系，
-  并结合常见协议与设备进行对应说明。
+summary: |
+  对比 ITU 频段命名与微波产业命名体系， 并结合常见协议与设备进行对应说明。
 
-parents: [netcom-rf-spectrum-overview-001]
-related: [netcom-rf-antenna-overview-001]
+parents: ["netcom-rf-spectrum-overview-001"]
+related: ["netcom-rf-antenna-overview-001"]
 
-tags: [netcom, rf, spectrum, band]
+tags: ["netcom", "rf", "spectrum", "band"]
 
-audience: [public]
-languages: [zh]
+audience: ["public"]
+languages: ["zh"]
 
-maturity: stable
+maturity: "stable"
 confidence: 0.98
 
-visibility: public
-source_of_truth: devlog
+visibility: "public"
+source_of_truth: "devlog"
 
-created: 2025-12-02
-updated: 2026-03-01
+created: "2025-12-02"
+updated: "2026-03-01"
+metadata_updated: "2026-10-13"
 ---
 ## 电磁波频段俗称表
 

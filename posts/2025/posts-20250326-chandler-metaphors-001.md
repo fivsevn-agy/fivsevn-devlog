@@ -1,37 +1,60 @@
 ---
-id: posts-2025-03-26-rayray的奇妙比喻
-title: RayRay的奇妙比喻
+id: "posts-20250326-chandler-metaphors-001"
+title: "RayRay的奇妙比喻"
 
-module: posts
-submodule: 2025
-topic: legacy-wordpress
+module: "posts"
+submodule: "2025"
+topic: "legacy-wordpress"
 
-type: note
-status: active
+type: "note"
+status: "active"
 canonical: false
 
-summary: >
-  Simile and Metaphor
+summary: "对照中英文摘录，整理钱德勒小说中的明喻、隐喻及文学表达。"
 
 parents: []
 related: []
 
-tags: [posts, marlowe, raymondchandler]
+tags: ["posts", "marlowe", "raymondchandler"]
 
-audience: [public]
-languages: [zh]
+audience: ["public"]
+languages: ["zh"]
 
-maturity: stable
+maturity: "stable"
 confidence: 0.9
 
-visibility: public
-source_of_truth: external
+visibility: "public"
+source_of_truth: "external"
 
-original_source: WordPress
-original_url: https://fivsevn.home.blog/2025/03/26/rayray%e7%9a%84%e5%a5%87%e5%a6%99%e6%af%94%e5%96%bb/
+original_title: "RayRay的奇妙比喻"
+original_source: "WordPress"
+original_publisher: "五月七日"
+original_url: "https://fivsevn.home.blog/2025/03/26/rayray%e7%9a%84%e5%a5%87%e5%a6%99%e6%af%94%e5%96%bb/"
 
-created: 2025-03-26
-updated: 2025-03-30
+subtitle: "Simile and Metaphor"
+references:
+- section: 相关作者
+  text: Raymond Chandler（雷蒙德·钱德勒）July 23, 1888 – March 26, 1959
+- section: 参考版本
+  text: 'Chandler, R. (1939). _The big sleep_. Alfred A. Knopf. [美] 雷蒙德·钱德勒. 长眠不醒[M]. 傅惟慈译. 北京: 新星出版社, 2018.（原作出版于1939年） Chandler,
+    R. (1940). _Farewell, my lovely_. Alfred A. Knopf. [美] 雷蒙德·钱德勒. 再见，吾爱[M]. 黄蕙译. 北京: 新星出版社, 2018.（原作出版于1940年） Chandler,
+    R. (1953). _The long goodbye_. Houghton Mifflin. [美] 雷蒙德·钱德勒. 漫长的告别[M]. 王清雨译. 北京: 新星出版社, 2018.（原作出版于1953年）'
+note: "旧 WordPress 存档；保留原文、图片链接、异名及参考资料的原有表达，未扩写正文。"
+aliases: ["posts-2025-03-26-rayray的奇妙比喻"]
+legacy:
+  metadata:
+    id: posts-2025-03-26-rayray的奇妙比喻
+    submodule: 2025
+    summary: 'Simile and Metaphor
+
+      '
+  path: posts/2025/2025-03-26-RayRay的奇妙比喻.md
+
+permalink: "/posts/2025/2025-03-26-RayRay的奇妙比喻.html"
+
+created: "2025-03-26"
+updated: "2025-03-30"
+metadata_updated: "2026-10-13"
 ---
 Simile and Metaphor
 

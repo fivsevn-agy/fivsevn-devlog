@@ -1,42 +1,46 @@
 ---
-id: posts-news-doomsday-prediction-001
+id: "posts-news-doomsday-prediction-001"
 title: "1960 年一位物理学家称世界将在 2026 年终结：具体日期如下"
 
-module: posts
-submodule: news
-topic: doomsday-prediction
+module: "posts"
+submodule: "2026"
+topic: "doomsday-prediction"
 
-type: translation
-status: active
+type: "translation"
+status: "active"
 canonical: true
 
-summary: >
+summary: |
   本文介绍物理学家 Heinz von Foerster 在 1960 年提出的 2026 年“末日”预测、其人口过度增长逻辑，以及 2025 年“末日时钟”向午夜推进的背景。
 
 parents: []
 related: []
 
-tags: [doomsday, population-growth, heinz-von-foerster, doomsday-clock, science-history]
+tags: ["doomsday", "population-growth", "heinz-von-foerster", "doomsday-clock", "science-history"]
 
-audience: [self, public]
-languages: [zh]
+audience: ["self", "public"]
+languages: ["zh"]
 
-maturity: stable
+maturity: "stable"
 confidence: 0.9
 
-visibility: public
-source_of_truth: translation
+visibility: "public"
+source_of_truth: "translation"
 
 original_title: "Physicist in 1960 said world would end in 2026. Here's the exact date"
-original_source: The Providence Journal
-original_publisher: The Providence Journal
-original_url: https://www.providencejournal.com/story/news/2025/12/06/doomsday-is-in-2026-according-to-a-1960-prediction-heres-the-date-massachusetts-von-foerster-ne-time/87620122007/
-translation_note: >
-  本文为原文内容的中文翻译，仅用于学习与知识整理。
-  原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+original_source: "The Providence Journal"
+original_publisher: "The Providence Journal"
+original_url: "https://www.providencejournal.com/story/news/2025/12/06/doomsday-is-in-2026-according-to-a-1960-prediction-heres-the-date-massachusetts-von-foerster-ne-time/87620122007/"
+translation_note: |
+  本文为原文内容的中文翻译，仅用于学习与知识整理。 原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
 
-created: 2026-06-22
-updated: 2026-06-22
+legacy:
+  metadata:
+    submodule: news
+
+created: "2026-06-22"
+updated: "2026-06-22"
+metadata_updated: "2026-10-13"
 ---
 
 # 文章翻译

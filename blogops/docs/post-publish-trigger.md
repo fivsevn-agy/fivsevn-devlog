@@ -1,30 +1,38 @@
 ---
-id: blogops-docs-post-publish-trigger-001
-title: 发布入口说明
+id: "blogops-docs-post-publish-trigger-001"
+title: "发布入口说明"
 
-module: blogops
-submodule: docs
-topic: post-publish-trigger
+module: "blogops"
+submodule: "docs"
+topic: "post-publish-trigger"
 
-type: note
-status: active
+type: "note"
+status: "active"
 canonical: false
 
-summary: >
+summary: |
   保留旧发布说明地址，区分 WordPress 文字发布与长文目录刷新；操作统一指向板块 README。
 
 parents: []
-related: [system-docs-auto-index-manual-001, blogops-docs-auto-draft-frontmatter-001]
+related: ["system-docs-auto-index-manual-001", "blogops-docs-auto-draft-frontmatter-001"]
 
-tags: [blogops, docs, automation, publish, trigger]
-audience: [self, internal]
-languages: [zh]
-maturity: stable
+tags: ["blogops", "docs", "automation", "publish", "trigger"]
+
+audience: ["self", "internal"]
+languages: ["zh"]
+
+maturity: "stable"
 confidence: 0.9
-visibility: public
-source_of_truth: devlog
-created: 2026-06-13
-updated: 2026-10-13
+
+visibility: "public"
+source_of_truth: "devlog"
+
+note: "保留现有文件名：展示目录或已发布链接使用该路径，本次不修改展示页；metadata id 继续作为内容身份。"
+filename_policy: "stable-link"
+
+created: "2026-06-13"
+updated: "2026-10-13"
+metadata_updated: "2026-10-13"
 ---
 
 # 发布入口说明
@@ -49,5 +57,3 @@ python scripts/publish_wp_text.py --dry-run
 ```
 
 完整预览需要 Git 历史；`--dry-run` 仅校验和转换，不发送帖子。**不要把不带参数的发布命令当作测试命令。**
-
-旧版说明保留在[修改历史](https://github.com/fivsevn-agy/fivsevn-devlog/commits/main/blogops/docs/post-publish-trigger.md)。

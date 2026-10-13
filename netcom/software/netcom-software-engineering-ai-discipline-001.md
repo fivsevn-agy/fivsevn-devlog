@@ -1,43 +1,46 @@
 ---
-id: netcom-software-engineering-ai-discipline-001
-title: AI 需要更多工程纪律，而不是更少
+id: "netcom-software-engineering-ai-discipline-001"
+title: "AI 需要更多工程纪律，而不是更少"
 
-module: netcom
-submodule: software-engineering
-topic: ai-engineering-discipline
+module: "netcom"
+submodule: "software"
+topic: "ai-engineering-discipline"
 
-type: translation
-status: active
+type: "translation"
+status: "active"
 canonical: true
 
-summary: >
-  本文讨论 AI 生成代码改变代码生产经济学之后，软件工程应如何把严谨性从手写代码转向规范、验证、可观测性和生产环境反馈。
-  作者认为 AI 并不意味着工程纪律减少，反而会迫使团队更认真地编码系统知识、建立短反馈回路，并重新审视代码作为可再生缓存的角色。
+summary: |
+  本文讨论 AI 生成代码改变代码生产经济学之后，软件工程应如何把严谨性从手写代码转向规范、验证、可观测性和生产环境反馈。 作者认为 AI 并不意味着工程纪律减少，反而会迫使团队更认真地编码系统知识、建立短反馈回路，并重新审视代码作为可再生缓存的角色。
 
 parents: []
 related: []
 
-tags: [ai, software-engineering, sre, observability, code-review, engineering-discipline, agentic-coding]
+tags: ["ai", "software-engineering", "sre", "observability", "code-review", "engineering-discipline", "agentic-coding"]
 
-audience: [self, public]
-languages: [zh]
+audience: ["self", "public"]
+languages: ["zh"]
 
-maturity: stable
+maturity: "stable"
 confidence: 0.9
 
-visibility: public
-source_of_truth: translation
+visibility: "public"
+source_of_truth: "translation"
 
-original_title: AI demands more engineering discipline. Not less
-original_source: charity.wtf Substack
-original_publisher: Charity Majors
-original_url: https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline
-translation_note: >
-  本文为原文内容的中文翻译，仅用于学习与知识整理。
-  原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+original_title: "AI demands more engineering discipline. Not less"
+original_source: "charity.wtf Substack"
+original_publisher: "Charity Majors"
+original_url: "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline"
+translation_note: |
+  本文为原文内容的中文翻译，仅用于学习与知识整理。 原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
 
-created: 2026-06-22
-updated: 2026-06-22
+legacy:
+  metadata:
+    submodule: software-engineering
+
+created: "2026-06-22"
+updated: "2026-06-22"
+metadata_updated: "2026-10-13"
 ---
 
 文章翻译

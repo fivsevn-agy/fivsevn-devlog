@@ -1,3 +1,37 @@
+---
+id: "ai-posts-boot-protocol"
+title: "AI文章生成引导协议"
+
+module: "posts"
+submodule: "ai-discourse-analysis"
+topic: "ai-posts-boot-protocol"
+
+type: "note"
+status: "active"
+canonical: true
+
+summary: "说明AI文章生成引导协议。"
+
+parents: []
+related: []
+
+tags: []
+
+audience: ["self", "internal"]
+languages: ["zh"]
+
+maturity: "evolving"
+confidence: null
+
+visibility: "public"
+source_of_truth: "devlog"
+
+note: "未记录原始写作日期；created 为本路径首次 Git 记录日期，无法合理确定时留空。"
+
+created: "2026-03-06"
+updated: "2026-03-06"
+metadata_updated: "2026-10-13"
+---
 # AI Posts Boot Protocol
 # AI文章生成引导协议
 
@@ -17,27 +51,27 @@ User will paste real content manually.
 
 ## 0) Load Metadata Spec
 You MUST follow:
-[spec-gov-meta-frontmatter-001](https://raw.githubusercontent.com/fivsevn-agy/fivsevn-spec/main/gov/spec-gov-meta-frontmatter-001.md)
+[spec-content-frontmatter-001](https://raw.githubusercontent.com/fivsevn-agy/fivsevn-spec/main/content/spec-content-frontmatter-001.md)
 
 Hard rules:
 - all fields present
 - field order identical
-- no extra fields
+- use the shared core fields; preserve documented optional fields when needed
 - date format YYYY-MM-DD
 
-> frontmatter 字段齐全、顺序一致、不加字段
+> frontmatter 字段齐全、顺序一致、特殊信息使用规范中的扩展字段
 
 ---
 
 ## 1) Read Posts Index
 Read:
-[posts/index.md](https://raw.githubusercontent.com/fivsevn-agy/fivsevn-devlog/main/posts/index.md）
+[posts/index.md](https://raw.githubusercontent.com/fivsevn-agy/fivsevn-devlog/main/posts/index.md)
 
 Goal:
 Locate the target column path.
 
 Example reference:
- [oai_citation:1‡index.md](sediment://file_00000000977871fdb749c8cb2d8c70d3)
+ [栏目目录](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/posts/ai-discourse-analysis/index.md)
 
 > 先从 posts 主索引找到专栏入口
 
@@ -61,7 +95,7 @@ If Case List is empty:
 - next_number = 001
 
 Example reference:
- [oai_citation:2‡index.md](sediment://file_00000000cf7c71fd9f44af4dce289524)
+ [栏目目录](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/posts/ai-discourse-analysis/index.md)
 
 > 从 Case List 自动算下一篇：最大值+1，补零三位
 

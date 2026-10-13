@@ -1,43 +1,42 @@
 ---
-id: natsci-paleontology-shishania-chancelloriid-001
-title: 科学家解开 5 亿年前化石之谜
+id: "natsci-paleontology-shishania-chancelloriid-001"
+title: "科学家解开 5 亿年前化石之谜"
 
-module: natsci
-submodule: paleontology
-topic: shishania-chancelloriid
+module: "natsci"
+submodule: "paleontology"
+topic: "shishania-chancelloriid"
 
-type: translation
-status: active
+type: "translation"
+status: "active"
 canonical: true
 
-summary: >
+summary: |
   本文介绍 Shishania aculeata 化石从早期软体动物候选者被重新归类为 chancelloriid 的研究进展，并说明化石保存假象如何影响对寒武纪动物演化的判断。
-
 
 parents: []
 related: []
 
-tags: [paleontology, cambrian, fossils, shishania, chancelloriids, mollusks, evolution]
+tags: ["paleontology", "cambrian", "fossils", "shishania", "chancelloriids", "mollusks", "evolution"]
 
-audience: [self, public]
-languages: [zh]
+audience: ["self", "public"]
+languages: ["zh"]
 
-maturity: stable
+maturity: "stable"
 confidence: 0.9
 
-visibility: public
-source_of_truth: translation
+visibility: "public"
+source_of_truth: "translation"
 
-original_title: Scientists solve 500-million-year fossil mystery
-original_source: Phys.org / Durham University
-original_publisher: Durham University / Phys.org
-original_url: https://phys.org/news/2025-05-scientists-million-year-fossil-mystery.html
-translation_note: >
-  本文为原文内容的中文翻译，仅用于学习与知识整理。
-  原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+original_title: "Scientists solve 500-million-year fossil mystery"
+original_source: "Phys.org / Durham University"
+original_publisher: "Durham University / Phys.org"
+original_url: "https://phys.org/news/2025-05-scientists-million-year-fossil-mystery.html"
+translation_note: |
+  本文为原文内容的中文翻译，仅用于学习与知识整理。 原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
 
-created: 2026-06-15
-updated: 2026-06-15
+created: "2026-06-15"
+updated: "2026-06-15"
+metadata_updated: "2026-10-13"
 ---
 
 ## 文章翻译

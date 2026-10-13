@@ -1,34 +1,39 @@
 ---
-id: posts-20260619-methods-prediction-market-001
-title: 预测市场
+id: "posts-20260619-methods-prediction-market-001"
+title: "预测市场"
 
-module: posts
-submodule: methods
-topic: prediction-market
+module: "posts"
+submodule: "2026"
+topic: "prediction-market"
 
-type: note
-status: active
+type: "note"
+status: "active"
 canonical: true
 
-summary: >
+summary: |
   用统一抽象模型理解预测市场：将不同预测市场网站拆解为问题集合、创建机制、参与方式、筹码、价格或概率机制、结果确认、争议处理、奖惩、法律准入与题目范围等变量。
 
 parents: []
 related: []
 
-tags: [prediction-market, forecasting, market-design]
+tags: ["prediction-market", "forecasting", "market-design"]
 
-audience: [self]
-languages: [zh]
+audience: ["self"]
+languages: ["zh"]
 
-maturity: evolving
+maturity: "evolving"
 confidence: 0.8
 
-visibility: public
-source_of_truth: devlog
+visibility: "public"
+source_of_truth: "devlog"
 
-created: 2026-06-19
-updated: 2026-06-19
+legacy:
+  metadata:
+    submodule: methods
+
+created: "2026-06-19"
+updated: "2026-06-19"
+metadata_updated: "2026-10-13"
 ---
 
 # 预测市场

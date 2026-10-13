@@ -1,3 +1,40 @@
+---
+id: "blogops-readme"
+title: "blogops 板块说明"
+
+module: "blogops"
+submodule: "guide"
+topic: "guide"
+
+type: "note"
+status: "active"
+canonical: true
+
+summary: "说明后台日志的手动更新方式、维护文档的存放位置，以及各板块操作入口。"
+
+parents: []
+related: []
+
+tags: ["blogops", "maintenance"]
+
+audience: ["self", "internal"]
+languages: ["zh"]
+
+maturity: "evolving"
+confidence: null
+
+visibility: "public"
+source_of_truth: "devlog"
+
+note: |
+  created 为本路径首次 Git 记录日期。
+  blogops/.cache 是特别设计的叙事文件，不是程序缓存；保持原样，不清理、移动或套用文章 metadata。
+filename_policy: "entrypoint"
+
+created: "2026-10-13"
+updated: "2026-10-13"
+metadata_updated: "2026-10-13"
+---
 # blogops 板块说明
 
 ```text

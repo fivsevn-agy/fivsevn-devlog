@@ -1,3 +1,37 @@
+---
+id: "system-map"
+title: "fivsevn 系统总览"
+
+module: "system"
+submodule: "root"
+topic: "system-map"
+
+type: "note"
+status: "active"
+canonical: true
+
+summary: "说明fivsevn 系统总览。"
+
+parents: []
+related: []
+
+tags: []
+
+audience: ["self", "internal"]
+languages: ["zh"]
+
+maturity: "evolving"
+confidence: null
+
+visibility: "public"
+source_of_truth: "devlog"
+
+note: "未记录原始写作日期；created 为本路径首次 Git 记录日期，无法合理确定时留空。"
+
+created: "2026-06-18"
+updated: "2026-10-13"
+metadata_updated: "2026-10-13"
+---
 # fivsevn 系统总览
 
 [五月七日的思考札记](https://fivsevn.com/)是统一入口。本文件说明网站、仓库与各板块的关系；具体操作看各板块 README，不在这里重复维护。

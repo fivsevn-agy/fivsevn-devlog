@@ -1,3 +1,38 @@
+---
+id: "posts-2026-assets-toy-reference-readme"
+title: "玩具资料页的专用文件"
+
+module: "posts"
+submodule: "2026"
+topic: "guide"
+
+type: "note"
+status: "active"
+canonical: true
+
+summary: "说明玩具资料页的专用文件。"
+
+parents: []
+related: []
+
+tags: []
+
+audience: ["self", "internal"]
+languages: ["zh"]
+
+maturity: "evolving"
+confidence: null
+
+visibility: "public"
+source_of_truth: "devlog"
+
+note: "未记录原始写作日期；created 为本路径首次 Git 记录日期，无法合理确定时留空。"
+filename_policy: "entrypoint"
+
+created: "2026-10-07"
+updated: "2026-10-07"
+metadata_updated: "2026-10-13"
+---
 # 玩具资料页的专用文件
 
 ## 页面入口

@@ -1,36 +1,40 @@
 ---
-id: netcom-math-e-exponential-001
-title: 指数微分方程 dy/dt = ky 的推导与 e 的意义
+id: "netcom-math-e-exponential-001"
+title: "指数微分方程 dy/dt = ky 的推导与 e 的意义"
 
-module: netcom
-submodule: math
-topic: exponential-growth
+module: "netcom"
+submodule: "math"
+topic: "exponential-growth"
 
-type: article
-status: active
+type: "article"
+status: "active"
 canonical: true
 
-summary: >
-  推导 dy/dt = ky 的解形式，
-  解释自然对数 ln 与常数 e 的数学来源，
-  建立指数增长模型的基础。
+summary: |
+  推导 dy/dt = ky 的解形式， 解释自然对数 ln 与常数 e 的数学来源， 建立指数增长模型的基础。
 
-parents: [netcom-module-map]
-related: [netcom-math-dynamical-system-prototypes-001]
+parents: ["netcom-index"]
+related: ["netcom-math-dynamical-system-prototypes-001"]
 
-tags: [netcom, math, exponential, e]
+tags: ["netcom", "math", "exponential", "e"]
 
-audience: [public]
-languages: [zh]
+audience: ["public"]
+languages: ["zh"]
 
-maturity: stable
+maturity: "stable"
 confidence: 0.98
 
-visibility: public
-source_of_truth: devlog
+visibility: "public"
+source_of_truth: "devlog"
 
-created: 2025-12-12
-updated: 2026-03-01
+legacy:
+  metadata:
+    parents:
+    - netcom-module-map
+
+created: "2025-12-12"
+updated: "2026-03-01"
+metadata_updated: "2026-10-13"
 ---
 ## 解dy/dt=ky
 

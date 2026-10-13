@@ -1,39 +1,40 @@
 ---
-id: posts-2026-umwelt-game-development-handbook-001
-title: 游戏开发流程手册｜ChatGPT 写给五月七日的指导笔记
+id: "posts-2026-umwelt-game-development-handbook-001"
+title: "游戏开发流程手册｜ChatGPT 写给五月七日的指导笔记"
 
-module: posts
+module: "posts"
 submodule: "2026"
-topic: umwelt-game-development-handbook
+topic: "umwelt-game-development-handbook"
 
-type: note
-status: active
+type: "note"
+status: "active"
 canonical: true
-canonical_url: https://devlog.fivsevn.com/posts/2026/posts-2026-umwelt-game-development-handbook-001.html
-lang: zh-CN
 
-summary: >
-  以 UMWELT 与《等足目赋格》为例，整理游戏从立项、设计、原型、垂直切片到制作、QA、发布和维护的工作流程。
-  按阶段解释行业术语、交付物与验收条件，并附功能验收、缺陷报告及参考文献。
-description: >
-  以 UMWELT 为例的游戏开发流程手册，涵盖各阶段的工作内容、行业术语、质量验证、发布与维护。
+summary: |
+  以 UMWELT 与《等足目赋格》为例，整理游戏从立项、设计、原型、垂直切片到制作、QA、发布和维护的工作流程。 按阶段解释行业术语、交付物与验收条件，并附功能验收、缺陷报告及参考文献。
 
-parents: [posts-index]
+parents: ["posts-index"]
 related: []
 
-tags: [game-development, umwelt, production, qa, workflow, handbook]
+tags: ["game-development", "umwelt", "production", "qa", "workflow", "handbook"]
 
-audience: [self, public]
-languages: [zh]
+audience: ["self", "public"]
+languages: ["zh"]
 
-maturity: evolving
+maturity: "evolving"
 confidence: 0.9
 
-visibility: public
-source_of_truth: devlog
+visibility: "public"
+source_of_truth: "devlog"
 
-created: 2026-10-13
-updated: 2026-10-13
+lang: "zh-CN"
+description: |
+  以 UMWELT 为例的游戏开发流程手册，涵盖各阶段的工作内容、行业术语、质量验证、发布与维护。
+canonical_url: "https://devlog.fivsevn.com/posts/2026/posts-2026-umwelt-game-development-handbook-001.html"
+
+created: "2026-10-13"
+updated: "2026-10-13"
+metadata_updated: "2026-10-13"
 ---
 
 # 游戏开发流程手册｜ChatGPT 写给五月七日的指导笔记

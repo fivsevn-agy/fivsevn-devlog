@@ -1,42 +1,46 @@
 ---
-id: posts-urban-studies-megaprojects-asia-001
-title: 亚洲的城市化、大型项目与剥夺
+id: "posts-urban-studies-megaprojects-asia-001"
+title: "亚洲的城市化、大型项目与剥夺"
 
-module: posts
-submodule: urban-studies
-topic: megaprojects-asia
+module: "posts"
+submodule: "2026"
+topic: "megaprojects-asia"
 
-type: translation
-status: active
+type: "translation"
+status: "active"
 canonical: true
 
-summary: >
+summary: |
   本文评介《亚洲大型项目的政治经济学》，讨论大型项目如何成为亚洲城市发展中的主导模式。文章通过韩国、中国、台湾、印度、土耳其和马来西亚等案例，梳理国家权力、私人资本、土地控制与剥夺之间的关系。
 
 parents: []
 related: []
 
-tags: [urban-studies, megaprojects, asia, political-economy, urbanisation, dispossession, state-power]
+tags: ["urban-studies", "megaprojects", "asia", "political-economy", "urbanisation", "dispossession", "state-power"]
 
-audience: [self, public]
-languages: [zh]
+audience: ["self", "public"]
+languages: ["zh"]
 
-maturity: stable
+maturity: "stable"
 confidence: 0.9
 
-visibility: public
-source_of_truth: translation
+visibility: "public"
+source_of_truth: "translation"
 
-original_title: Urbanisation, megaprojects and dispossession in Asia
-original_source: LSE Review of Books
-original_publisher: LSE Review of Books
-original_url: https://blogs.lse.ac.uk/lsereviewofbooks/2026/06/22/book-review-the-political-economy-of-megaprojects-in-asia-state-power-land-control-financial-flows-and-dispossession-hyun-bang-shin-dong-wan-gimm/
-translation_note: >
-  本文为原文内容的中文翻译，仅用于学习与知识整理。
-  原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+original_title: "Urbanisation, megaprojects and dispossession in Asia"
+original_source: "LSE Review of Books"
+original_publisher: "LSE Review of Books"
+original_url: "https://blogs.lse.ac.uk/lsereviewofbooks/2026/06/22/book-review-the-political-economy-of-megaprojects-in-asia-state-power-land-control-financial-flows-and-dispossession-hyun-bang-shin-dong-wan-gimm/"
+translation_note: |
+  本文为原文内容的中文翻译，仅用于学习与知识整理。 原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
 
-created: 2026-06-26
-updated: 2026-06-26
+legacy:
+  metadata:
+    submodule: urban-studies
+
+created: "2026-06-26"
+updated: "2026-06-26"
+metadata_updated: "2026-10-13"
 ---
 
 文章翻译

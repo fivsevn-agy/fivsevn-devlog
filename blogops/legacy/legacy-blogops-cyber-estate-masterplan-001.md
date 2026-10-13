@@ -1,14 +1,40 @@
 ---
-module: system
-type: note
-status: archived
+id: "legacy-blogops-cyber-estate-masterplan-001"
+title: "五月七日赛博地产总规划说明！"
+
+module: "blogops"
+submodule: "legacy"
+topic: "archive"
+
+type: "note"
+status: "archived"
 canonical: false
-summary: >
+
+summary: |
   archived
-tags: [archive]
-visibility: public
-source_of_truth: devlog
-updated: 2026-06-15
+
+parents: []
+related: []
+
+tags: ["archive"]
+
+audience: ["self", "internal"]
+languages: ["zh"]
+
+maturity: "deprecated"
+confidence: null
+
+visibility: "public"
+source_of_truth: "devlog"
+
+note: "未记录原始写作日期；created 为本路径首次 Git 记录日期，无法合理确定时留空。"
+legacy:
+  metadata:
+    module: system
+
+created: "2026-03-02"
+updated: "2026-06-15"
+metadata_updated: "2026-10-13"
 ---
 # 五月七日赛博地产总规划说明！
 

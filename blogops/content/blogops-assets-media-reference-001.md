@@ -1,35 +1,39 @@
 ---
-id: blogops-assets-media-reference-001
-title: 博客各类内容的保存和引用方式
+id: "blogops-assets-media-reference-001"
+title: "博客各类内容的保存和引用方式"
 
-module: blogops
-submodule: assets
-topic: media-reference
+module: "blogops"
+submodule: "content"
+topic: "media-reference"
 
-type: note
-status: draft
+type: "note"
+status: "draft"
 canonical: false
 
-summary: >
-  记录博客图片、视频等内容资源的保存位置与引用方式，
-  以及对应平台和路径维护上的优缺点。
+summary: |
+  记录博客图片、视频等内容资源的保存位置与引用方式， 以及对应平台和路径维护上的优缺点。
 
 parents: []
 related: []
 
-tags: [blogops, assets, images, video, cdn, youtube]
+tags: ["blogops", "assets", "images", "video", "cdn", "youtube"]
 
-audience: [self]
-languages: [zh]
+audience: ["self"]
+languages: ["zh"]
 
-maturity: evolving
-confidence: 0.80
+maturity: "evolving"
+confidence: 0.8
 
-visibility: public
-source_of_truth: devlog
+visibility: "public"
+source_of_truth: "devlog"
 
-created: 2026-06-07
-updated: 2026-06-15
+legacy:
+  metadata:
+    submodule: assets
+
+created: "2026-06-07"
+updated: "2026-06-15"
+metadata_updated: "2026-10-13"
 ---
 
 # 博客各类内容的保存和引用方式

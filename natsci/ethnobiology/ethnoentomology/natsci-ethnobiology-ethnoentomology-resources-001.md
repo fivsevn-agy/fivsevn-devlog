@@ -1,35 +1,35 @@
 ---
-id: natsci-ethnobiology-ethnoentomology-resources-001
+id: "natsci-ethnobiology-ethnoentomology-resources-001"
+title: "昆虫 × 人类学资料暂存"
 
-title: 昆虫 × 人类学资料暂存
+module: "natsci"
+submodule: "ethnobiology"
+topic: "cultural-entomology"
 
-module: natsci
-submodule: ethnobiology
-topic: cultural-entomology
-
-type: note
-status: active
+type: "note"
+status: "active"
 canonical: true
 
-summary: >
+summary: |
   民族昆虫学与文化昆虫学相关资料与机构链接暂存。
 
 parents: []
 related: []
 
-tags: [ethnoentomology, anthropology, entomophagy]
+tags: ["ethnoentomology", "anthropology", "entomophagy"]
 
-audience: [self]
-languages: [zh, en]
+audience: ["self"]
+languages: ["zh", "en"]
 
-maturity: evolving
-confidence: 0.60
+maturity: "evolving"
+confidence: 0.6
 
-visibility: public
-source_of_truth: devlog
+visibility: "public"
+source_of_truth: "devlog"
 
-created: 2026-02-20
-updated: 2026-02-28
+created: "2026-02-20"
+updated: "2026-02-28"
+metadata_updated: "2026-10-13"
 ---
 ## 昆虫x人类学
 

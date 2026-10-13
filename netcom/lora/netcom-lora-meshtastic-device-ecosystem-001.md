@@ -1,35 +1,40 @@
 ---
-id: netcom-lora-meshtastic-device-ecosystem-001
-title: Meshtastic 设备生态与支持级别划分
+id: "netcom-lora-meshtastic-device-ecosystem-001"
+title: "Meshtastic 设备生态与支持级别划分"
 
-module: netcom
-submodule: lora
-topic: device-ecosystem
+module: "netcom"
+submodule: "lora"
+topic: "device-ecosystem"
 
-type: article
-status: active
+type: "article"
+status: "active"
 canonical: true
 
-summary: >
-  梳理 Meshtastic 官方支持与社区支持设备结构，
-  并补充未列入官方名单的第三类设备。
+summary: |
+  梳理 Meshtastic 官方支持与社区支持设备结构， 并补充未列入官方名单的第三类设备。
 
-parents: [netcom-module-map]
-related: [netcom-lora-meshtastic-structure-001]
+parents: ["netcom-index"]
+related: ["netcom-lora-meshtastic-structure-001"]
 
-tags: [netcom, lora, meshtastic, device]
+tags: ["netcom", "lora", "meshtastic", "device"]
 
-audience: [public]
-languages: [zh]
+audience: ["public"]
+languages: ["zh"]
 
-maturity: evolving
+maturity: "evolving"
 confidence: 0.95
 
-visibility: public
-source_of_truth: devlog
+visibility: "public"
+source_of_truth: "devlog"
 
-created: 2025-11-23
-updated: 2026-03-01
+legacy:
+  metadata:
+    parents:
+    - netcom-module-map
+
+created: "2025-11-23"
+updated: "2026-03-01"
+metadata_updated: "2026-10-13"
 ---
 ## meshtastic设备
 

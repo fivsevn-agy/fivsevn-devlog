@@ -1,43 +1,46 @@
 ---
-id: natsci-arthropod-bee-ai-consciousness-001
-title: 科学家正在认真追问：蜜蜂和 ChatGPT 是否有意识
+id: "natsci-arthropod-bee-ai-consciousness-001"
+title: "科学家正在认真追问：蜜蜂和 ChatGPT 是否有意识"
 
-module: natsci
-submodule: arthropod
-topic: bee-ai-consciousness
+module: "natsci"
+submodule: "taxonomy"
+topic: "bee-ai-consciousness"
 
-type: translation
-status: active
+type: "translation"
+status: "active"
 canonical: true
 
-summary: >
+summary: |
   本文讨论关于动物和 AI 意识的最新研究，指出判断意识不应只看外部行为，而应关注大脑与计算系统处理信息的内部机制。文章比较昆虫、无脊椎动物与大型语言模型的意识判据，并说明当前 AI 尚不足以被认定为有意识。
-
 
 parents: []
 related: []
 
-tags: [consciousness, cognitive-science, animal-consciousness, artificial-intelligence, ai-welfare, insect-neuroscience, arthropods]
+tags: ["consciousness", "cognitive-science", "animal-consciousness", "artificial-intelligence", "ai-welfare", "insect-neuroscience", "arthropods"]
 
-audience: [self, public]
-languages: [zh]
+audience: ["self", "public"]
+languages: ["zh"]
 
-maturity: stable
+maturity: "stable"
 confidence: 0.9
 
-visibility: public
-source_of_truth: translation
+visibility: "public"
+source_of_truth: "translation"
 
-original_title: Scientists are seriously asking if bees and ChatGPT are conscious
-original_source: ScienceDaily / The Conversation
-original_publisher: The Conversation; Colin Klein and Andrew Barron
-original_url: https://www.sciencedaily.com/releases/2026/06/260604044258.htm
-translation_note: >
-  本文为原文内容的中文翻译，仅用于学习与知识整理。
-  原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+original_title: "Scientists are seriously asking if bees and ChatGPT are conscious"
+original_source: "ScienceDaily / The Conversation"
+original_publisher: "The Conversation; Colin Klein and Andrew Barron"
+original_url: "https://www.sciencedaily.com/releases/2026/06/260604044258.htm"
+translation_note: |
+  本文为原文内容的中文翻译，仅用于学习与知识整理。 原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
 
-created: 2026-06-10
-updated: 2026-06-10
+legacy:
+  metadata:
+    submodule: arthropod
+
+created: "2026-06-10"
+updated: "2026-06-10"
+metadata_updated: "2026-10-13"
 ---
 
 ## 文章翻译

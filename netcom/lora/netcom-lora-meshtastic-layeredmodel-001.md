@@ -1,36 +1,40 @@
 ---
-id: netcom-lora-meshtastic-layeredmodel-001
-title: Meshtastic 三层模型：硬件 / 工具 / 功能
+id: "netcom-lora-meshtastic-layeredmodel-001"
+title: "Meshtastic 三层模型：硬件 / 工具 / 功能"
 
-module: netcom
-submodule: lora
-topic: layered-system-model
+module: "netcom"
+submodule: "lora"
+topic: "layered-system-model"
 
-type: article
-status: active
+type: "article"
+status: "active"
 canonical: true
 
-summary: >
-  将 Meshtastic 拆分为硬件模块、软件工具与功能层，
-  建立结构映射关系表，
-  用于理解系统能力来源。
+summary: |
+  将 Meshtastic 拆分为硬件模块、软件工具与功能层， 建立结构映射关系表， 用于理解系统能力来源。
 
-parents: [netcom-module-map]
-related: [netcom-lora-meshtastic-structure-001, netcom-lora-meshtastic-history-001]
+parents: ["netcom-index"]
+related: ["netcom-lora-meshtastic-structure-001", "netcom-lora-meshtastic-history-001"]
 
-tags: [netcom, lora, meshtastic, system-model]
+tags: ["netcom", "lora", "meshtastic", "system-model"]
 
-audience: [public]
-languages: [zh]
+audience: ["public"]
+languages: ["zh"]
 
-maturity: evolving
+maturity: "evolving"
 confidence: 0.97
 
-visibility: public
-source_of_truth: devlog
+visibility: "public"
+source_of_truth: "devlog"
 
-created: 2025-11-20
-updated: 2026-03-01
+legacy:
+  metadata:
+    parents:
+    - netcom-module-map
+
+created: "2025-11-20"
+updated: "2026-03-01"
+metadata_updated: "2026-10-13"
 ---
 ## 把Meshtastic拆成三层：硬件设备+软件工具=各种功能
 

@@ -1,36 +1,40 @@
 ---
-id: netcom-rf-spectrum-overview-001
-title: 电磁波谱结构与频率分布概览
+id: "netcom-rf-spectrum-overview-001"
+title: "电磁波谱结构与频率分布概览"
 
-module: netcom
-submodule: rf
-topic: spectrum-fundamentals
+module: "netcom"
+submodule: "rf"
+topic: "spectrum-fundamentals"
 
-type: article
-status: active
+type: "article"
+status: "active"
 canonical: true
 
-summary: >
-  梳理电磁波谱整体结构，
-  介绍常见频率区段与工程应用背景，
-  为射频理解提供基础框架。
+summary: |
+  梳理电磁波谱整体结构， 介绍常见频率区段与工程应用背景， 为射频理解提供基础框架。
 
-parents: [netcom-module-map]
-related: [netcom-rf-spectrum-bands-001]
+parents: ["netcom-index"]
+related: ["netcom-rf-spectrum-bands-001"]
 
-tags: [netcom, rf, spectrum]
+tags: ["netcom", "rf", "spectrum"]
 
-audience: [public]
-languages: [zh]
+audience: ["public"]
+languages: ["zh"]
 
-maturity: stable
+maturity: "stable"
 confidence: 0.97
 
-visibility: public
-source_of_truth: devlog
+visibility: "public"
+source_of_truth: "devlog"
 
-created: 2025-11-18
-updated: 2026-03-01
+legacy:
+  metadata:
+    parents:
+    - netcom-module-map
+
+created: "2025-11-18"
+updated: "2026-03-01"
+metadata_updated: "2026-10-13"
 ---
 ## 电磁波谱快速复习
 

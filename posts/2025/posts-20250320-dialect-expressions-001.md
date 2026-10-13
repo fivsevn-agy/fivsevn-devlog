@@ -1,37 +1,61 @@
 ---
-id: posts-2025-03-20-听壁脚-包打听-讲斤头-牵丝扳藤
-title: 听壁脚、包打听、讲斤头、牵丝扳藤
+id: "posts-20250320-dialect-expressions-001"
+title: "听壁脚、包打听、讲斤头、牵丝扳藤"
 
-module: posts
-submodule: 2025
-topic: legacy-wordpress
+module: "posts"
+submodule: "2025"
+topic: "legacy-wordpress"
 
-type: note
-status: active
+type: "note"
+status: "active"
 canonical: false
 
-summary: >
-  Wu Chinese
+summary: "整理听壁脚、包打听、讲斤头、牵丝扳藤等表达及相关阅读材料。"
 
 parents: []
 related: []
 
-tags: [posts, elleryqueen]
+tags: ["posts", "elleryqueen"]
 
-audience: [public]
-languages: [zh]
+audience: ["public"]
+languages: ["zh"]
 
-maturity: stable
+maturity: "stable"
 confidence: 0.9
 
-visibility: public
-source_of_truth: external
+visibility: "public"
+source_of_truth: "external"
 
-original_source: WordPress
-original_url: https://fivsevn.home.blog/2025/03/20/%e5%90%ac%e5%a3%81%e8%84%9a%e3%80%81%e5%8c%85%e6%89%93%e5%90%ac%e3%80%81%e8%ae%b2%e6%96%a4%e5%a4%b4%e3%80%81%e7%89%b5%e4%b8%9d%e6%89%b3%e8%97%a4/
+original_title: "听壁脚、包打听、讲斤头、牵丝扳藤"
+original_source: "WordPress"
+original_publisher: "五月七日"
+original_url: "https://fivsevn.home.blog/2025/03/20/%e5%90%ac%e5%a3%81%e8%84%9a%e3%80%81%e5%8c%85%e6%89%93%e5%90%ac%e3%80%81%e8%ae%b2%e6%96%a4%e5%a4%b4%e3%80%81%e7%89%b5%e4%b8%9d%e6%89%b3%e8%97%a4/"
 
-created: 2025-03-20
-updated: 2025-03-20
+subtitle: "Wu Chinese"
+references:
+- section: 相关作者
+  text: Ellery Queen（“埃勒里·奎因”）1928，是由 Dannay（丹内）和 Lee（李）联合创作的笔名。 Frederic Dannay（弗雷德里克·丹内）October 20, 1905 – September 3,
+    1982 Manfred Bennington Lee（曼弗雷德·本宁顿·李）January 11, 1905 – April 3, 1971
+- section: 参考版本
+  text: '埃勒里·奎因.[希腊棺材之谜](https://book.douban.com/subject/3112726/)[M]. 王敬之, 译. 北京: 新星出版社, 2008.(原作出版于 1932 年) 埃勒里·奎因.[希腊棺材](https://book.douban.com/subject/36536326//)[M].
+    程小青, 庞啸龙, 译. 上海: 上海中央书店, 1946. Ellery Queen. (1932).[The Greek Coffin Mystery](https://www.goodreads.com/book/show/1808330.The_Greek_Coffin_Mystery).
+    Frederick A. Stokes.'
+note: "旧 WordPress 存档；保留原文、图片链接、异名及参考资料的原有表达，未扩写正文。"
+aliases: ["posts-2025-03-20-听壁脚-包打听-讲斤头-牵丝扳藤"]
+legacy:
+  metadata:
+    id: posts-2025-03-20-听壁脚-包打听-讲斤头-牵丝扳藤
+    submodule: 2025
+    summary: 'Wu Chinese
+
+      '
+  path: posts/2025/2025-03-20-听壁脚、包打听、讲斤头、牵丝扳藤.md
+
+permalink: "/posts/2025/2025-03-20-听壁脚、包打听、讲斤头、牵丝扳藤.html"
+
+created: "2025-03-20"
+updated: "2025-03-20"
+metadata_updated: "2026-10-13"
 ---
 Wu Chinese
 

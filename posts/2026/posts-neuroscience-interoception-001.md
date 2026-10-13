@@ -1,42 +1,46 @@
 ---
-id: posts-neuroscience-interoception-001
-title: 内感受：你如何感知身体内部状态的隐藏感觉
+id: "posts-neuroscience-interoception-001"
+title: "内感受：你如何感知身体内部状态的隐藏感觉"
 
-module: posts
-submodule: neuroscience
-topic: interoception
+module: "posts"
+submodule: "2026"
+topic: "interoception"
 
-type: translation
-status: active
+type: "translation"
+status: "active"
 canonical: true
 
-summary: >
+summary: |
   本文介绍了内感受这一感知身体内部状态的隐藏感觉，梳理迷走神经、PIEZO 蛋白、细胞机械感受与身心双向通信的最新研究。文章说明内感受如何影响情绪、直觉、疼痛、压力与疾病治疗，并展示这一领域正在成为理解身心关系的重要前沿。
 
 parents: []
 related: []
 
-tags: [interoception, neuroscience, vagus-nerve, piezo, brain-body, intuition, parasympathetic]
+tags: ["interoception", "neuroscience", "vagus-nerve", "piezo", "brain-body", "intuition", "parasympathetic"]
 
-audience: [self, public]
-languages: [zh]
+audience: ["self", "public"]
+languages: ["zh"]
 
-maturity: stable
+maturity: "stable"
 confidence: 0.9
 
-visibility: public
-source_of_truth: translation
+visibility: "public"
+source_of_truth: "translation"
 
 original_title: "Inside interoception: The hidden sense of how you feel inside"
-original_source: MIT Technology Review Explains
-original_publisher: MIT Technology Review
-original_url: https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/
-translation_note: >
-  本文为原文内容的中文翻译，仅用于学习与知识整理。
-  原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+original_source: "MIT Technology Review Explains"
+original_publisher: "MIT Technology Review"
+original_url: "https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/"
+translation_note: |
+  本文为原文内容的中文翻译，仅用于学习与知识整理。 原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
 
-created: 2026-06-16
-updated: 2026-06-16
+legacy:
+  metadata:
+    submodule: neuroscience
+
+created: "2026-06-16"
+updated: "2026-06-16"
+metadata_updated: "2026-10-13"
 ---
 
 文章翻译

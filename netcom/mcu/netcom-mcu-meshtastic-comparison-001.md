@@ -1,35 +1,35 @@
 ---
-id: netcom-mcu-meshtastic-comparison-001
-title: ESP32 与 nRF52 在 Meshtastic 场景中的差异
+id: "netcom-mcu-meshtastic-comparison-001"
+title: "ESP32 与 nRF52 在 Meshtastic 场景中的差异"
 
-module: netcom
-submodule: mcu
-topic: mcu-comparison
+module: "netcom"
+submodule: "mcu"
+topic: "mcu-comparison"
 
-type: article
-status: active
+type: "article"
+status: "active"
 canonical: true
 
-summary: >
-  基于实际设备体验，
-  对 ESP32 与 nRF52 在功耗、功能与适用场景上的差异进行记录与分析。
+summary: |
+  基于实际设备体验， 对 ESP32 与 nRF52 在功耗、功能与适用场景上的差异进行记录与分析。
 
-parents: [netcom-mcu-overview-001]
-related: [netcom-lora-meshtastic-structure-001]
+parents: ["netcom-mcu-overview-001"]
+related: ["netcom-lora-meshtastic-structure-001"]
 
-tags: [netcom, mcu, esp32, nrf52, meshtastic]
+tags: ["netcom", "mcu", "esp32", "nrf52", "meshtastic"]
 
-audience: [public]
-languages: [zh]
+audience: ["public"]
+languages: ["zh"]
 
-maturity: evolving
+maturity: "evolving"
 confidence: 0.93
 
-visibility: public
-source_of_truth: devlog
+visibility: "public"
+source_of_truth: "devlog"
 
-created: 2025-11-22
-updated: 2026-03-01
+created: "2025-11-22"
+updated: "2026-03-01"
+metadata_updated: "2026-10-13"
 ---
 ## ESP32- 和 nRF52-
 

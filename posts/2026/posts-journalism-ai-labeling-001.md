@@ -1,42 +1,46 @@
 ---
-id: posts-journalism-ai-labeling-001
-title: 新闻机构应如何向受众标注 AI 使用？新研究给出了一些答案
+id: "posts-journalism-ai-labeling-001"
+title: "新闻机构应如何向受众标注 AI 使用？新研究给出了一些答案"
 
-module: posts
-submodule: journalism
-topic: ai-labeling
+module: "posts"
+submodule: "2026"
+topic: "ai-labeling"
 
-type: translation
-status: active
+type: "translation"
+status: "active"
 canonical: true
 
-summary: >
+summary: |
   本文梳理多项关于新闻业使用 AI、受众信任、TikTok 可信度判断、党派化新闻偏好与非商业新闻资助模式的研究。重点讨论新闻机构如何披露 AI 使用，以及人类审核、标签标准化和专业责任感为何会影响受众对新闻的信任。
 
 parents: []
 related: []
 
-tags: [journalism, ai, news-media, audience-trust, media-credibility, tiktok, nonprofit-news]
+tags: ["journalism", "ai", "news-media", "audience-trust", "media-credibility", "tiktok", "nonprofit-news"]
 
-audience: [self, public]
-languages: [zh]
+audience: ["self", "public"]
+languages: ["zh"]
 
-maturity: stable
+maturity: "stable"
 confidence: 0.9
 
-visibility: public
-source_of_truth: translation
+visibility: "public"
+source_of_truth: "translation"
 
-original_title: How should news organizations label their AI use for audiences? New studies suggest some answers
-original_source: Nieman Lab
-original_publisher: Nieman Journalism Lab
-original_url: https://www.niemanlab.org/2026/06/how-should-news-organizations-label-their-ai-use-for-audiences-new-studies-suggest-some-answers/
-translation_note: >
-  本文为原文内容的中文翻译，仅用于学习与知识整理。
-  原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+original_title: "How should news organizations label their AI use for audiences? New studies suggest some answers"
+original_source: "Nieman Lab"
+original_publisher: "Nieman Journalism Lab"
+original_url: "https://www.niemanlab.org/2026/06/how-should-news-organizations-label-their-ai-use-for-audiences-new-studies-suggest-some-answers/"
+translation_note: |
+  本文为原文内容的中文翻译，仅用于学习与知识整理。 原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
 
-created: 2026-06-18
-updated: 2026-06-18
+legacy:
+  metadata:
+    submodule: journalism
+
+created: "2026-06-18"
+updated: "2026-06-18"
+metadata_updated: "2026-10-13"
 ---
 
 文章翻译

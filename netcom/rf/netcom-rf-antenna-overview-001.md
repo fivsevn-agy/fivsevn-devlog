@@ -1,36 +1,40 @@
 ---
-id: netcom-rf-antenna-overview-001
-title: 天线入门：结构要素与类型划分
+id: "netcom-rf-antenna-overview-001"
+title: "天线入门：结构要素与类型划分"
 
-module: netcom
-submodule: rf
-topic: antenna-fundamentals
+module: "netcom"
+submodule: "rf"
+topic: "antenna-fundamentals"
 
-type: article
-status: active
+type: "article"
+status: "active"
 canonical: true
 
-summary: >
-  从辐射体、地面结构、电气长度等六要素出发，
-  梳理常见天线类型与应用领域，
-  建立射频结构理解框架。
+summary: |
+  从辐射体、地面结构、电气长度等六要素出发， 梳理常见天线类型与应用领域， 建立射频结构理解框架。
 
-parents: [netcom-module-map]
-related: [netcom-rf-spectrum-overview-001, netcom-lora-radio-metrics-001]
+parents: ["netcom-index"]
+related: ["netcom-rf-spectrum-overview-001", "netcom-lora-radio-metrics-001"]
 
-tags: [netcom, rf, antenna, fundamentals]
+tags: ["netcom", "rf", "antenna", "fundamentals"]
 
-audience: [public]
-languages: [zh]
+audience: ["public"]
+languages: ["zh"]
 
-maturity: evolving
+maturity: "evolving"
 confidence: 0.96
 
-visibility: public
-source_of_truth: devlog
+visibility: "public"
+source_of_truth: "devlog"
 
-created: 2025-11-29
-updated: 2026-03-01
+legacy:
+  metadata:
+    parents:
+    - netcom-module-map
+
+created: "2025-11-29"
+updated: "2026-03-01"
+metadata_updated: "2026-10-13"
 ---
 ## 天线入门
 

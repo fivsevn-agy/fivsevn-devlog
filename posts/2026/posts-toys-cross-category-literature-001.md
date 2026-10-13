@@ -1,41 +1,45 @@
 ---
-id: posts-toys-cross-category-literature-001
-title: 玩具与模型的跨类别流动①：文献整理
-layout: toy-post
+id: "posts-toys-cross-category-literature-001"
+title: "玩具与模型的跨类别流动①：文献整理"
 
-module: posts
-submodule: culture
-topic: toys-cross-category-literature
+module: "posts"
+submodule: "2026"
+topic: "toys-cross-category-literature"
 
-type: note
-status: active
+type: "note"
+status: "active"
 canonical: true
-canonical_url: https://devlog.fivsevn.com/posts/2026/posts-toys-cross-category-literature-001.html
-lang: zh-CN
 
-summary: >
-  整理二十一篇日文、英文和韩文文献，涉及玩具与模型的制作、改造、角色表现、使用场景与类别认知。
-  逐篇记录研究问题、材料、主要发现、涉及对象与阅读依据，并区分产品调查和类别形成的参考研究。
-description: >
-  整理二十一篇日文、英文和韩文文献，涉及玩具与模型的制作、改造、角色表现、使用场景与类别认知。
-  逐篇记录研究问题、材料、主要发现、涉及对象与阅读依据，并区分产品调查和类别形成的参考研究。
+summary: |
+  整理二十一篇日文、英文和韩文文献，涉及玩具与模型的制作、改造、角色表现、使用场景与类别认知。 逐篇记录研究问题、材料、主要发现、涉及对象与阅读依据，并区分产品调查和类别形成的参考研究。
 
-parents: [posts-index]
-related: [posts-toy-reference-001]
+parents: ["posts-index"]
+related: ["posts-toy-reference-001"]
 
-tags: [toys, dolls, figures, gunpla, customization, literature-review]
+tags: ["toys", "dolls", "figures", "gunpla", "customization", "literature-review"]
 
-audience: [self, public]
-languages: [zh]
+audience: ["self", "public"]
+languages: ["zh"]
 
-maturity: evolving
+maturity: "evolving"
 confidence: 0.8
 
-visibility: public
-source_of_truth: devlog
+visibility: "public"
+source_of_truth: "devlog"
 
-created: 2026-10-06
-updated: 2026-10-07
+legacy:
+  metadata:
+    submodule: culture
+
+layout: "toy-post"
+lang: "zh-CN"
+description: |
+  整理二十一篇日文、英文和韩文文献，涉及玩具与模型的制作、改造、角色表现、使用场景与类别认知。 逐篇记录研究问题、材料、主要发现、涉及对象与阅读依据，并区分产品调查和类别形成的参考研究。
+canonical_url: "https://devlog.fivsevn.com/posts/2026/posts-toys-cross-category-literature-001.html"
+
+created: "2026-10-06"
+updated: "2026-10-07"
+metadata_updated: "2026-10-13"
 ---
 
 # 玩具与模型的跨类别流动①：文献整理

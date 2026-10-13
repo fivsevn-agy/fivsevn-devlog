@@ -1,37 +1,65 @@
 ---
-id: posts-2025-03-14-泛指-抑或是个人问题
-title: 泛指、抑或是个人问题
+id: "posts-20250314-framing-001"
+title: "泛指、抑或是个人问题"
 
-module: posts
-submodule: 2025
-topic: legacy-wordpress
+module: "posts"
+submodule: "2025"
+topic: "legacy-wordpress"
 
-type: note
-status: active
+type: "note"
+status: "active"
 canonical: false
 
-summary: >
-  框架理论
+summary: "借《埃及古墓历险记》中的对话讨论框架、提问方式与个人处境。"
 
 parents: []
 related: []
 
-tags: [posts, agatha, poirot]
+tags: ["posts", "agatha", "poirot"]
 
-audience: [public]
-languages: [zh]
+audience: ["public"]
+languages: ["zh"]
 
-maturity: stable
+maturity: "stable"
 confidence: 0.9
 
-visibility: public
-source_of_truth: external
+visibility: "public"
+source_of_truth: "external"
 
-original_source: WordPress
-original_url: https://fivsevn.home.blog/2025/03/14/%e6%b3%9b%e6%8c%87%e3%80%81%e6%8a%91%e6%88%96%e6%98%af%e4%b8%aa%e4%ba%ba%e9%97%ae%e9%a2%98/
+original_title: "泛指、抑或是个人问题"
+original_source: "WordPress"
+original_publisher: "五月七日"
+original_url: "https://fivsevn.home.blog/2025/03/14/%e6%b3%9b%e6%8c%87%e3%80%81%e6%8a%91%e6%88%96%e6%98%af%e4%b8%aa%e4%ba%ba%e9%97%ae%e9%a2%98/"
 
-created: 2025-03-14
-updated: 2025-03-15
+subtitle: "Framing"
+references:
+- section: 相关作者
+  text: Agatha Christie（阿加莎·克里斯蒂）December 15, 1890 – January 12, 1976
+- section: 参考版本
+  text: '阿加莎克里斯蒂. 首相绑架案[M]. 王占一, 译. 北京: 新星出版社, 2018. (原作出版于 1924 年) Christie, A. (1924). Poirot investigates. The Bodley Head.'
+- section: 其他参考
+  text: 'Goffman, E. (1974). [Frame analysis: An essay on the organization of experience](https://www.goodreads.com/book/show/335896).
+    Harvard University Press.'
+- section: 其他参考
+  text: 'Wilkinson, T. (2022). [Tutankhamun’s trumpet: Ancient Egypt in 100 objects from the boy-king’s tomb](https://www.goodreads.com/book/show/60165380-tutankhamun-s-trumpet).
+    W. W. Norton & Company. 托比·威尔金森. [图坦卡蒙的号角: 100件宝物中的古埃及文明](https://book.douban.com/subject/36532943/)[M]. 朱敬文, 译. 北京: 中信出版集团,
+    2024. (原作出版于 2022 年) *图坦卡蒙的陵墓于1922年由霍华德·卡特带领的考古团队发现。'
+note: "旧 WordPress 存档；保留原文、图片链接、异名及参考资料的原有表达，未扩写正文。"
+aliases: ["posts-2025-03-14-泛指-抑或是个人问题"]
+legacy:
+  metadata:
+    id: posts-2025-03-14-泛指-抑或是个人问题
+    submodule: 2025
+    summary: '框架理论
+
+      '
+  path: posts/2025/2025-03-14-泛指、抑或是个人问题.md
+
+permalink: "/posts/2025/2025-03-14-泛指、抑或是个人问题.html"
+
+created: "2025-03-14"
+updated: "2025-03-15"
+metadata_updated: "2026-10-13"
 ---
 Framing
 

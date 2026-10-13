@@ -1,42 +1,41 @@
 ---
-id: posts-ai-discourse-analysis-001
+id: "posts-ai-discourse-analysis-001"
+title: "001｜词源谬误与“热爱不需要擅长”的论证失真"
 
-title: 001｜词源谬误与“热爱不需要擅长”的论证失真
+module: "posts"
+submodule: "ai-discourse-analysis"
+topic: "amateur-etymology-fallacy"
 
-module: posts
-submodule: ai-discourse-analysis
-topic: amateur-etymology-fallacy
-
-type: article
-status: active
+type: "article"
+status: "active"
 canonical: true
 
-summary: >
-  对一则以“amateur词源”为核心的情绪型论证进行AI结构拆解，
-  分析其中的概念混淆、词源谬误与价值推导跳跃问题。
+summary: |
+  对一则以“amateur词源”为核心的情绪型论证进行AI结构拆解， 分析其中的概念混淆、词源谬误与价值推导跳跃问题。
 
 parents: []
 related: []
 
-tags: [
-  ai-analysis,
-  argument-structure,
-  rhetoric,
-  etymological-fallacy,
-  narrative-critique
-]
+tags: ["ai-analysis", "argument-structure", "rhetoric", "etymological-fallacy", "narrative-critique"]
 
-audience: [public]
-languages: [zh]
+audience: ["public"]
+languages: ["zh"]
 
-maturity: evolving
+maturity: "evolving"
 confidence: 0.92
 
-visibility: public
-source_of_truth: posts
+visibility: "public"
+source_of_truth: "devlog"
 
-created: 2026-03-03
-updated: 2026-03-03
+note: "保留现有文件名：展示目录或已发布链接使用该路径，本次不修改展示页；metadata id 继续作为内容身份。"
+legacy:
+  metadata:
+    source_of_truth: posts
+filename_policy: "stable-link"
+
+created: "2026-03-03"
+updated: "2026-03-03"
+metadata_updated: "2026-10-13"
 ---
 # 本期材料
 
