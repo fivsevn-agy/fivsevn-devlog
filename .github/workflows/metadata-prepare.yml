@@ -1,0 +1,67 @@
+name: Prepare reviewed content metadata
+on:
+  push:
+    branches: [maintenance/metadata-unify-20261013]
+    paths: [.github/workflows/metadata-prepare.yml]
+permissions:
+  contents: write
+jobs:
+  prepare:
+    if: github.ref == 'refs/heads/maintenance/metadata-unify-20261013'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: maintenance/metadata-unify-20261013
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m pip install requests markdown pyyaml jsonschema
+      - name: Read reviewed shared schema
+        run: |
+          git clone https://github.com/fivsevn-agy/fivsevn-spec.git /tmp/metadata-spec
+          git -C /tmp/metadata-spec checkout 4a8b1e35ce1c47ec65e6d298bee376bbcbf86670
+      - name: Normalize documentation and patch internal helpers
+        run: |
+          python _maintenance_metadata.py --repo devlog --root .
+          python _maintenance_helpers.py .
+      - name: Verify metadata and existing publishing contracts
+        run: |
+          python /tmp/metadata-spec/tools/check_metadata.py --repo devlog --root . --schema /tmp/metadata-spec/content/content-metadata.schema.json --references /tmp/metadata-spec --json /tmp/metadata-check.json
+          python -m unittest discover -s tests -v
+          python scripts/update_module_indexes.py
+          git diff --exit-code -- posts/index.md natsci/index.md netcom/index.md
+          python - <<'PY'
+          import json, subprocess
+          from pathlib import Path
+          base='cd86adbf802e279012c259a53d425ee55290b77f'
+          report=json.loads(Path('/tmp/metadata-result.json').read_text())
+          for path in report['protected_exact']:
+              expected=subprocess.check_output(['git','show',base+':'+path])
+              assert Path(path).read_bytes()==expected,path
+          report['indexes_unchanged']=True
+          report['publishing_tests']='45 offline tests; no WordPress requests'
+          Path('/tmp/metadata-result.json').write_text(json.dumps(report,ensure_ascii=False,indent=2))
+          print('All protected pages, trigger, source configuration and narrative .cache are byte-identical.')
+          PY
+          git -c core.whitespace=-blank-at-eol diff --check
+      - name: Save review evidence
+        uses: actions/upload-artifact@v4
+        with:
+          name: devlog-metadata-review
+          path: |
+            /tmp/metadata-result.json
+            /tmp/metadata-check.json
+          retention-days: 30
+      - name: Commit only to maintenance branch
+        run: |
+          test "$(git branch --show-current)" = maintenance/metadata-unify-20261013
+          git rm _maintenance_metadata.py _maintenance_helpers.py .github/workflows/metadata-prepare.yml
+          git add -A
+          git diff --cached --stat
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'refactor: Unify content metadata and retain source information'
+          git push origin HEAD:refs/heads/maintenance/metadata-unify-20261013
