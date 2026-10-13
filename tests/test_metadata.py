@@ -52,7 +52,7 @@ class HandbookOrderTests(unittest.TestCase):
         path=f'2026/{title}.md'
         return index.Note(title, day, 'active', 'note', path, path)
 
-    def test_current_seven_handbooks_follow_reading_order(self):
+    def test_current_seven_handbooks_show_newest_first(self):
         titles=['游戏开发流程手册', '游戏开发软件地图手册', '游戏程序与运行原理手册',
                 '游戏画面与动画制作手册', '玩法与交互叙事设计手册',
                 '项目阅读、修改与发布实务手册', '研究资料与游戏表达手册']
@@ -60,19 +60,24 @@ class HandbookOrderTests(unittest.TestCase):
         shuffled=[notes[i] for i in [5,6,4,2,3,1,0]]
         before=list(shuffled)
         result=index.sort_notes(shuffled,'posts')
-        self.assertEqual(result,notes)
+        self.assertEqual(result,list(reversed(notes)))
         self.assertEqual(shuffled,before)
         self.assertEqual(index.sort_notes(result,'posts'),result)
 
     def test_new_installments_sort_numerically_not_lexically(self):
         notes=[self.note(n,'Same title') for n in ['10','2','001','1000','999','008']]
         self.assertEqual([n.source_path for n in index.sort_notes(notes,'posts')],
-                         [self.note(n,'Same title').source_path for n in ['001','2','008','10','999','1000']])
+                         [self.note(n,'Same title').source_path for n in ['1000','999','10','008','2','001']])
 
     def test_titles_do_not_determine_installment_order(self):
-        first=self.note('001','A renamed title')
-        last=self.note('007','Z renamed title')
-        self.assertEqual(index.sort_notes([last,first],'posts'),[first,last])
+        first=self.note('001','Z renamed title')
+        last=self.note('007','A renamed title')
+        self.assertEqual(index.sort_notes([first,last],'posts'),[last,first])
+
+    def test_publication_date_takes_precedence_over_installment_number(self):
+        newer=self.note('001','Newer date','2026-10-14')
+        older=self.note('007','Older date','2026-10-13')
+        self.assertEqual(index.sort_notes([older,newer],'posts'),[newer,older])
 
     def test_dates_remain_primary_and_unrelated_posts_keep_order(self):
         notes=[self.ordinary('new','2026-10-14'),self.note('001','A'),
@@ -85,7 +90,7 @@ class HandbookOrderTests(unittest.TestCase):
         ordinary=lambda items:[n for n in items if 'handbook-' not in n.source_path]
         self.assertEqual(ordinary(result),ordinary(baseline))
         same_day=[n for n in result if n.date=='2026-10-13']
-        self.assertEqual(same_day,[notes[1],notes[3],notes[2],notes[4]])
+        self.assertEqual(same_day,[notes[3],notes[1],notes[2],notes[4]])
         self.assertCountEqual(result,notes)
 
     def test_unrelated_numbered_articles_and_other_modules_unchanged(self):
@@ -119,7 +124,7 @@ class HandbookOrderTests(unittest.TestCase):
             with patch.object(index,'ROOT',root):
                 notes,warnings=index.collect_notes('posts',config)
                 self.assertEqual(warnings,[])
-                self.assertEqual([n.title for n in notes],['A first','Z second'])
+                self.assertEqual([n.title for n in notes],['Z second','A first'])
                 self.assertEqual([n.date for n in notes],['2026-10-13']*2)
                 self.assertTrue(index.update_index(config,index.render_notes(notes)))
                 self.assertFalse(index.update_index(config,index.render_notes(notes)))
