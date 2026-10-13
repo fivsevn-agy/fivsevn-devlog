@@ -1,0 +1,38 @@
+name: Read-only metadata and repository audit
+
+on:
+  pull_request:
+    paths:
+      - 'scripts/audit_metadata_readonly.py'
+      - '.github/workflows/audit-metadata-readonly.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install audit dependencies
+        run: python -m pip install 'pyyaml>=6,<7' requests markdown
+      - name: Inspect pinned public snapshots
+        run: python scripts/audit_metadata_readonly.py
+      - name: Recheck offline WordPress regression tests
+        working-directory: audit-output/sources/fivsevn-devlog
+        run: python -m unittest discover -s tests -p 'test_publish_wp_text.py' -v
+      - name: Save audit evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: metadata-audit-20261013
+          path: audit-output/
+          retention-days: 14
+          include-hidden-files: true
