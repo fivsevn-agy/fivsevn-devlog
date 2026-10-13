@@ -10,12 +10,12 @@ type: "note"
 status: "active"
 canonical: true
 
-summary: "说明blogops 板块说明。"
+summary: "说明后台日志的手动更新方式、维护文档的存放位置，以及各板块操作入口。"
 
 parents: []
 related: []
 
-tags: []
+tags: ["blogops", "maintenance"]
 
 audience: ["self", "internal"]
 languages: ["zh"]
@@ -26,7 +26,9 @@ confidence: null
 visibility: "public"
 source_of_truth: "devlog"
 
-note: "未记录原始写作日期；created 为本路径首次 Git 记录日期，无法合理确定时留空。"
+note: |
+  created 为本路径首次 Git 记录日期。
+  blogops/.cache 是特别设计的叙事文件，不是程序缓存；保持原样，不清理、移动或套用文章 metadata。
 filename_policy: "entrypoint"
 
 created: "2026-10-13"
