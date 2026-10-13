@@ -65,6 +65,12 @@ TRANSLATION_TYPES = {
 DATE_RE = re.compile(r"(\d{4})[-.](\d{1,2})[-.](\d{1,2})")
 
 
+# Only this series opts into reading order; ordinary posts keep their existing sort.
+GAME_HANDBOOK_RE = re.compile(
+    r"(?P<series>posts-\d{4}-umwelt-game-development-handbook)-(?P<number>\d+)\.md"
+)
+
+
 @dataclass(frozen=True)
 class Note:
     title: str
@@ -150,6 +156,42 @@ def should_skip_path(path: Path, root_dir: Path, extra_exclude_dirs: set[str]) -
     return any(part in excluded or part.startswith(".") for part in rel_parts)
 
 
+def sort_notes(notes: list[Note], module_name: str) -> list[Note]:
+    """Keep reverse chronology, grouping same-day handbooks in numeric order.
+
+    A group occupies its first position in the original title-sorted list.
+    Other articles retain their relative order, titles, dates and links.
+    """
+    ordered = sorted(
+        notes, key=lambda note: (note.date, note.title, note.source_path), reverse=True
+    )
+    if module_name != "posts":
+        return ordered
+
+    groups: dict[tuple[str, str, str], list[tuple[int, Note]]] = {}
+    group_keys: dict[str, tuple[str, str, str]] = {}
+    for note in ordered:
+        source = Path(note.source_path)
+        match = GAME_HANDBOOK_RE.fullmatch(source.name)
+        if match is None:
+            continue
+        key = (note.date, source.parent.as_posix(), match.group("series"))
+        groups.setdefault(key, []).append((int(match.group("number")), note))
+        group_keys[note.source_path] = key
+
+    result: list[Note] = []
+    emitted: set[tuple[str, str, str]] = set()
+    for note in ordered:
+        key = group_keys.get(note.source_path)
+        if key is None:
+            result.append(note)
+        elif key not in emitted:
+            members = sorted(groups[key], key=lambda item: (item[0], item[1].source_path))
+            result.extend(member for _, member in members)
+            emitted.add(key)
+    return result
+
+
 def collect_notes(module_name: str, config: dict) -> tuple[list[Note], list[str]]:
     root_dir = ROOT / config["root"]
     warnings: list[str] = []
@@ -220,8 +262,7 @@ def collect_notes(module_name: str, config: dict) -> tuple[list[Note], list[str]
             )
         )
 
-    notes.sort(key=lambda note: (note.date, note.title, note.source_path), reverse=True)
-    return notes, warnings
+    return sort_notes(notes, module_name), warnings
 
 
 def display_title(note: Note) -> str:
