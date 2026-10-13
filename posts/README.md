@@ -71,7 +71,7 @@ fivsevn-devlog/posts/
 - 快捷指令选择 [`post/stream`](https://github.com/fivsevn/fivsevn-assets/tree/main/post/stream) → Working Copy 提交并推送 → 每张新图片新发一条。
 - **配文**：写在提交的 extended description，不放技术操作说明。
 
-> [图片发布任务](https://github.com/fivsevn/fivsevn-assets/actions/workflows/publish-image-posts.yml)检查本次推送的图片 → [脚本](https://github.com/fivsevn/fivsevn-assets/blob/main/scripts/publish_image_posts.py)把 CDN 图片链接和配文组装成 WordPress 区块 → 调用 REST API 发文。  
+> [图片发布任务](https://github.com/fivsevn/fivsevn-assets/actions/workflows/publish-image-posts.yml)检查本次推送的图片 → [脚本](https://github.com/fivsevn/fivsevn-assets/blob/main/scripts/publish_image_posts.py)把 CDN 图片链接和配文组装成 WordPress 区块 → 调用 [WordPress REST API](https://developer.wordpress.org/rest-api/reference/posts/) 新建帖子。  
 > 图片留在 assets 仓库，不上传 WordPress 媒体库；脚本按图片路径生成 slug，查到已有帖子就跳过。详见[图片发布说明](https://github.com/fivsevn/fivsevn-assets/blob/main/README.md#image-post-automation)。
 
 ### 修改原帖
@@ -107,6 +107,20 @@ fivsevn-devlog/posts/
 - **AI 写给五月七日**：知识讲解、方法手册与指导笔记；沿用“ChatGPT 写给五月七日的……”命名，例如[游戏开发流程手册](https://devlog.fivsevn.com/posts/2026/posts-2026-umwelt-game-development-handbook-001.html)。
 - **[AI 话语分析](https://devlog.fivsevn.com/posts/ai-discourse-analysis/)**：AI 辅助拆解公共讨论的论证结构；在首页底部 `Section` 单独列出，[栏目目录](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/posts/ai-discourse-analysis/index.md)独立维护。
 
+### 指导手册的写作与维护约定
+
+本系列直接写给五月七日，重点是理解制作全流程、系统原理、工具成本和验收关系；具体编程可交给实现者完成。涉及自己的作品时，可用“以你正在做的《等足目赋格》为例”引入，并区分已有实现、讨论方案与假设示例。
+
+语言保持简洁、平实，同时写清推理所需的前提和中间关系。比较概念时，先解释各自职责，再用例子连接，最后归纳区别。否定可以用于界定边界，但应交代否定的对象、原因或对照条件。连词按实际的因果、递进、转折或让步关系使用，避免只在跳跃的句子之间机械添加“因此”。补充性的时间和范围说明，适合放在括号中。
+
+表格采用“定义”“解释”“用途”等中性栏目，少用设问和低幼化比喻。外语材料先理解论证关系，再按自然中文组织句子，避免逐词翻译造成的生硬表达。
+
+游戏案例优先采用国外知名作品，并放在正在说明的概念旁边。参考资料除自己的项目外，采用英文、日文等海外作者、开发团队、出版社、大学或机构的一手材料；本系列不采用国产游戏案例或国内文献、教程与资料入口。
+
+每篇保留参考文献和阅读重点，说明书籍、官方文档、课程或视频的用途及获取方式。连续引用写成 `[1](#ref-1), [2](#ref-2)`，使编号在页面中有明确分隔。软件的开放情况与费用类型分别标注，保留核对日期和官方入口。
+
+文章更新保留原有文件名、ID、创建日期和网址。目录继续采用较新内容在上方的顺序；同日发布的游戏开发手册按逻辑发布顺序，以较大的编号在前排列。正文中的系列导航可以保留由 001 到 007 的学习顺序。
+
 ### 新建草稿
 
 - 放进 [`posts/_drafts/`](https://github.com/fivsevn-agy/fivsevn-devlog/tree/main/posts/_drafts) 第一层 → 提交并推送。
@@ -134,7 +148,7 @@ fivsevn-devlog/posts/
 
 - **正文小改／大改**：改原文件，保留文件名、`id`、`created`，手动维护 `updated`。**不新增目录项。**
 - **标题**：同时改 metadata 的 `title` 和正文 `# 标题`，不必改文件名。**目录替换原标题，不重复收录；只改标题，原网址不变。**
-- **日期**：有有效 `created` 时，仅改 `updated` 不会置顶；改 `created` 会调整目录日期与排序。同一天内，改标题可能调整排序。
+- **日期**：有有效 `created` 时，仅改 `updated` 不会置顶；改 `created` 会调整目录日期与排序。同一天内，普通文章改标题可能调整排序；游戏开发手册保持同日编号倒序。
 - **重命名／移动文件**：目录更新路径；检查原网址、文章互链和图片路径。
 - **复制为另一篇**：两份都符合收录条件时，目录出现两项；新文章使用新 `id`。
 - **隐藏**：设为 `status: hidden`，移出目录；不代表文件私密或网址失效。
