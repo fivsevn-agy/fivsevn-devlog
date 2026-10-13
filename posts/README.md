@@ -25,8 +25,11 @@ fivsevn-devlog/posts/
 
 - 替换 [`trigger.md`](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/posts/_wordpress/trigger.md) 正文，保留发布配置 → 提交并推送 → 新发一条。
 
-> [文字发布任务](https://github.com/fivsevn-agy/fivsevn-devlog/actions/workflows/publish-wp-trigger.yml)启动 → [脚本](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/scripts/publish_wp_text.py)读取本次提交的 `trigger.md` → 正文转成 HTML → 调用 [WordPress REST API](https://developer.wordpress.org/rest-api/reference/posts/) 新建帖子。  
+> [文字发布任务](https://github.com/fivsevn-agy/fivsevn-devlog/actions/workflows/publish-wp-trigger.yml)启动 → 测试与无发布预览 → 确认本次推送改了 trigger → [脚本](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/scripts/publish_wp_text.py)读取正文、转成 HTML → 调用 [WordPress REST API](https://developer.wordpress.org/rest-api/reference/posts/) 新建帖子。  
 > 脚本用 Actions Secrets 中的 WordPress 账号与应用密码验证身份；配置区不进入正文，标题按运行时间生成。
+
+- **只维护脚本／工作流**：运行测试和预览，跳过发文；不需要清空 trigger。PR 和非 `main` 分支也不发文。
+- **重跑／手动运行**：按最近一次 trigger 变更的提交生成 slug，查到同一帖子就跳过，不覆盖 WordPress 的人工修改。重试不要另做一次 trigger 提交；验证命令见[脚本维护入口](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/blogops/docs/post-publish-trigger.md#脚本维护与验证)。
 
 ### 新建图片
 
