@@ -1,6 +1,6 @@
 ---
 id: "posts-2026-umwelt-game-development-handbook-001"
-title: "游戏开发流程手册｜ChatGPT 写给五月七日的指导笔记"
+title: "游戏开发流程手册｜ChatGPT 写给五月七日的指导笔记 001"
 
 module: "posts"
 submodule: "2026"
@@ -37,7 +37,7 @@ updated: "2026-10-13"
 metadata_updated: "2026-10-13"
 ---
 
-# 游戏开发流程手册｜ChatGPT 写给五月七日的指导笔记
+# 游戏开发流程手册｜ChatGPT 写给五月七日的指导笔记 001
 
 **以 UMWELT 为例 · 撰写：ChatGPT · 2026-10-13**
 
