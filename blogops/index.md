@@ -41,7 +41,9 @@ updated: 2026-06-16
 ---
 ### Directory
 
-- 2026.06.24 🤌 统一站点入口为 [fivsevn.com](https://fivsevn.com)。之前内容大致分成两类：一类是丢了也没关系的轻量记录，堆在 WordPress；另一类是尽量不想丢、需要慢慢写和整理的内容，放在 GitHub。后来两边都逐渐做了自己的目录，入口关系变得有些重复。现在改为只保留 [fivsevn.com](https://fivsevn.com) 作为统一入口，[devlog.fivsevn.com](https://devlog.fivsevn.com) 主页则提供前往主站的链接引导。之后统一从主站主页进入不同板块，各个板块内再分别整理对应内容。
+- 2026.10.13 🤌 让 ChatGPT 整体检查并梳理了仓库。没有太大的改动，主要是查漏补缺。各个板块补齐了说明。
+
+- 2026.06.24 🤌 统一站点入口为 [fivsevn.com](https://fivsevn.com)。一开始的时候，内容大致分成两类：一类是丢了也没关系的轻量记录，堆在 WordPress；另一类是尽量不想丢、需要慢慢写和整理的内容，放在 GitHub。后来两边都逐渐做了自己的目录，入口关系变得有些重复。现在改为只保留 [fivsevn.com](https://fivsevn.com) 作为统一入口，[devlog.fivsevn.com](https://devlog.fivsevn.com) 主页则提供前往主站的链接引导。之后统一从主站主页进入不同板块，各个板块内再分别整理对应内容。
 
 - 2026.06.24 🤌 尝试一下只用 GitHub Pages 复刻原本通过 WordPress 编辑的页面。先把 [fivsevn.com/posts](https://fivsevn.com/posts/) 搬到 [flux.fivsevn.com](http://flux.fivsevn.com) 进行测试。原页面仍会正常使用；新页面目前只用于内容抓取和视觉效果调整实验。页面是公开的，但暂时不会放置入口。
 
