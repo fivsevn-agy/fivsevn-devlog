@@ -1,5 +1,18 @@
 # posts 板块说明
 
+```text
+fivsevn-devlog/posts/
+├── README.md               本说明
+├── index.md                文章目录（列表自动生成）
+├── 2019/                   2019 年存档
+├── 2025/                   2025 年存档
+├── 2026/                   2026 年文章
+├── _drafts/                长文草稿
+├── _wordpress/
+│   └── trigger.md          WordPress 文字发布入口
+└── ai-discourse-analysis/  AI 话语分析独立栏目
+```
+
 - **[WordPress posts](https://fivsevn.com/posts/)**：随手发文字、图片。
 - **[flux](https://flux.fivsevn.com/)**：同步 WordPress，作为静态备份与迁移试验。
 - **[devlog posts](https://devlog.fivsevn.com/posts/)**：保存需要长期整理、修改和查阅的文章。
