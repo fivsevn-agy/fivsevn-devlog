@@ -23,6 +23,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install metadata parser
+        run: python -m pip install pyyaml
+
       - name: Update module indexes
         run: python scripts/update_module_indexes.py
 
