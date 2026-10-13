@@ -22,8 +22,8 @@ lang: "zh-CN"
 description: "按用途比较游戏开发工具的职责、开放情况与费用，并用制作案例说明它们怎样配合。"
 canonical_url: "https://devlog.fivsevn.com/posts/2026/posts-2026-umwelt-game-development-handbook-002.html"
 created: "2026-10-13"
-updated: "2026-10-13"
-metadata_updated: "2026-10-13"
+updated: "2026-10-14"
+metadata_updated: "2026-10-14"
 ---
 
 # 游戏开发软件地图手册｜ChatGPT 写给五月七日的指导笔记 002
@@ -37,6 +37,8 @@ metadata_updated: "2026-10-13"
 你可以把本篇当作工具地图：遇到一个名称，先找到它负责的环节，再查看交付内容、配合方式与费用。表中覆盖个人、小团队和大型制作的主要工具类别；实际项目只需从中选择与需求相符的组合。
 
 各软件名称链接到官方英文资料、产品页面或作者项目，作为查阅入口。费用栏保留 **2026-10-13** 整理的开放情况与计费形式；由于版本、地区和使用资格会影响条件，采购时还需核对对应方案。游戏案例按开发者记录的制作阶段理解，具体平台与后续版本可能另有安排。
+
+案例中的游戏名链接到作品官网或官方商店，参考编号则指向相关的制作资料。
 
 <a id="start"></a>
 ## 基本概念：引擎、语言与工具的职责
@@ -142,9 +144,9 @@ metadata_updated: "2026-10-13"
 | [Flax](https://flaxengine.com/licensing/) | 三维引擎、编辑器与脚本系统 | 源码可见 | 免费适用范围＋条件分成，也有定制许可 |
 | [Frostbite／寒霜](https://www.ea.com/frostbite) | 面向公司项目与生产流程的自有引擎 | 内部专有 | 按公司内部使用与合作条件安排 |
 
-**《Hollow Knight》采用 Unity，同时在 Photoshop 中制作手绘图像并导出 PNG。** 引擎负责接入资源、组织场景与交互，绘图软件负责产生美术内容。[1](#ref-1) 因而，“用了 Unity”和“用了 Photoshop”可以同时成立：它们描述的是同一作品中的不同环节。
+**[《Hollow Knight》](https://www.hollowknight.com/)采用 Unity，同时在 Photoshop 中制作手绘图像并导出 PNG。** 引擎负责接入资源、组织场景与交互，绘图软件负责产生美术内容。[1](#ref-1) 因而，“用了 Unity”和“用了 Photoshop”可以同时成立：它们描述的是同一作品中的不同环节。
 
-GameMaker 官方展示收录《Undertale》，Godot 官方展示收录《Brotato》。[2](#ref-2), [3](#ref-3) 这些作品可以帮助你认识工具的实际使用范围，但选择自己项目的工具时，还需要继续比较平台、操作形式和维护成本。
+GameMaker 官方展示收录[《Undertale》](https://undertale.com/)，Godot 官方展示收录[《Brotato》](https://store.steampowered.com/app/1942280/Brotato/)。[2](#ref-2), [3](#ref-3) 这些作品可以帮助你认识工具的实际使用范围，但选择自己项目的工具时，还需要继续比较平台、操作形式和维护成本。
 
 可视化事件、蓝图和文字代码都用于表达逻辑。前者把部分条件和操作呈现为节点或表格，后者通过文字写法组织；无论采用哪种方式，触发条件和结果仍需由设计确定。
 
@@ -188,7 +190,7 @@ GameMaker 官方展示收录《Undertale》，Godot 官方展示收录《Brotato
 | [Bevy](https://bevy.org/)、[HaxeFlixel](https://haxeflixel.com/) | Rust 游戏引擎与 Haxe 二维框架 | 开源 | 核心免费 |
 | [React](https://react.dev/)、[Vue](https://vuejs.org/)、[Svelte](https://svelte.dev/) | 组织网页界面及其状态变化 | 开源 | 核心免费，商业扩展与服务另计 |
 
-**MonoGame 官方列出的使用作品包括《Celeste》和《Stardew Valley》。** [4](#ref-4) 它提供的是框架能力，开发者再组织自己的玩法和制作流程。由此可以理解，完整作品既可以通过带有综合编辑器的引擎制作，也可以由框架与项目代码配合完成（不同移植和版本的具体实现需分别查看）。
+**MonoGame 官方列出的使用作品包括[《Celeste》](https://www.celestegame.com/)和[《Stardew Valley》](https://www.stardewvalley.net/)。** [4](#ref-4) 它提供的是框架能力，开发者再组织自己的玩法和制作流程。由此可以理解，完整作品既可以通过带有综合编辑器的引擎制作，也可以由框架与项目代码配合完成（不同移植和版本的具体实现需分别查看）。
 
 网页项目中还可以组合不同职责。例如 React 组织菜单，Three.js 处理三维场景，项目代码连接两者的状态。简单的图片与对白交互也可以直接使用 HTML、CSS 和 JavaScript；当已有能力足够时，就可以减少额外依赖。[MDN 说明](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/What_is_JavaScript)
 
@@ -263,7 +265,7 @@ GameMaker 官方展示收录《Undertale》，Godot 官方展示收录《Brotato
 
 位图记录像素，矢量图记录形状与曲线。差分保存同一角色的不同外观，逐帧动画则通过连续播放一组画面呈现动作。
 
-**《Cuphead》先在纸上制作动画，再进行数字处理并接入 Unity。** [5](#ref-5) 这说明资源可以经过多种制作介质：纸面负责绘制，数字工具负责整理，引擎负责运行。选择流程时，要同时考虑目标风格与后续修改方式。
+**[《Cuphead》](https://cupheadgame.com/)先在纸上制作动画，再进行数字处理并接入 Unity。** [5](#ref-5) 这说明资源可以经过多种制作介质：纸面负责绘制，数字工具负责整理，引擎负责运行。选择流程时，要同时考虑目标风格与后续修改方式。
 
 <a id="tools-08"></a>
 ## 08｜三维建模与雕刻
@@ -346,7 +348,7 @@ GameMaker 官方展示收录《Undertale》，Godot 官方展示收录《Brotato
 
 关键帧记录重要时刻的姿态，重定向将动作映射到另一套骨架。它们帮助复用和调整动作，最终仍需结合角色比例与玩法节奏检查。
 
-**《Dead Cells》先用三维角色制作动作，再转换为像素图像帧。** 作者选择这条流程，是为了便于反复修改姿态和节奏。[6](#ref-6) 因而，动画工具的价值也体现在返工方式：修改一个动作需要重画多少资源，能否继续复用原有控制结构，都应进入选型判断。
+**[《Dead Cells》](https://dead-cells.com/)先用三维角色制作动作，再转换为像素图像帧。** 作者选择这条流程，是为了便于反复修改姿态和节奏。[6](#ref-6) 因而，动画工具的价值也体现在返工方式：修改一个动作需要重画多少资源，能否继续复用原有控制结构，都应进入选型判断。
 
 <a id="tools-12"></a>
 ## 12｜扫描、渲染与特效
@@ -401,7 +403,7 @@ GameMaker 官方展示收录《Undertale》，Godot 官方展示收录《Brotato
 | [Yarn Spinner](https://www.yarnspinner.dev/) | 对话编写与游戏集成 | 开源核心＋商业工具 | 核心免费，Pro 和附加产品收费 |
 | [articy:draft](https://www.articy.com/en/pricing/) | 角色、分支、流程与内容数据 | 专有 | 受限免费＋付费方案，协作能力分别确认 |
 
-**inkle 的《80 Days》等作品使用 ink 组织分支叙事。** 官方说明将 ink 定位为可以接入游戏引擎的叙事技术，而 Inky 提供编写、预览和导出界面。[7](#ref-7) 因而，语言、编辑器与游戏运行系统可以分别由不同部分承担。
+**inkle 的[《80 Days》](https://www.inklestudios.com/80days/)等作品使用 ink 组织分支叙事。** 官方说明将 ink 定位为可以接入游戏引擎的叙事技术，而 Inky 提供编写、预览和导出界面。[7](#ref-7) 因而，语言、编辑器与游戏运行系统可以分别由不同部分承担。
 
 Ren’Py 则把视觉小说常用的显示、对白和存档等能力组织在一起。比较它与 ink 时，应先看希望它承担整个作品的主体，还是只承担其中的叙事部分，再选择配合方式。
 
@@ -515,7 +517,7 @@ Ren’Py 则把视觉小说常用的显示、对白和存档等能力组织在�
 | [Kubernetes](https://kubernetes.io/docs/concepts/overview/) | 管理容器化程序的运行 | 开源 | 软件免费，服务器和维护另计 |
 | [Amazon GameLift Servers](https://aws.amazon.com/gamelift/servers/)、[Agones](https://agones.dev/) | 游戏服务器托管或编排 | 云服务／开源 | 前者按资源计费，后者软件免费而运行资源另计 |
 
-**《Factorio》开发团队介绍过一种只交换玩家输入、各端分别推进模拟的多人结构。** [9](#ref-9) 这可以帮助你理解，联网系统需要先决定交换什么，再确定由谁计算和如何恢复差异，而不是简单地把各端画面互相传送（案例依据当时的开发记录）。
+**[《Factorio》](https://www.factorio.com/)开发团队介绍过一种只交换玩家输入、各端分别推进模拟的多人结构。** [9](#ref-9) 这可以帮助你理解，联网系统需要先决定交换什么，再确定由谁计算和如何恢复差异，而不是简单地把各端画面互相传送（案例依据当时的开发记录）。
 
 你的单机网页则可以由托管服务分发文件，再让浏览器处理规则和本地存档。若以后需要云存档或账号，再为这些新增职责选择服务即可。
 
@@ -538,7 +540,7 @@ Ren’Py 则把视觉小说常用的显示、对白和存档等能力组织在�
 | [Google Play Console](https://play.google.com/console/about/) | Android 商店管理 | 专有服务 | 开发者注册及销售、交易条件另看 |
 | [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages)、[Cloudflare Pages](https://developers.cloudflare.com/pages/)、[Netlify](https://www.netlify.com/pricing/)、[Vercel](https://vercel.com/pricing) | 网站托管与部署 | 云服务 | 免费适用范围＋资源或方案收费 |
 
-**《Baldur’s Gate 3》的 Hotfix 4 复盘说明，构建和验证需要指向同一份交付结果。** 团队在重新构建后遇到问题，回退又影响部分新存档的使用。[8](#ref-8) 因此，自动化生成成品之后，还要检查实际发布文件及其恢复条件（事件发生于 2023 年，修正版本随后重新发布）。
+**[《Baldur’s Gate 3》](https://baldursgate3.game/)的 Hotfix 4 复盘说明，构建和验证需要指向同一份交付结果。** 团队在重新构建后遇到问题，回退又影响部分新存档的使用。[8](#ref-8) 因此，自动化生成成品之后，还要检查实际发布文件及其恢复条件（事件发生于 2023 年，修正版本随后重新发布）。
 
 商店和主机平台还有资格、签名与审核要求。导出工具生成的是目标文件，正式发行还要继续完成平台流程，两部分应在计划中分别安排。
 
@@ -570,7 +572,7 @@ Ren’Py 则把视觉小说常用的显示、对白和存档等能力组织在�
 | [Final Cut Pro](https://www.apple.com/final-cut-pro/) | Apple 平台剪辑 | 专有 | 单独购买或适用套件订阅，平台方案另看 |
 | [Kdenlive](https://kdenlive.org/) | 视频剪辑 | 开源 | 免费 |
 | [Fusion](https://www.blackmagicdesign.com/products/fusion) | 节点式视觉合成 | 专有 | Resolve 内置与独立 Studio 按版本区分 |
-| [FFmpeg](https://ffmpeg.org/)、[HandBrake](https://handbrake.fr/) | 音视频转换与压缩 | 开源，组件许可可能不同 | 核心免费，编解码和分发条件另核对 |
+| [FFmpeg](https://ffmpeg.org/)、[HandBrake](https://handbrake.fr/) | 音视频转换与压缩 | 开源 | 核心免费，组件、编解码和分发条件另核对 |
 | [Canva](https://www.canva.com/pricing/) | 海报、商店图与社交内容 | 专有服务 | 免费＋订阅，素材许可另看 |
 
 例如，为你的游戏做短视频时，可以先录制一次完整操作，再剪出能说明玩法的片段。片头和字幕可以在剪辑工具中增加；这些宣传效果与游戏本身运行的效果分别制作，介绍时也应相应区分。
@@ -733,7 +735,7 @@ AI 可以参与资料整理、编程和资源制作。它描述的是开发中�
 可以先查自己项目涉及的工具，再选一篇接近当前问题的开发者案例。需要建立系统认识时，再选择相应教材；这样，学习内容会与实际制作决定保持联系。
 
 <a id="case-isopoda"></a>
-## 以你正在做的《等足目赋格》作完整对应
+## 以你正在做的[《等足目赋格》](https://umwelt.fivsevn.com/isopoda/)作完整对应
 
 你的网页版直接使用 JavaScript 组织观察、交互与状态，Canvas 2D 绘制场景，HTML 和 CSS 安排界面。各部分通过项目模块连接起来，因此可以采用浏览器已有的能力，完成这款游戏需要的运行系统。[网页入口](https://github.com/fivsevn/umwelt/blob/0bbe083943a4b307e38e3ea0de435d3d7864a345/isopoda/index.html) · [模块说明](https://github.com/fivsevn/umwelt/blob/0bbe083943a4b307e38e3ea0de435d3d7864a345/isopoda/README.md)
 
