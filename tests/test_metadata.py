@@ -53,7 +53,7 @@ class HandbookOrderTests(unittest.TestCase):
         return index.Note(title, day, 'active', 'note', path, path)
 
     def test_current_two_handbooks_show_newest_first(self):
-        titles=['游戏开发流程手册', '游戏开发软件地图手册']
+        titles=['游戏开发术语与流程手册', '游戏开发软件地图手册']
         notes=[self.note(f'{i:03}', title) for i,title in enumerate(titles,1)]
         shuffled=[notes[i] for i in [0,1]]
         before=list(shuffled)

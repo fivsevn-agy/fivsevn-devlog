@@ -46,7 +46,7 @@ updated: 2026-06-15
 <!-- AUTO-INDEX:POSTS_RECENT:START -->
 - 2026.10.13 [游戏开发软件地图手册｜ChatGPT 写给五月七日的指导笔记 002](2026/posts-2026-umwelt-game-development-handbook-002.md)
 
-- 2026.10.13 [游戏开发流程手册｜ChatGPT 写给五月七日的指导笔记 001](2026/posts-2026-umwelt-game-development-handbook-001.md)
+- 2026.10.13 [游戏开发术语与流程手册｜ChatGPT 写给五月七日的指导笔记 001](2026/posts-2026-umwelt-game-development-handbook-001.md)
 
 - 2026.10.06 [玩具与模型的跨类别流动①：文献整理](2026/posts-toys-cross-category-literature-001.md)
 
