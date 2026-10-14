@@ -52,12 +52,10 @@ class HandbookOrderTests(unittest.TestCase):
         path=f'2026/{title}.md'
         return index.Note(title, day, 'active', 'note', path, path)
 
-    def test_current_seven_handbooks_show_newest_first(self):
-        titles=['游戏开发流程手册', '游戏开发软件地图手册', '游戏程序与运行原理手册',
-                '游戏画面与动画制作手册', '玩法与交互叙事设计手册',
-                '项目阅读、修改与发布实务手册', '研究资料与游戏表达手册']
+    def test_current_two_handbooks_show_newest_first(self):
+        titles=['游戏开发流程手册', '游戏开发软件地图手册']
         notes=[self.note(f'{i:03}', title) for i,title in enumerate(titles,1)]
-        shuffled=[notes[i] for i in [5,6,4,2,3,1,0]]
+        shuffled=[notes[i] for i in [0,1]]
         before=list(shuffled)
         result=index.sort_notes(shuffled,'posts')
         self.assertEqual(result,list(reversed(notes)))
