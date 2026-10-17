@@ -17,5 +17,11 @@ class TriggerValidationTests(unittest.TestCase):
             with self.assertRaises(ValueError):trigger.validate(text)
     def test_empty_is_allowed(self):
         self.assertEqual(trigger.validate('---\nwp_status: publish\n---\n'),'')
+    def test_flux_fields_and_path(self):
+        self.assertTrue(str(trigger.SOURCE_FILE).endswith('posts/_flux/trigger.md'))
+        html=trigger.validate('---\nstatus: published\ntitle: "我的标题"\n---\n正文')
+        self.assertEqual(html,'<p>正文</p>')
+        for raw in ['---\nstatus: future\n---\nbody','---\ntitle: [bad]\n---\nbody']:
+            with self.assertRaises(ValueError):trigger.validate(raw)
 
 if __name__=='__main__': unittest.main()

@@ -43,8 +43,8 @@ fivsevn-devlog/posts/
 ├── 2025/                   2025 年存档
 ├── 2026/                   2026 年文章
 ├── _drafts/                长文草稿
-├── _wordpress/
-│   └── trigger.md          flux 文字发布入口（保留旧路径）
+├── _flux/
+│   └── trigger.md          flux 文字发布入口
 └── ai-discourse-analysis/  AI 话语分析独立栏目
 ```
 
@@ -57,11 +57,22 @@ fivsevn-devlog/posts/
 
 ### 新建文字
 
-继续替换 [`trigger.md`](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/posts/_wordpress/trigger.md) 正文，保留原配置，提交并推送到 `main`。支持 `[文字](网址)` 等 Markdown 格式。旧路径保留以兼容手机入口，**不再调用 WordPress**。
+继续替换 [`trigger.md`](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/posts/_flux/trigger.md) 正文，保留顶部配置，提交并推送到 `main`。支持 `[文字](网址)` 等 Markdown 格式。入口仍在 devlog 仓库，文件夹为 `_flux`；**不再调用 WordPress**。
 
-flux 约每 5 分钟检查新提交，把每次 trigger 变更保存成独立 Markdown 记录，再构建和部署。GitHub 调度可能延后。相同提交重试不会重复发文，也不会覆盖人工修改；显式 `slug` 仍只创建一次。`wp_status: publish` 继续有效；其他非公开状态保存为草稿（公开仓库不提供保密能力），不支持 `future`。
+flux 约每 5 分钟检查新提交，把每次 trigger 变更保存成独立 Markdown 记录，再构建和部署。GitHub 调度可能延后。相同提交重试不会重复发文，也不会覆盖人工修改；显式 `slug` 仍只创建一次。`status: published` 公开发布，`status: draft` 保存为草稿；公开仓库不提供保密能力，不支持定时发布。
 
 本仓库的 [Check flux trigger](https://github.com/fivsevn-agy/fivsevn-devlog/actions/workflows/publish-wp-trigger.yml) 只校验格式。实际是否上线，检查 [Publish flux](https://github.com/fivsevn/fivsevn-flux/actions/workflows/build.yml) 和 [flux 页面](https://flux.fivsevn.com/)。
+
+顶部配置只需：
+
+```yaml
+status: published
+title: ""
+```
+
+`title` 留空，自动用本次提交时间生成标题，例如 `18 Oct, 2026 06:40`；填写 `title: "今天的随手记"` 则显示自定义标题。下面的实际发布时间由提交时间生成，统一使用 `Asia/Shanghai`。不再需要 `category`、`timezone` 或 `wp_status`。
+
+修改已发布帖子的标题：在 flux 对应 `index.md` 顶部修改 `title`，保留 `date`、`id` 和目录，标题链接、发布时间和排序不变。要让下一条恢复时间标题，把 trigger 的 `title` 清空。
 
 ### 新建图片
 
