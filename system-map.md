@@ -51,7 +51,7 @@ fivsevn-devlog/             主要目录与文件
 ├── blogops/               后台更新日志与维护说明
 ├── now/                   当前近况页
 ├── intake/                来源清单、抓取脚本与生成页面
-├── scripts/               草稿、索引与 WordPress 文字发布脚本
+├── scripts/               草稿、索引与 flux trigger 校验脚本
 ├── .github/workflows/     GitHub Actions 任务
 ├── _layouts/              devlog 页面模板
 └── assets/                本站样式与现有附件
@@ -85,11 +85,11 @@ fivsevn-devlog/             主要目录与文件
 | **[WordPress 后台](https://fivsevn.com/wp-admin/)** | 主站布局、视觉效果和其他作品页面；posts 短帖已转到 flux |
 | **[fivsevn-agy/fivsevn-devlog](https://github.com/fivsevn-agy/fivsevn-devlog)** | 长文 Markdown、板块说明、日志、近况、来源清单与相关脚本；直接改原文件 |
 | **[fivsevn/fivsevn-assets](https://github.com/fivsevn/fivsevn-assets)** | 自有图片、照片和静态资源，以及图片／YouTube 自动发帖脚本；页面引用图片链接 |
-| **[fivsevn/fivsevn-flux](https://github.com/fivsevn/fivsevn-flux)** | posts 文章包、文字与图片接收流程、静态页面；已发布短帖直接在这里修改 |
+| **[fivsevn/fivsevn-flux](https://github.com/fivsevn/fivsevn-flux)** | 短帖内容存档、接收流程、页面构建与部署；英文后台维护说明 |
 | **[fivsevn-agy/fivsevn-spec](https://github.com/fivsevn-agy/fivsevn-spec)** | metadata、翻译、来源、引用、日期和提交等公共规范；板块说明链接过去，不复制整套规范 |
 | **[YouTube @fivsevn](https://www.youtube.com/@fivsevn)** | 视频托管；WordPress 保存嵌入内容，视频原文件另行备份 |
 
-> 同一板块可以跨仓库，但不要求两边各写一份。长文改 devlog，短帖改 flux，主站视觉编排改 WordPress，图片源文件改 assets。
+> 日常短帖操作统一看 [posts README](posts/README.md)，flux README 负责英文后台维护说明。同一板块可以跨仓库，但不要求两边各写一份。长文改 devlog，短帖改 flux，主站视觉编排改 WordPress，图片源文件改 assets。
 
 ## 4. 发布关系速览
 

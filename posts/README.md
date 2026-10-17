@@ -57,36 +57,39 @@ fivsevn-devlog/posts/
 
 ### 新建文字
 
-继续替换 [`trigger.md`](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/posts/_flux/trigger.md) 正文，保留顶部配置，提交并推送到 `main`。支持 `[文字](网址)` 等 Markdown 格式。入口仍在 devlog 仓库，文件夹为 `_flux`；**不再调用 WordPress**。
-
-flux 约每 5 分钟检查新提交，把每次 trigger 变更保存成独立 Markdown 记录，再构建和部署。GitHub 调度可能延后。相同提交重试不会重复发文，也不会覆盖人工修改；显式 `slug` 仍只创建一次。`status: published` 公开发布，`status: draft` 保存为草稿；公开仓库不提供保密能力，不支持定时发布。
-
-本仓库的 [Check flux trigger](https://github.com/fivsevn-agy/fivsevn-devlog/actions/workflows/publish-wp-trigger.yml) 只校验格式。实际是否上线，检查 [Publish flux](https://github.com/fivsevn/fivsevn-flux/actions/workflows/build.yml) 和 [flux 页面](https://flux.fivsevn.com/)。
-
-顶部配置只需：
+打开 [`posts/_flux/trigger.md`](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/posts/_flux/trigger.md)，替换配置区后面的正文，提交并推送到 `main`。正文用 Markdown，链接写成 `[文字](网址)`。
 
 ```yaml
 status: published
 title: ""
 ```
 
-`title` 留空，自动用本次提交时间生成标题，例如 `18 Oct, 2026 06:40`；填写 `title: "今天的随手记"` 则显示自定义标题。下面的实际发布时间由提交时间生成，统一使用 `Asia/Shanghai`。不再需要 `category`、`timezone` 或 `wp_status`。
-
-修改已发布帖子的标题：在 flux 对应 `index.md` 顶部修改 `title`，保留 `date`、`id` 和目录，标题链接、发布时间和排序不变。要让下一条恢复时间标题，把 trigger 的 `title` 清空。
+`title` 留空，用发布当时的时间作标题；填写 `title: "你的标题"` 则显示自定义标题。下方实际发布时间独立保存，发布后保持不变。下一条要恢复时间标题，把 `title` 清空。`status: draft` 不上网页，但仓库中的文件仍公开。
 
 ### 新建图片
 
-快捷指令仍选择 [`post/stream`](https://github.com/fivsevn/fivsevn-assets/tree/main/post/stream)，Working Copy 提交并推送。每张新图片生成一条 flux 记录；配文写在提交的 extended description，可用 Markdown。图片复制进 flux 文章包，相同路径不会重复发文。
+沿用快捷指令 → [`assets/post/stream`](https://github.com/fivsevn/fivsevn-assets/tree/main/post/stream) → Working Copy 提交并推送。每张新图片生成一条记录；配文写在提交的 extended description，可用 Markdown。
 
-### 修改、撤下原帖
+### 修改旧帖
 
-直接修改 [flux 文章包](https://github.com/fivsevn/fivsevn-flux/tree/main/flux) 中对应的 `index.md`，提交后自动部署。保留目录、id 和 date；不要回头改 trigger 来修改旧帖。撤下网页可设 `status: hidden`，公开仓库和历史仍保留文件。
+1. 在 flux 点击该帖标题，进入独立页面。
+2. 按网址找到 [flux 仓库](https://github.com/fivsevn/fivsevn-flux/tree/main/flux)中的文件：`/page/年/月/帖子编号/` 对应 `flux/年/月/帖子编号/index.md`。
+3. 改正文，或改顶部 `title`；图片和配文也在这个文章包里。保留 `date`、`id`、目录和来源字段。
+4. 提交并推送，等待自动部署。标题链接、下方发布时间和原排序保持不变。
 
-### 历史记录与 WordPress
+**trigger 只负责新发一条；修改旧帖要改 flux 里的原文件。**
 
-2026-10-18 起，flux 独立发布。历史文章包保留原日期和网址，统一由 flux 管理；WordPress 定时同步和全量扫描已停用。以后删除 WordPress 的 posts 不会删除 flux 内容。
+### 删除或恢复旧帖
 
-操作及构建细节见 [flux README](https://github.com/fivsevn/fivsevn-flux/blob/main/README.md)。
+- **从网页撤下、保留文件**：在该帖 `index.md` 顶部设置 `status: hidden`，提交并推送。恢复时改为 `status: published`；原网址和发布时间不变。
+- **连文件一起删除**：删除该帖整个 `flux/年/月/帖子编号/` 文件夹及其附件，再提交并推送。部署后首页不再显示，旧的独立页面网址失效。删除前确认附件没有被其他帖子引用。
+- 撤下和删除都会移除线上独立页面；GitHub 历史仍保留。误删可从历史恢复该文件夹。不要删除 trigger 来删旧帖。
+
+### 何时生效
+
+新文字和图片约每 5 分钟检查一次，GitHub 调度可能延后；直接修改或删除 flux 文章包会触发构建。检查 [Publish flux](https://github.com/fivsevn/fivsevn-flux/actions/workflows/build.yml) 成功后刷新页面；devlog 的格式检查成功不等于已上线。
+
+日常发布方法统一看本节。文件维护和构建细节见 [flux 英文后台说明](https://github.com/fivsevn/fivsevn-flux/blob/main/README.md#edit-an-existing-entry)。WordPress 已退出短帖流程，删除 WordPress 旧帖不会影响 flux。
 
 ---
 
