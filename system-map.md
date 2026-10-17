@@ -95,7 +95,7 @@ fivsevn-devlog/             主要目录与文件
 
 ```text
 随手文字    trigger.md 提交 → flux 定时接收 Markdown → 构建并部署 GitHub Pages
-随手图片    assets/post/stream → flux 定时接收图片与配文 → 构建并部署
+随手图片    assets/post/flux → flux 定时接收图片与配文 → 构建并部署
 其他单图    assets 其他发布目录 → Actions 组装图片与分类 → WordPress 发帖
 摄影作品集  assets 保存照片 → WordPress 手动引用、编排并发布
 视频作品    YouTube RSS → Actions 读取最新一条 → WordPress 嵌入

@@ -68,7 +68,7 @@ title: ""
 
 ### 新建图片
 
-沿用快捷指令 → [`assets/post/stream`](https://github.com/fivsevn/fivsevn-assets/tree/main/post/stream) → Working Copy 提交并推送。每张新图片生成一条记录；配文写在提交的 extended description，可用 Markdown。
+沿用快捷指令 → [`assets/post/flux`](https://github.com/fivsevn/fivsevn-assets/tree/main/post/flux) → Working Copy 提交并推送。目录改名后，先在 Working Copy 拉取更新，再把快捷指令的保存位置重新选为 `post/flux/`（[图片说明与快捷指令](https://github.com/fivsevn/fivsevn-assets/blob/main/post/README.md)）。每张新图片生成一条记录；配文写在提交的 extended description，可用 Markdown。
 
 ### 修改旧帖
 
