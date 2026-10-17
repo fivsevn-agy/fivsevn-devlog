@@ -16,7 +16,7 @@ MODULES = {
         "index": "posts/index.md",
         "heading": "## Recent Posts",
         "marker": "POSTS_RECENT",
-        "exclude_dirs": {"assets", "_drafts", "_wordpress", "ai-discourse-analysis"},
+        "exclude_dirs": {"assets", "_drafts", "_wordpress", "_flux", "ai-discourse-analysis"},
     },
     "natsci": {
         "root": "natsci",

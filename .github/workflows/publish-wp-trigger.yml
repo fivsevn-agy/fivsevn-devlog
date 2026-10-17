@@ -3,13 +3,13 @@ on:
   push:
     branches: [main]
     paths:
-      - 'posts/_wordpress/trigger.md'
+      - 'posts/_flux/trigger.md'
       - 'scripts/publish_wp_text.py'
       - 'tests/test_publish_wp_text.py'
       - '.github/workflows/publish-wp-trigger.yml'
   pull_request:
     paths:
-      - 'posts/_wordpress/trigger.md'
+      - 'posts/_flux/trigger.md'
       - 'scripts/publish_wp_text.py'
       - 'tests/test_publish_wp_text.py'
       - '.github/workflows/publish-wp-trigger.yml'

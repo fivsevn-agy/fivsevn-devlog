@@ -34,6 +34,7 @@ class IndexTests(unittest.TestCase):
     def test_publish_control_path_is_not_an_article(self):
         root=ROOT/'posts'
         self.assertTrue(index.should_skip_path(root/'_wordpress/trigger.md',root,index.MODULES['posts']['exclude_dirs']))
+        self.assertTrue(index.should_skip_path(root/'_flux/trigger.md',root,index.MODULES['posts']['exclude_dirs']))
     def test_readme_excluded(self):
         root=ROOT/'posts';self.assertTrue(index.should_skip_path(root/'README.md',root,set()))
     def test_date_precedence_unchanged(self):

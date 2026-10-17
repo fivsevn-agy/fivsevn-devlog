@@ -5,7 +5,7 @@ import yaml
 import markdown
 
 ROOT = Path(__file__).resolve().parents[1]
-SOURCE_FILE = ROOT / 'posts/_wordpress/trigger.md'
+SOURCE_FILE = ROOT / 'posts/_flux/trigger.md'
 
 
 def split_frontmatter(text):
@@ -22,8 +22,10 @@ def split_frontmatter(text):
 
 def validate(text):
     meta,body=split_frontmatter(text)
-    if str(meta.get('wp_status') or 'publish') not in {'publish','draft','pending','private'}:
-        raise ValueError('Use publish, draft, pending or private; future scheduling is not supported')
+    if str(meta.get('status') or meta.get('wp_status') or 'published') not in {'published','publish','draft','pending','private'}:
+        raise ValueError('Use status: published or draft; future scheduling is not supported')
+    if meta.get('title') is not None and not isinstance(meta['title'],str):
+        raise ValueError('title must be text; use title: "" for the default time title')
     return markdown.markdown(body,extensions=['extra','sane_lists','nl2br'])
 
 
