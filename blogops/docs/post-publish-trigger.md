@@ -39,7 +39,7 @@ metadata_updated: "2026-10-18"
 
 - **发短文**：[posts README｜新建文字](../../posts/README.md#新建文字)。使用 devlog 仓库的 `posts/_flux/trigger.md`，发布去向为 [flux](https://flux.fivsevn.com/)。
 - **修改、删除旧短帖**：[posts README｜修改旧帖](../../posts/README.md#修改旧帖) · [删除或恢复旧帖](../../posts/README.md#删除或恢复旧帖)。
-- **发图片**：原快捷指令 → assets 的 `post/stream` → flux 自动接收。
+- **发图片**：原快捷指令 → assets 的 `post/flux` → flux 自动接收。
 - **发布或修改长文**：[posts](../../posts/README.md) · [natsci](../../natsci/README.md) · [netcom](../../netcom/README.md)。
 - **目录刷新**：[自动目录入口](auto-index.md)，不负责短文发布。
 - **草稿处理**：[自动草稿入口](auto-draft-frontmatter.md)。
