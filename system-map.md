@@ -64,7 +64,7 @@ fivsevn-devlog/             主要目录与文件
 
 | 板块 | 内容与页面 | 操作说明 |
 |---|---|---|
-| **posts** | [WordPress 随手记录](https://fivsevn.com/posts/)；[devlog 长文存档](https://devlog.fivsevn.com/posts/)，含原创、旧文、译文及 AI 笔记，底部另列 AI 话语分析 | [posts README](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/posts/README.md) |
+| **posts** | [flux 随手记录](https://flux.fivsevn.com/)；[devlog 长文存档](https://devlog.fivsevn.com/posts/)，含原创、旧文、译文及 AI 笔记，底部另列 AI 话语分析 | [posts README](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/posts/README.md) |
 | **foodie** | [吃喝记录](https://fivsevn.com/foodie/)，按图片目录区分标签，WordPress 展示 | [foodie README](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/foodie/README.md) |
 | **natsci** | [WordPress 自然观察单图](https://fivsevn.com/natsci/)；[devlog 自然科学长文](https://devlog.fivsevn.com/natsci/) | [natsci README](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/natsci/README.md) |
 | **netcom** | [通信、计算机与工程笔记](https://devlog.fivsevn.com/netcom/)，目前只有 devlog 长文 | [netcom README](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/netcom/README.md) |
@@ -74,7 +74,7 @@ fivsevn-devlog/             主要目录与文件
 | **now** | [当前近况](https://devlog.fivsevn.com/now/)，参与 [nownownow](https://nownownow.com/p/kUDQ)，手动更新 | [now README](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/now/README.md) |
 | **intake** | [资料与 RSS 页面](https://devlog.fivsevn.com/intake/)，定时生成，不是永久文章存档 | [intake README](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/intake/README.md) |
 
-- **[flux](https://flux.fivsevn.com/)**：WordPress posts 的静态副本，兼作备份与迁移试验；不是第三类日常写作，也不是全站备份。继续使用 WordPress，不预设停用日期。
+- **[flux](https://flux.fivsevn.com/)**：2026-10-18 起独立承接 posts 短文字和图片，直接从 GitHub 发布，历史文章包保留；不再同步 WordPress。
 - **[57store](https://fivsevn.com/57store/)**：独立的虚构叙事与创作入口。它与游戏项目各自维护，不混入普通笔记或博客发布流程。
 - 以上为当前内容分工，不是固定分类表；新增、合并或撤下板块时再调整。
 
@@ -82,25 +82,26 @@ fivsevn-devlog/             主要目录与文件
 
 | 位置 | 保存与维护的内容 |
 |---|---|
-| **[WordPress 后台](https://fivsevn.com/wp-admin/)** | 主站布局、视觉效果、短帖和作品页面。已发布短帖在这里修改，不回头改 trigger |
+| **[WordPress 后台](https://fivsevn.com/wp-admin/)** | 主站布局、视觉效果和其他作品页面；posts 短帖已转到 flux |
 | **[fivsevn-agy/fivsevn-devlog](https://github.com/fivsevn-agy/fivsevn-devlog)** | 长文 Markdown、板块说明、日志、近况、来源清单与相关脚本；直接改原文件 |
 | **[fivsevn/fivsevn-assets](https://github.com/fivsevn/fivsevn-assets)** | 自有图片、照片和静态资源，以及图片／YouTube 自动发帖脚本；页面引用图片链接 |
-| **[fivsevn/fivsevn-flux](https://github.com/fivsevn/fivsevn-flux)** | 从 WordPress 获取的 posts 文章包和静态页面；正常同步以 WordPress 为准，不反向修改 WordPress |
+| **[fivsevn/fivsevn-flux](https://github.com/fivsevn/fivsevn-flux)** | posts 文章包、文字与图片接收流程、静态页面；已发布短帖直接在这里修改 |
 | **[fivsevn-agy/fivsevn-spec](https://github.com/fivsevn-agy/fivsevn-spec)** | metadata、翻译、来源、引用、日期和提交等公共规范；板块说明链接过去，不复制整套规范 |
 | **[YouTube @fivsevn](https://www.youtube.com/@fivsevn)** | 视频托管；WordPress 保存嵌入内容，视频原文件另行备份 |
 
-> 同一板块可以跨仓库，但不要求两边各写一份。长文改 devlog，短帖与视觉编排改 WordPress，图片文件改 assets；flux 默认跟随 WordPress。
+> 同一板块可以跨仓库，但不要求两边各写一份。长文改 devlog，短帖改 flux，主站视觉编排改 WordPress，图片源文件改 assets。
 
 ## 4. 发布关系速览
 
 ```text
-随手文字    trigger.md → Actions 读取正文、转 HTML → WordPress REST API 新建帖子
-指定单图    assets 发布目录 → Actions 组装图片与分类 → WordPress 发帖
+随手文字    trigger.md 提交 → flux 定时接收 Markdown → 构建并部署 GitHub Pages
+随手图片    assets/post/stream → flux 定时接收图片与配文 → 构建并部署
+其他单图    assets 其他发布目录 → Actions 组装图片与分类 → WordPress 发帖
 摄影作品集  assets 保存照片 → WordPress 手动引用、编排并发布
 视频作品    YouTube RSS → Actions 读取最新一条 → WordPress 嵌入
 长文章      devlog Markdown → 目录任务重算列表；站点构建、部署 → GitHub Pages
 日志／近况  手动修改各自 index.md → 站点构建、部署 → GitHub Pages
-posts 副本  WordPress 公开 posts → flux 定时获取、保存文章包 → 构建静态页面
+posts 历史  flux 已保存文章包；WordPress 同步停用，删除原站不影响副本
 资料入口    intake/sources.md → 定时抓取与组装 → intake 页面、llm-context.md
 ```
 
@@ -121,4 +122,4 @@ posts 副本  WordPress 公开 posts → flux 定时获取、保存文章包 →
 
 ---
 
-核对日期：2026-10-13。按当前主站入口、仓库结构与各板块说明整理；独立创作和游戏项目仅保留边界，不在此展开。
+核对日期：2026-10-18。按当前主站入口、仓库结构与各板块说明整理；独立创作和游戏项目仅保留边界，不在此展开。

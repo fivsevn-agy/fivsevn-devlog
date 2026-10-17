@@ -1,68 +1,34 @@
-name: Publish WordPress Trigger
-
+name: Check flux trigger
 on:
   push:
     branches: [main]
     paths:
-      - "posts/_wordpress/trigger.md"
-      - "scripts/publish_wp_text.py"
-      - "tests/test_publish_wp_text.py"
-      - ".github/workflows/publish-wp-trigger.yml"
+      - 'posts/_wordpress/trigger.md'
+      - 'scripts/publish_wp_text.py'
+      - 'tests/test_publish_wp_text.py'
+      - '.github/workflows/publish-wp-trigger.yml'
   pull_request:
     paths:
-      - "posts/_wordpress/trigger.md"
-      - "scripts/publish_wp_text.py"
-      - "tests/test_publish_wp_text.py"
-      - ".github/workflows/publish-wp-trigger.yml"
+      - 'posts/_wordpress/trigger.md'
+      - 'scripts/publish_wp_text.py'
+      - 'tests/test_publish_wp_text.py'
+      - '.github/workflows/publish-wp-trigger.yml'
   workflow_dispatch:
-
 permissions:
   contents: read
-
-# Serialize publication, including manual retries. Keep queued runs, not just the latest.
-concurrency:
-  group: publish-wp-trigger
-  queue: max
-  cancel-in-progress: false
-
 jobs:
-  publish:
+  validate:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
-          fetch-depth: 0
-          persist-credentials: false
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - name: Install dependencies
-        run: pip install requests markdown pyyaml
-
-      - name: Run offline publishing tests
-        run: python -m unittest discover -s tests -p 'test_publish_wp_text.py' -v
-
-      - name: Check whether this event may publish
-        id: gate
-        run: python scripts/publish_wp_text.py --check-event
-
-      - name: Validate trigger without publishing
-        run: python scripts/publish_wp_text.py --dry-run
-
-      - name: Publish trigger to WordPress
-        if: steps.gate.outputs.publish == 'true' && github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
-        env:
-          WP_SITE_URL: ${{ secrets.WP_SITE_URL }}
-          WP_USERNAME: ${{ secrets.WP_USERNAME }}
-          WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
-          WP_SOURCE_FILE: posts/_wordpress/trigger.md
-          WP_POST_TYPE: posts
-          WP_TIMEZONE: Asia/Taipei
-          WP_CATEGORY_SLUG: posts
-        run: python scripts/publish_wp_text.py
+          python-version: '3.12'
+      - run: pip install markdown pyyaml
+      - run: python -m unittest discover -s tests -p 'test_publish_wp_text.py' -v
+      - run: python scripts/publish_wp_text.py --dry-run
+      - name: Publication location
+        run: |
+          echo 'Markdown validated. flux imports main-branch trigger commits approximately every 5 minutes, then builds and deploys.' >> "$GITHUB_STEP_SUMMARY"
+          echo '[Check flux publication](https://github.com/fivsevn/fivsevn-flux/actions/workflows/build.yml)' >> "$GITHUB_STEP_SUMMARY"
+          echo 'WordPress is not used. Validation success is not a deployment confirmation.' >> "$GITHUB_STEP_SUMMARY"

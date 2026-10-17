@@ -30,8 +30,8 @@ note: "未记录原始写作日期；created 为本路径首次 Git 记录日期
 filename_policy: "entrypoint"
 
 created: "2026-10-13"
-updated: "2026-10-15"
-metadata_updated: "2026-10-15"
+updated: "2026-10-18"
+metadata_updated: "2026-10-18"
 ---
 # posts 板块说明
 
@@ -44,54 +44,38 @@ fivsevn-devlog/posts/
 ├── 2026/                   2026 年文章
 ├── _drafts/                长文草稿
 ├── _wordpress/
-│   └── trigger.md          WordPress 文字发布入口
+│   └── trigger.md          flux 文字发布入口（保留旧路径）
 └── ai-discourse-analysis/  AI 话语分析独立栏目
 ```
 
-- **[WordPress posts](https://fivsevn.com/posts/)**：随手发文字、图片。
-- **[flux](https://flux.fivsevn.com/)**：同步 WordPress，作为静态备份与迁移试验。
+- **[flux](https://flux.fivsevn.com/)**：随手发文字、图片，直接从 GitHub 发布。
 - **[devlog posts](https://devlog.fivsevn.com/posts/)**：保存需要长期整理、修改和查阅的文章。
 
 ---
 
-## 1. 短内容｜WordPress
+## 1. 短内容｜flux
 
 ### 新建文字
 
-- 替换 [`trigger.md`](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/posts/_wordpress/trigger.md) 正文，保留发布配置 → 提交并推送 → 新发一条。
+继续替换 [`trigger.md`](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/posts/_wordpress/trigger.md) 正文，保留原配置，提交并推送到 `main`。支持 `[文字](网址)` 等 Markdown 格式。旧路径保留以兼容手机入口，**不再调用 WordPress**。
 
-> [文字发布任务](https://github.com/fivsevn-agy/fivsevn-devlog/actions/workflows/publish-wp-trigger.yml)启动 → 测试与无发布预览 → 确认本次推送改了 trigger → [脚本](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/scripts/publish_wp_text.py)读取正文、转成 HTML → 调用 [WordPress REST API](https://developer.wordpress.org/rest-api/reference/posts/) 新建帖子。  
-> 脚本用 Actions Secrets 中的 WordPress 账号与应用密码验证身份；配置区不进入正文，标题按运行时间生成。
+flux 约每 5 分钟检查新提交，把每次 trigger 变更保存成独立 Markdown 记录，再构建和部署。GitHub 调度可能延后。相同提交重试不会重复发文，也不会覆盖人工修改；显式 `slug` 仍只创建一次。`wp_status: publish` 继续有效；其他非公开状态保存为草稿（公开仓库不提供保密能力），不支持 `future`。
 
-- **只维护脚本／工作流**：运行测试和预览，跳过发文；不需要清空 trigger。PR 和非 `main` 分支也不发文。
-- **重跑／手动运行**：按最近一次 trigger 变更的提交生成 slug，查到同一帖子就跳过，不覆盖 WordPress 的人工修改。重试不要另做一次 trigger 提交；验证命令见[脚本维护入口](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/blogops/docs/post-publish-trigger.md#脚本维护与验证)。
+本仓库的 [Check flux trigger](https://github.com/fivsevn-agy/fivsevn-devlog/actions/workflows/publish-wp-trigger.yml) 只校验格式。实际是否上线，检查 [Publish flux](https://github.com/fivsevn/fivsevn-flux/actions/workflows/build.yml) 和 [flux 页面](https://flux.fivsevn.com/)。
 
 ### 新建图片
 
-- 快捷指令选择 [`post/stream`](https://github.com/fivsevn/fivsevn-assets/tree/main/post/stream) → Working Copy 提交并推送 → 每张新图片新发一条。
-- **配文**：写在提交的 extended description，不放技术操作说明。
+快捷指令仍选择 [`post/stream`](https://github.com/fivsevn/fivsevn-assets/tree/main/post/stream)，Working Copy 提交并推送。每张新图片生成一条 flux 记录；配文写在提交的 extended description，可用 Markdown。图片复制进 flux 文章包，相同路径不会重复发文。
 
-> [图片发布任务](https://github.com/fivsevn/fivsevn-assets/actions/workflows/publish-image-posts.yml)检查本次推送的图片 → [脚本](https://github.com/fivsevn/fivsevn-assets/blob/main/scripts/publish_image_posts.py)把 CDN 图片链接和配文组装成 WordPress 区块 → 调用 [WordPress REST API](https://developer.wordpress.org/rest-api/reference/posts/) 新建帖子。  
-> 图片留在 assets 仓库，不上传 WordPress 媒体库；脚本按图片路径生成 slug，查到已有帖子就跳过。详见[图片发布说明](https://github.com/fivsevn/fivsevn-assets/blob/main/README.md#image-post-automation)。
+### 修改、撤下原帖
 
-### 修改原帖
+直接修改 [flux 文章包](https://github.com/fivsevn/fivsevn-flux/tree/main/flux) 中对应的 `index.md`，提交后自动部署。保留目录、id 和 date；不要回头改 trigger 来修改旧帖。撤下网页可设 `status: hidden`，公开仓库和历史仍保留文件。
 
-- **小改、大改、改标题**：在 [WordPress 后台](https://fivsevn.com/wp-admin/)更新原帖，**不回头改 trigger**。
-- **原始发布时间**：尽量不改；flux 按这个时间定位文章包，改动可能另建新包并留下旧包。
-- **另发一条**：重新使用 trigger 或图片快捷指令，旧帖保留。
+### 历史记录与 WordPress
 
-> WordPress 保存原帖新版 → flux 下次扫描到它时，用标题、正文等信息计算 `source_hash` → 与副本记录对比 → 有变化就更新原包。  
-> 正常同步以 WordPress 为准，不回写 trigger；`sync: manual` 的包跳过正文同步。改 trigger 再提交，默认是新帖，不是修改旧帖。
+2026-10-18 起，flux 独立发布。历史文章包保留原日期和网址，统一由 flux 管理；WordPress 定时同步和全量扫描已停用。以后删除 WordPress 的 posts 不会删除 flux 内容。
 
-### flux 同步与撤下
-
-- **近期内容**：[自动同步任务](https://github.com/fivsevn/fivsevn-flux/actions/workflows/sync-live.yml)每天定时检查 **5 次**，范围为按发表日期排序的最新 **77 条**公开 posts；自动管理的包使用 `sync: auto`。不是实时同步。
-- **旧帖修改**：手动运行 [Full rescan WordPress posts](https://github.com/fivsevn/fivsevn-flux/actions/workflows/full-rescan.yml)，当前上限 **9999 条**。
-- **只运行 [Build flux](https://github.com/fivsevn/fivsevn-flux/actions/workflows/build.yml)**：只构建仓库已有内容，不读取 WordPress。
-- **撤下、转私密、删除**：WordPress 处理后，还要另行撤下 [flux 对应副本](https://github.com/fivsevn/fivsevn-flux/tree/main/flux)；当前**不会自动同步删除**。
-
-> [同步脚本](https://github.com/fivsevn/fivsevn-flux/blob/main/scripts/sync-from-live.py)读取 WordPress REST API → 正文转 Markdown、尽量下载图片 → 保存文章包到 `flux/YYYY/MM/{id}/` → 自动提交 → 启动 Build flux。  
-> [构建脚本](https://github.com/fivsevn/fivsevn-flux/blob/main/scripts/build.py)读取文章包 → 生成 HTML 时间线与文章页 → 提交回仓库；随后检查 Pages 部署和实际网页。当前同步任务未启用删除检查。
+操作及构建细节见 [flux README](https://github.com/fivsevn/fivsevn-flux/blob/main/README.md)。
 
 ---
 
@@ -168,4 +152,4 @@ fivsevn-devlog/posts/
 
 ---
 
-核对日期：2026-10-13。本文只覆盖 posts，按当前脚本与工作流记录。
+核对日期：2026-10-18。短内容已由 flux 接管，长文流程保持原样。
