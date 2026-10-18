@@ -36,7 +36,9 @@ updated: 2026-06-15
 ---
 ## 五月七日的思考札记 ▶ 个人笔记
 
-### 回到主站 ▷ ./[`home.posts`](https://fivsevn.com/posts/)  
+### 回到主站 ▷ ./[`home`](https://fivsevn.com)  
+
+### 回到时间线 ▷ ./[`flux`](https://flux.fivsevn.com)   
 
 ### 内容仓库 ▽ ./[`devlog.posts`](https://devlog.fivsevn.com/posts)  
 
