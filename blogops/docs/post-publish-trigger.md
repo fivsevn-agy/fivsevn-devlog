@@ -37,9 +37,9 @@ metadata_updated: "2026-10-18"
 
 # 发布入口说明
 
-- **发短文**：[posts README｜新建文字](../../posts/README.md#新建文字)。使用 flux 仓库的 [`trigger.md`](https://github.com/fivsevn/fivsevn-flux/blob/main/trigger.md)，发布去向为 [flux](https://flux.fivsevn.com/)。
+- **发短文**：[posts README｜新建文字](../../posts/README.md#新建文字)。使用 flux 仓库的 [`trigger_text.md`](https://github.com/fivsevn/fivsevn-flux/blob/main/trigger_text.md)，发布去向为 [flux](https://flux.fivsevn.com/)。
 - **修改、删除旧短帖**：[posts README｜修改旧帖](../../posts/README.md#修改旧帖) · [删除或恢复旧帖](../../posts/README.md#删除或恢复旧帖)。
-- **发图片**：快捷指令 → flux 仓库的 [`uploads/`](https://github.com/fivsevn/fivsevn-flux/tree/main/uploads) → 提交并推送直接发布。
+- **发图片**：快捷指令 → flux 仓库的 [`trigger_imgs/`](https://github.com/fivsevn/fivsevn-flux/tree/main/trigger_imgs) → 提交并推送直接发布。
 - **发布或修改长文**：[posts](../../posts/README.md) · [natsci](../../natsci/README.md) · [netcom](../../netcom/README.md)。
 - **目录刷新**：[自动目录入口](auto-index.md)，不负责短文发布。
 - **草稿处理**：[自动草稿入口](auto-draft-frontmatter.md)。
