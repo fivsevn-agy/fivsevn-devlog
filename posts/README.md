@@ -66,7 +66,9 @@ title: ""
 
 ### 新建图片
 
-沿用快捷指令 → [`assets/post/flux`](https://github.com/fivsevn/fivsevn-assets/tree/main/post/flux) → Working Copy 提交并推送。目录改名后，先在 Working Copy 拉取更新，再把快捷指令的保存位置重新选为 `post/flux/`（[图片说明与快捷指令](https://github.com/fivsevn/fivsevn-assets/blob/main/post/README.md)）。每张新图片生成一条记录；配文写在提交的 extended description，可用 Markdown。
+快捷指令 → **flux 仓库的 [`uploads/`](https://github.com/fivsevn/fivsevn-flux/tree/main/uploads)** → Working Copy 提交并推送到 `main`，立即启动发布。每张新图片生成一条记录；配文写在提交的 extended description，可用 Markdown。同次提交多张图片时，每张各发一帖，使用同一段配文；不写配文则只显示图片。
+
+手机先在 Working Copy 拉取 `fivsevn-flux` 最新版本，再把快捷指令 flux 分支的“存储文件”目标仓库选为 **fivsevn-flux**，目录选为 **uploads/**。如果分支中还有提交或推送动作，也改为 fivsevn-flux。支持 JPG/JPEG、PNG、WebP、GIF；HEIC 先转 JPEG。每次新发使用新文件名，避免覆盖已处理的原稿。[图片目录说明](https://github.com/fivsevn/fivsevn-flux/blob/main/uploads/README.md)。
 
 ### 修改旧帖
 
@@ -87,7 +89,7 @@ title: ""
 
 新文字推送后直接启动 [Publish flux](https://github.com/fivsevn/fivsevn-flux/actions/workflows/build.yml)，无需等待定时检查。任务会导入正文、构建、部署，再核对线上首页和新帖页面；全部通过才显示成功。格式错误、导入失败或部署失败都会显示失败，可查看失败步骤并重跑；重跑不会重复导入同一条提交。`status: draft` 只存档，不上网页。直接修改或删除 flux 文章包也会启动同一任务。
 
-图片仍沿用 assets 快捷指令路径，由约每 5 分钟的备用任务读取；GitHub 调度可能延后。图片发布也以 Publish flux 和实际页面为准。
+文字和图片现在都在 flux 仓库提交后直接发布，无需等待定时任务，也不再读取 assets 的 flux 图片目录。图片上线时还会核对实际图片文件，防止页面正常而图片缺失。
 
 日常发布方法统一看本节。文件维护和构建细节见 [flux 英文后台说明](https://github.com/fivsevn/fivsevn-flux/blob/main/README.md#edit-an-existing-entry)。WordPress 已退出短帖流程，删除 WordPress 旧帖不会影响 flux。
 
