@@ -68,7 +68,7 @@ title: ""
 
 快捷指令 → **flux 仓库的 [`trigger_imgs/`](https://github.com/fivsevn/fivsevn-flux/tree/main/trigger_imgs)** → Working Copy 提交并推送到 `main`，立即启动发布。每张新图片生成一条记录；配文写在提交的 extended description，可用 Markdown。同次提交多张图片时，每张各发一帖，使用同一段配文；不写配文则只显示图片。
 
-手机先在 Working Copy 拉取 `fivsevn-flux` 最新版本，再把快捷指令 flux 分支的“存储文件”目标仓库选为 **fivsevn-flux**，目录选为 **trigger_imgs/**。如果分支中还有提交或推送动作，也改为 fivsevn-flux。支持 JPG/JPEG、PNG、WebP、GIF、HEIC/HEIF。每次新发使用时间戳文件名，例如 `20261018-093012-01.jpg`。仓库自动转 WebP、生成发布包、制作网页并发布；核验公开页面和图片后，清除入口原图。失败时保留原图，重跑不重复发帖。手机不用提前转换格式或创建发布包。[图片目录说明](https://github.com/fivsevn/fivsevn-flux/blob/main/trigger_imgs/README.md)。
+手机先在 Working Copy 拉取 `fivsevn-flux` 最新版本，再把快捷指令 flux 分支的“存储文件”目标仓库选为 **fivsevn-flux**，目录选为 **trigger_imgs/**。如果分支中还有提交或推送动作，也改为 fivsevn-flux。支持 JPG/JPEG、PNG、WebP、GIF、HEIC/HEIF。保留手机原文件名即可，不用手动命名。仓库按上传提交的北京时间自动命名，例如 `20261018-103012-01.webp`，同批多张自动加序号；原稿清理后，下次可以继续上传同名文件。仓库自动转 WebP、生成发布包、制作网页并发布；核验公开页面和图片后，清除入口原图。失败时保留原图，重跑不重复发帖。手机不用提前转换格式或创建发布包。[图片目录说明](https://github.com/fivsevn/fivsevn-flux/blob/main/trigger_imgs/README.md)。
 
 ### 修改旧帖
 
