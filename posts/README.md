@@ -55,43 +55,92 @@ fivsevn-devlog/posts/
 
 ### 新建文字
 
-打开 **flux 仓库的 [`trigger_text.md`](https://github.com/fivsevn/fivsevn-flux/blob/main/trigger_text.md)**，替换配置区后面的正文，提交并推送到该仓库的 `main`。正文用 Markdown，链接写成 `[文字](网址)`。这是唯一的文字发布入口；devlog 原来的 trigger 已移除。
+1. 打开 flux 仓库的 [`trigger_text.md`](https://github.com/fivsevn/fivsevn-flux/blob/main/trigger_text.md)。
+2. 保留文件顶部的配置区，设置发布状态和标题：
 
-```yaml
-status: published
-title: ""
-```
+   ```yaml
+   status: published
+   title: ""
+   ```
 
-`title` 留空，用发布当时的时间作标题；填写 `title: "你的标题"` 则显示自定义标题。下方实际发布时间独立保存，发布后保持不变。下一条要恢复时间标题，把 `title` 清空。`status: draft` 不上网页，但仓库中的文件仍公开。
+3. 在配置区结束线 `---` 后替换正文。正文用 Markdown，链接写成 `[文字](网址)`。
+4. 提交并推送到 flux 仓库的 `main`，等待 [Publish flux](https://github.com/fivsevn/fivsevn-flux/actions/workflows/build.yml) 完成，再打开网页确认。
+
+> **标题**：`title` 留空时，系统用提交时的北京时间生成标题；填写 `title: "你的标题"` 则显示自定义标题。下一条要恢复时间标题，把 `title` 清空。
+>
+> **发布时间**：下方实际发布时间独立保存，发布后保持不变。修改标题不会改变它。
+>
+> **草稿**：`status: draft` 只保存草稿，不上网页；GitHub 仓库中的文件仍然公开。
 
 ### 新建图片
 
-快捷指令 → **flux 仓库的 [`trigger_imgs/`](https://github.com/fivsevn/fivsevn-flux/tree/main/trigger_imgs)** → Working Copy 提交并推送到 `main`，立即启动发布。每张新图片生成一条记录；配文写在提交的 extended description，可用 Markdown。同次提交多张图片时，每张各发一帖，使用同一段配文；不写配文则只显示图片。
+**首次设置快捷指令**
 
-手机先在 Working Copy 拉取 `fivsevn-flux` 最新版本，再把快捷指令 flux 分支的“存储文件”目标仓库选为 **fivsevn-flux**，目录选为 **trigger_imgs/**。如果分支中还有提交或推送动作，也改为 fivsevn-flux。支持 JPG/JPEG、PNG、WebP、GIF、HEIC/HEIF。保留手机原文件名即可，不用手动命名。仓库按上传提交的北京时间自动命名，例如 `20261018-103012-01.webp`，同批多张自动加序号；原稿清理后，下次可以继续上传同名文件。仓库自动转 WebP、生成发布包、制作网页并发布；核验公开页面和图片后，清除入口原图。失败时保留原图，重跑不重复发帖。手机不用提前转换格式或创建发布包。[图片目录说明](https://github.com/fivsevn/fivsevn-flux/blob/main/trigger_imgs/README.md)。
+1. 将 flux 分支的“存储文件”目标设为 **fivsevn-flux** 仓库，目录选为 [`trigger_imgs/`](https://github.com/fivsevn/fivsevn-flux/tree/main/trigger_imgs)。
+2. 在保存图片前，通过 Working Copy 自动拉取该仓库最新的 `main`。
+3. 在保存图片后，提交并推送到同一仓库的 `main`；快捷指令中已有的提交、推送动作也要指向 fivsevn-flux。
+
+**日常发布**
+
+1. 选择图片，运行快捷指令。保留手机原文件名即可。
+2. 需要配文时，写在提交的 extended description 中，支持 Markdown；不需要配文就留空。
+3. 等待 [Publish flux](https://github.com/fivsevn/fivsevn-flux/actions/workflows/build.yml) 完成，打开 flux 核对图片和配文。
+
+> **文件格式**：支持 JPG/JPEG、PNG、WebP、GIF、HEIC/HEIF。手机不用提前转换格式或创建发布包。
+>
+> **自动命名**：仓库按上传提交的北京时间命名，例如 `20261018-103012-01.webp`；同批多张自动加序号。原稿清理后，下次可以继续上传同名文件。
+>
+> **批量与配文**：同次提交多张图片时，每张各生成一帖，使用同一段配文；不写配文则只显示图片。
+>
+> **图片处理**：仓库自动转 WebP、保存发布包、制作网页并发布。核验公开页面和图片后，清除入口原图；失败时保留原图，重跑不重复发帖。
+>
+> 完整设置见 [图片目录说明](https://github.com/fivsevn/fivsevn-flux/blob/main/trigger_imgs/README.md)。
 
 ### 修改旧帖
 
 1. 在 flux 点击该帖标题，进入独立页面。
 2. 按网址找到 [flux 仓库](https://github.com/fivsevn/fivsevn-flux/tree/main/flux)中的文件：`/page/年/月/帖子编号/` 对应 `flux/年/月/帖子编号/index.md`。
-3. 改正文，或改顶部 `title`；图片和配文也在这个文章包里。保留 `date`、`id`、目录和来源字段。
-4. 提交并推送，等待自动部署。标题链接、下方发布时间和原排序保持不变。
+3. 修改 `index.md` 的正文、配文或顶部 `title`。需要换图时，在该发布包的 `assets/` 中保存图片，并更新正文里的图片链接。
+4. 提交并推送，等待部署完成，再核对首页和独立页面。
 
-**trigger 只负责新发一条；修改旧帖要改 flux 里的原文件。**
+> 保留 `date`、`id`、目录和来源字段。修改标题不会改变原网址、下方发布时间或时间排序。
+>
+> **trigger 只负责新发一条。修改旧帖要改对应的发布包；再次提交 trigger 会生成新帖。**
 
 ### 删除或恢复旧帖
 
-- **从网页撤下、保留文件**：在该帖 `index.md` 顶部设置 `status: hidden`，提交并推送。恢复时改为 `status: published`；原网址和发布时间不变。
-- **连文件一起删除**：删除该帖整个 `flux/年/月/帖子编号/` 文件夹及其附件，再提交并推送。部署后首页不再显示，旧的独立页面网址失效。删除前确认附件没有被其他帖子引用。
-- 撤下和删除都会移除线上独立页面；GitHub 历史仍保留。误删可从历史恢复该文件夹。不要删除 trigger 来删旧帖。
+**从网页撤下，保留仓库文件**
+
+1. 打开该帖的 `index.md`，将顶部状态改为 `status: hidden`。
+2. 提交并推送，等待部署完成。
+3. 确认首页和原独立页面都不再显示该帖。
+
+**恢复已撤下的帖子**
+
+1. 将该帖状态改回 `status: published`。
+2. 提交并推送，确认原网址恢复显示。
+
+**连发布包一起删除**
+
+1. 确认包内附件没有被其他帖子引用。
+2. 删除整个 `flux/年/月/帖子编号/` 文件夹及其附件，再提交并推送。
+3. 部署完成后，确认首页不再显示该帖，原独立页面无法访问。
+
+> 恢复已撤下的帖子会保留原网址和发布时间。
+>
+> 删除后 GitHub 历史仍保留原文件；误删时可从历史恢复整个发布包。不要通过删除 trigger 来删除旧帖。
 
 ### 何时生效
 
-新文字推送后直接启动 [Publish flux](https://github.com/fivsevn/fivsevn-flux/actions/workflows/build.yml)，无需等待定时检查。任务会导入正文、构建、部署，再核对线上首页和新帖页面；全部通过才显示成功。格式错误、导入失败或部署失败都会显示失败，可查看失败步骤并重跑；重跑不会重复导入同一条提交。`status: draft` 只存档，不上网页。直接修改或删除 flux 文章包也会启动同一任务。
+1. 将文字、图片或发布包的改动推送到 flux 仓库的 `main`。
+2. 打开 [Publish flux](https://github.com/fivsevn/fivsevn-flux/actions/workflows/build.yml)，检查导入、构建、部署和线上核验是否全部成功。
+3. 打开 flux 首页和该帖独立页面；图片帖同时核对实际图片是否显示。
 
-文字和图片现在都在 flux 仓库提交后直接发布，无需等待定时任务，也不再读取 assets 的 flux 图片目录。图片上线时还会核对实际图片文件，防止页面正常而图片缺失。
-
-日常发布方法统一看本节。文件维护和构建细节见 [flux 英文后台说明](https://github.com/fivsevn/fivsevn-flux/blob/main/README.md#edit-an-existing-entry)。WordPress 已退出短帖流程，删除 WordPress 旧帖不会影响 flux。
+> **触发方式**：提交后直接启动，无需等待定时检查。修改或删除发布包也会启动同一任务；`status: draft` 只存档，不上网页。
+>
+> **失败处理**：查看失败步骤，修复原因后重跑。同一次提交不会被重复导入；线上核验通过后，任务才显示成功。
+>
+> 日常发布方法看本节；文件维护和构建细节见 [flux 后台说明](https://github.com/fivsevn/fivsevn-flux/blob/main/README.md#edit-an-existing-entry)。短帖流程已不经过 WordPress，也不读取 assets 的 flux 图片目录。
 
 ---
 
@@ -99,73 +148,84 @@ title: ""
 
 ### 目前的内容
 
-以下是现有内容概览，后续可增减，不必另建分类目录。
-
 - **旧 WordPress 存档**：早期内容按年份保留，见 [2019](https://github.com/fivsevn-agy/fivsevn-devlog/tree/main/posts/2019)、[2025](https://github.com/fivsevn-agy/fivsevn-devlog/tree/main/posts/2025)；保留原文来源与链接。
 - **自己写的文章**：随笔、观察、资料整理与研究笔记，按年份存放。
 - **译文存档**：外文材料的中文译稿，使用 `type: translation`，保留原文链接与翻译说明。
 - **AI 写给五月七日**：知识讲解、方法手册与指导笔记；沿用“ChatGPT 写给五月七日的……”命名，例如[游戏开发术语与流程手册](https://devlog.fivsevn.com/posts/2026/posts-2026-umwelt-game-development-handbook-001.html)。
 - **[AI 话语分析](https://devlog.fivsevn.com/posts/ai-discourse-analysis/)**：AI 辅助拆解公共讨论的论证结构；在首页底部 `Section` 单独列出，[栏目目录](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/posts/ai-discourse-analysis/index.md)独立维护。
 
-### 指导手册的写作与维护约定
-
-本系列直接写给五月七日，重点是理解制作全流程、系统原理、工具成本和验收关系；具体编程可交给实现者完成。涉及自己的作品时，可用“以你正在做的《等足目赋格》为例”引入，并区分已有实现、讨论方案与假设示例。
-
-语言保持简洁、平实，同时写清推理所需的前提和中间关系。比较概念时，先解释各自职责，再用例子连接，最后归纳区别。否定可以用于界定边界，但应交代否定的对象、原因或对照条件。连词按实际的因果、递进、转折或让步关系使用，避免只在跳跃的句子之间机械添加“因此”。补充性的时间和范围说明，适合放在括号中。
-
-表格采用“定义”“解释”“用途”等中性栏目，少用设问和低幼化比喻。外语材料先理解论证关系，再按自然中文组织句子，避免逐词翻译造成的生硬表达。
-
-游戏案例优先采用国外知名作品，并放在正在说明的概念旁边。参考资料除自己的项目外，采用英文、日文等海外作者、开发团队、出版社、大学或机构的一手材料；本系列不采用国产游戏案例或国内文献、教程与资料入口。
-
-各段案例首次介绍游戏时，在游戏名上链接至对应作品的官网、开发商介绍页或官方商店，方便直接查看作品。开发访谈与研究资料继续通过参考编号单独引用；涉及续作或不同版本时，链接应对应正在讨论的那一部作品。
-
-每篇保留参考文献和阅读重点，说明书籍、官方文档、课程或视频的用途及获取方式。引用写成 `[\[1\]](#ref-1)`，连续引用写成 `[\[1\]](#ref-1)、[\[2\]](#ref-2)`，使页面明确显示为 [1]、[2]，避免编号与后文连读。软件的开放情况与费用类型分别标注，保留核对日期和官方入口。
-
-文章更新保留原有文件名、ID、创建日期和网址。目录继续采用较新内容在上方的顺序；同日发布的游戏开发手册按逻辑发布顺序，以较大的编号在前排列。系列保留 001 术语与流程、002 软件地图。001 以中、英、日术语为入口，按开发阶段说明含义、相邻概念、前提与交付；术语覆盖和完整流程都要充分保留。每个词条尽量配具体游戏中的对象、行为或制作实例，并标明主要使用阶段；容易混淆的词放在同一情境中比较。区分可观察的玩法、有来源的开发事实与用于教学的制作示例，不把示意实现写成原作实际技术。002 以广泛的软件覆盖为入口，说明能做什么、输入输出、分工、接入与费用形式，供随时查阅。案例围绕同一个问题并列多款游戏，先交代未玩过也能理解的玩法，再具体说明做法、原因、结果和代价；未公开的开发动机不得写成事实。可以重构文章，不机械追加，不因增加案例而删薄术语或软件目录。正文直接呈现当前有效内容，不加入撤下文章的占位或修改历史。
-
 ### 新建草稿
 
-- 放进 [`posts/_drafts/`](https://github.com/fivsevn-agy/fivsevn-devlog/tree/main/posts/_drafts) 第一层 → 提交并推送。
-- 自动处理后先拉取，再继续编辑；草稿不进入文章目录。
+1. 将文件放进 [`posts/_drafts/`](https://github.com/fivsevn-agy/fivsevn-devlog/tree/main/posts/_drafts) 第一层。
+2. 提交并推送，等待 [草稿处理任务](https://github.com/fivsevn-agy/fivsevn-devlog/actions/workflows/apply-draft-frontmatter.yml) 完成。
+3. 拉取自动处理后的文件，再继续编辑。
 
-> [草稿处理任务](https://github.com/fivsevn-agy/fivsevn-devlog/actions/workflows/apply-draft-frontmatter.yml)启动 → [脚本](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/scripts/apply_draft_frontmatter.py)提取正文标题 → 补 metadata、生成占位文件名 → 自动提交回仓库。已有 frontmatter 的文件跳过，不反复改名。
+> 草稿不进入文章目录。[处理脚本](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/scripts/apply_draft_frontmatter.py)会提取正文标题、补 metadata、生成占位文件名，再自动提交回仓库；已有 frontmatter 的文件会跳过，不反复改名。
 
 ### 新建译文｜translate & post
 
-- 分享原文网址 → 运行 [`translate & post`](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/blogops/docs/auto-translation-shortcut.md) → 将生成的提示词文件分享给 ChatGPT。无分享输入时读取剪贴板。
-- 按[翻译规范](https://github.com/fivsevn-agy/fivsevn-spec/blob/main/content/spec-content-translation-001.md)检查译稿、metadata、原文链接与公开发布授权 → 按下方正式文章流程保存、提交；抓取不完整时先补齐原文。
+1. 分享原文网址，运行 [`translate & post`](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/blogops/docs/auto-translation-shortcut.md)。
+2. 将生成的提示词文件分享给 ChatGPT，取得带 metadata 的中文译稿。
+3. 按[翻译规范](https://github.com/fivsevn-agy/fivsevn-spec/blob/main/content/spec-content-translation-001.md)检查译稿、metadata、原文链接和公开发布授权。
+4. 按下方[发布正式文章](#发布正式文章)的步骤保存、提交并推送。
 
-> 快捷指令给原文网址加上 `https://r.jina.ai/` 前缀 → [Jina Reader](https://jina.ai/reader/)抓取网页、返回 Markdown → 拼入原文网址、翻译要求和规范链接 → 生成日期命名的 `.md` **提示词文件**。  
-> 分享给 AI → AI 生成带 metadata 的**中文译稿**；日期文件不是最终译文，快捷指令本身不直接发文。提交译稿后，再由目录任务和 Pages 处理发布。
+> **原文输入**：无分享输入时，快捷指令读取剪贴板；抓取不完整时，先补齐原文再生成译稿。
+>
+> **文件用途**：快捷指令通过 [Jina Reader](https://jina.ai/reader/) 抓取原文，拼入网址、翻译要求和规范链接，生成日期命名的 `.md` 提示词文件。这个文件供 AI 生成译稿，快捷指令本身不直接发文。
 
 ### 发布正式文章
 
-- **直接新建**：放进[对应年份目录](https://github.com/fivsevn-agy/fivsevn-devlog/tree/main/posts) → 按 [metadata 规范](https://github.com/fivsevn-agy/fivsevn-spec/blob/main/content/spec-content-frontmatter-001.md)补齐字段 → 设置 `status: active`、`visibility: public` → 提交并推送。
-- **草稿转正式稿**：移出 `_drafts`，整理正式文件名、`id` 和 metadata。只改状态、不移动文件，不会进入目录。
+**直接新建**
 
-> [目录任务](https://github.com/fivsevn-agy/fivsevn-devlog/actions/workflows/update-indexes.yml)扫描文章 → 读取标题、日期、状态等 metadata → 重算 [`index.md`](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/posts/index.md) 的文章列表 → 有差异才自动提交。  
-> 网站构建时，[Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)把 Markdown 转成 HTML，GitHub Pages 提供访问；不经过 WordPress。目录更新与网站部署分开检查。
+1. 将文章放进[对应年份目录](https://github.com/fivsevn-agy/fivsevn-devlog/tree/main/posts)。
+2. 按 [metadata 规范](https://github.com/fivsevn-agy/fivsevn-spec/blob/main/content/spec-content-frontmatter-001.md)补齐字段。
+3. 设置 `status: active`、`visibility: public`。
+4. 提交并推送，检查目录更新和网站部署结果。
+
+**草稿转正式稿**
+
+1. 将文件从 `_drafts` 移到对应年份目录。
+2. 整理正式文件名、`id` 和 metadata，设置 `status: active`、`visibility: public`。
+3. 提交并推送，检查目录更新和网站部署结果。
+
+> **草稿位置**：只改状态、不移出 `_drafts`，不会进入目录。
+>
+> **目录更新**：[目录任务](https://github.com/fivsevn-agy/fivsevn-devlog/actions/workflows/update-indexes.yml)扫描文章，由[索引脚本](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/scripts/update_module_indexes.py)读取标题、日期和状态等 metadata，重算 [`index.md`](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/posts/index.md) 的文章列表；有差异才自动提交。
+>
+> **网页发布**：网站构建时，[Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)把 Markdown 转成 HTML，GitHub Pages 提供访问。目录更新与网站部署分开检查，长文发布不经过 WordPress。
 
 ### 修改文章
 
-- **正文小改／大改**：改原文件，保留文件名、`id`、`created`，手动维护 `updated`。**不新增目录项。**
-- **标题**：同时改 metadata 的 `title` 和正文 `# 标题`，不必改文件名。**目录替换原标题，不重复收录；只改标题，原网址不变。**
-- **日期**：有有效 `created` 时，仅改 `updated` 不会置顶；改 `created` 会调整目录日期与排序。同一天内，普通文章改标题可能调整排序；游戏开发手册保持同日编号倒序。
-- **重命名／移动文件**：目录更新路径；检查原网址、文章互链和图片路径。
-- **复制为另一篇**：两份都符合收录条件时，目录出现两项；新文章使用新 `id`。
-- **隐藏**：设为 `status: hidden`，移出目录；不代表文件私密或网址失效。
+按需要选择对应操作，完成后提交并推送，再检查目录和实际页面：
 
-> [索引脚本](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/scripts/update_module_indexes.py)按当前文件重新生成列表，**替换、不追加**；不按标题或 `id` 去重。`title` 提供目录文字，路径提供本地链接，日期决定排序。
+1. **修改正文**：编辑原文件，保留文件名、`id`、`created`，手动维护 `updated`。
+2. **修改标题**：同时修改 metadata 的 `title` 和正文 `# 标题`；不必改文件名。
+3. **修改日期**：按需要维护 `created` 和 `updated`，再核对目录日期与排序。
+4. **重命名或移动文件**：调整文件路径，再检查原网址、文章互链和图片路径。
+5. **复制为另一篇**：另存文件，为新文章设置新的 `id`，补齐 metadata。
+6. **从目录撤下**：设置 `status: hidden`，提交并推送后检查目录。
+
+> **目录收录**：正文或标题改动会更新原目录项，不新增一项；只改标题、保留文件名时，原网址不变。复制成两份且都符合收录条件时，目录会出现两项。
+>
+> **日期排序**：有有效 `created` 时，仅改 `updated` 不会置顶；改 `created` 会调整目录日期与排序。同一天内，普通文章改标题也可能调整排序。
+>
+> **撤下范围**：长文的 `status: hidden` 会将文章移出目录，不代表文件私密或原网址失效。
+>
+> 索引脚本按当前文件重新生成列表，替换原列表，不按标题或 `id` 去重。`title` 提供目录文字，文件路径提供链接，日期决定排序。
 
 ---
 
 ## 3. 共用备忘
 
-- **提交**：保存 → 本地 commit → 推送到 `main`；只在手机本地保存、commit，不会启动远端任务。
-- **目录**：改文章 metadata，不手改 [`index.md`](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/posts/index.md) 的 `AUTO-INDEX` 区域；脚本会替换这部分。
-- **README**：直接改；索引脚本按文件名排除它，不作为普通文章收录。
-- **上线检查**：打开 [devlog Actions](https://github.com/fivsevn-agy/fivsevn-devlog/actions) 或 [flux Actions](https://github.com/fivsevn/fivsevn-flux/actions) → 查看处理结果 → 检查部署 → 打开实际页面。
+1. **提交**：保存文件，在本地 commit，再推送到对应仓库的 `main`。
+2. **目录**：通过文章 metadata 调整收录信息，等待目录任务更新列表。
+3. **README**：需要修改使用说明时，直接编辑本文件并提交推送。
+4. **上线检查**：打开 [devlog Actions](https://github.com/fivsevn-agy/fivsevn-devlog/actions) 或 [flux Actions](https://github.com/fivsevn/fivsevn-flux/actions)，依次检查处理结果、网站部署和实际页面。
+
+> 只在手机本地保存或 commit，不会启动远端任务；需要完成推送。
+>
+> 不要手改 [`index.md`](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/posts/index.md) 的 `AUTO-INDEX` 区域，脚本会替换这部分。README 按文件名排除，不作为普通文章收录。
 
 ---
 
-核对日期：2026-10-18。短内容已由 flux 接管，长文流程保持原样。
+核对日期：2026-10-18。
