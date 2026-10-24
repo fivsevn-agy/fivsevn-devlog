@@ -46,6 +46,8 @@ updated: 2026-06-15
 #### > Directory
 
 <!-- AUTO-INDEX:POSTS_RECENT:START -->
+- 2026.10.24 [基督宗教教派比较速查手册｜历史、神学、分布与社会议题](2026/posts-20261024-christian-traditions-handbook-001.md)
+
 - 2026.10.13 [游戏开发软件地图手册｜ChatGPT 写给五月七日的指导笔记 002](2026/posts-2026-umwelt-game-development-handbook-002.md)
 
 - 2026.10.13 [游戏开发术语与流程手册｜ChatGPT 写给五月七日的指导笔记 001](2026/posts-2026-umwelt-game-development-handbook-001.md)
