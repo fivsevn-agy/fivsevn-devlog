@@ -32,7 +32,7 @@ note: |
 filename_policy: "entrypoint"
 
 created: "2026-10-13"
-updated: "2026-10-13"
+updated: "2026-10-29"
 metadata_updated: "2026-10-13"
 ---
 # blogops 板块说明
@@ -76,7 +76,7 @@ fivsevn-devlog/blogops/  主要目录
 - 日常操作先看各板块 README；历史日志记录当时情况，自动化的实际行为以当前脚本和工作流为准。
 - 不写入密码、令牌或其他私密配置。
 
-**内容板块说明**：[posts](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/posts/README.md) · [foodie](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/foodie/README.md) · [natsci](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/natsci/README.md) · [netcom](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/netcom/README.md) · [stills](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/stills/README.md) · [motion](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/motion/README.md)
+**内容板块说明**：[posts](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/posts/README.md) · [savour](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/foodie/README.md) · [natsci](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/natsci/README.md) · [netcom](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/netcom/README.md) · [stills](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/stills/README.md) · [motion](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/motion/README.md)
 
 **近况与资料**：[now](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/now/README.md) · [intake](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/intake/README.md)
 
@@ -84,4 +84,4 @@ fivsevn-devlog/blogops/  主要目录
 
 ---
 
-核对日期：2026-10-13。按当前目录、页面与工作流记录，后续可调整。
+核对日期：2026-10-29。按当前目录、页面与工作流记录，后续可调整。
