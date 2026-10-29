@@ -66,7 +66,7 @@ stack和heap都是放东西，stack可以看到一层一层的，heap就是一�
 
 ### 先用大厨做饭的例子理解一下
 
-👩‍🍳[大厨](https://fivsevn.home.blog/foodie/)在家做饭，要用到【厨房台面】和【冰箱/储物柜】。
+👩‍🍳[大厨](https://savour.fivsevn.com/)在家做饭，要用到【厨房台面】和【冰箱/储物柜】。
 
 ---
 
