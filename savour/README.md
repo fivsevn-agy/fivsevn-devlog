@@ -1,8 +1,8 @@
 ---
-id: "foodie-readme"
+id: "savour-readme"
 title: "Savour 板块说明"
 
-module: "foodie"
+module: "savour"
 submodule: "guide"
 topic: "guide"
 
