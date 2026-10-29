@@ -32,7 +32,7 @@ legacy:
     submodule: assets
 
 created: "2026-06-07"
-updated: "2026-06-15"
+updated: "2026-10-29"
 metadata_updated: "2026-10-13"
 ---
 
@@ -45,6 +45,8 @@ metadata_updated: "2026-10-13"
 ```text
 https://github.com/fivsevn/fivsevn-assets
 ```
+
+Flux 与 Savour 的照片随各自帖子保存在 [flux 仓库](https://github.com/fivsevn/fivsevn-flux)和 [savour 仓库](https://github.com/fivsevn/fivsevn-savour)，由各自网站提供图片。
 
 ### 1.2 引用方式
 
@@ -85,10 +87,10 @@ https://fivsevn.com/2026/04/20/kamakura/
 - 示例页面
 
 ```
-https://fivsevn.com/foodie/
+https://savour.fivsevn.com/
 ```
 
-- 方法：用 GitHub Actions 实现。[详见](https://github.com/fivsevn/fivsevn-assets/blob/main/README.md)
+- 方法：上传到 Savour 的 `trigger_imgs/`，提交并推送后自动转 WebP、每图建帖、构建并部署 Pages。操作见[中文图片入口](https://github.com/fivsevn/fivsevn-savour/tree/main/trigger_imgs)。
 
 
 ## 2. 视频
