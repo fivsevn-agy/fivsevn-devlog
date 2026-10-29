@@ -43,7 +43,7 @@ fivsevn-devlog/             主要目录与文件
 ├── README.md              devlog 首页展示与主站引导
 ├── system-map.md          本总览
 ├── posts/                 个人文章、历史存档与短文发布入口
-├── foodie/                Savour 吃喝板块说明；内容与图片在 savour 仓库
+├── savour/                Savour 吃喝板块说明；内容与图片在 savour 仓库
 ├── natsci/                自然科学长文与板块说明
 ├── netcom/                通信、计算机与工程长文
 ├── stills/                摄影板块说明；照片在 assets 仓库
@@ -58,14 +58,14 @@ fivsevn-devlog/             主要目录与文件
 ```
 
 - 本仓库的 `assets/` 与独立的 `fivsevn-assets` 仓库不是同一个位置。
-- `foodie/`、`stills/`、`motion/` 目前只放说明；有文件夹不代表另建了 devlog 展示页。
+- `savour/`、`stills/`、`motion/` 目前只放说明；有文件夹不代表另建了 devlog 展示页。
 
 ## 2. 网站板块与说明入口
 
 | 板块 | 内容与页面 | 操作说明 |
 |---|---|---|
 | **posts** | [flux 随手记录](https://flux.fivsevn.com/)；[devlog 长文存档](https://devlog.fivsevn.com/posts/)，含原创、旧文、译文及 AI 笔记，底部另列 AI 话语分析 | [posts README](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/posts/README.md) |
-| **savour** | [吃喝记录](https://savour.fivsevn.com/)，每张照片一帖，以手机聊天界面展示 | [savour README](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/foodie/README.md) |
+| **savour** | [吃喝记录](https://savour.fivsevn.com/)，每张照片一帖，以手机聊天界面展示 | [savour README](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/savour/README.md) |
 | **natsci** | [WordPress 自然观察单图](https://fivsevn.com/natsci/)；[devlog 自然科学长文](https://devlog.fivsevn.com/natsci/) | [natsci README](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/natsci/README.md) |
 | **netcom** | [通信、计算机与工程笔记](https://devlog.fivsevn.com/netcom/)，目前只有 devlog 长文 | [netcom README](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/netcom/README.md) |
 | **stills** | [摄影作品集](https://fivsevn.com/stills/)，WordPress 手动编排；[bygone 老照片](https://fivsevn.com/stills/bygone/)单图自动发布 | [stills README](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/stills/README.md) |
@@ -98,7 +98,8 @@ fivsevn-devlog/             主要目录与文件
 随手文字    flux/trigger_text.md → 提交并推送 → 保存文章包、构建并部署 Pages
 随手图片    flux/trigger_imgs/ → 提交并推送 → 转 WebP、每图建帖、部署与核验
 吃喝图片    savour/trigger_imgs/ → 提交并推送 → 转 WebP、每图建帖、部署与核验
-其他单图    assets 当前发布目录 → Actions 组装图片与分类 → WordPress 发帖
+自然观察    assets/natsci/fieldlog/ → Actions 组装图片与正文 → WordPress 发帖
+老照片      assets/stills/bygone/ → Actions 取文件名作标题 → WordPress 发帖
 摄影作品集  assets 保存照片 → WordPress 手动引用、编排并发布
 视频作品    YouTube RSS → Actions 读取最新一条 → WordPress 嵌入
 长文章      devlog Markdown → 目录任务重算列表；站点构建、部署 → GitHub Pages
