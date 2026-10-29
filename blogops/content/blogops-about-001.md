@@ -32,7 +32,7 @@ legacy:
     submodule: identity
 
 created: "2026-02-19"
-updated: "2026-06-18"
+updated: "2026-10-29"
 metadata_updated: "2026-10-13"
 ---
 # 关于本博客
@@ -78,7 +78,7 @@ fivsevn.com/
 ├─ front-page/    
    └─ links/
       ├─ posts/      # 个人笔记
-      ├─ foodie/     # 吃吃速报
+      ├─ savour      # 吃喝记录：https://savour.fivsevn.com/
       ├─ natsci/     # 自然科学笔记
       ├─ netcom/     # 通讯技术笔记
       ├─ stills/     # 静态影像存档
