@@ -29,7 +29,7 @@ source_of_truth: "devlog"
 note: "未记录原始写作日期；created 为本路径首次 Git 记录日期，无法合理确定时留空。"
 
 created: "2026-06-17"
-updated: "2026-10-13"
+updated: "2026-10-29"
 metadata_updated: "2026-10-13"
 ---
 # 博客发布与维护入口
@@ -41,7 +41,7 @@ metadata_updated: "2026-10-13"
 | 板块 | 当前说明 |
 |---|---|
 | posts：短帖与长文 | [posts README](../../posts/README.md) |
-| foodie：吃喝图片 | [foodie README](../../foodie/README.md) |
+| savour：吃喝图片 | [Savour 说明](../../foodie/README.md) |
 | natsci：自然观察与长文 | [natsci README](../../natsci/README.md) |
 | netcom：工程与通信长文 | [netcom README](../../netcom/README.md) |
 | stills／bygone：照片作品 | [stills README](../../stills/README.md) |
@@ -55,4 +55,4 @@ metadata_updated: "2026-10-13"
 - **入口与分工**：[系统总览](../../system-map.md)。
 - **公共规范**：[fivsevn-spec](https://github.com/fivsevn-agy/fivsevn-spec)。
 
-更新日期：2026-10-13。
+更新日期：2026-10-29。
