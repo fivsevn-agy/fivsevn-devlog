@@ -36,9 +36,9 @@ updated: 2026-06-15
 
 ### 回到主站 ▷ ./[`home`](https://fivsevn.com)
 
-### 内容仓库 ▽ ./[`devlog.natsci`](https://devlog.fivsevn.com/natsci)  
+### 回到自然观察 ▷ ./[`devlog.natsci/fieldlog`](https://devlog.fivsevn.com/natsci/fieldlog/)
 
-### 影像记录 ▷ ./[`devlog.natsci/fieldlog`](https://devlog.fivsevn.com/natsci/fieldlog/)
+### 内容仓库 ▽ ./[`devlog.natsci`](https://devlog.fivsevn.com/natsci)
 
 ---
 #### > Directory
