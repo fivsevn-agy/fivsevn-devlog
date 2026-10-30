@@ -41,6 +41,6 @@ metadata_updated: "2026-10-13"
 
 - **日常操作**：[posts](../../posts/README.md) · [natsci](../../natsci/README.md) · [netcom](../../netcom/README.md)。
 - **字段含义**：[metadata 规范](https://github.com/fivsevn-agy/fivsevn-spec/blob/main/content/spec-content-frontmatter-001.md)。
-- **当前实现**：[索引脚本](../../scripts/update_module_indexes.py) · [工作流文件](../../.github/workflows/update-indexes.yml) · [运行记录](https://github.com/fivsevn-agy/fivsevn-devlog/actions/workflows/update-indexes.yml)。
+- **当前实现**：[索引脚本](../../scripts/update_module_indexes.py) · [工作流文件](../../.github/workflows/publish-pages.yml) · [运行记录](https://github.com/fivsevn-agy/fivsevn-devlog/actions/workflows/publish-pages.yml)。
 
 > 提交文章 → 脚本扫描 metadata → 替换 index 的 `AUTO-INDEX` 列表 → 有变化才提交。它不向 WordPress 发文；Pages 部署另行检查。

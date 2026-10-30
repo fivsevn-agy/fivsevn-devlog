@@ -30,8 +30,8 @@ note: "未记录原始写作日期；created 为本路径首次 Git 记录日期
 filename_policy: "entrypoint"
 
 created: "2026-10-13"
-updated: "2026-10-18"
-metadata_updated: "2026-10-18"
+updated: "2026-10-30"
+metadata_updated: "2026-10-30"
 ---
 # posts 板块说明
 
@@ -103,7 +103,7 @@ fivsevn-devlog/posts/
 3. 修改 `index.md` 的正文、配文或顶部 `title`。需要换图时，在该发布包的 `assets/` 中保存图片，并更新正文里的图片链接。
 4. 提交并推送，等待部署完成，再核对首页和独立页面。
 
-> 保留 `date`、`id`、目录和来源字段。修改标题不会改变原网址、下方发布时间或时间排序。
+> 保留 `extra.published_at`、`id`、目录和来源字段。修改标题不会改变原网址、下方发布时间或时间排序。存档使用共享 frontmatter，展示与发布资料放在 `extra`；入口文件仍可只填写简短配置。
 >
 > **trigger 只负责新发一条。修改旧帖要改对应的发布包；再次提交 trigger 会生成新帖。**
 
@@ -190,7 +190,7 @@ fivsevn-devlog/posts/
 
 > **草稿位置**：只改状态、不移出 `_drafts`，不会进入目录。
 >
-> **目录更新**：[目录任务](https://github.com/fivsevn-agy/fivsevn-devlog/actions/workflows/update-indexes.yml)扫描文章，由[索引脚本](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/scripts/update_module_indexes.py)读取标题、日期和状态等 metadata，重算 [`index.md`](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/posts/index.md) 的文章列表；有差异才自动提交。
+> **目录更新**：[目录任务](https://github.com/fivsevn-agy/fivsevn-devlog/actions/workflows/publish-pages.yml)扫描文章，由[索引脚本](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/scripts/update_module_indexes.py)读取标题、日期和状态等 metadata，重算 [`index.md`](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/posts/index.md) 的文章列表；有差异才自动提交。
 >
 > **网页发布**：网站构建时，[Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)把 Markdown 转成 HTML，GitHub Pages 提供访问。目录更新与网站部署分开检查，长文发布不经过 WordPress。
 

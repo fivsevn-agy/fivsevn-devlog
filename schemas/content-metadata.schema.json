@@ -1,0 +1,323 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/fivsevn-agy/fivsevn-spec/main/content/content-metadata.schema.json",
+  "title": "fivsevn shared content metadata",
+  "type": "object",
+  "required": [
+    "id",
+    "title",
+    "module",
+    "submodule",
+    "topic",
+    "type",
+    "status",
+    "canonical",
+    "summary",
+    "parents",
+    "related",
+    "tags",
+    "audience",
+    "languages",
+    "maturity",
+    "confidence",
+    "visibility",
+    "source_of_truth",
+    "created",
+    "updated"
+  ],
+  "properties": {
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "module": {
+      "enum": [
+        "posts",
+        "natsci",
+        "netcom",
+        "blogops",
+        "savour",
+        "stills",
+        "motion",
+        "now",
+        "intake",
+        "system",
+        "spec",
+        "assets"
+      ]
+    },
+    "submodule": {
+      "type": "string"
+    },
+    "type": {
+      "enum": [
+        "note",
+        "article",
+        "translation",
+        "index",
+        "log",
+        "spec",
+        "release"
+      ]
+    },
+    "status": {
+      "enum": [
+        "hidden",
+        "private",
+        "draft",
+        "active",
+        "publish",
+        "published",
+        "archive",
+        "archived"
+      ]
+    },
+    "maturity": {
+      "enum": [
+        "draft",
+        "evolving",
+        "stable",
+        "deprecated"
+      ]
+    },
+    "visibility": {
+      "enum": [
+        "public",
+        "private",
+        "internal"
+      ]
+    },
+    "source_of_truth": {
+      "enum": [
+        "devlog",
+        "spec",
+        "assets",
+        "site",
+        "translation",
+        "external"
+      ]
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "topic": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "summary": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "parents": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "languages": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "aliases": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "audience": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "related": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "canonical": {
+      "type": "boolean"
+    },
+    "confidence": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": 0,
+      "maximum": 1
+    },
+    "created": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date"
+    },
+    "updated": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date"
+    },
+    "metadata_updated": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date"
+    },
+    "original_title": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "original_source": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "original_publisher": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "original_url": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "translation_note": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "subtitle": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "archive_url": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "note": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "layout": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "lang": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "description": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "canonical_url": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "permalink": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "rights": {
+      "type": "object"
+    },
+    "legacy": {
+      "type": "object"
+    },
+    "extra": {
+      "type": "object"
+    },
+    "references": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "text"
+        ],
+        "properties": {
+          "section": {
+            "type": "string"
+          },
+          "text": {
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "filename_policy": {
+      "enum": [
+        "entrypoint",
+        "stable-link"
+      ]
+    }
+  },
+  "additionalProperties": false,
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "type": {
+            "const": "translation"
+          }
+        }
+      },
+      "then": {
+        "required": [
+          "original_title",
+          "original_source",
+          "original_publisher",
+          "original_url",
+          "translation_note"
+        ]
+      }
+    }
+  ]
+}

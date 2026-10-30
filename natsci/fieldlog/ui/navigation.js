@@ -4,14 +4,28 @@
   const prefix = "fieldlog:return:";
   const pendingKey = "fieldlog:pending-return";
   const archivePath = /^\/natsci\/fieldlog\/(?:page\/[1-9]\d*\/)?(?:index\.html)?$/;
+  let routes = {};
+  try { routes = JSON.parse(document.getElementById("fieldlog-archive-map")?.textContent || "{}"); } catch (_) { /* Normal anchors remain available. */ }
   const plainClick = (event) => event.button === 0 && !event.metaKey && !event.ctrlKey && !event.shiftKey && !event.altKey;
   function archiveURL(value) {
     try {
       const url = new URL(value, location.origin);
-      return url.origin === location.origin && archivePath.test(url.pathname) ? url : null;
+      if (url.origin !== location.origin || !archivePath.test(url.pathname)) return null;
+      const route = routes[decodeURIComponent(url.hash.slice(1))];
+      return route ? new URL(route, location.origin) : url;
     } catch (_) { return null; }
   }
   if (document.querySelector("main.archive")) {
+    const relocate = () => {
+      const target = archiveURL(location.href);
+      if (target && target.pathname !== location.pathname) {
+        location.replace(target.href);
+        return true;
+      }
+      return false;
+    };
+    if (relocate()) return;
+    addEventListener("hashchange", relocate);
     // Restore the post's viewport offset after fonts settle, including bfcache returns.
     addEventListener("pageshow", () => {
       try {

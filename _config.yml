@@ -1,0 +1,11 @@
+title: fivsevn-devlog
+theme: jekyll-theme-primer
+url: https://devlog.fivsevn.com
+exclude:
+  - natsci/fieldlog
+  - scripts
+  - schemas
+  - tests
+  - .metadata-spec
+  - .shared-spec
+  - .venv

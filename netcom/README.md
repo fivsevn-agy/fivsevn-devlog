@@ -73,7 +73,7 @@ fivsevn-devlog/netcom/
 - 按 [metadata 规范](https://github.com/fivsevn-agy/fivsevn-spec/blob/main/content/spec-content-frontmatter-001.md)填写字段，使用 `module: netcom`、`status: active`、`visibility: public` → 提交并推送。
 - **草稿转正式稿**：移出 `_drafts`，整理正式文件名、`id` 和 metadata；只改状态、不移动文件，不会进目录。
 
-> [目录任务](https://github.com/fivsevn-agy/fivsevn-devlog/actions/workflows/update-indexes.yml)扫描文章 → 读取标题、日期、状态等 metadata → 重算 [`netcom/index.md`](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/netcom/index.md)的列表 → 有差异才自动提交。  
+> [目录任务](https://github.com/fivsevn-agy/fivsevn-devlog/actions/workflows/publish-pages.yml)扫描文章 → 读取标题、日期、状态等 metadata → 重算 [`netcom/index.md`](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/netcom/index.md)的列表 → 有差异才自动提交。
 > 网站构建时，Jekyll 将 Markdown 转成 HTML → GitHub Pages 提供访问。目录更新与页面部署分开检查。
 
 ## 3. 新建译文

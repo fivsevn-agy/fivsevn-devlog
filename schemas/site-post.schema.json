@@ -1,0 +1,53 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/fivsevn-agy/fivsevn-spec/main/content/site-post.schema.json",
+  "title": "fivsevn site-post-v1 metadata profile",
+  "allOf": [
+    {"$ref": "content-metadata.schema.json"},
+    {
+      "type": "object",
+      "required": ["extra", "filename_policy"],
+      "properties": {
+        "title": {"type": "string", "pattern": "\\S"},
+        "filename_policy": {"const": "entrypoint"},
+        "extra": {
+          "type": "object",
+          "required": ["profile", "published_at", "author"],
+          "properties": {
+            "profile": {"const": "site-post-v1"},
+            "published_at": {"type": "string", "format": "date-time"},
+            "author": {"type": "string", "minLength": 1},
+            "image": {"type": "string", "minLength": 1},
+            "alt": {"type": "string"},
+            "observation_id": {"type": "string", "pattern": "^[0-9]{12}$"},
+            "display_status": {"type": "string"},
+            "source": {"type": ["string", "null"]},
+            "sync": {"type": ["string", "null"]},
+            "upload": {"type": "object"}
+          }
+        }
+      },
+      "anyOf": [
+        {"properties": {"module": {"const": "posts"}, "submodule": {"const": "flux"}}},
+        {"properties": {"module": {"const": "natsci"}, "submodule": {"const": "fieldlog"}}},
+        {"properties": {"module": {"const": "savour"}, "submodule": {"pattern": "^[0-9]{4}$"}}}
+      ],
+      "allOf": [
+        {
+          "if": {"properties": {"module": {"const": "natsci"}}},
+          "then": {"properties": {"extra": {"required": ["observation_id", "display_status"]}}}
+        },
+        {
+          "if": {
+            "properties": {
+              "module": {"enum": ["savour", "natsci"]},
+              "status": {"enum": ["active", "publish", "published"]},
+              "visibility": {"const": "public"}
+            }
+          },
+          "then": {"properties": {"extra": {"required": ["image", "alt"]}}}
+        }
+      ]
+    }
+  ]
+}
