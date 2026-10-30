@@ -38,7 +38,7 @@ updated: 2026-06-15
 
 ### 回到主站 ▷ ./[`home`](https://fivsevn.com)  
 
-### 回到时间线 ▷ ./[`flux`](https://flux.fivsevn.com)   
+### 回到时间线 ▷ ./[`flux.fivsevn`](https://flux.fivsevn.com)
 
 ### 内容仓库 ▽ ./[`devlog.posts`](https://devlog.fivsevn.com/posts)  
 

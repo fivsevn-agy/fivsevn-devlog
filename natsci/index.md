@@ -34,11 +34,11 @@ updated: 2026-06-15
 ---
 ## 五月七日的思考札记 ▶ 自然科学笔记
 
-### 回到主站 ▷ ./[`home.natsci`](https://fivsevn.com/natsci/)  
+### 回到主站 ▷ ./[`home`](https://fivsevn.com)
 
 ### 内容仓库 ▽ ./[`devlog.natsci`](https://devlog.fivsevn.com/natsci)  
 
-### 影像记录 ▷ ./[`natsci.fieldlog`](https://devlog.fivsevn.com/natsci/fieldlog/)
+### 影像记录 ▷ ./[`devlog.natsci/fieldlog`](https://devlog.fivsevn.com/natsci/fieldlog/)
 
 ---
 #### > Directory
