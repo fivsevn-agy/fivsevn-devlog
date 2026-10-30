@@ -37,7 +37,7 @@ metadata_updated: '2026-10-30'
 extra:
   observation_id: '260611164632'
   annotation_date: 11 Jun, 2026 17:45
-  image: assets/IMG_7033.jpg
+  image: assets/IMG_7033.webp
   alt: 11 Jun, 2026 17:45
   source_wp_id: 3904
   source_url: https://fivsevn.com/2026/06/11/asset-natsci-fieldlog-img-7033-jpg/
