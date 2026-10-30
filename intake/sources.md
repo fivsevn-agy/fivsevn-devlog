@@ -523,7 +523,7 @@ use_role: reference
 ```source
 name: Worlds of Journalism Study
 section: media_lens
-feed_url: ’‘
+feed_url: ''
 source_cap: 0
 site_url: https://worldsofjournalism.org/
 source_type: institutional
@@ -2331,11 +2331,23 @@ section: industry_business
 feed_url: https://www.businessoffashion.com/arc/outboundfeeds/rss/?outputType=xml
 source_cap: 6
 site_url: https://www.businessoffashion.com/
-source_type: newspaper_magazine
-authority_level: generalist
+source_type: trade_publication
+authority_level: specialist
 reliability_score: 4
 professional_value: 4
 use_role: baseline
+review:
+  status: reviewed
+  checked: '2026-10-30'
+  scope: 时尚、美容与奢侈品行业报道及分析
+  identity: 官方定位为面向时尚与美容产业的媒体与行业信息公司。
+  reliability: R4：公开编辑独立、商业内容标示与利益冲突规则；这支持专业报道用途，但不是事实无误保证。
+  professional_value: P4：提供产业经营与供应链视角。
+  evidence:
+  - https://www.businessoffashion.com/about-us/
+  - https://www.businessoffashion.com/our-journalism/
+  limitations: 区分新闻、分析与赞助内容；商业预测需交叉核验。
+  access: 保留已有 RSS；只取其返回的标题和摘要，不绕过订阅限制。
 ```
 
 ```source
@@ -3160,11 +3172,22 @@ section: academic_reference
 feed_url: ''
 source_cap: 0
 site_url: https://academic.oup.com/mind
-source_type: culture_magazine
-authority_level: commentary
+source_type: journal
+authority_level: primary
 reliability_score: 4
 professional_value: 4
 use_role: baseline
+review:
+  status: partial
+  checked: '2026-10-30'
+  scope: 哲学研究论文与讨论；不代表所有主张已成共识
+  identity: 出版社说明其为哲学同行评审期刊，采用三重匿名评审。
+  reliability: 保留历史 R4；本轮核实来源身份，未完成文章样本与纠错记录的系统复核。
+  professional_value: 保留历史 P4；学术参考分类中的研究文献入口。
+  evidence:
+  - https://academic.oup.com/mind/pages/General_Instructions
+  limitations: 研究、书评与争论需按文章区分；期刊身份不自动对应 R5。
+  access: 保留官网入口；尚未验证可供本库使用的 feed。
 ```
 
 ```source
@@ -3186,11 +3209,22 @@ section: academic_reference
 feed_url: ''
 source_cap: 0
 site_url: https://onlinelibrary.wiley.com/journal/14680068
-source_type: culture_magazine
-authority_level: commentary
+source_type: journal
+authority_level: primary
 reliability_score: 4
 professional_value: 4
 use_role: baseline
+review:
+  status: partial
+  checked: '2026-10-30'
+  scope: 哲学研究论文与讨论；不代表所有主张已成共识
+  identity: Wiley 期刊主页列出 ISSN、编辑及原创哲学论文。
+  reliability: 保留历史 R4；本轮核实来源身份，未完成文章样本与纠错记录的系统复核。
+  professional_value: 保留历史 P4；学术参考分类中的研究文献入口。
+  evidence:
+  - https://onlinelibrary.wiley.com/journal/14680068
+  limitations: 研究、书评与争论需按文章区分；期刊身份不自动对应 R5。
+  access: 保留官网入口；尚未验证可供本库使用的 feed。
 ```
 
 ```source
@@ -3199,11 +3233,22 @@ section: academic_reference
 feed_url: ''
 source_cap: 0
 site_url: https://link.springer.com/journal/11098
-source_type: culture_magazine
-authority_level: commentary
+source_type: journal
+authority_level: primary
 reliability_score: 4
 professional_value: 4
 use_role: baseline
+review:
+  status: partial
+  checked: '2026-10-30'
+  scope: 哲学研究论文与讨论；不代表所有主张已成共识
+  identity: 出版社说明其发表分析哲学论文，采用双盲评审。
+  reliability: 保留历史 R4；本轮核实来源身份，未完成文章样本与纠错记录的系统复核。
+  professional_value: 保留历史 P4；学术参考分类中的研究文献入口。
+  evidence:
+  - https://link.springer.com/journal/11098/aims-and-scope
+  limitations: 研究、书评与争论需按文章区分；期刊身份不自动对应 R5。
+  access: 保留官网入口；尚未验证可供本库使用的 feed。
 ```
 
 ```source
@@ -3212,11 +3257,22 @@ section: academic_reference
 feed_url: ''
 source_cap: 0
 site_url: https://link.springer.com/journal/11229
-source_type: culture_magazine
-authority_level: commentary
+source_type: journal
+authority_level: primary
 reliability_score: 4
 professional_value: 4
 use_role: baseline
+review:
+  status: partial
+  checked: '2026-10-30'
+  scope: 哲学研究论文与讨论；不代表所有主张已成共识
+  identity: 出版社将其定义为认识论、科学哲学及相关领域的研究期刊。
+  reliability: 保留历史 R4；本轮核实来源身份，未完成文章样本与纠错记录的系统复核。
+  professional_value: 保留历史 P4；学术参考分类中的研究文献入口。
+  evidence:
+  - https://link.springer.com/journal/11229/aims-and-scope
+  limitations: 研究、书评与争论需按文章区分；期刊身份不自动对应 R5。
+  access: 保留官网入口；尚未验证可供本库使用的 feed。
 ```
 
 ```source
@@ -3496,11 +3552,23 @@ section: civilizational_critique
 feed_url: https://restofworld.org/feed/latest/
 source_cap: 6
 site_url: https://restofworld.org/
-source_type: culture_magazine
-authority_level: commentary
+source_type: specialist_media
+authority_level: specialist
 reliability_score: 4
 professional_value: 4
 use_role: baseline
+review:
+  status: reviewed
+  checked: '2026-10-30'
+  scope: 技术对非西方社会的影响与实地报道
+  identity: 官方定位为关注技术与社会的非营利新闻出版机构。
+  reliability: R4：公开编辑独立、利益冲突、匿名消息源与更正规则；保留现有评分。
+  professional_value: P4：以非西方技术经验补充文明批评。
+  evidence:
+  - https://restofworld.org/about/
+  - https://restofworld.org/about/ethics-editorial-policies/
+  limitations: 报道视角不等于全面地域代表性；个别匿名信源仍需交叉核验。
+  access: 保留已有公开 RSS，仅取 feed 返回内容。
 ```
 
 ```source
@@ -4700,16 +4768,55 @@ description_zh: ''
 ```
 
 ```source
+name: NOWFASHION
+section: fashion_style
+feed_url: ''
+source_cap: 0
+site_url: https://nowfashion.com/
+source_type: specialist_media
+authority_level: primary
+reliability_score: 4
+professional_value: 4
+use_role: reference
+description: 秀场与时装系列摄影档案，可按品牌、季节和场次查阅；图片使用须遵循站点许可。
+review:
+  status: reviewed
+  checked: '2026-10-30'
+  scope: 秀场照片及品牌、季节、场次元数据
+  identity: 官方介绍其为秀场摄影档案，主页按品牌、系列、日期展示照片。
+  reliability: R4：可定位到具体场次的摄影记录适合作为视觉一手参考；场次文字信息仍需与品牌日程核对。
+  professional_value: P4：补足时尚与风格分类中的成套秀场视觉参考。
+  evidence:
+  - https://nowfashion.com/
+  - https://nowfashion.com/about-photo-collection
+  - https://nowfashion.com/licensing-agreement-terms-of-service
+  limitations: 不将官网规模宣传作为质量证据；照片不等于可自由转载素材。
+  access: 仅保留网址；条款限制内容复制，未确认允许本库采集的 RSS/API。
+```
+
+```source
 name: Business of Fashion
 section: fashion_style
 feed_url: https://www.businessoffashion.com/arc/outboundfeeds/rss/?outputType=xml
 source_cap: 6
 site_url: https://www.businessoffashion.com/
-source_type: culture_magazine
-authority_level: commentary
+source_type: trade_publication
+authority_level: specialist
 reliability_score: 4
 professional_value: 4
 use_role: culture_probe
+review:
+  status: reviewed
+  checked: '2026-10-30'
+  scope: 时尚、美容与奢侈品行业报道及分析
+  identity: 官方定位为面向时尚与美容产业的媒体与行业信息公司。
+  reliability: R4：公开编辑独立、商业内容标示与利益冲突规则；这支持专业报道用途，但不是事实无误保证。
+  professional_value: P4：提供时尚产业、品牌与行业背景，补充秀场与风格资料。
+  evidence:
+  - https://www.businessoffashion.com/about-us/
+  - https://www.businessoffashion.com/our-journalism/
+  limitations: 区分新闻、分析与赞助内容；商业预测需交叉核验。
+  access: 保留已有 RSS；只取其返回的标题和摘要，不绕过订阅限制。
 ```
 
 ```source
@@ -6819,11 +6926,22 @@ section: plants_fungi
 feed_url: ''
 source_cap: 0
 site_url: https://www.kew.org/science
-source_type: specialist_media
-authority_level: specialist
+source_type: institutional
+authority_level: primary
 reliability_score: 4
 professional_value: 4
 use_role: baseline
+review:
+  status: partial
+  checked: '2026-10-30'
+  scope: Kew 自身植物与真菌研究、馆藏和数字资源
+  identity: 官网提供研究部门、科学家、馆藏、数据库及报告入口。
+  reliability: 保留历史 R4；身份核实不等于对全部数据库和研究结论重新评级。
+  professional_value: 保留历史 P4；对植物与真菌分类具有直接专业价值。
+  evidence:
+  - https://www.kew.org/science
+  limitations: 新闻介绍与研究论文、数据库记录应分别核对。
+  access: 保留官网入口，未增加未核实的采集方式。
 ```
 
 ```source
@@ -7840,6 +7958,18 @@ authority_level: specialist
 reliability_score: 4
 professional_value: 4
 use_role: baseline
+review:
+  status: reviewed
+  checked: '2026-10-30'
+  scope: News 编辑报道、拆解与维修议题；不含所有社区回答
+  identity: 官网区分编辑团队内容与社区维修指南，News 归属编辑团队。
+  reliability: R4：官方说明核验事实或自行测试，并经写作、编辑与技术人员审阅；同一 News feed 在两个相关领域没有支持降为 R3 的依据。
+  professional_value: P4：硬件拆解、可维修性和设备设计提供强支持。
+  evidence:
+  - https://www.ifixit.com/Info/content-quality
+  - https://www.ifixit.com/about-us
+  limitations: 有维修权倡议立场并经营零件业务；该评分不外推到社区回答或全部型号操作。
+  access: 保留 News RSS；不将社区内容视为已受同样编辑审查。
 ```
 
 ```source
@@ -8768,6 +8898,18 @@ authority_level: specialist
 reliability_score: 4
 professional_value: 4
 use_role: baseline
+review:
+  status: reviewed
+  checked: '2026-10-30'
+  scope: 技术对非西方社会的影响与实地报道
+  identity: 官方定位为关注技术与社会的非营利新闻出版机构。
+  reliability: R4：公开编辑独立、利益冲突、匿名消息源与更正规则；保留现有评分。
+  professional_value: P4：技术权力、劳动和平台治理报道直接支持该分类。
+  evidence:
+  - https://restofworld.org/about/
+  - https://restofworld.org/about/ethics-editorial-policies/
+  limitations: 报道视角不等于全面地域代表性；个别匿名信源仍需交叉核验。
+  access: 保留已有公开 RSS，仅取 feed 返回内容。
 ```
 
 ```source
@@ -9217,9 +9359,21 @@ source_cap: 6
 site_url: https://www.ifixit.com/News
 source_type: specialist_media
 authority_level: specialist
-reliability_score: 3
+reliability_score: 4
 professional_value: 4
 use_role: culture_probe
+review:
+  status: reviewed
+  checked: '2026-10-30'
+  scope: News 编辑报道、拆解与维修议题；不含所有社区回答
+  identity: 官网区分编辑团队内容与社区维修指南，News 归属编辑团队。
+  reliability: R4：官方说明核验事实或自行测试，并经写作、编辑与技术人员审阅；同一 News feed 在两个相关领域没有支持降为 R3 的依据。
+  professional_value: P4：维修方法与维修权议题提供强支持。
+  evidence:
+  - https://www.ifixit.com/Info/content-quality
+  - https://www.ifixit.com/about-us
+  limitations: 有维修权倡议立场并经营零件业务；该评分不外推到社区回答或全部型号操作。
+  access: 保留 News RSS；不将社区内容视为已受同样编辑审查。
 ```
 
 ```source
@@ -9312,6 +9466,32 @@ id: reference_pool
 title: reference pool
 title_zh: 参考来源暂存
 description_zh: ''
+```
+
+```source
+name: Pixabay
+section: reference_pool
+feed_url: ''
+source_cap: 0
+site_url: https://pixabay.com/
+source_type: reference_tool
+authority_level: community
+reliability_score: 3
+professional_value: 4
+use_role: tool
+description: 图片、视频、音乐与音效素材检索；按 Pixabay Content License 免费使用，仍有使用限制及可能的第三方权利，并非全部无版权。
+review:
+  status: reviewed
+  checked: '2026-10-30'
+  scope: 创作素材发现及许可核对入口，不作为事实报道源
+  identity: 官方将其定义为创作者分享图片、视频、音频等媒体的社区。
+  reliability: R3：社区上传素材的标签、真实性与第三方权利须逐项核对；平台许可不能替代单件作品审核。
+  professional_value: P4：跨媒介素材检索对参考来源暂存分类有直接工具价值。
+  evidence:
+  - https://pixabay.com/service/license-summary/
+  - https://pixabay.com/api/docs/
+  limitations: 不等同于公有领域或无限制授权；不将素材内容当成已核实的事实。
+  access: 仅保留网址；官方 API 需要密钥，当前未配置，且提供素材检索而非文章订阅。
 ```
 
 ```source

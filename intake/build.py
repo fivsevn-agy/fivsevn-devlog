@@ -4,12 +4,16 @@ from __future__ import annotations
 import html
 import re
 from datetime import datetime, timezone
-from email.utils import parsedate_to_datetime
 from pathlib import Path
 from typing import Any
 
 import feedparser
+import requests
 import yaml
+
+from item_quality import (clean_text, clean_title, http_url, publication_date, entry_date,
+                          item_sort_key, deduplicate_sections)
+from source_validation import UniqueKeyLoader, validate_blocks
 
 BASE_DIR = Path(__file__).resolve().parent
 CONFIG_PATH = BASE_DIR / "feeds.yml"
@@ -80,16 +84,22 @@ def get_source_meta(feed: dict[str, Any]) -> dict[str, Any]:
         "reliability_score": feed.get("reliability_score"),
         "professional_value": feed.get("professional_value"),
         "use_role": feed.get("use_role"),
+        "description": feed.get("description", ""),
+        "review": feed.get("review", {}),
     }
 
 
-def make_link_source_item(feed_name: str, site_url: str, source_meta: dict[str, Any] | None = None) -> dict[str, Any]:
+def make_link_source_item(feed_name: str, site_url: str, source_meta: dict[str, Any] | None = None, status: str = "link_only") -> dict[str, Any]:
+    observed_dt = datetime.now(timezone.utc)
     return {
         "title": feed_name,
         "link": site_url,
-        "summary": "Source homepage / 来源主页",
+        "summary": clean_text((source_meta or {}).get("description")) or "Source homepage / 来源主页",
         "source": "URL-only source / 仅网址源",
-        "published_dt": datetime.now(timezone.utc),
+        "published_dt": None,
+        "observed_dt": observed_dt,
+        "observed": format_datetime(observed_dt),
+        "fetch_status": status,
         "published": "",
         "is_source_link": True,
         "source_meta": source_meta or {},
@@ -112,7 +122,7 @@ def read_yaml_blocks(markdown_text: str) -> list[tuple[str, dict[str, Any]]]:
         if not body:
             continue
 
-        parsed = yaml.safe_load(body)
+        parsed = yaml.load(body, Loader=UniqueKeyLoader)
         if not isinstance(parsed, dict):
             raise ValueError(f"Invalid `{kind}` block: expected YAML mapping")
 
@@ -129,7 +139,9 @@ def build_config_from_sources_markdown(
     display: dict[str, Any] | None = None
     sections: dict[str, Any] = {}
 
-    for kind, block in read_yaml_blocks(markdown_text):
+    blocks = read_yaml_blocks(markdown_text)
+    validate_blocks(blocks)
+    for kind, block in blocks:
         if kind == "categories":
             categories = block
             continue
@@ -253,11 +265,7 @@ SUMMARY_CHAR_CAP = 1100
 
 
 def strip_html(value: str) -> str:
-    if not value:
-        return ""
-    value = re.sub(r"<[^>]+>", " ", value)
-    value = re.sub(r"\s+", " ", value)
-    return value.strip()
+    return clean_text(value)
 
 
 def clamp_summary(value: str) -> str:
@@ -274,22 +282,13 @@ def clamp_summary(value: str) -> str:
     return cut.rstrip(" ,;:，；：") + "…"
 
 
-def parse_entry_date(entry: Any) -> datetime:
-    for key in ("published", "updated", "created"):
-        value = entry.get(key)
-        if not value:
-            continue
-        try:
-            parsed = parsedate_to_datetime(value)
-            if parsed.tzinfo is None:
-                parsed = parsed.replace(tzinfo=timezone.utc)
-            return parsed
-        except Exception:
-            continue
-    return datetime.now(timezone.utc)
+def parse_entry_date(entry: Any) -> datetime | None:
+    return publication_date(entry)
 
 
-def format_datetime(dt: datetime) -> str:
+def format_datetime(dt: datetime | None) -> str:
+    if dt is None:
+        return "Publication date unknown / 发布日期未知"
     return dt.astimezone(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
 
@@ -318,23 +317,25 @@ def fetch_feed(
     limit: int = DEFAULT_SOURCE_CAP,
     source_meta: dict[str, Any] | None = None,
 ) -> list[dict[str, Any]]:
-    parsed = feedparser.parse(feed_url)
+    response = requests.get(feed_url, timeout=(10, 25), headers={
+        "User-Agent": "fivsevn-intake/1.0 (+https://devlog.fivsevn.com/intake/)"
+    })
+    response.raise_for_status()
+    parsed = feedparser.parse(response.content, response_headers={
+        "content-location": response.url,
+        "content-type": response.headers.get("content-type", ""),
+    })
+    fetched_dt = datetime.now(timezone.utc)
     if getattr(parsed, "bozo", False):
         print(f"[warn] feed parse warning: {feed_name} — {feed_url}")
 
     items: list[dict[str, Any]] = []
-    seen_links: set[str] = set()
 
     for entry in parsed.entries:
-        link = entry.get("link", "").strip()
-        title = entry.get("title", "Untitled").strip()
+        link = http_url(entry.get("link", ""))
+        title = clean_title(entry)
         if not link or not title:
             continue
-
-        normalized_link = link.split("?")[0].rstrip("/")
-        if normalized_link in seen_links:
-            continue
-        seen_links.add(normalized_link)
 
         raw_summary = entry.get("summary", "") or entry.get("description", "")
         summary = clamp_summary(strip_html(raw_summary))
@@ -348,12 +349,24 @@ def fetch_feed(
                 "source": feed_name,
                 "published_dt": published_dt,
                 "published": format_datetime(published_dt),
+                "updated_dt": entry_date(dict(entry), "updated"),
+                "fetched_dt": fetched_dt,
+                "fetched": format_datetime(fetched_dt),
+                "fetch_status": "ok",
                 "source_meta": source_meta or {},
             }
         )
 
-    items.sort(key=lambda item: item["published_dt"], reverse=True)
-    return items[:limit]
+    # Deduplicate before applying the per-source cap, keeping query-selected
+    # articles and the latest representation of repeated URLs.
+    grouped = {"": items}
+    deduplicate_sections(grouped)
+    for item in grouped[""]:
+        item["feed_origins"] = [
+            {key: record[key] for key in ("url", "published", "fetched")}
+            for record in item.pop("attributions")
+        ]
+    return grouped[""][:max(0, limit)]
 
 
 def iter_section_feeds(section_key: str, section: dict[str, Any], config: dict[str, Any]) -> list[dict[str, Any]]:
@@ -392,8 +405,8 @@ def build_section(section_key: str, section: dict[str, Any], config: dict[str, A
             continue
 
         if feed_name in disabled_feed_names:
-            print(f"[skip] disabled feed: {feed_name}")
-            continue
+            print(f"[link] disabled feed; retaining source: {feed_name}")
+            feed_url = ""
 
         region = feed.get("region")
         region_suffix = f" [{region}]" if region else ""
@@ -417,11 +430,11 @@ def build_section(section_key: str, section: dict[str, Any], config: dict[str, A
             except Exception as error:
                 print(f"[error] failed to fetch {feed_name}: {error}")
                 print(f"[link] fetch failed; rendering source link: {feed_name}: {site_url}")
-                items = [make_link_source_item(feed_name, site_url, source_meta)]
+                items = [make_link_source_item(feed_name, site_url, source_meta, "fetch_failed")]
 
             if not items:
                 print(f"[link] no RSS entries returned; rendering source link: {feed_name}: {site_url}")
-                items = [make_link_source_item(feed_name, site_url, source_meta)]
+                items = [make_link_source_item(feed_name, site_url, source_meta, "empty_feed")]
 
         print(f"[items] {feed_name}: {len(items)}")
         if region:
@@ -429,7 +442,7 @@ def build_section(section_key: str, section: dict[str, Any], config: dict[str, A
                 item["region"] = str(region)
         section_items.extend(items)
 
-    section_items.sort(key=lambda item: item["published_dt"], reverse=True)
+    section_items.sort(key=item_sort_key, reverse=True)
     return section_items
 
 
@@ -457,15 +470,42 @@ def format_source_quality_meta(item: dict[str, Any]) -> str:
     return " · ".join(parts)
 
 
+def format_item_sources(item: dict[str, Any]) -> str:
+    records = item.get("attributions", [])
+    return " / ".join(dict.fromkeys(record["source"] for record in records)) if records else item["source"]
+
+
+def format_item_quality(item: dict[str, Any]) -> str:
+    records = item.get("attributions", [])
+    if len(records) <= 1:
+        return format_source_quality_meta(item)
+    return " | ".join(dict.fromkeys(
+        f"{r['source']} [{r['section']}]: {format_source_quality_meta(r)}" for r in records
+    ))
+
+
+def format_review_hint(item: dict[str, Any]) -> str:
+    records = item.get("attributions") or [item]
+    hints = []
+    for record in records:
+        review = (record.get("source_meta") or {}).get("review") or {}
+        if not review:
+            hints.append("R/P: legacy rating, evidence review pending / 历史评分，依据待复核")
+        else:
+            hints.append("; ".join(f"{key}: {value}" for key, value in review.items()))
+    return " | ".join(dict.fromkeys(hints))
+
+
 def render_article(item: dict[str, Any]) -> str:
     title = escape(item["title"])
     link = escape(item["link"])
-    source = escape(item["source"])
+    source = escape(format_item_sources(item))
     published = escape(item["published"])
     summary = escape(item.get("summary", ""))
     summary_html = f"<p class='summary'>{summary}</p>" if summary else ""
-    source_quality = escape(format_source_quality_meta(item))
-    source_quality_html = f'<div class="meta">{source_quality}</div>' if source_quality else ""
+    source_quality = escape(format_item_quality(item))
+    review_hint = escape(format_review_hint(item))
+    source_quality_html = f'<div class="meta" title="{review_hint}">{source_quality}</div>' if source_quality else ""
     if item.get("is_source_link") or not published:
         meta_html = f"<div class=\"meta\">{source}</div>"
     else:
@@ -578,11 +618,11 @@ def load_fragment(filename: str) -> str:
     return fragment_path.read_text(encoding="utf-8").strip()
 
 
-def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, Any]]]) -> str:
+def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, Any]]], generated_at: datetime | None = None) -> str:
     site = config.get("site", {})
     title = escape(site.get("title", "Today’s Arrival"))
     title_zh = escape(site.get("title_zh", "本日入荷"))
-    opened_at = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    opened_at = format_datetime(generated_at or datetime.now(timezone.utc))
 
     daily_postcard_html = load_fragment("daily_postcard.html")
     daily_field_sample_html = load_fragment("daily_field_sample.html")
@@ -1019,7 +1059,7 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
       <p class="kicker">Courier on duty / 投递员：</p>
       <p class="kicker-value">GitHub Actions</p>
 
-      <p class="kicker">Shift opened / 到店时间：</p>
+      <p class="kicker">Shift opened / 到店时间（页面生成）：</p>
       <p class="kicker-value">{opened_at}</p>
 
     </header>
@@ -1227,11 +1267,7 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
 
 
 def clean_markdown_text(value: Any) -> str:
-    if value is None:
-        return ""
-    text = html.unescape(strip_html(str(value)))
-    text = re.sub(r"\s+", " ", text)
-    return text.strip()
+    return clean_text(value)
 
 
 def render_markdown_label(title: Any, title_zh: Any = "") -> str:
@@ -1265,12 +1301,12 @@ def ordered_section_keys(config: dict[str, Any]) -> list[str]:
 
 
 def render_gpt_article(item: dict[str, Any]) -> str:
-    title = clean_markdown_text(item.get("title", "Untitled")) or "Untitled"
-    source = clean_markdown_text(item.get("source", ""))
+    title = str(item.get("title", "Untitled")) or "Untitled"
+    source = format_item_sources(item)
     published = clean_markdown_text(item.get("published", ""))
-    url = clean_markdown_text(item.get("link", ""))
-    summary = clean_markdown_text(item.get("summary", ""))
-    source_quality = clean_markdown_text(format_source_quality_meta(item))
+    url = item.get("link", "")
+    summary = item.get("summary", "")
+    source_quality = format_item_quality(item)
 
     lines = [f"### {title}"]
     if source:
@@ -1281,6 +1317,17 @@ def render_gpt_article(item: dict[str, Any]) -> str:
         lines.append(f"URL: {url}")
     if source_quality:
         lines.append(f"Source meta: {source_quality}")
+    if item.get("updated_dt"):
+        lines.append(f"Updated: {format_datetime(item['updated_dt'])}")
+    if item.get("fetched"):
+        lines.append(f"Fetched: {item['fetched']}")
+    if item.get("observed"):
+        lines.append(f"Observed: {item['observed']}")
+    lines.append(f"Review: {format_review_hint(item)}")
+    if item.get("fetch_status"):
+        lines.append(f"Fetch status: {item['fetch_status']}")
+    for record in item.get("attributions", []):
+        lines.append(f"Attribution: {record['source']} [{record['section']}] {record['url']}")
     if summary:
         lines.extend(["", summary])
 
@@ -1295,10 +1342,10 @@ def render_gpt_fragment(title: Any, title_zh: Any, html_fragment: str) -> str:
     return f"### {heading}\n\n{body}".strip()
 
 
-def render_gpt_markdown(config: dict[str, Any], sections_data: dict[str, list[dict[str, Any]]]) -> str:
+def render_gpt_markdown(config: dict[str, Any], sections_data: dict[str, list[dict[str, Any]]], generated_at: datetime | None = None) -> str:
     site = config.get("site", {}) or {}
     title = render_markdown_label(site.get("title", "Today’s Arrival"), site.get("title_zh", "本日入荷"))
-    opened_at = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    opened_at = format_datetime(generated_at or datetime.now(timezone.utc))
 
     parts: list[str] = [
         f"# {title}",
@@ -1372,10 +1419,12 @@ def main() -> None:
         print(f"[section] {section_key}")
         sections_data[section_key] = build_section(section_key, section, config)
 
-    OUTPUT_PATH.write_text(render_html(config, sections_data), encoding="utf-8")
+    deduplicate_sections(sections_data)
+    generated_at = datetime.now(timezone.utc)
+    OUTPUT_PATH.write_text(render_html(config, sections_data, generated_at), encoding="utf-8")
     print(f"[done] generated {OUTPUT_PATH}")
 
-    GPT_OUTPUT_PATH.write_text(render_gpt_markdown(config, sections_data), encoding="utf-8")
+    GPT_OUTPUT_PATH.write_text(render_gpt_markdown(config, sections_data, generated_at), encoding="utf-8")
     print(f"[done] generated {GPT_OUTPUT_PATH}")
 
 
