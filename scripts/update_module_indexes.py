@@ -23,7 +23,7 @@ MODULES = {
         "index": "natsci/index.md",
         "heading": "## Recent Notes 更新记录",
         "marker": "NATSCI_RECENT",
-        "exclude_dirs": {"assets", "_drafts"},
+        "exclude_dirs": {"assets", "_drafts", "fieldlog"},
     },
     "netcom": {
         "root": "netcom",

@@ -38,6 +38,8 @@ updated: 2026-06-15
 
 ### 内容仓库 ▽ ./[`devlog.natsci`](https://devlog.fivsevn.com/natsci)  
 
+### 影像记录 ▷ ./[`natsci.fieldlog`](https://devlog.fivsevn.com/natsci/fieldlog/)
+
 ---
 #### > Directory
 
