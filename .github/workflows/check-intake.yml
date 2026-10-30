@@ -10,7 +10,7 @@ on:
   push:
     branches: [main]
     paths:
-      - 'intake/*.py'
+      - 'intake/**/*.py'
       - 'intake/sources.md'
       - 'intake/requirements.txt'
       - 'tests/test_intake.py'
