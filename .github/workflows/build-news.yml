@@ -16,7 +16,8 @@ permissions:
   contents: write
 
 concurrency:
-  group: build-intake
+  group: devlog-pages
+  queue: max
   cancel-in-progress: false
 
 jobs:
@@ -28,6 +29,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
+          ref: main
           persist-credentials: true
 
       - name: Set up Python

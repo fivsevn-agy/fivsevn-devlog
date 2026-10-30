@@ -1,17 +1,124 @@
 ---
 id: natsci-fieldlog-readme
-title: Fieldlog 发布与维护
+title: Fieldlog publishing and maintenance
 module: natsci
 submodule: fieldlog
 topic: guide
 type: note
 status: active
 canonical: true
-summary: 自然观察影像记录的内容结构、发布方法与迁移说明。
+summary: Content packages, publishing, validation, and maintenance for the natural observation archive.
 parents: [natsci-readme]
 related: []
 tags: [natsci, fieldlog]
 audience: [self, internal]
+languages: [en]
+maturity: evolving
+confidence: null
+visibility: public
+source_of_truth: devlog
+filename_policy: entrypoint
+created: '2026-10-30'
+updated: '2026-10-30'
+metadata_updated: '2026-10-30'
+---
+# Fieldlog
+
+Fieldlog is the natural observation photo archive at [devlog.fivsevn.com/natsci/fieldlog](https://devlog.fivsevn.com/natsci/fieldlog/). This directory contains its editable source packages, shared interface assets, and publication state. The wider [natsci study archive](https://devlog.fivsevn.com/natsci/) contains the accompanying notes.
+
+Upload photos to [`trigger_imgs/`](trigger_imgs/). Each image becomes one independent post with an optional Markdown caption. The [image inbox guide](trigger_imgs/README.md) provides concise everyday instructions in Chinese; this README describes the content and publishing system in English.
+
+## Repository layout
+
+```text
+natsci/fieldlog/
+  YYYY/MM/{id}/
+    index.md                       Canonical metadata and editable Markdown caption
+    assets/                        This post's archived image
+  trigger_imgs/                    Temporary image-upload inbox
+    README.md                      Chinese upload guide
+  ui/                              Shared image, fonts, CSS, and navigation behavior
+  site-data/
+    history.json                   Stable order for posts sharing an exact timestamp
+  .publishing/
+    state.json                     Upload cursor and immutable image-event records
+    deployed.json                  File hashes from the last verified public build
+scripts/
+  site_post_metadata.py            Shared metadata normalization and validation
+  fieldlog_image_codec.py          Shared image validation and WebP conversion
+  normalize_fieldlog_images.py     Normalize saved package images without changing post IDs
+  import_fieldlog_triggers.py      Import committed inbox snapshots into post packages
+  build_fieldlog.py                Build listings, details, assets, and a build receipt
+  verify_fieldlog_live.py          Verify the public build before clearing originals
+  fieldlog_image_inbox.py          Clear only matching, publicly verified inbox files
+  fieldlog_templates/              Page and opening-window templates
+  requirements-fieldlog.txt        Pinned dependencies
+schemas/                           Local shared core and site-post schema copies
+_site/natsci/fieldlog/              Generated deployment artifact
+```
+
+Edit source packages and templates. Generated HTML belongs only to `_site/` and is rebuilt from source. Fieldlog serves its own photographs, fonts, and interface assets.
+
+## Publish images
+
+1. Pull the latest `main` before uploading from Working Copy or a phone shortcut. Browser uploads can use the [image upload page](https://github.com/fivsevn-agy/fivsevn-devlog/upload/main/natsci/fieldlog/trigger_imgs).
+2. Save one or more photos into `natsci/fieldlog/trigger_imgs/`, keeping their original filenames.
+3. Use the commit summary for an operation label. Put an optional public Markdown caption in the **extended description** below the summary. Leave it empty for an image-only post.
+4. Commit and push to `main`, wait for the repository's [publishing workflow](https://github.com/fivsevn-agy/fivsevn-devlog/actions) to succeed, then check the [archive](https://devlog.fivsevn.com/natsci/fieldlog/) and the individual post.
+
+Configure Working Copy and phone shortcuts to use **fivsevn-agy/fivsevn-devlog**, the inbox path above, and the `main` branch. The publishing bot saves packages, publication state, and verified inbox cleanup in new commits. Pull those commits before the next upload.
+
+Each image creates a separate post. Images in one commit share the caption from its extended description. Uploads need only a photo and optional caption; the importer completes the shared metadata automatically.
+
+### Dates, names, and retries
+
+- Publication time comes from the upload commit's **committer timestamp**, converted to `Asia/Shanghai` and saved with its timezone offset.
+- A package ID combines that timestamp with a digest of the upload commit and path. The saved directory is `YYYY/MM/{id}/`.
+- Uploaded paths are sorted to assign stable batch numbers. Saved media is named `YYYYMMDD-HHMMSS-NN.webp`.
+- A commit and path are processed once. Retrying a run preserves the package and any later caption edits.
+- Uploading the same filename or identical bytes in a **new commit** creates a new post. Edit the saved package to revise an existing post.
+- Deleting an inbox file does not withdraw an earlier committed upload event. Hide or remove its saved post instead.
+
+The precise timestamp and the visible 12-digit observation code are separate from the stable package ID. If an observation date needs correction, edit `extra.published_at` and `extra.observation_id` while preserving the ID and directory. The post URL stays unchanged.
+
+## Images
+
+New uploads accept JPG/JPEG, PNG, WebP, GIF, HEIC, and HEIF, including uppercase extensions, Unicode filenames, and nested inbox folders.
+
+| Input | Archived behavior |
+| --- | --- |
+| JPEG and HEIC/HEIF photos | WebP at quality 85, original display dimensions, corrected orientation, retained ICC profile and applicable EXIF metadata |
+| PNG graphics | Lossless WebP retaining transparency and animation timing |
+| GIF animations | Lossless animated WebP retaining frames, timing, transparency, and loop behavior |
+| Existing WebP | Validated and retained byte-for-byte |
+
+MPO and HEIF inputs use the primary display photograph; auxiliary phone frames do not become animation frames. Every saved package image is WebP. Existing valid WebP files retain their bytes and filename spelling; builds copy them into the deployment artifact without another encode.
+
+`normalize_fieldlog_images.py` also handles photos saved directly into package assets, including hidden and draft posts and images no longer selected by the post. It validates the complete batch, stages the WebP files, updates `extra.image` references and applicable upload records, and replaces old-format files as one transaction. A failed batch restores the previous files and metadata. Repeating normalization changes no files when the archive is already WebP.
+
+The current content tree stores the WebP archive without separate JPEG, PNG, HEIC, or GIF originals. Inbox originals are temporary and remain until public verification succeeds; earlier source formats remain recoverable from Git history. Post IDs, post URLs, observation dates, and captions stay unchanged through conversion.
+
+The on-screen `OBS-…_raw.tif` text is a virtual specimen filename used by the interface. The actual displayed file comes from `extra.image` and is WebP.
+
+## Captions and saved posts
+
+A package contains an `index.md` and its own `assets/` directory:
+
+```yaml
+---
+id: 2026-10-30-174000-example
+title: 30 Oct, 2026 17:40
+module: natsci
+submodule: fieldlog
+topic: null
+type: log
+status: published
+canonical: true
+summary: null
+parents: []
+related: []
+tags: []
+audience: [public]
 languages: [zh]
 maturity: evolving
 confidence: null
@@ -20,85 +127,86 @@ source_of_truth: devlog
 filename_policy: entrypoint
 created: '2026-10-30'
 updated: '2026-10-30'
+metadata_updated: '2026-10-30'
+extra:
+  profile: site-post-v1
+  published_at: '2026-10-30T17:40:00+08:00'
+  author: 五月七日
+  image: assets/20261030-174000-01.webp
+  alt: A specimen observed in the field
+  observation_id: '261030174000'
+  display_status: Archived
 ---
-# Fieldlog
 
-[展示页面](https://devlog.fivsevn.com/natsci/fieldlog/) · [发布任务](https://github.com/fivsevn-agy/fivsevn-devlog/actions/workflows/publish-fieldlog.yml)
-
-[图片入口说明](trigger_imgs/README.md) · [直接上传图片](https://github.com/fivsevn-agy/fivsevn-devlog/upload/main/natsci/fieldlog/trigger_imgs)
-
-延续 [flux](https://github.com/fivsevn/fivsevn-flux) 和 [savour](https://github.com/fivsevn/fivsevn-savour) 的做法：内容留在 Git，每则帖子一个文件夹，由 Python 生成静态页面，在现有 devlog GitHub Pages 发布。图片、字体和首页图片都保存在本目录；展示不依赖 WordPress 或原 assets 仓库。
-
-## 发一张图片
-
-1. 把图片放进 `natsci/fieldlog/trigger_imgs/`，可用 Working Copy，也可把原图片快捷指令的目标仓库和路径改到这里。
-2. 提交并推送到 `main`。提交标题写简短说明；**extended description（提交正文）写公开配文**，可用 Markdown。同一次提交多张图，会分别成帖，并使用相同配文。
-3. 等待 **Publish fieldlog** 完成，再等 GitHub Pages 部署完成；拉取自动生成的帖子后继续编辑。
-
-支持 JPG/JPEG、PNG、WebP、GIF、HEIC/HEIF。新上传图片按 savour 的处理方式生成 WebP；入口原图保留，不自动删除。每次有效的“提交 + 图片路径”都是一个独立发布事件：重试不重复发帖，后续提交覆盖同名图片会另发一则。直接在网页上传时，可将配文写进提交的 extended description。
-
-日期取提交时间，转换为北京时间（Asia/Shanghai）。如需记录拍摄日期，发布后修改帖子 `date` 和 `observation_id`；保留 `id` 和目录名，地址不变。
-
-**删除入口图片不会撤回已提交的发布事件。** 修改或隐藏旧帖应编辑已生成文件夹内的 `index.md`，不要通过重传入口图片更新原帖。配文只在详情页显示；列表中点击绿色时间码进入详情页。
-
-## 每则帖子
-
-```text
-natsci/fieldlog/
-├── 2026/07/260715090824/
-│   ├── index.md          内容源：图片引用、日期和配文
-│   ├── index.html        自动生成的详情页
-│   └── assets/IMG_8302.jpg
-├── trigger_imgs/         新图片入口（保留上传原图）
-├── index.html            自动生成的列表首页
-├── page/2/index.html     自动生成的分页，每页 17 则
-├── ui/                   样式、字体和首页图片
-├── migration/manifest.json
-└── .publishing/state.json  上传游标与去重记录
+Write the accompanying observation here. **Markdown** and [named links](https://example.com/) are supported.
 ```
 
-手动新建时，创建 `YYYY/MM/唯一id/index.md`，把图片放在同目录 `assets/`。例如：
+Saved posts follow the same [shared core metadata contract](https://github.com/fivsevn-agy/fivsevn-spec/blob/main/content/content-metadata.schema.json) and [site-post profile](https://github.com/fivsevn-agy/fivsevn-spec/blob/main/content/site-post.schema.json) as Flux and Savour. The shared helper and schemas are committed locally, so normalization, validation, and building work without a network connection. Update the helper and schema copies together when adopting a new contract version.
 
-```yaml
----
-id: '261030174000'
-observation_id: '261030174000'
-title: '30 Oct, 2026 17:40'
-date: '2026-10-30T17:40:00+08:00'
-archive_status: Archived
-status: published
-published: false
-image: assets/photo.webp
-alt: 自然观察影像
----
+| Field | Meaning |
+| --- | --- |
+| `id` | Unique stable identity, matching the existing directory name |
+| `title` | Label beside Annotation Log; separate from the publication timestamp |
+| `module`, `submodule`, `type` | `natsci`, `fieldlog`, and `log` |
+| `status`, `visibility` | Listed only when visibility is `public` and status is `active`, `publish`, or `published` |
+| `created`, `updated` | Content dates, separate from publication time |
+| `metadata_updated` | Metadata maintenance date; unchanged normalization does not refresh it |
+| `extra.profile` | `site-post-v1` |
+| `extra.published_at` | Precise observation/publication timestamp with a timezone offset; controls ordering |
+| `extra.image`, `extra.alt` | Package-relative image under `assets/` and its alternative text |
+| `extra.observation_id` | Visible 12-digit OBS time code; may be shared by more than one post |
+| `extra.display_status` | Window display label, usually `Archived`; independent of publication status |
 
-这里写发布时附带的文字。支持段落、链接、列表等 Markdown。
-```
+Put the accompanying text after the closing `---`. Captions appear on the individual post; the listing shows the photograph and metadata. Missing fields in manually saved packages are completed before validation. Explicit statuses and visibility settings are preserved, and unrecognized older metadata is retained under `legacy.metadata`.
 
-`id` 必须与文件夹名一致且唯一；`observation_id` 是页面显示的 12 位时间码，可重复。`date` 决定列表排序，必须带时区。`title` 是 Annotation Log 旁显示的标题；留空或不填时，使用 `date` 转换成北京时间的日期时间。迁移记录中的 `annotation_date` 仅保留原始信息，修改标题直接改 `title`。详情页右上角绿色 `X` 返回原分页与帖子位置；窗口内部仅在内容超出视口时滚动。
+Edit a saved `index.md` to revise its caption, label, or visibility. Set `status` to `hidden` or `draft`, or `visibility` to `private` or `internal`, to exclude it from the generated website. These fields do not hide files in the public Git repository. Delete the entire package directory to remove a post; earlier versions remain in Git history.
 
-`status: published` 生成展示页面；改成 `draft`、`hidden` 或 `archived` 后，下一次构建会移除该则已生成的 HTML。这里的 `archive_status: Archived` 只是原窗口中的显示标签。**`published: false` 必须保留**：它用于阻止 Jekyll 再把内容源生成一个页面，不影响本项目的发布状态。公开 Git 仓库中的草稿、历史和原图仍可被访问，这些状态不提供隐私保护。
+## Interface and URLs
 
-## 修改与构建
+Each listing page contains up to **11 published posts**. The opening workspace window and closing Root Directory link are separate from the post count. A partial final page contains the remaining posts.
 
-改配文、日期、标题或图片引用，编辑原 `index.md`；替换图片可直接改原帖 `assets/` 中的文件。提交到 `main` 后自动重建，不改变原帖地址。布局由 `scripts/fieldlog_templates/` 与 `ui/fieldlog.css` 管理，勿直接修改生成的 HTML。`natsci` 普通笔记目录不收录这些单图帖子。
+Individual post URLs remain `/natsci/fieldlog/YYYY/MM/{id}/`; subsequent listing pages use `/natsci/fieldlog/page/N/`. OBS anchors are mapped to the current listing page, so older pagination bookmarks continue to reach the correct post after the page count changes. The green `X` returns to the source listing and post position. Direct visits use the current listing anchor. A detail window scrolls internally when its content exceeds the viewport.
 
-本地检查：
+The opening image, centered windows, typography, and colors are controlled by `ui/fieldlog.css` and `scripts/fieldlog_templates/`. Root Directory links lead to [fivsevn.com](https://fivsevn.com/).
+
+## Build and publish
+
+The repository uses one Pages deployment for the complete devlog site. Its workflow normalizes metadata and saved photos, tests publishing behavior, imports committed inbox images, validates source packages, builds the main site, and overlays the Fieldlog artifact. It saves source packages and the upload cursor together before deployment.
+
+After deployment, `verify_fieldlog_live.py` compares the public receipt and required page/media bytes with the local artifact. Changed files, the first and last listing pages, and pending inbox packages are checked. An unchanged archive does not require downloading every retained photo again. Cleanup checks the uploaded source digest and the saved image digest separately, then removes only matching originals from the inbox. Failed runs, newer uploads, private/draft posts, and changed saved images retain their originals.
+
+The workflow checks that the remote branch still matches the run before committing cleanup. A failed run can be rerun; a new upload commit creates a new post. Do not clear publication cursors or event records during routine maintenance.
+
+### Local development
 
 ```sh
 python3 -m pip install -r scripts/requirements-fieldlog.txt
+python3 scripts/site_post_metadata.py normalize --site fieldlog --root natsci/fieldlog --schema-dir schemas
+python3 scripts/normalize_fieldlog_images.py
+python3 scripts/site_post_metadata.py check --site fieldlog --root natsci/fieldlog --schema-dir schemas
+python3 -m unittest discover -s scripts -p 'test_fieldlog_*.py'
+python3 -m unittest discover -s tests -p 'test_fieldlog.py'
 python3 scripts/build_fieldlog.py
 python3 scripts/build_fieldlog.py --check
-python3 -m unittest discover -s scripts -p 'test_fieldlog_triggers.py' -v
-python3 -m unittest discover -s tests -p 'test_fieldlog.py' -v
+python3 -m http.server 8000 --directory _site
 ```
 
-发布任务读取 Git 提交历史，先保存帖子与游标，再生成并提交 HTML，最后请求现有 GitHub Pages 分支构建。构建中若 `main` 有新的提交，任务会停止以免覆盖；在 Actions 重新运行即可。失败时入口图保留，游标仅随成功保存的帖子一起提交，不要手动清空或重置它。
+Open `http://localhost:8000/natsci/fieldlog/`. `build_fieldlog.py` defaults to `_site/natsci/fieldlog`; `--output /absolute/path` selects another module artifact directory, and `--root` selects a repository checkout. `--check` validates metadata, generated links, and artifact freshness without writing output.
 
-## 本次迁移
+For deployed verification and inbox cleanup, use the exact artifact that was published:
 
-2026-10-30 从 [WordPress natsci](https://fivsevn.com/natsci/) 的 fieldlog 分类复制全部 **43 则、43 张原图**。保留原始图片字节、OBS 日期、原标题（Annotation Log）、来源链接；迁移清单记有每张图片的 SHA-256、字节数及对应帖子。原帖均无配文、无评论，因此详情页留空附文位置，不显示虚构的占位内容。
+```sh
+python3 scripts/verify_fieldlog_live.py
+python3 scripts/fieldlog_image_inbox.py
+```
 
-两则观察时间相同的记录，文件夹和 `id` 分别加原 WordPress ID `-3522`、`-3543`，显示时间码保持原样。列表维持原来每页 17 则，共 3 页；同时间记录按原站顺序排列。
+Both accept `--root` and `--output`; public verification also accepts `--url`. Cleanup requires matching public verification and deployment records. A normal local build does not authorize inbox removal.
 
-**旧 assets、旧发布任务和 WordPress 内容尚未删除或修改。** 等新页面验收后再单独处理旧内容及旧发布入口。
+### Maintenance and recovery
+
+- `.publishing/state.json` records immutable upload events, source and saved image digests, and package paths. Preserve it when changing captions or templates.
+- `.publishing/deployed.json` records the last verified artifact hashes. The artifact's `build-receipt.json` identifies the current build, and `.verified.json` is a local verification marker.
+- `site-data/history.json` stabilizes ordering for identical timestamps. To replace a saved photograph, update the image in its package assets folder and commit it. If its filename changes, update `extra.image` too. The workflow normalizes it to WebP, then records and verifies the current bytes; no fixed historical checksum blocks an intentional replacement.
+- If an image upload is damaged or unsupported, replace or remove the offending inbox file and push. A later repair supersedes the invalid event; a current invalid upload blocks its batch without partially installing sibling posts.
+- If a newer commit arrives or public bytes differ, let the latest queued workflow continue or rerun against the latest `main`. Pull bot commits before the next phone upload.
+- If a cursor is missing or no longer belongs to the branch's first-parent history, review or restore Git history before repairing state. Resetting it can replay already processed uploads.

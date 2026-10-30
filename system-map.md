@@ -29,8 +29,8 @@ source_of_truth: "devlog"
 note: "未记录原始写作日期；created 为本路径首次 Git 记录日期，无法合理确定时留空。"
 
 created: "2026-06-18"
-updated: "2026-10-29"
-metadata_updated: "2026-10-13"
+updated: "2026-10-30"
+metadata_updated: "2026-10-30"
 ---
 # fivsevn 系统总览
 
@@ -44,7 +44,7 @@ fivsevn-devlog/             主要目录与文件
 ├── system-map.md          本总览
 ├── posts/                 个人文章、历史存档与短文发布入口
 ├── savour/                Savour 吃喝板块说明；内容与图片在 savour 仓库
-├── natsci/                自然科学长文与板块说明
+├── natsci/                自然科学长文、Fieldlog 影像记录与板块说明
 ├── netcom/                通信、计算机与工程长文
 ├── stills/                摄影板块说明；照片在 assets 仓库
 ├── motion/                视频板块说明；视频在 YouTube
@@ -66,7 +66,7 @@ fivsevn-devlog/             主要目录与文件
 |---|---|---|
 | **posts** | [flux 随手记录](https://flux.fivsevn.com/)；[devlog 长文存档](https://devlog.fivsevn.com/posts/)，含原创、旧文、译文及 AI 笔记，底部另列 AI 话语分析 | [posts README](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/posts/README.md) |
 | **savour** | [吃喝记录](https://savour.fivsevn.com/)，每张照片一帖，以手机聊天界面展示 | [savour README](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/savour/README.md) |
-| **natsci** | [WordPress 自然观察单图](https://fivsevn.com/natsci/)；[devlog 自然科学长文](https://devlog.fivsevn.com/natsci/) | [natsci README](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/natsci/README.md) |
+| **natsci** | [Fieldlog 自然观察影像](https://devlog.fivsevn.com/natsci/fieldlog/)；[devlog 自然科学长文](https://devlog.fivsevn.com/natsci/) | [natsci README](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/natsci/README.md) |
 | **netcom** | [通信、计算机与工程笔记](https://devlog.fivsevn.com/netcom/)，目前只有 devlog 长文 | [netcom README](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/netcom/README.md) |
 | **stills** | [摄影作品集](https://fivsevn.com/stills/)，WordPress 手动编排；[bygone 老照片](https://fivsevn.com/stills/bygone/)单图自动发布 | [stills README](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/stills/README.md) |
 | **motion** | [视频作品](https://fivsevn.com/motion/)，YouTube 托管，WordPress 嵌入 | [motion README](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/motion/README.md) |
@@ -83,14 +83,14 @@ fivsevn-devlog/             主要目录与文件
 | 位置 | 保存与维护的内容 |
 |---|---|
 | **[WordPress 后台](https://fivsevn.com/wp-admin/)** | 主站布局与仍由 WordPress 维护的作品页面 |
-| **[fivsevn-agy/fivsevn-devlog](https://github.com/fivsevn-agy/fivsevn-devlog)** | 长文 Markdown、板块说明、日志、近况、来源清单与相关脚本；直接改原文件 |
-| **[fivsevn/fivsevn-assets](https://github.com/fivsevn/fivsevn-assets)** | 主站及其他板块的图片、静态资源与 WordPress 图片／YouTube 发布脚本；Flux、Savour 媒体由各自仓库保存 |
+| **[fivsevn-agy/fivsevn-devlog](https://github.com/fivsevn-agy/fivsevn-devlog)** | 长文 Markdown、Fieldlog 图片与配文、板块说明、日志、近况、来源清单与相关脚本；直接改原文件 |
+| **[fivsevn/fivsevn-assets](https://github.com/fivsevn/fivsevn-assets)** | 主站及其他板块的图片、静态资源与 WordPress 图片／YouTube 发布脚本；Flux、Savour、Fieldlog 媒体由各内容仓库保存 |
 | **[fivsevn/fivsevn-flux](https://github.com/fivsevn/fivsevn-flux)** | 短帖内容存档、接收流程、页面构建与部署；英文后台维护说明 |
 | **[fivsevn/fivsevn-savour](https://github.com/fivsevn/fivsevn-savour)** | 吃喝记录、每帖 WebP 图片、手机界面、上传处理及 Pages 部署 |
 | **[fivsevn-agy/fivsevn-spec](https://github.com/fivsevn-agy/fivsevn-spec)** | metadata、翻译、来源、引用、日期和提交等公共规范；板块说明链接过去，不复制整套规范 |
 | **[YouTube @fivsevn](https://www.youtube.com/@fivsevn)** | 视频托管；WordPress 保存嵌入内容，视频原文件另行备份 |
 
-> 短帖操作看 [posts README](posts/README.md)，吃喝图片看 [Savour 图片入口](https://github.com/fivsevn/fivsevn-savour/tree/main/trigger_imgs)。长文改 devlog，短帖及其图片改 flux，吃喝内容及图片改 savour，主站视觉编排改 WordPress；其他共用图片改 assets。
+> 短帖操作看 [posts README](posts/README.md)，吃喝图片看 [Savour 图片入口](https://github.com/fivsevn/fivsevn-savour/tree/main/trigger_imgs)，自然观察图片看 [Fieldlog 图片入口](natsci/fieldlog/trigger_imgs/README.md)。长文和 Fieldlog 改 devlog，短帖及其图片改 flux，吃喝内容及图片改 savour，主站视觉编排改 WordPress；其他共用图片改 assets。
 
 ## 4. 发布关系速览
 
@@ -98,13 +98,12 @@ fivsevn-devlog/             主要目录与文件
 随手文字    flux/trigger_text.md → 提交并推送 → 保存文章包、构建并部署 Pages
 随手图片    flux/trigger_imgs/ → 提交并推送 → 转 WebP、每图建帖、部署与核验
 吃喝图片    savour/trigger_imgs/ → 提交并推送 → 转 WebP、每图建帖、部署与核验
-自然观察    assets/natsci/fieldlog/ → Actions 组装图片与正文 → WordPress 发帖
+自然观察    devlog/natsci/fieldlog/trigger_imgs/ → 提交并推送 → 转 WebP、每图建帖、部署与核验
 老照片      assets/stills/bygone/ → Actions 取文件名作标题 → WordPress 发帖
 摄影作品集  assets 保存照片 → WordPress 手动引用、编排并发布
 视频作品    YouTube RSS → Actions 读取最新一条 → WordPress 嵌入
 长文章      devlog Markdown → 目录任务重算列表；站点构建、部署 → GitHub Pages
 日志／近况  手动修改各自 index.md → 站点构建、部署 → GitHub Pages
-posts 历史  flux 已保存文章包；WordPress 同步停用，删除原站不影响副本
 资料入口    intake/sources.md → 定时抓取与组装 → intake 页面、llm-context.md
 ```
 
@@ -125,4 +124,4 @@ posts 历史  flux 已保存文章包；WordPress 同步停用，删除原站不
 
 ---
 
-核对日期：2026-10-29。按当前主站入口、仓库结构与各板块说明整理；独立创作和游戏项目仅保留边界，不在此展开。
+核对日期：2026-10-30。按当前主站入口、仓库结构与各板块说明整理；独立创作和游戏项目仅保留边界，不在此展开。

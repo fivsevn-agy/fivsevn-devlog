@@ -45,14 +45,9 @@ fivsevn-devlog/natsci/
 ├── taxonomy/       生物分类与物种笔记
 ├── paleontology/   古生物学
 └── ethnobiology/   民族生物学
-
-fivsevn-assets/natsci/
-├── README.md
-└── fieldlog/       旧 WordPress 单图发布入口（迁移验收前保留）
 ```
 
 - **[devlog fieldlog](https://devlog.fivsevn.com/natsci/fieldlog/)**：自然观察影像记录，保留观察窗口式视觉效果，每则图片和配文在同一文件夹维护。
-- **[WordPress natsci](https://fivsevn.com/natsci/)**：迁移前的影像页面，验收期间保留。
 - **[devlog natsci](https://devlog.fivsevn.com/natsci/)**：自然科学笔记、分类资料与译文；按主题目录保存，不按年份分组。内容类别后续可增减。
 
 ---
@@ -62,18 +57,18 @@ fivsevn-assets/natsci/
 ### 新建
 
 - 图片放入本仓库 [`natsci/fieldlog/trigger_imgs/`](https://github.com/fivsevn-agy/fivsevn-devlog/tree/main/natsci/fieldlog/trigger_imgs) → Working Copy 或 GitHub 提交并推送到 `main`。
-- **每张新图片一条记录**，自动保存为 `fieldlog/YYYY/MM/唯一id/index.md` 与同目录 `assets/` 图片。
+- **每张新图片一条记录**，自动保存为 `fieldlog/YYYY/MM/唯一id/index.md` 与同目录 `assets/` WebP 图片。
 - **配文**：写在提交的 extended description，只在详情页显示；列表点击绿色时间码进入详情页。
 
-> [fieldlog 发布任务](https://github.com/fivsevn-agy/fivsevn-devlog/actions/workflows/publish-fieldlog.yml)读取提交历史 → 保存图片和配文 → 生成列表与详情 HTML → 请求现有 GitHub Pages 部署。日期取提交时间并转换为北京时间；不调用 WordPress。完整字段、手动发布和注意事项见 [fieldlog 说明](fieldlog/README.md)。
+> [fieldlog 发布任务](https://github.com/fivsevn-agy/fivsevn-devlog/actions/workflows/publish-pages.yml)读取提交历史 → 保存图片和配文 → 生成统一 `_site/` 网站产物 → 部署 GitHub Pages。日期取提交时间并转换为北京时间；不调用 WordPress。完整字段、手动发布和注意事项见 [fieldlog 说明](fieldlog/README.md)。
 
 ### 修改与撤下
 
 - **改标题、日期、配文**：编辑原帖文件夹内的 `index.md`，保留 `id` 和目录名。
-- **替换图片**：修改原帖 `assets/` 图片，或更新 `image` 字段。
+- **替换图片**：修改原帖 `assets/` 图片，或更新 `extra.image` 字段；发布任务统一保存为 WebP。
 - **从页面撤下**：把 `status` 改为 `hidden` 后提交；下一次构建会移除详情 HTML。公开仓库仍保留历史与原图。
 
-> 重传入口图片会生成新帖，不会更新原帖。保留 `published: false`，它用于防止 Jekyll 重复渲染内容源；发布状态由 `status` 控制。旧 assets 图片、旧工作流与 WordPress 内容待验收后另行处理，本次未删除。
+> 重传入口图片会生成新帖，不会更新原帖。使用共享规范的 frontmatter；发布时间、图片等展示字段放在 `extra`，发布状态由 `status` 和 `visibility` 控制。
 
 ---
 
@@ -91,7 +86,7 @@ fivsevn-assets/natsci/
 - 按 [metadata 规范](https://github.com/fivsevn-agy/fivsevn-spec/blob/main/content/spec-content-frontmatter-001.md)填写字段，使用 `module: natsci`、`status: active`、`visibility: public` → 提交并推送。
 - **草稿转正式稿**：移出 `_drafts`，整理正式文件名、`id` 和 metadata；只改状态、不移动文件，不会进目录。
 
-> [目录任务](https://github.com/fivsevn-agy/fivsevn-devlog/actions/workflows/update-indexes.yml)扫描文章 → 读取 metadata → 重算 [`natsci/index.md`](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/natsci/index.md)的列表 → 有差异才提交。  
+> [目录任务](https://github.com/fivsevn-agy/fivsevn-devlog/actions/workflows/publish-pages.yml)扫描文章 → 读取 metadata → 重算 [`natsci/index.md`](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/natsci/index.md)的列表 → 有差异才提交。
 > 网站构建时，Jekyll 将 Markdown 转为 HTML → GitHub Pages 提供访问；不经过 WordPress，也不会自动生成一条影像记录。
 
 ### 新建译文
@@ -113,7 +108,7 @@ fivsevn-assets/natsci/
 
 ## 3. 检查与维护
 
-- **影像记录**：查看 [fieldlog 发布任务](https://github.com/fivsevn-agy/fivsevn-devlog/actions/workflows/publish-fieldlog.yml) → 检查 [fieldlog 页面](https://devlog.fivsevn.com/natsci/fieldlog/)。
+- **影像记录**：查看 [fieldlog 发布任务](https://github.com/fivsevn-agy/fivsevn-devlog/actions/workflows/publish-pages.yml) → 检查 [fieldlog 页面](https://devlog.fivsevn.com/natsci/fieldlog/)。
 - **长文**：查看 [devlog Actions](https://github.com/fivsevn-agy/fivsevn-devlog/actions) → 检查目录、Pages 部署和[实际页面](https://devlog.fivsevn.com/natsci/)。
 - 保存 → commit → 推送到 `main`；不手改 `index.md` 的 `AUTO-INDEX` 列表，不把私密资料放入公开仓库。
 

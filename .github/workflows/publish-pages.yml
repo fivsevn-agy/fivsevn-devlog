@@ -1,0 +1,120 @@
+name: Build and deploy devlog
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - '**/_drafts/**'
+  workflow_dispatch:
+  workflow_run:
+    workflows: ['Build Intake Page', 'Apply Draft Frontmatter']
+    branches: [main]
+    types: [completed]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: devlog-pages
+  queue: max
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Record the checked-out source revision
+        id: source
+        run: echo "commit=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+      - uses: actions/checkout@v4
+        with:
+          repository: fivsevn-agy/fivsevn-spec
+          ref: main
+          path: .metadata-spec
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+          cache: pip
+          cache-dependency-path: scripts/requirements-fieldlog.txt
+      - name: Install publishing dependencies
+        run: python -m pip install -r scripts/requirements-fieldlog.txt
+      - name: Normalize saved post metadata
+        run: python scripts/site_post_metadata.py normalize --site fieldlog --root natsci/fieldlog --schema-dir schemas
+      - name: Normalize saved photos to WebP
+        run: python scripts/normalize_fieldlog_images.py
+      - name: Test content and publishing behavior
+        run: |
+          python -m unittest discover -s scripts -p 'test_fieldlog*.py' -v
+          python -m unittest discover -s tests -p 'test_fieldlog.py' -v
+          python -m unittest discover -s tests -p 'test_metadata.py' -v
+      - name: Import committed image uploads
+        run: python scripts/import_fieldlog_triggers.py
+      - name: Validate the shared post profile
+        run: python .metadata-spec/tools/check_metadata.py --profile site-post-v1 --site fieldlog --content-root natsci/fieldlog --root . --schema .metadata-spec/content/content-metadata.schema.json
+      - name: Update note directories
+        run: python scripts/update_module_indexes.py
+      - id: pages
+        uses: actions/configure-pages@v5
+      - name: Build the existing note website
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+          build_revision: ${{ steps.source.outputs.commit }}
+      - name: Build Fieldlog into the website artifact
+        run: |
+          sudo chown -R "$(id -u):$(id -g)" _site
+          python scripts/build_fieldlog.py
+          python scripts/build_fieldlog.py --check
+          python scripts/check_devlog_site.py
+      - name: Save content, directories, and upload cursor together
+        run: |
+          git fetch origin main
+          if [ "$(git rev-parse HEAD)" != "$(git rev-parse FETCH_HEAD)" ]; then
+            echo '::error::Main changed during generation. No content was pushed; rerun against the latest main.'
+            exit 1
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- natsci/fieldlog posts/index.md natsci/index.md netcom/index.md
+          if ! git diff --cached --quiet; then
+            git commit -m 'publish: Normalize metadata, update directories, and import Fieldlog'
+            git push origin HEAD:main
+          fi
+      - name: Upload website artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+      - id: deployment
+        name: Deploy website
+        uses: actions/deploy-pages@v4
+      - name: Verify public Fieldlog pages and images
+        run: python scripts/verify_fieldlog_live.py
+      - name: Verify public note entrypoints
+        run: python scripts/check_devlog_site.py --url https://devlog.fivsevn.com
+      - name: Clear only verified image uploads
+        run: |
+          git fetch origin main
+          if [ "$(git rev-parse HEAD)" != "$(git rev-parse FETCH_HEAD)" ]; then
+            echo 'A newer commit arrived. Inbox retained; the next queued run will continue.'
+            exit 1
+          fi
+          python scripts/fieldlog_image_inbox.py
+          git add -- natsci/fieldlog/.publishing
+          git add -u -- natsci/fieldlog/trigger_imgs
+          if ! git diff --cached --quiet; then
+            git commit -m 'publish: Record verified Fieldlog deployment and clear image inbox'
+            git push origin HEAD:main
+          fi

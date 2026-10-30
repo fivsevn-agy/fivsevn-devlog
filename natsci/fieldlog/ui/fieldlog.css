@@ -50,6 +50,8 @@ img{max-width:100%;height:auto;vertical-align:bottom}
 .pagination a,.pagination a:visited,.pagination [aria-current]{color:var(--primary)}
 .pagination .pager-arrow{text-decoration:none}
 .root-link{margin-top:24px}
+.archive-relocation{display:none}
+.archive-relocation:target{display:block;margin:20px 0}
 body.detail-page{overflow:hidden;overscroll-behavior:none}
 .detail{position:fixed;top:30px;left:50%;transform:translateX(-50%);margin:0}
 .detail .specimen{display:flex;flex-direction:column;max-height:calc(100vh - 60px);max-height:calc(100dvh - 60px);margin-bottom:0}

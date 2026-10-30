@@ -36,3 +36,8 @@ env/
 .obsidian/app.json
 .obsidian/appearance.json
 .obsidian/core-plugins.json
+
+# Rebuildable website output and read-only shared validation checkout.
+_site/
+.metadata-spec/
+.shared-spec/

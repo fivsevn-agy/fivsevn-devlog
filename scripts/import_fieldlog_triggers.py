@@ -20,9 +20,8 @@ import tempfile
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
-import yaml
-
 from fieldlog_image_codec import convert_image, validate_image, register_heif_opener
+from site_post_metadata import dump_frontmatter, normalize_metadata, validate_metadata
 
 ROOT = Path(__file__).resolve().parents[1]
 CONTENT = "natsci/fieldlog"
@@ -203,10 +202,11 @@ def ingest(root: Path = ROOT, status: str = "published") -> int:
                 meta = {"id": ident, "observation_id": date.strftime("%y%m%d%H%M%S"),
                         "date": date.isoformat(timespec="seconds"), "title": label,
                         "archive_status": "Archived",
-                        "status": status, "published": False, "image": "assets/" + filename,
+                        "status": status, "image": "assets/" + filename,
                         "alt": "五月七日的自然观察影像"}
-                (pending / "index.md").write_text("---\n" + yaml.safe_dump(meta, allow_unicode=True, sort_keys=False)
-                                                   + "---\n\n" + caption + "\n", encoding="utf-8")
+                meta = normalize_metadata(meta, site="fieldlog")
+                validate_metadata(meta, site="fieldlog", schema_dir=ROOT / "schemas")
+                (pending / "index.md").write_text(dump_frontmatter(meta) + "\n" + caption + "\n", encoding="utf-8")
                 updated["events"][key] = {"id": ident, "commit": commit, "upload_path": upload["path"],
                                            "blob_sha": upload["blob_sha"], "sha256": hashlib.sha256(data).hexdigest(),
                                            "file_sha256": hashlib.sha256(converted).hexdigest(),
@@ -275,7 +275,7 @@ if __name__ == "__main__":
     arguments = parser.parse_args()
     if arguments.initialize_cursor:
         cursor = initialize(arguments.root, arguments.initialize_cursor)
-        print(f"Initialized fieldlog upload cursor at {cursor}; commit the state file with the migration.")
+        print(f"Initialized fieldlog upload cursor at {cursor}; commit the state file before importing uploads.")
     else:
         count = ingest(arguments.root, arguments.status)
         print(f"Imported {count} fieldlog images. Inbox originals retained.")

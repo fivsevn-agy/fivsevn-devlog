@@ -38,3 +38,5 @@ jobs:
       - run: python -m unittest discover -s tests -p 'test_metadata.py' -v
       - name: Read-only shared schema check
         run: python .metadata-spec/tools/check_metadata.py --repo devlog --root . --schema .metadata-spec/content/content-metadata.schema.json --references .metadata-spec
+      - name: Read-only shared post-package check
+        run: python .metadata-spec/tools/check_metadata.py --profile site-post-v1 --site fieldlog --content-root natsci/fieldlog --root . --schema .metadata-spec/content/content-metadata.schema.json

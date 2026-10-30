@@ -9,6 +9,7 @@ from io import BytesIO
 
 from PIL import Image
 import yaml
+from site_post_metadata import validate_metadata
 
 from import_fieldlog_triggers import CONTENT, INBOX, STATE_PATH, ingest, initialize, read_state
 
@@ -56,10 +57,12 @@ class FieldlogUploadTests(unittest.TestCase):
         self.assertEqual(ingest(self.root), 1)
         post = self.posts()[0]
         metadata, body = self.metadata(post)
-        self.assertEqual(metadata['date'], '2026-10-30T17:00:00+08:00')
-        self.assertEqual(metadata['observation_id'], '261030170000')
+        self.assertEqual(metadata['extra']['published_at'], '2026-10-30T17:00:00+08:00')
+        self.assertEqual(metadata['extra']['observation_id'], '261030170000')
         self.assertEqual(metadata['title'], '30 Oct, 2026 17:00')
-        self.assertFalse(metadata['published'])
+        validate_metadata(metadata,site='fieldlog')
+        self.assertNotIn('published',metadata)
+        self.assertEqual(metadata['visibility'],'public')
         self.assertEqual(body, '**山间发现**\n\n[记录](https://example.com/)')
         self.assertTrue(original.exists())
         self.assertEqual(ingest(self.root), 0)
@@ -109,7 +112,7 @@ class FieldlogUploadTests(unittest.TestCase):
         self.commit('Save a draft\n\nPrivate draft label')
         self.assertEqual(ingest(self.root, status='draft'), 1)
         self.assertEqual(self.metadata(self.posts()[0])[0]['status'], 'draft')
-        self.assertFalse(self.metadata(self.posts()[0])[0]['published'])
+        self.assertNotIn('published',self.metadata(self.posts()[0])[0])
         with self.assertRaisesRegex(ValueError, 'refusing to reset'):
             initialize(self.root)
         path = self.root / STATE_PATH

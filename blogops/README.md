@@ -58,7 +58,7 @@ fivsevn-devlog/blogops/  主要目录
 - **后续变化**：另加一条新日期记录，保留旧条目作为历史；过时说明可标注并链接到新版。
 
 > 提交后，站点构建用 [Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)将 Markdown 转成 HTML → GitHub Pages 展示日志。  
-> 日志和顺序由人维护；Git 提交记录不会自动变成日志。现有[目录任务](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/.github/workflows/update-indexes.yml)只处理 posts、natsci、netcom，不重排这里的列表。
+> 日志和顺序由人维护；Git 提交记录不会自动变成日志。现有[目录任务](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/.github/workflows/publish-pages.yml)只处理 posts、natsci、netcom，不重排这里的列表。
 
 ## 2. 新建或修改维护说明
 
