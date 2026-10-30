@@ -39,15 +39,8 @@ extra:
   annotation_date: 11 Jul, 2026 10:48
   image: assets/IMG_7918.webp
   alt: 11 Jul, 2026 10:48
-  source_wp_id: 4203
-  source_url: https://fivsevn.com/2026/07/11/asset-natsci-fieldlog-img-7918-jpeg/
-  source_image: https://cdn.jsdelivr.net/gh/fivsevn/fivsevn-assets@main/natsci/fieldlog/IMG_7918.jpeg
   profile: site-post-v1
   published_at: '2026-07-11T09:49:06+08:00'
   author: 五月七日
   display_status: Archived
-
-legacy:
-  metadata:
-    record_type: ''
 ---

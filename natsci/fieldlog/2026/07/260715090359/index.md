@@ -39,16 +39,8 @@ extra:
   annotation_date: 15 Jul, 2026 10:03
   image: assets/dslide 2026-07-15 085719DA30C3A9FF42.webp
   alt: 15 Jul, 2026 10:03
-  source_wp_id: 4257
-  source_url: https://fivsevn.com/2026/07/15/asset-natsci-fieldlog-dslide-2026-07-15-085719da30c3a9ff42-png/
-  source_image: https://cdn.jsdelivr.net/gh/fivsevn/fivsevn-assets@main/natsci/fieldlog/dslide 2026-07-15
-    085719DA30C3A9FF42.PNG
   profile: site-post-v1
   published_at: '2026-07-15T09:03:59+08:00'
   author: 五月七日
   display_status: Archived
-
-legacy:
-  metadata:
-    record_type: ''
 ---
