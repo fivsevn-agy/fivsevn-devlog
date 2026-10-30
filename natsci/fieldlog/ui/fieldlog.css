@@ -13,6 +13,9 @@ a:focus-visible{outline:1px dashed var(--green);outline-offset:4px}
 img{max-width:100%;height:auto;vertical-align:bottom}
 .hero{display:block}
 .hero img{display:block;width:100%;height:auto}
+.workspace-window{margin-bottom:40.72px}
+.workspace-window .archive-intro{display:block}
+.workspace-window .observation-intro{margin-bottom:0}
 .archive-intro>.dash,.archive-intro>.workspace,.archive-intro>p{margin-top:var(--gap)}
 .stack{display:flex;flex-direction:column;align-items:flex-start;gap:var(--gap)}
 .workspace-status{margin:35px 0}
