@@ -5,7 +5,8 @@
 *{box-sizing:border-box}
 html{font-size:16px}
 body{margin:0;background:var(--bg);color:var(--primary);font-family:"Courier Prime",monospace;font-size:10px;line-height:1.3}
-main{width:min(596.953125px,calc(100% - 46px));margin:60.72px auto 70px}
+main{width:min(596.953125px,calc(100vw - 46px));margin:60.72px auto 70px}
+.archive{position:relative;left:calc((100vw - 100%)/2)}
 p,figure{margin:0}
 a,a:visited{color:var(--green);text-decoration:underline;text-underline-offset:1px}
 a:hover{text-decoration:none}
@@ -45,12 +46,14 @@ img{max-width:100%;height:auto;vertical-align:bottom}
 .annotation pre,.annotation code{font-family:inherit}
 .annotation blockquote{margin-left:0;padding-left:1em;border-left:1px solid var(--tertiary);color:var(--muted)}
 .annotation h1,.annotation h2,.annotation h3{font-size:inherit;line-height:inherit}
-.pagination{display:flex;align-items:center;flex-wrap:wrap;gap:var(--gap);margin:20px 0}
-.pagination [aria-current]{color:var(--muted)}
+.pagination{display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:var(--gap);margin:20px 0}
+.pagination a,.pagination a:visited,.pagination [aria-current]{color:var(--primary)}
+.pagination .pager-arrow{text-decoration:none}
+.root-link{margin-top:24px}
 body.detail-page{overflow:hidden;overscroll-behavior:none}
 .detail{position:fixed;top:30px;left:50%;transform:translateX(-50%);margin:0}
 .detail .specimen{display:flex;flex-direction:column;max-height:calc(100vh - 60px);max-height:calc(100dvh - 60px);margin-bottom:0}
 .detail .window-bar{flex-shrink:0}
 .detail .window-body{min-height:0;overflow-y:auto;overflow-x:hidden;overscroll-behavior-y:contain;scrollbar-width:thin;scrollbar-color:var(--muted) transparent}
 .detail .window-body>*{flex-shrink:0}
-@media(max-width:480px){main{width:calc(100% - 32px);margin-top:30px}.row{gap:8px}.image-path{line-height:1.6}.metadata time{overflow-wrap:anywhere}.detail{top:24px;margin-top:0}.detail .specimen{max-height:calc(100vh - 48px);max-height:calc(100dvh - 48px)}}
+@media(max-width:480px){main{width:calc(100vw - 32px);margin-top:30px}.row{gap:8px}.image-path{line-height:1.6}.metadata time{overflow-wrap:anywhere}.detail{top:24px;margin-top:0}.detail .specimen{max-height:calc(100vh - 48px);max-height:calc(100dvh - 48px)}}

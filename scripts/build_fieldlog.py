@@ -126,11 +126,11 @@ def pagination(current: int, count: int) -> str:
         return BASE if page == 1 else f"{BASE}page/{page}/"
     links = []
     if current > 1:
-        links.append(f'<a href="{url(current-1)}" rel="prev">Previous Page</a>')
+        links.append(f'<a class="pager-arrow" href="{url(current-1)}" rel="prev" aria-label="Previous Page">«</a>')
     for page in range(1, count + 1):
         links.append(f'<span aria-current="page">{page}</span>' if page == current else f'<a href="{url(page)}">{page}</a>')
     if current < count:
-        links.append(f'<a href="{url(current+1)}" rel="next">Next Page</a>')
+        links.append(f'<a class="pager-arrow" href="{url(current+1)}" rel="next" aria-label="Next Page">»</a>')
     return '<nav class="pagination" aria-label="Pagination">' + " ".join(links) + "</nav>"
 
 
@@ -152,7 +152,8 @@ def build(root: Path, check=False) -> dict:
         url = BASE if number == 1 else f"{BASE}page/{number}/"
         path = folder / ("index.html" if number == 1 else f"page/{number}/index.html")
         cards = "\n".join(card(e, False) for e in entries[(number-1)*PAGE_SIZE:number*PAGE_SIZE])
-        content = header + '<section class="observations" aria-label="Observation Log">' + cards + '</section>' + pagination(number, pages)
+        root_link = '<p class="root-link">[<a href="https://fivsevn.com/">Root Directory</a>]</p>'
+        content = header + '<section class="observations" aria-label="Observation Log">' + cards + '</section>' + pagination(number, pages) + root_link
         outputs[path] = page("fivsevnnatsci — Fieldlog", url, content, "archive")
     for index, entry in enumerate(entries):
         archive_page = index // PAGE_SIZE + 1
