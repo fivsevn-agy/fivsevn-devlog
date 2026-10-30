@@ -2,6 +2,13 @@ name: Build Intake Page
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'intake/*.py'
+      - 'intake/sources.md'
+      - 'intake/requirements.txt'
+      - '.github/workflows/build-news.yml'
   schedule:
     - cron: "0 */5 * * *"
 
@@ -15,6 +22,7 @@ concurrency:
 jobs:
   build-intake:
     runs-on: ubuntu-latest
+    timeout-minutes: 45
 
     steps:
       - name: Checkout repository
@@ -29,6 +37,9 @@ jobs:
 
       - name: Install dependencies
         run: pip install -r intake/requirements.txt
+
+      - name: Check intake integrity before generating
+        run: python -m unittest discover -s tests -p 'test_intake.py' -v
 
       - name: Update daily image
         run: python intake/scripts/daily_postcard.py
@@ -48,6 +59,12 @@ jobs:
 
       - name: Commit generated files
         run: |
+          # Do not publish a page built from an obsolete source registry.
+          git fetch origin "$GITHUB_REF_NAME"
+          if [ "$(git rev-parse HEAD)" != "$(git rev-parse FETCH_HEAD)" ]; then
+            echo "::error::Branch changed during generation; rerun from the current branch head."
+            exit 1
+          fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
