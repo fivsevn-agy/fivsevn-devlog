@@ -25,6 +25,8 @@ updated: '2026-10-30'
 
 [展示页面](https://devlog.fivsevn.com/natsci/fieldlog/) · [发布任务](https://github.com/fivsevn-agy/fivsevn-devlog/actions/workflows/publish-fieldlog.yml)
 
+[图片入口说明](trigger_imgs/README.md) · [直接上传图片](https://github.com/fivsevn-agy/fivsevn-devlog/upload/main/natsci/fieldlog/trigger_imgs)
+
 延续 [flux](https://github.com/fivsevn/fivsevn-flux) 和 [savour](https://github.com/fivsevn/fivsevn-savour) 的做法：内容留在 Git，每则帖子一个文件夹，由 Python 生成静态页面，在现有 devlog GitHub Pages 发布。图片、字体和首页图片都保存在本目录；展示不依赖 WordPress 或原 assets 仓库。
 
 ## 发一张图片
@@ -79,7 +81,7 @@ alt: 自然观察影像
 
 ## 修改与构建
 
-改配文、日期、类型或图片引用，编辑原 `index.md`；替换图片可直接改原帖 `assets/` 中的文件。提交到 `main` 后自动重建，不改变原帖地址。布局由 `scripts/fieldlog_templates/` 与 `ui/fieldlog.css` 管理，勿直接修改生成的 HTML。`natsci` 普通笔记目录不收录这些单图帖子。
+改配文、日期、标题或图片引用，编辑原 `index.md`；替换图片可直接改原帖 `assets/` 中的文件。提交到 `main` 后自动重建，不改变原帖地址。布局由 `scripts/fieldlog_templates/` 与 `ui/fieldlog.css` 管理，勿直接修改生成的 HTML。`natsci` 普通笔记目录不收录这些单图帖子。
 
 本地检查：
 

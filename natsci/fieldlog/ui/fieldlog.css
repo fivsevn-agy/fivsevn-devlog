@@ -12,7 +12,7 @@ a,a:visited{color:var(--green);text-decoration:underline;text-underline-offset:1
 a:hover{text-decoration:none}
 a:focus-visible{outline:1px dashed var(--green);outline-offset:4px}
 img{max-width:100%;height:auto;vertical-align:bottom}
-.hero{display:block}
+.hero{display:block;width:90%;margin:18px auto 24px}
 .hero img{display:block;width:100%;height:auto}
 .workspace-window{margin-bottom:40.72px}
 .workspace-window .archive-intro{display:block}
