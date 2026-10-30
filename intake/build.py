@@ -843,6 +843,8 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
       flex-wrap: nowrap;
       overflow-x: auto;
       overflow-y: hidden;
+      /* Keep fractional-pixel pill borders clear of the overflow clip. */
+      padding-block: 2px;
       -webkit-overflow-scrolling: touch;
       scrollbar-width: none;
     }}
