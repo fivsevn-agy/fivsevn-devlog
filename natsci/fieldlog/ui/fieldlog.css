@@ -19,9 +19,11 @@ img{max-width:100%;height:auto;vertical-align:bottom}
 .workspace-status,.system-note,.observation-intro{gap:5px}
 .system-note{padding-top:7px;color:var(--muted)}
 .observation-intro{padding-top:10px;padding-bottom:7px;margin-bottom:27.72px;margin-top:var(--gap)}
-.specimen{margin:0 0 40.72px}
+.specimen{margin:0 0 40.72px;scroll-margin-top:30px}
 .window-bar{display:flex;align-items:center;justify-content:space-between;gap:var(--gap);border:1px solid var(--muted);border-right-width:2px;border-bottom-color:var(--tertiary);padding:1px 2px}
 .window-title{padding:0 3px;background:var(--tertiary);box-shadow:6px 6px #000}
+.window-controls{white-space:nowrap}
+.window-close,.window-close:visited,.window-close:hover,.image-path a,.image-path a:visited,.image-path a:hover{color:var(--green);text-decoration:none}
 .window-body{display:flex;flex-direction:column;align-items:flex-start;gap:var(--gap);margin-top:3px;padding:5px;border:solid var(--muted);border-width:3px 2px 2px 1px;border-top-color:var(--tertiary);border-radius:1px;box-shadow:6px 6px 0 -3px #fff,6px 6px #000}
 .row{display:flex;align-items:center;flex-wrap:wrap;gap:var(--gap)}
 .observation time,.metadata time{font-size:11px;color:var(--muted)}
@@ -30,8 +32,9 @@ img{max-width:100%;height:auto;vertical-align:bottom}
 .image-path span,.image-path a{font-size:11px}
 .window-body figure{width:100%}
 .window-body figure img{display:block;max-width:100%;height:auto}
-.metadata{display:flex;flex-direction:column;align-items:flex-start;gap:2px}
-.annotation-date{font-family:"IBM Plex Mono",monospace;font-size:11px;font-weight:600;line-height:1.125;color:var(--muted)}
+.metadata{display:flex;flex-direction:column;align-items:flex-start;gap:2px;max-width:100%}
+.metadata .row{max-width:100%}
+.annotation-date{font-family:"IBM Plex Mono",monospace;font-size:11px;font-weight:600;line-height:1.125;color:var(--muted);min-width:0;overflow-wrap:anywhere}
 .annotation{display:flex;align-items:flex-start;gap:var(--gap);width:100%;overflow-wrap:anywhere}
 .annotation-body{flex:1;min-width:0}
 .annotation-body>*+*{margin-top:var(--gap)}
@@ -49,7 +52,10 @@ footer{margin-top:60.72px;color:var(--muted)}
 .footer-meta p+p{margin-top:7px}
 .primary,.primary:visited{color:var(--primary)}
 .green{color:var(--green)}
-.detail{margin-top:30px}
-.detail .specimen{margin-bottom:30px}
-.post-nav{margin-top:20px}
-@media(max-width:480px){main{width:calc(100% - 32px);margin-top:30px}.row{gap:8px}.image-path{line-height:1.6}.metadata time{overflow-wrap:anywhere}.detail{margin-top:24px}}
+body.detail-page{overflow:hidden;overscroll-behavior:none}
+.detail{position:fixed;top:30px;left:50%;transform:translateX(-50%);margin:0}
+.detail .specimen{display:flex;flex-direction:column;max-height:calc(100vh - 60px);max-height:calc(100dvh - 60px);margin-bottom:0}
+.detail .window-bar{flex-shrink:0}
+.detail .window-body{min-height:0;overflow-y:auto;overflow-x:hidden;overscroll-behavior-y:contain;scrollbar-width:thin;scrollbar-color:var(--muted) transparent}
+.detail .window-body>*{flex-shrink:0}
+@media(max-width:480px){main{width:calc(100% - 32px);margin-top:30px}.row{gap:8px}.image-path{line-height:1.6}.metadata time{overflow-wrap:anywhere}.detail{top:24px;margin-top:0}.detail .specimen{max-height:calc(100vh - 48px);max-height:calc(100dvh - 48px)}}

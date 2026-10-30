@@ -24,6 +24,7 @@ class FieldlogBuildTests(unittest.TestCase):
         shutil.copytree(ROOT / "scripts/fieldlog_templates", self.root / "scripts/fieldlog_templates")
         (self.folder / "ui").mkdir(parents=True)
         (self.folder / "ui/fieldlog.css").write_text("body{background:#131415}\n")
+        shutil.copyfile(ROOT / "natsci/fieldlog/ui/navigation.js", self.folder / "ui/navigation.js")
 
     def post(self, ident, *, date="2026-07-15T09:08:24+08:00", body="", status="published", **values):
         timestamp = datetime.fromisoformat(date)
