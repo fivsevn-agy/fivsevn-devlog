@@ -63,8 +63,6 @@ id: '261030174000'
 observation_id: '261030174000'
 title: '30 Oct, 2026 17:40'
 date: '2026-10-30T17:40:00+08:00'
-annotation_date: '30 Oct, 2026 17:40'
-record_type: ''
 archive_status: Archived
 status: published
 published: false
@@ -75,7 +73,7 @@ alt: 自然观察影像
 这里写发布时附带的文字。支持段落、链接、列表等 Markdown。
 ```
 
-`id` 必须与文件夹名一致且唯一；`observation_id` 是页面显示的 12 位时间码，可重复。`date` 决定列表排序，必须带时区。`annotation_date` 是 Annotation Log 旁显示的文字。`record_type` 可填写记录类型。
+`id` 必须与文件夹名一致且唯一；`observation_id` 是页面显示的 12 位时间码，可重复。`date` 决定列表排序，必须带时区。`title` 是 Annotation Log 旁显示的标题；留空或不填时，使用 `date` 转换成北京时间的日期时间。迁移记录中的 `annotation_date` 仅保留原始信息，修改标题直接改 `title`。详情页右上角绿色 `X` 返回原分页与帖子位置；窗口内部仅在内容超出视口时滚动。
 
 `status: published` 生成展示页面；改成 `draft`、`hidden` 或 `archived` 后，下一次构建会移除该则已生成的 HTML。这里的 `archive_status: Archived` 只是原窗口中的显示标签。**`published: false` 必须保留**：它用于阻止 Jekyll 再把内容源生成一个页面，不影响本项目的发布状态。公开 Git 仓库中的草稿、历史和原图仍可被访问，这些状态不提供隐私保护。
 

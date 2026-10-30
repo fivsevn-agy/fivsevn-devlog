@@ -202,7 +202,7 @@ def ingest(root: Path = ROOT, status: str = "published") -> int:
                 label = f"{date.day} {MONTHS[date.month - 1]}, {date.year} {date:%H:%M}"
                 meta = {"id": ident, "observation_id": date.strftime("%y%m%d%H%M%S"),
                         "date": date.isoformat(timespec="seconds"), "title": label,
-                        "annotation_date": label, "record_type": "", "archive_status": "Archived",
+                        "archive_status": "Archived",
                         "status": status, "published": False, "image": "assets/" + filename,
                         "alt": "五月七日的自然观察影像"}
                 (pending / "index.md").write_text("---\n" + yaml.safe_dump(meta, allow_unicode=True, sort_keys=False)

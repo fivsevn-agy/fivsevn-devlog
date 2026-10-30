@@ -58,7 +58,7 @@ class FieldlogUploadTests(unittest.TestCase):
         metadata, body = self.metadata(post)
         self.assertEqual(metadata['date'], '2026-10-30T17:00:00+08:00')
         self.assertEqual(metadata['observation_id'], '261030170000')
-        self.assertEqual(metadata['annotation_date'], '30 Oct, 2026 17:00')
+        self.assertEqual(metadata['title'], '30 Oct, 2026 17:00')
         self.assertFalse(metadata['published'])
         self.assertEqual(body, '**山间发现**\n\n[记录](https://example.com/)')
         self.assertTrue(original.exists())
