@@ -41,6 +41,8 @@ updated: 2026-06-16
 ---
 ### Directory
 
+- 2026.10.30 🤌 现在自然观察图片都放在 [devlog.fivsevn.com/natsci/fieldlog/](https://devlog.fivsevn.com/natsci/fieldlog/)。[flux](https://flux.fivsevn.com), [savour](https://savour.fivsevn.com), [fieldlog](https://devlog.fivsevn.com/natsci/fieldlog/) 三个页面整理成类似的构建方式。
+
 - 2026.10.30 🤌 随手发送的短内容在 [flux.fivsevn.com](https://flux.fivsevn.com) 更新，吃吃速报在 [savour.fivsevn.com](https://savour.fivsevn.com) 更新，这两个页面不再用 wordpress 编辑了。
 
 - 2026.10.13 🤌 让 ChatGPT 整体检查并梳理了仓库。没有太大的改动，主要是查漏补缺。各个板块补齐了说明。
