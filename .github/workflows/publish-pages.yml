@@ -7,7 +7,7 @@ on:
       - '**/_drafts/**'
   workflow_dispatch:
   workflow_run:
-    workflows: ['Build Intake Page', 'Apply Draft Frontmatter']
+    workflows: ['Build Intake Page']
     branches: [main]
     types: [completed]
 
@@ -57,7 +57,7 @@ jobs:
       - name: Test content and publishing behavior
         run: |
           python -m unittest discover -s scripts -p 'test_fieldlog*.py' -v
-          python -m unittest discover -s tests -p 'test_fieldlog.py' -v
+          python -m unittest discover -s tests -p 'test_fieldlog*.py' -v
           python -m unittest discover -s tests -p 'test_metadata.py' -v
       - name: Import committed image uploads
         run: python scripts/import_fieldlog_triggers.py

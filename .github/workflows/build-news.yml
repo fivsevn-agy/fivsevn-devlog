@@ -5,7 +5,7 @@ on:
   push:
     branches: [main]
     paths:
-      - 'intake/*.py'
+      - 'intake/**/*.py'
       - 'intake/sources.md'
       - 'intake/requirements.txt'
       - '.github/workflows/build-news.yml'
