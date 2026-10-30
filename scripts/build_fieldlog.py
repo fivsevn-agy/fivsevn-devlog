@@ -139,7 +139,6 @@ def build(root: Path, check=False) -> dict:
     templates = root / "scripts/fieldlog_templates"
     page_template = Template((templates / "page.html").read_text(encoding="utf-8"))
     header = (templates / "header.html").read_text(encoding="utf-8")
-    footer = (templates / "footer.html").read_text(encoding="utf-8")
     css = (folder / "ui/fieldlog.css").read_bytes()
     navigation = (folder / "ui/navigation.js").read_bytes()
     version = sha256(css + navigation).hexdigest()[:12]
@@ -153,7 +152,7 @@ def build(root: Path, check=False) -> dict:
         url = BASE if number == 1 else f"{BASE}page/{number}/"
         path = folder / ("index.html" if number == 1 else f"page/{number}/index.html")
         cards = "\n".join(card(e, False) for e in entries[(number-1)*PAGE_SIZE:number*PAGE_SIZE])
-        content = header + '<section class="observations" aria-label="Observation Log">' + cards + '</section>' + pagination(number, pages) + footer
+        content = header + '<section class="observations" aria-label="Observation Log">' + cards + '</section>' + pagination(number, pages)
         outputs[path] = page("fivsevnnatsci — Fieldlog", url, content, "archive")
     for index, entry in enumerate(entries):
         archive_page = index // PAGE_SIZE + 1
