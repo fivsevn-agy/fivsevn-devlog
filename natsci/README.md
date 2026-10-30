@@ -30,8 +30,8 @@ note: "未记录原始写作日期；created 为本路径首次 Git 记录日期
 filename_policy: "entrypoint"
 
 created: "2026-10-13"
-updated: "2026-10-13"
-metadata_updated: "2026-10-13"
+updated: "2026-10-30"
+metadata_updated: "2026-10-30"
 ---
 # natsci 板块说明
 
@@ -41,38 +41,39 @@ fivsevn-devlog/natsci/
 ├── index.md        文章目录（列表自动生成）
 ├── _drafts/        长文草稿
 ├── assets/         现有配图与辅助文件
+├── fieldlog/       自然观察影像、配文与独立展示页面
 ├── taxonomy/       生物分类与物种笔记
 ├── paleontology/   古生物学
 └── ethnobiology/   民族生物学
 
 fivsevn-assets/natsci/
 ├── README.md
-└── fieldlog/       WordPress 单图发布入口
+└── fieldlog/       旧 WordPress 单图发布入口（迁移验收前保留）
 ```
 
-- **[WordPress natsci](https://fivsevn.com/natsci/)**：自然观察的图像记录，观察窗口式视觉效果在 WordPress 维护。
+- **[devlog fieldlog](https://devlog.fivsevn.com/natsci/fieldlog/)**：自然观察影像记录，保留观察窗口式视觉效果，每则图片和配文在同一文件夹维护。
+- **[WordPress natsci](https://fivsevn.com/natsci/)**：迁移前的影像页面，验收期间保留。
 - **[devlog natsci](https://devlog.fivsevn.com/natsci/)**：自然科学笔记、分类资料与译文；按主题目录保存，不按年份分组。内容类别后续可增减。
 
 ---
 
-## 1. 影像记录｜WordPress
+## 1. 影像记录｜fieldlog
 
 ### 新建
 
-- 手机分享图片 → 运行[图片快捷指令](https://github.com/fivsevn/fivsevn-assets/blob/main/docs/feat%20Add%20image%20asset.shortcut) → 选择 [`natsci/fieldlog`](https://github.com/fivsevn/fivsevn-assets/tree/main/natsci/fieldlog) → Working Copy 提交并推送到 `main`。
-- **每张新图片一条记录**；实际 WordPress 分类是 `fieldlog`，不是 `natsci`；不自动附加标签。
-- **配文**：写在提交的 extended description，会公开显示；不要混入技术操作说明。
+- 图片放入本仓库 [`natsci/fieldlog/trigger_imgs/`](https://github.com/fivsevn-agy/fivsevn-devlog/tree/main/natsci/fieldlog/trigger_imgs) → Working Copy 或 GitHub 提交并推送到 `main`。
+- **每张新图片一条记录**，自动保存为 `fieldlog/YYYY/MM/唯一id/index.md` 与同目录 `assets/` 图片。
+- **配文**：写在提交的 extended description，只在详情页显示；列表点击绿色时间码进入详情页。
 
-> [图片发布任务](https://github.com/fivsevn/fivsevn-assets/actions/workflows/publish-image-posts.yml)检查本次推送 → [脚本](https://github.com/fivsevn/fivsevn-assets/blob/main/scripts/publish_image_posts.py)生成 CDN 图片区块和配文段落 → 用 Actions Secrets 中的账号与应用密码调用 WordPress REST API → 新建 `fieldlog` 帖子。  
-> 标题取图片提交时间；图片留在 assets 仓库，不上传 WordPress 媒体库。WordPress 页面负责视觉展示。
+> [fieldlog 发布任务](https://github.com/fivsevn-agy/fivsevn-devlog/actions/workflows/publish-fieldlog.yml)读取提交历史 → 保存图片和配文 → 生成列表与详情 HTML → 请求现有 GitHub Pages 部署。日期取提交时间并转换为北京时间；不调用 WordPress。完整字段、手动发布和注意事项见 [fieldlog 说明](fieldlog/README.md)。
 
 ### 修改与撤下
 
-- **小改、大改、改标题或配文**：在 [WordPress 后台](https://fivsevn.com/wp-admin/)更新原帖，不靠修改提交说明更新旧帖。
-- **替换图片**：保存好图片后，更新原帖图片链接；重命名或移动源图时检查旧链接。
-- **撤下**：在 WordPress 处理原帖；删除仓库图片不会删除帖子。
+- **改标题、日期、配文**：编辑原帖文件夹内的 `index.md`，保留 `id` 和目录名。
+- **替换图片**：修改原帖 `assets/` 图片，或更新 `image` 字段。
+- **从页面撤下**：把 `status` 改为 `hidden` 后提交；下一次构建会移除详情 HTML。公开仓库仍保留历史与原图。
 
-> 脚本按图片路径生成 slug → 已有帖子就跳过。上传新路径可能另发一条，不会自动更新原帖。
+> 重传入口图片会生成新帖，不会更新原帖。保留 `published: false`，它用于防止 Jekyll 重复渲染内容源；发布状态由 `status` 控制。旧 assets 图片、旧工作流与 WordPress 内容待验收后另行处理，本次未删除。
 
 ---
 
@@ -112,10 +113,10 @@ fivsevn-assets/natsci/
 
 ## 3. 检查与维护
 
-- **影像记录**：查看[图片发布任务](https://github.com/fivsevn/fivsevn-assets/actions/workflows/publish-image-posts.yml) → 检查 [WordPress 页面](https://fivsevn.com/natsci/)。
+- **影像记录**：查看 [fieldlog 发布任务](https://github.com/fivsevn-agy/fivsevn-devlog/actions/workflows/publish-fieldlog.yml) → 检查 [fieldlog 页面](https://devlog.fivsevn.com/natsci/fieldlog/)。
 - **长文**：查看 [devlog Actions](https://github.com/fivsevn-agy/fivsevn-devlog/actions) → 检查目录、Pages 部署和[实际页面](https://devlog.fivsevn.com/natsci/)。
 - 保存 → commit → 推送到 `main`；不手改 `index.md` 的 `AUTO-INDEX` 列表，不把私密资料放入公开仓库。
 
 ---
 
-核对日期：2026-10-13。按当前目录、脚本与工作流记录，后续可调整。
+核对日期：2026-10-30。按当前目录、脚本与工作流记录，后续可调整。

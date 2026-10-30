@@ -1,0 +1,5 @@
+Markdown==3.11.2
+PyYAML==6.0.3
+Pillow==13.0.0
+beautifulsoup4==4.15.0
+pillow-heif==1.8.1
