@@ -41,6 +41,8 @@ updated: 2026-06-16
 ---
 ### Directory
 
+- 2026.11.01 🤌 wordpress 的页面已经基本迁移到 GitHub 仓库里，只保留 [fivsevn.com](http://fivsevn.com) 作为初始页面。
+
 - 2026.10.30 🤌 现在自然观察图片都放在 [devlog.fivsevn.com/natsci/fieldlog/](https://devlog.fivsevn.com/natsci/fieldlog/)。[flux](https://flux.fivsevn.com), [savour](https://savour.fivsevn.com), [fieldlog](https://devlog.fivsevn.com/natsci/fieldlog/) 三个页面整理成类似的构建方式。
 
 - 2026.10.30 🤌 随手发送的短内容在 [flux.fivsevn.com](https://flux.fivsevn.com) 更新，吃吃速报在 [savour.fivsevn.com](https://savour.fivsevn.com) 更新，这两个页面不再用 wordpress 编辑了。
