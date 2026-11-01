@@ -45,7 +45,7 @@ metadata_updated: "2026-10-13"
 > Boot 是地产开发总纲，是整块地产的存在理由。
 
 - 对应内容：
-  - https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/system/ai-boot-protocol.md
+  - https://github.com/fivsevn-agy/fivsevn-spec/blob/main/system/spec-system-map-001.md
 
 - 我把我的内容定位为：
   - 长期结构化知识系统；
@@ -76,7 +76,7 @@ metadata_updated: "2026-10-13"
 > Module Map 是平面规划图。
 
 - 对应文件：
-  - https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/system/module-map.md
+  - https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/system-map.md
 
 - 作用：
   - 定义地产分区

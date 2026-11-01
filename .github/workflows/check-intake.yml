@@ -12,6 +12,7 @@ on:
     paths:
       - 'intake/**/*.py'
       - 'intake/sources.md'
+      - 'intake/config.yml'
       - 'intake/requirements.txt'
       - 'tests/test_intake.py'
       - '.github/workflows/*intake*'
@@ -38,3 +39,4 @@ jobs:
         with:
           name: intake-source-audit
           path: intake-audit.json
+          retention-days: 1

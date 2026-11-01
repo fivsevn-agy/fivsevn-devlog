@@ -41,3 +41,6 @@ env/
 _site/
 .metadata-spec/
 .shared-spec/
+
+# Intake build fragments.
+/intake/data/

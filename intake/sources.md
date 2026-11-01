@@ -2,7 +2,7 @@
 
 > Canonical hand-maintained source registry for the intake page.
 >
-> Edit this file, then run `python intake/build.py` to regenerate `feeds.yml` and the final page.
+> Edit this file, then run `python intake/build.py` to regenerate the page and `llm-context.md`.
 
 ## 目录 / First & Second Level Catalog
 
