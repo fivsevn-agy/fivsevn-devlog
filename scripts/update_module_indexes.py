@@ -3,6 +3,7 @@ from __future__ import annotations
 from dataclasses import dataclass
 from pathlib import Path
 from datetime import date
+import argparse
 
 import yaml
 import re
@@ -17,6 +18,15 @@ MODULES = {
         "heading": "## Recent Posts",
         "marker": "POSTS_RECENT",
         "exclude_dirs": {"assets", "_drafts", "_wordpress", "_flux", "ai-discourse-analysis"},
+    },
+    "ai-discourse-analysis": {
+        "root": "posts/ai-discourse-analysis",
+        "index": "posts/ai-discourse-analysis/index.md",
+        "heading": "## Case List",
+        "marker": "AI_DISCOURSE_CASES",
+        "module": "posts",
+        "exclude_dirs": {"assets", "_drafts"},
+        "bundles_only": True,
     },
     "natsci": {
         "root": "natsci",
@@ -143,15 +153,22 @@ def status_mode(status: str | None) -> str:
     return "hide"
 
 
-def should_skip_path(path: Path, root_dir: Path, extra_exclude_dirs: set[str]) -> bool:
+def should_skip_path(path: Path, root_dir: Path, extra_exclude_dirs: set[str], *, allow_bundles: bool = False) -> bool:
     if path.suffix.lower() != ".md":
         return True
-    if path.name in EXCLUDE_NAMES:
+    rel_parts = path.relative_to(root_dir).parts
+    is_bundle = (
+        allow_bundles
+        and path.name == "index.md"
+        and len(rel_parts) == 4
+        and re.fullmatch(r"\d{4}", rel_parts[0]) is not None
+        and re.fullmatch(r"\d{2}", rel_parts[1]) is not None
+    )
+    if path.name in EXCLUDE_NAMES and not is_bundle:
         return True
     if path.name.startswith("."):
         return True
 
-    rel_parts = path.relative_to(root_dir).parts
     excluded = COMMON_EXCLUDE_DIRS | extra_exclude_dirs
     return any(part in excluded or part.startswith(".") for part in rel_parts)
 
@@ -173,10 +190,12 @@ def sort_notes(notes: list[Note], module_name: str) -> list[Note]:
     group_keys: dict[str, tuple[str, str, str]] = {}
     for note in ordered:
         source = Path(note.source_path)
-        match = GAME_HANDBOOK_RE.fullmatch(source.name)
+        filename = source.parent.name + ".md" if source.name == "index.md" else source.name
+        match = GAME_HANDBOOK_RE.fullmatch(filename)
         if match is None:
             continue
-        key = (note.date, source.parent.as_posix(), match.group("series"))
+        directory = source.parent.parent if source.name == "index.md" else source.parent
+        key = (note.date, directory.as_posix(), match.group("series"))
         groups.setdefault(key, []).append((int(match.group("number")), note))
         group_keys[note.source_path] = key
 
@@ -203,7 +222,9 @@ def collect_notes(module_name: str, config: dict) -> tuple[list[Note], list[str]
         return notes, warnings
 
     for path in sorted(root_dir.rglob("*.md")):
-        if should_skip_path(path, root_dir, config["exclude_dirs"]):
+        if should_skip_path(path, root_dir, config["exclude_dirs"], allow_bundles=config.get("module", module_name) == "posts"):
+            continue
+        if config.get("bundles_only") and path.name != "index.md":
             continue
 
         rel_to_root = path.relative_to(root_dir).as_posix()
@@ -215,7 +236,7 @@ def collect_notes(module_name: str, config: dict) -> tuple[list[Note], list[str]
             continue
 
         fm_module = (fm.get("module") or "").strip()
-        if fm_module and fm_module != module_name:
+        if fm_module and fm_module != config.get("module", module_name):
             warnings.append(
                 f"[{module_name}] skipped, module mismatch: {rel_to_root} "
                 f"(module: {fm_module})"
@@ -241,9 +262,9 @@ def collect_notes(module_name: str, config: dict) -> tuple[list[Note], list[str]
         note_type = (fm.get("type") or "").strip().lower()
 
         if mode == "link":
-            if note_type in TRANSLATION_TYPES:
-                # Translation entries link to the local translated article.
-                # original_url remains metadata for the source.
+            if config.get("module", module_name) == "posts" or note_type in TRANSLATION_TYPES:
+                # Published posts and translations live here; original_url is
+                # provenance and must not send readers back to WordPress.
                 link = rel_to_root
             else:
                 # Non-translation entries may use original_url for self-authored
@@ -263,6 +284,8 @@ def collect_notes(module_name: str, config: dict) -> tuple[list[Note], list[str]
             )
         )
 
+    if module_name == "ai-discourse-analysis":
+        return sorted(notes, key=lambda note: note.source_path), warnings
     return sort_notes(notes, module_name), warnings
 
 
@@ -368,10 +391,14 @@ def update_index(config: dict, rendered: str) -> bool:
 
 
 def main() -> int:
+    parser = argparse.ArgumentParser(description="Update module directories from published content metadata.")
+    parser.add_argument("--module", action="append", choices=tuple(MODULES), help="Update only the selected module; may be repeated.")
+    args = parser.parse_args()
     changed_any = False
     all_warnings: list[str] = []
 
-    for module_name, config in MODULES.items():
+    for module_name in args.module or MODULES:
+        config = MODULES[module_name]
         notes, warnings = collect_notes(module_name, config)
         all_warnings.extend(warnings)
 

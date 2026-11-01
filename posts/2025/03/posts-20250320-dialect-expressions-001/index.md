@@ -1,0 +1,103 @@
+---
+id: posts-20250320-dialect-expressions-001
+title: 听壁脚、包打听、讲斤头、牵丝扳藤
+module: posts
+submodule: '2025'
+topic: legacy-wordpress
+type: note
+status: active
+canonical: true
+summary: 整理听壁脚、包打听、讲斤头、牵丝扳藤等表达及相关阅读材料。
+parents: []
+related: []
+tags:
+- posts
+- elleryqueen
+audience:
+- public
+languages:
+- zh
+maturity: stable
+confidence: 0.9
+visibility: public
+source_of_truth: devlog
+original_title: 听壁脚、包打听、讲斤头、牵丝扳藤
+original_source: WordPress
+original_publisher: 五月七日
+original_url: https://fivsevn.com/2025/03/20/%e5%90%ac%e5%a3%81%e8%84%9a%e3%80%81%e5%8c%85%e6%89%93%e5%90%ac%e3%80%81%e8%ae%b2%e6%96%a4%e5%a4%b4%e3%80%81%e7%89%b5%e4%b8%9d%e6%89%b3%e8%97%a4/
+subtitle: Wu Chinese
+references:
+- section: 相关作者
+  text: Ellery Queen（“埃勒里·奎因”）1928，是由 Dannay（丹内）和 Lee（李）联合创作的笔名。 Frederic Dannay（弗雷德里克·丹内）October 20, 1905 – September 3, 1982 Manfred Bennington Lee（曼弗雷德·本宁顿·李）January 11, 1905 – April 3, 1971
+- section: 参考版本
+  text: '埃勒里·奎因.[希腊棺材之谜](https://book.douban.com/subject/3112726/)[M]. 王敬之, 译. 北京: 新星出版社, 2008.(原作出版于 1932 年) 埃勒里·奎因.[希腊棺材](https://book.douban.com/subject/36536326//)[M]. 程小青, 庞啸龙, 译. 上海: 上海中央书店, 1946. Ellery Queen. (1932).[The Greek Coffin Mystery](https://www.goodreads.com/book/show/1808330.The_Greek_Coffin_Mystery). Frederick A. Stokes.'
+note: 从 WordPress 原始页面还原正文和布局；图片、动图与视频随本发布包保存。
+aliases:
+- posts-2025-03-20-听壁脚-包打听-讲斤头-牵丝扳藤
+legacy:
+  metadata:
+    id: posts-2025-03-20-听壁脚-包打听-讲斤头-牵丝扳藤
+    submodule: 2025
+    summary: 'Wu Chinese
+
+      '
+  path: posts/2025/2025-03-20-听壁脚、包打听、讲斤头、牵丝扳藤.md
+permalink: /posts/2025/2025-03-20-听壁脚、包打听、讲斤头、牵丝扳藤.html
+created: '2025-03-20'
+updated: '2025-03-20'
+metadata_updated: '2026-11-01'
+layout: wordpress-post
+filename_policy: entrypoint
+extra:
+  wp_post_id: 635
+  author: 五月七日
+  published_at: '2025-03-20T02:25:48+08:00'
+  categories:
+  - 旅行香料盒_zibaldone
+  tags:
+  - elleryqueen
+  content_classes: entry-content wp-block-post-content has-courier-prime-font-family has-global-padding is-layout-constrained wp-block-post-content-is-layout-constrained
+  content_style: font-size:12px;line-height:1.7
+canonical_url: https://devlog.fivsevn.com/posts/2025/2025-03-20-听壁脚、包打听、讲斤头、牵丝扳藤.html
+---
+
+{% raw %}
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+<div aria-hidden="true" class="wp-block-spacer" style="height:5px"></div>
+<p class="wp-block-paragraph" style="font-size:13px;font-style:normal;font-weight:200">Wu Chinese</p>
+</div>
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+<div aria-hidden="true" class="wp-block-spacer" style="height:30px"></div>
+<blockquote class="wp-block-quote is-style-default is-layout-flow wp-block-quote-is-layout-flow" style="font-size:13px;font-style:normal;font-weight:300;line-height:1.6">
+<p class="wp-block-paragraph">她脸红得发紫：“也许我——嗨，在许多方面都卑微低下，奎因先生，并且既然事关自己丈夫，我的行动更不足以取信于人了……但我敢起誓，我没有<strong>听壁脚</strong>。”</p>
+<p class="wp-block-paragraph">“你倒想想看，有谁可能会<strong>听壁脚</strong>的吗？”</p>
+</blockquote>
+<div aria-hidden="true" class="wp-block-spacer" style="height:10px"></div>
+<blockquote class="wp-block-quote is-style-default is-layout-flow wp-block-quote-is-layout-flow" style="font-size:13px;font-style:normal;font-weight:300;line-height:1.6">
+<p class="wp-block-paragraph">“不行，”她嗓音颤抖，“不行，杰累。咱俩对这事处理得不是办法。你不了解这些<strong>包打听</strong>——这警察当局。他们一直会尾随我们，直到他们弄清楚……把真实情况告诉奎因先生吧，杰累。”</p>
+</blockquote>
+<div aria-hidden="true" class="wp-block-spacer" style="height:10px"></div>
+<blockquote class="wp-block-quote is-style-default is-layout-flow wp-block-quote-is-layout-flow" style="font-size:13px;font-style:normal;font-weight:300;line-height:1.6">
+<p class="wp-block-paragraph">辛普森正在掉动（注：可能是该译本时期的用字）三寸不烂之舌——辛普森在处境顺利的时候，是个<strong>讲斤头</strong>的斩轮老手！——他对詹姆士•诺克斯说道：“当然喽，诺克斯先生，你谅必懂得形势已经改观了。过了今夜，你将欠我们一大笔人情。我们克尽己职来保护你，保护一位公民，而你却用拒绝交还那幅赃画来报答我们.……”</p>
+</blockquote>
+<div aria-hidden="true" class="wp-block-spacer" style="height:10px"></div>
+<blockquote class="wp-block-quote is-style-default is-layout-flow wp-block-quote-is-layout-flow" style="font-size:13px;font-style:normal;font-weight:300;line-height:1.6">
+<p class="wp-block-paragraph">“这理由很清楚，“埃勒里冷笑着说，“他不愿意任何——或者说当时不愿意任何——跟警察方面有<strong>牵丝扳藤</strong>关系的人，跨进他的房子。他怕人发现那副利奥纳多作品，或者利奥纳多复制品。”</p>
+<p class="wp-block-paragraph">以上皆出自《希腊棺材之谜》</p>
+</blockquote>
+<div aria-hidden="true" class="wp-block-spacer" style="height:30px"></div>
+</div>
+
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-fe9cc265 wp-block-group-is-layout-flex" style="font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.147), 15px);font-style:normal;font-weight:400;line-height:1.7">
+<div aria-hidden="true" class="wp-block-spacer wp-container-content-d613cd94" style="height:0px"></div>
+<p class="wp-block-paragraph">令人印象深刻的吴语特色翻译。（由于一些难以名状的理由，导致）我读的时候不太清楚自己读的是哪一个版本。封面看起来是某个特定版本；而内容方面，前半部分译名和后半部分译名并不统一，一些汉字比较像是某段时期常常被采用的假借字。因此我可能读的是程小青、庞啸龙的译本。请参考<a href="https://www.tuilixy.net/thread-157862-1-1.html">这位见多识广的网友</a>的说明，网友分享的链接已失效（Mar 20,2025），我自己需要改日检索一下上海《万象》杂志1941年-1943年的内容，确认一下是否属实。</p>
+<div aria-hidden="true" class="wp-block-spacer wp-container-content-d613cd94" style="height:0px"></div>
+</div>
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+<div aria-hidden="true" class="wp-block-spacer" style="height:50px"></div>
+<hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
+<figure class="wp-block-table" style="font-size:13px;font-style:normal;font-weight:200"><table class="has-border-color has-contrast-border-color has-fixed-layout" style="border-width:1px"><thead><tr><th class="has-text-align-left" data-align="left">【Reference Deck】</th></tr></thead><tbody><tr><td class="has-text-align-left" data-align="left"><strong>相关作者</strong></td></tr><tr><td class="has-text-align-left" data-align="left">Ellery Queen（“埃勒里·奎因”）1928，是由 Dannay（丹内） 和 Lee（李） 联合创作的笔名。<br/>Frederic Dannay（弗雷德里克·丹内）October 20, 1905 – September 3, 1982<br/>Manfred Bennington Lee（曼弗雷德·本宁顿·李）January 11, 1905 – April 3, 1971</td></tr><tr><td class="has-text-align-left" data-align="left"><strong>参考版本</strong></td></tr><tr><td class="has-text-align-left" data-align="left">埃勒里·奎因. <a href="https://book.douban.com/subject/3112726/">希腊棺材之谜</a>[M]. 王敬之, 译. 北京: 新星出版社, 2008.(原作出版于 1932 年)<br/>埃勒里·奎因. <a href="https://book.douban.com/subject/36536326//">希腊棺材</a>[M]. 程小青, 庞啸龙, 译. 上海: 上海中央书店, 1946.<br/>Ellery Queen. (1932). <a href="https://www.goodreads.com/book/show/1808330.The_Greek_Coffin_Mystery">The Greek Coffin Mystery</a>. Frederick A. Stokes.</td></tr></tbody></table></figure>
+<hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
+<div aria-hidden="true" class="wp-block-spacer" style="height:70px"></div>
+</div>
+{% endraw %}

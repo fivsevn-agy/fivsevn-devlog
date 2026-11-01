@@ -61,13 +61,10 @@ updated: 2026-03-03
 
 ## Case List
 
-- [001｜词源谬误与“热爱不需要擅长”的论证失真](content/001-amateur-etymology-fallacy.md)
+<!-- AUTO-INDEX:AI_DISCOURSE_CASES:START -->
+- 2026.03.03 [001｜词源谬误与“热爱不需要擅长”的论证失真](2026/03/001-amateur-etymology-fallacy/index.md)
 
-- [002｜AI 生成文本与沟通责任问题](content/002-chatbot-etiquette.md)
+- 2026.03.04 [002｜AI 生成文本与沟通责任问题](2026/03/002-chatbot-etiquette/index.md)
 
-- [003｜端到端加密、平台治理与通信系统的结构性权衡](content/003-encryption-privacy-governance-tradeoff.md)
-
-
-
-
-
+- 2026.03.04 [003｜端到端加密、平台治理与通信系统的结构性权衡](2026/03/003-encryption-privacy-governance-tradeoff/index.md)
+<!-- AUTO-INDEX:AI_DISCOURSE_CASES:END -->
