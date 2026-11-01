@@ -44,6 +44,7 @@ Content and build source for [devlog.fivsevn.com](https://devlog.fivsevn.com/). 
 
 | Path | Responsibility |
 |---|---|
+| `index.md` | Homepage artwork and links |
 | `posts/`, `natsci/`, `netcom/` | Markdown notes, translations and generated module directories |
 | `natsci/fieldlog/` | Dated Fieldlog packages, image upload entry, publishing state and [guide](natsci/fieldlog/README.md) |
 | `intake/` | News intake sources, generated intake page and its validation |
@@ -75,16 +76,3 @@ python scripts/build_fieldlog.py --check
 The full Jekyll artifact is built and checked by Actions. `scripts/check_devlog_site.py` checks the combined website; `scripts/verify_fieldlog_live.py` compares Fieldlog's deployment receipt with the public pages and media.
 
 The [spec repository](https://github.com/fivsevn-agy/fivsevn-spec) defines common frontmatter, the site-post profile and publication media names. Local helper/schema copies keep content checks offline. Keep IDs and publication instants stable when editing saved packages; hidden and draft packages are omitted from public output.
-
-
-// devlog.rs  
-  
-//! 五月七日的思考札记  
-//! content repository of 五月七日  
-//! use [`fivsevn::home`](https://fivsevn.com);  
-  
-/*
-  
-![devlog homepage](https://cdn.jsdelivr.net/gh/fivsevn/fivsevn-assets@main/homepage/homepage20260624devlog.webp)
-  
-*/

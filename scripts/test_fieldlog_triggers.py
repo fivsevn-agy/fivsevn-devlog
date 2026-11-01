@@ -51,6 +51,22 @@ class FieldlogUploadTests(unittest.TestCase):
         _, head, body = path.read_text().split('---', 2)
         return yaml.safe_load(head), body.strip()
 
+    def test_merge_preserves_second_parent_cursor_and_imports_new_upload_once(self):
+        self.git('branch', 'phone')
+        self.upload('main.jpg')
+        main_upload = self.commit('Main observation')
+        self.assertEqual(ingest(self.root), 1)
+        self.commit('Save published package and cursor')
+        self.git('checkout', 'phone')
+        self.upload('phone.jpg', 'blue')
+        phone_upload = self.commit('Phone observation', '2026-10-29T01:02:03+00:00')
+        self.git('merge', '--no-ff', 'main', '-m', 'Merge published main')
+        self.assertEqual(read_state(self.root)['cursor'], main_upload)
+        self.assertEqual(ingest(self.root), 1)
+        self.assertEqual({event['commit'] for event in read_state(self.root)['events'].values()}, {main_upload, phone_upload})
+        self.assertEqual(len(self.posts()), 2)
+        self.assertEqual(ingest(self.root), 0)
+
     def test_caption_timezone_retry_and_saved_hidden_edit(self):
         original = self.upload('山间/IMG_0001.JPG')
         self.commit('Upload photo\n\n**山间发现**\n\n[记录](https://example.com/)')

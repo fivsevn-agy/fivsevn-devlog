@@ -104,10 +104,11 @@ def pending_commits(root: Path, cursor: str, head: str) -> list[str]:
         resolved = git(root, "rev-parse", "--verify", cursor + "^{commit}").decode().strip()
     except ValueError as error:
         raise ValueError("Publishing cursor is missing from Git history; restore history before importing") from error
-    history = git(root, "rev-list", "--first-parent", head).decode().splitlines()
-    if resolved not in history:
-        raise ValueError("Publishing cursor is not on HEAD's first-parent history; review the branch before importing")
-    return list(reversed(history[:history.index(resolved)]))
+    try:
+        git(root, "merge-base", "--is-ancestor", resolved, head)
+    except ValueError as error:
+        raise ValueError("Publishing cursor is not an ancestor of HEAD; review the branch before importing") from error
+    return git(root, "rev-list", "--reverse", "--topo-order", head, "^" + resolved).decode().splitlines()
 
 
 def changed_files(root: Path, commit: str) -> list[dict]:
@@ -119,6 +120,17 @@ def changed_files(root: Path, commit: str) -> list[dict]:
         chunks.pop()
     if len(chunks) % 2:
         raise ValueError("Unexpected Git change listing")
+    # A merge imports its parents' upload events, not a second copy of their files.
+    parents = git(root, "rev-list", "--parents", "-n", "1", commit).decode().split()[1:]
+    inherited = set()
+    if len(parents) > 1:
+        for ancestor in parents:
+            for entry in git(root, "ls-tree", "-r", "-z", ancestor, "--", INBOX + "/").split(b"\0"):
+                if not entry:
+                    continue
+                details, filename = entry.split(b"\t", 1)
+                mode, kind, blob = details.decode("ascii").split()
+                inherited.add((filename.decode("utf-8"), mode, blob))
     files = []
     for offset in range(0, len(chunks), 2):
         header = chunks[offset].decode("ascii").split()
@@ -133,6 +145,8 @@ def changed_files(root: Path, commit: str) -> list[dict]:
             continue
         if len(header) != 5 or not header[0].startswith(":") or header[4] not in {"A", "M", "T", "D"}:
             raise ValueError("Unexpected Git image change")
+        if header[4] != "D" and (filename, header[1], header[3]) in inherited:
+            continue
         files.append({"path": filename, "blob_sha": header[3], "mode": header[1], "status": header[4]})
     return sorted(files, key=lambda item: item["path"])
 
