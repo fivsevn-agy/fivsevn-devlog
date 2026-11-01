@@ -32,7 +32,7 @@ maturity: stable
 confidence: 0.98
 
 visibility: public
-source_of_truth: posts
+source_of_truth: devlog
 
 created: 2026-03-03
 updated: 2026-03-03
@@ -55,7 +55,7 @@ updated: 2026-03-03
 > 很多时候，我能感觉到某种表达存在问题，却无法迅速梳理出清晰的思路。
 > 在这种情况下，AI 的价值在于辅助构造思考结构，避免陷入单点视角或情绪化判断。
 > 
-> 这是一个用于训练“论证结构感”的实验区。  
+> 这是一个用于训练“论证结构感”的实验区。
 
 ---
 
@@ -70,4 +70,4 @@ updated: 2026-03-03
 
 
 
-  
+

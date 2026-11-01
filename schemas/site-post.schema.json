@@ -3,49 +3,246 @@
   "$id": "https://raw.githubusercontent.com/fivsevn-agy/fivsevn-spec/main/content/site-post.schema.json",
   "title": "fivsevn site-post-v1 metadata profile",
   "allOf": [
-    {"$ref": "content-metadata.schema.json"},
+    {
+      "$ref": "content-metadata.schema.json"
+    },
     {
       "type": "object",
-      "required": ["extra", "filename_policy"],
+      "required": [
+        "extra",
+        "filename_policy"
+      ],
       "properties": {
-        "title": {"type": "string", "pattern": "\\S"},
-        "filename_policy": {"const": "entrypoint"},
+        "title": {
+          "type": "string",
+          "pattern": "\\S"
+        },
+        "filename_policy": {
+          "const": "entrypoint"
+        },
         "extra": {
           "type": "object",
-          "required": ["profile", "published_at", "author"],
+          "required": [
+            "profile",
+            "published_at",
+            "author"
+          ],
           "properties": {
-            "profile": {"const": "site-post-v1"},
-            "published_at": {"type": "string", "format": "date-time"},
-            "author": {"type": "string", "minLength": 1},
-            "image": {"type": "string", "minLength": 1},
-            "alt": {"type": "string"},
-            "observation_id": {"type": "string", "pattern": "^[0-9]{12}$"},
-            "display_status": {"type": "string"},
-            "source": {"type": ["string", "null"]},
-            "sync": {"type": ["string", "null"]},
-            "upload": {"type": "object"}
+            "profile": {
+              "const": "site-post-v1"
+            },
+            "published_at": {
+              "type": "string",
+              "format": "date-time"
+            },
+            "author": {
+              "type": "string",
+              "minLength": 1
+            },
+            "image": {
+              "type": "string",
+              "minLength": 1
+            },
+            "alt": {
+              "type": "string"
+            },
+            "observation_id": {
+              "type": "string",
+              "pattern": "^[0-9]{12}$"
+            },
+            "display_status": {
+              "type": "string"
+            },
+            "source": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "sync": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "upload": {
+              "type": "object"
+            },
+            "mode": {
+              "enum": [
+                "album",
+                "collection"
+              ]
+            },
+            "images": {
+              "type": "array",
+              "minItems": 1,
+              "items": {
+                "type": "object",
+                "required": [
+                  "file"
+                ],
+                "properties": {
+                  "file": {
+                    "type": "string",
+                    "pattern": "^assets/[^\\\\]+$"
+                  },
+                  "alt": {
+                    "type": "string"
+                  }
+                }
+              }
+            },
+            "video_ids": {
+              "type": "array",
+              "minItems": 1,
+              "items": {
+                "type": "string",
+                "pattern": "^[A-Za-z0-9_-]{11}$"
+              }
+            }
           }
         }
       },
       "anyOf": [
-        {"properties": {"module": {"const": "posts"}, "submodule": {"const": "flux"}}},
-        {"properties": {"module": {"const": "natsci"}, "submodule": {"const": "fieldlog"}}},
-        {"properties": {"module": {"const": "savour"}, "submodule": {"pattern": "^[0-9]{4}$"}}}
+        {
+          "properties": {
+            "module": {
+              "const": "posts"
+            },
+            "submodule": {
+              "const": "flux"
+            }
+          }
+        },
+        {
+          "properties": {
+            "module": {
+              "const": "natsci"
+            },
+            "submodule": {
+              "const": "fieldlog"
+            }
+          }
+        },
+        {
+          "properties": {
+            "module": {
+              "const": "savour"
+            },
+            "submodule": {
+              "pattern": "^[0-9]{4}$"
+            }
+          }
+        },
+        {
+          "properties": {
+            "module": {
+              "const": "stills"
+            },
+            "submodule": {
+              "const": "roll"
+            }
+          }
+        },
+        {
+          "properties": {
+            "module": {
+              "const": "motion"
+            },
+            "submodule": {
+              "const": "roll"
+            }
+          }
+        }
       ],
       "allOf": [
         {
-          "if": {"properties": {"module": {"const": "natsci"}}},
-          "then": {"properties": {"extra": {"required": ["observation_id", "display_status"]}}}
+          "if": {
+            "properties": {
+              "module": {
+                "const": "natsci"
+              }
+            }
+          },
+          "then": {
+            "properties": {
+              "extra": {
+                "required": [
+                  "observation_id",
+                  "display_status"
+                ]
+              }
+            }
+          }
         },
         {
           "if": {
             "properties": {
-              "module": {"enum": ["savour", "natsci"]},
-              "status": {"enum": ["active", "publish", "published"]},
-              "visibility": {"const": "public"}
+              "module": {
+                "enum": [
+                  "savour",
+                  "natsci"
+                ]
+              },
+              "status": {
+                "enum": [
+                  "active",
+                  "publish",
+                  "published"
+                ]
+              },
+              "visibility": {
+                "const": "public"
+              }
             }
           },
-          "then": {"properties": {"extra": {"required": ["image", "alt"]}}}
+          "then": {
+            "properties": {
+              "extra": {
+                "required": [
+                  "image",
+                  "alt"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "module": {
+                "const": "stills"
+              }
+            }
+          },
+          "then": {
+            "properties": {
+              "extra": {
+                "required": [
+                  "images"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "module": {
+                "const": "motion"
+              }
+            }
+          },
+          "then": {
+            "properties": {
+              "extra": {
+                "required": [
+                  "video_ids"
+                ]
+              }
+            }
+          }
         }
       ]
     }
