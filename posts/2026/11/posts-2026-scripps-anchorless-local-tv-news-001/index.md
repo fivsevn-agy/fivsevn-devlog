@@ -44,7 +44,7 @@ note: >
   原文称首个新闻板块有八则新闻，随后列出七项，译文保留原文数字。
 
 rights:
-  note: "PDF 页脚原声明：© All Rights Reserved Poynter Institute 2026。首图署名：AP Photo/Al Behrman。"
+  note: "PDF 页脚原声明：© All Rights Reserved Poynter Institute 2026。首图署名：AP Photo/Al Behrman。本站通用 CC BY-NC-SA 4.0 许可声明不适用于本篇原文及原图。"
   verification: "本次未核实适用于本篇的开放许可或权利人的公开中文翻译授权。"
 
 created: "2026-11-02"
@@ -55,7 +55,7 @@ updated: "2026-11-02"
 
 ### source
 
-- [Opinion | Scripps is cutting anchors and adding reporters. Is this the future of local TV news?](https://www.poynter.org/business-work/2026/scripps-anchorless-local-tv-news-reporters/)
+- [Opinion \| Scripps is cutting anchors and adding reporters. Is this the future of local TV news?](https://www.poynter.org/business-work/2026/scripps-anchorless-local-tv-news-reporters/)
 - 来源：Poynter；发布方：Poynter Institute。
 - 作者：Kerwin Speight；原文发表日期：2026 年 10 月 30 日。
 - 翻译底本：用户提供的文章 PDF，第 1–7 页。
@@ -64,6 +64,8 @@ updated: "2026-11-02"
 ### note
 
 本文为原文内容的中文翻译，仅用于学习与知识整理。原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+
+本站通用 CC BY-NC-SA 4.0 许可声明不适用于本篇原文及原图。
 
 本稿的公开翻译许可尚未核实。译文依据所提供 PDF 中的完整文章文字，未与当前网页全文比对。PDF 未保留链接目标、首图原始 URL 或 alt 属性，因此未嵌入首图，也未补造链接；原图图注与摄影署名保留在下文。
 
