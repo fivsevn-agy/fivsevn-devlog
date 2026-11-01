@@ -19,8 +19,8 @@ visibility: public
 source_of_truth: devlog
 filename_policy: entrypoint
 created: '2026-10-30'
-updated: '2026-10-30'
-metadata_updated: '2026-10-30'
+updated: '2026-11-01'
+metadata_updated: '2026-11-01'
 ---
 # Fieldlog 图片入口
 
@@ -34,4 +34,4 @@ metadata_updated: '2026-10-30'
 
 修改旧帖请编辑对应文件夹中的 `index.md`；重新上传图片会另建一帖。
 
-[构建与维护](../README.md)
+[构建与维护](../README.md#发布图片)
