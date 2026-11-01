@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Offline metadata contract shared by Flux, Savour, Fieldlog, Stills, and Motion.
+"""Offline metadata contract for the fivsevn publication boards.
 
 Canonical files use the shared core schema plus site-post-v1. Compatibility
 views are transient dictionaries: never write metadata_view() back to disk.
@@ -19,7 +19,7 @@ import yaml
 
 PROFILE = "site-post-v1"
 PUBLISHED_STATUSES = frozenset({"active", "publish", "published"})
-SITES = ("flux", "savour", "fieldlog", "stills", "motion")
+SITES = ("flux", "savour", "fieldlog", "stills", "motion", "sys", "cctv")
 TZ = ZoneInfo("Asia/Shanghai")
 MONTHS = ("Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec")
 CORE_FIELDS = frozenset({
@@ -177,6 +177,8 @@ def normalize_metadata(raw: dict, *, site: str, post_id=None, published_at=None)
         "fieldlog": ("natsci", "fieldlog", "devlog"),
         "stills": ("stills", "roll", "site"),
         "motion": ("motion", "roll", "site"),
+        "sys": ("57store", "sys", "site"),
+        "cctv": ("57store", "cctv", "site"),
     }[site]
     defaults = {
         "id": ident, "title": title, "module": module, "submodule": submodule, "topic": None,
@@ -289,7 +291,8 @@ def validate_metadata(meta: dict, *, site=None, schema_dir=None) -> None:
         identity = (meta["module"], meta["submodule"])
         expected = {"flux": ("posts", "flux"), "fieldlog": ("natsci", "fieldlog"),
                     "savour": ("savour", str(published_datetime(meta).astimezone(TZ).year)),
-                    "stills": ("stills", "roll"), "motion": ("motion", "roll")}[site]
+                    "stills": ("stills", "roll"), "motion": ("motion", "roll"),
+                    "sys": ("57store", "sys"), "cctv": ("57store", "cctv")}[site]
         if identity != expected:
             raise ValueError(f"Site identity must be {expected!r}, got {identity!r}")
     published_datetime(meta)
