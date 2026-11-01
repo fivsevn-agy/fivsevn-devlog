@@ -26,7 +26,7 @@ metadata_updated: '2026-10-30'
 
 Fieldlog is the natural observation photo archive at [devlog.fivsevn.com/natsci/fieldlog](https://devlog.fivsevn.com/natsci/fieldlog/). This directory contains its editable source packages, shared interface assets, and publication state. The wider [natsci study archive](https://devlog.fivsevn.com/natsci/) contains the accompanying notes.
 
-Upload photos to [`trigger_imgs/`](trigger_imgs/). Each image becomes one independent post with an optional Markdown caption. The [image inbox guide](trigger_imgs/README.md) provides concise everyday instructions in Chinese; this README describes the content and publishing system in English.
+Upload photos to [`trigger_imgs/`](trigger_imgs/). Each image becomes one independent post with an optional Markdown caption. See the [image inbox guide](trigger_imgs/README.md) for publishing steps.
 
 ## Repository layout
 
