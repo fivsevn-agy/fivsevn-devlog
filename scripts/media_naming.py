@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Stable publication-media names shared by all five fivsevn boards."""
+"""Stable publication-media names shared by fivsevn boards."""
 from __future__ import annotations
 import argparse
 from datetime import datetime
@@ -8,7 +8,7 @@ from pathlib import Path
 import re
 from zoneinfo import ZoneInfo
 
-SITES = ("flux", "savour", "fieldlog", "stills", "motion")
+SITES = ("flux", "savour", "fieldlog", "stills", "motion", "sys", "cctv")
 EXTENSIONS = {".jpg", ".jpeg", ".png", ".webp", ".gif", ".heic", ".heif", ".avif", ".tif", ".tiff", ".bmp"}
 TZ = ZoneInfo("Asia/Shanghai")
 

@@ -154,6 +154,19 @@
               "const": "roll"
             }
           }
+        },
+        {
+          "properties": {
+            "module": {
+              "const": "57store"
+            },
+            "submodule": {
+              "enum": [
+                "sys",
+                "cctv"
+              ]
+            }
+          }
         }
       ],
       "allOf": [
@@ -228,11 +241,25 @@
         },
         {
           "if": {
-            "properties": {
-              "module": {
-                "const": "motion"
+            "anyOf": [
+              {
+                "properties": {
+                  "module": {
+                    "const": "motion"
+                  }
+                }
+              },
+              {
+                "properties": {
+                  "module": {
+                    "const": "57store"
+                  },
+                  "submodule": {
+                    "const": "cctv"
+                  }
+                }
               }
-            }
+            ]
           },
           "then": {
             "properties": {
