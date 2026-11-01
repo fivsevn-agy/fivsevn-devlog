@@ -36,7 +36,7 @@ natsci/fieldlog/
     index.md                       Canonical metadata and editable Markdown caption
     assets/                        This post's archived image
   trigger_imgs/                    Temporary image-upload inbox
-    README.md                      Chinese upload guide
+    README.md                      upload guide
   ui/                              Shared image, fonts, CSS, and navigation behavior
   site-data/
     history.json                   Stable order for posts sharing an exact timestamp
@@ -74,7 +74,7 @@ Each image creates a separate post. Images in one commit share the caption from 
 
 - Publication time comes from the upload commit's **committer timestamp**, converted to `Asia/Shanghai` and saved with its timezone offset.
 - A package ID combines that timestamp with a digest of the upload commit and path. The saved directory is `YYYY/MM/{id}/`.
-- Uploaded paths are sorted to assign stable batch numbers. Saved media is named `YYYYMMDD-HHMMSS-NN.webp`.
+- Each uploaded image creates its own package. Saved media is named `YYYYMMDD-HHMMSS-fieldlog-<package-key>-001.webp`.
 - A commit and path are processed once. Retrying a run preserves the package and any later caption edits.
 - Uploading the same filename or identical bytes in a **new commit** creates a new post. Edit the saved package to revise an existing post.
 - Deleting an inbox file does not withdraw an earlier committed upload event. Hide or remove its saved post instead.
@@ -210,3 +210,7 @@ Both accept `--root` and `--output`; public verification also accepts `--url`. C
 - If an image upload is damaged or unsupported, replace or remove the offending inbox file and push. A later repair supersedes the invalid event; a current invalid upload blocks its batch without partially installing sibling posts.
 - If a newer commit arrives or public bytes differ, let the latest queued workflow continue or rerun against the latest `main`. Pull bot commits before the next phone upload.
 - If a cursor is missing or no longer belongs to the branch's first-parent history, review or restore Git history before repairing state. Resetting it can replay already processed uploads.
+
+## Publication media names
+
+Package images follow `YYYYMMDD-HHMMSS-<board>-<package-key>-NNN.ext`. The key is the first 12 lowercase hexadecimal characters of SHA-256 over `board:id`; publication time uses Asia/Shanghai. The file sequence stays fixed when display order changes. Uploads receive canonical names automatically. Keep shared assets and unarranged drafts in their existing locations. See the [shared naming rule](https://github.com/fivsevn-agy/fivsevn-spec/blob/main/content/spec-content-media-naming-001.md).

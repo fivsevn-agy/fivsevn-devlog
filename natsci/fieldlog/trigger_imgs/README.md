@@ -34,4 +34,4 @@ metadata_updated: '2026-10-30'
 
 修改旧帖请编辑对应文件夹中的 `index.md`；重新上传图片会另建一帖。
 
-[详细英文说明](../README.md#publish-images)
+[构建与维护](../README.md#publish-images)

@@ -37,7 +37,7 @@ metadata_updated: '2026-10-30'
 extra:
   observation_id: '260712221233'
   annotation_date: 12 Jul, 2026 23:12
-  image: assets/IMG_8086.webp
+  image: assets/20260712-221233-fieldlog-670bf1ff3fbd-001.webp
   alt: 12 Jul, 2026 23:12
   profile: site-post-v1
   published_at: '2026-07-12T22:12:33+08:00'

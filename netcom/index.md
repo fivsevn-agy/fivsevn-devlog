@@ -20,8 +20,8 @@ related: [netcom-module-map, system-module-map]
 
 tags: [netcom, engineering]
 
-audience: public
-languages: zh
+audience: [public]
+languages: [zh]
 
 maturity: stable
 confidence: 0.97

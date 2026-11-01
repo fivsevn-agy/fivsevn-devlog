@@ -46,8 +46,8 @@ fivsevn-devlog/             主要目录与文件
 ├── savour/                Savour 吃喝板块说明；内容与图片在 savour 仓库
 ├── natsci/                自然科学长文、Fieldlog 影像记录与板块说明
 ├── netcom/                通信、计算机与工程长文
-├── stills/                摄影板块说明；照片在 assets 仓库
-├── motion/                视频板块说明；视频在 YouTube
+├── stills/                摄影板块入口；照片与发布在 roll 仓库
+├── motion/                影像板块入口；页面在 roll，视频在 YouTube
 ├── blogops/               后台更新日志与维护说明
 ├── now/                   当前近况页
 ├── intake/                来源清单、抓取脚本与生成页面
@@ -68,8 +68,8 @@ fivsevn-devlog/             主要目录与文件
 | **savour** | [吃喝记录](https://savour.fivsevn.com/)，每张照片一帖，以手机聊天界面展示 | [savour README](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/savour/README.md) |
 | **natsci** | [Fieldlog 自然观察影像](https://devlog.fivsevn.com/natsci/fieldlog/)；[devlog 自然科学长文](https://devlog.fivsevn.com/natsci/) | [natsci README](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/natsci/README.md) |
 | **netcom** | [通信、计算机与工程笔记](https://devlog.fivsevn.com/netcom/)，目前只有 devlog 长文 | [netcom README](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/netcom/README.md) |
-| **stills** | [摄影作品集](https://fivsevn.com/stills/)，WordPress 手动编排；[bygone 老照片](https://fivsevn.com/stills/bygone/)单图自动发布 | [stills README](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/stills/README.md) |
-| **motion** | [视频作品](https://fivsevn.com/motion/)，YouTube 托管，WordPress 嵌入 | [motion README](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/motion/README.md) |
+| **stills** | [摄影作品集](https://roll.fivsevn.com/stills/)，一次推送发布一组；[Bygone](https://roll.fivsevn.com/stills/bygone/)为独立照片集合 | [stills README](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/stills/README.md) |
+| **motion** | [视频作品](https://roll.fivsevn.com/motion/)，YouTube 托管，roll 定时同步 | [motion README](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/motion/README.md) |
 | **blogops** | [后台日志](https://devlog.fivsevn.com/blogops/)，手动记录系统调整，保存维护说明 | [blogops README](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/blogops/README.md) |
 | **now** | [当前近况](https://devlog.fivsevn.com/now/)，参与 [nownownow](https://nownownow.com/p/kUDQ)，手动更新 | [now README](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/now/README.md) |
 | **intake** | [资料与 RSS 页面](https://devlog.fivsevn.com/intake/)，定时生成，不是永久文章存档 | [intake README](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/intake/README.md) |
@@ -82,15 +82,16 @@ fivsevn-devlog/             主要目录与文件
 
 | 位置 | 保存与维护的内容 |
 |---|---|
-| **[WordPress 后台](https://fivsevn.com/wp-admin/)** | 主站布局与仍由 WordPress 维护的作品页面 |
+| **[WordPress 后台](https://fivsevn.com/wp-admin/)** | 主站布局与仍由 WordPress 维护的页面 |
 | **[fivsevn-agy/fivsevn-devlog](https://github.com/fivsevn-agy/fivsevn-devlog)** | 长文 Markdown、Fieldlog 图片与配文、板块说明、日志、近况、来源清单与相关脚本；直接改原文件 |
-| **[fivsevn/fivsevn-assets](https://github.com/fivsevn/fivsevn-assets)** | 主站及其他板块的图片、静态资源与 WordPress 图片／YouTube 发布脚本；Flux、Savour、Fieldlog 媒体由各内容仓库保存 |
-| **[fivsevn/fivsevn-flux](https://github.com/fivsevn/fivsevn-flux)** | 短帖内容存档、接收流程、页面构建与部署；英文后台维护说明 |
+| **[fivsevn/fivsevn-assets](https://github.com/fivsevn/fivsevn-assets)** | 主站与共享静态资源；各栏目的发布图片由对应内容仓库保存 |
+| **[fivsevn/fivsevn-flux](https://github.com/fivsevn/fivsevn-flux)** | 短帖内容存档、接收流程、页面构建与部署；后台维护说明 |
 | **[fivsevn/fivsevn-savour](https://github.com/fivsevn/fivsevn-savour)** | 吃喝记录、每帖 WebP 图片、手机界面、上传处理及 Pages 部署 |
 | **[fivsevn-agy/fivsevn-spec](https://github.com/fivsevn-agy/fivsevn-spec)** | metadata、翻译、来源、引用、日期和提交等公共规范；板块说明链接过去，不复制整套规范 |
-| **[YouTube @fivsevn](https://www.youtube.com/@fivsevn)** | 视频托管；WordPress 保存嵌入内容，视频原文件另行备份 |
+| **[fivsevn/fivsevn-roll](https://github.com/fivsevn/fivsevn-roll)** | Stills 影集、Bygone 集合、Motion 与未编排照片 |
+| **[YouTube @fivsevn](https://www.youtube.com/@fivsevn)** | 视频托管；roll 保存影像帖与嵌入内容，视频原文件另行备份 |
 
-> 短帖操作看 [posts README](posts/README.md)，吃喝图片看 [Savour 图片入口](https://github.com/fivsevn/fivsevn-savour/tree/main/trigger_imgs)，自然观察图片看 [Fieldlog 图片入口](natsci/fieldlog/trigger_imgs/README.md)。长文和 Fieldlog 改 devlog，短帖及其图片改 flux，吃喝内容及图片改 savour，主站视觉编排改 WordPress；其他共用图片改 assets。
+> 短帖操作看 [posts README](posts/README.md)，吃喝图片看 [Savour 图片入口](https://github.com/fivsevn/fivsevn-savour/tree/main/trigger_imgs)，自然观察图片看 [Fieldlog 图片入口](natsci/fieldlog/trigger_imgs/README.md)。长文和 Fieldlog 改 devlog，短帖及其图片改 flux，吃喝内容及图片改 savour，照片与影像页面改 roll，主站视觉编排改 WordPress；其他共用图片改 assets。
 
 ## 4. 发布关系速览
 
@@ -99,9 +100,9 @@ fivsevn-devlog/             主要目录与文件
 随手图片    flux/trigger_imgs/ → 提交并推送 → 转 WebP、每图建帖、部署与核验
 吃喝图片    savour/trigger_imgs/ → 提交并推送 → 转 WebP、每图建帖、部署与核验
 自然观察    devlog/natsci/fieldlog/trigger_imgs/ → 提交并推送 → 转 WebP、每图建帖、部署与核验
-老照片      assets/stills/bygone/ → Actions 取文件名作标题 → WordPress 发帖
-摄影作品集  assets 保存照片 → WordPress 手动引用、编排并发布
-视频作品    YouTube RSS → Actions 读取最新一条 → WordPress 嵌入
+老照片      roll/stills/bygone/ → 集合编排 → Actions 构建
+摄影作品集  roll/stills/trigger_imgs/ → 一次推送一组 → Actions 发布
+视频作品    YouTube 公开上传列表 → roll Actions 检查全部条目 → 保存影像帖
 长文章      devlog Markdown → 目录任务重算列表；站点构建、部署 → GitHub Pages
 日志／近况  手动修改各自 index.md → 站点构建、部署 → GitHub Pages
 资料入口    intake/sources.md → 定时抓取与组装 → intake 页面、llm-context.md

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Offline metadata contract shared by Flux, Savour, and Fieldlog.
+"""Offline metadata contract shared by Flux, Savour, Fieldlog, Stills, and Motion.
 
 Canonical files use the shared core schema plus site-post-v1. Compatibility
 views are transient dictionaries: never write metadata_view() back to disk.
@@ -19,7 +19,7 @@ import yaml
 
 PROFILE = "site-post-v1"
 PUBLISHED_STATUSES = frozenset({"active", "publish", "published"})
-SITES = ("flux", "savour", "fieldlog")
+SITES = ("flux", "savour", "fieldlog", "stills", "motion")
 TZ = ZoneInfo("Asia/Shanghai")
 MONTHS = ("Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec")
 CORE_FIELDS = frozenset({
@@ -175,6 +175,8 @@ def normalize_metadata(raw: dict, *, site: str, post_id=None, published_at=None)
         "flux": ("posts", "flux", "site"),
         "savour": ("savour", str(local.year), "site"),
         "fieldlog": ("natsci", "fieldlog", "devlog"),
+        "stills": ("stills", "roll", "site"),
+        "motion": ("motion", "roll", "site"),
     }[site]
     defaults = {
         "id": ident, "title": title, "module": module, "submodule": submodule, "topic": None,
@@ -286,7 +288,8 @@ def validate_metadata(meta: dict, *, site=None, schema_dir=None) -> None:
             raise ValueError(f"Unknown site: {site!r}")
         identity = (meta["module"], meta["submodule"])
         expected = {"flux": ("posts", "flux"), "fieldlog": ("natsci", "fieldlog"),
-                    "savour": ("savour", str(published_datetime(meta).astimezone(TZ).year))}[site]
+                    "savour": ("savour", str(published_datetime(meta).astimezone(TZ).year)),
+                    "stills": ("stills", "roll"), "motion": ("motion", "roll")}[site]
         if identity != expected:
             raise ValueError(f"Site identity must be {expected!r}, got {identity!r}")
     published_datetime(meta)
@@ -314,7 +317,10 @@ def post_paths(root: Path) -> list[Path]:
     if not root.is_dir():
         raise ValueError(f"Content root does not exist: {root}")
     result = []
-    for path in sorted(root.glob("[0-9][0-9][0-9][0-9]/[0-9][0-9]/*/index.md")):
+    candidates = list(root.glob("[0-9][0-9][0-9][0-9]/[0-9][0-9]/*/index.md"))
+    if (root / "bygone/index.md").is_file():
+        candidates.append(root / "bygone/index.md")
+    for path in sorted(candidates):
         if any(part.startswith((".", "_")) for part in path.relative_to(root).parts):
             continue
         if any(p.is_symlink() for p in [path, *path.parents] if p.is_relative_to(root)):
@@ -333,8 +339,15 @@ def check_packages(root: Path, *, site=None, schema_dir=None) -> dict:
             meta, _ = read_frontmatter(path)
             validate_metadata(meta, site=site, schema_dir=schema_dir)
             ident = meta["id"]
-            if ident != path.parent.name:
-                raise ValueError("id must match its existing post package directory")
+            local = published_datetime(meta).astimezone(TZ)
+            folder = local.strftime("%Y-%m-%d-%H%M%S-") + ident if site == "motion" else ident
+            expected = root / local.strftime("%Y/%m") / folder / "index.md"
+            if site == "stills" and ident == "bygone":
+                expected = root / "bygone/index.md"
+                if meta["extra"].get("mode") != "collection":
+                    raise ValueError("Bygone must be an independent collection")
+            if path != expected:
+                raise ValueError("package directory must match its stable id and publication date")
             if ident in ids:
                 raise ValueError(f"duplicate id also in {ids[ident]}")
             ids[ident] = str(path.relative_to(root))
@@ -355,7 +368,7 @@ def main() -> int:
         prepared = []
         for path in post_paths(root):
             raw, body = read_frontmatter(path)
-            meta = normalize_metadata(raw, site=args.site, post_id=path.parent.name)
+            meta = normalize_metadata(raw, site=args.site, post_id=raw.get("id") if args.site == "motion" else path.parent.name)
             validate_metadata(meta, site=args.site, schema_dir=args.schema_dir)
             prepared.append((path, dump_frontmatter(meta) + body))
         # Validate every package before writing any file; bodies and paths stay intact.

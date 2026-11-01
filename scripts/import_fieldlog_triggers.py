@@ -21,6 +21,7 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 
 from fieldlog_image_codec import convert_image, validate_image, register_heif_opener
+from media_naming import media_filename
 from site_post_metadata import dump_frontmatter, normalize_metadata, validate_metadata
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -194,7 +195,7 @@ def ingest(root: Path = ROOT, status: str = "published") -> int:
                 target = safe_destination(root, package)
                 if target.exists() or any(item[1] == target for item in prepared):
                     raise ValueError(f"Post package already exists and will not be overwritten: {package}")
-                filename = date.strftime("%Y%m%d-%H%M%S") + f"-{number:02d}" + ".webp"
+                filename = media_filename("fieldlog", ident, date, 1, ".webp")
                 pending = staging / ident
                 (pending / "assets").mkdir(parents=True)
                 (pending / "assets" / filename).write_bytes(converted)
