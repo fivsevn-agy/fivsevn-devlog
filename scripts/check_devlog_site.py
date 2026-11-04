@@ -9,7 +9,12 @@ import time
 from urllib.request import Request, urlopen
 
 ROOT = Path(__file__).resolve().parents[1]
-ENTRYPOINTS = ("index.html", "posts/index.html", "natsci/index.html", "netcom/index.html", "intake/index.html", "assets/css/style.css")
+ENTRYPOINTS = (
+    "index.html", "posts/index.html", "natsci/index.html", "netcom/index.html",
+    "intake/index.html", "assets/css/style.css",
+    "natsci/taxonomy/chondrichthyes/natsci-taxonomy-chondrichthyes-translation-001.html",
+    "natsci/taxonomy/insecta/natsci-taxonomy-insecta-database-001.html",
+)
 
 
 def check(root: Path = ROOT, url: str | None = None) -> int:

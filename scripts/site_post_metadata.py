@@ -332,6 +332,24 @@ def post_paths(root: Path) -> list[Path]:
     return result
 
 
+def _validate_package(meta: dict, path: Path, root: Path, ids: dict, *, site=None, schema_dir=None) -> None:
+    """Check one package and register its identity, including prepared sources."""
+    validate_metadata(meta, site=site, schema_dir=schema_dir)
+    ident = meta["id"]
+    local = published_datetime(meta).astimezone(TZ)
+    folder = local.strftime("%Y-%m-%d-%H%M%S-") + ident if site == "motion" else ident
+    expected = root / local.strftime("%Y/%m") / folder / "index.md"
+    if site == "stills" and ident == "bygone":
+        expected = root / "bygone/index.md"
+        if meta["extra"].get("mode") != "collection":
+            raise ValueError("Bygone must be an independent collection")
+    if path != expected:
+        raise ValueError("package directory must match its stable id and publication date")
+    if ident in ids:
+        raise ValueError(f"duplicate id also in {ids[ident]}")
+    ids[ident] = str(path.relative_to(root))
+
+
 def check_packages(root: Path, *, site=None, schema_dir=None) -> dict:
     root = Path(root).resolve()
     result = {"documents": 0, "errors": [], "warnings": [], "pending_drafts": []}
@@ -340,20 +358,7 @@ def check_packages(root: Path, *, site=None, schema_dir=None) -> dict:
         result["documents"] += 1
         try:
             meta, _ = read_frontmatter(path)
-            validate_metadata(meta, site=site, schema_dir=schema_dir)
-            ident = meta["id"]
-            local = published_datetime(meta).astimezone(TZ)
-            folder = local.strftime("%Y-%m-%d-%H%M%S-") + ident if site == "motion" else ident
-            expected = root / local.strftime("%Y/%m") / folder / "index.md"
-            if site == "stills" and ident == "bygone":
-                expected = root / "bygone/index.md"
-                if meta["extra"].get("mode") != "collection":
-                    raise ValueError("Bygone must be an independent collection")
-            if path != expected:
-                raise ValueError("package directory must match its stable id and publication date")
-            if ident in ids:
-                raise ValueError(f"duplicate id also in {ids[ident]}")
-            ids[ident] = str(path.relative_to(root))
+            _validate_package(meta, path, root, ids, site=site, schema_dir=schema_dir)
         except (ValueError, TypeError, KeyError, OSError) as error:
             result["errors"].append(f"{path.relative_to(root)}: {error}")
     return result
@@ -368,11 +373,11 @@ def main() -> int:
     args = parser.parse_args()
     root = args.root.resolve()
     if args.command == "normalize":
-        prepared = []
+        prepared, ids = [], {}
         for path in post_paths(root):
             raw, body = read_frontmatter(path)
             meta = normalize_metadata(raw, site=args.site, post_id=raw.get("id") if args.site == "motion" else path.parent.name)
-            validate_metadata(meta, site=args.site, schema_dir=args.schema_dir)
+            _validate_package(meta, path, root, ids, site=args.site, schema_dir=args.schema_dir)
             prepared.append((path, dump_frontmatter(meta) + body))
         # Validate every package before writing any file; bodies and paths stay intact.
         for path, text in prepared:
