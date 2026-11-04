@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% seo %}
+  <link rel="stylesheet" href="{{ '/posts/assets/wordpress.css' | relative_url }}?v={{ site.github.build_revision }}">
+</head>
+<body>
+  <main class="post-shell wp-post-{{ page.extra.wp_post_id }}">
+    <header class="post-header" aria-label="文章信息">
+      <p class="post-comment">// post.rs</p>
+      <h1><span aria-hidden="true">//! </span>{{ page.title | escape }}</h1>
+      <p><strong>//! written by</strong> <span class="post-comment">{{ page.extra.author | escape }}</span></p>
+      <p><strong>//! published at</strong> <time datetime="{{ page.extra.published_at }}">{{ page.extra.published_at }}</time></p>
+      <p class="post-comment post-metadata">/* metadata */</p>
+      <div class="post-code">mod meta {<br>
+        <div class="post-indent">pub const CATEGORY: &amp;str = “ <span class="post-accent">{% for category in page.extra.categories %}#{{ category | escape }} {% endfor %}</span> ”;<br>
+          pub const TAGS: &amp;str = “ <span class="post-accent">{% for tag in page.extra.tags %}#{{ tag | escape }} {% endfor %}</span> ”;</div><br>
+        }
+      </div>
+      <p class="post-comment post-back">// ← back to home<br>// === module separator ===</p>
+      <p class="post-comment post-open" aria-hidden="true">/*</p>
+    </header>
+    <article class="{{ page.extra.content_classes | escape }}" style="{{ page.extra.content_style | escape }}" aria-label="正文">
+      {{ content }}
+    </article>
+    <footer class="post-footer">
+      <p class="post-comment" aria-hidden="true">*/</p>
+      <p class="post-comment">/* footer.rs */</p>
+      <div class="post-code">fn main() {<br><span class="post-indent">render(&amp;HOME);</span><br>}</div>
+      <p class="post-comment">// compiling … ok</p>
+      <p class="post-comment">// render finished ✔ at <time class="post-accent" datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date_to_xmlschema }}</time></p>
+      <p class="post-comment">// version v{{ site.time | date: '%y.%m' }} · commit {{ site.github.build_revision | slice: 0, 7 }}</p>
+      <p><strong>// © 2025–{{ site.time | date: '%Y' }} 五月七日的思考札记 · <span class="post-accent">fivsevn.com</span></strong></p>
+      <p class="post-accent">// CC BY-NC-SA 4.0 中/EN</p>
+      <p class="post-comment">// contact: fivsevn57@outlook.com</p>
+    </footer>
+  </main>
+</body>
+</html>

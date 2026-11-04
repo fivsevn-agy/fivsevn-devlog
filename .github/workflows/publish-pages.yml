@@ -62,6 +62,7 @@ jobs:
         run: python scripts/normalize_fieldlog_images.py
       - name: Test content and publishing behavior
         run: |
+          python -m unittest discover -s scripts -p 'test_post_indexes.py' -v
           python -m unittest discover -s scripts -p 'test_fieldlog*.py' -v
           python -m unittest discover -s tests -p 'test_fieldlog*.py' -v
           python -m unittest discover -s tests -p 'test_metadata.py' -v
@@ -97,7 +98,7 @@ jobs:
           fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -- natsci/fieldlog posts/index.md natsci/index.md netcom/index.md
+          git add -- natsci/fieldlog posts/index.md posts/ai-discourse-analysis/index.md natsci/index.md netcom/index.md
           if ! git diff --cached --quiet; then
             git commit -m 'publish: Normalize metadata, update directories, and import Fieldlog'
             git push origin HEAD:main

@@ -1,0 +1,125 @@
+---
+id: posts-20250314-framing-001
+title: 泛指、抑或是个人问题
+module: posts
+submodule: '2025'
+topic: legacy-wordpress
+type: note
+status: active
+canonical: true
+summary: 借《埃及古墓历险记》中的对话讨论框架、提问方式与个人处境。
+parents: []
+related: []
+tags:
+- posts
+- agatha
+- poirot
+audience:
+- public
+languages:
+- zh
+maturity: stable
+confidence: 0.9
+visibility: public
+source_of_truth: devlog
+original_title: 泛指、抑或是个人问题
+original_source: WordPress
+original_publisher: 五月七日
+original_url: https://fivsevn.com/2025/03/14/%e6%b3%9b%e6%8c%87%e3%80%81%e6%8a%91%e6%88%96%e6%98%af%e4%b8%aa%e4%ba%ba%e9%97%ae%e9%a2%98/
+subtitle: Framing
+references:
+- section: 相关作者
+  text: Agatha Christie（阿加莎·克里斯蒂）December 15, 1890 – January 12, 1976
+- section: 参考版本
+  text: '阿加莎克里斯蒂. 首相绑架案[M]. 王占一, 译. 北京: 新星出版社, 2018. (原作出版于 1924 年) Christie, A. (1924). Poirot investigates. The Bodley Head.'
+- section: 其他参考
+  text: 'Goffman, E. (1974). [Frame analysis: An essay on the organization of experience](https://www.goodreads.com/book/show/335896). Harvard University Press.'
+- section: 其他参考
+  text: 'Wilkinson, T. (2022). [Tutankhamun’s trumpet: Ancient Egypt in 100 objects from the boy-king’s tomb](https://www.goodreads.com/book/show/60165380-tutankhamun-s-trumpet). W. W. Norton & Company. 托比·威尔金森. [图坦卡蒙的号角: 100件宝物中的古埃及文明](https://book.douban.com/subject/36532943/)[M]. 朱敬文, 译. 北京: 中信出版集团, 2024. (原作出版于 2022 年) *图坦卡蒙的陵墓于1922年由霍华德·卡特带领的考古团队发现。'
+note: 从 WordPress 原始页面还原正文和布局；图片、动图与视频随本发布包保存。
+aliases:
+- posts-2025-03-14-泛指-抑或是个人问题
+legacy:
+  metadata:
+    id: posts-2025-03-14-泛指-抑或是个人问题
+    submodule: 2025
+    summary: '框架理论
+
+      '
+  path: posts/2025/2025-03-14-泛指、抑或是个人问题.md
+permalink: /posts/2025/2025-03-14-泛指、抑或是个人问题.html
+created: '2025-03-14'
+updated: '2025-03-15'
+metadata_updated: '2026-11-01'
+layout: wordpress-post
+filename_policy: entrypoint
+extra:
+  wp_post_id: 157
+  author: 五月七日
+  published_at: '2025-03-14T03:57:00+08:00'
+  categories:
+  - 炉边谈话_fireside
+  tags:
+  - agatha
+  - poirot
+  content_classes: entry-content wp-block-post-content has-courier-prime-font-family has-global-padding is-layout-constrained wp-block-post-content-is-layout-constrained
+  content_style: font-size:12px;line-height:1.7
+canonical_url: https://devlog.fivsevn.com/posts/2025/2025-03-14-泛指、抑或是个人问题.html
+---
+
+{% raw %}
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+<div aria-hidden="true" class="wp-block-spacer" style="height:5px"></div>
+<p class="wp-block-paragraph" style="font-size:13px;font-style:normal;font-weight:200">Framing</p>
+</div>
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+<div aria-hidden="true" class="wp-block-spacer" style="height:30px"></div>
+<blockquote class="wp-block-quote is-style-default is-layout-flow wp-block-quote-is-layout-flow" style="font-size:13px;font-style:normal;font-weight:300;line-height:1.6">
+<p class="wp-block-paragraph">“我知道您是位侦探，但我想向您讨教的事不拘于您侦探的身份。您是位观点独特的人，据我所知，您拥有丰富的想象力和人生阅历；波洛先生，请告诉我，您对超自然现象持怎样的观点？”</p>
+<p class="wp-block-paragraph">波洛在回答之前犹豫了片刻。他似乎有所顾虑，终于，他开口：</p>
+<p class="wp-block-paragraph">“我们不要相互误解，威拉德夫人。<strong>你问我的这个问题应该不是泛指的。是你个人的请求吧，是吗？</strong>你是在暗指你丈夫<a href="https://www.bbc.com/ukchina/simp/vert-cul-50759242">近期</a>离世的事情吗？”</p>
+<p class="wp-block-paragraph">“是这样的。”她承认了。</p>
+<p class="wp-block-paragraph">《埃及古墓历险记》</p>
+</blockquote>
+<div aria-hidden="true" class="wp-block-spacer" style="height:30px"></div>
+</div>
+
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-fe9cc265 wp-block-group-is-layout-flex" style="font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.147), 15px);font-style:normal;font-weight:400;line-height:1.7">
+<div aria-hidden="true" class="wp-block-spacer wp-container-content-cf2db169" style="height:0px"></div>
+<p class="wp-block-paragraph">有些时候，人们会把某个指向性明确的问题掩饰在一些泛指问题之下进行表达，或是出于无意、或是出于故意。上述引文是一个非常鲜明的例子，对话中的委托人威拉德夫人间接地向波洛侦探寻求帮助，波洛在犹豫之后轻轻道破，直接进入案件主题。</p>
+<div aria-hidden="true" class="wp-block-spacer wp-container-content-d613cd94" style="height:60px"></div>
+<p class="wp-block-paragraph">阿加莎往往就在这样的故事写作中不着痕迹地表达她对人性的解读。如若未能达到如此洞若观火的程度，可以先参考一下近来时不时就被人提起的“框架理论”。</p>
+<div aria-hidden="true" class="wp-block-spacer wp-container-content-d613cd94" style="height:60px"></div>
+<p class="wp-block-paragraph">用引文来理解“框架（Frame）”的话，威拉德夫人所提到的“您对超自然现象持怎样的观点？”的问题，就好比给对话双方套上了一个框架。换句话说，夫人想要用“对超自然现象的讨论”把她和波洛的这次谈话给“搭建”起来。但是波洛洞悉，这样搭建起来的讨论，并不利于当下另一件紧要问题的解决，于是突破了这套由夫人设置好的框架，直接开启案件的侦询。框架是将“看待事情的角度和方式”更加抽象化了的概念。</p>
+<div aria-hidden="true" class="wp-block-spacer wp-container-content-d613cd94" style="height:60px"></div>
+<p class="wp-block-paragraph">实际上，根据案件的要紧程度来看，夫人也并非想要围绕超自然现象展开讨论——也许有一点点想——但是当务之急是希望波洛能够尽快接下委托。那么，夫人又为什么要以这样的问题起头呢？回到小说前文，丧偶的悲痛、对接二连三发生的死亡事件的恐慌、对儿子的担心、对遥远文明的未知、一言难尽的委托理由，等等等等，似乎所有问题都在“超自然力量”这个大问题的笼罩之下。而此前对这一系列事件的报纸报道又强化了超自然力量的的影响力。框架就在整个事件发酵的过程当中悄然搭建完毕。超出解决能力的坏事逐一发生，害怕陷入诅咒、不愿相信诅咒、想要挣脱诅咒、但又担心对诅咒的违抗会导致陷入更大的困境，超自然力量似乎是这样一种无法挣脱的东西。框架也是如此。</p>
+<div aria-hidden="true" class="wp-block-spacer wp-container-content-d613cd94" style="height:60px"></div>
+<p class="wp-block-paragraph">阿加莎笔下的波洛是如何面对这样的问题的呢？“您对超自然现象持怎样的观点？”不论持怎样的观点，话题最终也许都会收敛为“信与不信”的问题；此时的波洛，如果回答落到“信”这一点，那么侦探要如何能让威拉德夫人放心交办委托？如果回答落到“不信”这一点，那么事情尚未解决的当下又如何能立刻拿出令人信服的理由？如果给出某些模棱两可的哲学性的解释，又会使委托人产生困惑。于是，波洛首先选择了避开框架，而是优先试探委托人的态度。框架难以琢磨，相比之下，真实的事件和真实的情感才是更加高效的切入点。侦探排除框架的干扰，触摸到了真实。</p>
+<div aria-hidden="true" class="wp-block-spacer wp-container-content-d613cd94" style="height:60px"></div>
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+<div aria-hidden="true" class="wp-block-spacer" style="height:30px"></div>
+<blockquote class="wp-block-quote is-style-default is-layout-flow wp-block-quote-is-layout-flow" style="font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.147), 15px);font-style:normal;font-weight:300;line-height:1.6">
+<p class="wp-block-paragraph">就我来说，我之前从没见过波洛的性格里有如此富于迷信的一面。一回到家我便就此事向他发问。他的态度既严肃又认真。</p>
+<p class="wp-block-paragraph">“是的，黑斯廷斯。我相信这些东西。你一定不要低估了迷信的力量。”</p>
+<p class="wp-block-paragraph">“这件事你打算怎么处理？”</p>
+<p class="wp-block-paragraph">“当然是从实际出发，我亲爱的黑斯廷斯！好吧，我们就从给纽约发电报开始，弄清小布雷纳先生之死更全面的细节吧。”</p>
+<p class="wp-block-paragraph">《埃及古墓历险记》</p>
+</blockquote>
+<div aria-hidden="true" class="wp-block-spacer" style="height:30px"></div>
+</div>
+<div aria-hidden="true" class="wp-block-spacer wp-container-content-cf2db169" style="height:0px"></div>
+<p class="wp-block-paragraph">又或者，委托人以委托人的框架，侦探以侦探的框架，对同一个事件进行解读。作者以作者的框架创作小说，而读者以读者的框架理解小说。换句话说，每个人都有各自的一套方式去理解这个世界。在明确这一点之前，就好比“框架”在我们的视野里还没有被看见，但频频发生的磕碰和冲突使我们产生疑惑和动摇；在明确这一点之后，我们仿佛可以看到，在人与人交往的过程当中，是各自所带的框架在进行或温和或激烈的碰撞。如果我们可以“看见”他人的框架，那么说不定，我们可以尝试主动调整自己的框架，或者尝试采用不同的框架去面对不同的人或事。侦探在面对助手黑斯廷斯和面对委托人的时候采用的是不同的框架，因此同样是针对超自然力量也会有不同的解释；而面对谋杀问题，侦探又采用了另一套框架进行解决。</p>
+<div aria-hidden="true" class="wp-block-spacer wp-container-content-d613cd94" style="height:0px"></div>
+<p class="wp-block-paragraph">似乎，用框架理论可以对侦探的人情味和智慧进行这样一种解读；当然，这本身也是一种框架式的解读。于我而言，这样有些繁琐甚至多此一举的思考过程，使得原本在我经验范围内一下子难以把握的事情，有了可以抓住的可能。这也是“框架”这样的社会学假设，乃至更多的理论性的假设对于个人生活而言的意义之一。</p>
+<div aria-hidden="true" class="wp-block-spacer wp-container-content-d613cd94" style="height:0px"></div>
+<p class="wp-block-paragraph">不过，这一点也早已被新闻媒体所利用，以此来装点门面的畅销内容不下少数。我想，横向上讲，人群熙熙攘攘，这是一种必然；纵向上讲，时间绵延不息，这也并非只是发生在我们这个时代的现象。正因为尘嚣弥漫，历久弥新的理论著作和经久不衰的文学作品才总是给人以超越世俗的信念和慰藉。小说家举重若轻，理论家举轻若重，错综复杂的人性在感性阅读和理性阅读的穿梭巡回间变得愈发清晰。在逐渐明晰的过程中，不妨再带入生活进行验证。</p>
+<div aria-hidden="true" class="wp-block-spacer wp-container-content-d613cd94" style="height:0px"></div>
+</div>
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+<div aria-hidden="true" class="wp-block-spacer" style="height:50px"></div>
+<hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
+<figure class="wp-block-table" style="font-size:13px;font-style:normal;font-weight:200"><table class="has-border-color has-contrast-border-color has-fixed-layout" style="border-width:1px"><thead><tr><th class="has-text-align-left" data-align="left">【Reference Deck】</th></tr></thead><tbody><tr><td class="has-text-align-left" data-align="left"><strong>相关作者</strong></td></tr><tr><td class="has-text-align-left" data-align="left">Agatha Christie（阿加莎·克里斯蒂）December 15, 1890 – January 12, 1976</td></tr><tr><td class="has-text-align-left" data-align="left"><strong>参考版本</strong></td></tr><tr><td class="has-text-align-left" data-align="left">阿加莎克里斯蒂. 首相绑架案[M]. 王占一, 译. 北京: 新星出版社, 2018. (原作出版于 1924 年)<br/>Christie, A. (1924). Poirot investigates. The Bodley Head.</td></tr><tr><td class="has-text-align-left" data-align="left"><strong>其他参考</strong></td></tr><tr><td class="has-text-align-left" data-align="left">Goffman, E. (1974). <a href="https://www.goodreads.com/book/show/335896">Frame analysis: An essay on the organization of experience</a>. Harvard University Press.</td></tr><tr><td class="has-text-align-left" data-align="left">Wilkinson, T. (2022). <a href="https://www.goodreads.com/book/show/60165380-tutankhamun-s-trumpet">Tutankhamun’s trumpet: Ancient Egypt in 100 objects from the boy-king’s tomb</a>. W. W. Norton &amp; Company.<br/>托比·威尔金森. <a href="https://book.douban.com/subject/36532943/">图坦卡蒙的号角: 100件宝物中的古埃及文明</a>[M]. 朱敬文, 译. 北京: 中信出版集团, 2024. (原作出版于 2022 年)<br/>*图坦卡蒙的陵墓于1922年由霍华德·卡特带领的考古团队发现。</td></tr></tbody></table></figure>
+<hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
+<div aria-hidden="true" class="wp-block-spacer" style="height:70px"></div>
+</div>
+{% endraw %}

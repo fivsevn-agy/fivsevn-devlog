@@ -9,6 +9,7 @@ on:
       - 'scripts/media_naming.py'
       - scripts/apply_draft_frontmatter.py
       - scripts/update_module_indexes.py
+      - scripts/test_post_indexes.py
       - tests/test_metadata.py
       - .github/workflows/check-metadata.yml
   pull_request:
@@ -19,6 +20,7 @@ on:
       - 'scripts/media_naming.py'
       - scripts/apply_draft_frontmatter.py
       - scripts/update_module_indexes.py
+      - scripts/test_post_indexes.py
       - tests/test_metadata.py
       - .github/workflows/check-metadata.yml
 permissions:
@@ -41,6 +43,7 @@ jobs:
         with:
           python-version: '3.11'
       - run: python -m pip install pyyaml jsonschema
+      - run: python -m unittest discover -s scripts -p 'test_post_indexes.py' -v
       - run: python -m unittest discover -s tests -p 'test_metadata.py' -v
       - name: Read-only shared schema check
         run: python .metadata-spec/tools/check_metadata.py --repo devlog --root . --schema .metadata-spec/content/content-metadata.schema.json --references .metadata-spec
