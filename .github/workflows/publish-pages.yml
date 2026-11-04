@@ -114,10 +114,13 @@ jobs:
       - name: Upload website artifact
         uses: actions/upload-pages-artifact@v4
         with:
+          name: github-pages-${{ github.run_id }}-${{ github.run_attempt }}
           path: _site
       - id: deployment
         name: Deploy website
         uses: actions/deploy-pages@v4
+        with:
+          artifact_name: github-pages-${{ github.run_id }}-${{ github.run_attempt }}
       - name: Verify public Fieldlog pages and images
         run: python scripts/verify_fieldlog_live.py
       - name: Verify public note entrypoints
