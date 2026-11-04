@@ -1,6 +1,6 @@
 ---
 id: "posts-literature-tolkien-fairy-stories-001"
-title: "J.R.R. 托尔金论童话、语言、幻想心理学，以及为何不存在“为儿童”而写"
+title: "◇ 托尔金的童话、语言与幻想观"
 
 module: "posts"
 submodule: "2026"
@@ -31,8 +31,7 @@ original_title: "J.R.R. Tolkien on Fairy Tales, Language, the Psychology of Fant
 original_source: "The Marginalian"
 original_publisher: "Maria Popova / The Marginalian"
 original_url: "https://www.themarginalian.org/2026/06/06/j-r-r-tolkien-on-fairy-stories/"
-translation_note: |
-  本文为原文内容的中文翻译，仅用于学习与知识整理。 原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+translation_note: "根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。"
 
 legacy:
   metadata:
@@ -40,38 +39,44 @@ legacy:
 
 created: "2026-06-08"
 updated: "2026-06-08"
-metadata_updated: "2026-10-13"
+metadata_updated: "2026-11-04"
 permalink: "/posts/2026/posts-literature-tolkien-fairy-stories-001.html"
 filename_policy: "entrypoint"
 ---
 
-## 文章翻译
+# ◇ 托尔金的童话、语言与幻想观
 
-### source
+<a id="文章翻译"></a>
 
-- [原文链接](https://www.themarginalian.org/2026/06/06/j-r-r-tolkien-on-fairy-stories/)
+<a id="jrr-托尔金论童话语言幻想心理学以及为何不存在为儿童而写"></a>
 
-### note
+<a id="source"></a>
 
-本文为原文内容的中文翻译，仅用于学习与知识整理。原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+SOURCE
+
+[J.R.R. Tolkien on Fairy Tales, Language, the Psychology of Fantasy, and Why There’s No Such Thing as Writing “For Children”](https://www.themarginalian.org/2026/06/06/j-r-r-tolkien-on-fairy-stories/)
+
+The Marginalian · Maria Popova
+
+<a id="note"></a>
+
+NOTE
+
+根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。
+
+> 部分图片引用原文远程资源；若无法显示，请访问原文。
+
+<a id="正文"></a>
 
 ---
 
-## 正文
-
-# J.R.R. 托尔金论童话、语言、幻想心理学，以及为何不存在“为儿童”而写
-
 [![Image 1]({{ '/posts/2026/06/posts-literature-tolkien-fairy-stories-001/assets/image-01.jpg' | relative_url }})](https://www.amazon.com/Tales-Perilous-Realm-J-R-R-Tolkien/dp/0547154119/?tag=braipick-20)
-
-> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
 
 “我并不认为自己曾经写过一本儿童书，”伟大的 [Maurice Sendak](https://www.themarginalian.org/tag/maurice-sendak/) 曾在[一次访谈](https://www.themarginalian.org/2011/12/29/tateshorts-maurice-sendak/)中说。 “我不是为儿童写作，”他[对 Colbert 说](https://www.themarginalian.org/2012/05/09/grim-colberty-tales-maurice-sendak/)。 “我只是写作——然后有人说，‘那是给孩子看的！’” 这种看法——即把某些类型的文学指定为“儿童文学”，完全是一种任意的、完全由成年人作出的选择——后来也被 [Neil Gaiman](http://explore.noodle.org/post/64133968491/i-dont-think-there-is-such-a-thing-as-a-bad-book) 雄辩地呼应过，但事实上，它并不是一个新观念。
 
 1939 年 3 月 8 日，被誉为史上最伟大的幻想文学作家之一的 **J.R.R. Tolkien**（1892 年 1 月 3 日—1973 年 9 月 2 日）发表了一场题为“Fairy Stories”的讲座，后来被改写成一篇题为“On Fairy-Stories”的文章，并收入 [**_Tales from the Perilous Realm_**](https://www.amazon.com/Tales-Perilous-Realm-J-R-R-Tolkien/dp/0547154119/?tag=braipick-20) 的附录中（[_公共图书馆_](http://www.worldcat.org/title/tales-from-the-perilous-realm/oclc/243480382&referer=brief_results)）。他的论证探究了幻想的本质和童话的文化角色，而其核心正是同一种深刻信念：并不存在所谓“为儿童”而写。
 
 [![Image 2]({{ '/posts/2026/06/posts-literature-tolkien-fairy-stories-001/assets/image-02.jpg' | relative_url }})](https://www.themarginalian.org/2011/11/01/art-of-the-hobbit/)
-
-> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
 
 J. R. R. Tolkien 为 [1936 年《霍比特人》第一版](https://www.themarginalian.org/2011/11/01/art-of-the-hobbit/)所绘的原始插图
 
@@ -81,8 +86,6 @@ J. R. R. Tolkien 为 [1936 年《霍比特人》第一版](https://www.themargin
 
 [![Image 3]({{ '/posts/2026/06/posts-literature-tolkien-fairy-stories-001/assets/image-03.jpg' | relative_url }})](https://www.themarginalian.org/2013/11/18/taschen-the-fairy-tales-ofhans-christian-andersen/)
 
-> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
-
 Katharine Beverley 与 Elizabeth Ellender 为 Hans Christian Andersen《冰雪女王》所绘插图，1929 年。点击图片查看详情。
 
 随后，他探讨童话与语言之间的关系，并驳斥 Max Müller 将神话视为“语言的疾病”的观点：
@@ -90,8 +93,6 @@ Katharine Beverley 与 Elizabeth Ellender 为 Hans Christian Andersen《冰雪�
 > 神话根本不是疾病，尽管它也可能像所有人类事物一样变得病态。你同样可以说，思考是心灵的疾病。更接近真相的说法倒是：语言，尤其是现代欧洲语言，是神话的疾病。不过，语言仍然不能被弃置不顾。在我们的世界里，具身的心智、舌头和故事是同时代的。人类心智被赋予了概括与抽象的能力，它看见的不只是绿草，将其与其他事物区分开来（并且觉得它看上去美），也看见了它既是绿的，又是草。但是，形容词的发明对于产生它的那种能力本身，是多么强大、多么具有刺激性：Faerie 中没有任何咒语或咏唱比它更有力量。这并不令人意外：这样的咒语其实可以说只是形容词的另一种看法，是神话语法中的一个词类。那个想到轻、重、灰、黄、静、快的心智，也构想出了能使沉重之物变轻并飞翔、把灰色的铅变成黄色的金、把静止的岩石变成迅疾流水的魔法。如果它能做到其中一件，它就能做到另一件；它不可避免地两者都做了。当我们能够从草中取出绿色、从天空中取出蓝色、从血液中取出红色，我们就已经拥有了巫师的力量——在某一个层面上；而在我们心智之外的世界中运用这种力量的欲望也随之苏醒。这并不意味着我们会在任何层面上善用这种力量。我们可能把致命的绿色涂到人的脸上，从而制造恐怖；我们可能让罕见而可怕的蓝月发光；或者，我们可能让树林长出银色的叶子，让公羊披上金色的羊毛，把炽热的火放进冰冷蠕虫的腹中。但在这种所谓“幻想”中，新的形式被创造出来；Faerie 开始了；人成为次级创造者。
 
 [![Image 4]({{ '/posts/2026/06/posts-literature-tolkien-fairy-stories-001/assets/image-04.jpg' | relative_url }})](https://www.themarginalian.org/2013/11/18/taschen-the-fairy-tales-ofhans-christian-andersen/)
-
-> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
 
 Maurice Sendak 为 Hans Christian Andersen《织补针》所绘插图，1959 年。点击图片查看详情。
 
@@ -104,8 +105,6 @@ Maurice Sendak 为 Hans Christian Andersen《织补针》所绘插图，1959 年
 > 在那些仍有足够智慧、不会认为童话故事有害的人当中，常见看法似乎是：儿童的心智与童话故事之间存在一种天然联系，就像儿童的身体与牛奶之间的联系一样。我认为这是一个错误；至多是一种虚假感伤的错误，因此也最常由那些出于某种私人原因（例如没有孩子）而倾向于把儿童视为一种特殊生物、几乎像另一个种族的人犯下，而不是把儿童视为某个特定家庭以及整个人类大家庭中正常的、只是尚未成熟的成员。
 
 [![Image 5]({{ '/posts/2026/06/posts-literature-tolkien-fairy-stories-001/assets/image-05.jpg' | relative_url }})](https://www.themarginalian.org/2013/07/16/provensen-book-of-fairy-tales-1971/)
-
-> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
 
 Alice 和 Martin Provensen 为 Howard Pyle《天鹅少女》所绘插图，1971 年。点击图片查看详情。
 
@@ -123,8 +122,6 @@ Alice 和 Martin Provensen 为 Howard Pyle《天鹅少女》所绘插图，1971 
 
 [![Image 6]({{ '/posts/2026/06/posts-literature-tolkien-fairy-stories-001/assets/image-06.jpg' | relative_url }})](https://www.themarginalian.org/2013/11/18/taschen-the-fairy-tales-ofhans-christian-andersen/)
 
-> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
-
 日本艺术家 Takeo Takei 为 Hans Christian Andersen 童话所绘插图，1928 年。点击图片查看详情。
 
 他继续论证说，尽管幻想被许多误解包围，但它是一种远比非虚构更具挑战性的艺术，因为它需要从零开始创造一个精巧、沉浸式的世界，而不能依靠现实这根拐杖：
@@ -135,8 +132,6 @@ Alice 和 Martin Provensen 为 Howard Pyle《天鹅少女》所绘插图，1971 
 
 [![Image 7]({{ '/posts/2026/06/posts-literature-tolkien-fairy-stories-001/assets/image-07.jpg' | relative_url }})](https://www.themarginalian.org/2012/08/27/kay-nielsen-east-of-the-sun-and-west-of-the-moon/)
 
-> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
-
 Kay Nielsen 所绘斯堪的纳维亚童话插图，1914 年。点击图片查看详情。
 
 托尔金提出了一个颇为奇特的论点，讨论幻想与戏剧之间油水不相融的关系，并设法顺带对那位“诗圣”本人轻轻刺了一下：
@@ -146,8 +141,6 @@ Kay Nielsen 所绘斯堪的纳维亚童话插图，1914 年。点击图片查看
 > 在《麦克白》中，当它被阅读时，我觉得女巫们还可以忍受：她们具有叙事功能，也有一些黑暗意义的暗示；尽管她们被庸俗化了，是同类中贫弱的可怜之物。她们在戏剧演出中几乎令人无法忍受。如果不是我还被她们在作为故事被阅读时的某些记忆所支撑，她们会完全令人无法忍受。有人告诉我，如果我拥有那个时代的心智，置身于猎巫和巫术审判之中，我会有不同感受。但这等于说：如果我把女巫视为在第一世界中可能存在、甚至很可能存在；换言之，如果她们不再是“Fantasy”。这个论证承认了要点。当一位剧作家试图使用 Fantasy 时，即使是像 Shakespeare 这样的剧作家，Fantasy 可能的命运也就是被溶解，或被降格。《麦克白》事实上是一位剧作家的作品，而这位剧作家至少在这一次，本该写一个故事——如果他具备那种艺术所需的技能或耐心的话。
 
 [![Image 8]({{ '/posts/2026/06/posts-literature-tolkien-fairy-stories-001/assets/image-08.jpg' | relative_url }})](https://www.themarginalian.org/2013/10/23/e-e-cummings-fairy-tales-john-eaton-1965/)
-
-> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
 
 John Eaton 为 E. E. Cummings《童话集》所绘插图，1965 年。点击图片查看详情。
 
@@ -163,8 +156,6 @@ John Eaton 为 E. E. Cummings《童话集》所绘插图，1965 年。点击图�
 
 [![Image 9]({{ '/posts/2026/06/posts-literature-tolkien-fairy-stories-001/assets/image-09.jpg' | relative_url }})](https://www.themarginalian.org/2013/07/16/provensen-book-of-fairy-tales-1971/)
 
-> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
-
 Alice 和 Martin Provensen 为 Seamus MacManus《Feather O’ My Wing》所绘插图，1971 年。点击图片查看详情。
 
 随后，他通过探讨童话的心理功能，为[艺术的心理功能](https://www.themarginalian.org/2013/10/25/art-as-therapy-alain-de-botton-john-armstrong/)增添了内容；其中最主要的功能，是它们能够重启我们[长期变钝的注意力](https://www.themarginalian.org/2013/10/25/art-as-therapy-alain-de-botton-john-armstrong/)：
@@ -176,8 +167,6 @@ Alice 和 Martin Provensen 为 Seamus MacManus《Feather O’ My Wing》所绘�
 > 创造性的幻想，因为它主要是在试图做别的事（制造某种新的东西），也许会打开你的宝库，让所有被锁住的东西像笼中鸟一样飞走。
 
 [![Image 10]({{ '/posts/2026/06/posts-literature-tolkien-fairy-stories-001/assets/image-10.jpg' | relative_url }})](https://www.themarginalian.org/2013/10/23/e-e-cummings-fairy-tales-john-eaton-1965/)
-
-> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
 
 John Eaton 为 E. E. Cummings《童话集》所绘插图，1965 年。点击图片查看详情。
 

@@ -1,6 +1,6 @@
 ---
 id: "posts-neuroscience-interoception-001"
-title: "内感受：你如何感知身体内部状态的隐藏感觉"
+title: "◇ 内感受与身体信号"
 
 module: "posts"
 submodule: "2026"
@@ -31,8 +31,7 @@ original_title: "Inside interoception: The hidden sense of how you feel inside"
 original_source: "MIT Technology Review Explains"
 original_publisher: "MIT Technology Review"
 original_url: "https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/"
-translation_note: |
-  本文为原文内容的中文翻译，仅用于学习与知识整理。 原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+translation_note: "根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。"
 
 legacy:
   metadata:
@@ -40,26 +39,26 @@ legacy:
 
 created: "2026-06-16"
 updated: "2026-06-16"
-metadata_updated: "2026-10-13"
+metadata_updated: "2026-11-04"
 permalink: "/posts/2026/posts-neuroscience-interoception-001.html"
 filename_policy: "entrypoint"
 ---
 
-文章翻译
+# ◇ 内感受与身体信号
 
-source
+<a id="内感受你如何感知身体内部状态的隐藏感觉"></a>
 
-* https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/
+SOURCE
 
-note
+[Inside interoception: The hidden sense of how you feel inside](https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/)
 
-本文为原文内容的中文翻译，仅用于学习与知识整理。原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+MIT Technology Review Explains · MIT Technology Review
 
-⸻
+NOTE
 
-正文
+根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。
 
-# 内感受：你如何感知身体内部状态的隐藏感觉
+---
 
 **MIT Technology Review _Explains：_**_让我们的作者为你梳理科学与技术这个复杂而混乱的世界，帮助你理解接下来会发生什么。_[_你可以在这里阅读本系列的更多文章_](https://www.technologyreview.com/tag/tech-review-explains)_。_
 

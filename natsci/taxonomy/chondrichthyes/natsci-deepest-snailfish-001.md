@@ -1,6 +1,6 @@
 ---
 id: "natsci-reading-deepest-snailfish-001"
-title: "科学家在日本附近海床拍到迄今最深处的鱼类"
+title: "◇ 日本深海的狮子鱼影像"
 
 module: "natsci"
 submodule: "taxonomy"
@@ -31,8 +31,7 @@ original_title: "Scientists film deepest ever fish on seabed off Japan"
 original_source: "CNN World / Asia"
 original_publisher: "CNN"
 original_url: "https://edition.cnn.com/2023/04/03/asia/deepest-fish-filmed-off-japan-scn-intl-hnk/index.html"
-translation_note: |
-  本文为原文内容的中文翻译，仅用于学习与知识整理。 原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+translation_note: "根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。"
 
 note: "保留现有文件名：展示目录或已发布链接使用该路径，本次不修改展示页；metadata id 继续作为内容身份。"
 legacy:
@@ -42,24 +41,26 @@ filename_policy: "stable-link"
 
 created: "2026-06-17"
 updated: "2026-06-17"
-metadata_updated: "2026-10-13"
+metadata_updated: "2026-11-04"
 ---
 
-文章翻译
+# ◇ 日本深海的狮子鱼影像
 
-source
+<a id="科学家在日本附近海床拍到迄今最深处的鱼类"></a>
 
-* 原文链接：https://edition.cnn.com/2023/04/03/asia/deepest-fish-filmed-off-japan-scn-intl-hnk/index.html
+SOURCE
 
-note
+[Scientists film deepest ever fish on seabed off Japan](https://edition.cnn.com/2023/04/03/asia/deepest-fish-filmed-off-japan-scn-intl-hnk/index.html)
 
-本文为原文内容的中文翻译，仅用于学习与知识整理。原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+CNN World · Asia · CNN
 
-⸻
+NOTE
 
-正文
+根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。
 
-# 科学家在日本附近海床拍到迄今最深处的鱼类
+> 部分图片引用原文远程资源；若无法显示，请访问原文。
+
+---
 
 作者：Chris Lau
 
@@ -86,8 +87,6 @@ note
 “重要之处在于，它显示了某一种鱼类会下潜到海洋中的多深处，”海洋生物学家 Alan Jamieson 说。他是 Minderoo-UWA Deep Sea Research Centre 的创始人，并领导了这次考察。
 
 ![Image 21: These two fish were caught at a depth of just over 8,000 meters in the Japan Trench in the northern Pacific Ocean. ](https://media.cnn.com/api/v1/images/stellar/prod/230403124413-02-snailfish.jpg?c=original&q=w_1093,c_fill)
-
-图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
 
 这两条鱼是在北太平洋日本海沟中略超过 8,000 米的深度捕获的。
 

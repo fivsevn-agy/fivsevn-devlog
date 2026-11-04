@@ -40,9 +40,9 @@ updated: 2026-06-15
 #### > Directory
 
 <!-- AUTO-INDEX:NETCOM_RECENT:START -->
-- 2026.06.22 [AI 需要更多工程纪律，而不是更少（译文）](software/netcom-software-engineering-ai-discipline-001.md)
+- 2026.06.22 [◇ AI 编程与工程纪律](software/netcom-software-engineering-ai-discipline-001.md)
 
-- 2026.06.07 [蓝牙命名的由来（译文）](rf/netcom-bluetooth-naming-001.md)
+- 2026.06.07 [◇ 蓝牙名称背后的故事](rf/netcom-bluetooth-naming-001.md)
 
 - 2026.03.12 [简单的模型判断参数标准](ai/netcom-ai-model-evaluation-basics-001.md)
 

@@ -30,7 +30,7 @@ note: "未记录原始写作日期；created 为本路径首次 Git 记录日期
 filename_policy: "entrypoint"
 
 created: "2026-10-13"
-updated: "2026-11-01"
+updated: "2026-11-04"
 metadata_updated: "2026-11-01"
 ---
 
@@ -70,7 +70,7 @@ posts/
 ![图片说明](/posts/2026/06/文章编号/assets/image-01.jpg)
 ```
 
-链接其他文章时，可使用对方的公开网址；维护目录时使用发布包的 `index.md` 源文件路径，网站构建会按它的 `permalink` 生成正确链接。译文仍保留原作出处、`original_url` 与翻译说明，目录进入仓库中的中文译文。
+链接其他文章时，可使用对方的公开网址；维护目录时使用发布包的 `index.md` 源文件路径，网站构建会按它的 `permalink` 生成正确链接。译文使用 `type: translation`、`source_of_truth: translation`，保留原作出处、`original_*`、必要的 `rights` / `note`。页面标题与 `title` 同为 `◇ 概括性中文标题`，接普通文本标签 SOURCE、NOTE，再直接进入完整逐段译文；目录使用同一标题并进入本站中文文章。实际生成与自动发布使用 [`translate and post.md` 的同步提示词](../blogops/docs/auto-translation-shortcut.md#7-实际发布提示词)，[spec 翻译指导](https://github.com/fivsevn-agy/fivsevn-spec/blob/main/content/spec-content-translation-001.md)仅说明个人学习中的翻译方法。
 
 ## WordPress 旧文
 

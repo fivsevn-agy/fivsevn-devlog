@@ -1,6 +1,6 @@
 ---
 id: "posts-news-doomsday-prediction-001"
-title: "1960 年一位物理学家称世界将在 2026 年终结：具体日期如下"
+title: "◇ 关于 2026 年的世界末日预测"
 
 module: "posts"
 submodule: "2026"
@@ -31,8 +31,7 @@ original_title: "Physicist in 1960 said world would end in 2026. Here's the exac
 original_source: "The Providence Journal"
 original_publisher: "The Providence Journal"
 original_url: "https://www.providencejournal.com/story/news/2025/12/06/doomsday-is-in-2026-according-to-a-1960-prediction-heres-the-date-massachusetts-von-foerster-ne-time/87620122007/"
-translation_note: |
-  本文为原文内容的中文翻译，仅用于学习与知识整理。 原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+translation_note: "根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。"
 
 legacy:
   metadata:
@@ -40,26 +39,34 @@ legacy:
 
 created: "2026-06-22"
 updated: "2026-06-22"
-metadata_updated: "2026-10-13"
+metadata_updated: "2026-11-04"
 permalink: "/posts/2026/posts-news-doomsday-prediction-001.html"
 filename_policy: "entrypoint"
 ---
 
-# 文章翻译
+# ◇ 关于 2026 年的世界末日预测
 
-## source
+<a id="文章翻译"></a>
 
-* https://www.providencejournal.com/story/news/2025/12/06/doomsday-is-in-2026-according-to-a-1960-prediction-heres-the-date-massachusetts-von-foerster-ne-time/87620122007/
+<a id="1960-年一位物理学家称世界将在-2026-年终结具体日期如下"></a>
 
-## note
+<a id="source"></a>
 
-本文为原文内容的中文翻译，仅用于学习与知识整理。原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+SOURCE
 
-⸻
+[Physicist in 1960 said world would end in 2026. Here's the exact date](https://www.providencejournal.com/story/news/2025/12/06/doomsday-is-in-2026-according-to-a-1960-prediction-heres-the-date-massachusetts-von-foerster-ne-time/87620122007/)
 
-# 正文
+The Providence Journal
 
-## 1960 年一位物理学家称世界将在 2026 年终结。具体日期如下
+<a id="note"></a>
+
+NOTE
+
+根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。
+
+<a id="正文"></a>
+
+---
 
 2025 年 12 月 6 日，美东时间上午 5:08
 
@@ -108,8 +115,6 @@ von Foerster 在[《时代》的报道](https://time.com/archive/6647875/science
 并非所有人都同意他的评估。批评者指出，人类存在妊娠期，而且指数增长很少会持续下去，这些都是他的理论不太可能成真的原因。
 
 ![Image 1: Late physicist Heinz von Foerster predicted back in 1960 that the world would end in 2026. At the start of 2025, the "Doomsday Clock" moved another second towards "midnight," which would mean the destruction of humanity.]({{ '/posts/2026/06/posts-news-doomsday-prediction-001/assets/image-01.jpg' | relative_url }})
-
-图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
 
 ## 什么是“末日时钟”？
 

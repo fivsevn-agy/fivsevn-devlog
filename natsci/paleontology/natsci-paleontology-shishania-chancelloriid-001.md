@@ -1,6 +1,6 @@
 ---
 id: "natsci-paleontology-shishania-chancelloriid-001"
-title: "科学家解开 5 亿年前化石之谜"
+title: "◇ Shishania 化石的分类之谜"
 
 module: "natsci"
 submodule: "paleontology"
@@ -31,38 +31,44 @@ original_title: "Scientists solve 500-million-year fossil mystery"
 original_source: "Phys.org / Durham University"
 original_publisher: "Durham University / Phys.org"
 original_url: "https://phys.org/news/2025-05-scientists-million-year-fossil-mystery.html"
-translation_note: |
-  本文为原文内容的中文翻译，仅用于学习与知识整理。 原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+translation_note: "根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。"
 
 created: "2026-06-15"
 updated: "2026-06-15"
-metadata_updated: "2026-10-13"
+metadata_updated: "2026-11-04"
 ---
 
-## 文章翻译
+# ◇ Shishania 化石的分类之谜
 
-### source
+<a id="文章翻译"></a>
 
-- [原文链接](https://phys.org/news/2025-05-scientists-million-year-fossil-mystery.html)
+<a id="科学家解开-5-亿年前化石之谜"></a>
 
+<a id="source"></a>
 
-### note
+SOURCE
 
-本文为原文内容的中文翻译，仅用于学习与知识整理。原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+[Scientists solve 500-million-year fossil mystery](https://phys.org/news/2025-05-scientists-million-year-fossil-mystery.html)
+
+Phys.org · Durham University
+
+<a id="note"></a>
+
+NOTE
+
+根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。
+
+> 部分图片引用原文远程资源；若无法显示，请访问原文。
+
+<a id="正文"></a>
 
 ---
-
-## 正文
-
-# 科学家解开 5 亿年前化石之谜
 
 2025 年 5 月 8 日
 
 作者：Durham University
 
 ![Image: Durham University scientists solve 500-million-year fossil mystery](https://scx1.b-cdn.net/csz/news/800a/2025/durham-university-scie-1.jpg)
-
-> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
 
 Shishania 标本。A 和 B 为不同光照条件下的标本，显示标本不均匀断裂如何揭示出清楚的上、下表面。E-G 为显示其刺的三维形态以及这些刺围绕顶端开口排列的标本。H 为两根单独的刺：左侧以俯视状态保存，显示圆形横截面；右侧以侧视状态保存。图片来源：Zhang Xiguang。
 
@@ -93,8 +99,6 @@ Shishania 标本。A 和 B 为不同光照条件下的标本，显示标本不�
 虽然它们表面上类似海绵，但其身体覆盖着星形骨针；这些骨针复杂的微观结构暗示，它们可能与更复杂的动物存在联系。
 
 ![Image: Durham University scientists solve 500-million-year fossil mystery](https://scx1.b-cdn.net/csz/news/800a/2025/durham-university-scie-2.jpg)
-
-> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
 
 空心三角形刺从一件 *Shishania* 标本的边缘伸出。图片来源：Zhang Xiguang。
 

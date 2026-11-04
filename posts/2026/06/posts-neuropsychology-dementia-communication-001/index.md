@@ -1,6 +1,6 @@
 ---
 id: "posts-neuropsychology-dementia-communication-001"
-title: "如何与患有痴呆症的人交谈"
+title: "◇ 痴呆症患者的沟通与理解"
 
 module: "posts"
 submodule: "2026"
@@ -31,8 +31,7 @@ original_title: "How to talk to someone who has dementia"
 original_source: "Psyche"
 original_publisher: "Psyche"
 original_url: "https://psyche.co/guides/how-to-talk-to-someone-who-has-dementia"
-translation_note: |
-  本文为原文内容的中文翻译，仅用于学习与知识整理。 原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+translation_note: "根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。"
 
 legacy:
   metadata:
@@ -40,26 +39,34 @@ legacy:
 
 created: "2026-06-15"
 updated: "2026-06-15"
-metadata_updated: "2026-10-13"
+metadata_updated: "2026-11-04"
 permalink: "/posts/2026/posts-neuropsychology-dementia-communication-001.html"
 filename_policy: "entrypoint"
 ---
 
-## 文章翻译
+# ◇ 痴呆症患者的沟通与理解
 
-### source
+<a id="文章翻译"></a>
 
-- [原文链接](https://psyche.co/guides/how-to-talk-to-someone-who-has-dementia)
+<a id="如何与患有痴呆症的人交谈"></a>
 
-### note
+<a id="source"></a>
 
-本文为原文内容的中文翻译，仅用于学习与知识整理。原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+SOURCE
+
+[How to talk to someone who has dementia](https://psyche.co/guides/how-to-talk-to-someone-who-has-dementia)
+
+Psyche
+
+<a id="note"></a>
+
+NOTE
+
+根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。
+
+<a id="正文"></a>
 
 ---
-
-## 正文
-
-# 如何与患有痴呆症的人交谈
 
 晚上 7 点 30 分，你的母亲没有换上睡衣，而是穿上了外套。她拍了拍口袋，然后开始扫视厨房台面，拉开走廊里的壁橱，最后把手提包倒在地板上，好像那个不见了的东西会哐当一声掉出来。她从你最近一直放钥匙的碗里拿起一串钥匙，说：“我得回家了，我妈妈会等我的。”
 

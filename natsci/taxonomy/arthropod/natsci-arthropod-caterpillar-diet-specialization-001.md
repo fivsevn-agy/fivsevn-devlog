@@ -1,6 +1,6 @@
 ---
 id: "natsci-arthropod-caterpillar-diet-specialization-001"
-title: "植物多样性或可解释为什么有些毛毛虫对食物很挑剔"
+title: "◇ 植物多样性与毛毛虫的食性"
 
 module: "natsci"
 submodule: "taxonomy"
@@ -31,8 +31,7 @@ original_title: "Plant diversity may explain why some caterpillars are fussy abo
 original_source: "Phys.org"
 original_publisher: "Phys.org"
 original_url: "https://phys.org/news/2026-06-diversity-caterpillars-fussy-food.html"
-translation_note: |
-  本文为原文内容的中文翻译，仅用于学习与知识整理。 原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+translation_note: "根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。"
 
 legacy:
   metadata:
@@ -40,24 +39,34 @@ legacy:
 
 created: "2026-06-15"
 updated: "2026-06-15"
-metadata_updated: "2026-10-13"
+metadata_updated: "2026-11-04"
 ---
 
-## 文章翻译
+# ◇ 植物多样性与毛毛虫的食性
 
-### source
+<a id="文章翻译"></a>
 
-- [原文链接](https://phys.org/news/2026-06-diversity-caterpillars-fussy-food.html)
+<a id="植物多样性或可解释为什么有些毛毛虫对食物很挑剔"></a>
 
-### note
+<a id="source"></a>
 
-本文为原文内容的中文翻译，仅用于学习与知识整理。原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+SOURCE
+
+[Plant diversity may explain why some caterpillars are fussy about their food](https://phys.org/news/2026-06-diversity-caterpillars-fussy-food.html)
+
+Phys.org
+
+<a id="note"></a>
+
+NOTE
+
+根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。
+
+> 部分图片引用原文远程资源；若无法显示，请访问原文。
+
+<a id="正文"></a>
 
 ---
-
-## 正文
-
-# 植物多样性或可解释为什么有些毛毛虫对食物很挑剔
 
 2026 年 6 月 14 日｜报道
 
@@ -66,8 +75,6 @@ metadata_updated: "2026-10-13"
 编辑：Gaby Clark，审核：Robert Egan
 
 ![Image: butterfly caterpillar eating](https://scx1.b-cdn.net/csz/news/800a/2026/butterfly-caterpillar.jpg)
-
-> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
 
 图片来源：Satheesh Cholakkal，Pexels
 

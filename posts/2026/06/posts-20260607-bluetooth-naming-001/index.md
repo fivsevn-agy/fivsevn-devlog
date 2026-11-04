@@ -33,7 +33,7 @@ legacy:
 
 created: "2026-06-07"
 updated: "2026-06-07"
-metadata_updated: "2026-10-13"
+metadata_updated: "2026-11-04"
 permalink: "/posts/2026/posts-20260607-bluetooth-naming-001.html"
 filename_policy: "entrypoint"
 ---
@@ -55,7 +55,7 @@ ChatGPT给出了一些有关“蓝牙”技术的命名来源站点可以参考�
 ### 2. Intel 工程师 Jim Kardach 本人的文章：〈Naming Bluetooth〉
 
 - [https://www.kardach.com/bluetooth/naming-bluetooth](https://www.kardach.com/bluetooth/naming-bluetooth)
-- [全文翻译](/netcom/rf/netcom-bluetooth-naming-001.html)
+- [◇ 蓝牙名称背后的故事](/netcom/rf/netcom-bluetooth-naming-001.html)
 
 ### 3. Intel 官方科普：什么是蓝牙技术？（中文页面）
 

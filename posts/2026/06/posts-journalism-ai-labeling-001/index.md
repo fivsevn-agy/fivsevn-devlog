@@ -1,6 +1,6 @@
 ---
 id: "posts-journalism-ai-labeling-001"
-title: "新闻机构应如何向受众标注 AI 使用？新研究给出了一些答案"
+title: "◇ 新闻机构的 AI 标注与受众信任"
 
 module: "posts"
 submodule: "2026"
@@ -31,8 +31,7 @@ original_title: "How should news organizations label their AI use for audiences?
 original_source: "Nieman Lab"
 original_publisher: "Nieman Journalism Lab"
 original_url: "https://www.niemanlab.org/2026/06/how-should-news-organizations-label-their-ai-use-for-audiences-new-studies-suggest-some-answers/"
-translation_note: |
-  本文为原文内容的中文翻译，仅用于学习与知识整理。 原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+translation_note: "根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。"
 
 legacy:
   metadata:
@@ -40,26 +39,26 @@ legacy:
 
 created: "2026-06-18"
 updated: "2026-06-18"
-metadata_updated: "2026-10-13"
+metadata_updated: "2026-11-04"
 permalink: "/posts/2026/posts-journalism-ai-labeling-001.html"
 filename_policy: "entrypoint"
 ---
 
-文章翻译
+# ◇ 新闻机构的 AI 标注与受众信任
 
-source
+<a id="新闻机构应如何向受众标注-ai-使用新研究给出了一些答案"></a>
 
-* https://www.niemanlab.org/2026/06/how-should-news-organizations-label-their-ai-use-for-audiences-new-studies-suggest-some-answers/
+SOURCE
 
-note
+[How should news organizations label their AI use for audiences? New studies suggest some answers](https://www.niemanlab.org/2026/06/how-should-news-organizations-label-their-ai-use-for-audiences-new-studies-suggest-some-answers/)
 
-本文为原文内容的中文翻译，仅用于学习与知识整理。原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+Nieman Lab · Nieman Journalism Lab
 
-⸻
+NOTE
 
-正文
+根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。
 
-# 新闻机构应如何向受众标注 AI 使用？新研究给出了一些答案
+---
 
 另外：TikTok 用户如何衡量可信度，以及关于从商业新闻业转向的可行性的一些好消息。
 

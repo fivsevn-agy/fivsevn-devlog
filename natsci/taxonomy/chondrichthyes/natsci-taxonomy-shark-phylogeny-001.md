@@ -1,6 +1,6 @@
 ---
 id: "natsci-taxonomy-shark-phylogeny-001"
-title: "世界上其实没有“鲨鱼”？基因组研究撼动海洋顶级捕食者的家族谱系"
+title: "◇ 鲨鱼分类与基因组研究"
 
 module: "natsci"
 submodule: "taxonomy"
@@ -31,29 +31,36 @@ original_title: "No such thing as a shark? Genomes shake up ocean predator’s f
 original_source: "Nature"
 original_publisher: "Nature"
 original_url: "https://www.nature.com/articles/d41586-026-00594-w"
-translation_note: |
-  本文为原文内容的中文翻译，仅用于学习与知识整理。 原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+translation_note: "根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。"
 
 created: "2026-03-13"
 updated: "2026-03-13"
-metadata_updated: "2026-10-13"
+metadata_updated: "2026-11-04"
 ---
 
-## 文章翻译
+# ◇ 鲨鱼分类与基因组研究
 
-### source
+<a id="文章翻译"></a>
 
-- [原文链接](https://www.nature.com/articles/d41586-026-00594-w)
+<a id="世界上其实没有鲨鱼基因组研究撼动海洋顶级捕食者的家族谱系"></a>
 
-### note
+<a id="source"></a>
 
-本文为原文内容的中文翻译，仅用于学习与知识整理。原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+SOURCE
+
+[No such thing as a shark? Genomes shake up ocean predator’s family tree](https://www.nature.com/articles/d41586-026-00594-w)
+
+Nature
+
+<a id="note"></a>
+
+NOTE
+
+根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。
+
+<a id="正文"></a>
 
 ---
-
-## 正文
-
-# 世界上其实没有“鲨鱼”？基因组研究撼动海洋顶级捕食者的家族谱系
 
 这条大白鲨（Carcharodon carcharias）仍然是一条鲨鱼。
 图片来源：Dave Fleetham/Design Pics Editorial/UIG via Getty

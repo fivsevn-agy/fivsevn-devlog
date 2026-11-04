@@ -1,6 +1,6 @@
 ---
 id: posts-2026-scripps-anchorless-local-tv-news-001
-title: "评论｜Scripps 正在裁撤主播、增聘记者：这是地方电视新闻的未来吗？"
+title: "◇ 地方电视新闻的无主播转型"
 
 module: posts
 submodule: "2026"
@@ -33,9 +33,7 @@ original_title: "Opinion | Scripps is cutting anchors and adding reporters. Is t
 original_source: "Poynter"
 original_publisher: "Poynter Institute"
 original_url: "https://www.poynter.org/business-work/2026/scripps-anchorless-local-tv-news-reporters/"
-translation_note: >
-  本文为原文内容的中文翻译，仅用于学习与知识整理。
-  原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+translation_note: "根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。"
 
 note: >
   本稿依据用户提供的 PDF 第 1–7 页完整翻译文章文字；PDF 内正文有清晰结尾，但本次未能与当前原网页全文比对。
@@ -49,33 +47,38 @@ rights:
 
 created: "2026-11-02"
 updated: "2026-11-02"
+metadata_updated: "2026-11-04"
 ---
 
-## 文章翻译
+# ◇ 地方电视新闻的无主播转型
 
-### source
+<a id="文章翻译"></a>
 
-- [Opinion \| Scripps is cutting anchors and adding reporters. Is this the future of local TV news?](https://www.poynter.org/business-work/2026/scripps-anchorless-local-tv-news-reporters/)
-- 来源：Poynter；发布方：Poynter Institute。
-- 作者：Kerwin Speight；原文发表日期：2026 年 10 月 30 日。
-- 翻译底本：用户提供的文章 PDF，第 1–7 页。
-- 原文版权声明：© All Rights Reserved Poynter Institute 2026。
+<a id="评论scripps-正在裁撤主播增聘记者这是地方电视新闻的未来吗"></a>
 
-### note
+<a id="source"></a>
 
-本文为原文内容的中文翻译，仅用于学习与知识整理。原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+SOURCE
 
-本站通用 CC BY-NC-SA 4.0 许可声明不适用于本篇原文及原图。
+[Opinion \| Scripps is cutting anchors and adding reporters. Is this the future of local TV news?](https://www.poynter.org/business-work/2026/scripps-anchorless-local-tv-news-reporters/)
 
-本稿的公开翻译许可尚未核实。译文依据所提供 PDF 中的完整文章文字，未与当前网页全文比对。PDF 未保留链接目标、首图原始 URL 或 alt 属性，因此未嵌入首图，也未补造链接；原图图注与摄影署名保留在下文。
+Poynter · Kerwin Speight · 2026.10.30
 
-原文称首个新闻板块有“八则新闻”，随后列出了七项；译文保留原文数字，未作修正。
+底本：用户提供的文章 PDF，第 1–7 页。
+
+© All Rights Reserved Poynter Institute 2026。
+
+<a id="note"></a>
+
+NOTE
+
+根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。
+
+本稿依据 PDF 中的完整文章文字，未与当前网页全文比对；PDF 未保留链接目标和首图资源信息，原图注及署名照录。原文“八则新闻”与其后七项列表的差异亦照录。
+
+<a id="正文"></a>
 
 ---
-
-## 正文
-
-# 评论｜Scripps 正在裁撤主播、增聘记者：这是地方电视新闻的未来吗？
 
 随着地方电视不断演变，无主播新闻节目让我们得以提前一窥观众可能得到什么，又会失去什么。
 

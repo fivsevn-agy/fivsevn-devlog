@@ -42,6 +42,34 @@ class PostIndexesTests(unittest.TestCase):
         self.assertEqual(warnings, [])
         self.assertEqual([note.link for note in notes], ["https://fivsevn.com/old-post/"])
 
+    def test_active_private_translations_stay_out_of_all_directories(self):
+        for module, path in [
+            ("posts", "posts/2026/11/private/index.md"),
+            ("natsci", "natsci/example.md"),
+            ("netcom", "netcom/example.md"),
+        ]:
+            with self.subTest(module=module):
+                self.article(path, module=module)
+                target = self.root / path
+                target.write_text(target.read_text().replace(
+                    "type: note", "type: translation\nvisibility: private"
+                ))
+                notes, warnings = indexes.collect_notes(module, indexes.MODULES[module])
+                self.assertEqual(warnings, [])
+                self.assertEqual(notes, [])
+
+    def test_translation_title_marker_and_local_destination(self):
+        path = "netcom/example.md"
+        for title in ["主题", "主题（译文）", "◇ 主题", "◇ ◇ 主题（译文）"]:
+            for note_type in ["translation", "traslation"]:
+                with self.subTest(title=title, note_type=note_type):
+                    self.article(path, module="netcom", title=title)
+                    target = self.root / path
+                    target.write_text(target.read_text().replace("type: note", f"type: {note_type}"))
+                    notes, _ = indexes.collect_notes("netcom", indexes.MODULES["netcom"])
+                    self.assertEqual(indexes.display_title(notes[0]), "◇ 主题")
+                    self.assertEqual(notes[0].link, "example.md")
+
     def test_ai_directory_excludes_its_authoring_protocol(self):
         self.article("posts/ai-discourse-analysis/2026/03/001-case/index.md")
         self.article("posts/ai-discourse-analysis/ai-posts-boot-protocol.md")

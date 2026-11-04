@@ -1,6 +1,6 @@
 ---
 id: "posts-urban-studies-megaprojects-asia-001"
-title: "亚洲的城市化、大型项目与剥夺"
+title: "◇ 亚洲大型项目与城市发展"
 
 module: "posts"
 submodule: "2026"
@@ -31,8 +31,7 @@ original_title: "Urbanisation, megaprojects and dispossession in Asia"
 original_source: "LSE Review of Books"
 original_publisher: "LSE Review of Books"
 original_url: "https://blogs.lse.ac.uk/lsereviewofbooks/2026/06/22/book-review-the-political-economy-of-megaprojects-in-asia-state-power-land-control-financial-flows-and-dispossession-hyun-bang-shin-dong-wan-gimm/"
-translation_note: |
-  本文为原文内容的中文翻译，仅用于学习与知识整理。 原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+translation_note: "根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。"
 
 legacy:
   metadata:
@@ -40,26 +39,28 @@ legacy:
 
 created: "2026-06-26"
 updated: "2026-06-26"
-metadata_updated: "2026-10-13"
+metadata_updated: "2026-11-04"
 permalink: "/posts/2026/posts-urban-studies-megaprojects-asia-001.html"
 filename_policy: "entrypoint"
 ---
 
-文章翻译
+# ◇ 亚洲大型项目与城市发展
 
-source
+<a id="亚洲的城市化大型项目与剥夺"></a>
 
-* https://blogs.lse.ac.uk/lsereviewofbooks/2026/06/22/book-review-the-political-economy-of-megaprojects-in-asia-state-power-land-control-financial-flows-and-dispossession-hyun-bang-shin-dong-wan-gimm/
+SOURCE
 
-note
+[Urbanisation, megaprojects and dispossession in Asia](https://blogs.lse.ac.uk/lsereviewofbooks/2026/06/22/book-review-the-political-economy-of-megaprojects-in-asia-state-power-land-control-financial-flows-and-dispossession-hyun-bang-shin-dong-wan-gimm/)
 
-本文为原文内容的中文翻译，仅用于学习与知识整理。原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+LSE Review of Books
 
-⸻
+NOTE
 
-正文
+根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。
 
-# 亚洲的城市化、大型项目与剥夺
+> 部分图片引用原文远程资源；若无法显示，请访问原文。
+
+---
 
 _**《亚洲大型项目的政治经济学》**由 **Hyun Bang Shin** 和 **Dong-Wan Gimm** 编辑，批判了大型项目作为亚洲各地城市发展主导模式的地位。**Sara Bardhan** 写道，这本引人入胜且细致入微的论文集通过韩国、中国、台湾、印度、土耳其和马来西亚的跨学科案例研究，揭示了国家、私人资本和各类行动者如何通过大规模基础设施与房地产项目重塑城市景观。_
 
@@ -82,8 +83,6 @@ _《亚洲大型项目的政治经济学：国家权力、土地控制、金融�
 本书借鉴 [Henri Lefebvre](https://www.jstor.org/stable/10.5749/j.ctttsrv7)、[David Harvey](https://books.google.co.in/books?hl=en&lr=&id=dpomk7KEX6MC&oi=fnd&pg=PA98&dq=Harvey,+D.+(1999)+Time-space+compression+and+the+postmodern+condition&ots=x_ho1bUF1y&sig=ATaNsk763r3L3jwrz-wTLIObHx0&redir_esc=y#v=onepage&q=Harvey%2C%20D.%20(1999)%20Time-space%20compression%20and%20the%20postmodern%20condition&f=false) 和 [Manuel Castells](https://onlinelibrary.wiley.com/doi/book/10.1002/9781444319514) 的思想，说明国家如何同时充当大型项目的建筑师、策展人、调解者和促进者。在韩国[江南](https://sema.seoul.go.kr/semaaa/data/upload/attach/10000/17153/20210917150603632.pdf)和[松岛](https://www.taylorfrancis.com/chapters/edit/10.4324/9781315643069-12/songdo-seungho-yoo)、台湾[桃园航空城](https://api.taylorfrancis.com/content/chapters/edit/download?identifierName=doi&identifierValue=10.4324/9781315115078-4&type=chapterpdf)，以及伊斯坦布尔[第三机场](https://www.sciencedirect.com/science/article/pii/S0016718525000776)等案例中，国家主动设计并管理城市空间，以提升全球竞争力。在古尔冈的 [DLF Cybercity](https://www.jstor.org/stable/26953013?casa_token=gbQDOuXBGxUAAAAA:HwF-OnzhAW8Li6FgkXUclJevmR3qztptNJAxDBF6WDQZpwvMZSzwNm_sZ4PS70n16eseIojJuOrpl0xu3i3Wbp0vruMmwXf67PYs5ujsrCDC0PNPS48) 和[金奈 IT 走廊](https://api.taylorfrancis.com/content/chapters/edit/download?identifierName=doi&identifierValue=10.4324/9781315115078-5&type=chapterpdf)[，](https://api.taylorfrancis.com/content/chapters/edit/download?identifierName=doi&identifierValue=10.4324/9781315115078-5&type=chapterpdf)国家动员土地、放松分区法规，并促成“土地换基础设施”交易，以吸引国内和离岸资本。因此，大型项目成为国家试图实现发展愿景、同时使自身权威合法化的工具。
 
 [![Image 1]({{ '/posts/2026/06/posts-urban-studies-megaprojects-asia-001/assets/image-01.png' | relative_url }})](https://www.routledge.com/The-Political-Economy-of-Megaprojects-in-Asia-State-Power-Land-Control-Financial-Flows-and-Dispossession/Shin-Gimm/p/book/9781138070448)
-图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
-
 同样重要的是，本书把国家概念化为一种由多种行动者构成的异质性组合，这些行动者在多个尺度上运作。大型项目通过地方政府、国家部委、跨国公司、开发商、金融机构和跨国投资者之间的复杂协商而产生。这种多尺度方法是本书最突出的优点之一，因为它既避免了[方法论国家主义](https://www.tandfonline.com/doi/abs/10.1080/09692290.2024.2401432)，同时仍然承认国家权力在塑造城市化方面的持续重要性。
 
 ## 通过剥夺进行积累

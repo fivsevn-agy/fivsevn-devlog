@@ -1,6 +1,6 @@
 ---
 id: "natsci-arthropod-millipede-land-colonization-001"
-title: "马陆比脊椎动物早 8000 万年登陆"
+title: "◇ 马陆的早期陆地演化"
 
 module: "natsci"
 submodule: "taxonomy"
@@ -31,8 +31,7 @@ original_title: "Millipedes beat vertebrates to land by 80 million years"
 original_source: "ScienceDaily"
 original_publisher: "ScienceDaily"
 original_url: "https://www.sciencedaily.com/releases/2026/06/260613034213.htm"
-translation_note: |
-  本文为原文内容的中文翻译，仅用于学习与知识整理。 原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+translation_note: "根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。"
 
 legacy:
   metadata:
@@ -40,24 +39,32 @@ legacy:
 
 created: "2026-06-15"
 updated: "2026-06-15"
-metadata_updated: "2026-10-13"
+metadata_updated: "2026-11-04"
 ---
 
-## 文章翻译
+# ◇ 马陆的早期陆地演化
 
-### source
+<a id="文章翻译"></a>
 
-- [原文链接](https://www.sciencedaily.com/releases/2026/06/260613034213.htm)
+<a id="马陆比脊椎动物早-8000-万年登陆"></a>
 
-### note
+<a id="source"></a>
 
-本文为原文内容的中文翻译，仅用于学习与知识整理。原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+SOURCE
+
+[Millipedes beat vertebrates to land by 80 million years](https://www.sciencedaily.com/releases/2026/06/260613034213.htm)
+
+ScienceDaily
+
+<a id="note"></a>
+
+NOTE
+
+根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。
+
+<a id="正文"></a>
 
 ---
-
-## 正文
-
-# 马陆比脊椎动物早 8000 万年登陆
 
 在恐龙出现之前数亿年、也远在脊椎动物踏上陆地之前，马陆就已经在地球表面繁盛生存。
 

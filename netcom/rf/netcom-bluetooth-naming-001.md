@@ -1,6 +1,6 @@
 ---
 id: "netcom-bluetooth-naming-001"
-title: "蓝牙命名的由来"
+title: "◇ 蓝牙名称背后的故事"
 
 module: "netcom"
 submodule: "rf"
@@ -31,8 +31,7 @@ original_title: "Kardach - Naming Bluetooth"
 original_source: "Kardach.com"
 original_publisher: "Jim Kardach / Kardach.com"
 original_url: "https://www.kardach.com/bluetooth/naming-bluetooth"
-translation_note: |
-  本文为原文内容的中文翻译，仅用于学习与知识整理。 所有版权归原作者及出版方所有。
+translation_note: "根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。"
 
 legacy:
   metadata:
@@ -41,34 +40,40 @@ legacy:
 
 created: "2026-06-07"
 updated: "2026-06-07"
-metadata_updated: "2026-10-13"
+metadata_updated: "2026-11-04"
 ---
 
-## 文章翻译
+# ◇ 蓝牙名称背后的故事
 
-### source
+<a id="文章翻译"></a>
 
-- [原文链接](https://www.kardach.com/bluetooth/naming-bluetooth)
+<a id="蓝牙命名的由来"></a>
 
-### note
+<a id="source"></a>
 
-本文为原文内容的中文翻译，仅用于学习与知识整理。原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+SOURCE
+
+[Kardach - Naming Bluetooth](https://www.kardach.com/bluetooth/naming-bluetooth)
+
+Kardach.com · Jim Kardach
+
+<a id="note"></a>
+
+NOTE
+
+根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。
+
+> 部分图片引用原文远程资源；若无法显示，请访问原文。
+
+<a id="正文"></a>
 
 ---
-
-## 正文
-
-# 蓝牙命名的由来
 
 ![Image 1](https://lh3.googleusercontent.com/sitesv/AA5AbUAaOsXOawYqo3coy3YbDbBGCJIPzgi5OU5uJnPyjXd3wX_oPKO9wQM3V9G0W8s1uWe23IPXj19ebbyRCeHBzQfTJfjZXPixAc7H5lyauJNGFl3OsJnhcL4xzV-Mlx2KoXttUboWDYZ99_molKR-QHm3JvhEMT8MtUzMx84QpEg2f_Y_n9ICgGdYCf2bUUbM4U66l3XY2jh0Hifr=w1280)
-
-> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
 
 首先，我想感谢我的朋友 Vince Holton，感谢他允许我更新这篇文章，并把它发表在最后一期 *Incisor* 杂志上（谢谢 Vince）。Vince 从一开始就在现场。大约 20 年前，在 Bluetooth Conference 的休息时间里，我们坐在蒙特卡洛 Hotel de Pari 的一家酒吧里，我讲了这个故事。故事讲完后，Vince 走过来问我是否愿意把这个故事写下来，发表在 *Incisor* 上。我让 Vince 看看桌子，桌上堆满了空啤酒瓶，并表示因为我讲了这个故事，所以我一瓶啤酒都不用买。Vince 说，因为那天是 6 月 8 日（Bluetooth Conference），蒙特卡洛大奖赛刚刚结束，赛道设施还没有拆除。另外，他有一辆蓝色法拉利；如果我愿意写这篇文章，他就带我绕大奖赛赛道跑一圈。Simon Ellis 插了进来，说他必须接管谈判。Simon 重新谈判后的结果是：我会写这篇文章，而 Simon 和我都能绕蒙特卡洛大奖赛赛道跑一圈。
 
 [![Image 2](https://lh3.googleusercontent.com/sitesv/AA5AbUBQZpzv0nJeN2i8lexauDa2M4Pv06_zqiMK0lrOfrx2TdmZGi5qQVgH7FHwOm2nAt3G1duEB1m8ACL6uAPIuzNlg20lOdS2wnChdFAwtXuq4DGd3CEU-aVXWx1RUQDsjlPdyXVPxA9oq0Lo55dl0yvPtAEvEoShtC26lc4monMwzsyhT2BdpMdl6si6GRwNxYI9qWEXSjQ5NLsgizI=w1280)](https://www.youtube.com/watch?v=A1UdtDld-z8&list=PL_fbfFWItJhOAF2HGJ5aLm_pCOpD2T_-d&index=3&t=0s)
-
-> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
 
 多年来，我已经把这个故事写过几次，大多数人会指向我的其中一篇文章（最早发表在 *Incisor* 上的三部分文章，以及几年后在 [EE-Times](https://www.eetimes.com/tech-history-how-bluetooth-got-its-name/#) 上发表的较短版本）。不过现在我有了更多认识，也已经从 Intel 退休，所以决定更新最初那篇文章。它很长，但确实是个好故事。
 
@@ -79,8 +84,6 @@ metadata_updated: "2026-10-13"
 后来我去耶灵看这些真正的石头时（和我的好朋友 Orjan Johansson 一起，他是 Ericsson 的 Bluetooth 项目经理），有人告诉我们，这块石头曾经失踪了 600 年。显然，Harald 曾因为丹麦的宗教问题与他的儿子 Sweyn Forkbeard 发生争执。Harald 刚刚使王国基督教化（约公元 960 年），而 Sweyn 认为他们应该回去崇拜旧神（Odin、Thor、Frey，等等）。Sweyn 赢得了这场争论（并在此过程中放逐了他的父亲）。由于这块符文石赞颂 Harald 使丹麦人基督教化的功绩，Sweyn 便把它埋了起来。大约 600 年后，一位农民对自己农场上的一个大土丘感到好奇（丹麦是一个非常平坦的地方），于是重新发现了这块石头。
 
 ![Image 3](https://lh3.googleusercontent.com/sitesv/AA5AbUAgtTL75w7lfA48o4BGrXoJAdpeOX9ATparAXdkTXp5E8Omh8cay1iNUx-tSj-r7l4F3BwLWh0arEdvWfp0q8wMhT5p4_C-QWCIVWPtIY3r7vBQ5w_EdPbljZ_vvUZ8tPJTtrH62C4fgFBAAkFE3zu0M4riDvt00OxiDPrWROBFUHU7Joibw-DEY82tmASZQrqMr_b0MVVV4ZiDLvY=w1280)
-
-> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
 
 Orjan（右）和我（左）在丹麦耶灵看 Bluetooth 石（我身高 6 英尺 2 英寸，最左边是较小的 Thyra 石）。
 
@@ -94,13 +97,9 @@ Sven 解释说，虽然他不是历史专家（他对无线电更懂），但他
 
 ![Image 4](https://lh3.googleusercontent.com/sitesv/AA5AbUCSzQ7R4f_741niBkZdyIjZdF0TIBwEru38XIG1CiCc2MRs7Lv7QgwGYPKA0XXsZZ7vzSxtbFo4m1stivLsxeJAI6xMd4yZft3dhywo-_JirO9YHQcHLBnYYFyEDvSLl7_hPUwceVtQ2w_X30r8SBkm5ocMjfgVXyoI9-FXm401aQqEE3OD8F878_ogp2eeKLZNMWoGHckWlSxL0j8=w1280)
 
-> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
-
 我回到家时，一本我订购的斯堪的纳维亚历史书正在等我。我翻看 Gwyn Jones 的 *The Vikings* 时，看到一张岩石的照片，上面刻着一个人。照片说明写着：“Runic stones from Jelling in Jutland erected by Gorm the Old and Harald Bluetooth”；书中的文字说明，这张图片描绘的是 “Chivalry of Harald”。符文石上有一段铭文，内容是：“King Harald had this memorial made for Gorm his father and Thyri his mother: that Harald who won for himself all Denmark and Norway, and made the Danes Christian”。
 
 ![Image 5](https://lh3.googleusercontent.com/sitesv/AA5AbUDq5roQsA9KQi22GTtF1OmEUtKTd9o4Zz8_ZSmvl8Ccz1SH_BZb8VqeKkdEmmrgO-fpSXCpzldj9VTBjPZYdpSsR6jie_oFl-BLhfl6-RNtk13FYBes3LGylSddC7auBd0fAx8A5NskuxtYvGRn_xu2XsqRCONIu-YKg20t1S_816HRUN6B-0_jippkOhM-i2x3HdCOc9Dm20UO=w1280)
-
-> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
 
 我其实已经不太记得多伦多那晚的许多细节了，但 Bluetooth 这个名字从我的记忆里浮现了出来。我想到，这个名字与斯堪的纳维亚历史之间的联系（一位统一了挪威和丹麦的 10 世纪丹麦国王）、那块带有 Harald 本人图像的符文石，以及 “Bluetooth” 这个奇特的词，都可能成为这个项目相当不错的代号。
 
@@ -125,8 +124,6 @@ Sven 解释说，虽然他不是历史专家（他对无线电更懂），但他
 到那时，Simon 和我已经在不同项目上合作了将近 12 年，我们喜欢在工作中加入一点幽默。Bluetooth 这个名字代表一位 10 世纪的丹麦国王，他把丹麦人、挪威人和瑞典人聚到一起（正如我们的项目把 PC 和电信产业聚到一起），但这个名字听起来也很滑稽。让我们觉得有趣的是，到了某个时刻，Andy Grove 或 Bill Gates 将不得不板着一张严肃的脸，在观众面前说出 “Bluetooth” 这个词。
 
 ![Image 6](https://lh3.googleusercontent.com/sitesv/AA5AbUDvJtZgaiWdFx1mD7vcwOUrRzvMz9x2_l88kDw8WKbKhghPmfT0C7cYDT-E2_PvFCvO1ZfqTKD-d7Y0weK7mmP3grL2-kez1xWmDP8eYOwuYFXxm0QlTdqJ3dg-ohUdq4W7S7gSdoXrXOjic_tu0KqVAAQAClf9Zt8tuegtYJ5eOE5Q_ZUyhz3Li5shde4iMIdI4MG8RtDZekiAxjY=w1280)
-
-> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
 
 下一步，是让 Intel 批准这个名字作为代号使用。我去找我的老板 Phil Wennblom，并表示我们会把这个新的无线电项目称为 “Bluetooth”。他告诉我，“Bluetooth” 是个糟糕的名字，而且政策要求用北美的一座山或一条河来命名。我把这理解为批准，于是去找 Simon，并阐述说这一定是个绝佳代号，因为 Phil 很讨厌它。Simon 表示同意，但认为我们应该把该做的都做完，去取得我们的总经理 Stephen Nachtsheim（我老板的老板，也是 Simon 老板的老板）的批准。于是我们制作了一张带有那幅漂亮符文石图画的幻灯片，并解释了这个代号的来源。
 
@@ -176,13 +173,9 @@ Flirt —— “靠近而不接触”
 
 [![Image 7](https://lh3.googleusercontent.com/sitesv/AA5AbUCwntQV0WNnR_JQ5D9FnJDzTP15IpzlvYo-GO4CJG9-nXNfFH6cEITA7suULOSECxaDFPh3lkGVcxDd0Ne1ZkTXTwzUR_Z4dIGxUMFfRKRw09DRhSgataGLqBYNXUGLSE1N-Dvo_ocIeQkFNCkfQTzqQUh2NGQrGERtH3pzzslaRtiJ9Fc2nE5lb98iroSAdK9rTIQOvMkir097llo=w1280)](https://www.youtube.com/watch?v=sZYJFqqa4Lk&list=PL_fbfFWItJhOAF2HGJ5aLm_pCOpD2T_-d)
 
-> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
-
 当时市场部门开发的资料中，我最喜欢的一件，是那句著名的 “cutting the cord” 口号（它出现在一份 Bluetooth 宣传资料中）。这份早期资料是为了强调我们的一个主要主题：摆脱线缆。我认为这句口号和图形已经说明了一切（我从来不明白为什么我们只用过一次）。
 
 ![Image 8](https://lh3.googleusercontent.com/sitesv/AA5AbUA3R9hRke133q8cEVlszScbpCmxtX29FlZiTkE_x2iVuosIIykUKEJ5qoMCwmAIAZ7GqMzUp90TaQM_fw2W6zEYs7Tk65EY0P0kK2jVFuJQkCZKTg27G33zHxC0N34s9H1UFtWahK4IQ_LT4GTQF03P6ynrdufgYSQoTK9wxXQJOp14hi2w7uE9ERdi0Mp2l3rG2hGkm5kKXuJw=w1280)
-
-> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
 
 在这一时期，还发生了另一件与这个故事有关的有趣事件。作为 Intel 移动部门的一名工程师（我们设计笔记本电脑用的处理器和芯片组），我拥有许多专利。我的杰出领导 Stephen Nachtshem（Intel 移动与手持设备部门的副总裁/总经理）请我代他参加一个关于专利的高管会议，因为他无法出席。
 
@@ -234,8 +227,6 @@ Johann 说：“哇。”而我去想办法更新并打印合同。在等合同�
 
 ![Image 9](https://lh3.googleusercontent.com/sitesv/AA5AbUCngnAMlgpEySby79kXJNK3aT2Q3T1B1qyQQaF5AhO2GqJj8F3oH-T0tyKC2emlwrS1cz2TWqjecepmgmqCXcS_-zNHeE5QAoWlFmKf4Xhi6fan4E0ddCL9ojeCfoQXGt5f--b914Tjy5bRxKejBIFaE543_YPTQO3BBqTNpSQ4zHtqEPhL5CE_g1X4JUzQQMXXUQ1jcqVmq3-hkVE=w1280)
 
-> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
-
 那天晚些时候，Brian 回电话告诉我，他去告诉他的老板 Carl Silverman，说 Intel 刚刚让 IBM 签署了一份 Open IP 协议（他们认为这不可能发生）。但 Brian 一提到我的名字，Carl 就开始大喊。我想了想，告诉 Brian 那次高管 IP 会议、我的问题、Gordon Moore 的问题、Andy Grove 生气、Andy 的唾沫落到我笔记本上，以及第二天遇到 Stephen 的事。Carl 可能也在那场会议上……
 
 这组协议提供了条款和条件，使来自不同公司的技术团队能够正式开始共同开发短距离无线技术。此外，它还创建了一个会员框架，让 “Early Adopters” 也能帮助开发技术规范。由于市场团队还没有就 SIG 的正式名称达成一致，它就以代号 “Bluetooth” 成立了。
@@ -284,8 +275,6 @@ Simon 提出了 Intel 的提案 “RadioWire”，并解释为什么这是个很
 
 ![Image 10](https://lh3.googleusercontent.com/sitesv/AA5AbUB6VShxCIlzo8bEQH6heYnwTOBfqJ9ibA2g5eezX7YoCa5YCaVURA8neCt7S4Jd0vzo30CMFHEPewezDr4nIDoynFL5ME86fmKhJ6bx9QH7YbbGPfm_4HiG-mXzrw-wqfBEf9d4hvhoWT9J10UjoP_TtMA0MIpk8k1Q8Gd8tSJiJkwWSyXXnq7179O0xLM3hBHImdNCTNHl7b7DfLY=w1280)
 
-> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
-
 与此同时，LEGO 到美国与 Intel 进行技术讨论。在这次会议上，有人透露 Intel 正在开发多项无线技术，其中一项代号为 “Bluetooth”。LEGO 的代表相当惊讶，并表示加入并支持任何名为 “Bluetooth” 的开发项目，是他们的爱国义务！LEGO 总部位于丹麦；它们的总部距离耶灵原始 Harald Bluetooth 符文石大约 10 公里。
 
 既然 Simon 又开始和我说话了，我确实指出：Bluetooth 这个名字是我提交的，它也是我们将要公开发布时使用的 SIG 名称，因此我有权获得他承诺的 500 美元奖金。Simon 表示，我们是以代号发布，而不是以正式名称发布；他的奖金是给正式名称的（并且叫我不要抱太大希望）。
@@ -294,13 +283,9 @@ Simon 提出了 Intel 的提案 “RadioWire”，并解释为什么这是个很
 
 ![Image 11](https://lh3.googleusercontent.com/sitesv/AA5AbUBK77WeIehAWtCSJi8UuBw9eE7I74J28vS5Bfu3jrFnJ-dlzE7Kr7ANEvAOf1kSMvs42ZYRjs8a1t4IwjxfJ-SmfXi98GPlzcMLqQWQC_VIJEcoQQ4P-s81l-kgD9vLbfS0C-1a3-33QwKSfpMi5YzfmIqVWpyDbflHKVBHVDkUi5ozi2YU_EaFt5fA5EyQV9aXyXMugSjOQ3YUaOE=w1280)
 
-> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
-
 为了支持发布，市场团队希望给媒体提供一件纪念品，让他们记住这次活动。有人建议，我们应该发放一个迷你 Harald Bluetooth 符文石，也就是我们当时在幻灯片中描绘的那块石头（在上一篇文章中，我们展示了那块著名符文石的增强版，Harald 一手拿着一台笔记本电脑，另一手拿着一部手机）。大家同意了，于是 Anders Edlund（Ericsson Bluetooth Marketing）被交给了制作这些符文石纪念品的任务。我设想的是外面包着塑料的泡沫石块，正面印着 Harald 的图像；然而，Anders 让所有人都感到惊讶，因为他竟然真的把 Harald 的形象刻进了大约 6 英寸高的真花岗岩石头里！拥有一块这样的原始符文石纪念品是一种罕见的荣誉。
 
 ![Image 12](https://lh3.googleusercontent.com/sitesv/AA5AbUB8K1Q34goMNoLgKEFX9BDCFfIGNtNuBRL_BX4Yk7BkLi3k0941snoKBi3Ee-3oFqt_aI3xP4E9_dSJzLLRIBWNGcJI1r1KQrQzEN37E8ktwI0TskEbo5D036gYHxnqscWihVpyTL_u2bpaDSGogRmv7bb4YYjmBOrZTj6bmuwalCZ7S4h1zZwWsGSR4XCuU2lu2d1s-CpdaEcKcb0=w1280)
-
-> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
 
 5 月初，全球发布举行。Simon Ellis 和我参加了伦敦发布会（不过我在这里也包含了一组来自所有发布会的照片拼贴）。我们聘请来安排活动的公关机构叫 Edelman，活动前一天我们与他们会面。在这些会议上，我们发现 Edelman 的人对这次发布并不太满意。我最初把这归因于“PAN 改名事件”。不过，Edelman 的人非常明确地表达了他们的不满。第一，他们认为 Bluetooth 这个名字令人尴尬，并建议我们完全不要使用它。他们觉得媒体不会认真看待我们，而且它会让人联想到糟糕的牙齿卫生状况，而不是让人联想到酷设备以此前不可能的方式互动。第二，他们讨厌 Bluetooth 石头纪念品；这会让我们难以避免使用 Bluetooth 这个名字，而且他们觉得会出现很多关于 “Bluetooth will drop like a rock” 的标题，并配上那块臭名昭著符文石的图片。Simon 解释说，许多技术媒体已经听说过这个代号，不必太担心这个名字（他可能还提到 Edelman 还没有收到付款，而我们正在开支票）。
 
@@ -310,11 +295,7 @@ Simon 提出了 Intel 的提案 “RadioWire”，并解释为什么这是个很
 
 [![Image 13](https://lh3.googleusercontent.com/sitesv/AA5AbUBXr4TOLi91t2JfhxzthtDwdOHddUznKNOgH6crE_leqOGWnpgJmVE8PnBduM8b7rNR-Uju2BkFaP5FPH3nnKP1uTxwyuGQXWKW6TNZkvWmYeYhwEkZ8WIDewU1T0fz-Vu4DWPKY6AJdDg2roA7Sq0J9GuRLGgxvcSFAuqZTBLdptjoLWrvYNCLDPFlUX1u7vmQIXpo4aDG0Hu1=w1280)](https://www.youtube.com/watch?v=ivb-Ln6Sm3s&list=PL_fbfFWItJhOAF2HGJ5aLm_pCOpD2T_-d&index=5&t=0s)
 
-> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
-
 ![Image 14](https://lh3.googleusercontent.com/sitesv/AA5AbUBe8u-CQn5mt2O1MJYN54Ho5N3ZOVDkSwJ-hei5UIOIC_lvIKCz8E7Tha7btRPO_Eq8qfnXX6MM9BR71wIf3b62BiEHHp7AR27dM5hmTU3JRygEwc-lNBQEq8xJaBpCb_iG8Xvv9vrmFxq7FfGx9MnkeLOs6J0ZY0gOxk9rnmfXOh5qbchvBfmXnYSTD0B_FY_gxEH10gVCajjSvn8=w1280)
-
-> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
 
 SIG 以新的 Bluetooth 代号发布后，我收到了我的朋友 Sven Matthesson 的一封邮件。他告诉我，Ericsson 的 CEO 打电话给他，问这项技术为什么叫 Bluetooth，而他不知道该怎么回答。我提醒 Sven 多伦多那晚的事，当时他给我讲了《the Longboats》那本书的故事，而书中的丹麦国王名叫 Harald Bluetooth；我还说，当我回到家后，在我买的那本 *The Vikings* 中看到一张 Bluetooth 符文石的图片，我只是觉得它会成为一个很棒的代号。我还提醒他，虽然 IBM 提出了 PAN 这个名字，但他们从未对这个提案做过商标检索（而每个人都以为他们已经做过了商标检索）。
 
@@ -365,8 +346,6 @@ Sven 回复说：
 回到圣克拉拉后，我打算用这张质量更好的照片制作一个新的石头位图。所以我扫描了照片，并用高分辨率激光打印机把它打印出来。当我走进办公室时，电话响了，我把打印件放到桌上，接起电话。Jeff Schiffer 走进我的办公室；他负责过 SIG 的许多监管工作，处理安全、频谱和模块合规。他拿起照片，开始盯着它看。突然我听到 Jeff 说：“嘿，他的手掌上那些不是洞吗？”这立刻引起了我的注意。我一把抓过照片（一定还把电话掉到了地上），开始更仔细地检查图片。确实，他的手掌上有黑点。
 
 ![Image 15](https://lh3.googleusercontent.com/sitesv/AA5AbUDjPjEwuaXKVacVRV33zRbeFy1DOeaK168Z45oVu-yHaCBozNyzGFyDPvgo6HsYpyEa3P5jv4fcgJkd-eil--MSuWdMahS5mSoMjgkMGz3V_-sFR0SPHnnbE3xQwHRY2ESQkDz9Kd0Wq5wVkeOUQJhPJSr5MDPT811JpIyJdgtwJA0jtknc5b46KPkcbZZFfkjcg3xeq5dxO2js=w1280)
-
-> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
 
 又做了一点进一步调查后，我找到了新的参考资料，它们把这描述为基督的形象（我们一直对他头部周围的圆圈感到疑惑，现在这个谜团解开了）。后来，一位来自 Compaq computer 的朋友告诉 Simon 和我，哥本哈根博物馆里有一件 Harald Bluetooth 石的复制品，他们确实把这个图像称为基督。
 

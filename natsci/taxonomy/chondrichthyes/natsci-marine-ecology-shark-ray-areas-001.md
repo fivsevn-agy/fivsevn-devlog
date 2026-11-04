@@ -1,6 +1,6 @@
 ---
 id: "natsci-marine-ecology-shark-ray-areas-001"
-title: "澳大利亚被纳入全球鲨鱼与鳐类重要栖息地数据库"
+title: "◇ 澳大利亚的鲨鱼与鳐类重要栖息地"
 
 module: "natsci"
 submodule: "taxonomy"
@@ -31,8 +31,7 @@ original_title: "Australia added to global sharks and rays database"
 original_source: "Phys.org / Charles Darwin University"
 original_publisher: "Charles Darwin University / Phys.org"
 original_url: "https://phys.org/news/2026-03-australia-added-global-sharks-rays.html"
-translation_note: |
-  本文为原文内容的中文翻译，仅用于学习与知识整理。 原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+translation_note: "根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。"
 
 legacy:
   metadata:
@@ -40,24 +39,32 @@ legacy:
 
 created: "2026-03-14"
 updated: "2026-03-14"
-metadata_updated: "2026-10-13"
+metadata_updated: "2026-11-04"
 ---
 
-## 文章翻译
+# ◇ 澳大利亚的鲨鱼与鳐类重要栖息地
 
-### source
+<a id="文章翻译"></a>
 
-- [原文链接](https://phys.org/news/2026-03-australia-added-global-sharks-rays.html)
+<a id="澳大利亚被纳入全球鲨鱼与鳐类重要栖息地数据库"></a>
 
-### note
+<a id="source"></a>
 
-本文为原文内容的中文翻译，仅用于学习与知识整理。原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+SOURCE
+
+[Australia added to global sharks and rays database](https://phys.org/news/2026-03-australia-added-global-sharks-rays.html)
+
+Phys.org · Charles Darwin University
+
+<a id="note"></a>
+
+NOTE
+
+根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。
+
+<a id="正文"></a>
 
 ---
-
-## 正文
-
-# 澳大利亚被纳入全球鲨鱼与鳐类重要栖息地数据库
 
 在澳大利亚北部可以发现幼年的大齿锯鳐（Largetooth Sawfish）。
 图片来源：Peter Kyne
