@@ -744,6 +744,16 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
       box-sizing: border-box;
     }}
 
+    html, body {{
+      max-width: 100%;
+      overflow-x: clip;
+      overscroll-behavior-x: none;
+    }}
+
+    @supports not (overflow: clip) {{
+      html {{ overflow-x: hidden; }}
+    }}
+
     html {{
       font-size: 75%;
     }}
@@ -754,6 +764,7 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
       color: var(--text);
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
       line-height: 1.6;
+      overflow-wrap: anywhere;
     }}
 
     main {{
@@ -1095,7 +1106,9 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
         const margin = 16;
 
         if (linkRect.left < navRect.left + margin || linkRect.right > navRect.right - margin) {{
-          link.scrollIntoView({{ behavior: "smooth", block: "nearest", inline: "center" }});
+          const left = nav.scrollLeft + linkRect.left - navRect.left
+            - (nav.clientWidth - linkRect.width) / 2;
+          nav.scrollTo({{ left, behavior: "smooth" }});
         }}
       }};
 
