@@ -118,7 +118,7 @@ CCTV 影像   YouTube @57store.fivsevn → 57store Actions 同步 → 保存 CCT
 资料入口    intake/sources.md + config.yml → 定时抓取与组装 → intake 页面、llm-context.md
 ```
 
-- **翻译入口**：快捷指令取网页文本、拼提示词 → AI 按用户 `translate and post.md` 完成翻译、校验、入库与发布核验；快捷指令本身负责组装输入。[实际提示词与流程](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/blogops/docs/auto-translation-shortcut.md#7-实际发布提示词)在 devlog 维护，spec 翻译规范仅指导个人学习中的翻译方法。
+- **翻译入口**：快捷指令取网页文本、拼提示词 → AI 按用户 `translate and post.md` 完成翻译、校验、入库与发布核验；快捷指令本身负责组装输入。[快捷流程说明](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/blogops/docs/auto-translation-shortcut.md)在 devlog 维护，实际提示词由用户自行保存，不收录在仓库中。
 - **自动与手动目录**：posts、natsci、netcom 的文章列表由脚本生成；AI 话语分析 Case List 也由脚本生成；blogops 日志、now 近况手动维护。
 - **Posts 发布包**：正文为 `posts/YYYY/MM/文章编号/index.md`，配图、附件及专用脚本放在同一发布包的 `assets/`。AI 话语分析使用 `posts/ai-discourse-analysis/YYYY/MM/文章编号/`；`_drafts/` 保持草稿堆放方式。旧文章保留 `permalink`，文件整理不改变已发布网址。
 - **发布状态**：提交、构建、部署和线上核验分别确认；上传与重试规则见各仓库 README。
@@ -128,7 +128,7 @@ CCTV 影像   YouTube @57store.fivsevn → 57store Actions 同步 → 保存 CCT
 ## 5. 日常维护与 AI 协作
 
 - **查找顺序**：本总览定位板块与仓库 → 该仓库英文根 README 理解后台 → 中文操作 README 查发布步骤 → 当前源文件、脚本与工作流核对细节。历史日志与 `legacy/` 不替代现行规则。
-- **写作规范**：遵循 [metadata](https://github.com/fivsevn-agy/fivsevn-spec/blob/main/content/spec-content-frontmatter-001.md)、[个人学习用 AI 翻译指导](https://github.com/fivsevn-agy/fivsevn-spec/blob/main/content/spec-content-translation-001.md)与[提交规范](https://github.com/fivsevn-agy/fivsevn-spec/blob/main/gov/spec-commit-message-001.md)。ChatGPT 撰写的指导笔记沿用“ChatGPT 写给五月七日的……”命名，保留具体主题。
+- **写作规范**：遵循 [metadata](https://github.com/fivsevn-agy/fivsevn-spec/blob/main/content/spec-content-frontmatter-001.md)、[AI 翻译规范](https://github.com/fivsevn-agy/fivsevn-spec/blob/main/content/spec-content-translation-001.md)与[提交规范](https://github.com/fivsevn-agy/fivsevn-spec/blob/main/gov/spec-commit-message-001.md)。ChatGPT 撰写的指导笔记沿用“ChatGPT 写给五月七日的……”命名，保留具体主题。
 - **修改边界**：改说明不等于改脚本；改文章通常保留文件名、`id` 与原始日期，不手改自动生成的列表。维护操作不要夹带一次新发文。
 - **公开与授权**：`_drafts`、`hidden`、`private` 等名称或字段不等于访问控制；私密材料另存于权限确认的私密位置。引用、译文与媒体按来源授权和相应 LICENSE 处理。
 - **视觉风格**：保留深色、低饱和、代码／界面式表达，以及时间线、手机聊天、观察窗口、照片集等板块差异；不为统一结构而统一所有页面版式。

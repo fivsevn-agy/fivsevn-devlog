@@ -62,8 +62,6 @@ NOTE
 
 根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。
 
-> 部分图片引用原文远程资源；若无法显示，请访问原文。
-
 <a id="正文"></a>
 
 ---
@@ -131,3 +129,5 @@ NOTE
 然而，随着神经科学和 AI 领域的发展，二者都正在收敛到同一个教训：当我们判断某个事物是否有意识时，它如何运作正在被证明比它做了什么更有信息量。
 
 ![Image 1: The Conversation](https://counter.theconversation.com/content/269803/count.gif?distributor=republish-lightbox-advanced)
+
+> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。

@@ -116,6 +116,8 @@ von Foerster 在[《时代》的报道](https://time.com/archive/6647875/science
 
 ![Image 1: Late physicist Heinz von Foerster predicted back in 1960 that the world would end in 2026. At the start of 2025, the "Doomsday Clock" moved another second towards "midnight," which would mean the destruction of humanity.]({{ '/posts/2026/06/posts-news-doomsday-prediction-001/assets/image-01.jpg' | relative_url }})
 
+图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
+
 ## 什么是“末日时钟”？
 
 按照 2025 年初那次令人不安的[“末日时钟”](https://thebulletin.org/doomsday-clock/)重设，人类正处在迄今最接近自我毁灭的位置。

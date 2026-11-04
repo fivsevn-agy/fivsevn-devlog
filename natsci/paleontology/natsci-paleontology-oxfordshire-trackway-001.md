@@ -58,8 +58,6 @@ NOTE
 
 根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。
 
-> 部分图片引用原文远程资源；若无法显示，请访问原文。
-
 <a id="正文"></a>
 
 ---
@@ -67,6 +65,8 @@ NOTE
 研究著名牛津郡“恐龙高速公路”的科学家宣布，其中一条巨型足迹道可能代表着世界任何地方发现的已知最长蜥脚类恐龙足迹道。这一非凡的连续足迹发现于 Dewars Farm Quarry，可能是一头单独的 Cetiosaurus 在约 1.66 亿年前漫步穿过侏罗纪泥滩时留下的。
 
 [![Image 7: Dewars Farm Quarry excavation work.](https://blog.everythingdinosaur.com/wp-content/uploads/2025/01/Birmingham-dinosaur-tracks-dewars-farm-1.jpg)](http://blog.everythingdinosaur.com/wp-content/uploads/2025/01/Birmingham-dinosaur-tracks-dewars-farm-1.jpg)
+
+> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
 
 _2024 年 6 月正在进行的 Dewars Farm Quarry 发掘工作。图片来源：伯明翰大学。_
 
@@ -80,6 +80,8 @@ _图片来源：伯明翰大学_
 
 [![Image 8: Working on the Dewars Farm Quarry dinosaur tracks.](https://blog.everythingdinosaur.com/wp-content/uploads/2025/01/Birmingham-dinosaur-tracks-wood.jpg)](http://blog.everythingdinosaur.com/wp-content/uploads/2025/01/Birmingham-dinosaur-tracks-wood.jpg)
 
+> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
+
 _在 Dewars Farm Quarry 的恐龙足迹上开展工作。图片来源：Caroline Wood，牛津大学。_
 
 _图片来源：Caroline Wood，牛津大学_
@@ -92,6 +94,8 @@ Cetiosaurus 生活在中侏罗世。它的体长约可达 18 米，体重达许�
 
 [![Image 9: Cetiosaurus fossils on display.](https://blog.everythingdinosaur.com/wp-content/uploads/2025/01/Cetiosaurus-fossils-on-display-OUMNH.jpg)](http://blog.everythingdinosaur.com/wp-content/uploads/2025/01/Cetiosaurus-fossils-on-display-OUMNH.jpg)
 
+> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
+
 _牛津大学自然史博物馆（OUMNH）展出的归入 Cetiosaurus 分类单元的化石。图片来源：Everything Dinosaur。_
 
 _图片来源：Everything Dinosaur_
@@ -103,6 +107,8 @@ _图片来源：Everything Dinosaur_
 足迹道提供了不同于化石骨骼的证据。骨骼揭示解剖结构。然而，脚印捕捉的是行为。它们显示了恐龙如何移动，以及它们如何与环境互动。利用现代成像技术，研究人员已经创建了这条足迹道的详细三维模型。因此，科学家可以估算行走速度，并研究这种动物的步态。牛津郡足迹道代表着英国数十年来最重要的恐龙发现之一。此外，它们为中侏罗世生命提供了一幅罕见的瞬间画面。
 
 [![Image 10: Jurassic dinosaurs. A typical sauropod dinosaur.](https://blog.everythingdinosaur.com/wp-content/uploads/2015/06/Primitive-sauropod-Cetiosaurus.jpg)](http://blog.everythingdinosaur.com/wp-content/uploads/2015/06/Primitive-sauropod-Cetiosaurus.jpg)
+
+> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
 
 _一幅中侏罗世典型蜥脚类恐龙（Cetiosaurus）的复原图。人们认为，牛津郡“恐龙高速公路”由 Cetiosaurus 或类似 Cetiosaurus 的蜥脚类恐龙造成。图片来源：Everything Dinosaur。_
 

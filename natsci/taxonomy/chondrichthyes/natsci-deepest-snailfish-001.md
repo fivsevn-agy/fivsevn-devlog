@@ -58,8 +58,6 @@ NOTE
 
 根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。
 
-> 部分图片引用原文远程资源；若无法显示，请访问原文。
-
 ---
 
 作者：Chris Lau
@@ -87,6 +85,8 @@ NOTE
 “重要之处在于，它显示了某一种鱼类会下潜到海洋中的多深处，”海洋生物学家 Alan Jamieson 说。他是 Minderoo-UWA Deep Sea Research Centre 的创始人，并领导了这次考察。
 
 ![Image 21: These two fish were caught at a depth of just over 8,000 meters in the Japan Trench in the northern Pacific Ocean. ](https://media.cnn.com/api/v1/images/stellar/prod/230403124413-02-snailfish.jpg?c=original&q=w_1093,c_fill)
+
+图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
 
 这两条鱼是在北太平洋日本海沟中略超过 8,000 米的深度捕获的。
 

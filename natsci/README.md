@@ -92,7 +92,7 @@ fivsevn-devlog/natsci/
 ### 新建译文
 
 - 分享原文网址 → 运行 [`translate & post`](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/blogops/docs/auto-translation-shortcut.md) → 把提示词文件交给 AI → 按实际 `translate and post.md` 完成翻译、校验、自动入库与发布；发布受阻时交付完整文件并说明停点。
-- 使用 `module: natsci`、`type: translation`、`source_of_truth: translation`，保留原文链接；页面标题使用 `◇ 概括性中文标题`，接普通文本标签 SOURCE、NOTE，再进入完整逐段译文。翻译质量详见[个人学习用 AI 翻译指导](https://github.com/fivsevn-agy/fivsevn-spec/blob/main/content/spec-content-translation-001.md)。
+- 使用 `module: natsci`、`type: translation`、`source_of_truth: translation`，保留原文链接；页面标题使用 `◇ 概括性中文标题`，接普通文本标签 SOURCE、NOTE，随后接文章内容。实际提示词由用户自行保存，不收录在仓库中。
 
 > 快捷指令将网址交给 Jina Reader → 获取网页 Markdown → 拼入翻译要求和规范链接 → 生成日期命名的提示词文件。AI 按实际提示词完成翻译与发布；快捷指令本身负责组装输入。
 

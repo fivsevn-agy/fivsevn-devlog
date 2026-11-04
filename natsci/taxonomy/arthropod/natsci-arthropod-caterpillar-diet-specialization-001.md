@@ -62,8 +62,6 @@ NOTE
 
 根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。
 
-> 部分图片引用原文远程资源；若无法显示，请访问原文。
-
 <a id="正文"></a>
 
 ---
@@ -75,6 +73,8 @@ NOTE
 编辑：Gaby Clark，审核：Robert Egan
 
 ![Image: butterfly caterpillar eating](https://scx1.b-cdn.net/csz/news/800a/2026/butterfly-caterpillar.jpg)
+
+> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
 
 图片来源：Satheesh Cholakkal，Pexels
 

@@ -62,14 +62,13 @@ NOTE
 
 根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。
 
-> 部分图片引用原文远程资源；若无法显示，请访问原文。
-
 <a id="正文"></a>
 
 ---
 
 ![Bright pink insect stands out to blend in, scientists say](https://scx1.b-cdn.net/csz/news/800a/2026/bright-pink-insect-sta-1.jpg)  
 
+> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
 Arota festae 在变色之前。图片来源：圣安德鲁斯大学、雷丁大学、史密森热带研究所、阿姆斯特丹大学。
 
 一种热带昆虫被发现能够在两周内从鲜艳的亮粉色变为绿色。科学家认为，这种变化可能是在模拟雨林植物的新叶。研究结果本周发表在期刊 _Ecology_ 上，研究对象是 **Arota festae**——一种伪装成树叶的螽斯（也称为“bush cricket”），原产于巴拿马、哥伦比亚和苏里南。
@@ -88,6 +87,7 @@ Arota festae 在变色之前。图片来源：圣安德鲁斯大学、雷丁大�
 
 ![Bright pink insect stands out to blend in, scientists say](https://scx1.b-cdn.net/csz/news/800a/2026/bright-pink-insect-sta.jpg)  
 
+> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
 变色后的绿色 Arota festae。图片来源：圣安德鲁斯大学、雷丁大学、史密森热带研究所、阿姆斯特丹大学。
 
 研究团队在人工饲养条件下观察了这只个体 30 天，并每天拍照记录。亮粉色在四天后逐渐变成淡粉色，而在第十一天时，它已经与常见的绿色型完全无法区分。
