@@ -9,7 +9,6 @@ from unittest.mock import Mock, patch
 
 import feedparser
 import requests
-import yaml
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "intake"))
@@ -231,8 +230,7 @@ class BuildTests(unittest.TestCase):
                 fetch.assert_not_called()
 
     def test_full_registry_offline_generation_is_consistent(self):
-        base = yaml.safe_load((ROOT / "intake/feeds.yml").read_text())
-        config = build.build_config_from_sources_markdown(base, (ROOT / "intake/sources.md").read_text())
+        config = build.load_config()
         with patch.object(build.requests, "get", return_value=response()), patch("builtins.print"):
             data = {key: build.build_section(key, section, config) for key, section in config["sections"].items()}
         deduplicate_sections(data)

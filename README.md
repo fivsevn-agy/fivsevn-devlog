@@ -21,7 +21,7 @@ audience:
 - self
 - internal
 languages:
-- en
+- zh
 
 maturity: evolving
 confidence: null
@@ -38,41 +38,24 @@ metadata_updated: '2026-11-01'
 
 # fivsevn-devlog
 
-Content and build source for [devlog.fivsevn.com](https://devlog.fivsevn.com/). Jekyll renders the note modules; a Python build overlays Fieldlog's static pages into the same GitHub Pages artifact.
+[devlog.fivsevn.com](https://devlog.fivsevn.com/) 的内容与发布仓库。
 
-## Content and publishing
-
-| Path | Responsibility |
+| 目录 | 用途 |
 |---|---|
-| `index.md` | Homepage artwork and links |
-| `posts/`, `natsci/`, `netcom/` | Markdown notes, translations and generated module directories |
-| `natsci/fieldlog/` | Dated Fieldlog packages, image upload entry, publishing state and [guide](natsci/fieldlog/README.md) |
-| `intake/` | News intake sources, generated intake page and its validation |
-| `blogops/` | Manually maintained blog operations records |
-| `now/`, `system-map.md` | Current state and repository map |
-| `stills/`, `motion/`, `savour/` | Entry guides to the repositories that own those boards |
-| `scripts/`, `schemas/`, `tests/` | Build tools, shared metadata copies and checks |
+| [posts](posts/README.md) | 年月发布包：文章、译文、AI 话语分析及随文素材 |
+| [natsci](natsci/README.md)、[netcom](netcom/README.md) | 按主题整理的自然科学、通信与工程笔记 |
+| [Fieldlog](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/natsci/fieldlog/README.md) | 自然观察图片与配文 |
+| [intake](intake/README.md) | 信息来源清单与定时阅读页 |
+| [blogops](blogops/README.md)、[now](now/README.md) | 手动维护的后台日志与近况 |
+| `scripts/`、`schemas/`、`tests/` | 构建、共享规范副本与检查 |
 
-Edit notes in their module and push to `main`. First-level `_drafts/` notes are handled by the existing metadata completion workflow and do not independently trigger a deployment. The module-index updater preserves its declared manual sections. Do not use it to rewrite the operations log.
+修改内容后推送到 `main`，在 [Actions](https://github.com/fivsevn-agy/fivsevn-devlog/actions) 查看发布结果。文章目录自动生成；草稿放在各模块的 `_drafts/`，已有草稿资料保持原样。
 
-Fieldlog uploads go to `natsci/fieldlog/trigger_imgs/`. Each input becomes one editable package with optional commit-description text. The importer saves a WebP with the shared media name and retains event state to prevent duplicate posts. Saved Fieldlog titles, captions and publication controls can be edited in `index.md`.
+## Actions
 
-## Build and Actions
+- `Build and deploy devlog`：更新目录，构建文章与 Fieldlog，部署 Pages，核验后清理已发布的上传原图。
+- `Build Intake Page`：定时或在来源配置变化后生成阅读页，完成后触发网站部署。
+- `Apply Draft Frontmatter`：为新草稿补资料。
+- `Check document metadata`、`Check Intake Integrity`：检查资料与来源结构。
 
-`Build and deploy devlog` checks out current main and the authoritative spec, normalizes and validates Fieldlog, imports pending uploads, refreshes module directories, runs Jekyll, overlays Fieldlog, and verifies source and generated links. It saves generated content and state together, deploys through GitHub Pages, verifies public entry points and image bytes, then clears only verified inbox originals.
-
-The intake workflow builds its own page and triggers a Pages rebuild after a successful run. The draft, intake and metadata workflows have separate responsibilities and remain active. Pages uses `_config.yml`, the existing layouts, and the custom domain in `CNAME`; Fieldlog must not disable Jekyll for the note modules.
-
-```sh
-python -m pip install -r scripts/requirements-fieldlog.txt
-python -m unittest discover -s tests -v
-python -m unittest discover -s scripts -p 'test_fieldlog*.py' -v
-python scripts/site_post_metadata.py check --site fieldlog --root natsci/fieldlog --schema-dir schemas
-python scripts/media_naming.py check --site fieldlog --root natsci/fieldlog
-python scripts/build_fieldlog.py
-python scripts/build_fieldlog.py --check
-```
-
-The full Jekyll artifact is built and checked by Actions. `scripts/check_devlog_site.py` checks the combined website; `scripts/verify_fieldlog_live.py` compares Fieldlog's deployment receipt with the public pages and media.
-
-The [spec repository](https://github.com/fivsevn-agy/fivsevn-spec) defines common frontmatter, the site-post profile and publication media names. Local helper/schema copies keep content checks offline. Keep IDs and publication instants stable when editing saved packages; hidden and draft packages are omitted from public output.
+[系统总览](system-map.md) · [共享规范](https://github.com/fivsevn-agy/fivsevn-spec)

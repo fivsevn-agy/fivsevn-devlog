@@ -1,0 +1,101 @@
+disabled_feeds:
+- authority_level: community
+  feed_url: https://contexts.org/feed/
+  former_section: human_societies
+  name: Contexts
+  professional_value: 1
+  reason: 'Quarantined: rendered intake page shows repeated casino/gambling spam from
+    this feed. Re-enable only after the upstream feed is clean or a keyword/domain
+    filter is added.'
+  reliability_score: 1
+  site_url: https://contexts.org/
+  source_type: newspaper_magazine
+  use_role: quarantine
+site:
+  title: Today’s Arrival
+  title_zh: 本日入荷
+widgets:
+  daily_field_sample:
+    title: Daily Field Sample
+    title_zh: 今日野采样本
+  postcard:
+    title: postcard
+    title_zh: 明信片
+display:
+  default_source_cap: 4
+  max_items_per_section: 12
+  section_caps:
+    ai_systems: 12
+    animal_behavior: 8
+    architecture_urbanism: 10
+    arthropods: 8
+    arts_design: 10
+    books: 10
+    civilizational_critique: 8
+    computing_cultures: 10
+    cybernetics_automation: 10
+    ecology_conservation: 10
+    energy_resources: 10
+    everyday_carry: 8
+    fashion_style: 10
+    field_gear: 10
+    film_moving_image: 10
+    food_agriculture_markets: 10
+    games: 10
+    hardware_radio_embedded: 12
+    housing_living_costs: 8
+    human_societies: 10
+    industry_business: 10
+    interfaces_media_technology: 10
+    marine_life: 12
+    mind: 8
+    mollusks: 8
+    money_finance: 8
+    music_sound: 10
+    natural_history: 10
+    photography: 6
+    plants_fungi: 8
+    platforms_infrastructure: 10
+    prices_markets: 12
+    public_ideas: 10
+    repair_maintenance: 8
+    research: 14
+    scholarly_ideas: 10
+    science_news: 12
+    supply_chains_trade: 10
+    technology_politics: 10
+    tools_workshop: 10
+    world_society: 18
+  source_caps:
+    APA News: 3
+    ARTnews: 3
+    Al Jazeera: 5
+    ArchDaily: 3
+    BLADE Magazine Knife News: 2
+    Carryology: 3
+    Core77: 3
+    DW News: 5
+    Dezeen: 3
+    Gear Patrol: 3
+    Hackaday: 3
+    Highsnobiety: 4
+    Hypebeast: 4
+    Hyperallergic: 3
+    Internet Archive Blog: 3
+    Internet Archive Books: 3
+    KnifeNews: 2
+    'Make:': 3
+    Mongabay Animal Behavior: 3
+    Mongabay Biodiversity: 3
+    Mongabay Conservation: 3
+    Nautilus: 3
+    PC Gamer: 3
+    Pitchfork Album Reviews: 3
+    Resident Advisor: 3
+    The Art Newspaper: 3
+    The Guardian World: 5
+    The Hedgehog Review: 3
+    The Marginalian: 3
+    The Point: 3
+    Vogue: 4
+    Yale Environment 360: 3
