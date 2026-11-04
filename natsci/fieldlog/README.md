@@ -19,8 +19,8 @@ visibility: public
 source_of_truth: devlog
 filename_policy: entrypoint
 created: '2026-10-30'
-updated: '2026-11-01'
-metadata_updated: '2026-11-01'
+updated: '2026-11-05'
+metadata_updated: '2026-11-05'
 ---
 
 # Fieldlog
@@ -62,12 +62,12 @@ _site/natsci/fieldlog/              Generated deployment artifact
 
 ## 发布图片
 
-1. 从 Working Copy 或手机快捷指令上传前，先拉取最新 `main`；网页上传可使用[图片上传页](https://github.com/fivsevn-agy/fivsevn-devlog/upload/main/natsci/fieldlog/trigger_imgs)。
+1. 推荐网页或直接调用 GitHub 的快捷指令上传；网页可使用[图片上传页](https://github.com/fivsevn-agy/fivsevn-devlog/upload/main/natsci/fieldlog/trigger_imgs)。
 2. 把一张或多张照片保存到 `natsci/fieldlog/trigger_imgs/`，保留原文件名。
 3. 提交摘要用作操作名称；需要公开的 Markdown 配文写在摘要下方的 **详细说明（extended description）** 中。留空则只发图片。
 4. 提交并推送到 `main`，等待[发布任务](https://github.com/fivsevn-agy/fivsevn-devlog/actions)成功，再检查[列表页](https://devlog.fivsevn.com/natsci/fieldlog/)和单帖页面。
 
-Working Copy 和手机快捷指令使用 **fivsevn-agy/fivsevn-devlog**、上述图片入口及 `main` 分支。发布机器人会把发布包、状态和已验证的入口清理写成新提交；下一次上传前先拉取这些提交。
+快捷指令使用 **fivsevn-agy/fivsevn-devlog**、上述图片入口及 GitHub 当前的 `main`。历史清理会更新版本编号；旧 Working Copy 副本请重新克隆，不要合并旧历史。GitHub 的只读 PR 引用和服务端对象保留由平台管理。
 
 每张图片独立成帖，同一次提交的图片共用详细说明中的配文。上传时只需照片和可选配文，共享 metadata 由导入脚本自动补齐。
 
@@ -88,7 +88,7 @@ Working Copy 和手机快捷指令使用 **fivsevn-agy/fivsevn-devlog**、上述
 
 | 输入 | 归档方式 |
 | --- | --- |
-| JPEG、HEIC/HEIF 照片 | 质量 85 的 WebP；保留原显示尺寸，校正方向，保留 ICC 色彩配置和适用的 EXIF 资料 |
+| JPEG、HEIC/HEIF 照片 | 质量 95、method 6 的 WebP；不缩放，保留原显示尺寸，校正方向，保留 ICC 色彩配置和适用的 EXIF 资料 |
 | PNG 图形 | 无损 WebP，保留透明度和动画时间 |
 | GIF 动画 | 无损动画 WebP，保留帧、时间、透明度和循环方式 |
 | 已有 WebP | 校验后逐字节保留 |
@@ -97,7 +97,7 @@ MPO、HEIF 使用主显示照片，手机的辅助帧不会变成动画帧。归
 
 `normalize_fieldlog_images.py` 也会处理直接存入发布包的图片，包括隐藏帖、草稿和帖子当前未选用的图片。脚本先校验整批文件，暂存 WebP，更新 `extra.image` 及相应上传记录，再统一替换旧格式文件。整批失败时恢复原文件和 metadata；归档已经全部为 WebP 时，重跑不会改文件。
 
-当前内容树只保存 WebP 归档，没有另外保留 JPEG、PNG、HEIC 或 GIF 原件。入口原图临时保留到线上校验成功，早期原格式仍可从 Git 历史找回；转换不改变帖子 ID、网址、观察日期或配文。
+当前内容树只保存 WebP 归档。线上核验并清理入口后，流程会清理 Fieldlog 旧格式图片的 `main` 历史并同步发布游标；有待处理输入或并发提交时延后。原件请另存仓库外，上传前先拉取最新 `main`。转换不改变帖子 ID、网址、观察日期或配文。
 
 界面中的 `OBS-…_raw.tif` 是虚拟标本文件名，实际显示的图片由 `extra.image` 指定，格式为 WebP。
 

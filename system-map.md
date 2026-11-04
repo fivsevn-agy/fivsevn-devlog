@@ -29,8 +29,8 @@ source_of_truth: "devlog"
 note: "未记录原始写作日期；created 为本路径首次 Git 记录日期，无法合理确定时留空。"
 
 created: "2026-06-18"
-updated: '2026-11-04'
-metadata_updated: '2026-11-01'
+updated: '2026-11-05'
+metadata_updated: '2026-11-05'
 ---
 # fivsevn 系统总览
 
@@ -70,7 +70,7 @@ fivsevn-devlog/             主要目录与文件
 | **savour** | [吃喝记录](https://savour.fivsevn.com/)，每张照片一帖，以手机聊天界面展示 | [图片发布](https://github.com/fivsevn/fivsevn-savour/blob/main/trigger_imgs/README.md) | [根 README](https://github.com/fivsevn/fivsevn-savour/blob/main/README.md) |
 | **natsci** | [Fieldlog 自然观察影像](https://devlog.fivsevn.com/natsci/fieldlog/)；[devlog 自然科学长文](https://devlog.fivsevn.com/natsci/) | [笔记](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/natsci/README.md) · [Fieldlog 图片入口](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/natsci/fieldlog/trigger_imgs/README.md) | [根 README](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/README.md) |
 | **netcom** | [通信、计算机与工程笔记](https://devlog.fivsevn.com/netcom/)，目前只有 devlog 长文 | [netcom README](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/netcom/README.md) | [根 README](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/README.md) |
-| **stills** | [摄影作品集](https://roll.fivsevn.com/stills/)，一次推送发布一组；[Bygone](https://roll.fivsevn.com/stills/bygone/)为独立照片集合 | [作品集与 Bygone](https://github.com/fivsevn/fivsevn-roll/blob/main/stills/README.md) · [上传入口](https://github.com/fivsevn/fivsevn-roll/blob/main/stills/trigger_imgs/README.md) | [根 README](https://github.com/fivsevn/fivsevn-roll/blob/main/README.md) |
+| **stills** | [摄影作品集](https://roll.fivsevn.com/stills/)，一次推送发布一组；[Bygone](https://roll.fivsevn.com/stills/bygone/)为独立照片集合 | [作品集与 Bygone](https://github.com/fivsevn/fivsevn-roll/blob/main/stills/README.md) · [影集上传](https://github.com/fivsevn/fivsevn-roll/blob/main/stills/trigger_imgs/README.md) · [Bygone 上传](https://github.com/fivsevn/fivsevn-roll/blob/main/stills/bygone/trigger_img/README.md) | [根 README](https://github.com/fivsevn/fivsevn-roll/blob/main/README.md) |
 | **motion** | [视频作品](https://roll.fivsevn.com/motion/)，YouTube 托管，roll 定时同步 | [视频发布与同步](https://github.com/fivsevn/fivsevn-roll/blob/main/motion/README.md) | [根 README](https://github.com/fivsevn/fivsevn-roll/blob/main/README.md) |
 | **57store** | [叙事站点](https://57store.fivsevn.com/)，含 SYS、CCTV、Cache 和 Fragment | [SYS](https://github.com/fivsevn/fivsevn-57store/blob/main/sys/README.md) · [CCTV](https://github.com/fivsevn/fivsevn-57store/blob/main/cctv/README.md) · [Cache](https://github.com/fivsevn/fivsevn-57store/blob/main/cache/README.md) · [Fragment](https://github.com/fivsevn/fivsevn-57store/blob/main/fragment/README.md) | [根 README](https://github.com/fivsevn/fivsevn-57store/blob/main/README.md) |
 | **blogops** | [后台日志](https://devlog.fivsevn.com/blogops/)，手动记录系统调整，保存维护说明 | [blogops README](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/blogops/README.md) | [根 README](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/README.md) |
@@ -108,7 +108,7 @@ fivsevn-devlog/             主要目录与文件
 随手图片    flux/trigger_imgs/ → 提交并推送 → 转 WebP、每图建帖、部署与核验
 吃喝图片    savour/trigger_imgs/ → 提交并推送 → 转 WebP、每图建帖、部署与核验
 自然观察    devlog/natsci/fieldlog/trigger_imgs/ → 提交并推送 → 转 WebP、每图建帖、部署与核验
-老照片      roll/stills/bygone/ → 集合编排 → Actions 构建
+老照片      roll/stills/bygone/trigger_img/ → 自动命名、转 WebP → 加入集合、部署与核验
 摄影作品集  roll/stills/trigger_imgs/ → 一次推送一组 → Actions 发布
 视频作品    YouTube @fivsevn 公开上传列表 → roll Actions 检查全部条目 → 保存影像帖
 SYS 终端日志 57store/sys/trigger.md → 提交正文 → 保存年月发布包 → 57store Pages

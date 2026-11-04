@@ -103,15 +103,73 @@ class FieldlogUploadTests(unittest.TestCase):
         self.assertEqual(len(read_state(self.root)['events']), 2)
 
     def test_invalid_batch_does_not_install_valid_sibling_or_advance_cursor(self):
-        self.upload('good.jpg')
+        good = self.upload('good.jpg')
         bad = self.root / INBOX / 'invalid.jpg'
         bad.write_bytes(b'not an image')
         self.commit('Upload valid and damaged images together')
         state = (self.root / STATE_PATH).read_bytes()
+        originals = {path: path.read_bytes() for path in [good, bad]}
         with self.assertRaises(ValueError):
             ingest(self.root)
         self.assertEqual(self.posts(), [])
         self.assertEqual((self.root / STATE_PATH).read_bytes(), state)
+        self.assertEqual({path: path.read_bytes() for path in originals}, originals)
+
+    def test_mixed_uploads_archive_webp_without_losing_image_properties_or_originals(self):
+        def encoded(image, fmt, **options):
+            stream = BytesIO()
+            image.save(stream, fmt, **options)
+            return stream.getvalue()
+
+        transparent = Image.new('RGBA', (3, 1))
+        transparent.putdata([(255, 0, 0, 255), (11, 22, 33, 127), (90, 80, 70, 0)])
+        photo = Image.new('RGB', (24, 18), 'red')
+        exif = photo.getexif()
+        exif[274] = 6
+        exif[315] = 'Fieldlog'
+        uploads = {
+            '透明.PNG': encoded(transparent, 'PNG'),
+            'animation.gif': encoded(Image.new('RGB', (4, 3), 'red'), 'GIF', save_all=True,
+                                     append_images=[Image.new('RGB', (4, 3), 'blue')],
+                                     duration=[100, 240], loop=2),
+            'phone.JPG': encoded(photo, 'JPEG', exif=exif, icc_profile=b'Fieldlog ICC profile'),
+            'existing.webp': encoded(Image.new('RGB', (17, 11), 'green'), 'WEBP', quality=91),
+        }
+        inbox = self.root / INBOX
+        inbox.mkdir(parents=True)
+        for name, data in uploads.items():
+            (inbox / name).write_bytes(data)
+        self.commit('Upload mixed formats together')
+        self.assertEqual(ingest(self.root), len(uploads))
+        events = {Path(event['upload_path']).name: event for event in read_state(self.root)['events'].values()}
+        self.assertEqual(set(events), set(uploads))
+        for name, event in events.items():
+            saved = self.root / event['image_path']
+            self.assertEqual(saved.suffix, '.webp')
+            self.assertEqual((inbox / name).read_bytes(), uploads[name])
+            with Image.open(saved) as image:
+                self.assertEqual(image.format, 'WEBP')
+                if name == '透明.PNG':
+                    self.assertEqual(image.size, (3, 1))
+                    self.assertEqual(image.convert('RGBA').tobytes(), transparent.tobytes())
+                elif name == 'animation.gif':
+                    self.assertEqual(image.size, (4, 3))
+                    self.assertEqual(image.n_frames, 2)
+                    self.assertEqual(image.info['loop'], 3)
+                    for frame, duration in enumerate([100, 240]):
+                        image.seek(frame)
+                        image.load()
+                        self.assertEqual(image.info['duration'], duration)
+                elif name == 'phone.JPG':
+                    self.assertEqual(image.size, (18, 24))
+                    self.assertIsNone(image.getexif().get(274))
+                    self.assertEqual(image.getexif().get(315), 'Fieldlog')
+                    self.assertEqual(image.info['icc_profile'], b'Fieldlog ICC profile')
+                else:
+                    self.assertEqual(image.size, (17, 11))
+                    self.assertEqual(saved.read_bytes(), uploads[name])
+        self.assertEqual(ingest(self.root), 0)
+        self.assertEqual(len(self.posts()), len(uploads))
 
     def test_superseded_invalid_upload_can_be_repaired(self):
         path = self.root / INBOX / 'fixed.jpg'

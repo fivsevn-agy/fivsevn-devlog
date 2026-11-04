@@ -58,7 +58,7 @@ Content and build source for [devlog.fivsevn.com](https://devlog.fivsevn.com/). 
 
 Edit notes in their module and push to `main`. First-level `_drafts/` notes are handled by the existing metadata completion workflow and do not independently trigger a deployment. The module-index updater preserves its declared manual sections. Do not use it to rewrite the operations log.
 
-Fieldlog uploads go to `natsci/fieldlog/trigger_imgs/`. Each input becomes one editable package with optional commit-description text. The importer saves a WebP with the shared media name and retains event state to prevent duplicate posts. Saved Fieldlog titles, captions and publication controls can be edited in `index.md`.
+Fieldlog uploads go to `natsci/fieldlog/trigger_imgs/`. Each input becomes one editable package with optional commit-description text. The importer saves a WebP with the shared media name and retains event state to prevent duplicate posts. Saved Fieldlog titles, captions and publication controls can be edited in `index.md`. After verified publication, converted Fieldlog originals are removed from `main` history. Use GitHub uploads or a direct API shortcut; re-clone old local checkouts after compaction rather than merging old history.
 
 ## Build and Actions
 

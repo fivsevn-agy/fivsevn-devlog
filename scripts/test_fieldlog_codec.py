@@ -64,6 +64,19 @@ class CodecTests(unittest.TestCase):
         with Image.open(BytesIO(convert_image(source, "once.gif"))) as saved:
             self.assertEqual(saved.info["loop"], 1)
 
+    def test_explicit_zero_duration_gif_frame_is_not_replaced_with_a_delay(self):
+        source = encoded(Image.new("RGB", (4, 3), "red"), "GIF", save_all=True,
+                         append_images=[Image.new("RGB", (4, 3), "blue")],
+                         duration=[0, 240], loop=0, disposal=2)
+        with Image.open(BytesIO(source)) as original:
+            self.assertEqual(original.info["duration"], 0)
+        with Image.open(BytesIO(convert_image(source, "zero-delay.gif"))) as saved:
+            self.assertEqual(saved.n_frames, 2)
+            for number, duration in enumerate([0, 240]):
+                saved.seek(number)
+                saved.load()
+                self.assertEqual(saved.info["duration"], duration)
+
     def test_apng_default_poster_is_not_an_extra_animation_frame(self):
         source = encoded(Image.new("RGBA", (4, 3), "green"), "PNG", save_all=True,
                          append_images=[Image.new("RGBA", (4, 3), "red"), Image.new("RGBA", (4, 3), "blue")],

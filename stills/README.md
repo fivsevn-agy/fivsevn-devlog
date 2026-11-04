@@ -32,8 +32,8 @@ source_of_truth: devlog
 filename_policy: entrypoint
 
 created: '2026-10-13'
-updated: '2026-11-01'
-metadata_updated: '2026-11-01'
+updated: '2026-11-05'
+metadata_updated: '2026-11-05'
 ---
 
 # stills 发布
@@ -42,5 +42,6 @@ metadata_updated: '2026-11-01'
 
 - [页面](https://roll.fivsevn.com/stills/)
 - [发布与修改](https://github.com/fivsevn/fivsevn-roll/blob/main/stills/README.md)
+- [Bygone 旧照上传](https://github.com/fivsevn/fivsevn-roll/blob/main/stills/bygone/trigger_img/README.md)
 
 此目录保留入口说明，发布请在 roll 仓库操作。

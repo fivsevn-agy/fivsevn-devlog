@@ -1,7 +1,7 @@
 """Validate uploads and normalize saved photographs to WebP.
 
 The policy follows the existing Flux and Savour archives: keep existing WebP bytes, encode photographs at quality
-85, and encode PNG/GIF graphics losslessly while retaining animation timing.
+95 without resizing, and encode PNG/GIF graphics losslessly while retaining animation timing.
 """
 from io import BytesIO
 from pathlib import Path
@@ -48,7 +48,7 @@ def convert_image(data: bytes, filename: str) -> bytes:
             animated = fmt in {"GIF", "PNG"} and getattr(image, "is_animated", False)
             lossless = fmt in {"PNG", "GIF"}
             options = {"method": 4 if lossless else 6, "lossless": lossless,
-                       "quality": 75 if lossless else 85}
+                       "quality": 75 if lossless else 95}
             if lossless:
                 options["exact"] = True
             if image.info.get("icc_profile"):
@@ -62,7 +62,8 @@ def convert_image(data: bytes, filename: str) -> bytes:
                 for number in range(start, image.n_frames):
                     image.seek(number)
                     frames.append(image.convert("RGBA"))
-                    durations.append(image.info.get("duration", 100) or 100)
+                    duration = image.info.get("duration")
+                    durations.append(100 if duration is None else duration)
                 options.update(save_all=True, append_images=frames[1:], duration=durations,
                                minimize_size=False)
                 primary = frames[0]
