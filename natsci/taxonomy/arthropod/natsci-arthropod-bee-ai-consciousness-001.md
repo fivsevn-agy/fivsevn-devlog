@@ -1,6 +1,6 @@
 ---
 id: "natsci-arthropod-bee-ai-consciousness-001"
-title: "科学家正在认真追问：蜜蜂和 ChatGPT 是否有意识"
+title: "◇ 蜜蜂与 AI 的意识之问"
 
 module: "natsci"
 submodule: "taxonomy"
@@ -31,8 +31,7 @@ original_title: "Scientists are seriously asking if bees and ChatGPT are conscio
 original_source: "ScienceDaily / The Conversation"
 original_publisher: "The Conversation; Colin Klein and Andrew Barron"
 original_url: "https://www.sciencedaily.com/releases/2026/06/260604044258.htm"
-translation_note: |
-  本文为原文内容的中文翻译，仅用于学习与知识整理。 原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+translation_note: "根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。"
 
 legacy:
   metadata:
@@ -40,24 +39,32 @@ legacy:
 
 created: "2026-06-10"
 updated: "2026-06-10"
-metadata_updated: "2026-10-13"
+metadata_updated: "2026-11-04"
 ---
 
-## 文章翻译
+# ◇ 蜜蜂与 AI 的意识之问
 
-### source
+<a id="文章翻译"></a>
 
-- [原文链接](https://www.sciencedaily.com/releases/2026/06/260604044258.htm)
+<a id="科学家正在认真追问蜜蜂和-chatgpt-是否有意识"></a>
 
-### note
+<a id="source"></a>
 
-本文为原文内容的中文翻译，仅用于学习与知识整理。原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+SOURCE
+
+[Scientists are seriously asking if bees and ChatGPT are conscious](https://www.sciencedaily.com/releases/2026/06/260604044258.htm)
+
+ScienceDaily · The Conversation · Colin Klein and Andrew Barron
+
+<a id="note"></a>
+
+NOTE
+
+根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。
+
+<a id="正文"></a>
 
 ---
-
-## 正文
-
-# 科学家正在认真追问：蜜蜂和 ChatGPT 是否有意识
 
 你可能会认为，在你的花园里采食的蜜蜂，和一个正在运行 ChatGPT 的浏览器窗口之间毫无共同之处。但[近期科学研究](https://royalsocietypublishing.org/toc/rstb/2025/380/1939)已经在认真考虑这样一种可能性：二者之一，或者二者都可能有意识。
 

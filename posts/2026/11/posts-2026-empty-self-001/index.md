@@ -1,6 +1,6 @@
 ---
 id: posts-2026-empty-self-001
-title: "心理学经典研究如何误导了我们对自我的认识"
+title: "◇ 自我与情境：心理学研究的反思"
 
 module: posts
 submodule: "2026"
@@ -32,10 +32,7 @@ original_title: "How psychology’s classic studies misled us about the self"
 original_source: "Psyche Ideas"
 original_publisher: "Aeon Media Group Ltd"
 original_url: "https://psyche.co/ideas/its-time-to-ditch-the-empty-self-view-of-human-psychology"
-translation_note: >
-  本文为原文内容的中文翻译，仅用于学习与知识整理。
-  原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
-  译文仅供自主学习，可能存在错误或理解偏差，请以原文为准。
+translation_note: "根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。"
 
 note: >
   公开翻译许可尚未核实；自主学习与翻译可能有误的说明不代表权利人授权。
@@ -46,33 +43,36 @@ rights:
 
 created: "2026-11-04"
 updated: "2026-11-04"
+metadata_updated: "2026-11-04"
 ---
 
-## 文章翻译
+# ◇ 自我与情境：心理学研究的反思
 
-### source
+<a id="文章翻译"></a>
 
-- [How psychology’s classic studies misled us about the self](https://psyche.co/ideas/its-time-to-ditch-the-empty-self-view-of-human-psychology)
-- 作者：Jack W Klein、William B Swann，心理学家。
-- 编辑：Matt Huston。
-- 原文发布日期：2026 年 11 月 2 日（据输入的网页抓取元数据）。
-- 来源：Psyche Ideas；发布方：Aeon Media Group Ltd。
-- 原站版权标识：© Aeon Media Group Ltd. 2012–2026。
-- [转载与翻译许可条款](https://psyche.co/republishing)
+<a id="心理学经典研究如何误导了我们对自我的认识"></a>
 
-### note
+<a id="source"></a>
 
-本文为原文内容的中文翻译，仅用于学习与知识整理。原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+SOURCE
 
-译文仅供自主学习，可能存在错误或理解偏差，请以原文为准。
+[How psychology’s classic studies misled us about the self](https://psyche.co/ideas/its-time-to-ditch-the-empty-self-view-of-human-psychology)
 
-本站通用 CC BY-NC-SA 4.0 许可不适用于本篇原文及原图。原页配图仅保留图注、摄影署名与原始链接，未在本站嵌入或转存。
+Psyche Ideas · Jack W Klein、William B Swann（心理学家） · 2026.11.02（据网页抓取元数据）
+
+编辑：Matt Huston。发布方：Aeon Media Group Ltd。
+
+© Aeon Media Group Ltd. 2012–2026 · [转载与翻译许可条款](https://psyche.co/republishing)
+
+<a id="note"></a>
+
+NOTE
+
+根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。
+
+<a id="正文"></a>
 
 ---
-
-## 正文
-
-# 心理学经典研究如何误导了我们对自我的认识
 
 ## 米尔格拉姆、津巴多以及近年的启动研究都暗示，我们极易被塑造。他们低估了我们实际上有多么稳定
 

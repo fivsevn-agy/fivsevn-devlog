@@ -1,6 +1,6 @@
 ---
 id: "natsci-paleontology-whale-necropolis-001"
-title: "印度洋海底发现 530 万年前的鲸类墓地"
+title: "◇ 印度洋海底的古老鲸类墓地"
 
 module: "natsci"
 submodule: "paleontology"
@@ -31,30 +31,36 @@ original_title: "A 5.3-million‑year‑old whale graveyard has been found on th
 original_source: "Phys.org / The Conversation"
 original_publisher: "Vanessa Pirotta / The Conversation / Phys.org"
 original_url: "https://phys.org/news/2026-06-millionyearold-whale-graveyard-floor-indian.html"
-translation_note: |
-  本文为原文内容的中文翻译，仅用于学习与知识整理。 原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+translation_note: "根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。"
 
 created: "2026-06-15"
 updated: "2026-06-15"
-metadata_updated: "2026-10-13"
+metadata_updated: "2026-11-04"
 ---
 
-## 文章翻译
+# ◇ 印度洋海底的古老鲸类墓地
 
-### source
+<a id="文章翻译"></a>
 
-- [原文链接](https://phys.org/news/2026-06-millionyearold-whale-graveyard-floor-indian.html)
+<a id="印度洋海底发现了一个有-530-万年历史的鲸类墓地"></a>
 
+<a id="source"></a>
 
-### note
+SOURCE
 
-本文为原文内容的中文翻译，仅用于学习与知识整理。原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+[A 5.3-million‑year‑old whale graveyard has been found on the floor of the Indian Ocean](https://phys.org/news/2026-06-millionyearold-whale-graveyard-floor-indian.html)
+
+Phys.org · The Conversation · Vanessa Pirotta
+
+<a id="note"></a>
+
+NOTE
+
+根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。
+
+<a id="正文"></a>
 
 ---
-
-## 正文
-
-# 印度洋海底发现了一个有 530 万年历史的鲸类墓地
 
 作者：Vanessa Pirotta，The Conversation
 

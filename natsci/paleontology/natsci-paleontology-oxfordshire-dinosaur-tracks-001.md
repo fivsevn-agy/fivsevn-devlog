@@ -1,6 +1,6 @@
 ---
 id: "natsci-paleontology-oxfordshire-dinosaur-tracks-001"
-title: "牛津郡发现大规模恐龙足迹"
+title: "◇ 牛津郡的侏罗纪恐龙足迹"
 
 module: "natsci"
 submodule: "paleontology"
@@ -31,30 +31,36 @@ original_title: "Extensive Dinosaur Tracks Uncovered in Oxfordshire"
 original_source: "Everything Dinosaur"
 original_publisher: "Everything Dinosaur"
 original_url: "https://blog.everythingdinosaur.com/blog/_archives/2025/01/03/remarkable-dinosaur-highway-uncovered-in-oxfordshire.html"
-translation_note: |
-  本文为原文内容的中文翻译，仅用于学习与知识整理。 原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+translation_note: "根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。"
 
 created: "2026-06-13"
 updated: "2026-06-13"
-metadata_updated: "2026-10-13"
+metadata_updated: "2026-11-04"
 ---
 
-## 文章翻译
+# ◇ 牛津郡的侏罗纪恐龙足迹
 
-### source
+<a id="文章翻译"></a>
 
-- [原文链接](https://blog.everythingdinosaur.com/blog/_archives/2025/01/03/remarkable-dinosaur-highway-uncovered-in-oxfordshire.html)
+<a id="牛津郡发现大规模恐龙足迹"></a>
 
+<a id="source"></a>
 
-### note
+SOURCE
 
-本文为原文内容的中文翻译，仅用于学习与知识整理。原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+[Extensive Dinosaur Tracks Uncovered in Oxfordshire](https://blog.everythingdinosaur.com/blog/_archives/2025/01/03/remarkable-dinosaur-highway-uncovered-in-oxfordshire.html)
+
+Everything Dinosaur
+
+<a id="note"></a>
+
+NOTE
+
+根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。
+
+<a id="正文"></a>
 
 ---
-
-## 正文
-
-# 牛津郡发现大规模恐龙足迹
 
 牛津大学和伯明翰大学的研究人员发现了一组引人注目且规模庞大的恐龙足迹。该地点（Dewars Farm Quarry）揭示了一系列可追溯至中侏罗世（巴通阶）的行迹。科学家们发现了多条很长的行迹，它们构成了一条巨大“恐龙高速公路”的一部分。采石场地面上覆盖着数百个恐龙脚印。
 

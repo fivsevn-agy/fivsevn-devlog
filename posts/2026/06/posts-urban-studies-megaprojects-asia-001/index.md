@@ -1,6 +1,6 @@
 ---
 id: "posts-urban-studies-megaprojects-asia-001"
-title: "亚洲的城市化、大型项目与剥夺"
+title: "◇ 亚洲大型项目与城市发展"
 
 module: "posts"
 submodule: "2026"
@@ -31,8 +31,7 @@ original_title: "Urbanisation, megaprojects and dispossession in Asia"
 original_source: "LSE Review of Books"
 original_publisher: "LSE Review of Books"
 original_url: "https://blogs.lse.ac.uk/lsereviewofbooks/2026/06/22/book-review-the-political-economy-of-megaprojects-in-asia-state-power-land-control-financial-flows-and-dispossession-hyun-bang-shin-dong-wan-gimm/"
-translation_note: |
-  本文为原文内容的中文翻译，仅用于学习与知识整理。 原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+translation_note: "根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。"
 
 legacy:
   metadata:
@@ -40,26 +39,26 @@ legacy:
 
 created: "2026-06-26"
 updated: "2026-06-26"
-metadata_updated: "2026-10-13"
+metadata_updated: "2026-11-04"
 permalink: "/posts/2026/posts-urban-studies-megaprojects-asia-001.html"
 filename_policy: "entrypoint"
 ---
 
-文章翻译
+# ◇ 亚洲大型项目与城市发展
 
-source
+<a id="亚洲的城市化大型项目与剥夺"></a>
 
-* https://blogs.lse.ac.uk/lsereviewofbooks/2026/06/22/book-review-the-political-economy-of-megaprojects-in-asia-state-power-land-control-financial-flows-and-dispossession-hyun-bang-shin-dong-wan-gimm/
+SOURCE
 
-note
+[Urbanisation, megaprojects and dispossession in Asia](https://blogs.lse.ac.uk/lsereviewofbooks/2026/06/22/book-review-the-political-economy-of-megaprojects-in-asia-state-power-land-control-financial-flows-and-dispossession-hyun-bang-shin-dong-wan-gimm/)
 
-本文为原文内容的中文翻译，仅用于学习与知识整理。原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+LSE Review of Books
 
-⸻
+NOTE
 
-正文
+根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。
 
-# 亚洲的城市化、大型项目与剥夺
+---
 
 _**《亚洲大型项目的政治经济学》**由 **Hyun Bang Shin** 和 **Dong-Wan Gimm** 编辑，批判了大型项目作为亚洲各地城市发展主导模式的地位。**Sara Bardhan** 写道，这本引人入胜且细致入微的论文集通过韩国、中国、台湾、印度、土耳其和马来西亚的跨学科案例研究，揭示了国家、私人资本和各类行动者如何通过大规模基础设施与房地产项目重塑城市景观。_
 

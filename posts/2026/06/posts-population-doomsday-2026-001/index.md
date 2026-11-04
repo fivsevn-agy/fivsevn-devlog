@@ -1,6 +1,6 @@
 ---
 id: "posts-population-doomsday-2026-001"
-title: "科学：公元2026年的世界末日"
+title: "◇ 人口增长与 2026 年末日模型"
 
 module: "posts"
 submodule: "2026"
@@ -31,8 +31,7 @@ original_title: "Science: Doomsday in 2026 A.D."
 original_source: "TIME Archive"
 original_publisher: "TIME"
 original_url: "https://time.com/archive/6647875/science-doomsday-in-2026-a-d/"
-translation_note: |
-  本文为原文内容的中文翻译，仅用于学习与知识整理。 原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+translation_note: "根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。"
 
 legacy:
   metadata:
@@ -40,26 +39,26 @@ legacy:
 
 created: "2026-06-22"
 updated: "2026-06-22"
-metadata_updated: "2026-10-13"
+metadata_updated: "2026-11-04"
 permalink: "/posts/2026/posts-population-doomsday-2026-001.html"
 filename_policy: "entrypoint"
 ---
 
-文章翻译
+# ◇ 人口增长与 2026 年末日模型
 
-source
+<a id="科学公元2026年的世界末日"></a>
 
-* https://time.com/archive/6647875/science-doomsday-in-2026-a-d/
+SOURCE
 
-note
+[Science: Doomsday in 2026 A.D.](https://time.com/archive/6647875/science-doomsday-in-2026-a-d/)
 
-本文为原文内容的中文翻译，仅用于学习与知识整理。原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+TIME Archive · TIME
+
+NOTE
+
+根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。
 
 ---
-
-正文
-
-# 科学：公元2026年的世界末日
 
 自马尔萨斯（1766—1834）时代以来，末日预言者就一直警告说，如果人类不停止如此快速地繁衍，最终会繁殖到超过可用粮食供应的程度。然而，每当“被掠夺星球”学派的悲观主义者为这一不幸事件设定日期时，事实都证明他们错了。在先进国家，食品生产技术一直远远领先于人口增长（《时代》，1948 年 11 月 8 日）。美国背负着沉重的农作物剩余负担，比以往任何时候都更远离饥荒，其他国家也处于同样状况。只有技术落后的国家正在严重感受到人口压力，而它们至少可以暂时通过改进技术来躲避命运。
 

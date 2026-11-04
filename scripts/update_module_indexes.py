@@ -259,6 +259,12 @@ def collect_notes(module_name: str, config: dict) -> tuple[list[Note], list[str]
         if mode == "hide":
             continue
 
+        # Preserve legacy entries without visibility, but never list an
+        # explicitly non-public document just because its status is active.
+        visibility = (fm.get("visibility") or "").strip().lower()
+        if visibility and visibility != "public":
+            continue
+
         note_type = (fm.get("type") or "").strip().lower()
 
         if mode == "link":
@@ -293,7 +299,10 @@ def display_title(note: Note) -> str:
     title = note.title
 
     if note.note_type in TRANSLATION_TYPES:
-        title = f"{title}（译文）"
+        # Accept old titles during migration and keep the marker idempotent.
+        title = re.sub(r"(?:\s*[（(]译文[）)])+$", "", title).strip()
+        title = re.sub(r"^(?:◇\s*)+", "", title)
+        title = f"◇ {title}"
 
     return title
 

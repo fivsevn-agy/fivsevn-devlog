@@ -1,6 +1,6 @@
 ---
 id: "posts-digital-news-platforms-001"
-title: "2026 年出版趋势：科技平台超过出版商成为全球新闻来源"
+title: "◇ 2026 年新闻来源与平台变迁"
 
 module: "posts"
 submodule: "2026"
@@ -31,8 +31,7 @@ original_title: "Publishing trends for 2026: Tech platforms overtake publishers 
 original_source: "Digital Journalism"
 original_publisher: "Press Gazette"
 original_url: "https://pressgazette.co.uk/publishers/digital-journalism/news-publishing-trends-for-2026/"
-translation_note: |
-  本文为原文内容的中文翻译，仅用于学习与知识整理。 原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+translation_note: "根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。"
 
 legacy:
   metadata:
@@ -40,26 +39,26 @@ legacy:
 
 created: "2026-06-17"
 updated: "2026-06-17"
-metadata_updated: "2026-10-13"
+metadata_updated: "2026-11-04"
 permalink: "/posts/2026/posts-digital-news-platforms-001.html"
 filename_policy: "entrypoint"
 ---
 
-文章翻译
+# ◇ 2026 年新闻来源与平台变迁
 
-source
+<a id="2026-年出版趋势科技平台超过出版商成为全球新闻来源"></a>
 
-* https://pressgazette.co.uk/publishers/digital-journalism/news-publishing-trends-for-2026/
+SOURCE
 
-note
+[Publishing trends for 2026: Tech platforms overtake publishers as global news source](https://pressgazette.co.uk/publishers/digital-journalism/news-publishing-trends-for-2026/)
 
-本文为原文内容的中文翻译，仅用于学习与知识整理。原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+Digital Journalism · Press Gazette
 
-⸻
+NOTE
 
-正文
+根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。
 
-# 2026 年出版趋势：科技平台超过出版商成为全球新闻来源
+---
 
 ![Image 1: Reuters Digital News Report reveals key publishing trends]({{ '/posts/2026/06/posts-digital-news-platforms-001/assets/image-01.jpg' | relative_url }})
 

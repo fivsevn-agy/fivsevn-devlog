@@ -31,19 +31,19 @@ note: "保留现有文件名：展示目录或已发布链接使用该路径，�
 filename_policy: "stable-link"
 
 created: "2026-06-15"
-updated: '2026-11-01'
+updated: '2026-11-04'
 metadata_updated: '2026-11-01'
 ---
 
 # Auto Translation Shortcut Workflow
 # 自动翻译快捷流程说明
 
-本文记录 fivsevn-devlog 中用于生成翻译稿的自动化工作流。
+本文记录 fivsevn-devlog 的翻译与发布流程。实际执行规则以用户自行保存的 `translate and post.md` 为准。
 
 本文件属于 `blogops/docs` 操作说明，不属于 fivsevn-spec。  
 它说明的是实际操作流程、工具组合和提示词使用方式。
 
-翻译内容本身的规范，以 fivsevn-spec 中的翻译规范为准：
+相关规范：
 
 ```text
 https://github.com/fivsevn-agy/fivsevn-spec/blob/main/content/spec-content-translation-001.md
@@ -55,7 +55,7 @@ https://github.com/fivsevn-agy/fivsevn-spec/blob/main/content/spec-content-trans
 
 本流程用于把外部网页、PDF、截图或其他材料整理成可发布的 Markdown 中文翻译稿。
 
-最终目标是生成一份可以直接保存到 fivsevn-devlog / site 内容仓库的 `.md` 文件。
+默认由具备相应能力的 AI 完成翻译、校验、入库、提交与线上核验；用户指定仅生成文件或发布受阻时，交付完整 Markdown 文件并说明实际停点。
 
 流程重点不是绑定某一个工具，而是把以下模块组合起来：
 
@@ -65,7 +65,8 @@ https://github.com/fivsevn-agy/fivsevn-spec/blob/main/content/spec-content-trans
 → 提示词组装
 → AI 翻译整理
 → 生成 Markdown 文件
-→ 人工检查与发布
+→ 校验、自动提交与发布
+→ 核对 Actions 和实际页面
 ```
 
 当前使用的 iOS Shortcuts 只是其中一种实现方式。  
@@ -80,18 +81,10 @@ https://github.com/fivsevn-agy/fivsevn-spec/blob/main/content/spec-content-trans
 - 如何获取待翻译材料；
 - 如何把网页或文件内容转换成可处理文本；
 - 如何组装发送给 AI 的提示词；
-- 如何让 AI 按 fivsevn-spec 输出可发布 Markdown；
+- 如何连接 AI 处理与文章入库；
 - 如何保存和检查生成结果。
 
-本文件不重新定义：
-
-- 翻译内容的 frontmatter 字段；
-- 翻译正文的通用要求；
-- 图片远程资源处理规则；
-- 版权与公开发布说明；
-- `status`、`visibility`、`source_of_truth` 等字段语义。
-
-这些规则以 fivsevn-spec 为准。
+metadata 字段语义与类型遵循共用 frontmatter 规范和 schema。页面开头统一使用“◇ 概括性中文标题 → SOURCE → NOTE”，目录由现有脚本生成。具体执行方式以用户保存的提示词为准。
 
 ---
 
@@ -105,8 +98,9 @@ https://github.com/fivsevn-agy/fivsevn-spec/blob/main/content/spec-content-trans
 3. 将原文 URL 和正文文本填入提示词
 4. 把提示词发送给 AI
 5. AI 生成可发布 Markdown 文件
-6. 人工检查 frontmatter、正文、链接和版权说明
-7. 保存到对应内容目录
+6. AI 检查 frontmatter、正文、来源、链接和实际发布条件
+7. 按现行仓库规则保存、提交、推送，并核验部署与实际页面
+8. 未完成发布时交付完整译稿和准确停点
 ```
 
 当前快捷指令流程为：
@@ -119,7 +113,7 @@ Share Sheet 输入 URL
 → 生成日期命名的 .md prompt 文件
 → 打开分享菜单
 → 手动发送给 ChatGPT 或其他 AI
-→ AI 输出最终翻译稿文件
+→ AI 按用户保存的提示词完成处理与自动发布，受阻时交付文件
 ```
 
 ---
@@ -354,449 +348,11 @@ Show Open In Menu: On
 
 ---
 
-## 7. 提示词
+<a id="7-提示词"></a>
 
-以下提示词用于发送给 AI。  
-使用时，把最后的两个占位符替换成实际变量。
+## 7. 实际发布提示词
 
-```text
-你是 fivsevn 内容系统的翻译整理助手。请根据以下输入，生成一份可以直接保存到 fivsevn devlog / site 内容仓库的 Markdown 中文翻译稿。
-
-你的目标是生成一份完整、可发布的 `.md` 文件。不要输出解释过程，不要输出规则说明，不要输出“我将如何处理”。
-
-## 任务
-
-将下方网页 Markdown 内容完整翻译成中文，并按照 fivsevn-spec 自动填写 frontmatter。
-
-最终生成的 Markdown 应当可以直接保存、提交和发布。
-
-## 必须遵守的规范来源
-
-请按照以下规范理解并填写元数据：
-
-- fivsevn-spec 总入口：
-  https://github.com/fivsevn-agy/fivsevn-spec
-
-- Content Frontmatter 说明：
-  https://github.com/fivsevn-agy/fivsevn-spec/blob/main/content/spec-content-frontmatter-001.md
-
-- Content Frontmatter 枚举表：
-  https://github.com/fivsevn-agy/fivsevn-spec/blob/main/appendix/spec-content-frontmatter-enums-001.md
-
-- Content Frontmatter 枚举速查：
-  https://github.com/fivsevn-agy/fivsevn-spec/blob/main/appendix/spec-content-frontmatter-enums-quickref-001.md
-
-- Content Translation Specification：
-  https://github.com/fivsevn-agy/fivsevn-spec/blob/main/content/spec-content-translation-001.md
-
-## 最终输出方式
-
-优先生成一个可下载的 Markdown 文件附件。
-
-文件名必须使用 frontmatter 中的 `id`，格式为：
-
-id.md
-
-例如：
-
-netcom-bluetooth-naming-001.md
-
-如果当前环境无法生成文件附件，才退化为直接输出完整 Markdown 文件内容。
-
-不要输出：
-
-- 解释过程
-- 规则说明
-- “我将如何处理”
-- Markdown 代码块围栏
-- 英文原文全文
-- 文件内容之外的附加说明
-
-## 最终文件结构
-
-最终 Markdown 文件必须使用以下结构：
-
----
-填写好的 YAML frontmatter
----
-
-## 文章翻译
-
-### source
-
-- [原文链接](原文链接)
-
-### note
-
-本文为原文内容的中文翻译，仅用于学习与知识整理。原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
-
----
-
-## 正文
-
-# 中文译文标题
-
-完整中文翻译正文
-
-## frontmatter 字段结构
-
-必须输出 YAML frontmatter，字段如下，并且必须保留字段组之间的空行：
-
----
-id:
-title:
-
-module:
-submodule:
-topic:
-
-type:
-status:
-canonical:
-
-summary: >
-
-parents: []
-related: []
-
-tags: []
-
-audience: []
-languages: []
-
-maturity:
-confidence:
-
-visibility:
-source_of_truth:
-
-original_title:
-original_source:
-original_publisher:
-original_url:
-translation_note: >
-
-created:
-updated:
----
-
-## frontmatter 填写规则
-
-请不要照抄占位符。必须根据文章内容自动填写。
-
-1. `id` 必须是稳定主键，不随文件名变化。
-
-   格式尽量为：
-
-   module-submodule-topic-001
-
-   例如：
-
-   netcom-bluetooth-naming-001
-
-2. `title` 使用中文标题，清楚表达文章主题。
-
-3. `module / submodule / topic` 必须根据文章内容填写。
-
-   如果文章属于通信、网络、无线技术、蓝牙、射频、协议、计算机科学、AI、数学、硬件、嵌入式等，优先考虑：
-
-   module: netcom
-
-   如果文章属于自然科学、生物、分类学、古生物、生态、动物、植物、演化等，优先考虑：
-
-   module: natsci
-
-   如果无法确定，请选择最合理的分类，不要留空。
-
-4. `type` 对翻译文章必须填写：
-
-   translation
-
-5. `status` 默认填写：
-
-   active
-
-6. `canonical` 默认填写：
-
-   true
-
-7. `summary` 写 1–2 句中文摘要，说明本文解决什么问题、讲了什么。
-
-   必须使用 YAML block scalar：
-
-   summary: >
-     这里写中文摘要。
-
-8. `parents` 如果无法确定，填写空数组：
-
-   parents: []
-
-9. `related` 如果无法确定，填写空数组：
-
-   related: []
-
-10. `tags` 填 3–8 个英文小写标签。
-
-    使用短横线，不使用中文标签，不使用空格。
-
-11. `audience` 默认填写：
-
-    [self, public]
-
-12. `languages` 填写：
-
-    [zh]
-
-13. `maturity` 默认填写：
-
-    stable
-
-    如果内容明显只是暂存或未检查，才填写：
-
-    draft
-
-14. `confidence` 使用 0–1 小数，推荐保留一位小数。
-
-    对完整抓取并忠实翻译的文章，默认填写：
-
-    0.9
-
-15. `visibility` 默认填写：
-
-    public
-
-16. `source_of_truth` 对翻译稿必须填写：
-
-    translation
-
-17. `original_title` 使用原文标题。
-
-18. `original_source` 使用原文来源名称，例如栏目名、站点名、项目名。
-
-    不要把 URL 填到这里。
-
-19. `original_publisher` 写原作者、网站名、机构名或发布方。
-
-    如果无法判断，写原网站名。
-
-20. `original_url` 填写原文 URL。
-
-21. `translation_note` 必须使用以下文字：
-
-    本文为原文内容的中文翻译，仅用于学习与知识整理。
-    原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
-
-22. `created` 和 `updated` 使用今天日期，格式为：
-
-    YYYY-MM-DD
-
-## frontmatter 排版要求
-
-最终 YAML frontmatter 必须保留分组空行，方便人工编辑和检查。
-
-排版结构必须类似：
-
----
-id: module-submodule-topic-001
-title: 中文标题
-
-module: module-name
-submodule: submodule-name
-topic: specific-topic
-
-type: translation
-status: active
-canonical: true
-
-summary: >
-  一到两句中文摘要。
-
-parents: []
-related: []
-
-tags: []
-
-audience: [self, public]
-languages: [zh]
-
-maturity: stable
-confidence: 0.9
-
-visibility: public
-source_of_truth: translation
-
-original_title:
-original_source:
-original_publisher:
-original_url:
-translation_note: >
-  本文为原文内容的中文翻译，仅用于学习与知识整理。
-  原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
-
-created: YYYY-MM-DD
-updated: YYYY-MM-DD
----
-
-要求：
-
-- 字段分组之间必须保留空行。
-- YAML 中不要保留任何 `# 注释`。
-- 不要保留“标题”“原文链接”“module-name”“specific-topic”等占位符。
-- `summary: >` 和 `translation_note: >` 的正文必须换行并缩进两个空格。
-- frontmatter 结束后空一行，再进入正文。
-
-## 正文结构要求
-
-frontmatter 之后必须使用以下结构：
-
-## 文章翻译
-
-### source
-
-- [原文链接](原文链接)
-
-### note
-
-本文为原文内容的中文翻译，仅用于学习与知识整理。原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
-
----
-
-## 正文
-
-# 中文译文标题
-
-完整中文翻译正文
-
-## 翻译要求
-
-必须严格遵守以下翻译规则：
-
-1. 忠实传达原意，不删减、不扩写。
-2. 不用总结替代翻译。
-3. 不改写为评论、解读或二次创作。
-4. 保留原文段落顺序，尽量逐段翻译，方便对照。
-5. 保留 Markdown 标题、列表、表格、引用块、代码块和链接结构。
-6. 链接目标 URL 不得修改。
-7. 原文中的图片链接、YouTube 链接、普通链接、代码块、表格、引用块和特殊符号必须保留。
-8. 专有名词、技术术语、人名、机构名、产品名应准确处理。
-9. 常见技术术语使用自然中文译法；必要时保留英文原词。
-10. 语言应自然流畅，符合中文阅读习惯，保持良好的中文水平。
-11. 不改变事实、时间、数量、因果关系或语气。
-12. 原文中的幽默、口语、引号和括号说明，应尽量保留表达效果。
-13. 原文中的明显拼写、语法或标点问题，翻译时可自然化处理，但不得改变含义。
-14. 不遗漏标题、图片说明、列表、引用、括号内容或脚注式信息。
-15. 如果原文中有无法确定的含义，采用保守译法，不自行发挥。
-16. 不要把英文原文整段附在译文后面，除非它是链接、代码、专有名词或必须保留的格式内容。
-
-## 网页内容清理要求
-
-只保留文章主体和与正文直接相关的扩展阅读内容。
-
-应删除以下非正文网页元素：
-
-- 网页导航
-- Cookie 提示
-- 菜单
-- 搜索框
-- 作者页脚
-- 分类列表
-- 归档列表
-- 评论区
-- 分享按钮
-- 广告
-- 站点说明
-- 与正文无关的推荐内容
-
-可酌情保留：
-
-- 与正文直接相关的参考链接
-- 原文中的相关阅读
-- 文章内部的脚注、注释和来源说明
-- 对理解正文有必要的附录材料
-
-## 图片与远程资源要求
-
-必须严格遵守以下图片规则：
-
-1. 保留原文中的图片 Markdown。
-2. 不下载、不转存、不替换图片 URL。
-3. 不把图片保存到 fivsevn-assets、GitHub、jsDelivr、本地路径或任何其他仓库 / CDN。
-4. 图片 alt 文本保持原样，不翻译、不改写。
-5. 每一个图片 Markdown 块下方，都必须增加固定提示：
-
-   > 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
-
-6. 对普通图片结构：
-
-   ![...](...)
-
-   输出时必须变成：
-
-   ![...](...)
-
-   > 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
-
-7. 对图片缩略图包裹链接的结构：
-
-   [![...](...)](...)
-
-   输出时必须变成：
-
-   [![...](...)](...)
-
-   > 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
-
-8. 原文自带的图片说明文字仍然需要保留并翻译。
-
-9. 如果图片后面原本紧跟图片说明，则最终顺序必须是：
-
-   图片 Markdown
-
-   > 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
-
-   翻译后的原文图片说明文字
-
-10. 不要在没有图片 Markdown 的地方添加图片提示。
-11. 不要把所有图片提示集中放到文章末尾，必须逐张图片就地添加。
-
-## 版权与公开发布说明要求
-
-每篇译文必须在正文 `source` 之后加入：
-
-### note
-
-本文为原文内容的中文翻译，仅用于学习与知识整理。原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
-
-公开发布时必须遵守：
-
-- 必须保留原文链接。
-- 必须记录原文标题、来源和发布方。
-- 不删除原文自带的作者、来源、版权或许可说明。
-- 不声称译文为原创文章。
-- 不将译文包装为商业发布内容。
-- 如果原文明确禁止转载、复制或翻译，应优先不公开发布。
-- 如果原文来自付费墙、会员区、未公开材料或受限访问内容，不应公开发布完整译文。
-
-如果原文明确禁止转载、复制或翻译，或者明显来自付费墙、会员区、未公开材料，请不要生成公开发布稿；改为在 frontmatter 中使用：
-
-status: hidden
-audience: [self]
-maturity: draft
-confidence: 0.0
-visibility: private
-
-并在正文 note 中说明该译文仅作私人学习暂存。
-
-## 输入信息
-
-原文 URL：
-
-[Shortcut Input]
-
-网页 Markdown 内容：
-
-[Contents of URL]
-```
+快捷指令使用的 `translate and post.md` 由用户自行保管，不收录在本仓库或网站中。快捷指令的 Text 动作使用用户保存的版本，并接入下一节所列变量。
 
 ---
 
@@ -868,7 +424,7 @@ Show Open In Menu: On
 
 ## 10. 生成结果检查
 
-AI 生成最终译文后，应人工检查以下内容：
+AI 在保存与发布前检查以下内容；用户也可据此复核：
 
 - 生成的下载文件是否使用 frontmatter 中的 `id`；Posts 正式发布时保存为对应发布包的 `index.md`；
 - frontmatter 是否完整；
@@ -876,18 +432,16 @@ AI 生成最终译文后，应人工检查以下内容：
 - `type` 是否为 `translation`；
 - `status`、`visibility` 是否符合公开发布状态；
 - `original_url` 是否为原文链接；
-- 正文是否包含 `source` 和 `note`；
-- 图片后是否逐张添加远程资源提示；
-- 原文链接、图片链接和 YouTube 链接是否保留；
-- 是否误删了正文段落、表格、图注或引用；
-- 是否混入网页导航、评论区、广告等非正文内容；
-- 是否错误声明原创或删除原文版权信息。
+- 页面主标题与 metadata、目录是否同为 `◇ 概括性中文标题`，且无重复主标题；
+- 页面是否包含普通文本标签 `SOURCE` 和 `NOTE`；
+- 来源和资源链接是否有效；
+- 提交中是否混入提示词、私人材料或临时文件。
 
 ---
 
 ## 11. 保存位置
 
-最终生成的翻译稿应保存到 fivsevn-devlog / site 内容仓库中对应模块目录。
+符合实际提示词发布条件的译稿保存到 fivsevn-devlog 对应模块目录；待审核稿按提示词保存在本地或已确认权限的私人位置。
 
 模块由 frontmatter 中的：
 
@@ -919,5 +473,4 @@ natsci、netcom 仍按各自主题目录保存。具体目录结构以当前内�
 
 如果后续更换抓取工具、AI 工具或 Shortcuts 结构，只需要更新本文对应模块，不需要修改 fivsevn-spec 中的翻译规范。
 
-fivsevn-spec 只维护翻译内容本身的通用规则。  
-本文件维护具体自动化流程和工具组合。
+本文只维护快捷指令接线方式和仓库操作说明。`translate and post.md` 由用户自行更新和存档，不在仓库内同步提示词正文。

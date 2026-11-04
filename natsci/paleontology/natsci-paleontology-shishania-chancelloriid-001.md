@@ -1,6 +1,6 @@
 ---
 id: "natsci-paleontology-shishania-chancelloriid-001"
-title: "科学家解开 5 亿年前化石之谜"
+title: "◇ Shishania 化石的分类之谜"
 
 module: "natsci"
 submodule: "paleontology"
@@ -31,30 +31,36 @@ original_title: "Scientists solve 500-million-year fossil mystery"
 original_source: "Phys.org / Durham University"
 original_publisher: "Durham University / Phys.org"
 original_url: "https://phys.org/news/2025-05-scientists-million-year-fossil-mystery.html"
-translation_note: |
-  本文为原文内容的中文翻译，仅用于学习与知识整理。 原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+translation_note: "根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。"
 
 created: "2026-06-15"
 updated: "2026-06-15"
-metadata_updated: "2026-10-13"
+metadata_updated: "2026-11-04"
 ---
 
-## 文章翻译
+# ◇ Shishania 化石的分类之谜
 
-### source
+<a id="文章翻译"></a>
 
-- [原文链接](https://phys.org/news/2025-05-scientists-million-year-fossil-mystery.html)
+<a id="科学家解开-5-亿年前化石之谜"></a>
 
+<a id="source"></a>
 
-### note
+SOURCE
 
-本文为原文内容的中文翻译，仅用于学习与知识整理。原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+[Scientists solve 500-million-year fossil mystery](https://phys.org/news/2025-05-scientists-million-year-fossil-mystery.html)
+
+Phys.org · Durham University
+
+<a id="note"></a>
+
+NOTE
+
+根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。
+
+<a id="正文"></a>
 
 ---
-
-## 正文
-
-# 科学家解开 5 亿年前化石之谜
 
 2025 年 5 月 8 日
 

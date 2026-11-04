@@ -1,6 +1,6 @@
 ---
 id: "netcom-bluetooth-naming-001"
-title: "蓝牙命名的由来"
+title: "◇ 蓝牙名称背后的故事"
 
 module: "netcom"
 submodule: "rf"
@@ -31,8 +31,7 @@ original_title: "Kardach - Naming Bluetooth"
 original_source: "Kardach.com"
 original_publisher: "Jim Kardach / Kardach.com"
 original_url: "https://www.kardach.com/bluetooth/naming-bluetooth"
-translation_note: |
-  本文为原文内容的中文翻译，仅用于学习与知识整理。 所有版权归原作者及出版方所有。
+translation_note: "根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。"
 
 legacy:
   metadata:
@@ -41,24 +40,32 @@ legacy:
 
 created: "2026-06-07"
 updated: "2026-06-07"
-metadata_updated: "2026-10-13"
+metadata_updated: "2026-11-04"
 ---
 
-## 文章翻译
+# ◇ 蓝牙名称背后的故事
 
-### source
+<a id="文章翻译"></a>
 
-- [原文链接](https://www.kardach.com/bluetooth/naming-bluetooth)
+<a id="蓝牙命名的由来"></a>
 
-### note
+<a id="source"></a>
 
-本文为原文内容的中文翻译，仅用于学习与知识整理。原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+SOURCE
+
+[Kardach - Naming Bluetooth](https://www.kardach.com/bluetooth/naming-bluetooth)
+
+Kardach.com · Jim Kardach
+
+<a id="note"></a>
+
+NOTE
+
+根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。
+
+<a id="正文"></a>
 
 ---
-
-## 正文
-
-# 蓝牙命名的由来
 
 ![Image 1](https://lh3.googleusercontent.com/sitesv/AA5AbUAaOsXOawYqo3coy3YbDbBGCJIPzgi5OU5uJnPyjXd3wX_oPKO9wQM3V9G0W8s1uWe23IPXj19ebbyRCeHBzQfTJfjZXPixAc7H5lyauJNGFl3OsJnhcL4xzV-Mlx2KoXttUboWDYZ99_molKR-QHm3JvhEMT8MtUzMx84QpEg2f_Y_n9ICgGdYCf2bUUbM4U66l3XY2jh0Hifr=w1280)
 

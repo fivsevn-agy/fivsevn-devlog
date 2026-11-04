@@ -1,6 +1,6 @@
 ---
 id: "netcom-software-engineering-ai-discipline-001"
-title: "AI 需要更多工程纪律，而不是更少"
+title: "◇ AI 编程与工程纪律"
 
 module: "netcom"
 submodule: "software"
@@ -31,8 +31,7 @@ original_title: "AI demands more engineering discipline. Not less"
 original_source: "charity.wtf Substack"
 original_publisher: "Charity Majors"
 original_url: "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline"
-translation_note: |
-  本文为原文内容的中文翻译，仅用于学习与知识整理。 原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+translation_note: "根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。"
 
 legacy:
   metadata:
@@ -40,24 +39,24 @@ legacy:
 
 created: "2026-06-22"
 updated: "2026-06-22"
-metadata_updated: "2026-10-13"
+metadata_updated: "2026-11-04"
 ---
 
-文章翻译
+# ◇ AI 编程与工程纪律
 
-source
+<a id="ai-需要更多工程纪律而不是更少"></a>
 
-* https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline
+SOURCE
 
-note
+[AI demands more engineering discipline. Not less](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline)
 
-本文为原文内容的中文翻译，仅用于学习与知识整理。原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+charity.wtf Substack · Charity Majors
 
-⸻
+NOTE
 
-正文
+根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。
 
-# AI 需要更多工程纪律，而不是更少
+---
 
 几天前，我写了一篇文章，题为“[AI enthusiasts are in a race against time, AI skeptics are in a race against entropy](https://charitydotwtf.substack.com/p/ai-enthusiasts-are-in-a-race-against)”。
 

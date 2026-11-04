@@ -34,11 +34,11 @@ filename_policy: "entrypoint"
 
 created: "2026-06-18"
 updated: "2026-06-18"
-metadata_updated: "2026-10-13"
+metadata_updated: "2026-11-04"
 permalink: "/posts/2026/posts-20260618-media-studies-wjs3-ai-journalistic-culture-001-revised.html"
 ---
 
-相关报道：[新闻机构应如何向受众标注 AI 使用？新研究给出了一些答案（译文）](/posts/2026/posts-journalism-ai-labeling-001.html)
+相关报道：[◇ 新闻机构的 AI 标注与受众信任](/posts/2026/posts-journalism-ai-labeling-001.html)
 
 # WJS3
 

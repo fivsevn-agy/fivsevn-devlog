@@ -1,6 +1,6 @@
 ---
 id: "posts-20250627-tents-in-strong-wind-001"
-title: "【授权转载】Tents in Strong Wind: What You Need to Know"
+title: "◇ 强风环境下的帐篷选择与搭建"
 
 module: "posts"
 submodule: "2025"
@@ -30,7 +30,7 @@ original_title: "Tents in Strong Wind: What You Need to Know"
 original_source: "SlowerHiking"
 original_publisher: "Helen & Geoff"
 original_url: "https://slowerhiking.com/shelter/tents-in-strong-wind-what-you-need-to-know"
-translation_note: "仅存档第一部分中文译文；未使用原文配图，原文段落与授权声明保留。"
+translation_note: "根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。"
 
 rights:
   note: 原存档声明经邮件取得 Helen 与 Geoff 的书面授权，仅允许在 8 周试用期内以非营利、无广告形式发布第一部分译文，不包含第二、第三部分且不得使用原文配图。
@@ -57,8 +57,26 @@ permalink: "/posts/2025/2025-06-27-【授权转载】Tents in Strong Wind What Y
 
 created: "2025-06-27"
 updated: "2025-09-03"
-metadata_updated: "2026-10-13"
+metadata_updated: "2026-11-04"
 ---
+
+# ◇ 强风环境下的帐篷选择与搭建
+
+SOURCE
+
+[Tents in Strong Wind: What You Need to Know](https://slowerhiking.com/shelter/tents-in-strong-wind-what-you-need-to-know)
+
+SlowerHiking · Helen & Geoff
+
+NOTE
+
+根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。
+
+历史存档，仅含原文第一部分；保留原隐藏状态。
+
+<details>
+<summary>历史说明</summary>
+
 原文作者：Helen & Geoff
 
 分享一篇关于强风环境下帐篷的选择与搭建的实用文章，内容扎实！
@@ -81,7 +99,9 @@ metadata_updated: "2026-10-13"
 
 如授权期结束后表现良好，原作者有可能考虑开放后续两部分的翻译许可。
 
-强风中的帐篷：你必须知道的事
+</details>
+
+---
 
 风与帐篷
 

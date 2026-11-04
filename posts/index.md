@@ -47,9 +47,9 @@ updated: 2026-06-15
 #### > Directory
 
 <!-- AUTO-INDEX:POSTS_RECENT:START -->
-- 2026.11.04 [心理学经典研究如何误导了我们对自我的认识（译文）](2026/11/posts-2026-empty-self-001/index.md)
+- 2026.11.04 [◇ 自我与情境：心理学研究的反思](2026/11/posts-2026-empty-self-001/index.md)
 
-- 2026.11.02 [评论｜Scripps 正在裁撤主播、增聘记者：这是地方电视新闻的未来吗？（译文）](2026/11/posts-2026-scripps-anchorless-local-tv-news-001/index.md)
+- 2026.11.02 [◇ 地方电视新闻的无主播转型](2026/11/posts-2026-scripps-anchorless-local-tv-news-001/index.md)
 
 - 2026.10.24 [基督宗教教派比较速查手册｜历史、神学、分布与社会议题](2026/10/posts-20261024-christian-traditions-handbook-001/index.md)
 
@@ -61,25 +61,25 @@ updated: 2026-06-15
 
 - 2026.10.05 [玩具资料整理 · Toy Reference](2026/10/posts-toy-reference/index.md)
 
-- 2026.06.26 [亚洲的城市化、大型项目与剥夺（译文）](2026/06/posts-urban-studies-megaprojects-asia-001/index.md)
+- 2026.06.26 [◇ 亚洲大型项目与城市发展](2026/06/posts-urban-studies-megaprojects-asia-001/index.md)
 
-- 2026.06.22 [科学：公元2026年的世界末日（译文）](2026/06/posts-population-doomsday-2026-001/index.md)
+- 2026.06.22 [◇ 关于 2026 年的世界末日预测](2026/06/posts-news-doomsday-prediction-001/index.md)
 
-- 2026.06.22 [1960 年一位物理学家称世界将在 2026 年终结：具体日期如下（译文）](2026/06/posts-news-doomsday-prediction-001/index.md)
+- 2026.06.22 [◇ 人口增长与 2026 年末日模型](2026/06/posts-population-doomsday-2026-001/index.md)
 
 - 2026.06.19 [预测市场](2026/06/posts-20260619-methods-prediction-market-001/index.md)
 
-- 2026.06.18 [新闻机构应如何向受众标注 AI 使用？新研究给出了一些答案（译文）](2026/06/posts-journalism-ai-labeling-001/index.md)
+- 2026.06.18 [◇ 新闻机构的 AI 标注与受众信任](2026/06/posts-journalism-ai-labeling-001/index.md)
 
 - 2026.06.18 [WJS3 核心问卷与 Kang et al. (2026) 的 39 个 GPT 提问题项](2026/06/posts-20260618-media-studies-wjs3-ai-journalistic-culture-001-revised/index.md)
 
-- 2026.06.17 [2026 年出版趋势：科技平台超过出版商成为全球新闻来源（译文）](2026/06/posts-digital-news-platforms-001/index.md)
+- 2026.06.17 [◇ 2026 年新闻来源与平台变迁](2026/06/posts-digital-news-platforms-001/index.md)
 
-- 2026.06.16 [内感受：你如何感知身体内部状态的隐藏感觉（译文）](2026/06/posts-neuroscience-interoception-001/index.md)
+- 2026.06.16 [◇ 内感受与身体信号](2026/06/posts-neuroscience-interoception-001/index.md)
 
-- 2026.06.15 [如何与患有痴呆症的人交谈（译文）](2026/06/posts-neuropsychology-dementia-communication-001/index.md)
+- 2026.06.15 [◇ 痴呆症患者的沟通与理解](2026/06/posts-neuropsychology-dementia-communication-001/index.md)
 
-- 2026.06.08 [J.R.R. 托尔金论童话、语言、幻想心理学，以及为何不存在“为儿童”而写（译文）](2026/06/posts-literature-tolkien-fairy-stories-001/index.md)
+- 2026.06.08 [◇ 托尔金的童话、语言与幻想观](2026/06/posts-literature-tolkien-fairy-stories-001/index.md)
 
 - 2026.06.07 [蓝牙技术命名](2026/06/posts-20260607-bluetooth-naming-001/index.md)
 

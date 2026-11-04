@@ -1,6 +1,6 @@
 ---
 id: "natsci-paleontology-oxfordshire-trackway-001"
-title: "牛津郡恐龙足迹道可能是已知最长的蜥脚类足迹道"
+title: "◇ 牛津郡蜥脚类足迹道的新发现"
 
 module: "natsci"
 submodule: "paleontology"
@@ -31,30 +31,36 @@ original_title: "Oxfordshire Dinosaur Trackway Could Be the Longest Sauropod Tra
 original_source: "Everything Dinosaur"
 original_publisher: "Mike / Everything Dinosaur"
 original_url: "https://blog.everythingdinosaur.com/blog/_archives/2026/06/11/oxfordshire-dinosaur-trackway-could-be-the-longest-sauropod-trackway-known.html"
-translation_note: |
-  本文为原文内容的中文翻译，仅用于学习与知识整理。 原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+translation_note: "根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。"
 
 created: "2026-06-13"
 updated: "2026-06-13"
-metadata_updated: "2026-10-13"
+metadata_updated: "2026-11-04"
 ---
 
-## 文章翻译
+# ◇ 牛津郡蜥脚类足迹道的新发现
 
-### source
+<a id="文章翻译"></a>
 
-- [原文链接](https://blog.everythingdinosaur.com/blog/_archives/2026/06/11/oxfordshire-dinosaur-trackway-could-be-the-longest-sauropod-trackway-known.html)
+<a id="牛津郡恐龙足迹道可能是已知最长的蜥脚类足迹道"></a>
 
+<a id="source"></a>
 
-### note
+SOURCE
 
-本文为原文内容的中文翻译，仅用于学习与知识整理。原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+[Oxfordshire Dinosaur Trackway Could Be the Longest Sauropod Trackway Known](https://blog.everythingdinosaur.com/blog/_archives/2026/06/11/oxfordshire-dinosaur-trackway-could-be-the-longest-sauropod-trackway-known.html)
+
+Everything Dinosaur · Mike
+
+<a id="note"></a>
+
+NOTE
+
+根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。
+
+<a id="正文"></a>
 
 ---
-
-## 正文
-
-# 牛津郡恐龙足迹道可能是已知最长的蜥脚类足迹道
 
 研究著名牛津郡“恐龙高速公路”的科学家宣布，其中一条巨型足迹道可能代表着世界任何地方发现的已知最长蜥脚类恐龙足迹道。这一非凡的连续足迹发现于 Dewars Farm Quarry，可能是一头单独的 Cetiosaurus 在约 1.66 亿年前漫步穿过侏罗纪泥滩时留下的。
 

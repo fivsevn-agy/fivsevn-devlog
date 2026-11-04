@@ -1,6 +1,6 @@
 ---
 id: "posts-literature-tolkien-fairy-stories-001"
-title: "J.R.R. 托尔金论童话、语言、幻想心理学，以及为何不存在“为儿童”而写"
+title: "◇ 托尔金的童话、语言与幻想观"
 
 module: "posts"
 submodule: "2026"
@@ -31,8 +31,7 @@ original_title: "J.R.R. Tolkien on Fairy Tales, Language, the Psychology of Fant
 original_source: "The Marginalian"
 original_publisher: "Maria Popova / The Marginalian"
 original_url: "https://www.themarginalian.org/2026/06/06/j-r-r-tolkien-on-fairy-stories/"
-translation_note: |
-  本文为原文内容的中文翻译，仅用于学习与知识整理。 原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+translation_note: "根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。"
 
 legacy:
   metadata:
@@ -40,26 +39,34 @@ legacy:
 
 created: "2026-06-08"
 updated: "2026-06-08"
-metadata_updated: "2026-10-13"
+metadata_updated: "2026-11-04"
 permalink: "/posts/2026/posts-literature-tolkien-fairy-stories-001.html"
 filename_policy: "entrypoint"
 ---
 
-## 文章翻译
+# ◇ 托尔金的童话、语言与幻想观
 
-### source
+<a id="文章翻译"></a>
 
-- [原文链接](https://www.themarginalian.org/2026/06/06/j-r-r-tolkien-on-fairy-stories/)
+<a id="jrr-托尔金论童话语言幻想心理学以及为何不存在为儿童而写"></a>
 
-### note
+<a id="source"></a>
 
-本文为原文内容的中文翻译，仅用于学习与知识整理。原文版权归原作者及出版方所有。若权利人认为本文不宜公开保留，请联系后删除或调整。
+SOURCE
+
+[J.R.R. Tolkien on Fairy Tales, Language, the Psychology of Fantasy, and Why There’s No Such Thing as Writing “For Children”](https://www.themarginalian.org/2026/06/06/j-r-r-tolkien-on-fairy-stories/)
+
+The Marginalian · Maria Popova
+
+<a id="note"></a>
+
+NOTE
+
+根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。
+
+<a id="正文"></a>
 
 ---
-
-## 正文
-
-# J.R.R. 托尔金论童话、语言、幻想心理学，以及为何不存在“为儿童”而写
 
 [![Image 1]({{ '/posts/2026/06/posts-literature-tolkien-fairy-stories-001/assets/image-01.jpg' | relative_url }})](https://www.amazon.com/Tales-Perilous-Realm-J-R-R-Tolkien/dp/0547154119/?tag=braipick-20)
 
