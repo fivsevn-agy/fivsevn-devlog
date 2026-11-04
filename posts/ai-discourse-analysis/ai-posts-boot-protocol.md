@@ -29,34 +29,195 @@ source_of_truth: "devlog"
 note: "未记录原始写作日期；created 为本路径首次 Git 记录日期，无法合理确定时留空。"
 
 created: "2026-03-06"
-updated: "2026-11-01"
-metadata_updated: "2026-11-01"
+updated: '2026-11-01'
+metadata_updated: '2026-11-01'
+---
+# AI Posts Boot Protocol
+# AI文章生成引导协议
+
+Purpose:
+Generate a Markdown post skeleton for a `posts` column.
+
+AI outputs only:
+- filename
+- frontmatter
+- minimal body skeleton
+
+User will paste real content manually.
+
+> 只生成骨架，正文我来贴。
+
 ---
 
-# AI 文章骨架提示词
+## 0) Load Metadata Spec
+You MUST follow:
+[spec-content-frontmatter-001](https://raw.githubusercontent.com/fivsevn-agy/fivsevn-spec/main/content/spec-content-frontmatter-001.md)
 
-用户提供标题和可选的主题 slug。只生成文章骨架，正文由用户填写。
+Hard rules:
+- all fields present
+- field order identical
+- use the shared core fields; preserve documented optional fields when needed
+- date format YYYY-MM-DD
 
-1. 读取[栏目目录](index.md)和最近 1–3 篇文章，沿用编号与 metadata 风格。下一篇编号取现有最大值加一，补齐三位。
-2. 按[frontmatter 规范](https://github.com/fivsevn-agy/fivsevn-spec/blob/main/content/spec-content-frontmatter-001.md)生成完整 metadata。标题保留用户原文，沿用栏目编号前缀；slug 使用简短的小写英文与连字符。
-3. 发布包保存为 `posts/ai-discourse-analysis/YYYY/MM/NNN-topic-slug/index.md`，年月取文章的 `created` 日期。素材放在同包的 `assets/`，正文用 `assets/文件名` 引用。
-4. 固定使用 `module: posts`、`submodule: ai-discourse-analysis`、`type: article`、`status: active`、`canonical: true`、`visibility: public`、`source_of_truth: devlog`、`filename_policy: entrypoint`。`id` 沿用 `posts-ai-discourse-analysis-NNN`，日期使用 `YYYY-MM-DD`。
-5. 只输出发布包路径和完整 `index.md`，不添加解释，不填写真实正文。
+> frontmatter 字段齐全、顺序一致、特殊信息使用规范中的扩展字段
 
-正文骨架：
+---
 
-```markdown
+## 1) Read Posts Index
+Read:
+[posts/index.md](https://raw.githubusercontent.com/fivsevn-agy/fivsevn-devlog/main/posts/index.md)
+
+Goal:
+Locate the target column path.
+
+Example reference:
+ [栏目目录](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/posts/ai-discourse-analysis/index.md)
+
+> 先从 posts 主索引找到专栏入口
+
+---
+
+## 2) Read Column Index
+Read column index:
+[posts/ai-discourse-analysis/index.md](https://raw.githubusercontent.com/fivsevn-agy/fivsevn-devlog/main/posts/ai-discourse-analysis/index.md)
+
+Goal:
+- understand column purpose (for tags/summary tone only)
+- parse Case List
+- compute next article number
+
+Auto-number rule:
+- Extract article numbers from labels `NNN｜title` or package names `NNN-topic-slug` (e.g. 001, 002, 003); ignore the leading publication dates in list rows
+- next_number = max_number + 1
+- Format as 3 digits with zero-padding (e.g. 004)
+
+If Case List is empty:
+- next_number = 001
+
+Example reference:
+ [栏目目录](https://github.com/fivsevn-agy/fivsevn-devlog/blob/main/posts/ai-discourse-analysis/index.md)
+
+> 从 Case List 自动算下一篇：最大值+1，补零三位
+
+---
+
+## 3) Learn Existing Article Format
+Read latest 1–3 articles in the column.
+
+Goal:
+- package naming style `YYYY/MM/NNN-topic-slug/index.md`
+- per-article materials stored in that package's `assets/`
+- typical body sections
+- common tags and maturity/confidence defaults
+- keep style consistent
+
+Do NOT reuse content, only learn format.
+
+---
+
+## 4) User Inputs
+User provides:
+- column name
+- title (must be used verbatim)
+
+Optional:
+- topic slug (if missing, AI generates)
+- materials links (optional)
+
+User does NOT need to provide the number.
+
+> 用户只给：专栏 + 标题。编号自动算
+
+---
+
+## 5) Topic Slug Generation
+If user does not provide topic slug:
+Generate a short english slug from the title:
+
+Rules:
+- lowercase
+- letters/numbers/hyphen only
+- 2–6 words max
+- remove stopwords
+- avoid dates in slug unless meaningful
+
+> topic slug 自动英文化，短，稳定
+
+---
+
+## 6) File Naming
+Package path:
+posts/ai-discourse-analysis/{YYYY}/{MM}/{NNN}-{topic-slug}/
+
+Filename:
+index.md
+
+Materials and images:
+assets/
+
+NNN is auto-numbered from Step 2. YYYY/MM follows the created date in Asia/Shanghai. Keep the package name and id stable after publication.
+
+---
+
+## 7) Frontmatter Rules
+Required fixed values:
+module: posts
+submodule: (from column index; do not invent)
+type: article
+status: active
+canonical: true
+source_of_truth: devlog
+filename_policy: entrypoint
+
+Other fields:
+- id: must follow repo id convention; keep consistent with existing articles in this column
+- topic: use topic slug
+- summary/tags/maturity/confidence/audience/languages/visibility/source_of_truth:
+  infer from column + existing articles (keep consistent)
+
+Dates:
+created = today in Asia/Shanghai
+updated = today in Asia/Shanghai
+
+> 保持仓库统一 metadata 语法；其余字段按专栏既有风格推断
+
+---
+
+## 8) Body Skeleton (minimal)
+Generate minimal placeholders only:
+
 # 本期材料
+(placeholder)
 
-（待填写）
-
+---
 # 提示词
+(placeholder)
 
-（待填写）
-
+---
 # 正文
+(placeholder)
 
-（待填写）
-```
+No actual content.
 
-栏目目录由发布流程自动更新，无需手动添加条目。修改旧文时保留原 `id`、目录、`created` 和 `permalink`。
+---
+
+## 9) Also Output: Index Preview Line (Optional helper)
+Additionally output ONE preview line showing the expected column Case List entry:
+
+- YYYY.MM.DD [NNN｜{title}]({YYYY}/{MM}/{NNN}-{topic-slug}/index.md)
+
+The Case List is generated from article metadata. Do not manually paste into the AUTO-INDEX block.
+
+> 额外给一行供核对；Case List 由目录脚本自动生成。
+
+---
+
+## 10) Output Format (strict)
+Output ONLY:
+
+1) Package path and filename (`index.md`)
+2) Full markdown (frontmatter + skeleton)
+3) Suggested Case List line (single line)
+
+No explanations.
+No extra text.
