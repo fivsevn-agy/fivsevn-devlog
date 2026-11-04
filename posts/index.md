@@ -47,6 +47,8 @@ updated: 2026-06-15
 #### > Directory
 
 <!-- AUTO-INDEX:POSTS_RECENT:START -->
+- 2026.11.04 [心理学经典研究如何误导了我们对自我的认识（译文）](2026/11/posts-2026-empty-self-001/index.md)
+
 - 2026.11.02 [评论｜Scripps 正在裁撤主播、增聘记者：这是地方电视新闻的未来吗？（译文）](2026/11/posts-2026-scripps-anchorless-local-tv-news-001/index.md)
 
 - 2026.10.24 [基督宗教教派比较速查手册｜历史、神学、分布与社会议题](2026/10/posts-20261024-christian-traditions-handbook-001/index.md)
