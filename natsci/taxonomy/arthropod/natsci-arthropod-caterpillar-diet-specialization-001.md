@@ -40,6 +40,7 @@ legacy:
 created: "2026-06-15"
 updated: "2026-06-15"
 metadata_updated: "2026-11-04"
+extra: {"original_author": "Paul Arnold", "original_published": "2026-06-14"}
 ---
 
 # ◇ 植物多样性与毛毛虫的食性
@@ -54,7 +55,7 @@ SOURCE
 
 [Plant diversity may explain why some caterpillars are fussy about their food](https://phys.org/news/2026-06-diversity-caterpillars-fussy-food.html)
 
-Phys.org
+作者：Paul Arnold · 来源：Phys.org · 日期：2026.06.14
 
 <a id="note"></a>
 
@@ -72,9 +73,7 @@ NOTE
 
 编辑：Gaby Clark，审核：Robert Egan
 
-![Image: butterfly caterpillar eating](https://scx1.b-cdn.net/csz/news/800a/2026/butterfly-caterpillar.jpg)
-
-> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
+[原文配图 1：前往原文查看](https://phys.org/news/2026-06-diversity-caterpillars-fussy-food.html)
 
 图片来源：Satheesh Cholakkal，Pexels
 

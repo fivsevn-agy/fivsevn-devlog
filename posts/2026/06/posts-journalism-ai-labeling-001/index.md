@@ -42,6 +42,7 @@ updated: "2026-06-18"
 metadata_updated: "2026-11-04"
 permalink: "/posts/2026/posts-journalism-ai-labeling-001.html"
 filename_policy: "entrypoint"
+extra: {"original_author": "Mark Coddington、Tamar Wilner", "original_published": "2026-06-17"}
 ---
 
 # ◇ 新闻机构的 AI 标注与受众信任
@@ -52,7 +53,7 @@ SOURCE
 
 [How should news organizations label their AI use for audiences? New studies suggest some answers](https://www.niemanlab.org/2026/06/how-should-news-organizations-label-their-ai-use-for-audiences-new-studies-suggest-some-answers/)
 
-Nieman Lab · Nieman Journalism Lab
+作者：Mark Coddington、Tamar Wilner · 来源：Nieman Lab · 日期：2026.06.17
 
 NOTE
 

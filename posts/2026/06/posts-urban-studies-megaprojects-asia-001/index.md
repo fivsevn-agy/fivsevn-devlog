@@ -42,6 +42,7 @@ updated: "2026-06-26"
 metadata_updated: "2026-11-04"
 permalink: "/posts/2026/posts-urban-studies-megaprojects-asia-001.html"
 filename_policy: "entrypoint"
+extra: {"original_author": "Sara Bardhan", "original_published": "2026-06-22"}
 ---
 
 # ◇ 亚洲大型项目与城市发展
@@ -52,7 +53,7 @@ SOURCE
 
 [Urbanisation, megaprojects and dispossession in Asia](https://blogs.lse.ac.uk/lsereviewofbooks/2026/06/22/book-review-the-political-economy-of-megaprojects-in-asia-state-power-land-control-financial-flows-and-dispossession-hyun-bang-shin-dong-wan-gimm/)
 
-LSE Review of Books
+作者：Sara Bardhan · 来源：LSE Review of Books · 日期：2026.06.22
 
 NOTE
 
@@ -80,8 +81,7 @@ _《亚洲大型项目的政治经济学：国家权力、土地控制、金融�
 
 本书借鉴 [Henri Lefebvre](https://www.jstor.org/stable/10.5749/j.ctttsrv7)、[David Harvey](https://books.google.co.in/books?hl=en&lr=&id=dpomk7KEX6MC&oi=fnd&pg=PA98&dq=Harvey,+D.+(1999)+Time-space+compression+and+the+postmodern+condition&ots=x_ho1bUF1y&sig=ATaNsk763r3L3jwrz-wTLIObHx0&redir_esc=y#v=onepage&q=Harvey%2C%20D.%20(1999)%20Time-space%20compression%20and%20the%20postmodern%20condition&f=false) 和 [Manuel Castells](https://onlinelibrary.wiley.com/doi/book/10.1002/9781444319514) 的思想，说明国家如何同时充当大型项目的建筑师、策展人、调解者和促进者。在韩国[江南](https://sema.seoul.go.kr/semaaa/data/upload/attach/10000/17153/20210917150603632.pdf)和[松岛](https://www.taylorfrancis.com/chapters/edit/10.4324/9781315643069-12/songdo-seungho-yoo)、台湾[桃园航空城](https://api.taylorfrancis.com/content/chapters/edit/download?identifierName=doi&identifierValue=10.4324/9781315115078-4&type=chapterpdf)，以及伊斯坦布尔[第三机场](https://www.sciencedirect.com/science/article/pii/S0016718525000776)等案例中，国家主动设计并管理城市空间，以提升全球竞争力。在古尔冈的 [DLF Cybercity](https://www.jstor.org/stable/26953013?casa_token=gbQDOuXBGxUAAAAA:HwF-OnzhAW8Li6FgkXUclJevmR3qztptNJAxDBF6WDQZpwvMZSzwNm_sZ4PS70n16eseIojJuOrpl0xu3i3Wbp0vruMmwXf67PYs5ujsrCDC0PNPS48) 和[金奈 IT 走廊](https://api.taylorfrancis.com/content/chapters/edit/download?identifierName=doi&identifierValue=10.4324/9781315115078-5&type=chapterpdf)[，](https://api.taylorfrancis.com/content/chapters/edit/download?identifierName=doi&identifierValue=10.4324/9781315115078-5&type=chapterpdf)国家动员土地、放松分区法规，并促成“土地换基础设施”交易，以吸引国内和离岸资本。因此，大型项目成为国家试图实现发展愿景、同时使自身权威合法化的工具。
 
-[![Image 1]({{ '/posts/2026/06/posts-urban-studies-megaprojects-asia-001/assets/image-01.png' | relative_url }})](https://www.routledge.com/The-Political-Economy-of-Megaprojects-in-Asia-State-Power-Land-Control-Financial-Flows-and-Dispossession/Shin-Gimm/p/book/9781138070448)
-图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
+[原文配图 1：前往原文查看](https://blogs.lse.ac.uk/lsereviewofbooks/2026/06/22/book-review-the-political-economy-of-megaprojects-in-asia-state-power-land-control-financial-flows-and-dispossession-hyun-bang-shin-dong-wan-gimm/)
 
 同样重要的是，本书把国家概念化为一种由多种行动者构成的异质性组合，这些行动者在多个尺度上运作。大型项目通过地方政府、国家部委、跨国公司、开发商、金融机构和跨国投资者之间的复杂协商而产生。这种多尺度方法是本书最突出的优点之一，因为它既避免了[方法论国家主义](https://www.tandfonline.com/doi/abs/10.1080/09692290.2024.2401432)，同时仍然承认国家权力在塑造城市化方面的持续重要性。
 

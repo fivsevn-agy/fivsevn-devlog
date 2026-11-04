@@ -27,7 +27,7 @@ visibility: "public"
 source_of_truth: "translation"
 
 original_title: "Tents in Strong Wind: What You Need to Know"
-original_source: "SlowerHiking"
+original_source: "Slower Hiking"
 original_publisher: "Helen & Geoff"
 original_url: "https://slowerhiking.com/shelter/tents-in-strong-wind-what-you-need-to-know"
 translation_note: "根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。"
@@ -58,6 +58,7 @@ permalink: "/posts/2025/2025-06-27-【授权转载】Tents in Strong Wind What Y
 created: "2025-06-27"
 updated: "2025-09-03"
 metadata_updated: "2026-11-04"
+extra: {"original_author": "Slower Hiking", "original_published": "2023-11-12"}
 ---
 
 # ◇ 强风环境下的帐篷选择与搭建
@@ -66,7 +67,7 @@ SOURCE
 
 [Tents in Strong Wind: What You Need to Know](https://slowerhiking.com/shelter/tents-in-strong-wind-what-you-need-to-know)
 
-SlowerHiking · Helen & Geoff
+作者：Slower Hiking · 来源：Slower Hiking · 日期：2023.11.12
 
 NOTE
 

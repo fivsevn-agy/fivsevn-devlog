@@ -27,7 +27,7 @@ confidence: 0.9
 visibility: "public"
 source_of_truth: "translation"
 
-original_title: "Extensive Dinosaur Tracks Uncovered in Oxfordshire"
+original_title: "Remarkable “Dinosaur Highway” Uncovered in Oxfordshire"
 original_source: "Everything Dinosaur"
 original_publisher: "Everything Dinosaur"
 original_url: "https://blog.everythingdinosaur.com/blog/_archives/2025/01/03/remarkable-dinosaur-highway-uncovered-in-oxfordshire.html"
@@ -36,6 +36,7 @@ translation_note: "根据上述资料形成的中文阅读记录，主要供个�
 created: "2026-06-13"
 updated: "2026-06-13"
 metadata_updated: "2026-11-04"
+extra: {"original_author": "Mike", "original_published": "2025-01-03"}
 ---
 
 # ◇ 牛津郡的侏罗纪恐龙足迹
@@ -48,9 +49,9 @@ metadata_updated: "2026-11-04"
 
 SOURCE
 
-[Extensive Dinosaur Tracks Uncovered in Oxfordshire](https://blog.everythingdinosaur.com/blog/_archives/2025/01/03/remarkable-dinosaur-highway-uncovered-in-oxfordshire.html)
+[Remarkable “Dinosaur Highway” Uncovered in Oxfordshire](https://blog.everythingdinosaur.com/blog/_archives/2025/01/03/remarkable-dinosaur-highway-uncovered-in-oxfordshire.html)
 
-Everything Dinosaur
+作者：Mike · 来源：Everything Dinosaur · 日期：2025.01.03
 
 <a id="note"></a>
 
@@ -66,9 +67,7 @@ NOTE
 
 研究人员记录到了兽脚类足迹。这些足迹被暂定归属于 Megalosaurus。其中一些三趾足迹表明，这里曾存在体长达九米的肉食性恐龙。蜥脚类足迹也被发现。蜥脚类足迹被暂定归属于 Cetiosaurus。Cetiosaurus 是第一种被科学描述的蜥脚类恐龙（Owen 1841）。其中一些足迹表明，这里曾有体长约十八米的蜥脚类恐龙活动。
 
-[![Image 1: Dewars Farm Quarry excavation work.](https://blog.everythingdinosaur.com/wp-content/uploads/2025/01/Birmingham-dinosaur-tracks-dewars-farm-1.jpg)](http://blog.everythingdinosaur.com/wp-content/uploads/2025/01/Birmingham-dinosaur-tracks-dewars-farm-1.jpg)
-
-> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
+[原文配图 1：前往原文查看](https://blog.everythingdinosaur.com/blog/_archives/2025/01/03/remarkable-dinosaur-highway-uncovered-in-oxfordshire.html)
 
 _2024 年 6 月正在进行的 Dewars Farm Quarry 发掘工作。图片来源：伯明翰大学。_
 
@@ -78,9 +77,7 @@ _图片来源：伯明翰大学_
 
 这个非凡的遗迹化石地点将出现在 BBC 电视节目《Digging for Britain》中。节目将在 1 月 8 日于 BBC Two 播出。一项名为“Breaking Ground”的新公众展览即将在牛津大学自然史博物馆（OUMNH）开幕。该展览将突出这些恐龙行迹研究的重要性。
 
-[![Image 2: A trio of fieldworkers excavating a dinosaur track.](https://blog.everythingdinosaur.com/wp-content/uploads/2025/01/Birmingham-trio-excavate-dinosaur-tracks.jpg)](http://blog.everythingdinosaur.com/wp-content/uploads/2025/01/Birmingham-trio-excavate-dinosaur-tracks.jpg)
-
-> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
+[原文配图 2：前往原文查看](https://blog.everythingdinosaur.com/blog/_archives/2025/01/03/remarkable-dinosaur-highway-uncovered-in-oxfordshire.html)
 
 _三名野外工作人员正在发掘一处恐龙足迹。图片来源：Caroline Wood（牛津大学）。_
 
@@ -90,9 +87,7 @@ _图片来源：Caroline Wood（牛津大学）_
 
 发掘工作在 Dewars Farm Quarry（牛津郡）进行。研究人员发现了五条大规模行迹，尽管这个区域很可能还有更多脚印和行迹。最长的连续行迹长度超过一百五十米。其中四条行迹由蜥脚类恐龙留下。第五组足迹由一只兽脚类恐龙留下。
 
-[![Image 3: Sauropod track SE38 (Dewars Farm Quarry dinosaur tracks).](https://blog.everythingdinosaur.com/wp-content/uploads/2025/01/Birmingham-dinosaur-tracks-sauropod-print.jpg)](http://blog.everythingdinosaur.com/wp-content/uploads/2025/01/Birmingham-dinosaur-tracks-sauropod-print.jpg)
-
-> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
+[原文配图 3：前往原文查看](https://blog.everythingdinosaur.com/blog/_archives/2025/01/03/remarkable-dinosaur-highway-uncovered-in-oxfordshire.html)
 
 _蜥脚类足迹 SE38。图片来源：伯明翰大学 Luke Meade 博士。_
 
@@ -102,9 +97,7 @@ _图片来源：伯明翰大学 Luke Meade 博士_
 
 采石场中的一个区域保存了兽脚类与蜥脚类足迹相互交叉的情况。这提出了一个引人入胜的问题：这两类恐龙是否发生过互动，以及它们如何互动。
 
-[![Image 4: Intersection of theropod and sauropod tracks (Dewars Farm Quarry dinosaur tracks)](https://blog.everythingdinosaur.com/wp-content/uploads/2025/01/Birmingham-dinosaur-tracks-theropod-sauropod.jpg)](http://blog.everythingdinosaur.com/wp-content/uploads/2025/01/Birmingham-dinosaur-tracks-theropod-sauropod.jpg)
-
-> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
+[原文配图 4：前往原文查看](https://blog.everythingdinosaur.com/blog/_archives/2025/01/03/remarkable-dinosaur-highway-uncovered-in-oxfordshire.html)
 
 _兽脚类与蜥脚类足迹的交汇处。兽脚类足迹在左侧，较深且更大的蜥脚类足迹在其后方（右侧）。图片来源：伯明翰大学 Luke Meade 博士。_
 
@@ -116,9 +109,7 @@ _“科学家了解并研究 Megalosaurus 的时间，比地球上任何其他�
 
 这些足迹原本被埋在泥层之下。采石场工人 Gary Johnson 用挖掘机剥离黏土、以暴露采石场石灰岩底面时，感觉到了“不寻常的凸起”，足迹因此显露出来。当这项发现的重要性得到确认后，专家被邀请到现场，对这些遗迹化石进行探查和测绘。牛津大学和伯明翰大学在这个研究项目中展开合作。2024 年 6 月，一支由一百多人组成的团队在该地点进行了为期一周的发掘。科学家们感谢 Dewars Farm Quarry 和 Duns Tew Quarry 的工作人员为该项目提供帮助。
 
-[![Image 5: An aerial view of the dinosaur track site](https://blog.everythingdinosaur.com/wp-content/uploads/2025/01/Birmingham-ArdleyQuarry22_06_24.jpg)](http://blog.everythingdinosaur.com/wp-content/uploads/2025/01/Birmingham-ArdleyQuarry22_06_24.jpg)
-
-> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
+[原文配图 5：前往原文查看](https://blog.everythingdinosaur.com/blog/_archives/2025/01/03/remarkable-dinosaur-highway-uncovered-in-oxfordshire.html)
 
 _2024 年 6 月 22 日拍摄的恐龙足迹地点航拍图。图片来源：伯明翰大学。_
 
@@ -128,9 +119,7 @@ _图片来源：伯明翰大学_
 
 为期一周的发掘揭示了约两百个恐龙脚印。研究人员使用无人机航拍来记录该地点，并绘制足迹位置图。研究团队还使用计算机建模，生成了精细的三维足迹。此外，他们还制作了足迹的彩色深度模型，为理解足迹及其基底提供了更多信息。
 
-[![Image 6: A colour depth computerised image showing a theropod and sauropod track intersecting.](https://blog.everythingdinosaur.com/wp-content/uploads/2025/01/Birmingham-dinosaur-tracks-colour-depth.jpg)](http://blog.everythingdinosaur.com/wp-content/uploads/2025/01/Birmingham-dinosaur-tracks-colour-depth.jpg)
-
-> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
+[原文配图 6：前往原文查看](https://blog.everythingdinosaur.com/blog/_archives/2025/01/03/remarkable-dinosaur-highway-uncovered-in-oxfordshire.html)
 
 _一张彩色深度计算机图像，显示兽脚类与蜥脚类足迹相交。图片来源：伯明翰大学 Luke Meade 博士。_
 
@@ -146,9 +135,7 @@ _“这些足迹为了解恐龙生活提供了一扇非同寻常的窗口，揭�
 
 这些并不是牛津郡首次发现恐龙足迹。它们与 1997 年该地区的发现相互关联；当时，早先的石灰岩采掘揭示了四十多组恐龙脚印。其中一些行迹长达一百八十米。在当时，这些足迹为了解中侏罗世期间生活在该地区的恐龙类型提供了新信息。
 
-[![Image 7: Ardley dinosaur tracks discovered in the 1990s.](https://blog.everythingdinosaur.com/wp-content/uploads/2025/01/Birmingham-dinosaur-tracks-1990s.jpg)](http://blog.everythingdinosaur.com/wp-content/uploads/2025/01/Birmingham-dinosaur-tracks-1990s.jpg)
-
-> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
+[原文配图 7：前往原文查看](https://blog.everythingdinosaur.com/blog/_archives/2025/01/03/remarkable-dinosaur-highway-uncovered-in-oxfordshire.html)
 
 _20 世纪 90 年代发现的 Ardley 恐龙足迹。图片来源：Paul Barrett 教授。_
 
@@ -168,9 +155,7 @@ OUMNH 地球科学家 Duncan Murdock 博士补充说：
 
 _“保存状况如此细致，以至于我们可以看到，当恐龙的脚踩入泥中又拔出时，泥层是如何变形的。结合洞穴、贝壳和植物等其他化石，我们可以让恐龙曾经走过的泥泞潟湖环境重新鲜活起来。”_
 
-[![Image 8: Dewars Farm Quarry in the Middle Jurassic.](https://blog.everythingdinosaur.com/wp-content/uploads/2025/01/Birmingham-dinosaur-tracks-laggoon.jpg)](http://blog.everythingdinosaur.com/wp-content/uploads/2025/01/Birmingham-dinosaur-tracks-laggoon.jpg)
-
-> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
+[原文配图 8：前往原文查看](https://blog.everythingdinosaur.com/blog/_archives/2025/01/03/remarkable-dinosaur-highway-uncovered-in-oxfordshire.html)
 
 _一幅艺术复原图，描绘 1.66 亿年前的 Dewars Farm Quarry 地点。一只 Megalosaurus 跟随一只成年 Cetiosaurus，背景中还有第二只蜥脚类恐龙，同时翼龙在头顶翱翔。图片来源：Mark Witton。_
 
@@ -178,9 +163,7 @@ _图片来源：Mark Witton_
 
 此次发掘由地质学家协会、伯明翰大学地理、地球与环境科学学院，以及伯明翰大学校友基金资助。
 
-[![Image 9: CollectA Age of Dinosaurs Popular Megalosaurus in Ambush](https://blog.everythingdinosaur.com/wp-content/uploads/2021/04/CollectA-Megalosaurus-web.jpg)](http://blog.everythingdinosaur.com/wp-content/uploads/2021/04/CollectA-Megalosaurus-web.jpg)
-
-> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
+[原文配图 9：前往原文查看](https://blog.everythingdinosaur.com/blog/_archives/2025/01/03/remarkable-dinosaur-highway-uncovered-in-oxfordshire.html)
 
 _第一种被科学描述的“恐龙”的复制模型：CollectA 伏击姿态 Megalosaurus 模型。该恐龙是在“Dinosauria”（恐龙总目）这一术语被创造出来之前命名的。图片来源：Everything Dinosaur。_
 

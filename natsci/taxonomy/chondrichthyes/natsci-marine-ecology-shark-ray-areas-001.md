@@ -28,7 +28,7 @@ visibility: "public"
 source_of_truth: "translation"
 
 original_title: "Australia added to global sharks and rays database"
-original_source: "Phys.org / Charles Darwin University"
+original_source: "Phys.org"
 original_publisher: "Charles Darwin University / Phys.org"
 original_url: "https://phys.org/news/2026-03-australia-added-global-sharks-rays.html"
 translation_note: "根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。"
@@ -40,6 +40,7 @@ legacy:
 created: "2026-03-14"
 updated: "2026-03-14"
 metadata_updated: "2026-11-04"
+extra: {"original_author": "Charles Darwin University", "original_published": "2026-03-13"}
 ---
 
 # ◇ 澳大利亚的鲨鱼与鳐类重要栖息地
@@ -54,7 +55,7 @@ SOURCE
 
 [Australia added to global sharks and rays database](https://phys.org/news/2026-03-australia-added-global-sharks-rays.html)
 
-Phys.org · Charles Darwin University
+作者：Charles Darwin University · 来源：Phys.org · 日期：2026.03.13
 
 <a id="note"></a>
 

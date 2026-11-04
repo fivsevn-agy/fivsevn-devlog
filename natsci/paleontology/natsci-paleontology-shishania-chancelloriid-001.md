@@ -28,7 +28,7 @@ visibility: "public"
 source_of_truth: "translation"
 
 original_title: "Scientists solve 500-million-year fossil mystery"
-original_source: "Phys.org / Durham University"
+original_source: "Phys.org"
 original_publisher: "Durham University / Phys.org"
 original_url: "https://phys.org/news/2025-05-scientists-million-year-fossil-mystery.html"
 translation_note: "根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。"
@@ -36,6 +36,7 @@ translation_note: "根据上述资料形成的中文阅读记录，主要供个�
 created: "2026-06-15"
 updated: "2026-06-15"
 metadata_updated: "2026-11-04"
+extra: {"original_author": "Durham University", "original_published": "2025-05-08"}
 ---
 
 # ◇ Shishania 化石的分类之谜
@@ -50,7 +51,7 @@ SOURCE
 
 [Scientists solve 500-million-year fossil mystery](https://phys.org/news/2025-05-scientists-million-year-fossil-mystery.html)
 
-Phys.org · Durham University
+作者：Durham University · 来源：Phys.org · 日期：2025.05.08
 
 <a id="note"></a>
 
@@ -66,9 +67,7 @@ NOTE
 
 作者：Durham University
 
-![Image: Durham University scientists solve 500-million-year fossil mystery](https://scx1.b-cdn.net/csz/news/800a/2025/durham-university-scie-1.jpg)
-
-> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
+[原文配图 1：前往原文查看](https://phys.org/news/2025-05-scientists-million-year-fossil-mystery.html)
 
 Shishania 标本。A 和 B 为不同光照条件下的标本，显示标本不均匀断裂如何揭示出清楚的上、下表面。E-G 为显示其刺的三维形态以及这些刺围绕顶端开口排列的标本。H 为两根单独的刺：左侧以俯视状态保存，显示圆形横截面；右侧以侧视状态保存。图片来源：Zhang Xiguang。
 
@@ -98,9 +97,7 @@ Shishania 标本。A 和 B 为不同光照条件下的标本，显示标本不�
 
 虽然它们表面上类似海绵，但其身体覆盖着星形骨针；这些骨针复杂的微观结构暗示，它们可能与更复杂的动物存在联系。
 
-![Image: Durham University scientists solve 500-million-year fossil mystery](https://scx1.b-cdn.net/csz/news/800a/2025/durham-university-scie-2.jpg)
-
-> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
+[原文配图 2：前往原文查看](https://phys.org/news/2025-05-scientists-million-year-fossil-mystery.html)
 
 空心三角形刺从一件 *Shishania* 标本的边缘伸出。图片来源：Zhang Xiguang。
 

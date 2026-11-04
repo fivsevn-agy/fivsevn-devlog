@@ -42,6 +42,7 @@ updated: "2026-06-15"
 metadata_updated: "2026-11-04"
 permalink: "/posts/2026/posts-neuropsychology-dementia-communication-001.html"
 filename_policy: "entrypoint"
+extra: {"original_author": "Nathaniel Chin、Caoilfhinn Rauwerdink", "original_published": "2026-06-10"}
 ---
 
 # ◇ 痴呆症患者的沟通与理解
@@ -56,7 +57,7 @@ SOURCE
 
 [How to talk to someone who has dementia](https://psyche.co/guides/how-to-talk-to-someone-who-has-dementia)
 
-Psyche
+作者：Nathaniel Chin、Caoilfhinn Rauwerdink · 来源：Psyche · 日期：2026.06.10
 
 <a id="note"></a>
 

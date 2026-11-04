@@ -28,7 +28,7 @@ visibility: "public"
 source_of_truth: "translation"
 
 original_title: "A 5.3-million‑year‑old whale graveyard has been found on the floor of the Indian Ocean"
-original_source: "Phys.org / The Conversation"
+original_source: "Phys.org"
 original_publisher: "Vanessa Pirotta / The Conversation / Phys.org"
 original_url: "https://phys.org/news/2026-06-millionyearold-whale-graveyard-floor-indian.html"
 translation_note: "根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。"
@@ -36,6 +36,7 @@ translation_note: "根据上述资料形成的中文阅读记录，主要供个�
 created: "2026-06-15"
 updated: "2026-06-15"
 metadata_updated: "2026-11-04"
+extra: {"original_author": "Vanessa Pirotta", "original_published": "2026-06-14"}
 ---
 
 # ◇ 印度洋海底的古老鲸类墓地
@@ -50,7 +51,7 @@ SOURCE
 
 [A 5.3-million‑year‑old whale graveyard has been found on the floor of the Indian Ocean](https://phys.org/news/2026-06-millionyearold-whale-graveyard-floor-indian.html)
 
-Phys.org · The Conversation · Vanessa Pirotta
+作者：Vanessa Pirotta · 来源：Phys.org · 日期：2026.06.14
 
 <a id="note"></a>
 
@@ -66,9 +67,7 @@ NOTE
 
 2026 年 6 月 14 日
 
-![A 5.3 million‑year‑old whale graveyard has been found on the floor of the Indian Ocean](https://scx1.b-cdn.net/csz/news/800a/2026/a-53-millionyearold-wh.jpg)
-
-> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
+[原文配图 1：前往原文查看](https://phys.org/news/2026-06-millionyearold-whale-graveyard-floor-indian.html)
 
 印度洋海床上的鲸骨碎片。图片来源：Global TREnD, IDSSE
 
@@ -90,9 +89,7 @@ NOTE
 
 在团队回收的 43 件化石中，他们识别出了 5 种喙鲸，包括已知栖息于该区域的安德鲁斯中喙鲸（Mesoplodon bowdoini）和带齿中喙鲸（Mesoplodon layardii），以及 1 种须鲸——塞鲸（Balaenoptera borealis）。
 
-![A 5.3 million‑year-old whale graveyard has been found on the floor of the Indian Ocean](https://scx1.b-cdn.net/csz/news/800a/2026/a-53-millionyearold-wh-1.jpg)
-
-> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
+[原文配图 2：前往原文查看](https://phys.org/news/2026-06-millionyearold-whale-graveyard-floor-indian.html)
 
 印度洋海床上的鲸骨碎片。图片来源：Global TREnD, IDSSE
 

@@ -70,7 +70,7 @@ posts/
 ![图片说明](/posts/2026/06/文章编号/assets/image-01.jpg)
 ```
 
-链接其他文章时，可使用对方的公开网址；维护目录时使用发布包的 `index.md` 源文件路径，网站构建会按它的 `permalink` 生成正确链接。译文使用 `type: translation`、`source_of_truth: translation`，保留原作出处、`original_*`、必要的 `rights` / `note`。页面标题与 `title` 同为 `◇ 概括性中文标题`，接普通文本标签 SOURCE、NOTE，随后接文章内容；目录使用同一标题并进入本站中文文章。实际生成与自动发布使用用户自行保存的 `translate and post.md`，接线方式见[快捷流程说明](../blogops/docs/auto-translation-shortcut.md)。
+链接其他文章时，可使用对方的公开网址；维护目录时使用发布包的 `index.md` 源文件路径，网站构建会按它的 `permalink` 生成正确链接。译文使用 `type: translation`、`source_of_truth: translation`，保留原作出处、`original_*`、必要的 `rights` / `note`。页面标题与 `title` 同为 `◇ 概括性中文标题`，接普通文本标签 SOURCE、NOTE；SOURCE 统一列出原文标题链接及作者、来源、发布日期，随后接文章内容；目录使用同一标题并进入本站中文文章。原文配图仅提供前往原文章查看的文字链接，保留图注，不嵌入、热链或保存原图文件。实际生成与自动发布使用用户自行保存的 `translate and post.md`，接线方式见[快捷流程说明](../blogops/docs/auto-translation-shortcut.md)。
 
 ## WordPress 旧文
 

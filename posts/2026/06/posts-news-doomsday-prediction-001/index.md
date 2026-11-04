@@ -42,6 +42,7 @@ updated: "2026-06-22"
 metadata_updated: "2026-11-04"
 permalink: "/posts/2026/posts-news-doomsday-prediction-001.html"
 filename_policy: "entrypoint"
+extra: {"original_author": "Seth Jacobson", "original_published": "2025-12-06"}
 ---
 
 # ◇ 关于 2026 年的世界末日预测
@@ -56,7 +57,7 @@ SOURCE
 
 [Physicist in 1960 said world would end in 2026. Here's the exact date](https://www.providencejournal.com/story/news/2025/12/06/doomsday-is-in-2026-according-to-a-1960-prediction-heres-the-date-massachusetts-von-foerster-ne-time/87620122007/)
 
-The Providence Journal
+作者：Seth Jacobson · 来源：The Providence Journal · 日期：2025.12.06
 
 <a id="note"></a>
 
@@ -114,9 +115,7 @@ von Foerster 在[《时代》的报道](https://time.com/archive/6647875/science
 
 并非所有人都同意他的评估。批评者指出，人类存在妊娠期，而且指数增长很少会持续下去，这些都是他的理论不太可能成真的原因。
 
-![Image 1: Late physicist Heinz von Foerster predicted back in 1960 that the world would end in 2026. At the start of 2025, the "Doomsday Clock" moved another second towards "midnight," which would mean the destruction of humanity.]({{ '/posts/2026/06/posts-news-doomsday-prediction-001/assets/image-01.jpg' | relative_url }})
-
-图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
+[原文配图 1：前往原文查看](https://www.providencejournal.com/story/news/2025/12/06/doomsday-is-in-2026-according-to-a-1960-prediction-heres-the-date-massachusetts-von-foerster-ne-time/87620122007/)
 
 ## 什么是“末日时钟”？
 

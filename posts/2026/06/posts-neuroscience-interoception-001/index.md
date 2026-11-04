@@ -28,7 +28,7 @@ visibility: "public"
 source_of_truth: "translation"
 
 original_title: "Inside interoception: The hidden sense of how you feel inside"
-original_source: "MIT Technology Review Explains"
+original_source: "MIT Technology Review"
 original_publisher: "MIT Technology Review"
 original_url: "https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/"
 translation_note: "根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。"
@@ -42,6 +42,7 @@ updated: "2026-06-16"
 metadata_updated: "2026-11-04"
 permalink: "/posts/2026/posts-neuroscience-interoception-001.html"
 filename_policy: "entrypoint"
+extra: {"original_author": "Katherine W. Isaacs", "original_published": "2026-06-12"}
 ---
 
 # ◇ 内感受与身体信号
@@ -52,7 +53,7 @@ SOURCE
 
 [Inside interoception: The hidden sense of how you feel inside](https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/)
 
-MIT Technology Review Explains · MIT Technology Review
+作者：Katherine W. Isaacs · 来源：MIT Technology Review · 日期：2026.06.12
 
 NOTE
 

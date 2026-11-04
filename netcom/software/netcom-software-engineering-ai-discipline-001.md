@@ -28,7 +28,7 @@ visibility: "public"
 source_of_truth: "translation"
 
 original_title: "AI demands more engineering discipline. Not less"
-original_source: "charity.wtf Substack"
+original_source: "charity.wtf"
 original_publisher: "Charity Majors"
 original_url: "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline"
 translation_note: "根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。"
@@ -40,6 +40,7 @@ legacy:
 created: "2026-06-22"
 updated: "2026-06-22"
 metadata_updated: "2026-11-04"
+extra: {"original_author": "Charity Majors", "original_published": "2026-06-15"}
 ---
 
 # ◇ AI 编程与工程纪律
@@ -50,7 +51,7 @@ SOURCE
 
 [AI demands more engineering discipline. Not less](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline)
 
-charity.wtf Substack · Charity Majors
+作者：Charity Majors · 来源：charity.wtf · 日期：2026.06.15
 
 NOTE
 
@@ -68,9 +69,7 @@ NOTE
 
 我不是在做这件事。我也不认为你_应该_这么做。但我选择这个例子并不是随机的，我会告诉你原因。
 
-[![Image 1](https://substackcdn.com/image/fetch/$s_!3g6N!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F87a779c4-2e63-495a-aa1b-b44f1558a24f_903x241.png)](https://substackcdn.com/image/fetch/$s_!3g6N!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F87a779c4-2e63-495a-aa1b-b44f1558a24f_903x241.png)
-
-图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
+[原文配图 1：前往原文查看](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline)
 
 人们很容易忘记，在 2025 年的大部分时间里，认为 AI 生成的代码是垃圾、而且可能永远都是垃圾，不只是一个合理立场，它还是默认的主流立场。[2](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline#footnote-2)
 
@@ -86,9 +85,7 @@ NOTE
 
 你可能知道，我来自可靠性这一侧。我愿意给自己和我这类人一个赞美：我们并不难适应新的现实。只要问题是真实的，并且摆在我们面前，我们就会顺滑地、甚至热切地调整自己，这要归功于一种不太健康的热情：我们喜欢舔食恶心的技术烂摊子（以及以后能在篝火旁讲的故事）。
 
-[![Image 2](https://substackcdn.com/image/fetch/$s_!jEKP!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F60b0224a-8572-43fa-85d5-0579487ed15f_787x301.png)](https://substackcdn.com/image/fetch/$s_!jEKP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F60b0224a-8572-43fa-85d5-0579487ed15f_787x301.png)
-
-图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
+[原文配图 2：前往原文查看](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline)
 
 我也愿意给自己和我这类人一个反向赞美：我们有时很难接受_进步是真实存在的_，也很难接受 bug 和边界情况仍然存在，并不会削弱这样一个事实：问题空间中的大片区域确实会随着时间大体被解决，以至于大多数人可以把它们当作理所当然。[3](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline#footnote-3)
 
@@ -104,9 +101,7 @@ NOTE
 
 在计算历史的大部分时间里，人们理解软件的主要方式是编写代码。一旦你达到一定熟练程度，阅读和讨论代码就能让你走完大部分路。（我可能会争辩说，软件工程师一直过度依赖_代码_，而不是通过可观测性来对_系统_进行意义建构。）
 
-[![Image 3](https://substackcdn.com/image/fetch/$s_!3-TF!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb45ec2a6-8f65-4ece-af9f-27720fbbaeb2_779x318.png)](https://substackcdn.com/image/fetch/$s_!3-TF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb45ec2a6-8f65-4ece-af9f-27720fbbaeb2_779x318.png)
-
-图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
+[原文配图 3：前往原文查看](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline)
 
 许多优秀的软件工程师认为，每一个（优秀的）软件工程团队的真正产物，一直都是我们对自己所拥有软件的共同理解。它会作为缓存状态存进我们脆弱的小肉脑里，经常被刷写到磁盘、部署到生产、提交到 GitHub，但意义一直都存在于我们的头脑中。
 
@@ -122,9 +117,7 @@ NOTE
 
 我们去年 8 月发布了 AI 强制令。[5](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline#footnote-5) 我已经看到了足够多的东西，知道这件事正在发生，而现在是时候做负责任的事了。[Honeycomb](http://honeycomb.io/) 是一家开发者工具公司，人们来找我们，是为了在技术前沿帮他们解决困难问题。我全力投入 AI，但我不能说在内心深处我真的对此非常兴奋。[6](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline#footnote-6)
 
-[![Image 4](https://substackcdn.com/image/fetch/$s_!lHkQ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faf09736c-8384-4a8b-8055-0e629d3c70f6_786x296.png)](https://substackcdn.com/image/fetch/$s_!lHkQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faf09736c-8384-4a8b-8055-0e629d3c70f6_786x296.png)
-
-图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
+[原文配图 4：前往原文查看](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline)
 
 然后我读到了 Chad Fowler 关于 [Phoenix Architectures](https://aicoding.leaflet.pub/) 的文章。
 
@@ -144,9 +137,7 @@ NOTE
 
 另一个我很喜欢的：“[The Deletion Test](https://aicoding.leaflet.pub/3md5ftetaes2e)”。
 
-[![Image 5](https://substackcdn.com/image/fetch/$s_!WxpU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F98d0d940-6230-4da3-8f73-38d275b056bc_779x295.png)](https://substackcdn.com/image/fetch/$s_!WxpU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F98d0d940-6230-4da3-8f73-38d275b056bc_779x295.png)
-
-图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
+[原文配图 5：前往原文查看](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline)
 
 > 这里有一个简单测试，你可以把它应用到自己参与的任何软件系统上：
 > 
@@ -179,9 +170,7 @@ NOTE
 
 以及，
 
-[![Image 6](https://substackcdn.com/image/fetch/$s_!TaBS!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8910be06-8ab1-4348-a6c2-63c426bc93b6_782x333.png)](https://substackcdn.com/image/fetch/$s_!TaBS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8910be06-8ab1-4348-a6c2-63c426bc93b6_782x333.png)
-
-图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
+[原文配图 6：前往原文查看](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline)
 
 > 在软件历史的大部分时间里，把代码视为耐久物是合理的。
 > 
@@ -208,9 +197,7 @@ NOTE
 > 
 > 我们无法以同样方式再生成代码，这一事实表明我们并不理解它。我们不知道自己做出了哪些承诺，不知道哪些依赖会被打破。大多数时候，我们是通过打破它们才找到它们。
 
-[![Image 7](https://substackcdn.com/image/fetch/$s_!_xw8!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3181579b-618e-4ef5-b7da-33756cc15ff8_888x281.png)](https://substackcdn.com/image/fetch/$s_!_xw8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3181579b-618e-4ef5-b7da-33756cc15ff8_888x281.png)
-
-图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
+[原文配图 7：前往原文查看](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline)
 
 想想你工作生涯中浪费在痛苦迁移和重写上的所有年月。想想替换那些承重的遗留代码。想想所有那些 [strangler figs](https://martinfowler.com/bliki/StranglerFigApplication.html)。
 
@@ -226,9 +213,7 @@ NOTE
 
 那些测试和技术并不是为了测试正确性，或者测试_应该_发生什么；它们是在观察并编码_正在_发生什么。行为测试、特征测试、捕获/回放、流量分流器。可观测性（好的那种）。
 
-[![Image 8](https://substackcdn.com/image/fetch/$s_!2r_p!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0156e490-2a09-4246-af73-6d6264cf5324_792x274.png)](https://substackcdn.com/image/fetch/$s_!2r_p!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0156e490-2a09-4246-af73-6d6264cf5324_792x274.png)
-
-图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
+[原文配图 8：前往原文查看](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline)
 
 生产环境中出现非确定性代码，终于在迫使我们做那些本来一直就该做的事。用 trace 做仪表化。在生产环境中做测试和 eval。生产不是开发结束之后才发生的事情，**生产是开发的一个阶段**。
 
@@ -242,9 +227,7 @@ NOTE
 
 如果说 2025 年是 vibe coding 之年，AI 生成代码行的能力达到了软件工程师中位数水平，而可能的未来范围常常让人感到不稳定、近乎不可思议地宽阔，那么我觉得 2026 年正在成形为一次**纪律的回归**。
 
-[![Image 9](https://substackcdn.com/image/fetch/$s_!HQKd!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F60407b92-d6c2-4436-8f5b-cf9b33fdb42f_860x282.png)](https://substackcdn.com/image/fetch/$s_!HQKd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F60407b92-d6c2-4436-8f5b-cf9b33fdb42f_860x282.png)
-
-图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
+[原文配图 9：前往原文查看](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline)
 
 毕竟，我们头脑中的知识，在被编码进系统之前，对 AI 来说是不可用的。对这些投入的回报将是巨大的、非线性的。我们也许会争辩说，从长期看它们本来就总会回本。但现在每一位 CEO 都急不可耐地想要尝到那些 AI 小甜饼，所以就给他们吧。纪律在前，甜饼在后。
 

@@ -36,6 +36,7 @@ translation_note: "根据上述资料形成的中文阅读记录，主要供个�
 created: "2026-03-13"
 updated: "2026-03-13"
 metadata_updated: "2026-11-04"
+extra: {"original_author": "Ewen Callaway", "original_published": "2026-03-12"}
 ---
 
 # ◇ 鲨鱼分类与基因组研究
@@ -50,7 +51,7 @@ SOURCE
 
 [No such thing as a shark? Genomes shake up ocean predator’s family tree](https://www.nature.com/articles/d41586-026-00594-w)
 
-Nature
+作者：Ewen Callaway · 来源：Nature · 日期：2026.03.12
 
 <a id="note"></a>
 

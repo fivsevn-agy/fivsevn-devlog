@@ -40,6 +40,7 @@ legacy:
 created: "2026-06-15"
 updated: "2026-06-15"
 metadata_updated: "2026-11-04"
+extra: {"original_author": "Virginia Tech（供稿）", "original_published": "2026-06-14"}
 ---
 
 # ◇ 马陆的早期陆地演化
@@ -54,7 +55,7 @@ SOURCE
 
 [Millipedes beat vertebrates to land by 80 million years](https://www.sciencedaily.com/releases/2026/06/260613034213.htm)
 
-ScienceDaily
+作者：Virginia Tech（供稿） · 来源：ScienceDaily · 日期：2026.06.14
 
 <a id="note"></a>
 

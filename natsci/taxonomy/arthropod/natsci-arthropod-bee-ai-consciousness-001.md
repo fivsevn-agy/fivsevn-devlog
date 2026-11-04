@@ -28,7 +28,7 @@ visibility: "public"
 source_of_truth: "translation"
 
 original_title: "Scientists are seriously asking if bees and ChatGPT are conscious"
-original_source: "ScienceDaily / The Conversation"
+original_source: "ScienceDaily（The Conversation 供稿）"
 original_publisher: "The Conversation; Colin Klein and Andrew Barron"
 original_url: "https://www.sciencedaily.com/releases/2026/06/260604044258.htm"
 translation_note: "根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。"
@@ -40,6 +40,7 @@ legacy:
 created: "2026-06-10"
 updated: "2026-06-10"
 metadata_updated: "2026-11-04"
+extra: {"original_author": "Colin Klein、Andrew Barron", "original_published": "2026-06-05"}
 ---
 
 # ◇ 蜜蜂与 AI 的意识之问
@@ -54,7 +55,7 @@ SOURCE
 
 [Scientists are seriously asking if bees and ChatGPT are conscious](https://www.sciencedaily.com/releases/2026/06/260604044258.htm)
 
-ScienceDaily · The Conversation · Colin Klein and Andrew Barron
+作者：Colin Klein、Andrew Barron · 来源：ScienceDaily（The Conversation 供稿） · 日期：2026.06.05
 
 <a id="note"></a>
 
@@ -127,7 +128,3 @@ NOTE
 对于计算机而言，我们必须判断看似毫不含糊的行为（一个聊天机器人与你一起沉思存在的目的）究竟是真正的意识指标，还是[单纯的角色扮演](https://doi.org/10.1038/s41586-023-06647-8)。
 
 然而，随着神经科学和 AI 领域的发展，二者都正在收敛到同一个教训：当我们判断某个事物是否有意识时，它如何运作正在被证明比它做了什么更有信息量。
-
-![Image 1: The Conversation](https://counter.theconversation.com/content/269803/count.gif?distributor=republish-lightbox-advanced)
-
-> 图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。

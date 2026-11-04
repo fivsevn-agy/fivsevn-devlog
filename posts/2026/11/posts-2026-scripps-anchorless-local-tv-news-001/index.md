@@ -48,6 +48,7 @@ rights:
 created: "2026-11-02"
 updated: "2026-11-02"
 metadata_updated: "2026-11-04"
+extra: {"original_author": "Kerwin Speight", "original_published": "2026-10-30"}
 ---
 
 # ◇ 地方电视新闻的无主播转型
@@ -62,11 +63,7 @@ SOURCE
 
 [Opinion \| Scripps is cutting anchors and adding reporters. Is this the future of local TV news?](https://www.poynter.org/business-work/2026/scripps-anchorless-local-tv-news-reporters/)
 
-Poynter · Kerwin Speight · 2026.10.30
-
-底本：用户提供的文章 PDF，第 1–7 页。
-
-© All Rights Reserved Poynter Institute 2026。
+作者：Kerwin Speight · 来源：Poynter · 日期：2026.10.30
 
 <a id="note"></a>
 

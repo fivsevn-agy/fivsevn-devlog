@@ -28,7 +28,7 @@ visibility: "public"
 source_of_truth: "translation"
 
 original_title: "Science: Doomsday in 2026 A.D."
-original_source: "TIME Archive"
+original_source: "TIME"
 original_publisher: "TIME"
 original_url: "https://time.com/archive/6647875/science-doomsday-in-2026-a-d/"
 translation_note: "根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。"
@@ -42,6 +42,7 @@ updated: "2026-06-22"
 metadata_updated: "2026-11-04"
 permalink: "/posts/2026/posts-population-doomsday-2026-001.html"
 filename_policy: "entrypoint"
+extra: {"original_author": "TIME", "original_published": "1960-11-14"}
 ---
 
 # ◇ 人口增长与 2026 年末日模型
@@ -52,7 +53,7 @@ SOURCE
 
 [Science: Doomsday in 2026 A.D.](https://time.com/archive/6647875/science-doomsday-in-2026-a-d/)
 
-TIME Archive · TIME
+作者：TIME · 来源：TIME · 日期：1960.11.14
 
 NOTE
 

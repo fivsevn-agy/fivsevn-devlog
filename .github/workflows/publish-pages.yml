@@ -63,6 +63,7 @@ jobs:
       - name: Test content and publishing behavior
         run: |
           python -m unittest discover -s scripts -p 'test_post_indexes.py' -v
+          python -m unittest discover -s scripts -p 'test_translation_pages.py' -v
           python -m unittest discover -s scripts -p 'test_fieldlog*.py' -v
           python -m unittest discover -s tests -p 'test_fieldlog*.py' -v
           python -m unittest discover -s tests -p 'test_metadata.py' -v
@@ -72,6 +73,8 @@ jobs:
         run: python .metadata-spec/tools/check_metadata.py --profile site-post-v1 --site fieldlog --content-root natsci/fieldlog --root . --schema .metadata-spec/content/content-metadata.schema.json
       - name: Update note directories
         run: python scripts/update_module_indexes.py
+      - name: Check translation source blocks and image exclusions
+        run: python scripts/check_translation_pages.py
       - name: Validate publication media and metadata
         run: |
           python scripts/media_naming.py check --site fieldlog --root natsci/fieldlog

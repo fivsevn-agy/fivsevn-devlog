@@ -29,7 +29,7 @@ source_of_truth: translation
 filename_policy: entrypoint
 
 original_title: "How psychology’s classic studies misled us about the self"
-original_source: "Psyche Ideas"
+original_source: "Psyche"
 original_publisher: "Aeon Media Group Ltd"
 original_url: "https://psyche.co/ideas/its-time-to-ditch-the-empty-self-view-of-human-psychology"
 translation_note: "根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。"
@@ -44,6 +44,7 @@ rights:
 created: "2026-11-04"
 updated: "2026-11-04"
 metadata_updated: "2026-11-04"
+extra: {"original_author": "Jack W Klein、William B Swann", "original_published": "2026-11-02"}
 ---
 
 # ◇ 自我与情境：心理学研究的反思
@@ -58,11 +59,7 @@ SOURCE
 
 [How psychology’s classic studies misled us about the self](https://psyche.co/ideas/its-time-to-ditch-the-empty-self-view-of-human-psychology)
 
-Psyche Ideas · Jack W Klein、William B Swann（心理学家） · 2026.11.02（据网页抓取元数据）
-
-编辑：Matt Huston。发布方：Aeon Media Group Ltd。
-
-© Aeon Media Group Ltd. 2012–2026 · [转载与翻译许可条款](https://psyche.co/republishing)
+作者：Jack W Klein、William B Swann · 来源：Psyche · 日期：2026.11.02
 
 <a id="note"></a>
 
@@ -76,7 +73,7 @@ NOTE
 
 ## 米尔格拉姆、津巴多以及近年的启动研究都暗示，我们极易被塑造。他们低估了我们实际上有多么稳定
 
-原页配图：勒内·马格利特（René Magritte）的《美好的漫步》（La belle promenade，1965 年）。摄影：Justin Tallis／AFP／Getty Images。[查看原图](https://images.aeonmedia.co/images/1ec811de-68ae-4dea-8f17-0fc6058d6c09/sz-gettyimages-2280377751.jpg?cropHeight=1440&cropWidth=2560&format=auto&left=0&quality=75&top=134&width=3840)。
+原页配图：勒内·马格利特（René Magritte）的《美好的漫步》（La belle promenade，1965 年）。摄影：Justin Tallis／AFP／Getty Images。[前往原文查看配图](https://psyche.co/ideas/its-time-to-ditch-the-empty-self-view-of-human-psychology)。
 
 想象一种生物，除了没有持久的内在自我之外，各方面都与人类相同。我们姑且把这个假想物种称为“空心人”（_Homo vacuus_）。驱动其行为的并非自身的信念与倾向，而是对眼前环境的下意识反应。由于缺少由偏好、态度与倾向构成的持久网络，空心人的性格内容会由他们当下所处的情境来填充。因此，当他们从一种情境转到另一种情境时，行为就会发生剧烈变化。
 

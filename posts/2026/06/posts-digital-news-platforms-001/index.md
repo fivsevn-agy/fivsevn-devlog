@@ -28,7 +28,7 @@ visibility: "public"
 source_of_truth: "translation"
 
 original_title: "Publishing trends for 2026: Tech platforms overtake publishers as global news source"
-original_source: "Digital Journalism"
+original_source: "Press Gazette"
 original_publisher: "Press Gazette"
 original_url: "https://pressgazette.co.uk/publishers/digital-journalism/news-publishing-trends-for-2026/"
 translation_note: "根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。"
@@ -42,6 +42,7 @@ updated: "2026-06-17"
 metadata_updated: "2026-11-04"
 permalink: "/posts/2026/posts-digital-news-platforms-001.html"
 filename_policy: "entrypoint"
+extra: {"original_author": "Charlotte Tobitt", "original_published": "2026-06-16"}
 ---
 
 # ◇ 2026 年新闻来源与平台变迁
@@ -52,7 +53,7 @@ SOURCE
 
 [Publishing trends for 2026: Tech platforms overtake publishers as global news source](https://pressgazette.co.uk/publishers/digital-journalism/news-publishing-trends-for-2026/)
 
-Digital Journalism · Press Gazette
+作者：Charlotte Tobitt · 来源：Press Gazette · 日期：2026.06.16
 
 NOTE
 
@@ -60,9 +61,7 @@ NOTE
 
 ---
 
-![Image 1: Reuters Digital News Report reveals key publishing trends]({{ '/posts/2026/06/posts-digital-news-platforms-001/assets/image-01.jpg' | relative_url }})
-
-图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
+[原文配图 1：前往原文查看](https://pressgazette.co.uk/publishers/digital-journalism/news-publishing-trends-for-2026/)
 
 《路透社数字新闻报告》揭示关键出版趋势
 
@@ -92,9 +91,7 @@ Press Gazette 整理出了今年新闻出版商应当了解的关键发现。
 
 在新闻出版商网站上观看视频的人群比例，自 2021 年以来下降 10 个百分点至 23%；而在社交媒体或视频网络上观看新闻相关视频的人群比例升至 69%（上升 14 个百分点）。
 
-![Image 2: Global news sources, per Reuters Institute Digital News Report 2026. Social and video networks overtake TV and news sites]({{ '/posts/2026/06/posts-digital-news-platforms-001/assets/image-02.webp' | relative_url }})
-
-图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
+[原文配图 2：前往原文查看](https://pressgazette.co.uk/publishers/digital-journalism/news-publishing-trends-for-2026/)
 
 根据 Reuters Institute《数字新闻报告 2026》统计的全球新闻来源
 
@@ -104,9 +101,7 @@ Press Gazette 整理出了今年新闻出版商应当了解的关键发现。
 
 报告指出：“回顾疫情高峰以来的五年，这一趋势非常清晰。作为获取新闻的首选方式，线上渠道剩下的增长几乎全部流向了第三方来源——社交媒体和视频网络以及 AI 聊天机器人。”
 
-![Image 3: Proportion who say social media and video networks or news websites/apps are their main source of news, broken out by age group]({{ '/posts/2026/06/posts-digital-news-platforms-001/assets/image-03.webp' | relative_url }})
-
-图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
+[原文配图 3：前往原文查看](https://pressgazette.co.uk/publishers/digital-journalism/news-publishing-trends-for-2026/)
 
 按年龄组拆分，表示社交媒体和视频网络或新闻网站/应用是其主要新闻来源的人群比例。图片：Reuters Institute《数字新闻报告 2026》
 
@@ -120,9 +115,7 @@ YouTube 现在是整体使用率最高的社交/视频平台（69%），也是�
 
 Facebook 的整体使用率位居第二（67%），并且仍然是最大的新闻类社交媒体平台；在[去年一次算法调整让出版商内容更加突出](https://pressgazette.co.uk/media-audience-and-business-data/media_metrics/facebook-referral-traffic-news-social-2025/)后，它已恢复增长。
 
-![Image 4: Reuters Institute Digital News Report 2026 chart about proportion who used social media or video networks for news in the past week - growth at Whatsapp, Youtube, Tiktok and Instagram, growth returns at Facebook, and stagnation at X, Facebook Messenger and Snapchat]({{ '/posts/2026/06/posts-digital-news-platforms-001/assets/image-04.webp' | relative_url }})
-
-图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
+[原文配图 4：前往原文查看](https://pressgazette.co.uk/publishers/digital-journalism/news-publishing-trends-for-2026/)
 
 Reuters Institute《数字新闻报告 2026》中关于过去一周使用社交媒体或视频网络获取新闻的人群比例图表
 
@@ -134,9 +127,7 @@ Reuters Institute《数字新闻报告 2026》中关于过去一周使用社交�
 
 但在英国，使用 AI 聊天机器人获取新闻内容的比例仍然只有 4%。在美国，使用率保持在 6%。
 
-![Image 5: Responses for question about usage of AI chatbots for news in Reuters Institute Digital News Report 2026. Ranging from South Korea (14% usage) at top to UK (4%) at bottom]({{ '/posts/2026/06/posts-digital-news-platforms-001/assets/image-05.webp' | relative_url }})
-
-图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
+[原文配图 5：前往原文查看](https://pressgazette.co.uk/publishers/digital-journalism/news-publishing-trends-for-2026/)
 
 Reuters Institute《数字新闻报告 2026》中关于使用 AI 聊天机器人获取新闻这一问题的回答
 
@@ -166,9 +157,7 @@ Reuters Institute《数字新闻报告 2026》中关于使用 AI 聊天机器人
 
 报告指出，这些下降或许可以部分解释受众为何从电视以及在线新闻网站/应用，转向第三方来源。
 
-![Image 6: Graphs showing declines in interest in the news in selected countries from 2015 to 2026. Argentina and UK saw biggest drops]({{ '/posts/2026/06/posts-digital-news-platforms-001/assets/image-06.webp' | relative_url }})
-
-图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
+[原文配图 6：前往原文查看](https://pressgazette.co.uk/publishers/digital-journalism/news-publishing-trends-for-2026/)
 
 图表显示 2015 年至 2026 年部分国家新闻兴趣下降情况。阿根廷和英国降幅最大。图片：Reuters Institute《数字新闻报告 2026》
 
@@ -186,9 +175,7 @@ Reuters Institute《数字新闻报告 2026》中关于使用 AI 聊天机器人
 
 今年，英国和美国的信任度均下降 5 个百分点，英国降至 30%，美国降至 25%。
 
-![Image 7: UK trust in news: 2015 to 2026: line graph showing decline from 51% to 30%]({{ '/posts/2026/06/posts-digital-news-platforms-001/assets/image-07.webp' | relative_url }})
-
-图片为原文远程资源引用；若无法显示，或需查看原图与上下文，请访问原文。
+[原文配图 7：前往原文查看](https://pressgazette.co.uk/publishers/digital-journalism/news-publishing-trends-for-2026/)
 
 英国对新闻的信任度：2015 年至 2026 年。图片：Reuters Institute《数字新闻报告 2026》
 
