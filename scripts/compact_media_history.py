@@ -66,9 +66,9 @@ def sha256_file(path):
     return value.hexdigest()
 
 
-def write_json(path, data):
+def write_json(path, data, *, sort_keys=True):
     temporary = Path(str(path) + '.tmp')
-    temporary.write_text(json.dumps(data, ensure_ascii=True, indent=2, sort_keys=True) + '\n')
+    temporary.write_text(json.dumps(data, ensure_ascii=True, indent=2, sort_keys=sort_keys) + '\n')
     os.replace(temporary, path)
 
 
@@ -350,7 +350,9 @@ def compact(repo, scope, output, defer_if_pending=False, remote='origin'):
                 raise CleanupError('Scoped non-WebP image paths remain in rewritten main history')
         changed_states, state_changes, cursors = map_states(scope, states, filtered_map)
         for file, data in changed_states.items():
-            write_json(repo / file, data)
+            # Event insertion order selects the newest owner of a reused inbox
+            # path. Keep source ledgers ordered; only reports are key-sorted.
+            write_json(repo / file, data, sort_keys=False)
         if changed_states:
             git(repo, 'add', '--', *changed_states)
             git(repo, '-c', 'user.name=WebP history maintenance', '-c', 'user.email=webp-history@example.invalid',
