@@ -36,8 +36,8 @@ legacy:
     - netcom-math-dynamicalsystem-001
 
 created: "2025-11-24"
-updated: "2026-03-01"
-metadata_updated: "2026-10-13"
+updated: "2026-11-04"
+metadata_updated: "2026-11-04"
 ---
 ## 堆（heap）和栈（stack）
 
@@ -124,6 +124,8 @@ stack和heap都是放东西，stack可以看到一层一层的，heap就是一�
 
 ---
 ### 让GPT给了几个具体的使用场景，随便熟悉一下
+
+下面涉及局部数组、`malloc/free`、`new` 和指针的例子，主要采用 C/C++ 的常见实现模型。它们帮助理解对象的存储与生命周期，不是所有语言都遵守的分配规则；Python 示例另见第五节。
 
 #### 一、Stack 在真实开发里的典型用法
 
@@ -277,14 +279,14 @@ C/C++ 新手经典错误。
 
 #### 四、最典型的真实场景故事（完整体验 stack 和 heap）
 
-场景：处理用户请求（一个 Web 服务器）
+场景：用 C/C++ 的常见实现模型，简化理解一个 Web 服务器如何处理请求
 
 - 1）请求进来
-程序开一个线程 / 协程 → 新建 stack
-像料理台一样准备好临时空间
+执行处理函数 → 建立调用帧
+像料理台一样准备好临时空间；不要求每个请求都新建线程或独立的栈
 
 - 2）解析用户输入
-临时变量、局部字符串 → 放 stack
+局部固定大小的字符数组等自动对象 → 通常使用 stack；动态字符串的字符缓冲区则可能在 heap
 
 - 3）要查询数据库，结果要返回给前端
 数据结构 → 放 heap（因为需要长期存在一会儿）
@@ -293,67 +295,54 @@ C/C++ 新手经典错误。
 就像料理台放一张便签写“冰箱有鸡肉（heap 地址）”
 
 - 5）请求结束
-stack 自动消失
+处理函数返回，对应调用帧退出；线程的整个 stack 不一定消失
 heap 中的对象如果不再需要 → GC 或 free
 
 ⸻
 
 #### 五、拿【处理 Meshtastic / LoRa 节点上传的数据】举例
 
-python
+这里使用 Python。按照 Python 官方内存文档的解释，对象由解释器的私有堆管理；`str`、`dict` 和 `list` 不会因为只在函数中临时使用，就变成 C/C++ 意义上的栈对象。局部名称绑定到对象，函数传参也传递对象引用；不必把这些名称在具体解释器中的存储位置硬套成“都在 stack”。
 
 ```python
 def handle_message(node_id, raw_payload):
-    # ------------- STACK（函数临时工作区）-------------
-    # 这些变量存在于函数调用期间，用完就被丢弃
-    
-    parsed = raw_payload.decode(”utf-8“)      # 临时解析结果 → stack
-    print(f”收到节点 {node_id} 的消息：{parsed}“)
+    # parsed 是本次调用的局部名称，引用 decode 生成的字符串对象
+    parsed = raw_payload.decode("utf-8")
+    print(f"收到节点 {node_id} 的消息：{parsed}")
 
-    # 创建一个临时 dict（仍在 stack 上，短期变量）
+    # 创建字典对象；局部名称 result 引用它
     result = {
-        ”node“: node_id,
-        ”text“: parsed,
+        "node": node_id,
+        "text": parsed,
     }
 
-    # 调用另一个函数，把 result 传下去
-    store_message(result)  # result 会作为“值”传递，但引用活在 heap（见下）
-    # ---------------------------------------------------
+    # 把同一字典对象的引用传给另一个函数，不复制字典
+    store_message(result)
 
 
 def store_message(msg):
-    # ------------- STACK（此函数自己的临时空间）-------------
-    # msg 是一个引用变量，放在 stack
-    # 但 msg 真实内容（dict）在 heap
+    # 局部名称 msg 与调用方的 result 引用同一个字典对象
+    print("正在保存消息...")
 
-    print(”正在保存消息...“)
-
-    # 这个 append 会把 msg（字典对象）放入 heap 里的全局列表
-    MESSAGE_DB.append(msg)   # 这里的 MESSAGE_DB 和里面的对象在 heap
-    # ---------------------------------------------------
+    # 列表保留对该字典的引用；没有把对象从 stack 搬到 heap
+    MESSAGE_DB.append(msg)
 
 
-# ------------- HEAP（进程长期存放数据的区域）-------------
-# 程序运行期间一直存在，只要你不关程序，这里就不会消失
-
-MESSAGE_DB = []   # 全局列表 → heap，存活时间 = 程序整个生命周期
-
-# ----------------------------------------------------------
-
+MESSAGE_DB = []   # 全局名称引用列表；列表继续持有已保存字典的引用
 
 # 模拟收到一条 LoRa / Meshtastic 数据
-handle_message(”node_01“, b”Hello Mesh“)
-handle_message(”node_02“, b”GPS: 31.2304,121.4737“)
+handle_message("node_01", b"Hello Mesh")
+handle_message("node_02", b"GPS: 31.2304,121.4737")
 
-print(”\n所有存档的消息：“)
+print("\n所有存档的消息：")
 for m in MESSAGE_DB:
     print(m)
 ```
 
 运行结果：
 
-- 两次 handle_message 的临时变量全部消失（stack 自动清空）
-- 但 MESSAGE_DB 仍然保存消息在 heap（长期存活）
+- 两次 `handle_message` 调用返回后，不再需要它们的局部名称绑定。
+- `MESSAGE_DB` 仍引用列表，列表仍引用两个字典，字典又引用消息字符串，所以这些对象仍然可达。等到不再有引用等可达关系时，才具备回收条件；具体回收时机取决于解释器实现。
 
 ```text
 收到节点 node_01 的消息：Hello Mesh
@@ -362,9 +351,11 @@ for m in MESSAGE_DB:
 正在保存消息...
 
 所有存档的消息：
-{’node‘: ’node_01‘, ’text‘: ’Hello Mesh‘}
-{’node‘: ’node_02‘, ’text‘: ’GPS: 31.2304,121.4737‘}
+{'node': 'node_01', 'text': 'Hello Mesh'}
+{'node': 'node_02', 'text': 'GPS: 31.2304,121.4737'}
 ```
+
+参考：[Python 内存管理](https://docs.python.org/3/c-api/memory.html)、[Python 函数参数与对象引用](https://docs.python.org/3/tutorial/controlflow.html#defining-functions)、[MIT 的对象别名与可变性讲义](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/1776670e271578eeb99fc25975f20586_MIT6_0001F16_Lec5.pdf)。
 
 ---
 目前不一定要全部都看懂，但是可以理解一下意思。

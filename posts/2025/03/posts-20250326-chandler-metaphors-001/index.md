@@ -31,7 +31,7 @@ references:
 - section: 相关作者
   text: Raymond Chandler（雷蒙德·钱德勒）July 23, 1888 – March 26, 1959
 - section: 参考版本
-  text: 'Chandler, R. (1939). _The big sleep_. Alfred A. Knopf. [美] 雷蒙德·钱德勒. 长眠不醒[M]. 傅惟慈译. 北京: 新星出版社, 2018.（原作出版于1939年） Chandler, R. (1940). _Farewell, my lovely_. Alfred A. Knopf. [美] 雷蒙德·钱德勒. 再见，吾爱[M]. 黄蕙译. 北京: 新星出版社, 2018.（原作出版于1940年） Chandler, R. (1953). _The long goodbye_. Houghton Mifflin. [美] 雷蒙德·钱德勒. 漫长的告别[M]. 王清雨译. 北京: 新星出版社, 2018.（原作出版于1953年）'
+  text: 'Chandler, R. (1939). _The big sleep_. Alfred A. Knopf. [美] 雷蒙德·钱德勒. 长眠不醒[M]. 傅惟慈译. 北京: 新星出版社, 2018.（原作出版于1939年） Chandler, R. (1940). _Farewell, my lovely_. Alfred A. Knopf. [美] 雷蒙德·钱德勒. 再见，吾爱[M]. 黄蕙译. 北京: 新星出版社, 2018.（原作出版于1940年） Chandler, R. (1953). _The long goodbye_. Houghton Mifflin. 【书目核对，Nov 4, 2026】此处的年、出版社组合待核：1953年英国初版由Hamish Hamilton出版，Houghton Mifflin美国初版为1954年。原列暂留，实际参考版本待按所用书籍版权页确认。 [美] 雷蒙德·钱德勒. 漫长的告别[M]. 王清雨译. 北京: 新星出版社, 2018.（原作出版于1953年）'
 note: 从 WordPress 原始页面还原正文和布局；图片、动图与视频随本发布包保存。
 aliases:
 - posts-2025-03-26-rayray的奇妙比喻
@@ -45,8 +45,8 @@ legacy:
   path: posts/2025/2025-03-26-RayRay的奇妙比喻.md
 permalink: /posts/2025/2025-03-26-RayRay的奇妙比喻.html
 created: '2025-03-26'
-updated: '2025-03-30'
-metadata_updated: '2026-11-01'
+updated: '2026-11-04'
+metadata_updated: '2026-11-04'
 layout: wordpress-post
 filename_policy: entrypoint
 extra:
@@ -306,7 +306,7 @@ canonical_url: https://devlog.fivsevn.com/posts/2025/2025-03-26-RayRay的奇妙�
 <div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
 <div aria-hidden="true" class="wp-block-spacer" style="height:50px"></div>
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
-<figure class="wp-block-table" style="font-size:13px;font-style:normal;font-weight:200"><table class="has-border-color has-contrast-border-color has-fixed-layout" style="border-width:1px"><thead><tr><th class="has-text-align-left" data-align="left">【Reference Deck】</th></tr></thead><tbody><tr><td class="has-text-align-left" data-align="left"><strong>相关作者</strong></td></tr><tr><td class="has-text-align-left" data-align="left">Raymond Chandler（雷蒙德·钱德勒）July 23, 1888 – March 26, 1959</td></tr><tr><td class="has-text-align-left" data-align="left"><strong>参考版本</strong></td></tr><tr><td class="has-text-align-left" data-align="left">Chandler, R. (1939). <em>The big sleep</em>. Alfred A. Knopf.<br/>[美] 雷蒙德·钱德勒. 长眠不醒[M]. 傅惟慈译. 北京: 新星出版社, 2018.（原作出版于1939年）<br/>Chandler, R. (1940). <em>Farewell, my lovely</em>. Alfred A. Knopf.<br/>[美] 雷蒙德·钱德勒. 再见，吾爱[M]. 黄蕙译. 北京: 新星出版社, 2018.（原作出版于1940年）<br/>Chandler, R. (1953). <em>The long goodbye</em>. Houghton Mifflin.<br/>[美] 雷蒙德·钱德勒. 漫长的告别[M]. 王清雨译. 北京: 新星出版社, 2018.（原作出版于1953年）</td></tr></tbody></table></figure>
+<figure class="wp-block-table" style="font-size:13px;font-style:normal;font-weight:200"><table class="has-border-color has-contrast-border-color has-fixed-layout" style="border-width:1px"><thead><tr><th class="has-text-align-left" data-align="left">【Reference Deck】</th></tr></thead><tbody><tr><td class="has-text-align-left" data-align="left"><strong>相关作者</strong></td></tr><tr><td class="has-text-align-left" data-align="left">Raymond Chandler（雷蒙德·钱德勒）July 23, 1888 – March 26, 1959</td></tr><tr><td class="has-text-align-left" data-align="left"><strong>参考版本</strong></td></tr><tr><td class="has-text-align-left" data-align="left">Chandler, R. (1939). <em>The big sleep</em>. Alfred A. Knopf.<br/>[美] 雷蒙德·钱德勒. 长眠不醒[M]. 傅惟慈译. 北京: 新星出版社, 2018.（原作出版于1939年）<br/>Chandler, R. (1940). <em>Farewell, my lovely</em>. Alfred A. Knopf.<br/>[美] 雷蒙德·钱德勒. 再见，吾爱[M]. 黄蕙译. 北京: 新星出版社, 2018.（原作出版于1940年）<br/>Chandler, R. (1953). <em>The long goodbye</em>. Houghton Mifflin.<br/><em>【书目核对，Nov 4, 2026】此处的年、出版社组合待核：1953年英国初版由Hamish Hamilton出版，Houghton Mifflin美国初版为1954年。原列暂留，实际参考版本待按所用书籍版权页确认。 参见 <a href="https://search.worldcat.org/title/1116751">WorldCat美国初版记录</a>及 <a href="https://www.christies.com/en/lot/lot-1107327">初版本实物记录</a>。</em><br/>[美] 雷蒙德·钱德勒. 漫长的告别[M]. 王清雨译. 北京: 新星出版社, 2018.（原作出版于1953年）</td></tr></tbody></table></figure>
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
 <div aria-hidden="true" class="wp-block-spacer" style="height:70px"></div>
 </div>

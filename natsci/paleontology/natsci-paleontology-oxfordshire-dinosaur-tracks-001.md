@@ -34,7 +34,7 @@ original_url: "https://blog.everythingdinosaur.com/blog/_archives/2025/01/03/rem
 translation_note: "根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。"
 
 created: "2026-06-13"
-updated: "2026-06-13"
+updated: "2026-11-04"
 metadata_updated: "2026-11-04"
 extra: {"original_author": "Mike", "original_published": "2025-01-03"}
 ---
@@ -153,7 +153,10 @@ _“我们还能从这个地点学到更多；它是我们国家地球遗产的�
 
 OUMNH 地球科学家 Duncan Murdock 博士补充说：
 
-_“保存状况如此细致，以至于我们可以看到，当恐龙的脚踩入泥中又拔出时，泥层是如何变形的。结合洞穴、贝壳和植物等其他化石，我们可以让恐龙曾经走过的泥泞潟湖环境重新鲜活起来。”_
+_“保存状况如此细致，以至于我们可以看到，当恐龙的脚踩入泥中又拔出时，泥层是如何变形的。结合潜穴（生物掘穴遗迹）、贝壳和植物等其他化石，我们可以让恐龙曾经走过的泥泞潟湖环境重新鲜活起来。”_
+
+> 译名说明：原文 burrows 在这里指生物掘穴留下的遗迹化石，不是地质意义的洞穴；这一语境也见于[牛津大学同期通告](https://www.ox.ac.uk/news/2025-01-02-major-new-footprint-discoveries-britain-s-dinosaur-highway)。
+
 
 [原文配图 8：前往原文查看](https://blog.everythingdinosaur.com/blog/_archives/2025/01/03/remarkable-dinosaur-highway-uncovered-in-oxfordshire.html)
 

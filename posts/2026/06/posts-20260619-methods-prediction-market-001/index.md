@@ -32,8 +32,8 @@ legacy:
     submodule: methods
 
 created: "2026-06-19"
-updated: "2026-06-19"
-metadata_updated: "2026-10-13"
+updated: "2026-11-04"
+metadata_updated: "2026-11-04"
 permalink: "/posts/2026/posts-20260619-methods-prediction-market-001.html"
 filename_policy: "entrypoint"
 ---
@@ -451,8 +451,12 @@ S = S₄/S₅
 
 ## 6.1 [Polymarket](https://polymarket.com/)
 
+本节按 Polymarket 的 **CLOB（中央限价订单簿）交易系统**分类，价格机制记为 **P₁**。至少在 [2023 年 1 月的官方 CTF Exchange 说明](https://github.com/Polymarket/ctf-exchange/blob/2745c3017400dbc1925711005fe76b018b999155/docs/Overview.md)中，该系统就已采用链外订单撮合、链上结算；[2025 年的独立研究](https://arxiv.org/abs/2508.03474)也按订单簿分析其交易。这里的混合架构指撮合与结算的分工，不等于 P₁ 与 AMM 的混合定价。
+
+历史范围另记：[官方旧版文档](https://legacy-docs.polymarket.com/order-books)曾说明订单簿与 AMM 问题并存。因此，具体旧市场如使用 AMM，应按其版本另记 **P₂**；本文不据此推定 AMM 的完整停用日期，也不将旧版情况无差别套用于本节的 CLOB 分类。
+
 ```text
-Polymarket = {Q, C₃, M₁/M₂, A₂, P₁/P₂, R₄, G₃, S₂, L₃, Z₁/Z₂/Z₃/Z₄/Z₆}
+Polymarket = {Q, C₃, M₁/M₂, A₂, P₁, R₄, G₃, S₂, L₃, Z₁/Z₂/Z₃/Z₄/Z₆}
 ```
 
 含义：
@@ -647,7 +651,7 @@ Omen/Gnosis = {Q, C₅, M₁/M₂, A₂, P₂, R₄, G₃/G₄, S₂, L₃, Z₇
 
 | 网站 | 抽象表达 |
 |---|---|
-| **[Polymarket](https://polymarket.com/)** | **C₃ + M₁/M₂ + A₂ + P₁/P₂ + R₄ + G₃ + S₂ + L₃** |
+| **[Polymarket](https://polymarket.com/)** | **C₃ + M₁/M₂ + A₂ + P₁ + R₄ + G₃ + S₂ + L₃** |
 | **[Kalshi](https://kalshi.com/)** | **C₃ + M₁/M₂ + A₁ + P₁ + R₁/R₂ + G₁ + S₁ + L₁/L₂** |
 | **[PredictIt](https://www.predictit.org/)** | **C₁/C₃ + M₁ + A₁ + P₁ + R₁/R₂ + G₁ + S₁ + Z₁** |
 | **[IBKR ForecastTrader](https://www.interactivebrokers.com/predictionmarkets/en/home.php)** | **C₁/C₃ + M₁/M₂ + A₁ + P₁ + R₂ + G₁ + S₁ + L₂** |
@@ -769,7 +773,7 @@ C₂ + A₃ + R₃ + G₂
 重点看：
 
 ```text
-A₂ + P₁/P₂ + R₄ + G₃
+A₂ + P₁ + R₄ + G₃
 ```
 
 ---

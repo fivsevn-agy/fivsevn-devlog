@@ -29,7 +29,7 @@ original_url: https://fivsevn.com/2025/03/14/%e6%b3%9b%e6%8c%87%e3%80%81%e6%8a%9
 subtitle: Framing
 references:
 - section: 相关作者
-  text: Agatha Christie（阿加莎·克里斯蒂）December 15, 1890 – January 12, 1976
+  text: Agatha Christie（阿加莎·克里斯蒂）September 15, 1890 – January 12, 1976
 - section: 参考版本
   text: '阿加莎克里斯蒂. 首相绑架案[M]. 王占一, 译. 北京: 新星出版社, 2018. (原作出版于 1924 年) Christie, A. (1924). Poirot investigates. The Bodley Head.'
 - section: 其他参考
@@ -49,8 +49,8 @@ legacy:
   path: posts/2025/2025-03-14-泛指、抑或是个人问题.md
 permalink: /posts/2025/2025-03-14-泛指、抑或是个人问题.html
 created: '2025-03-14'
-updated: '2025-03-15'
-metadata_updated: '2026-11-01'
+updated: '2026-11-04'
+metadata_updated: '2026-11-04'
 layout: wordpress-post
 filename_policy: entrypoint
 extra:
@@ -118,7 +118,7 @@ canonical_url: https://devlog.fivsevn.com/posts/2025/2025-03-14-泛指、抑或�
 <div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
 <div aria-hidden="true" class="wp-block-spacer" style="height:50px"></div>
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
-<figure class="wp-block-table" style="font-size:13px;font-style:normal;font-weight:200"><table class="has-border-color has-contrast-border-color has-fixed-layout" style="border-width:1px"><thead><tr><th class="has-text-align-left" data-align="left">【Reference Deck】</th></tr></thead><tbody><tr><td class="has-text-align-left" data-align="left"><strong>相关作者</strong></td></tr><tr><td class="has-text-align-left" data-align="left">Agatha Christie（阿加莎·克里斯蒂）December 15, 1890 – January 12, 1976</td></tr><tr><td class="has-text-align-left" data-align="left"><strong>参考版本</strong></td></tr><tr><td class="has-text-align-left" data-align="left">阿加莎克里斯蒂. 首相绑架案[M]. 王占一, 译. 北京: 新星出版社, 2018. (原作出版于 1924 年)<br/>Christie, A. (1924). Poirot investigates. The Bodley Head.</td></tr><tr><td class="has-text-align-left" data-align="left"><strong>其他参考</strong></td></tr><tr><td class="has-text-align-left" data-align="left">Goffman, E. (1974). <a href="https://www.goodreads.com/book/show/335896">Frame analysis: An essay on the organization of experience</a>. Harvard University Press.</td></tr><tr><td class="has-text-align-left" data-align="left">Wilkinson, T. (2022). <a href="https://www.goodreads.com/book/show/60165380-tutankhamun-s-trumpet">Tutankhamun’s trumpet: Ancient Egypt in 100 objects from the boy-king’s tomb</a>. W. W. Norton &amp; Company.<br/>托比·威尔金森. <a href="https://book.douban.com/subject/36532943/">图坦卡蒙的号角: 100件宝物中的古埃及文明</a>[M]. 朱敬文, 译. 北京: 中信出版集团, 2024. (原作出版于 2022 年)<br/>*图坦卡蒙的陵墓于1922年由霍华德·卡特带领的考古团队发现。</td></tr></tbody></table></figure>
+<figure class="wp-block-table" style="font-size:13px;font-style:normal;font-weight:200"><table class="has-border-color has-contrast-border-color has-fixed-layout" style="border-width:1px"><thead><tr><th class="has-text-align-left" data-align="left">【Reference Deck】</th></tr></thead><tbody><tr><td class="has-text-align-left" data-align="left"><strong>相关作者</strong></td></tr><tr><td class="has-text-align-left" data-align="left">Agatha Christie（阿加莎·克里斯蒂）September 15, 1890 – January 12, 1976</td></tr><tr><td class="has-text-align-left" data-align="left"><strong>参考版本</strong></td></tr><tr><td class="has-text-align-left" data-align="left">阿加莎克里斯蒂. 首相绑架案[M]. 王占一, 译. 北京: 新星出版社, 2018. (原作出版于 1924 年)<br/>Christie, A. (1924). Poirot investigates. The Bodley Head.</td></tr><tr><td class="has-text-align-left" data-align="left"><strong>其他参考</strong></td></tr><tr><td class="has-text-align-left" data-align="left">Goffman, E. (1974). <a href="https://www.goodreads.com/book/show/335896">Frame analysis: An essay on the organization of experience</a>. Harvard University Press.</td></tr><tr><td class="has-text-align-left" data-align="left">Wilkinson, T. (2022). <a href="https://www.goodreads.com/book/show/60165380-tutankhamun-s-trumpet">Tutankhamun’s trumpet: Ancient Egypt in 100 objects from the boy-king’s tomb</a>. W. W. Norton &amp; Company.<br/>托比·威尔金森. <a href="https://book.douban.com/subject/36532943/">图坦卡蒙的号角: 100件宝物中的古埃及文明</a>[M]. 朱敬文, 译. 北京: 中信出版集团, 2024. (原作出版于 2022 年)<br/>*图坦卡蒙的陵墓于1922年由霍华德·卡特带领的考古团队发现。</td></tr></tbody></table></figure>
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
 <div aria-hidden="true" class="wp-block-spacer" style="height:70px"></div>
 </div>

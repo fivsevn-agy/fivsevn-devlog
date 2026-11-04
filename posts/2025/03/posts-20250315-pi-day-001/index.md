@@ -34,7 +34,7 @@ references:
 - section: 其他参考
   text: '丹尼尔·J·布尔斯廷. [发现者（上下）](https://book.douban.com/subject/25835014/)[M]. 吕佩英, 译. 上海: 上海译文出版社, 2014. (原作出版于 1983 年) Boorstin, D. J. (1983)._[The discoverers: A history of man’s search to know his world and himself](https://www.goodreads.com/book/show/714380.The\_Discoverers?from\_search=true&from\_srp=true&qid=F5MMKV6Ll4&rank=1)_. Random House.'
 - section: 其他参考
-  text: '罗伯特·所罗门. [大问题：简明哲学导论](https://book.douban.com/subject/1071227/)[M]. 第9版. 张卜天, 译. 南宁: 广西师范大学出版社, 2021. （原书初版1982年） Solomon, R. C. (2009)._[The big questions: A short introduction to philosophy](https://www.goodreads.com/book/show/6412596-the-big-questions)_(9th ed.). Cengage Learning. (Original work published 1982)'
+  text: '罗伯特·所罗门. [大问题：简明哲学导论](https://book.douban.com/subject/1071227/)[M]. 第9版. 张卜天, 译. 南宁: 广西师范大学出版社, 2021. （原书初版1982年） Solomon, R. C. (2009)._[The big questions: A short introduction to philosophy](https://www.goodreads.com/book/show/6412596-the-big-questions)_(9th ed.). Cengage Learning. (Original work published 1982) 【书目核对，Nov 4, 2026】此处“2009年/第9版”的组合待核：WorldCat及大学馆藏将英文第9版记为2014年，并列Robert C. Solomon、Kathleen M. Higgins。原列暂留，具体年版与署名待按实际所用书籍版权页确认。'
 note: 从 WordPress 原始页面还原正文和布局；图片、动图与视频随本发布包保存。
 aliases:
 - posts-2025-03-15-麦麦赛博
@@ -48,8 +48,8 @@ legacy:
   path: posts/2025/2025-03-15-麦麦赛博π.md
 permalink: /posts/2025/2025-03-15-麦麦赛博π.html
 created: '2025-03-15'
-updated: '2025-03-29'
-metadata_updated: '2026-11-01'
+updated: '2026-11-04'
+metadata_updated: '2026-11-04'
 layout: wordpress-post
 filename_policy: entrypoint
 extra:
@@ -162,14 +162,14 @@ canonical_url: https://devlog.fivsevn.com/posts/2025/2025-03-15-麦麦赛博π.h
 <p class="wp-block-paragraph">• <a href="https://mitadmissions.org/blogs/entry/pi-day-2025-blood-moon/">MIT Admissions 博客（参与者记录）</a></p>
 <p class="wp-block-paragraph">2. 普林斯顿社区</p>
 <p class="wp-block-paragraph">普林斯顿在圆周率日庆祝爱因斯坦生日，派对之外还有“爱因斯坦模仿大赛”等趣味活动。</p>
-<p class="wp-block-paragraph">• <a href="https://princetontourcompany.com/activities/pi-day/">Princeton Tour Company 官方活动页面</a></p>
+<p class="wp-block-paragraph">• <a href="https://princetontourcompany.com/activities/pi-day/">Princeton Tour Company 官方活动页面</a>（Nov 4, 2026：此旧地址本次直连不可用，原链接保留；另见下列同期报道。）</p>
 <p class="wp-block-paragraph">• <a href="https://patch.com/new-jersey/princeton/fun-weekend-awaits-princeton-celebrates-pi-day-einstein">Patch 新闻网站（活动报道）</a></p>
 <p class="wp-block-paragraph">3. 亚马逊网络服务 (AWS)</p>
 <p class="wp-block-paragraph">AWS 在圆周率日举办了线上技术派对，聚焦数据分析与人工智能。</p>
-<p class="wp-block-paragraph">• <a href="https://aws.amazon.com/blogs/aws/pi-day-data-foundation-for-analytics-and-ai/">AWS 官方博客</a></p>
+<p class="wp-block-paragraph">• <a href="https://aws.amazon.com/blogs/aws/aws-pi-day-data-foundation-for-analytics-and-ai/">AWS 官方博客</a></p>
 <p class="wp-block-paragraph">4. 联合国教科文组织 (UNESCO)</p>
-<p class="wp-block-paragraph">UNESCO 带领全球一起庆祝国际数学日（圆周率日），告诉大家数学如何让世界更美好。</p>
-<p class="wp-block-paragraph">• <a href="https://www.gcedclearinghouse.org/zh-hans/news/mathematics-better-world-unesco-marks-international-day-mathematics-14-march?language=zh-hans">UNESCO 官方报道</a></p>
+<p class="wp-block-paragraph">2025年，UNESCO 以“数学、艺术与创造力”为主题庆祝国际数学日（圆周率日），并举办有关数学、艺术和教育的线上研讨会。</p>
+<p class="wp-block-paragraph">• <a href="https://www.unesco.org/en/articles/international-day-mathematics-2025?hub=921">UNESCO 官方报道</a></p>
 <p class="wp-block-paragraph">5. 谷歌（Google）</p>
 <p class="wp-block-paragraph">圆周率日这天，全球网友都在谷歌上疯狂搜索各种派食谱，还有有趣的数学话题。</p>
 <p class="wp-block-paragraph">• <a href="https://blog.google/feed/pi-day-search-trends/">Google 官方博客</a></p>
@@ -205,7 +205,7 @@ canonical_url: https://devlog.fivsevn.com/posts/2025/2025-03-15-麦麦赛博π.h
 <div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
 <div aria-hidden="true" class="wp-block-spacer" style="height:50px"></div>
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
-<figure class="wp-block-table" style="font-size:13px;font-style:normal;font-weight:200"><table class="has-border-color has-contrast-border-color has-fixed-layout" style="border-width:1px"><thead><tr><th class="has-text-align-left" data-align="left">【Reference Deck】</th></tr></thead><tbody><tr><td class="has-text-align-left" data-align="left"><strong>相关人物</strong></td></tr><tr><td class="has-text-align-left" data-align="left">Lawrence N. Shaw（拉里·肖）August 12, 1939 – August 19, 2017<br/>Archimedes of Syracuse（阿基米德）c. 287 – c. 212 BC<br/>Pythagoras of Samos（毕达哥拉斯）c. 570 – c. 495 BC<br/>David Émile Durkheim（涂尔干）April 15, 1858 – November 15, 1917</td></tr><tr><td class="has-text-align-left" data-align="left"><strong>其他参考</strong></td></tr><tr><td class="has-text-align-left" data-align="left">涂尔干. 宗教生活的基本形式[M]. 栾东, 译. 上海: 上海人民出版社, 1999. (原作出版于 1912年)<br/>*原法文版：<br/>Durkheim, É. (1912). <em>Les formes élémentaires de la vie religieuse: Le système totémique en Australie</em>. Alcan.<br/>*英译本：<br/>Durkheim, É. (1915). <em>The elementary forms of the religious life</em> (J. W. Swain, Trans.). Allen &amp; Unwin.<br/>Durkheim, É. (1965). <em>The elementary forms of the religious life</em> (J. W. Swain, Trans.). The Free Press.<br/>*其中，1965年由 The Free Press 出版的版本是目前学术界引用较多的英译本。</td></tr><tr><td class="has-text-align-left" data-align="left">丹尼尔·J·布尔斯廷. <a href="https://book.douban.com/subject/25835014/">发现者（上下）</a>[M]. 吕佩英, 译. 上海: 上海译文出版社, 2014. (原作出版于 1983 年)<br/>Boorstin, D. J. (1983). <em><a href="https://www.goodreads.com/book/show/714380.The_Discoverers?from_search=true&amp;from_srp=true&amp;qid=F5MMKV6Ll4&amp;rank=1">The discoverers: A history of man’s search to know his world and himself</a></em>. Random House.</td></tr><tr><td class="has-text-align-left" data-align="left">罗伯特·所罗门. <a href="https://book.douban.com/subject/1071227/">大问题：简明哲学导论</a>[M]. 第9版. 张卜天, 译. 南宁: 广西师范大学出版社, 2021. （原书初版1982年）<br/>Solomon, R. C. (2009). <em><a href="https://www.goodreads.com/book/show/6412596-the-big-questions">The big questions: A short introduction to philosophy</a></em> (9th ed.). Cengage Learning. (Original work published 1982)</td></tr></tbody></table></figure>
+<figure class="wp-block-table" style="font-size:13px;font-style:normal;font-weight:200"><table class="has-border-color has-contrast-border-color has-fixed-layout" style="border-width:1px"><thead><tr><th class="has-text-align-left" data-align="left">【Reference Deck】</th></tr></thead><tbody><tr><td class="has-text-align-left" data-align="left"><strong>相关人物</strong></td></tr><tr><td class="has-text-align-left" data-align="left">Lawrence N. Shaw（拉里·肖）August 12, 1939 – August 19, 2017<br/>Archimedes of Syracuse（阿基米德）c. 287 – c. 212 BC<br/>Pythagoras of Samos（毕达哥拉斯）c. 570 – c. 495 BC<br/>David Émile Durkheim（涂尔干）April 15, 1858 – November 15, 1917</td></tr><tr><td class="has-text-align-left" data-align="left"><strong>其他参考</strong></td></tr><tr><td class="has-text-align-left" data-align="left">涂尔干. 宗教生活的基本形式[M]. 栾东, 译. 上海: 上海人民出版社, 1999. (原作出版于 1912年)<br/>*原法文版：<br/>Durkheim, É. (1912). <em>Les formes élémentaires de la vie religieuse: Le système totémique en Australie</em>. Alcan.<br/>*英译本：<br/>Durkheim, É. (1915). <em>The elementary forms of the religious life</em> (J. W. Swain, Trans.). Allen &amp; Unwin.<br/>Durkheim, É. (1965). <em>The elementary forms of the religious life</em> (J. W. Swain, Trans.). The Free Press.<br/>*其中，1965年由 The Free Press 出版的版本是目前学术界引用较多的英译本。</td></tr><tr><td class="has-text-align-left" data-align="left">丹尼尔·J·布尔斯廷. <a href="https://book.douban.com/subject/25835014/">发现者（上下）</a>[M]. 吕佩英, 译. 上海: 上海译文出版社, 2014. (原作出版于 1983 年)<br/>Boorstin, D. J. (1983). <em><a href="https://www.goodreads.com/book/show/714380.The_Discoverers?from_search=true&amp;from_srp=true&amp;qid=F5MMKV6Ll4&amp;rank=1">The discoverers: A history of man’s search to know his world and himself</a></em>. Random House.</td></tr><tr><td class="has-text-align-left" data-align="left">罗伯特·所罗门. <a href="https://book.douban.com/subject/1071227/">大问题：简明哲学导论</a>[M]. 第9版. 张卜天, 译. 南宁: 广西师范大学出版社, 2021. （原书初版1982年）<br/>Solomon, R. C. (2009). <em><a href="https://www.goodreads.com/book/show/6412596-the-big-questions">The big questions: A short introduction to philosophy</a></em> (9th ed.). Cengage Learning. (Original work published 1982)<br/><em>【书目核对，Nov 4, 2026】此处“2009年/第9版”的组合待核：WorldCat及大学馆藏将英文第9版记为2014年，并列Robert C. Solomon、Kathleen M. Higgins。原列暂留，具体年版与署名待按实际所用书籍版权页确认。 参见 <a href="https://search.worldcat.org/title/854908139">WorldCat</a>及 <a href="https://vufind.juniv.edu/Record/144339/Details">Jahangirnagar大学馆藏书目</a>。</em></td></tr></tbody></table></figure>
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
 <div aria-hidden="true" class="wp-block-spacer" style="height:70px"></div>
 </div>

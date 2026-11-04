@@ -34,7 +34,7 @@ original_url: "https://www.nature.com/articles/d41586-026-00594-w"
 translation_note: "根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。"
 
 created: "2026-03-13"
-updated: "2026-03-13"
+updated: "2026-11-04"
 metadata_updated: "2026-11-04"
 extra: {"original_author": "Ewen Callaway", "original_published": "2026-03-12"}
 ---
@@ -103,10 +103,12 @@ Naylor 表示，类似现代鲨鱼的动物在这段时间的大部分时期都�
 
 然而，超保守序列 得出的结果却不同。它们表明鲨鱼可能是 并系群：一种特殊的鲨鱼类群——六鳃鲨目——形成了一个独立谱系，而另一个谱系则产生了 所有其他鲨鱼、鳐类和魟类。
 
-六鳃鲨目包括 牛鲨（cow sharks） 和 皱鳃鲨（frilled sharks）。它们具有一些独特特征：
+六鳃鲨目包括 六鳃鲨科鲨类（cow sharks） 和 皱鳃鲨类（frilled sharks）。它们具有一些独特特征：
 	•	6或7个鳃裂（而大多数鲨鱼只有5个）
 	•	原始形态的下颌结构
 	•	类似鳗鱼的身体形状
+
+> 译名说明：这里的 cow sharks 指六鳃鲨科（Hexanchidae），不是通常称为“牛鲨”的 bull shark（_Carcharhinus leucas_，真鲨科、真鲨目）。分类名称可对照[台湾鱼类数据库](https://fishdb.sinica.edu.tw/taxon/6032-fishdb)、[Florida Museum 的七鳃鲨资料](https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/sevengill-shark/)及 [FishBase 的牛鲨条目](https://fishbase.se/summary/Carcharhinus-leucas)。
 
 这个系统树的一个含义是：扁平身体的动物（例如蝠鲼）是从类似鲨鱼的祖先演化而来的。
 

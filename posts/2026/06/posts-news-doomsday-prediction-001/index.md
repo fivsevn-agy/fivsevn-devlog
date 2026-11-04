@@ -38,7 +38,7 @@ legacy:
     submodule: news
 
 created: "2026-06-22"
-updated: "2026-06-22"
+updated: "2026-11-04"
 metadata_updated: "2026-11-04"
 permalink: "/posts/2026/posts-news-doomsday-prediction-001.html"
 filename_policy: "entrypoint"
@@ -91,7 +91,7 @@ NOTE
 
 ## Heinz von Foerster 声称世界会在什么时候终结？
 
-von Foerster 所称的末日日期并不遥远，落在 [2026 年 11 月 13 日](https://www.science.org/doi/10.1126/science.132.3436.129)。
+von Foerster 所称的末日日期并不遥远，落在 [2026 年 11 月 13 日](https://www.science.org/doi/10.1126/science.132.3436.1291)。
 
 [他是在 1960 年作出这一预测的](https://www.science.org/doi/10.1126/science.132.3436.1291)，当时他在《科学》上提出了这些说法。
 
@@ -122,6 +122,8 @@ von Foerster 在[《时代》的报道](https://time.com/archive/6647875/science
 按照 2025 年初那次令人不安的[“末日时钟”](https://thebulletin.org/doomsday-clock/)重设，人类正处在迄今最接近自我毁灭的位置。
 
 在 2024 年向前拨动一秒后，[这座象征性时钟](https://thebulletin.org/doomsday-clock/)当时被设定为距午夜 89 秒。
+
+> 译注（2026-11-04）：此处保留现有译句，但年份应区分。公报的 [2024 年声明](https://thebulletin.org/doomsday-clock/2024-statement/)仍为距午夜 90 秒；[2025 年 1 月 28 日公告](https://thebulletin.org/2025/01/press-release-doomsday-clock-set-at-89-seconds-to-midnight-closest-ever-to-human-extinction/)才将其调至 89 秒，与上段“2025 年初”相符。原报道网页本次未能取得可用正文，尚不能判断年份差错来自原文还是旧译。
 
 [最初，这座时钟](https://thebulletin.org/doomsday-clock/)于 1947 年启动，用于衡量核灾难的危险。在过去二十年里，又增加了另外三个关注领域：气候变化、人工智能，以及错误信息和虚假信息。
 

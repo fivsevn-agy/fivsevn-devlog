@@ -38,7 +38,7 @@ legacy:
     submodule: literature
 
 created: "2026-06-08"
-updated: "2026-06-08"
+updated: "2026-11-04"
 metadata_updated: "2026-11-04"
 permalink: "/posts/2026/posts-literature-tolkien-fairy-stories-001.html"
 filename_policy: "entrypoint"
@@ -78,6 +78,8 @@ NOTE
 [原文配图 2：前往原文查看](https://www.themarginalian.org/2026/06/06/j-r-r-tolkien-on-fairy-stories/)
 
 J. R. R. Tolkien 为 [1936 年《霍比特人》第一版](https://www.themarginalian.org/2011/11/01/art-of-the-hobbit/)所绘的原始插图
+
+> 译注（2026-11-04）：以上保留现有图说。《霍比特人》首版出版于 **1937 年 9 月 21 日**，见 [Tolkien Estate 的出版史说明](https://www.tolkienestate.com/writing/john-d-rateliff-the-hobbit/)及[牛津大学 Exeter College 的馆藏介绍](https://www.exeter.ox.ac.uk/bodleian-marks-world-book-day-with-rare-tolkien-exhibition/)。插图创作年与首版出版年须分别判断；由于本次未能完整复核原图及图说，不把“1936”直接改认作这幅图的创作年份，也不将它视为首版出版年。
 
 托尔金从最开端处开始，先定义什么是童话：
 

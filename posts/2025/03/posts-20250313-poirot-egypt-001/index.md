@@ -29,7 +29,7 @@ original_url: https://fivsevn.com/2025/03/13/%e6%b3%a2%e6%b4%9b%e5%8e%bb%e5%9f%8
 subtitle: Poirot Goes to Egypt
 references:
 - section: 相关作者
-  text: Agatha Christie（阿加莎·克里斯蒂）December 15, 1890 – January 12, 1976
+  text: Agatha Christie（阿加莎·克里斯蒂）September 15, 1890 – January 12, 1976
 - section: 参考版本
   text: '阿加莎克里斯蒂. 首相绑架案[M]. 王占一, 译. 北京: 新星出版社, 2018. (原作出版于 1924 年) Christie, A. (1924). Poirot investigates. The Bodley Head.'
 - section: 其他参考
@@ -47,8 +47,8 @@ legacy:
   path: posts/2025/2025-03-13-波洛去埃及.md
 permalink: /posts/2025/2025-03-13-波洛去埃及.html
 created: '2025-03-13'
-updated: '2025-03-29'
-metadata_updated: '2026-11-01'
+updated: '2026-11-04'
+metadata_updated: '2026-11-04'
 layout: wordpress-post
 filename_policy: entrypoint
 extra:
@@ -92,7 +92,7 @@ canonical_url: https://devlog.fivsevn.com/posts/2025/2025-03-13-波洛去埃及.
 <div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
 <div aria-hidden="true" class="wp-block-spacer" style="height:50px"></div>
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
-<figure class="wp-block-table" style="font-size:13px;font-style:normal;font-weight:200"><table class="has-border-color has-contrast-border-color has-fixed-layout" style="border-width:1px"><thead><tr><th class="has-text-align-left" data-align="left">【Reference Deck】</th></tr></thead><tbody><tr><td class="has-text-align-left" data-align="left"><strong>相关作者</strong></td></tr><tr><td class="has-text-align-left" data-align="left">Agatha Christie（阿加莎·克里斯蒂）December 15, 1890 – January 12, 1976</td></tr><tr><td class="has-text-align-left" data-align="left"><strong>参考版本</strong></td></tr><tr><td class="has-text-align-left" data-align="left">阿加莎克里斯蒂. 首相绑架案[M]. 王占一, 译. 北京: 新星出版社, 2018. (原作出版于 1924 年)<br/>Christie, A. (1924). Poirot investigates. The Bodley Head.</td></tr><tr><td class="has-text-align-left" data-align="left"><strong>其他参考</strong></td></tr><tr><td class="has-text-align-left" data-align="left">Poirot, S5E1, “The Adventure of the Egyptian Tomb,” directed by Peter Barber-Fleming, written by Clive Exton, performance by David Suchet, aired January 17, 1993. Available on <a href="https://www.imdb.com/title/tt0676164/">IMDb</a>.（电视剧《大侦探波洛：埃及古墓历险记》第五季第一集）</td></tr></tbody></table></figure>
+<figure class="wp-block-table" style="font-size:13px;font-style:normal;font-weight:200"><table class="has-border-color has-contrast-border-color has-fixed-layout" style="border-width:1px"><thead><tr><th class="has-text-align-left" data-align="left">【Reference Deck】</th></tr></thead><tbody><tr><td class="has-text-align-left" data-align="left"><strong>相关作者</strong></td></tr><tr><td class="has-text-align-left" data-align="left">Agatha Christie（阿加莎·克里斯蒂）September 15, 1890 – January 12, 1976</td></tr><tr><td class="has-text-align-left" data-align="left"><strong>参考版本</strong></td></tr><tr><td class="has-text-align-left" data-align="left">阿加莎克里斯蒂. 首相绑架案[M]. 王占一, 译. 北京: 新星出版社, 2018. (原作出版于 1924 年)<br/>Christie, A. (1924). Poirot investigates. The Bodley Head.</td></tr><tr><td class="has-text-align-left" data-align="left"><strong>其他参考</strong></td></tr><tr><td class="has-text-align-left" data-align="left">Poirot, S5E1, “The Adventure of the Egyptian Tomb,” directed by Peter Barber-Fleming, written by Clive Exton, performance by David Suchet, aired January 17, 1993. Available on <a href="https://www.imdb.com/title/tt0676164/">IMDb</a>.（电视剧《大侦探波洛：埃及古墓历险记》第五季第一集）</td></tr></tbody></table></figure>
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
 <div aria-hidden="true" class="wp-block-spacer" style="height:70px"></div>
 </div>

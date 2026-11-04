@@ -28,8 +28,8 @@ visibility: "public"
 source_of_truth: "devlog"
 
 created: "2025-12-01"
-updated: "2026-03-01"
-metadata_updated: "2026-10-13"
+updated: "2026-11-04"
+metadata_updated: "2026-11-04"
 ---
 ## 天线入门：点名活动常见天线罗列
 
@@ -65,11 +65,15 @@ GPT生成，可能有误，但先帮助理解。
 | 老鹰 X520 | 金属杆 | Loaded whip | λ/4 | 机身/车身金属 | 中 | 顶部 | 手台高增益 |
 | 老鹰 805S | 金属杆 | Loaded whip | 缩短 λ/4 | 手台机身 | 中 | 顶部 | U/V 双段常用 |
 
+| Antenna | Rad-Mat | Rad-Geo | Rad-Len | Gnd-Form | Gnd-Size | Gnd-Pos | Domain |
+|------------------------|--------------------|---------------------|-------------------------|---------------|----------------|---------------------|------------------|
 | 钻石 NR770H | 金属杆 | Loaded whip | λ/2 / 5/8 λ | 车身金属 | 大 | 车顶 | 车台高增益 |
 | 钻石 770 | 金属杆 | Straight monopole | λ/2 | 车身金属 | 大 | 顶部 | 车载 |
 | 钻石 770R | 金属杆 | Straight monopole | λ/2 | 车载吸盘/车顶 | 大 | 顶部 | 高性能车台 |
 | 钻石 805S | 金属杆 | Loaded whip | λ/4 缩短 | 手台机身 | 中 | 顶部 | 手台 |
-| 钻石 X520 | 金属杆 | Loaded monopole | λ/4 缩短 | 车身或手台 | 中 | 顶部 | 双段天线 |
+| 钻石 X520M | 金属振子，FRP 外罩 | C-Load 多段垂直天线 | 144MHz：3×5/8λ；430MHz：8×5/8λ | 原配径向杆 | 径向杆约52cm | 天线底部，桅杆固定 | 144/430MHz 室外固定台 |
+
+> 型号核对（2026-11-04）：原表“钻石 X520”在这里明确为原厂 **X520M**。它全长约 5.2 米，不能套用手台 λ/4 缩短天线的描述。结构与尺寸对照[原厂产品页](https://www.diamond-ant.co.jp/english/amateur/antenna/ante_2base/ante_base3.html)和[X520M 安装说明书](https://www.diamond-ant.co.jp/1_test/www/pdf/x/x520m.pdf)；其他厂牌或后缀不同的型号需分别核对。
 
 # 八木阵列
   

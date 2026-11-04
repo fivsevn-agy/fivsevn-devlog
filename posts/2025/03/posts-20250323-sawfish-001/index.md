@@ -41,8 +41,8 @@ legacy:
   path: posts/2025/2025-03-23-锯锯鱼.md
 permalink: /posts/2025/2025-03-23-锯锯鱼.html
 created: '2025-03-23'
-updated: '2025-03-29'
-metadata_updated: '2026-11-01'
+updated: '2026-11-04'
+metadata_updated: '2026-11-04'
 layout: wordpress-post
 filename_policy: entrypoint
 extra:
@@ -104,6 +104,7 @@ canonical_url: https://devlog.fivsevn.com/posts/2025/2025-03-23-锯锯鱼.html
 <div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
 <div aria-hidden="true" class="wp-block-spacer" style="height:30px"></div>
 <div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-fe9cc265 wp-block-group-is-layout-flex" style="font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.147), 15px);font-style:normal;font-weight:400;line-height:1.7">
+<p class="wp-block-paragraph"><em>【核对注，Nov 4, 2026】下文的 skates 指鳐类，不是鳎鱼、鳞鲀或鲎；Elasmobranchii 在本文所用分类中为板鳃亚纲，不是科名。参见 <a href="https://www.fisheries.noaa.gov/species/smalltooth-sawfish">NOAA 的物种说明</a>及 <a href="https://itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=159786">ITIS 分类记录</a>。原资料中的历史分类另保留原貌。</em></p>
 <p class="wp-block-paragraph">好啦！先来看看佛罗里达州的钓鱼佬们和潜水员戴夫都收获了点啥子。</p>
 <div aria-hidden="true" class="wp-block-spacer wp-container-content-4daaf377" style="height:0px"></div>
 </div>
@@ -255,7 +256,7 @@ canonical_url: https://devlog.fivsevn.com/posts/2025/2025-03-23-锯锯鱼.html
 <li>幼年期栖息于河流中，成年后进入海洋。</li>
 </ul>
 </li>
-<li><strong>小齿锯鳐（Smalltooth sawfish，学名 <em>P. pecinata</em>）</strong>
+<li><strong>小齿锯鳐（Smalltooth sawfish，学名 <em>P. pectinata</em>）</strong>
 <ul class="wp-block-list">
 <li>主要分布于大西洋。</li>
 <li>该物种的最后栖息地在<strong>美国佛罗里达州南部</strong>。</li>
@@ -267,7 +268,7 @@ canonical_url: https://devlog.fivsevn.com/posts/2025/2025-03-23-锯锯鱼.html
 <li>是体型最大的锯鳐之一。</li>
 </ul>
 </li>
-<li><strong>侏儒锯鳐（Dwarf sawfish，学名 <em>P. calvata</em>）</strong>
+<li><strong>侏儒锯鳐（Dwarf sawfish，学名 <em>P. clavata</em>）</strong>
 <ul class="wp-block-list">
 <li>主要分布在<strong>印度-西太平洋，尤其是澳大利亚北部</strong>。</li>
 <li>这是体型较小的两种锯鳐之一，但依然能长到<strong>超过3米（9.8英尺）</strong>。</li>
@@ -406,6 +407,7 @@ canonical_url: https://devlog.fivsevn.com/posts/2025/2025-03-23-锯锯鱼.html
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 <h3 class="wp-block-heading"><strong>锯鳐的繁殖与保护</strong></h3>
 <p class="wp-block-paragraph">尽管锯鳐能够在水族馆中生存良好，但由于它们体型庞大，需要巨大的水池空间。此外，即使在最理想的人工环境中，它们几乎不会繁殖。幸运的是，锯鳐的雌性具有孤雌生殖（parthenogenesis）的能力——也就是说，如果找不到配偶，雌性可以让自己的卵细胞直接发育成幼鱼，生成自己的基因克隆体。</p>
+<p class="wp-block-paragraph"><em>【核对注，Nov 4, 2026】这里沿用了原资料“克隆”的说法；小齿锯鳐的这类孤雌后代并非与母体基因完全相同。<a href="https://doi.org/10.1016/j.cub.2015.04.018">2015年原研究</a>指出其纯合度较高，研究者在 <a href="https://www.nationalgeographic.com/animals/article/150601-virgin-birth-animals-sawfish-endangered-genetics-science">同期访谈</a>中也明确区分了两者。</em></p>
 <p class="wp-block-paragraph">目前，保护学者们正在努力确保锯鳐及其栖息地免受破坏，让更多的幼鱼能够安全成长。</p>
 <h3 class="wp-block-heading"><strong>锯鲨（Sawshark）与锯鳐的区别</strong></h3>
 <p class="wp-block-paragraph">我们在介绍锯鳐时，当然也不能不提锯鲨（sawshark）。</p>
@@ -429,7 +431,7 @@ canonical_url: https://devlog.fivsevn.com/posts/2025/2025-03-23-锯锯鱼.html
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 <h3 class="wp-block-heading"><strong>锯鳐、锯鲨与“锯鳐鳎”</strong></h3>
 <p class="wp-block-paragraph">在自然界中，还有一种外形类似锯鳐和锯鲨的鱼，名为<strong>锯鳐鳎（sawskate）</strong>，但它们已经完全灭绝。锯鳐鳎属于<strong>锯鳐鳎亚目（Sclerorhynchoidei）</strong>，这一亚目在<strong>6600万年前</strong>的白垩纪-古近纪灭绝事件（K-Pg灭绝事件）中消失。</p>
-<p class="wp-block-paragraph">与锯鳐和锯鲨不同，科学家认为锯鳐鳎更接近于现代鳎科鱼类（skates），而不是鲨鱼或鳐鱼。尽管现代鳎鱼的吻突并不明显，但某些锯鳐鳎的吻突却像锯鳐一样长满了“锯齿”。</p>
+<p class="wp-block-paragraph">科学家认为，锯鳐鳎与锯鳐或锯鲨的亲缘关系并不近，而与现代鳐类中的 skates 更接近。尽管现代 skates 的吻突并不明显，但某些锯鳐鳎的吻突却像锯鳐一样长满了“锯齿”。</p>
 <p class="wp-block-paragraph">目前所知的锯鳐鳎物种体型较小，大多数只有1米左右，而最大的个体估计可达2米（6英尺）。</p>
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 <h3 class="wp-block-heading"><strong>“锯”是武器吗？</strong></h3>
@@ -448,7 +450,7 @@ canonical_url: https://devlog.fivsevn.com/posts/2025/2025-03-23-锯锯鱼.html
 <ul class="wp-block-list">
 <li>锯鳐是大型鳐鱼，拥有长吻突，并生活在浅海和淡水中。</li>
 <li>锯鲨是小型鲨鱼，吻突带有触须，主要生活在深海。</li>
-<li>锯鳐鳎是一类已灭绝的远古生物，与鳎鱼关系更密切。</li>
+<li>锯鳐鳎是一类已灭绝的远古生物，与现代鳐类中的 skates 关系更密切。</li>
 <li>锯鳐依赖吻突寻找猎物，但不会攻击人类。</li>
 <li>锯鳐是濒危物种，需要保护其栖息地和减少人类威胁。</li>
 </ul>
@@ -536,7 +538,7 @@ canonical_url: https://devlog.fivsevn.com/posts/2025/2025-03-23-锯锯鱼.html
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 <h3 class="wp-block-heading"><strong>锯鳐的主要威胁</strong></h3>
 <h4 class="wp-block-heading"><strong>1. 商业渔业</strong></h4>
-<p class="wp-block-paragraph">锯鳐的锯状吻突容易被刺网或拖网缠住，使其成为商业渔业的非目标捕获物。在澳大利亚北部，锯鳐常被误捕于捕捞澳洲肺鱼（Barramundi）的刺网或用于捕捞对虾的拖网中。</p>
+<p class="wp-block-paragraph">锯鳐的锯状吻突容易被刺网或拖网缠住，使其成为商业渔业的非目标捕获物。在澳大利亚北部，锯鳐常被误捕于捕捞尖吻鲈（Barramundi，<em>Lates calcarifer</em>）的刺网或用于捕捞对虾的拖网中。</p>
 <p class="wp-block-paragraph">尽管鳐鱼类相较于鲨鱼在被捕获时更加耐受（因为它们不需要持续游动来呼吸），但仍有指控称部分渔民会直接砍掉锯鳐的吻突，使其在极端痛苦中缓慢死亡。渔民砍掉锯鳐吻突的原因可能包括：</p>
 <ul class="wp-block-list">
 <li>认为锯鳐影响其捕捞作业；</li>
@@ -593,7 +595,7 @@ canonical_url: https://devlog.fivsevn.com/posts/2025/2025-03-23-锯锯鱼.html
 <li><strong>类别</strong>：鱼类（Fish）</li>
 </ul>
 <h4 class="wp-block-heading"><strong>描述</strong></h4>
-<p class="wp-block-paragraph">锯鳐属于<strong>板鳃目（Rajiformes）的一类扁平海洋鱼类，与鳐鱼和鳎鱼同属一类，并与鲨鱼关系密切。在美国水域可以找到两种锯鳐</strong>：</p>
+<p class="wp-block-paragraph">锯鳐属于<strong>Rajiformes 目（沿用原文分类）的一类扁平海洋鱼类，与其他鳐类（rays、skates）同属一类，并与鲨鱼关系密切。在美国水域可以找到两种锯鳐</strong>：</p>
 <ul class="wp-block-list">
 <li><strong>小齿锯鳐（Pristis pectinata）</strong></li>
 <li><strong>宽齿锯鳐（Pristis perotteti）</strong></li>
@@ -827,7 +829,7 @@ canonical_url: https://devlog.fivsevn.com/posts/2025/2025-03-23-锯锯鱼.html
 <li>类似许多软骨鱼类（如鲨鱼），锯鳐的交配可能较为激烈，个体身上常可见因配偶“锯”造成的伤口。</li>
 <li><strong>孤雌生殖（Parthenogenesis）</strong>：
 <ul class="wp-block-list">
-<li>研究发现，小齿锯鳐可以在没有雄性参与的情况下进行孤雌生殖，产下与母体基因完全相同的幼鱼。</li>
+<li>研究发现，小齿锯鳐可以在没有雄性参与的情况下进行孤雌生殖，产下与母体基因完全相同的幼鱼。<br/><em>【核对注，Nov 4, 2026】这里沿用了原资料“克隆”的说法；小齿锯鳐的这类孤雌后代并非与母体基因完全相同。<a href="https://doi.org/10.1016/j.cub.2015.04.018">2015年原研究</a>指出其纯合度较高，研究者在 <a href="https://www.nationalgeographic.com/animals/article/150601-virgin-birth-animals-sawfish-endangered-genetics-science">同期访谈</a>中也明确区分了两者。</em></li>
 <li>在美国佛罗里达州，小齿锯鳐种群中约 <strong>3%</strong> 的幼鱼为孤雌生殖所生。</li>
 <li>这一现象可能是由于<strong>种群密度过低，雌性个体难以找到配偶</strong>，因此进化出这一生殖策略。</li>
 </ul>
@@ -1459,7 +1461,7 @@ canonical_url: https://devlog.fivsevn.com/posts/2025/2025-03-23-锯锯鱼.html
 <li><strong>主要分布区域</strong>：美国东南沿海</li>
 </ul>
 <h4 class="wp-block-heading"><strong>关于该物种</strong></h4>
-<p class="wp-block-paragraph">小齿锯鳐是五种锯鳐之一，所有锯鳐都属于软骨鱼类（Elasmobranchii），与鳐鱼、鳞鲛（鲨鱼）和鳐鲛同科。这类鱼没有骨骼，其骨架由比骨头更柔韧的软骨组成。虽然外形类似鲨鱼，但锯鳐实际上属于鳐类，因为它们的鳃和嘴巴位于身体底部。</p>
+<p class="wp-block-paragraph">小齿锯鳐是五种锯鳐之一，所有锯鳐都属于板鳃亚纲（Elasmobranchii），这一类群包括鳐类（rays、skates）和鲨鱼。这类鱼的骨架由软骨而非硬骨构成，软骨比硬骨更柔韧。虽然外形类似鲨鱼，但锯鳐实际上属于鳐类，因为它们的鳃和嘴巴位于身体底部。</p>
 <p class="wp-block-paragraph">锯鳐因其独特的“锯”（<strong>吻突 rostrum</strong>）而得名——这是一种长而平的口器，两侧长有一排牙齿，看起来像一把锯。</p>
 <p class="wp-block-paragraph">小齿锯鳐生活在大西洋的热带海域和河口区域（即河流与海洋交汇的半封闭水域）。它们主要栖息于浅海沿岸，有时也会进入淡水河流的下游。在美国，这一物种主要分布在佛罗里达州的沿海水域。</p>
 <h3 class="wp-block-heading"><strong>种群状况与保护措施</strong></h3>
@@ -1968,7 +1970,7 @@ canonical_url: https://devlog.fivsevn.com/posts/2025/2025-03-23-锯锯鱼.html
 </ul>
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 <h2 class="wp-block-heading"><strong>物种概述</strong></h2>
-<p class="wp-block-paragraph">绿锯鳐属于软骨鱼纲（Elasmobranchii），这一类群包括鳐鱼、鲎鱼和鲨鱼。根据《美国濒危物种法》，绿锯鳐在其整个分布范围内均被列为濒危物种。</p>
+<p class="wp-block-paragraph">绿锯鳐属于板鳃亚纲（Elasmobranchii），这一类群包括鳐类（rays、skates）和鲨鱼。根据《美国濒危物种法》，绿锯鳐在其整个分布范围内均被列为濒危物种。</p>
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 <h2 class="wp-block-heading"><strong>分布区域</strong></h2>
 <p class="wp-block-paragraph">绿锯鳐适宜的栖息地主要分布在<strong>印度-太平洋地区</strong>的多个岛屿上，但由于缺乏系统性调查和数据报告，其具体分布记录较少。有证据表明，在<strong>波斯湾</strong>和<strong>红海</strong>（如苏丹）仍存有小规模但依然存在的种群（A. Moore，RSK Environment Ltd.，2012年向 IUCN 提供的个人通讯记录）。</p>
@@ -2040,7 +2042,7 @@ canonical_url: https://devlog.fivsevn.com/posts/2025/2025-03-23-锯锯鱼.html
 </ul>
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 <h2 class="wp-block-heading">物种简介</h2>
-<p class="wp-block-paragraph">侏儒锯鳐与鲨鱼、鳐鱼和鳞鲀类（Skates）有亲缘关系。与这些相关种类相似，侏儒锯鳐的骨骼由软骨组成。它们的名字来源于其独特的“锯”——一种扁平、长条状的口器，两侧排列着锋利的齿状结构。早期的锯鳐类大约 1 亿年前首次出现在海洋中，而现代锯鳐物种已存在约 5600 万年。</p>
+<p class="wp-block-paragraph">侏儒锯鳐与鲨鱼及其他鳐类（rays、skates）有亲缘关系。与这些相关种类相似，侏儒锯鳐的骨骼由软骨组成。它们的名字来源于其独特的“锯”——一种扁平、长条状的口器，两侧排列着锋利的齿状结构。早期的锯鳐类大约 1 亿年前首次出现在海洋中，而现代锯鳐物种已存在约 5600 万年。</p>
 <p class="wp-block-paragraph">如今，侏儒锯鳐仅分布于<strong>印度-太平洋</strong>海域。其主要威胁包括栖息地丧失和误捕。根据《美国濒危物种法》（ESA），NOAA 渔业局必须对所有濒危和受威胁的海洋物种进行列管，无论它们的实际分布范围如何。</p>
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 <h2 class="wp-block-heading">外观特征</h2>
@@ -2116,7 +2118,7 @@ canonical_url: https://devlog.fivsevn.com/posts/2025/2025-03-23-锯锯鱼.html
 <p class="wp-block-paragraph">窄锯鳐（Narrow Sawfish）</p>
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 <h4 class="wp-block-heading"><strong>物种概述</strong></h4>
-<p class="wp-block-paragraph"><strong>窄锯鳐</strong>（Narrow Sawfish，学名 <em>Anoxypristis cuspidata</em>）属于软骨鱼纲（Elasmobranchii），与鳐鱼、鲎鱼和鲨鱼同类。根据《濒危物种法案》（Endangered Species Act, ESA），该物种在其全部分布范围内被列为<strong>濒危物种</strong>。</p>
+<p class="wp-block-paragraph"><strong>窄锯鳐</strong>（Narrow Sawfish，学名 <em>Anoxypristis cuspidata</em>）属于板鳃亚纲（Elasmobranchii），与其他鳐类（rays、skates）和鲨鱼同类。根据《濒危物种法案》（Endangered Species Act, ESA），该物种在其全部分布范围内被列为<strong>濒危物种</strong>。</p>
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 <h4 class="wp-block-heading"><strong>物种信息</strong></h4>
 <ul class="wp-block-list">
@@ -2223,30 +2225,31 @@ canonical_url: https://devlog.fivsevn.com/posts/2025/2025-03-23-锯锯鱼.html
 <div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
 <div aria-hidden="true" class="wp-block-spacer" style="height:30px"></div>
 <blockquote class="wp-block-quote is-style-default is-layout-flow wp-block-quote-is-layout-flow" style="font-size:13px;font-style:normal;font-weight:300;line-height:1.6">
-<p class="wp-block-paragraph">小齿锯鲨的一般信息 | 佛罗里达鱼类和野生动物保护委员会（FWC）</p>
+<p class="wp-block-paragraph">小齿锯鳐的一般信息 | 佛罗里达鱼类和野生动物保护委员会（FWC）</p>
+<p class="wp-block-paragraph"><em>【核对注，Nov 4, 2026】本节所指的 <em>Pristis pectinata</em> 是锯鳐科（Pristidae）的小齿锯鳐，不是锯鲨。物种名称与分类可对照 <a href="https://www.fisheries.noaa.gov/species/smalltooth-sawfish">NOAA</a> 和 <a href="https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/smalltooth-sawfish/">佛罗里达自然历史博物馆</a>。</em></p>
 <h4 class="wp-block-heading">介绍与保护状态</h4>
-<p class="wp-block-paragraph">全球共有五种锯鲨，它们都被认为是极度濒危物种，研究较为匮乏，但过去十年来相关研究有所增加。锯鲨属于<strong>锯鲨科（Pristidae）</strong>，该名称源自希腊语，意为“锯”。<strong>小齿锯鲨（Pristis pectinata）是佛罗里达水域唯一发现的锯鲨种类。其特征包括长而扁平的锯齿状吻部（通常被称为“锯”）、扁平的头部和躯干</strong>。</p>
-<p class="wp-block-paragraph">小齿锯鲨属于<strong>软骨鱼纲（Elasmobranchii）</strong>，该类群还包括所有的鳐鱼和鲨鱼。小齿锯鲨的游泳方式类似于鲨鱼，但实际上属于鳐类的一种，因为它们的鳃裂位于身体底部，这一点与魟鱼相似。所有软骨鱼的骨骼均由软骨组成。</p>
-<p class="wp-block-paragraph">在过去的一个世纪里，美国的小齿锯鲨种群范围大幅缩减，数量持续下降。研究人员曾认为该物种濒临灭绝，直到1990年代末在佛罗里达州发现了数量可观的个体，尤其是在该州南部和西南部地区。<strong>小齿锯鲨自1992年起在佛罗里达州被禁止捕捞，2003年被《濒危物种法》（Endangered Species Act）列为濒危物种，2007年起被《濒危野生动植物种国际贸易公约》（CITES）列入附录I，禁止任何国际贸易</strong>。如果意外捕获小齿锯鲨，必须立即无伤害地放生。研究人员鼓励垂钓者和船员<strong>报告锯鲨目击记录</strong>以支持科学研究。</p>
+<p class="wp-block-paragraph">全球共有五种锯鳐，它们都被认为是极度濒危物种，研究较为匮乏，但过去十年来相关研究有所增加。锯鳐属于<strong>锯鳐科（Pristidae）</strong>，该名称源自希腊语，意为“锯”。<strong>小齿锯鳐（Pristis pectinata）是佛罗里达水域唯一发现的锯鳐种类。其特征包括长而扁平的锯齿状吻部（通常被称为“锯”）、扁平的头部和躯干</strong>。</p>
+<p class="wp-block-paragraph">小齿锯鳐属于<strong>板鳃亚纲（Elasmobranchii）</strong>，该类群还包括所有的鳐鱼和鲨鱼。小齿锯鳐的游泳方式类似于鲨鱼，但实际上属于鳐类的一种，因为它们的鳃裂位于身体底部，这一点与魟鱼相似。所有软骨鱼的骨骼均由软骨组成。</p>
+<p class="wp-block-paragraph">在过去的一个世纪里，美国的小齿锯鳐种群范围大幅缩减，数量持续下降。研究人员曾认为该物种濒临灭绝，直到1990年代末在佛罗里达州发现了数量可观的个体，尤其是在该州南部和西南部地区。<strong>小齿锯鳐自1992年起在佛罗里达州被禁止捕捞，2003年被《濒危物种法》（Endangered Species Act）列为濒危物种，2007年起被《濒危野生动植物种国际贸易公约》（CITES）列入附录I，禁止任何国际贸易</strong>。如果意外捕获小齿锯鳐，必须立即无伤害地放生。研究人员鼓励垂钓者和船员<strong>报告锯鳐目击记录</strong>以支持科学研究。</p>
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 <h4 class="wp-block-heading">分布与种群数量</h4>
-<p class="wp-block-paragraph">小齿锯鲨历史上分布于<strong>西大西洋，从北卡罗来纳州至巴西中部，包括墨西哥湾</strong>，以及<strong>东大西洋，沿非洲中西部海岸</strong>。19世纪末至20世纪初，该物种曾在佛罗里达州东西海岸广泛存在。例如，19世纪末东海岸的一名渔民曾报告在印第安河泻湖（Indian River Lagoon）一个捕捞季内捕获了300条锯鲨，西海岸的渔民也报告曾见过成百上千条大小不一的锯鲨。然而，<strong>由于锯状吻部容易被渔网缠住，该物种常被商业渔网意外捕获</strong>，加上锯鲨的繁殖能力较低，导致其种群数量急剧减少。</p>
-<p class="wp-block-paragraph">目前，小齿锯鲨已不再遍布整个历史分布范围，但仍全年生活在<strong>佛罗里达半岛沿海水域，主要集中在该州西南部，从夏洛特港（Charlotte Harbor）到佛罗里达礁岛群（Florida Keys）</strong>。<strong>3至6英尺（1至1.8米）的小型个体</strong>通常生活在<strong>近岸水域、河口或潮汐溪流</strong>，而<strong>最大可达16英尺（4.9米）的大型个体</strong>则主要出现在<strong>深水河口和近海区域</strong>。</p>
+<p class="wp-block-paragraph">小齿锯鳐历史上分布于<strong>西大西洋，从北卡罗来纳州至巴西中部，包括墨西哥湾</strong>，以及<strong>东大西洋，沿非洲中西部海岸</strong>。19世纪末至20世纪初，该物种曾在佛罗里达州东西海岸广泛存在。例如，19世纪末东海岸的一名渔民曾报告在印第安河泻湖（Indian River Lagoon）一个捕捞季内捕获了300条锯鳐，西海岸的渔民也报告曾见过成百上千条大小不一的锯鳐。然而，<strong>由于锯状吻部容易被渔网缠住，该物种常被商业渔网意外捕获</strong>，加上锯鳐的繁殖能力较低，导致其种群数量急剧减少。</p>
+<p class="wp-block-paragraph">目前，小齿锯鳐已不再遍布整个历史分布范围，但仍全年生活在<strong>佛罗里达半岛沿海水域，主要集中在该州西南部，从夏洛特港（Charlotte Harbor）到佛罗里达礁岛群（Florida Keys）</strong>。<strong>3至6英尺（1至1.8米）的小型个体</strong>通常生活在<strong>近岸水域、河口或潮汐溪流</strong>，而<strong>最大可达16英尺（4.9米）的大型个体</strong>则主要出现在<strong>深水河口和近海区域</strong>。</p>
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 <h4 class="wp-block-heading">生物学与生态</h4>
-<p class="wp-block-paragraph">尽管生物学家对小齿锯鲨的了解仍然有限，但过去20年的研究大大加深了对该物种的认知。小齿锯鲨可长到<strong>至少16英尺（约4.9米），体重约800-1000磅（约363-454千克）</strong>。其锯状吻部两侧各有<strong>21至30颗不成对的齿</strong>，雄性通常比雌性拥有更多的吻部齿。如果齿完全脱落，则不会再生；但如果仅部分受损且基部仍存，则会随着个体生长而继续生长。</p>
-<p class="wp-block-paragraph"><strong>小齿锯鲨主要捕食鱼类，如鲻鱼和鳐鱼</strong>，它们用锯状吻部<strong>横扫鱼群，使猎物昏迷</strong>，然后再吞食。</p>
-<p class="wp-block-paragraph">和其他鳐鱼、鲨鱼一样，<strong>小齿锯鲨需要多年才能成熟，寿命较长</strong>。生物学家尚不确定该物种的性成熟体长，但<strong>雄性似乎在体长约11英尺（3.4米）时成熟，而雌性可能要到12英尺（3.8米）才成熟</strong>。雌性每两年繁殖一次，并返回相同的<strong>育幼区（nursery）分娩。像其他鳐鱼和鲨鱼一样，小齿锯鲨是胎生</strong>，<strong>胚胎在母体内发育直至直接产下活体幼鲨</strong>。研究人员估计，小齿锯鲨的<strong>孕期约12个月</strong>。</p>
-<p class="wp-block-paragraph">在佛罗里达州水域，小齿锯鲨<strong>主要在4月至5月分娩</strong>。每条雌性一次可产下<strong>约7至14条幼体</strong>，出生时体长约<strong>2至2.7英尺（0.6至0.8米）</strong>。为了避免在母体内伤害母亲或同胎幼鲨，其锯状吻部上的齿在出生前<strong>会被皮肤状的组织覆盖</strong>，该覆盖物在出生后约<strong>四天内完全脱落</strong>，使幼鲨能正常觅食和自卫。</p>
-<p class="wp-block-paragraph"><strong>幼鲨通常生活在离岸1英里（1.6公里）以内的咸淡水区域</strong>，可适应多种栖息环境，如<strong>泥底、沙底、牡蛎滩、红树林岸线、人造堤岸的运河、码头附近水域</strong>。如果淡水流量减少，幼鲨甚至<strong>会向上游游行数英里</strong>。研究表明，幼鲨在**某些特定的育幼热点（nursery hotspots）**停留至少两年，并可能因河流流量变化等环境因素在热点之间迁移。</p>
-<p class="wp-block-paragraph">体长超过<strong>10英尺（3米）的大型锯鲨</strong>，在春季（此时也是繁殖季节）偶尔会出现在近岸水域，但<strong>大多栖息在深水区，特别是泥底水域</strong>。</p>
+<p class="wp-block-paragraph">尽管生物学家对小齿锯鳐的了解仍然有限，但过去20年的研究大大加深了对该物种的认知。小齿锯鳐可长到<strong>至少16英尺（约4.9米），体重约800-1000磅（约363-454千克）</strong>。其锯状吻部两侧各有<strong>21至30颗不成对的齿</strong>，雄性通常比雌性拥有更多的吻部齿。如果齿完全脱落，则不会再生；但如果仅部分受损且基部仍存，则会随着个体生长而继续生长。</p>
+<p class="wp-block-paragraph"><strong>小齿锯鳐主要捕食鱼类，如鲻鱼和鳐鱼</strong>，它们用锯状吻部<strong>横扫鱼群，使猎物昏迷</strong>，然后再吞食。</p>
+<p class="wp-block-paragraph">和其他鳐鱼、鲨鱼一样，<strong>小齿锯鳐需要多年才能成熟，寿命较长</strong>。生物学家尚不确定该物种的性成熟体长，但<strong>雄性似乎在体长约11英尺（3.4米）时成熟，而雌性可能要到12英尺（3.8米）才成熟</strong>。雌性每两年繁殖一次，并返回相同的<strong>育幼区（nursery）分娩。像其他鳐鱼和鲨鱼一样，小齿锯鳐是胎生</strong>，<strong>胚胎在母体内发育直至直接产下活体幼鳐</strong>。研究人员估计，小齿锯鳐的<strong>孕期约12个月</strong>。</p>
+<p class="wp-block-paragraph">在佛罗里达州水域，小齿锯鳐<strong>主要在4月至5月分娩</strong>。每条雌性一次可产下<strong>约7至14条幼体</strong>，出生时体长约<strong>2至2.7英尺（0.6至0.8米）</strong>。为了避免在母体内伤害母亲或同胎幼鳐，其锯状吻部上的齿在出生前<strong>会被皮肤状的组织覆盖</strong>，该覆盖物在出生后约<strong>四天内完全脱落</strong>，使幼鳐能正常觅食和自卫。</p>
+<p class="wp-block-paragraph"><strong>幼鳐通常生活在离岸1英里（1.6公里）以内的咸淡水区域</strong>，可适应多种栖息环境，如<strong>泥底、沙底、牡蛎滩、红树林岸线、人造堤岸的运河、码头附近水域</strong>。如果淡水流量减少，幼鳐甚至<strong>会向上游游行数英里</strong>。研究表明，幼鳐在**某些特定的育幼热点（nursery hotspots）**停留至少两年，并可能因河流流量变化等环境因素在热点之间迁移。</p>
+<p class="wp-block-paragraph">体长超过<strong>10英尺（3米）的大型锯鳐</strong>，在春季（此时也是繁殖季节）偶尔会出现在近岸水域，但<strong>大多栖息在深水区，特别是泥底水域</strong>。</p>
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 <h4 class="wp-block-heading">研究工作</h4>
-<p class="wp-block-paragraph">佛罗里达鱼类和野生动物研究所（FWRI）的生物学家<strong>正研究小齿锯鲨的栖息地使用情况</strong>，包括它们在哪里生活、停留时间多久，以及不同地区的个体是否具有相似的栖息模式。<strong>研究人员鼓励垂钓者和船员报告目击到的小齿锯鲨</strong>，以帮助科学研究。</p>
-<p class="wp-block-paragraph">欲了解更多信息，请参阅 <strong>[锯鲨常见问题（Sawfish FAQ）]</strong> 和 <strong>[精选参考资料（Selected References）]</strong>。</p>
+<p class="wp-block-paragraph">佛罗里达鱼类和野生动物研究所（FWRI）的生物学家<strong>正研究小齿锯鳐的栖息地使用情况</strong>，包括它们在哪里生活、停留时间多久，以及不同地区的个体是否具有相似的栖息模式。<strong>研究人员鼓励垂钓者和船员报告目击到的小齿锯鳐</strong>，以帮助科学研究。</p>
+<p class="wp-block-paragraph">欲了解更多信息，请参阅 <strong>[锯鳐常见问题（Sawfish FAQ）]</strong> 和 <strong>[精选参考资料（Selected References）]</strong>。</p>
 <p class="wp-block-paragraph">【来源信息】</p>
 <p class="wp-block-paragraph">网站：Florida Fish and Wildlife Conservation Commission, FWC（佛罗里达鱼类和野生动物保护委员会）</p>
-<p class="wp-block-paragraph">标题：General Information on Smalltooth Sawfish（小齿锯鲨的一般信息）</p>
+<p class="wp-block-paragraph">标题：General Information on Smalltooth Sawfish（小齿锯鳐的一般信息）</p>
 <p class="wp-block-paragraph">作者：FWC</p>
 <p class="wp-block-paragraph">发布时间：不详</p>
 <p class="wp-block-paragraph">原文链接：<a href="https://myfwc.com/research/saltwater/fish/sawfish/general-information/">https://myfwc.com/research/saltwater/fish/sawfish/general-information/</a></p>
@@ -2711,6 +2714,7 @@ canonical_url: https://devlog.fivsevn.com/posts/2025/2025-03-23-锯锯鱼.html
 <p class="wp-block-paragraph">作者：Department of Fisheries, Western Australia</p>
 <p class="wp-block-paragraph">发布时间：2011 年 4 月</p>
 <p class="wp-block-paragraph">原文链接：<a href="https://www.fish.wa.gov.au/Documents/recreational_fishing/fact_sheets/fact_sheet_sawfish.pdf">https://www.fish.wa.gov.au/Documents/recreational_fishing/fact_sheets/fact_sheet_sawfish.pdf</a></p>
+<p class="wp-block-paragraph"><em>【核对注，Nov 4, 2026】此旧地址本次直连不可用，暂保留原出处。本节为2011年手册的译文；物种资料另可对照前列 <a href="https://www.fisheries.noaa.gov/species/smalltooth-sawfish">NOAA</a>及 <a href="https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/smalltooth-sawfish/">佛罗里达自然历史博物馆</a>说明，二者不作为该手册的替代版本。</em></p>
 <p class="wp-block-paragraph">阅览时间：2025 年 3 月 20 日</p>
 <p class="wp-block-paragraph">翻译：ChatGPT（基于GPT-4.5）依据用户规则翻译</p>
 </blockquote>
@@ -3071,7 +3075,7 @@ canonical_url: https://devlog.fivsevn.com/posts/2025/2025-03-23-锯锯鱼.html
 <li>锯鲨体长一般不超过2米（具体长度取决于物种），而两种锯鳐物种的体长可达7米。</li>
 </ul>
 <p class="wp-block-paragraph"><strong>一份刺手的包裹</strong><br/>在马达加斯加研究锯鳐的七年间，我去过许多意想不到的地方，也遇到了不少惊喜。2017年，在马达加斯加进行锯鳐研究时，我收到一条消息：安达瓦多卡（Andavadoaka）村的一名渔民刚刚捕获了两条锯鳐！由于多年的经验让我学会保持怀疑，我按捺住兴奋，要求对方提供动物的照片。第二天，我的邮箱里果然收到了一张照片，结果发现这名渔民捕获的并非锯鳐，而是锯鲨。<br/>蓝色探险组织（Blue Ventures）长期以来一直在安达瓦多卡监测鲨鱼渔业，他们的记录显示，当地渔获中确实出现过锯鲨。尽管锯鲨并不是我在马达加斯加想要寻找的目标，但这个机会十分难得。我向渔民请求寄送这两条锯鲨的吻突，以便进一步研究。</p>
-<p class="wp-block-paragraph">几天后，我拆开了一份用报纸包裹的包裹，发现其中的锯鲨吻突两侧都有锯齿，这表明它们属于沃伦六鳃锯鲨（Pliotrema warreni）。在当时已知的八种锯鲨中，只有这种具有锯齿状吻突，并且具有六对鳃裂。而在此之前，科学家们一直认为东非海域仅存在两种锯鲨：沃伦六鳃锯鲨和非洲矮锯鲨（Pristiophorus nancyae）。后者没有锯齿状吻突，并且仅有五对鳃裂。沃伦六鳃锯鲨体长可达1.7米，是已知最大型的锯鲨之一。然而，在马达加斯加周边水域，之前并无确切的记录。</p>
+<p class="wp-block-paragraph">几天后，我拆开了一份用报纸包裹的包裹，发现排列在锯鲨吻突两侧的吻齿，其齿缘呈细锯齿状，这使我推测它们属于沃伦六鳃锯鲨（Pliotrema warreni）。在当时已知的八种锯鲨中，只有这种同时具有带细锯齿缘的吻齿和六对鳃裂。而在此之前，科学家们一直认为东非海域仅存在两种锯鲨：沃伦六鳃锯鲨和非洲矮锯鲨（Pristiophorus nancyae）。后者的吻齿边缘平滑，并且仅有五对鳃裂。沃伦六鳃锯鲨体长可达1.7米，是已知最大型的锯鲨之一。然而，在马达加斯加周边水域，之前并无确切的记录。</p>
 <p class="wp-block-paragraph">与此同时，科学家们在桑给巴尔进行为期12个月的渔获记录项目时，也采集到了一条锯鲨，并在后续又收集到一份额外标本。通过对比这些样本，以及英国自然历史博物馆和其他博物馆收藏的西印度洋锯鲨标本，并结合详细的体型测量和扫描电子显微镜拍摄的超高精度图像，最终确认了两种新的锯鲨物种。</p>
 <p class="wp-block-paragraph"><strong>新物种介绍</strong></p>
 <ul class="wp-block-list">
@@ -3111,7 +3115,7 @@ canonical_url: https://devlog.fivsevn.com/posts/2025/2025-03-23-锯锯鱼.html
 <p class="wp-block-paragraph"><strong>锯鳐究竟是什么？</strong></p>
 <p class="wp-block-paragraph">今天是 Twitter 上的 #SawfishSunday（锯鳐星期日），所以我觉得今天是个好机会，来介绍一下这种最奇特、最神奇的鱼类——也是我们正在研究的对象。</p>
 <p class="wp-block-paragraph">锯鳐是一种极其酷炫的生物，但实际上，我们对它们的了解还非常有限。事实上，我们将在亚马逊研究的这个物种，最近才从三个独立物种重新归类为一个物种，即<strong>大齿锯鳐</strong>（Pristis pristis），不过这种分类仍然存在争议。不过，可以肯定的是，锯鳐是世界上外形最独特的鱼类之一。</p>
-<p class="wp-block-paragraph">它们经常被误认为是鲨鱼——毕竟它们与鲨鱼关系密切。锯鳐属于<strong>软骨鱼类（Elasmobranchii）</strong>，骨骼由软骨构成，和鲨鱼一样没有鱼鳔。然而，锯鳐并不是鲨鱼，而是鳐鱼（ray）和鳞鲀（skate）的近亲，属于<strong>鳐总目（Batoidea）</strong>。如果你只看它们的头部，忽略身体形态，这一点就更容易理解了。锯鳐的头部扁平得像煎饼，鳃孔位于身体下方，和鳐鱼一样。它们实际上是通过**眼后的小孔（spiracles）**吸水，将水流输送到鳃部，以便即使趴在水底也能正常呼吸。从下方看，锯鳐的模样甚至显得有些滑稽。</p>
+<p class="wp-block-paragraph">它们经常被误认为是鲨鱼——毕竟它们与鲨鱼关系密切。锯鳐属于<strong>板鳃亚纲（Elasmobranchii）</strong>，骨骼由软骨构成，和鲨鱼一样没有鱼鳔。然而，锯鳐并不是鲨鱼，而是其他鳐类（rays、skates）的近亲，属于<strong>鳐总目（Batoidea）</strong>。如果你只看它们的头部，忽略身体形态，这一点就更容易理解了。锯鳐的头部扁平得像煎饼，鳃孔位于身体下方，和鳐鱼一样。它们实际上是通过**眼后的小孔（spiracles）**吸水，将水流输送到鳃部，以便即使趴在水底也能正常呼吸。从下方看，锯鳐的模样甚至显得有些滑稽。</p>
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 <h3 class="wp-block-heading"><strong>与锯鲨的区别：趋同进化的奇迹</strong></h3>
 <p class="wp-block-paragraph">看到锯鳐那像巨型修剪机一样的鼻子，你可能会觉得没人会把它误认成其他生物。但奇怪的是，还有另一种完全不同的生物——<strong>锯鲨（sawshark）</strong>，也长着类似的“锯鼻”。然而，锯鲨是真正的鲨鱼，鳃裂位于身体侧面，而不是在身体下方。锯鲨和锯鳐是**趋同进化（convergent evolution）**的绝佳例子：它们在分类学上没有任何亲缘关系，却演化出了惊人相似的取食方式。</p>
@@ -3157,7 +3161,7 @@ canonical_url: https://devlog.fivsevn.com/posts/2025/2025-03-23-锯锯鱼.html
 <div aria-hidden="true" class="wp-block-spacer" style="height:30px"></div>
 <blockquote class="wp-block-quote is-style-default is-layout-flow wp-block-quote-is-layout-flow" style="font-size:13px;font-style:normal;font-weight:300;line-height:1.6">
 <p class="wp-block-paragraph"><strong>超棒的锯鳐吻突！（Awesome Rostrum!）</strong></p>
-<p class="wp-block-paragraph">今天是 Twitter 上的“扁鲨星期五”（#flatsharkfriday）。在这一天，世界各地研究鳐鱼和鳎鱼的专家，以及那些单纯喜欢这些扁平的软骨鱼类的人，都会分享关于这些“扁鲨”的有趣内容。当然，它们并不是鲨鱼，但无所谓……有时候，比起准确性，乐趣更重要！</p>
+<p class="wp-block-paragraph">今天是 Twitter 上的“扁鲨星期五”（#flatsharkfriday）。在这一天，世界各地研究鳐类（rays、skates）的专家，以及那些单纯喜欢这些扁平的软骨鱼类的人，都会分享关于这些“扁鲨”的有趣内容。当然，它们并不是鲨鱼，但无所谓……有时候，比起准确性，乐趣更重要！</p>
 <p class="wp-block-paragraph">因此，在 #flatsharkfriday 这个特别的日子里，让我们来聊聊锯鳐吧……因为它们其实是一种鳐鱼，尽管大多数人会误以为它们是鲨鱼。</p>
 <p class="wp-block-paragraph">它们的身体外形看起来很像鲨鱼，但你可以通过它们扁平的头部、独特的鳐鱼嘴，以及长在身体底部的鳃裂来分辨它们。此外，它们的眼睛后方还长有喷水孔（spiracles），可以帮助它们将水输送到鳃部。</p>
 <p class="wp-block-paragraph">然而，锯鳐最与众不同的特征，非它们的吻突（rostrum）莫属。这种鼻状的吻突两侧长满了锋利的齿状结构，但它的作用远不止于此。事实上，这正是我今天最想讨论的话题。</p>
@@ -3176,15 +3180,15 @@ canonical_url: https://devlog.fivsevn.com/posts/2025/2025-03-23-锯锯鱼.html
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 <h2 class="wp-block-heading"><strong>关于本项目（ABOUT THIS PROJECT）</strong></h2>
 <p class="wp-block-paragraph"><strong>研究主题：</strong> 牙齿与鳞片化学分析能否揭示亚马逊濒危巨型鱼类的迁徙模式？<br/><strong>研究组织：</strong> <strong>Ecologists Without Borders（无国界生态学家）</strong><br/><strong>语言：</strong> 英语 / 葡萄牙语</p>
-<p class="wp-block-paragraph">锯鳐是世界上最濒危的鱼类之一，而大西洋巨骨舌鱼（Atlantic tarpon）也被认为是易危物种。这两种鱼类都会在盐水与淡水之间迁徙，但目前我们对它们的迁徙模式知之甚少。若能掌握更多信息，我们就有机会找到更有效的保护方法。</p>
-<p class="wp-block-paragraph">幸运的是，巨骨舌鱼的鳞片以及锯鳐吻突的齿状结构，能够保留其迁徙路径的化学信息。我们假设，通过分析这些牙齿和鳞片，我们可以在不伤害鱼体的前提下，重建它们的迁徙路线。</p>
+<p class="wp-block-paragraph">锯鳐是世界上最濒危的鱼类之一，而大西洋海鲢（Atlantic tarpon，<em>Megalops atlanticus</em>）也被认为是易危物种。这两种鱼类都会在盐水与淡水之间迁徙，但目前我们对它们的迁徙模式知之甚少。若能掌握更多信息，我们就有机会找到更有效的保护方法。</p>
+<p class="wp-block-paragraph">幸运的是，海鲢的鳞片以及锯鳐吻突的齿状结构，能够保留其迁徙路径的化学信息。我们假设，通过分析这些牙齿和鳞片，我们可以在不伤害鱼体的前提下，重建它们的迁徙路线。</p>
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 <p class="wp-block-paragraph">【来源信息】</p>
 <p class="wp-block-paragraph">网站：<a href="https://experiment.com">Experiment.com</a></p>
 <p class="wp-block-paragraph">标题：Awesome Rostrum! | Experiment</p>
 <p class="wp-block-paragraph">作者：Jens Hegg</p>
 <p class="wp-block-paragraph">发布时间：2019 年 12月 6 日</p>
-<p class="wp-block-paragraph">原文链接：<a href="https://experiment.com/u/EsWtsA">https://experiment.com/u/EsWtsA</a></p>
+<p class="wp-block-paragraph">原文链接：<a href="https://experiment.com/u/G8DsHQ">https://experiment.com/u/G8DsHQ</a></p>
 <p class="wp-block-paragraph">阅览时间：2025 年 3 月 19 日</p>
 <p class="wp-block-paragraph">翻译：依据用户规则，由 ChatGPT（基于 GPT-4.5）翻译</p>
 </blockquote>
@@ -3295,7 +3299,7 @@ canonical_url: https://devlog.fivsevn.com/posts/2025/2025-03-23-锯锯鱼.html
 <li>其锯状吻部两侧分别有17至24颗锯齿。</li>
 </ul>
 </li>
-<li><strong>侏儒锯鳐（Pristis clavate）</strong>
+<li><strong>侏儒锯鳐（Pristis clavata）</strong>
 <ul class="wp-block-list">
 <li>体长约3米。</li>
 <li>主要栖息在北领地（NT）、昆士兰（QLD）和西澳（WA）沿岸红树林附近的浅水区、泥滩和河口水域。</li>
@@ -3601,16 +3605,16 @@ canonical_url: https://devlog.fivsevn.com/posts/2025/2025-03-23-锯锯鱼.html
 <p class="wp-block-paragraph"><em>(以上仅列举部分具有代表性的水族馆，许多大型水族馆（如美国达拉斯世界水族馆、芝加哥谢德水族馆、葡萄牙里斯本海洋馆等）历史上也曾展出锯鱼。)</em></p>
 <h2 class="wp-block-heading">展示活体锯鲨的著名水族馆</h2>
 <ul class="wp-block-list">
-<li><strong>冲绳美丽海水族馆（Okinawa Churaumi Aquarium）</strong> – 展示<strong>日本锯鲨</strong>（Japanese Sawshark，学名 <em>Pristiophorus japonicus</em>）。该馆2014年全球首例成功人工繁殖锯鲨 (<a href="https://churaumi.okinawa/en/topics/1556242479/#:~:text=In%202014%2C%20Okinawa%20Churaumi%20Aquarium,This%20detailed">Born in the aquarium! Exhibiting two-year-old Japanese sawshark | Topics | Okinawa Churaumi Aquarium – For the next generation to inherit; the beautiful seas of Okinawa. –</a>)；2019年起在深海区同时展出5岁亲代锯鲨和3尾2017年出生的幼年锯鲨（当时约70厘米长） (<a href="https://churaumi.okinawa/en/topics/1556242479/#:~:text=Okinawa%20Churaumi%20Aquarium%20is%20happy,born%20at%20Okinawa%20Churaumi%20Aquarium">Born in the aquarium! Exhibiting two-year-old Japanese sawshark | Topics | Okinawa Churaumi Aquarium – For the next generation to inherit; the beautiful seas of Okinawa. –</a>) (<a href="https://churaumi.okinawa/en/topics/1556242479/#:~:text=Exhibit%20starts%20from">Born in the aquarium! Exhibiting two-year-old Japanese sawshark | Topics | Okinawa Churaumi Aquarium – For the next generation to inherit; the beautiful seas of Okinawa. –</a>)。<strong>官方网站</strong>：churaumi.okinawa。</li>
+<li><strong>冲绳美丽海水族馆（Okinawa Churaumi Aquarium）</strong> – 展示<strong>日本锯鲨</strong>（Japanese Sawshark，学名 <em>Pristiophorus japonicus</em>）。该馆2014年全球首例成功人工繁殖锯鲨 (<a href="https://churaumi.okinawa/en/topics/1556242479/#:~:text=In%202014%2C%20Okinawa%20Churaumi%20Aquarium,This%20detailed">Born in the aquarium! Exhibiting two-year-old Japanese sawshark | Topics | Okinawa Churaumi Aquarium – For the next generation to inherit; the beautiful seas of Okinawa. –</a>)；2019年起在深海区同时展出2014年出生的5岁锯鲨、3尾2017年出生的幼年锯鲨（当时约70厘米长），以及它们的亲代 (<a href="https://churaumi.okinawa/en/topics/1556242479/#:~:text=Okinawa%20Churaumi%20Aquarium%20is%20happy,born%20at%20Okinawa%20Churaumi%20Aquarium">Born in the aquarium! Exhibiting two-year-old Japanese sawshark | Topics | Okinawa Churaumi Aquarium – For the next generation to inherit; the beautiful seas of Okinawa. –</a>) (<a href="https://churaumi.okinawa/en/topics/1556242479/#:~:text=Exhibit%20starts%20from">Born in the aquarium! Exhibiting two-year-old Japanese sawshark | Topics | Okinawa Churaumi Aquarium – For the next generation to inherit; the beautiful seas of Okinawa. –</a>)。<strong>官方网站</strong>：churaumi.okinawa。</li>
 <li><strong>名古屋港水族馆（Port of Nagoya Public Aquarium）</strong> – 长期展出<strong>日本锯鲨</strong>。2015年5月该馆从日本鹿儿岛县海域（枕崎 offshore, 300米深）捕获一尾锯鲨运回馆中饲养，同年开始对外展示。由于锯鲨属于深海动物，人工饲养不易，因此能在水族馆中看到锯鲨相当难得 (<a href="https://suizokukan.ldblog.jp/archives/1612675.html#:~:text=2015%E5%B9%B45%E6%9C%88%E3%80%81%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E6%9E%95%E5%B4%8E%E6%B2%96%EF%BC%88%E6%B0%B4%E6%B7%B1%E7%B4%84300m%EF%BC%89%E3%81%AE%E5%A0%B4%E6%89%80%E3%81%A7%E6%8D%95%E7%8D%B2%E3%81%97%E3%80%81%E5%90%8D%E5%8F%A4%E5%B1%8B%E6%B8%AF%E6%B0%B4%E6%97%8F%E9%A4%A8%E3%81%BE%E3%81%A7%E9%81%8B%E6%90%AC%E3%81%97%E3%80%81%E7%A0%94%E7%A9%B6%E3%82%92%E5%85%BC%E3%81%AD%E3%81%A6%E9%A3%BC%E8%82%B2%E3%82%92%E9%96%8B%E5%A7%8B%E3%81%97%E3%81%9F%E3%81%9D%E3%81%86%E3%81%A7%E3%81%99%E3%80%82%E6%9A%97%E3%81%84%E6%B0%B4%E6%A7%BD%E3%81%A7%E3%81%82%E3%81%BE%E3%82%8A%E5%8B%95%E3%81%8C%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%9F%E3%82%81%E3%80%81%20%E5%91%A8%E3%82%8A%E3%81%AE%E5%A4%9A%E3%81%8F%E3%81%AE%E4%BA%BA%E3%81%8C%E6%B5%81%E3%81%97%E8%A6%8B%E3%81%A7%E9%80%9A%E3%82%8A%E9%81%8E%E3%81%8E%E3%81%A6%E8%A1%8C%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E3%81%8C%E2%80%A6%E6%B0%B4%E6%97%8F%E9%A4%A8%E3%81%A7%E8%A6%8B%E3%82%8C%E3%82%8B%E3%81%AE%E3%81%AF%E7%B5%90%E6%A7%8B%E7%8F%8D%E3%81%97%E3%81%84%E3%81%AE%E3%81%A7%E6%98%AF%E9%9D%9E%E3%81%A8%E3%82%82%E8%A6%8B%E3%81%A6%E9%A0%82%E3%81%8D%E3%81%9F%E3%81%84%E3%81%A7%E3%81%99%E3%80%82%E3%82%B5%E3%83%A1%E3%82%82%E7%94%9F%E3%81%8D%E7%89%A9%E3%81%A7%E3%81%99%E3%81%AE%E3%81%A7%E3%80%81%E9%A3%BC%E8%82%B2%E5%B1%95%E7%A4%BA%E3%81%8C%E3%81%84%E3%81%A4%E3%81%BE%E3%81%A7%E7%B6%9A%E3%81%8F%E3%81%8B%E5%88%86%E3%81%8B%E3%82%8A%E3%81%BE%20%E3%81%9B%E3%82%93%E3%81%AE%E3%81%A7%E3%80%81%E4%BB%8A%E3%81%AE%E3%81%86%E3%81%A1%E3%81%AB%E4%B8%80%E5%BA%A6%E8%A6%8B%E3%81%A6%E3%81%8A%E3%81%8F%E4%BA%8B%E3%82%92%E3%82%AA%E3%82%B9%E3%82%B9%E3%83%A1%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99%E3%80%82">名古屋港水族館 ノコギリザメを飼育展示中 : 主食は水族館です</a>)。名古屋港水族馆的官方网站在其“日本之海”栏目介绍称，锯鲨虽然因独特外形备受欢迎，日本“多家水族馆有展示”，但饲养难度很高 (<a href="https://nagoyaaqua.jp/friends/south/1022/#:~:text=%E3%83%8E%E3%82%B3%E3%82%AE%E3%83%AA%E3%82%92%E6%8C%81%E3%81%A4%E3%81%91%E3%81%A9%E3%81%8A%E3%81%A8%E3%81%AA%E3%81%97%E3%81%84%E3%82%B5%E3%83%A1">日本の海〖ノコギリザメ〗｜名古屋港水族館ホームページ&lt;公式&gt;</a>)。<strong>官方网站</strong>：nagoyaaqua.jp。</li>
 <li><strong>上越市立水族博物馆 Umigatari（日本新潟县）</strong> – 2020年首次展出<strong>“戟鲨”</strong>（Halberd Shark，实为锯鲨的一种）。该馆从日本海沿岸渔获中购入两尾锯鲨，于2020年9月起在馆内圆柱水槽中展出 (<a href="https://www.yukiguni-journey.jp/en/3514/#:~:text=At%C2%A0the%20aquarium%20museum%20%E2%80%9CUmigatari%E2%80%9D%20in,of%20Japan%20are%20on%20display">〖MOVIE〗?Halberd shark first exhibition! Joetsu Aquarium Umigatari | Yukiguni journey</a>)。这是该馆开馆以来首次展示此类鲨鱼，展出与否将视个体健康状况而定 (<a href="https://www.yukiguni-journey.jp/en/3514/#:~:text=Halberd%20sharks%20are%20nocturnal%2C%20so,you%20can%20see%20them%20moving">〖MOVIE〗?Halberd shark first exhibition! Joetsu Aquarium Umigatari | Yukiguni journey</a>)。<strong>官方网站</strong>：umigatari.jp。</li>
 </ul>
 <p class="wp-block-paragraph"><em>(另据报道，日本横滨八景岛等设施过去也曾短暂饲养锯鲨；澳大利亚的一些水族馆亦可能展出当地品种的锯鲨，但公开资料有限。总体而言，相比锯鱼，全球水族馆展出的锯鲨个体更少、更稀有 (<a href="https://nagoyaaqua.jp/friends/south/1022/#:~:text=%E3%81%9D%E3%81%AE%E5%90%8D%E3%81%8C%E7%A4%BA%E3%81%99%E3%82%88%E3%81%86%E3%81%AB%E5%90%BB%EF%BC%88%E9%A0%AD%E3%81%AE%E5%85%88%EF%BC%89%E3%81%8C%E3%83%8E%E3%82%B3%E3%82%AE%E3%83%AA%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E5%BD%A2%E3%82%92%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E5%BD%A2%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AA%E3%81%8F%E3%80%81%E8%87%AA%E7%84%B6%E7%95%8C%E3%81%A7%E3%81%AF%E3%81%93%E3%81%AE%E3%83%8E%E3%82%B3%E3%82%AE%E3%83%AA%E3%82%92%E6%BF%80%E3%81%97%E3%81%8F%E6%8C%AF%E3%82%8A%E5%9B%9E%E3%81%99%E3%81%93%E3%81%A8%E3%81%AB%E3%82%88%E3%81%A3%E3%81%A6%E7%8D%B2%E7%89%A9%E3%81%A8%E3%81%AA%E3%82%8B%E5%B0%8F%E9%AD%9A%E3%82%92%E7%9C%9F%E3%81%A3%E4%BA%8C%E3%81%A4%E3%81%AB%E5%88%87%E3%81%A3%E3%81%A6%20%E9%A3%9F%E3%81%B9%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E4%BA%BA%E6%B0%97%E3%81%AE%E3%81%82%E3%82%8B%E3%82%B5%E3%83%A1%E3%81%AA%E3%81%AE%E3%81%A7%E5%A4%9A%E3%81%8F%E3%81%AE%E6%B0%B4%E6%97%8F%E9%A4%A8%E3%81%A7%E5%B1%95%E7%A4%BA%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%8C%E3%80%81%E9%A3%BC%E8%82%B2%E3%81%AF%E9%9B%A3%E3%81%97%E3%81%84%E3%81%A7%E3%81%99%E3%80%82">日本の海〖ノコギリザメ〗｜名古屋港水族館ホームページ&lt;公式&gt;</a>)。)</em></p>
 <h2 class="wp-block-heading">展示锯鲨/锯鱼标本的博物馆和研究机构</h2>
 <ul class="wp-block-list">
-<li><strong>东京大学综合研究博物馆（University Museum, The University of Tokyo）</strong> – 收藏有大型锯鱼标本。该馆动物标本库藏的一具巨型<strong>大齿锯鱼</strong>标本近期被科研团队详细测量研究，用于分析锯鱼在日本的历史分布 (<a href="https://www.itmedia.co.jp/news/articles/2406/25/news108.html#:~:text=%E3%83%8E%E3%82%B3%E3%82%AE%E3%83%AA%E3%82%A8%E3%82%A4%E3%81%AF%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%86%85%E3%81%A7%E7%B5%B6%E6%BB%85%E3%81%97%E3%81%A6%E3%81%84%E3%81%9F%20%E7%90%89%E7%90%83%E5%A4%A7%E3%81%AA%E3%81%A9%E3%81%8C%E7%99%BA%E8%A1%A8%20%E6%B5%B7%E7%94%A3%20,%E5%B7%A8%E5%A4%A7%E3%81%AA%E3%82%AA%E3%82%AA%E3%83%8E%E3%82%B3%E3%82%AE%E3%83%AA%E3%82%A8%E3%82%A4%E3%81%AE%E6%A8%99%E6%9C%AC%E3%82%92%E8%A6%B3%E5%AF%9F%E3%83%BB%E8%A8%88%E6%B8%AC%E3%81%99%E3%82%8B%E6%A7%98%E5%AD%90">ノコギリエイは日本国内で絶滅していた 琉球大などが発表 海産 …</a>)。研究人员通过整理东京大学博物馆馆藏鱼类标本和古文献记录，提出锯鱼可能已在日本<strong>国内绝灭</strong>的新见解 (<a href="https://news.at-s.com/article/1592894#:~:text=2022%E5%B9%B4%E3%80%81%E7%90%89%E7%90%83%E5%A4%A7%E7%90%86%E5%AD%A6%E9%83%A8%E3%81%AE%E5%B0%8F%E6%9E%9D%E5%9C%AD%E5%A4%AA%E5%8A%A9%E6%95%99%E3%81%AF%E5%BD%93%E6%99%82%E5%8B%A4%E3%82%81%E3%81%A6%E3%81%84%E3%81%9F%E6%9D%B1%E4%BA%AC%E5%A4%A7%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E5%8D%9A%E7%89%A9%E9%A4%A8%E3%81%A7%E3%80%8C%E6%97%A5%E6%9C%AC%E3%81%AE%E9%AD%9A%E9%A1%9E%E5%88%86%E9%A1%9E%E5%AD%A6%E3%81%AE%E7%88%B6%E3%80%8D%E3%81%A8%E3%82%82%E5%91%BC%E3%81%B0%E3%82%8C%E3%81%9F%E5%8B%95%E7%89%A9%E5%AD%A6%E8%80%85%E3%80%81%E7%94%B0%E4%B8%AD%E8%8C%82%E7%A9%82%E5%8D%9A%E5%A3%AB%E3%81%AE%E9%AD%9A%E9%A1%9E%E6%A8%99%E6%9C%AC%E3%82%92%20">ノコギリエイ 「国内絶滅」か 琉球大など 標本や古文書から新説</a>)。<strong>官方网站</strong>：um.u-tokyo.ac.jp。</li>
+<li><strong>东京大学综合研究博物馆（University Museum, The University of Tokyo）</strong> – 收藏有大型锯鱼标本。该馆动物标本库藏的一具巨型<strong>大齿锯鱼</strong>标本近期被科研团队详细测量研究，用于分析锯鱼在日本的历史分布 (<a href="https://www.itmedia.co.jp/news/articles/2406/25/news108.html#:~:text=%E3%83%8E%E3%82%B3%E3%82%AE%E3%83%AA%E3%82%A8%E3%82%A4%E3%81%AF%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%86%85%E3%81%A7%E7%B5%B6%E6%BB%85%E3%81%97%E3%81%A6%E3%81%84%E3%81%9F%20%E7%90%89%E7%90%83%E5%A4%A7%E3%81%AA%E3%81%A9%E3%81%8C%E7%99%BA%E8%A1%A8%20%E6%B5%B7%E7%94%A3%20,%E5%B7%A8%E5%A4%A7%E3%81%AA%E3%82%AA%E3%82%AA%E3%83%8E%E3%82%B3%E3%82%AE%E3%83%AA%E3%82%A8%E3%82%A4%E3%81%AE%E6%A8%99%E6%9C%AC%E3%82%92%E8%A6%B3%E5%AF%9F%E3%83%BB%E8%A8%88%E6%B8%AC%E3%81%99%E3%82%8B%E6%A7%98%E5%AD%90">ノコギリエイは日本国内で絶滅していた 琉球大などが発表 海産 …</a>)。研究人员通过整理东京大学博物馆馆藏鱼类标本和古文献记录，提出锯鱼可能已在日本<strong>国内绝灭</strong>的新见解 (<a href="https://news.at-s.com/article/1592894#:~:text=2022%E5%B9%B4%E3%80%81%E7%90%89%E7%90%83%E5%A4%A7%E7%90%86%E5%AD%A6%E9%83%A8%E3%81%AE%E5%B0%8F%E6%9E%9D%E5%9C%AD%E5%A4%AA%E5%8A%A9%E6%95%99%E3%81%AF%E5%BD%93%E6%99%82%E5%8B%A4%E3%82%81%E3%81%A6%E3%81%84%E3%81%9F%E6%9D%B1%E4%BA%AC%E5%A4%A7%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E5%8D%9A%E7%89%A9%E9%A4%A8%E3%81%A7%E3%80%8C%E6%97%A5%E6%9C%AC%E3%81%AE%E9%AD%9A%E9%A1%9E%E5%88%86%E9%A1%9E%E5%AD%A6%E3%81%AE%E7%88%B6%E3%80%8D%E3%81%A8%E3%82%82%E5%91%BC%E3%81%B0%E3%82%8C%E3%81%9F%E5%8B%95%E7%89%A9%E5%AD%A6%E8%80%85%E3%80%81%E7%94%B0%E4%B8%AD%E8%8C%82%E7%A9%82%E5%8D%9A%E5%A3%AB%E3%81%AE%E9%AD%9A%E9%A1%9E%E6%A8%99%E6%9C%AC%E3%82%92%20">ノコギリエイ 「国内絶滅」か 琉球大など 標本や古文書から新説</a>)。<strong>官方网站</strong>：um.u-tokyo.ac.jp。<br/><em>【核对注，Nov 4, 2026】静冈新闻旧链接本次直连不可用，原地址保留；研究内容另见 <a href="https://www.jstage.jst.go.jp/article/jji/71/2/71_23-042/_article/-char/ja/">原论文摘要</a>和 <a href="https://www.u-ryukyu.ac.jp/news/57572/">琉球大学研究公告</a>。</em></li>
 <li><strong>庄原市立比和自然科学博物館（日本广岛县）</strong> – 收藏并展示锯鱼实物标本。馆藏中保存有一具于1960年代在冲绳岛那霸安里川河口采集的大型锯鱼标本 (<a href="https://www.researchgate.net/profile/Hidenori_Yoshigou/publication/276851553_Occarences_of_sharks_and_rays_from_inland_water_of_Japan_In_Japanese_ribennolushuiyunichuxiansurusametoei/links/555ad15308ae6943a877e275.pdf?origin=publication_detail#:~:text=%5BPDF%5D%20%E6%97%A5%E6%9C%AC%E3%81%AE%E9%99%B8%E6%B0%B4%E5%9F%9F%E3%81%AB%E5%87%BA%E7%8F%BE%E3%81%99%E3%82%8B%E3%82%B5%E3%83%A1%E3%81%A8%E3%82%A8%E3%82%A4%E3%83%AA%20,%E3%82%A8%E3%82%A4%E3%81%A8%E3%81%97%E3%81%A6%E6%B5%A6%E5%86%85%E5%B7%9D%E3%81%8B%E3%82%89">[PDF] 日本の陸水域に出現するサメとエイリ – ResearchGate</a>)。这是日本发现的极少数本土锯鱼标本之一，具有重要科学价值。<strong>官方网站</strong>：shobara.hiroshima.jp（庄原市政府官网）。</li>
-<li><strong>神奈川县立生命之星・地球博物馆</strong>（Kanagawa Prefectural Museum of Natural History） – 收藏<strong>窄齿锯鱼</strong>（Anoxypristis cuspidata，即窄锯鱼）标本。其馆藏编号ZUMT18219号标本经鉴定可能来自日本九州西部外海的东シナ海海域 (<a href="https://www.jstage.jst.go.jp/article/jji/advpub/0/advpub_23-042/_pdf/-char/ja#:~:text=Anoxypristis%20cuspidata%EF%BC%88%E3%82%B5%E3%82%AB%E3%82%BF%E3%82%B6%E3%83%A1%E7%9B%AE%E3%83%8E%E3%82%B3%E3%82%AE%E3%83%AA%E3%82%A8%E3%82%A4%E7%A7%91%EF%BC%89%E3%81%AE%20…%20,%E8%A5%BF%E9%83%A8%E6%B2%96%E5%90%88%E3%81%AE%E6%9D%B1%E3%82%B7%E3%83%8A%E6%B5%B7%E7%94%A3%E3%81%AE%E5%8F%AF%E8%83%BD%E6%80%A7%E3%81%8C%E9%AB%98%E3%81%84">Anoxypristis cuspidata（サカタザメ目ノコギリエイ科）の … – J-Stage</a>)。该标本为研究日本锯鱼分布提供了珍贵资料。<strong>官方网站</strong>：nh.kanagawa-museum.jp。</li>
+<li><strong>东京大学综合研究博物馆（University Museum, The University of Tokyo）</strong> – 收藏<strong>窄锯鱼</strong>（Anoxypristis cuspidata，即窄锯鳐）标本。其馆藏编号ZUMT18219号标本经鉴定可能来自日本九州西部外海的东シナ海海域 (<a href="https://www.jstage.jst.go.jp/article/jji/advpub/0/advpub_23-042/_pdf/-char/ja#:~:text=Anoxypristis%20cuspidata%EF%BC%88%E3%82%B5%E3%82%AB%E3%82%BF%E3%82%B6%E3%83%A1%E7%9B%AE%E3%83%8E%E3%82%B3%E3%82%AE%E3%83%AA%E3%82%A8%E3%82%A4%E7%A7%91%EF%BC%89%E3%81%AE%20…%20,%E8%A5%BF%E9%83%A8%E6%B2%96%E5%90%88%E3%81%AE%E6%9D%B1%E3%82%B7%E3%83%8A%E6%B5%B7%E7%94%A3%E3%81%AE%E5%8F%AF%E8%83%BD%E6%80%A7%E3%81%8C%E9%AB%98%E3%81%84">Anoxypristis cuspidata（サカタザメ目ノコギリエイ科）の … – J-Stage</a>)。该标本为研究日本锯鱼分布提供了珍贵资料。<strong>官方网站</strong>：um.u-tokyo.ac.jp。<br/><em>【核对注，Nov 4, 2026】<a href="https://www.jstage.jst.go.jp/article/jji/71/2/71_23-042/_article/-char/ja/">原论文摘要</a>及 <a href="https://www.u-ryukyu.ac.jp/news/57572/">琉球大学研究公告</a>均将这件窄锯鳐标本列为东京大学馆藏；神奈川馆是合作作者的单位。上列标本编号暂保留，待据全文进一步核对。</em></li>
 <li><strong>普尔博物馆（Poole Museum, 英国）</strong> – 收藏有大量历史锯鱼标本。该馆库房中珍藏了8把锯鱼的吻锯（rostra）以及一具幼体标本，均为早年作为猎奇标本收集后捐赠给博物馆的馆藏 (<a href="https://wessexmuseums.org.uk/our-work/exhibitions-events/wildlife-in-the-red/sawfish/#:~:text=Deep%20in%20its%20collections%20store%2C,then%20given%20to%20the%20museum">Sawfish – Wessex Museums</a>)。这些实物现用于科普展示，警示锯鱼因人类活动濒临灭绝 (<a href="https://wessexmuseums.org.uk/our-work/exhibitions-events/wildlife-in-the-red/sawfish/#:~:text=Poole%20Museum%20has%20a%20collection,consideration%20for%20the%20environmental%20impact">Sawfish – Wessex Museums</a>) (<a href="https://wessexmuseums.org.uk/our-work/exhibitions-events/wildlife-in-the-red/sawfish/#:~:text=Deep%20in%20its%20collections%20store%2C,then%20given%20to%20the%20museum">Sawfish – Wessex Museums</a>)。<strong>官方网站</strong>：poolemuseum.org.uk。</li>
 <li><strong>佛罗里达自然史博物馆（Florida Museum of Natural History, USA）</strong> – 拥有全球最大的锯鱼标本和数据收藏之一。该馆不仅收藏众多锯鱼吻锯标本，还牵头建立<strong>国际锯鱼目击数据库</strong>，致力于锯鱼保护研究 (<a href="https://sevenseasmedia.org/sawfish-news-antique-sawfish-rostra-yield-valuable-dna-museum-and-private-collections-aid-scientists/#:~:text=diversity%20in%20sawfishes%20is%20to,the%20DNA%20of%20historic%20populations">SAWFISH NEWS: Antique Sawfish Rostra Yield Valuable DNA, Museum and Private Collections Aid Scientists — SEVENSEAS Media</a>) (<a href="https://sevenseasmedia.org/sawfish-news-antique-sawfish-rostra-yield-valuable-dna-museum-and-private-collections-aid-scientists/#:~:text=Sawfish%20rostra%20are%20considered%20unique,To%20understand%20the%20historic%20population">SAWFISH NEWS: Antique Sawfish Rostra Yield Valuable DNA, Museum and Private Collections Aid Scientists — SEVENSEAS Media</a>)。研究人员通过对博物馆和私人收藏的古旧吻锯提取DNA，比对现代种群，以评估锯鱼遗传多样性变化 (<a href="https://sevenseasmedia.org/sawfish-news-antique-sawfish-rostra-yield-valuable-dna-museum-and-private-collections-aid-scientists/#:~:text=Not%20only%20is%20it%20the,also%20contains%20vital%20information">SAWFISH NEWS: Antique Sawfish Rostra Yield Valuable DNA, Museum and Private Collections Aid Scientists — SEVENSEAS Media</a>) (<a href="https://sevenseasmedia.org/sawfish-news-antique-sawfish-rostra-yield-valuable-dna-museum-and-private-collections-aid-scientists/#:~:text=diversity%20in%20sawfishes%20is%20to,the%20DNA%20of%20historic%20populations">SAWFISH NEWS: Antique Sawfish Rostra Yield Valuable DNA, Museum and Private Collections Aid Scientists — SEVENSEAS Media</a>)。<strong>官方网站</strong>：floridamuseum.ufl.edu。</li>
 </ul>
@@ -3727,7 +3731,7 @@ canonical_url: https://devlog.fivsevn.com/posts/2025/2025-03-23-锯锯鱼.html
 <figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th><strong>编号</strong></th><th><strong>名称</strong></th><th><strong>尺寸（长 x 宽 x 厚）</strong></th><th><strong>齿数</strong></th><th><strong>售价（美元）</strong></th><th><strong>状态</strong></th></tr></thead><tbody><tr><td><strong>#SAW-6-2</strong></td><td>小齿锯鳐齿板</td><td>31.25″ x 4.5″（底部）x 3.25″（尖端）x 15/16″</td><td>29对，平均牙齿长度7/8″；正面有“Sawfish 12.5 feet”标记</td><td>$1400</td><td>已售</td></tr><tr><td><strong>#SAW-6-4</strong></td><td>小齿锯鳐齿板</td><td>34.25″ x 6.125″（底部）x 2.25″（尖端）x 1.375″</td><td>52颗（3颗缺失），平均牙齿长度1-1/8″</td><td>$1500</td><td>已售</td></tr><tr><td><strong>#SAW6-7</strong></td><td>小齿锯鳐齿板（两侧涂绿）</td><td>19.5″ x 2.75″</td><td>40颗（+2颗破损）；尖端缺失</td><td>$400</td><td>–</td></tr><tr><td><strong>#SAW-6-8</strong></td><td>小齿锯鳐齿板</td><td>34.75″ x 4.375″（底部）x 2.25″（尖端）</td><td>24对牙齿，1颗右上角牙齿损坏</td><td>$1500</td><td>已售</td></tr><tr><td><strong>#SAW-6-9</strong></td><td>小齿锯鳐齿板</td><td>27.375″ x 2.375″（底部）</td><td>27对牙齿；7颗损坏，2颗缺失</td><td>$1200</td><td>–</td></tr><tr><td><strong>#SAW-6-10</strong></td><td>小齿锯鳐齿板</td><td>27.125″ x 2.625″（底部）</td><td>28对牙齿；8颗损坏</td><td>$1200</td><td>已售</td></tr><tr><td><strong>#W-6-11</strong></td><td>小齿锯鳐齿板</td><td>33.25″</td><td>31对牙齿；7颗损坏</td><td>$1400</td><td>已售</td></tr><tr><td><strong>#W-6-12</strong></td><td>小齿锯鳐齿板</td><td>31.25″</td><td>26对牙齿；6颗损坏，2颗接近尖端的缺失</td><td>$1400</td><td>–</td></tr></tbody></table></figure>
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 <h3 class="wp-block-heading"><strong>关于佛罗里达州的锯鳐</strong></h3>
-<p class="wp-block-paragraph">锯鳐属于<strong>软骨鱼类（Elasmobranchii）</strong>，与<strong>鲨鱼、鳐鱼、燕魟</strong>同科，其骨骼由软骨构成，拥有扁平的头部和鲨鱼般的游泳方式。</p>
+<p class="wp-block-paragraph">锯鳐属于<strong>板鳃亚纲（Elasmobranchii）</strong>，与<strong>鲨鱼及其他鳐类（rays、skates）</strong>同属这一亚纲，其骨骼由软骨构成，拥有扁平的头部和鲨鱼般的游泳方式。</p>
 <ul class="wp-block-list">
 <li>锯鳐的鼻突（rostrum）不会再生，一旦丢失，便无法恢复。</li>
 <li>目前，全球已知的锯鳐种类约为<strong>4-7种</strong>。</li>

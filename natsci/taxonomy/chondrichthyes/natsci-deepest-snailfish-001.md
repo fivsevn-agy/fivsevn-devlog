@@ -40,7 +40,7 @@ legacy:
 filename_policy: "stable-link"
 
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-11-04"
 metadata_updated: "2026-11-04"
 extra: {"original_author": "Chris Lau", "original_published": "2023-04-03"}
 ---
@@ -81,7 +81,11 @@ NOTE
 
 除了拍到最深处的狮子鱼之外，科学家还在 8,022 米深处实际捕获了另外两个标本，并创下了最深处捕获鱼类的新纪录。
 
-此前，曾被发现的最深处狮子鱼是在 2008 年的 7,703 米深处；而科学家此前从未能够在低于 8,000 米的任何地方采集到鱼类。
+此前，曾被发现的最深处狮子鱼是在 2008 年的 7,703 米深处；而科学家此前从未能够在深于 8,000 米的地方采集到鱼类。
+
+> 译注（纪录范围）：上句的 7,703 米应限定为本次捕获的物种 _Pseudoliparis belyaevi_ 此前的观测记录，不能理解为所有狮子鱼此前的最深拍摄纪录。[西澳大学 2023 年同期通告](https://www.uwa.edu.au/news/Article/2023/April/Scientists-break-new-record-after-finding-worlds-deepest-fish)明确把 2008 年的 7,703 米与该物种相连；[JAMSTEC 2017 年通告](https://www.jamstec.go.jp/e/about/press_release/archive/2017/20170824.pdf)已记录在 8,178 米拍到狮子鱼。本文报道的 8,336 米是拍摄影像纪录，8,022 米是捕获标本纪录；后者鉴定为 _P. belyaevi_，前者未取得标本，不能据此确定是同一物种。可参见[本次考察的研究摘要](https://research-repository.uwa.edu.au/en/publications/new-maximum-depth-record-for-bony-fish-teleostei-scorpaeniformes-/)。以上均按报道及研究发表时的记录说明。
+>
+> 目录说明：本文沿用旧目录链接；狮子鱼科属硬骨鱼类，旧路径并不代表其分类。分类可对照 [FishBase 的 _P. belyaevi_ 条目](https://fishbase.se/summary/Pseudoliparis-belyaevi.html)与[该考察的原研究论文](https://doi.org/10.1016/j.dsr.2023.104132)。
 
 “重要之处在于，它显示了某一种鱼类会下潜到海洋中的多深处，”海洋生物学家 Alan Jamieson 说。他是 Minderoo-UWA Deep Sea Research Centre 的创始人，并领导了这次考察。
 

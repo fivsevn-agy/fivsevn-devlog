@@ -38,7 +38,7 @@ legacy:
     submodule: software-engineering
 
 created: "2026-06-22"
-updated: "2026-06-22"
+updated: "2026-11-04"
 metadata_updated: "2026-11-04"
 extra: {"original_author": "Charity Majors", "original_published": "2026-06-15"}
 ---
@@ -71,6 +71,8 @@ NOTE
 
 [原文配图 1：前往原文查看](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline)
 
+## 2025 年的问题是：AI 究竟能不能生成“好”代码
+
 人们很容易忘记，在 2025 年的大部分时间里，认为 AI 生成的代码是垃圾、而且可能永远都是垃圾，不只是一个合理立场，它还是默认的主流立场。[2](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline#footnote-2)
 
 这个问题在去年 11 月已经被明确回答了。自从 Opus 4.5 发布以来，AI 已经能够生成质量大致相当于软件工程师中位数水平的代码，至少在常见模式上如此，而且速度更快、成本更低。我从一本书的坑里爬出来，在 1 月意识到了这一点；而在 2026 年最初几个月里，似乎我周围的每个人都在经历类似的醒悟。
@@ -83,6 +85,8 @@ NOTE
 
 事实证明，他们是对的。
 
+## 第一次持怀疑态度是合理的
+
 你可能知道，我来自可靠性这一侧。我愿意给自己和我这类人一个赞美：我们并不难适应新的现实。只要问题是真实的，并且摆在我们面前，我们就会顺滑地、甚至热切地调整自己，这要归功于一种不太健康的热情：我们喜欢舔食恶心的技术烂摊子（以及以后能在篝火旁讲的故事）。
 
 [原文配图 2：前往原文查看](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline)
@@ -93,6 +97,8 @@ NOTE
 
 第一次坚持“我看到才相信”还可以原谅，第二次就没那么可原谅了。事实证明，站在指数变化曲线内部就是这种感觉。[4](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline#footnote-4)
 
+## 2025 年究竟发生了什么？
+
 我想在这里暂停一下，非常清楚地说明我认为正在发生什么。然后我会告诉你，我具体对什么感到兴奋，以及为什么。
 
 你没有义务跟我一起走到那里。但现在外面有太多笼统的大话，说什么“它从来不是 X”——“它一直都是 Y”——“未来属于 xyzzy”🤮——我想非常清楚地说明：我的主张有多么有条件、多么具体、多么依赖上下文。
@@ -102,6 +108,8 @@ NOTE
 在计算历史的大部分时间里，人们理解软件的主要方式是编写代码。一旦你达到一定熟练程度，阅读和讨论代码就能让你走完大部分路。（我可能会争辩说，软件工程师一直过度依赖_代码_，而不是通过可观测性来对_系统_进行意义建构。）
 
 [原文配图 3：前往原文查看](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline)
+
+## “软件团队的真正产物是共同理解”
 
 许多优秀的软件工程师认为，每一个（优秀的）软件工程团队的真正产物，一直都是我们对自己所拥有软件的共同理解。它会作为缓存状态存进我们脆弱的小肉脑里，经常被刷写到磁盘、部署到生产、提交到 GitHub，但意义一直都存在于我们的头脑中。
 
@@ -115,6 +123,8 @@ NOTE
 
 （这些都是背景故事。我保证，我马上讲到重点。）
 
+## 到头来，这仍然是一个工程问题
+
 我们去年 8 月发布了 AI 强制令。[5](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline#footnote-5) 我已经看到了足够多的东西，知道这件事正在发生，而现在是时候做负责任的事了。[Honeycomb](http://honeycomb.io/) 是一家开发者工具公司，人们来找我们，是为了在技术前沿帮他们解决困难问题。我全力投入 AI，但我不能说在内心深处我真的对此非常兴奋。[6](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline#footnote-6)
 
 [原文配图 4：前往原文查看](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline)
@@ -124,6 +134,8 @@ NOTE
 如果你不知道我在说什么，老实说你现在就应该别再读我这些破东西，直接[去读他的](https://aicoding.leaflet.pub/)。Chad 是 2013 年创造“[immutable infrastructure](https://chadfowler.com/articles/trash-your-servers-and-burn-your-code.html)”这个术语的人。他最知名的文章是“[Relocating Rigor](https://aicoding.leaflet.pub/3mbrvhyye4k2e)”，因为 Martin Fowler[7](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline#footnote-7) 在[回顾一场关于软件未来的 Thoughtworks meetup](https://www.thoughtworks.com/about-us/events/the-future-of-software-development) 时提到了它。我回应了一篇“[Production Is Where the Rigor Goes](https://www.honeycomb.io/blog/production-is-where-the-rigor-goes)”，抱怨他们谈生产环境谈得不够。
 
 我写那篇文章时，想来“Relocating Rigor”是我读过的唯一一篇。但很快我就发现了其余文章；读了两三篇之后，它_就_突然_对上了_。我完全知道他在说什么。我能预测他接下来会说什么。然后，读者啊……然后我_兴奋_起来了。
+
+## 这一切曾经发生过，也还会再次发生
 
 我会给你摘一小组 Chad 的引文，刚好够你抓住要点。下面这段出自“[The Death and Rebirth of Programming](https://aicoding.leaflet.pub/3malrv6poy22a)”。
 
@@ -185,6 +197,8 @@ NOTE
 
 “_一种理解的物化视图，在当前有效时有用，在过时时可丢弃_。”我想，让我脑中突然对上的可能就是这句原话。
 
+## 还记得系统管理员吗？
+
 我刚好年纪够大，我的第一份工作头衔还是“系统管理员”。我那时是个十几岁的孩子，在大学里工作，在他们学会自己绝对_不该这么做_之前，我对每一台机器都有 root 权限。[8](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline#footnote-8)
 
 我亲历了从手工制作的服务器宠物，到不可变基础设施牛群的转变。当时我并不真正理解正在发生什么，但近些年来我思考了很多。我在《Observability Engineering》第二版最后一章里写下了这些内容（截至 6 月 17 日星期三可下载！）：
@@ -203,6 +217,8 @@ NOTE
 
 代码行一直承担了_太多_东西。代码一直是开发者意图、用户期望、隐式与显式行为的捆绑仓库，是我们对过往 bug 所拥有的唯一化石化复合记录。太多了！
 
+## 代码行并不是理想的评审对象
+
 再看看那些由于维护和修改代码行的巨大、吞噬一切的成本而被忽视的领域。为了理解我们的架构如何演进，我可以评审和讨论哪些 artifact？我们的架构 artifact 到底在哪里？如果我们可以围绕一张架构图讨论并达成一致，而代码可以根据架构变更重新生成，而不是架构只能有点像、差不多地从代码中推断出来，那会怎样？
 
 我_不是_在断言所有代码最终都会由 AI 按规范生成，从而绕开人的理解。整个事业是否可行，取决于一个问题：spec 是什么，或者 spec 可以是什么。任何做过痛苦数据库迁移的人，都本该在我们能否以可重放、可自动化的方式提取并形式化用户期望这件事上，学到一点该死的谦卑。
@@ -215,6 +231,8 @@ NOTE
 
 [原文配图 8：前往原文查看](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline)
 
+## 人脑并非为验证而生
+
 生产环境中出现非确定性代码，终于在迫使我们做那些本来一直就该做的事。用 trace 做仪表化。在生产环境中做测试和 eval。生产不是开发结束之后才发生的事情，**生产是开发的一个阶段**。
 
 人脑_并不擅长_验证。那种吹毛求疵、那种重复。这是最不值得我们抱住不放的东西，诸位。在软件的生产和维护中，有太多更好的东西值得我们想要保留，并为自己主张。谈到_验证_，我们永远不可能打败机器——我们字面意义上就是最薄弱的一环！
@@ -223,6 +241,8 @@ NOTE
 
 好了。我差不多说完了。只剩最后一件事。
 
+## 非确定性系统需要更多工程纪律，而非更少
+
 我认为，过去两年 AI 话语中让许多工程师感到如此疏离和恐惧的，是许多显赫的 AI 声音似乎在兴高采烈地宣称：软件不再是一个工程问题。“[SaaS is dead](https://www.forrester.com/blogs/saas-as-we-know-it-is-dead-how-to-survive-the-saas-pocalypse/)！”“[Making AI great at coding was the strategy that unlocks everything else](https://www.linkedin.com/pulse/something-big-happening-matt-shumer-so5he/)”，等等。甚至 [Adam Jacob](https://www.adamhjk.com/blog/as-we-build-so-we-believe/)——我最亲密的朋友之一，也是一个很少看错技术的人——似乎也预期软件岗位会经历一场血洗。[9](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline#footnote-9)
 
 如果说 2025 年是 vibe coding 之年，AI 生成代码行的能力达到了软件工程师中位数水平，而可能的未来范围常常让人感到不稳定、近乎不可思议地宽阔，那么我觉得 2026 年正在成形为一次**纪律的回归**。
@@ -230,6 +250,8 @@ NOTE
 [原文配图 9：前往原文查看](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline)
 
 毕竟，我们头脑中的知识，在被编码进系统之前，对 AI 来说是不可用的。对这些投入的回报将是巨大的、非线性的。我们也许会争辩说，从长期看它们本来就总会回本。但现在每一位 CEO 都急不可耐地想要尝到那些 AI 小甜饼，所以就给他们吧。纪律在前，甜饼在后。
+
+## 这是将我们的工程价值观带入主流的机会
 
 软件工程团队中在短而快的反馈回路中工作的比例（在我看来，这是纪律的核心标志），一直都小得令人震惊。5%，也许？肯定不到 10%。AI 工具让这件事比以往任何时候都更[触手可及](https://www.honeycomb.io/blog/you-had-one-job-why-twenty-years-of-devops-has-failed-to-do-it)。或者说，它能做到。它有可能做到。对工程纪律的投资所产生的不连续回报是真实存在的，真实到这件事也许真的会发生。
 

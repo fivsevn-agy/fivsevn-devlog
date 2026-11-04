@@ -28,8 +28,8 @@ visibility: "public"
 source_of_truth: "devlog"
 
 created: "2025-12-02"
-updated: "2026-03-01"
-metadata_updated: "2026-10-13"
+updated: "2026-11-04"
+metadata_updated: "2026-11-04"
 ---
 ## 电磁波频段俗称表
 
@@ -62,7 +62,7 @@ RF 是总称；HF/VHF/UHF 是 ITU 系统；L/S/C/X/Ku/Ka/V/W 是微波产业系�
 | UHF | 特高频 | 300 – 3000 MHz | 业余 70cm、LoRa(433/868/915)、Wi-Fi 2.4G、LTE、对讲机 |
 | SHF | 超高频(微波) | 3 – 30 GHz | Wi-Fi 5G(5GHz)、Wi-Fi 6E、5G Sub-6、卫星链路、各类雷达 |
 | EHF | 极高频(毫米波) | 30 – 300 GHz | 5G 毫米波、毫米波雷达、成像系统 |
-| L-band | L 波段 | 1 – 2 GHz | GPS/GNSS、Iridium、LTE Band 1/3/20、卫星下行 |
+| L-band | L 波段 | 1 – 2 GHz | GPS/GNSS、Iridium、LTE Band 3、部分卫星链路 |
 | S-band | S 波段 | 2 – 4 GHz | Wi-Fi 邻区、气象雷达、Starlink 部分、卫星通信 |
 | C-band | C 波段 | 4 – 8 GHz | Wi-Fi 5GHz 部分、卫星通信、雷达 |
 | X-band | X 波段 | 8 – 12 GHz | 军用雷达、NASA 深空网(DSN) |
@@ -78,7 +78,7 @@ RF 是总称；HF/VHF/UHF 是 ITU 系统；L/S/C/X/Ku/Ka/V/W 是微波产业系�
 |-----------|-----------|----------------------------|
 | LoRa 433 | 433 MHz | UHF |
 | LoRa 868/915 | 868/915 MHz | UHF |
-| Wi-Fi 2.4G | 2.4 GHz | UHF / S-band 边界 |
+| Wi-Fi 2.4G | 2.4 GHz | UHF / S-band（两套命名均覆盖此频率） |
 | Wi-Fi 5G (5GHz) | 5.1–5.8 GHz | C-band / SHF |
 | Wi-Fi 6E (6GHz) | ~6 GHz | SHF |
 | GPS L1/L2/L5 | 1.1–1.6 GHz | L-band |
@@ -87,9 +87,14 @@ RF 是总称；HF/VHF/UHF 是 ITU 系统；L/S/C/X/Ku/Ka/V/W 是微波产业系�
 | LTE(4G) 常用段 | 700 MHz–2.6 GHz | UHF / L-band |
 | 5G Sub-6 | 3.3–4.9 GHz | SHF |
 | 5G 毫米波 | 26–39 GHz | Ka-band / EHF |
-| Starlink | 10–12 GHz 下行, 17–30 GHz 上行 | X/Ku/Ka |
+| Starlink 用户链路（Ku 示例） | 10.7–12.7 GHz 下行；14.0–14.5 GHz 上行 | X/Ku（按上表边界跨段） |
+| Starlink 网关链路（Ka 示例） | 17.8–18.6、18.8–19.3 GHz 下行；27.5–29.1、29.5–30.0 GHz 上行 | Ku/K/Ka（按上表边界跨段） |
 | 气象雷达 | 2.7–3.0 GHz | S-band |
 | 深空通信 DSN | 8.4 GHz | X-band |
+
+> 频率核对（2026-11-04）：LTE Band 3 的上行为 1710–1785 MHz、下行为 1805–1880 MHz，均在上表的 L-band 范围。Band 20 则是 832–862 / 791–821 MHz，Band 1 的下行是 2110–2170 MHz，不能把这几个频段整体都放进 1–2 GHz。对照 [3GPP TS 36.101 表 5.5-1](https://www.etsi.org/deliver/etsi_ts/136100_136199/136101/15.04.00_60/ts_136101v150400p.pdf)和[Quectel 天线支持频段表](https://www.quectel.com/content/uploads/2024/03/Quectel_Antenna_YC0018CA_Datasheet_V2.0.pdf)。
+>
+> Starlink 原表把不同方向、不同链路压在同一个连续区间里。这里拆开列示：Ku 用户链路的上下行见 [FCC 2022 年文件的用户终端说明](https://docs.fcc.gov/public/attachments/FCC-22-91A1.pdf)，Ka 网关示例按[加拿大 ISED 2026-01 公告](https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/learn-more/key-documents/consultations/notice-request-received-spacex-canada-corp-use-e-band-frequencies-canada)列出的既有频段；[SpaceX 2020 年提交给墨西哥 IFT 的说明](https://www.ift.org.mx/sites/default/files/industria/temasrelevantes/consultaspublicas/documentos/07-patriciacooper-spacexcomments.pdf)也已分别列出 Ku/Ka 上下行。以上是注明来源的示例，不代表所有地区、代际与许可使用相同频率；通信行业也常把整个链路称为 Ku/Ka，即使它跨过本表采用的命名边界。
 
 ### 波长（λ = c/f）和天线
 

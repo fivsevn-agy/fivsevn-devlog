@@ -24,9 +24,10 @@ confidence: 0.8
 visibility: public
 source_of_truth: devlog
 created: 2026-10-05
-updated: 2026-10-07
+updated: "2026-11-04"
 permalink: "/posts/2026/posts-toy-reference.html"
 filename_policy: "entrypoint"
+metadata_updated: "2026-11-04"
 ---
 
 <link rel="stylesheet" href="{{ '/posts/2026/10/posts-toy-reference/assets/toy-reference.css' | relative_url }}?v=20261007-dialog-scroll" />
@@ -110,7 +111,7 @@ filename_policy: "entrypoint"
           >。资料尚未覆盖历年展会的全部产品。展会记录需有与具体产品对应的证据；社区链接用于查找讨论，不作为热度排名的依据。
         </p>
         <p class="tr-meta">
-          <a id="tr-xlsx" href="{{ '/posts/2026/10/posts-toy-reference/assets/toy-data.xlsx' | relative_url }}?v=20261007-creatures" download="玩具资料整理.xlsx"
+          <a id="tr-xlsx" href="{{ '/posts/2026/10/posts-toy-reference/assets/toy-data.xlsx' | relative_url }}?v=20261104-count" download="玩具资料整理.xlsx"
             >下载完整资料表（Excel）</a
           >
         </p>
