@@ -62,12 +62,12 @@ _site/natsci/fieldlog/              Generated deployment artifact
 
 ## 发布图片
 
-1. 推荐网页或直接调用 GitHub 的快捷指令上传；网页可使用[图片上传页](https://github.com/fivsevn-agy/fivsevn-devlog/upload/main/natsci/fieldlog/trigger_imgs)。
-2. 把一张或多张照片保存到 `natsci/fieldlog/trigger_imgs/`，保留原文件名。
-3. 提交摘要用作操作名称；需要公开的 Markdown 配文写在摘要下方的 **详细说明（extended description）** 中。留空则只发图片。
+1. 在 Working Copy 中先同步仓库的最新 `main`；使用 GitHub Desktop 时也先拉取最新提交。
+2. 运行现有快捷指令，把 Images 保存到本仓库完整的 `natsci/fieldlog/trigger_imgs/` 路径，保留每张照片的原文件名。
+3. 快捷指令打开 Working Copy 后，检查本次图片并填写提交信息。摘要用作操作名称；需要公开的 Markdown 配文写在摘要下方的 **详细说明（extended description）** 中。留空则只发图片。
 4. 提交并推送到 `main`，等待[发布任务](https://github.com/fivsevn-agy/fivsevn-devlog/actions)成功，再检查[列表页](https://devlog.fivsevn.com/natsci/fieldlog/)和单帖页面。
 
-快捷指令使用 **fivsevn-agy/fivsevn-devlog**、上述图片入口及 GitHub 当前的 `main`。历史清理会更新版本编号；旧 Working Copy 副本请重新克隆，不要合并旧历史。GitHub 的只读 PR 引用和服务端对象保留由平台管理。
+快捷指令的 Working Copy 文件夹应绑定 **fivsevn-agy/fivsevn-devlog** 及上述完整路径。快捷指令负责保存图片并打开 App，之后由你提交和推送。机器人会把发布包、状态和已验证的入口清理写成正常新提交；下一次保存图片前先同步这些提交。
 
 每张图片独立成帖，同一次提交的图片共用详细说明中的配文。上传时只需照片和可选配文，共享 metadata 由导入脚本自动补齐。
 
@@ -97,7 +97,7 @@ MPO、HEIF 使用主显示照片，手机的辅助帧不会变成动画帧。归
 
 `normalize_fieldlog_images.py` 也会处理直接存入发布包的图片，包括隐藏帖、草稿和帖子当前未选用的图片。脚本先校验整批文件，暂存 WebP，更新 `extra.image` 及相应上传记录，再统一替换旧格式文件。整批失败时恢复原文件和 metadata；归档已经全部为 WebP 时，重跑不会改文件。
 
-当前内容树只保存 WebP 归档。线上核验并清理入口后，流程会清理 Fieldlog 旧格式图片的 `main` 历史并同步发布游标；有待处理输入或并发提交时延后。原件请另存仓库外，上传前先拉取最新 `main`。转换不改变帖子 ID、网址、观察日期或配文。
+当前内容树只保存 WebP 归档。日常流程在线上核验后清理匹配的入口原图，不改写 Git 历史。原件请另存仓库外，上传前先同步最新 `main`。转换不改变帖子 ID、网址、观察日期或配文。
 
 界面中的 `OBS-…_raw.tif` 是虚拟标本文件名，实际显示的图片由 `extra.image` 指定，格式为 WebP。
 
@@ -210,7 +210,8 @@ python3 scripts/fieldlog_image_inbox.py
 - `site-data/history.json` 固定相同时间戳的排序。替换照片时更新包内图片并提交；文件名变化时同步修改 `extra.image`。工作流会转为 WebP，记录并校验当前字节，历史摘要不会阻止主动换图。
 - 上传图片损坏或格式不支持时，替换或移除相应入口文件后推送。后续修复会取代无效事件；当前无效上传会阻止整批安装，避免同批帖子只保存一部分。
 - 有更新提交或线上字节不符时，等待最新排队任务继续，或在最新 `main` 上重跑。下一次手机上传前先拉取机器人提交。
-- 游标丢失，或不在当前分支的第一父提交历史中时，先检查或恢复 Git 历史再修复状态；直接重置可能重放已处理的上传。
+- 游标丢失，或不在当前 `main` 的完整祖先历史中时，先检查或恢复 Git 历史再修复状态；直接重置可能重放已处理的上传。
+- 历史清理默认关闭；只有按需手动触发 `workflow_dispatch` 并启用 `compact_image_history=true` 时，才会重写 Fieldlog 原格式图片的 `main` 历史并映射发布游标。维护前将原件和未推送素材备份到仓库外；维护后把旧 Working Copy／Desktop 副本对齐新 `main` 或重新克隆，不要合并旧历史。GitHub 的只读 PR 引用和服务端对象保留由平台管理。
 
 ## 发布素材命名
 

@@ -32,8 +32,8 @@ source_of_truth: devlog
 filename_policy: entrypoint
 
 created: null
-updated: '2026-11-01'
-metadata_updated: '2026-11-01'
+updated: '2026-11-05'
+metadata_updated: '2026-11-05'
 ---
 
 # fivsevn-devlog
@@ -58,7 +58,9 @@ Content and build source for [devlog.fivsevn.com](https://devlog.fivsevn.com/). 
 
 Edit notes in their module and push to `main`. First-level `_drafts/` notes are handled by the existing metadata completion workflow and do not independently trigger a deployment. The module-index updater preserves its declared manual sections. Do not use it to rewrite the operations log.
 
-Fieldlog uploads go to `natsci/fieldlog/trigger_imgs/`. Each input becomes one editable package with optional commit-description text. The importer saves a WebP with the shared media name and retains event state to prevent duplicate posts. Saved Fieldlog titles, captions and publication controls can be edited in `index.md`. After verified publication, converted Fieldlog originals are removed from `main` history. Use GitHub uploads or a direct API shortcut; re-clone old local checkouts after compaction rather than merging old history.
+Before each Fieldlog upload, sync the latest `main` in Working Copy or GitHub Desktop. Save the shortcut's Images into this repository's full `natsci/fieldlog/trigger_imgs/` path, then commit and push to `main`. Each input becomes one editable package with optional commit-description text. The importer saves a WebP, publishes and verifies it, then clears only matching inbox originals. Saved Fieldlog titles, captions and publication controls can be edited in `index.md`.
+
+Daily publishing adds normal commits and does not rewrite Git history. History cleanup is off by default and runs only through manual `workflow_dispatch` with `compact_image_history=true`. Keep original images and unpushed work backed up outside the repository. After that maintenance, realign or re-clone old local checkouts; do not merge the old history.
 
 ## Build and Actions
 

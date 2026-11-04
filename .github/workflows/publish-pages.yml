@@ -6,6 +6,11 @@ on:
     paths-ignore:
       - '**/_drafts/**'
   workflow_dispatch:
+    inputs:
+      compact_image_history:
+        description: Compact converted image history; resync local clones afterwards
+        type: boolean
+        default: false
   workflow_run:
     workflows: ['Build Intake Page']
     branches: [main]
@@ -133,6 +138,7 @@ jobs:
           fi
       - name: Prepare verified image history cleanup
         id: media_history
+        if: github.event_name == 'workflow_dispatch' && inputs.compact_image_history == true
         run: |
           python -m pip install git-filter-repo==2.47.0
           python scripts/compact_media_history.py --prepare --scope devlog --repo "$GITHUB_WORKSPACE" --output-dir "$RUNNER_TEMP/webp-history" --defer-if-pending > "$RUNNER_TEMP/webp-history-result.json"
