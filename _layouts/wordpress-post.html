@@ -11,15 +11,15 @@
     <header class="post-header" aria-label="文章信息">
       <p class="post-comment">// post.rs</p>
       <h1><span aria-hidden="true">//! </span>{{ page.title | escape }}</h1>
-      <p><strong>//! written by</strong> <span class="post-comment">{{ page.extra.author | escape }}</span></p>
-      <p><strong>//! published at</strong> <time datetime="{{ page.extra.published_at }}">{{ page.extra.published_at }}</time></p>
+      <p><strong lang="en">//! written by</strong> <span class="post-comment">{{ page.extra.author | escape }}</span></p>
+      <p><strong lang="en">//! published at</strong> <time datetime="{{ page.extra.published_at }}">{{ page.extra.published_at }}</time></p>
       <p class="post-comment post-metadata">/* metadata */</p>
       <div class="post-code">mod meta {<br>
         <div class="post-indent">pub const CATEGORY: &amp;str = “ <span class="post-accent">{% for category in page.extra.categories %}#{{ category | escape }} {% endfor %}</span> ”;<br>
           pub const TAGS: &amp;str = “ <span class="post-accent">{% for tag in page.extra.tags %}#{{ tag | escape }} {% endfor %}</span> ”;</div><br>
         }
       </div>
-      <p class="post-comment post-back">// <a href="https://fivsevn.com/">← back to home</a><br>// === module separator ===</p>
+      <p class="post-comment post-back" lang="en">// <a href="https://fivsevn.com/">← back to home</a><br>// === module separator ===</p>
       <p class="post-comment post-open" aria-hidden="true">/*</p>
     </header>
     <article class="{{ page.extra.content_classes | escape }}" style="{{ page.extra.content_style | escape }}" aria-label="正文">

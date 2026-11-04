@@ -13,6 +13,7 @@ import requests
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "intake"))
 import build
+from web_document import Document
 from item_quality import article_key, clean_text, clean_title, deduplicate_sections, entry_date
 from source_validation import audit_blocks, validate_blocks
 
@@ -238,7 +239,14 @@ class BuildTests(unittest.TestCase):
         with patch.object(build, "load_fragment", return_value=""):
             page = build.render_html(config, data, when)
             context = build.render_gpt_markdown(config, data, when)
-        self.assertEqual(page.count('<article class="article">'), sum(map(len, data.values())))
+        self.assertEqual(page.count('<article class="article"'), sum(map(len, data.values())))
+        document = Document(page)
+        self.assertEqual('https://devlog.fivsevn.com/intake/', document.canonical())
+        self.assertEqual(document.canonical(), document.existing(property='og:url'))
+        self.assertEqual('本页面由 GitHub Actions 每日生成，数据来自 RSS 与采样脚本。', document.existing(name='description'))
+        self.assertTrue(document.existing(name='twitter:card'))
+        self.assertIn('<p class="title-zh" lang="zh-CN">', page)
+        self.assertIn('<article class="article" lang="en">', page)
         self.assertEqual(context.count("\n### "), sum(map(len, data.values())))
         for value in ("2026-10-30 04:59 UTC", "NOWFASHION", "Pixabay", "发布日期未知"):
             self.assertIn(value, page)

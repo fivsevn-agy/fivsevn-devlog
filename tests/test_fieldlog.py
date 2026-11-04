@@ -53,7 +53,7 @@ class FieldlogBuildTests(unittest.TestCase):
         path.write_text(dump_frontmatter(canonical)+"\n"+body+"\n",encoding="utf-8")
 
     def test_attached_markdown_only_appears_in_detail_and_images_use_local_encoded_urls(self):
-        source = self.post("captioned", body="**发现马陆**\n\n[资料](https://example.com/note)")
+        source = self.post("captioned", body="**发现马陆**\n\n[资料](https://example.com/note)", languages=['zh'])
         fieldlog.build(self.root)
         archive = (self.output / "index.html").read_text()
         detail = (self.output/source.parent.relative_to(self.folder)/"index.html").read_text()
@@ -64,6 +64,16 @@ class FieldlogBuildTests(unittest.TestCase):
         self.assertIn('alt="A specimen &lt;in the field&gt; &quot;close up&quot;"', detail)
         self.assertIn('href="/natsci/fieldlog/2026/07/captioned/"', archive)
         self.assertNotIn("No comments", archive + detail)
+        page = BeautifulSoup(detail, 'html.parser')
+        canonical = 'https://devlog.fivsevn.com/natsci/fieldlog/2026/07/captioned/'
+        self.assertEqual('zh-CN', page.html['lang'])
+        self.assertEqual('en', page.select_one('article.specimen')['lang'])
+        self.assertEqual('zh-CN', page.select_one('.annotation-body')['lang'])
+        self.assertEqual(canonical, page.select_one('link[rel="canonical"]')['href'])
+        self.assertEqual(canonical, page.select_one('meta[property="og:url"]')['content'])
+        self.assertEqual('发现马陆 资料', page.select_one('meta[name="description"]')['content'])
+        self.assertEqual('summary_large_image', page.select_one('meta[name="twitter:card"]')['content'])
+        self.assertTrue(page.select_one('meta[property="og:image"]')['content'].endswith('/assets/%E5%B1%B1%E9%97%B4%20image.webp'))
 
     def test_withdrawal_removes_artifacts_without_writing_into_content_sources(self):
         posts = [self.post(f"post-{number:02d}") for number in range(12)]

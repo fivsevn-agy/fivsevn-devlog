@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import html
 import re
+import sys
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
@@ -10,6 +11,9 @@ from typing import Any
 import feedparser
 import requests
 import yaml
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'scripts'))
+from web_document import document_metadata, primary_language
 
 from item_quality import (clean_text, clean_title, http_url, publication_date, entry_date,
                           item_sort_key, deduplicate_sections)
@@ -488,7 +492,7 @@ def render_article(item: dict[str, Any]) -> str:
         meta_html = f"<div class=\"meta\">{source} · {published}</div>"
 
     return f"""
-<article class="article">
+<article class="article" lang="{primary_language({}, item['title'] + ' ' + item.get('summary', ''))}">
   <h3><a href="{link}" target="_blank" rel="noopener noreferrer">{title}</a></h3>
   {meta_html}
   {summary_html}
@@ -668,9 +672,9 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
 
                 region_title_escaped = escape(region_title)
                 region_title_zh_escaped = escape(region_title_zh)
-                title_zh_html = f"<p class='section-title-zh'>{region_title_zh_escaped}</p>" if region_title_zh_escaped else ""
+                title_zh_html = f"<p class='section-title-zh' lang='zh-CN'>{region_title_zh_escaped}</p>" if region_title_zh_escaped else ""
                 description_html = f"<p class='section-description'>{section_description}</p>" if section_description else ""
-                description_zh_html = f"<p class='section-description-zh'>{section_description_zh}</p>" if section_description_zh else ""
+                description_zh_html = f"<p class='section-description-zh' lang='zh-CN'>{section_description_zh}</p>" if section_description_zh else ""
                 section_category = escape(section_to_category.get(virtual_section_key, ""))
                 section_parts.append(
                     f"""
@@ -689,9 +693,9 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
         if not article_parts:
             article_parts = ['<p class="empty">No items fetched.</p>']
 
-        title_zh_html = f"<p class='section-title-zh'>{section_title_zh}</p>" if section_title_zh else ""
+        title_zh_html = f"<p class='section-title-zh' lang='zh-CN'>{section_title_zh}</p>" if section_title_zh else ""
         description_html = f"<p class='section-description'>{section_description}</p>" if section_description else ""
-        description_zh_html = f"<p class='section-description-zh'>{section_description_zh}</p>" if section_description_zh else ""
+        description_zh_html = f"<p class='section-description-zh' lang='zh-CN'>{section_description_zh}</p>" if section_description_zh else ""
 
         section_category = escape(section_to_category.get(section_key, ""))
         section_parts.append(
@@ -723,7 +727,7 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
 </section>
 """.strip()
 
-    return f"""<!doctype html>
+    rendered = f"""<!doctype html>
 <html lang="zh-CN">
 <head>
   <meta charset="utf-8">
@@ -1043,7 +1047,7 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
   <main>
     <header>
       <h1>{title}</h1>
-      <p class="title-zh">{title_zh}</p>
+      <p class="title-zh" lang="zh-CN">{title_zh}</p>
 
       <p class="kicker">Courier on duty / 投递员：</p>
       <p class="kicker-value">GitHub Actions</p>
@@ -1070,7 +1074,7 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
     </section>
 
     <footer>
-      <p>本页面由 GitHub Actions 每日生成，数据来自 RSS 与采样脚本。</p>
+      <p lang="zh-CN">本页面由 GitHub Actions 每日生成，数据来自 RSS 与采样脚本。</p>
     </footer>
   </main>
 
@@ -1255,6 +1259,8 @@ def render_html(config: dict[str, Any], sections_data: dict[str, list[dict[str, 
 </body>
 </html>
 """
+    return document_metadata(rendered, url='https://devlog.fivsevn.com/intake/', metadata=site,
+                             description='本页面由 GitHub Actions 每日生成，数据来自 RSS 与采样脚本。')
 
 
 def clean_markdown_text(value: Any) -> str:

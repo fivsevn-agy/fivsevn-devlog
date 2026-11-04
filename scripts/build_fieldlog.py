@@ -20,6 +20,7 @@ from PIL import Image
 from bs4 import BeautifulSoup
 from site_post_metadata import (is_published, metadata_view, published_datetime,
                                 read_frontmatter, validate_metadata)
+from web_document import document_metadata, primary_language, visible_text
 
 ROOT = Path(__file__).resolve().parents[1]
 BASE = "/natsci/fieldlog/"
@@ -94,8 +95,10 @@ def card(entry: Entry, detail: bool, return_url: str = BASE) -> str:
                     '<span aria-hidden="true">]</span></span>')
     if detail and entry.body:
         body = markdown.markdown(entry.body, extensions=["extra", "sane_lists"])
-        annotation = f'<div class="annotation" id="annotation"><span aria-hidden="true">[</span><div class="annotation-body">{body}</div><span aria-hidden="true">]</span></div>\n<p class="dash">—</p>'
-    return f'''<article class="specimen" id="obs-{escape(str(m['id']))}" aria-label="OBS {obs}">
+        body_lang = primary_language(m, visible_text(body))
+        annotation = f'<div class="annotation" id="annotation"><span aria-hidden="true">[</span><div class="annotation-body" lang="{escape(body_lang, quote=True)}">{body}</div><span aria-hidden="true">]</span></div>\n<p class="dash">—</p>'
+    label_lang = primary_language({}, str(m.get('title') or default_title))
+    return f'''<article class="specimen" id="obs-{escape(str(m['id']))}" aria-label="OBS {obs}" lang="en">
   <div class="window-bar"><span class="window-title">Specimen Viewer</span>{controls}</div>
   <div class="window-body">
     <div class="row observation"><span>### OBS</span><span>–</span><span>057</span><time datetime="{date}">{obs}</time></div>
@@ -106,7 +109,7 @@ def card(entry: Entry, detail: bool, return_url: str = BASE) -> str:
     <div class="metadata">
       <div class="row"><span>Date:</span><time datetime="{date}">{date}</time></div>
       <div class="row"><span>Status:</span><span>{escape(str(m.get('archive_status') or 'Archived'))}</span></div>
-      <div class="row"><span>Annotation Log:</span><span class="annotation-date">{label}</span></div>
+      <div class="row"><span>Annotation Log:</span><span class="annotation-date" lang="{escape(label_lang, quote=True)}">{label}</span></div>
     </div>
     <p class="dash">—</p>
     {annotation}
@@ -126,7 +129,7 @@ def pagination(current: int, count: int) -> str:
         links.append(f'<span aria-current="page">{page}</span>' if page == current else f'<a href="{url(page)}">{page}</a>')
     if current < count:
         links.append(f'<a class="pager-arrow" href="{url(current+1)}" rel="next" aria-label="Next Page">»</a>')
-    return '<nav class="pagination" aria-label="Pagination">' + " ".join(links) + "</nav>"
+    return '<nav class="pagination" aria-label="Pagination" lang="en">' + " ".join(links) + "</nav>"
 
 
 def check_links(outputs: dict[str, bytes]) -> None:
@@ -176,10 +179,12 @@ def build(root: Path = ROOT, check=False, output: Path | None = None) -> dict:
         archive_routes["obs-" + str(entry.meta["id"])] = (BASE if number == 1 else f"{BASE}page/{number}/") + "#" + quote("obs-" + str(entry.meta["id"]), safe="")
     route_data = '<script type="application/json" id="fieldlog-archive-map">' + json.dumps(archive_routes, ensure_ascii=False).replace("<", "\\u003c") + '</script>\n'
     outputs: dict[str, bytes] = {}
-    def page(title, url, content, kind):
+    def page(title, url, content, kind, metadata=None, description=None, image=None):
         html = page_template.substitute(title=escape(title), canonical=ORIGIN+url,
             css_version=version, content=content, kind=kind, marker=MARKER)
-        return html.replace("</body>", route_data + "</body>").encode("utf-8")
+        html = html.replace("</body>", route_data + "</body>")
+        return document_metadata(html, url=ORIGIN+url, metadata=metadata or {'languages': ['en', 'zh'], 'type': 'index'},
+                                 description=description, image=image).encode('utf-8')
     pages = max(1, (len(entries) + PAGE_SIZE - 1) // PAGE_SIZE)
     for number in range(1, pages + 1):
         url = BASE if number == 1 else f"{BASE}page/{number}/"
@@ -188,13 +193,14 @@ def build(root: Path = ROOT, check=False, output: Path | None = None) -> dict:
         # Old page/N/#obs-ID bookmarks can reach a post after page-size changes.
         relocated = "".join(f'<a class="archive-relocation" id="{escape(anchor)}" href="{escape(target)}">Open observation {escape(anchor[4:])} →</a>'
                             for anchor, target in archive_routes.items() if target.split("#", 1)[0] != url)
-        root_link = '<p class="root-link">[<a href="https://fivsevn.com/">Root Directory</a>]</p>'
+        root_link = '<p class="root-link" lang="en">[<a href="https://fivsevn.com/">Root Directory</a>]</p>'
         content = header + relocated + '<section class="observations" aria-label="Observation Log">' + cards + '</section>' + pagination(number, pages) + root_link
         outputs[path] = page(SITE_TITLE, url, content, "archive")
     for entry in entries:
         relative = entry.path.parent.relative_to(folder).as_posix()
         outputs[relative + "/index.html"] = page(f"OBS {entry.meta['observation_id']} · {SITE_TITLE}", entry.url,
-            card(entry, True, archive_routes["obs-" + str(entry.meta["id"])]), "detail")
+            card(entry, True, archive_routes["obs-" + str(entry.meta["id"])]), "detail", entry.meta,
+            visible_text(markdown.markdown(entry.body, extensions=['extra', 'sane_lists'])) or entry.meta.get('title'), ORIGIN+entry.image_url)
         for asset in (entry.path.parent / "assets").rglob("*"):
             if asset.is_file():
                 with Image.open(asset) as im:
