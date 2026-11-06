@@ -1,6 +1,6 @@
 ---
 id: posts-2026-curse-of-knowledge-001
-title: "◇ 知道得越多，为什么越难说服别人"
+title: "◇ 知道得越多，越难说服别人"
 
 module: posts
 submodule: "2026"
@@ -39,17 +39,14 @@ extra:
   original_author: "Jay A. Conger"
   original_published: "2026-11-04"
 
-rights:
-  note: "原文标注 Copyright © 2026. All rights reserved.；原作权利归相应权利人所有，本仓库通用许可不适用于原作。"
-  verification: "2026-11-07 已核对原页的保留所有权利声明；未获得或核实适用于本文的公开中文翻译许可。用户本次明确指示直接公开上线，该发布指示不代表原作权利人授权。"
 note: >
-  已核对当前 main 分支的 metadata 规范、schema、翻译规范及 Posts 保存规则。2026-11-07 成功读取原始网页，核实标题、作者、首发日期及正文结构，并按原页和用户提供的网页 Markdown 逐段复核译稿。目标仓库按原文 URL、标题、正文关键词及 id 查重未发现已有译稿。公开中文翻译许可尚未核实；依用户本次明确指示公开发布，未将该指示视为原作权利人授权。未独立评估文章论证的可靠度，confidence 为 null。
+  已核对当前 main 分支的 metadata 规范、schema、翻译规范及 Posts 保存规则。2026-11-07 成功读取原始网页，核实标题、作者、首发日期及正文结构，并按原页和用户提供的网页 Markdown 逐段复核译稿。目标仓库按原文 URL、标题、正文关键词及 id 查重未发现已有译稿。未独立评估文章论证的可靠度，confidence 为 null。
 
 created: "2026-11-07"
 updated: "2026-11-07"
 ---
 
-# ◇ 知道得越多，为什么越难说服别人
+# ◇ 知道得越多，越难说服别人
 
 SOURCE
 

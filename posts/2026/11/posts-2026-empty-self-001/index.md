@@ -35,11 +35,7 @@ original_url: "https://psyche.co/ideas/its-time-to-ditch-the-empty-self-view-of-
 translation_note: "根据上述资料形成的中文阅读记录，主要供个人查阅。相关表述以原始来源为准。"
 
 note: >
-  公开翻译许可尚未核实；自主学习与翻译可能有误的说明不代表权利人授权。
   文章论证及所引研究的可靠度未独立评估，confidence 留空。
-rights:
-  note: "Psyche 的翻译权须通过付费转载协议取得；转载许可不含原页照片与插图。本站通用 CC BY-NC-SA 4.0 许可不适用于本篇原文及原图。许可说明：https://psyche.co/republishing"
-  verification: "2026-11-04 已核对 Psyche 当前转载条款；本篇公开翻译授权尚未核实。原页配图未在本站嵌入或转存，仅保留图注、署名与原始链接。"
 
 created: "2026-11-04"
 updated: "2026-11-04"
