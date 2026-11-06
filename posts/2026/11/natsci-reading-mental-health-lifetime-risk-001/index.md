@@ -2,8 +2,8 @@
 id: natsci-reading-mental-health-lifetime-risk-001
 title: "◇ 心理健康问题的终生风险"
 
-module: natsci
-submodule: reading
+module: posts
+submodule: "2026"
 topic: mental-health-lifetime-risk
 
 type: translation
@@ -44,6 +44,9 @@ rights:
   note: >
     原作署名 Hannah Ritchie，来源 Our World in Data，按 CC BY 4.0 开放许可使用；本篇为中文翻译，保留作者、来源、原文与许可链接。第三方数据适用其原始作者的许可条款。
   verification: "2026-11-07 已核对原文章页的开放许可说明及 CC BY 4.0 链接。"
+
+filename_policy: entrypoint
+metadata_updated: "2026-11-07"
 
 created: "2026-11-07"
 updated: "2026-11-07"

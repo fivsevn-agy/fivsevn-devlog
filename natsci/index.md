@@ -44,8 +44,6 @@ updated: 2026-06-15
 #### > Directory
 
 <!-- AUTO-INDEX:NATSCI_RECENT:START -->
-- 2026.11.07 [◇ 心理健康问题的终生风险](reading/natsci-reading-mental-health-lifetime-risk-001.md)
-
 - 2026.06.17 [◇ 日本深海的狮子鱼影像](taxonomy/chondrichthyes/natsci-deepest-snailfish-001.md)
 
 - 2026.06.15 [◇ 马陆的早期陆地演化](taxonomy/arthropod/natsci-arthropod-millipede-land-colonization-001.md)
