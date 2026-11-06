@@ -47,7 +47,7 @@ updated: 2026-06-15
 #### > Directory
 
 <!-- AUTO-INDEX:POSTS_RECENT:START -->
-- 2026.11.07 [◇ 知道得越多，为什么越难说服别人](2026/11/posts-2026-curse-of-knowledge-001/index.md)
+- 2026.11.07 [◇ 知道得越多，越难说服别人](2026/11/posts-2026-curse-of-knowledge-001/index.md)
 
 - 2026.11.04 [◇ 自我与情境：心理学研究的反思](2026/11/posts-2026-empty-self-001/index.md)
 
