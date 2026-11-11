@@ -40,6 +40,8 @@ updated: 2026-06-15
 #### > Directory
 
 <!-- AUTO-INDEX:NETCOM_RECENT:START -->
+- 2026.11.11 [◇ 可解释性进步的能力加速风险](ai/netcom-ai-interpretability-capabilities-alignment-001.md)
+
 - 2026.06.22 [◇ AI 编程与工程纪律](software/netcom-software-engineering-ai-discipline-001.md)
 
 - 2026.06.07 [◇ 蓝牙名称背后的故事](rf/netcom-bluetooth-naming-001.md)
