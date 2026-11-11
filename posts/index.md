@@ -47,6 +47,8 @@ updated: 2026-06-15
 #### > Directory
 
 <!-- AUTO-INDEX:POSTS_RECENT:START -->
+- 2026.11.11 [◇ AI 成为信息入口，公众仍不愿它制作新闻](2026/11/posts-2026-ai-news-audiences-001/index.md)
+
 - 2026.11.07 [◇ 知道得越多，越难说服别人](2026/11/posts-2026-curse-of-knowledge-001/index.md)
 
 - 2026.11.07 [◇ 心理健康问题的终生风险](2026/11/natsci-reading-mental-health-lifetime-risk-001/index.md)
