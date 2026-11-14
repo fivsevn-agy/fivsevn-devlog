@@ -1,6 +1,6 @@
 # Today’s Arrival / 本日入荷
 
-Generated: 2026-11-14 19:40 UTC
+Generated: 2026-11-14 23:35 UTC
 Source registry: intake/sources.md
 
 ## Junk drawer / 杂物箱
@@ -11,7 +11,7 @@ From: Wikimedia Commons To: fivsevn devlog.fivsevn.com> Date: 2026-11-13 Subject
 
 ### Daily Field Sample / 今日野采样本
 
-Daily Field Sample / 今日野采样本 Scientific name / 学名: Onthophagus helciatus Harold, 1871 Taxonomy / 分类: Animalia / Arthropoda / Insecta / Coleoptera / Scarabaeidae Source / 来源: GBIF Search / 搜索: Google · COL
+Daily Field Sample / 今日野采样本 Scientific name / 学名: Xenocerus anthriboides Montrouzier, 1857 Taxonomy / 分类: Animalia / Arthropoda / Insecta / Coleoptera / Anthribidae Source / 来源: GBIF Search / 搜索: Google · COL
 
 ## On the shelf / 本日上架
 
@@ -21,7 +21,7 @@ Daily Field Sample / 今日野采样本 Scientific name / 学名: Onthophagus he
 Source: URL-only source / 仅网址源
 URL: https://upstract.com/
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -31,7 +31,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://worldsofjournalism.org/
 Source meta: institutional · primary · R5 · P5 · reference
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -41,7 +41,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.journalism.co.uk/
 Source meta: specialist_media · specialist · R4 · P4 · reference
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -51,7 +51,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.map.news/
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -61,7 +61,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.eurotopics.net/
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -71,7 +71,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.smartnews.com/en
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -81,7 +81,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.biasly.com/
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -91,7 +91,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.improvethenews.org/
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -101,7 +101,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.readtangle.com/
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -111,7 +111,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.theflipside.io/
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -121,7 +121,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://adfontesmedia.com/
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -131,7 +131,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.allsides.com/
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -141,7 +141,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://ground.news/
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -151,7 +151,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://tophub.today
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -161,7 +161,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://zhaoolee.com/garss/#/
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -171,7 +171,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.buzzing.cc
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -181,7 +181,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: http://realtime.info
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -191,7 +191,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://newsnow.busiyi.world
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -201,7 +201,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.newsnow.co.uk/
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -211,7 +211,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://news.yahoo.com/
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -221,7 +221,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://news.google.com/
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -232,7 +232,7 @@ Source: Mediagazer
 Published: 2026-11-14 13:55 UTC
 URL: https://mediagazer.com/261114/p1#a261114p1
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Mediagazer [media_lens] https://mediagazer.com/261114/p1#a261114p1
@@ -244,7 +244,7 @@ Source: Mediagazer
 Published: 2026-11-14 01:55 UTC
 URL: https://mediagazer.com/261113/p12#a261113p12
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Mediagazer [media_lens] https://mediagazer.com/261113/p12#a261113p12
@@ -256,7 +256,7 @@ Source: Mediagazer
 Published: 2026-11-14 00:25 UTC
 URL: https://mediagazer.com/261113/p11#a261113p11
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Mediagazer [media_lens] https://mediagazer.com/261113/p11#a261113p11
@@ -268,7 +268,7 @@ Source: Mediagazer
 Published: 2026-11-14 00:10 UTC
 URL: https://mediagazer.com/261113/p10#a261113p10
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Mediagazer [media_lens] https://mediagazer.com/261113/p10#a261113p10
@@ -280,7 +280,7 @@ Source: Mediagazer
 Published: 2026-11-13 23:10 UTC
 URL: https://mediagazer.com/261113/p9#a261113p9
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Mediagazer [media_lens] https://mediagazer.com/261113/p9#a261113p9
@@ -292,7 +292,7 @@ Source: Mediagazer
 Published: 2026-11-13 21:25 UTC
 URL: https://mediagazer.com/261113/p8#a261113p8
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Mediagazer [media_lens] https://mediagazer.com/261113/p8#a261113p8
@@ -304,7 +304,7 @@ Source: Nieman Journalism Lab
 Published: 2026-11-13 14:00 UTC
 URL: https://www.niemanlab.org/2026/11/the-nieman-lab-news-about-news-quiz-november-13-2026/
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Nieman Journalism Lab [media_lens] https://www.niemanlab.org/2026/11/the-nieman-lab-news-about-news-quiz-november-13-2026/
@@ -316,7 +316,7 @@ Source: Poynter
 Published: 2026-11-13 13:00 UTC
 URL: https://www.poynter.org/reporting-editing/2026/democrats-house-senate-press-freedom-trump/
 Source meta: specialist_media · specialist · R4 · P5 · reference
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Poynter [media_lens] https://www.poynter.org/reporting-editing/2026/democrats-house-senate-press-freedom-trump/
@@ -328,7 +328,7 @@ Source: Press Gazette
 Published: 2026-11-13 12:34 UTC
 URL: https://pressgazette.co.uk/publishers/regional-newspapers/robot-local-news-reporter-confuses-enfield-connecticut-with-north-london/
 Source meta: specialist_media · specialist · R4 · P4 · reference
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Press Gazette [media_lens] https://pressgazette.co.uk/publishers/regional-newspapers/robot-local-news-reporter-confuses-enfield-connecticut-with-north-london/
@@ -340,7 +340,7 @@ Source: Poynter
 Published: 2026-11-13 12:30 UTC
 URL: https://www.poynter.org/commentary/2026/dan-hicks-nbc-sports-dies/
 Source meta: specialist_media · specialist · R4 · P5 · reference
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Poynter [media_lens] https://www.poynter.org/commentary/2026/dan-hicks-nbc-sports-dies/
@@ -352,7 +352,7 @@ Source: Poynter
 Published: 2026-11-13 12:00 UTC
 URL: https://www.poynter.org/business-work/2026/local-newsrooms-disappearing-impact-on-journalism/
 Source meta: specialist_media · specialist · R4 · P5 · reference
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Poynter [media_lens] https://www.poynter.org/business-work/2026/local-newsrooms-disappearing-impact-on-journalism/
@@ -364,7 +364,7 @@ Source: Columbia Journalism Review
 Published: 2026-11-13 11:00 UTC
 URL: https://www.cjr.org/laurels-and-darts/appalachian-williford-midterm-elections-boone-north-carolina-free-press-reingold-weiss-el-sayed-islamophobia-michigan-get-huge-clavicular-looksmaxxing.php
 Source meta: specialist_media · specialist · R4 · P5 · reference
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Columbia Journalism Review [media_lens] https://www.cjr.org/laurels-and-darts/appalachian-williford-midterm-elections-boone-north-carolina-free-press-reingold-weiss-el-sayed-islamophobia-michigan-get-huge-clavicular-looksmaxxing.php
@@ -376,7 +376,7 @@ Source: Press Gazette
 Published: 2026-11-13 10:50 UTC
 URL: https://pressgazette.co.uk/the-wire/media-jobs-uk-news/john-barnes-and-karl-weaver-join-william-reed-top-team/
 Source meta: specialist_media · specialist · R4 · P4 · reference
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Press Gazette [media_lens] https://pressgazette.co.uk/the-wire/media-jobs-uk-news/john-barnes-and-karl-weaver-join-william-reed-top-team/
@@ -388,7 +388,7 @@ Source: Nieman Journalism Lab
 Published: 2026-11-12 21:52 UTC
 URL: https://www.niemanlab.org/2026/11/indonesias-new-copyright-bill-would-force-google-and-meta-to-pay-to-aggregate-news/
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Nieman Journalism Lab [media_lens] https://www.niemanlab.org/2026/11/indonesias-new-copyright-bill-would-force-google-and-meta-to-pay-to-aggregate-news/
@@ -400,7 +400,7 @@ Source: Poynter
 Published: 2026-11-12 18:52 UTC
 URL: https://www.poynter.org/ethics-trust/2026/scott-pelley-cbs-news-midterm-results/
 Source meta: specialist_media · specialist · R4 · P5 · reference
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Poynter [media_lens] https://www.poynter.org/ethics-trust/2026/scott-pelley-cbs-news-midterm-results/
@@ -412,7 +412,7 @@ Source: Nieman Journalism Lab
 Published: 2026-11-12 18:09 UTC
 URL: https://www.niemanlab.org/2026/11/with-event-costs-up-and-funding-down-journalism-organizations-cancel-conferences-and-cut-staff/
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Nieman Journalism Lab [media_lens] https://www.niemanlab.org/2026/11/with-event-costs-up-and-funding-down-journalism-organizations-cancel-conferences-and-cut-staff/
@@ -424,7 +424,7 @@ Source: Nieman Journalism Lab
 Published: 2026-11-12 17:00 UTC
 URL: https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Nieman Journalism Lab [media_lens] https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/
@@ -436,7 +436,7 @@ Source: Poynter
 Published: 2026-11-12 12:30 UTC
 URL: https://www.poynter.org/commentary/2026/mary-hager-leaves-cbs-face-nation/
 Source meta: specialist_media · specialist · R4 · P5 · reference
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Poynter [media_lens] https://www.poynter.org/commentary/2026/mary-hager-leaves-cbs-face-nation/
@@ -448,7 +448,7 @@ Source: Poynter
 Published: 2026-11-12 12:15 UTC
 URL: https://www.poynter.org/commentary/2026/national-news-outlets-local-reporters-2026-election-scoops/
 Source meta: specialist_media · specialist · R4 · P5 · reference
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Poynter [media_lens] https://www.poynter.org/commentary/2026/national-news-outlets-local-reporters-2026-election-scoops/
@@ -460,7 +460,7 @@ Source: Columbia Journalism Review
 Published: 2026-11-12 11:30 UTC
 URL: https://www.cjr.org/tow_center/ohio-midterms-prove-pink-slime-news-is-bipartisan.php
 Source meta: specialist_media · specialist · R4 · P5 · reference
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Columbia Journalism Review [media_lens] https://www.cjr.org/tow_center/ohio-midterms-prove-pink-slime-news-is-bipartisan.php
@@ -472,7 +472,7 @@ Source: Columbia Journalism Review
 Published: 2026-11-12 11:00 UTC
 URL: https://www.cjr.org/kicker/is-it-crazy-to-go-to-journalism-school-jonny-pena.php
 Source meta: specialist_media · specialist · R4 · P5 · reference
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Columbia Journalism Review [media_lens] https://www.cjr.org/kicker/is-it-crazy-to-go-to-journalism-school-jonny-pena.php
@@ -484,7 +484,7 @@ Source: Press Gazette
 Published: 2026-11-12 10:33 UTC
 URL: https://pressgazette.co.uk/publishers/regional-newspapers/what-ive-learned-mediahuis-ni-exec-editor-martin-breen-says-everyone-has-a-story/
 Source meta: specialist_media · specialist · R4 · P4 · reference
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Press Gazette [media_lens] https://pressgazette.co.uk/publishers/regional-newspapers/what-ive-learned-mediahuis-ni-exec-editor-martin-breen-says-everyone-has-a-story/
@@ -496,7 +496,7 @@ Source: Press Gazette
 Published: 2026-11-12 10:24 UTC
 URL: https://pressgazette.co.uk/media-audience-and-business-data/media_metrics/most-popular-websites-news-us-monthly-3/
 Source meta: specialist_media · specialist · R4 · P4 · reference
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Press Gazette [media_lens] https://pressgazette.co.uk/media-audience-and-business-data/media_metrics/most-popular-websites-news-us-monthly-3/
@@ -508,7 +508,7 @@ Source: Press Gazette
 Published: 2026-11-12 10:01 UTC
 URL: https://pressgazette.co.uk/podcasts/russell-brand-trial-video-shows-push-10m-views-but-audio-still-king-says-mail-podcast-chief/
 Source meta: specialist_media · specialist · R4 · P4 · reference
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Press Gazette [media_lens] https://pressgazette.co.uk/podcasts/russell-brand-trial-video-shows-push-10m-views-but-audio-still-king-says-mail-podcast-chief/
@@ -520,7 +520,7 @@ Source: Nieman Reports
 Published: 2026-11-11 13:00 UTC
 URL: https://niemanreports.org/local-news-detroit-michigan-public-media-sarah-alvarez-founder-ceo-community-needs-foreclosures-outlier-media-documenters-city-bureau-chicago/
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Nieman Reports [media_lens] https://niemanreports.org/local-news-detroit-michigan-public-media-sarah-alvarez-founder-ceo-community-needs-foreclosures-outlier-media-documenters-city-bureau-chicago/
@@ -532,7 +532,7 @@ Source: Columbia Journalism Review
 Published: 2026-11-11 11:00 UTC
 URL: https://www.cjr.org/the-interview/mississippi-free-press-using-journalism-to-make-democracy-work-a-little-better-ashton-pittman-midterms-hyde-smith-colom.php
 Source meta: specialist_media · specialist · R4 · P5 · reference
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Columbia Journalism Review [media_lens] https://www.cjr.org/the-interview/mississippi-free-press-using-journalism-to-make-democracy-work-a-little-better-ashton-pittman-midterms-hyde-smith-colom.php
@@ -544,7 +544,7 @@ Source: Columbia Journalism Review
 Published: 2026-11-11 11:00 UTC
 URL: https://www.cjr.org/feature/crooked-con-hottest-takes-podcasters-creator-journalists-political-operatives-midterms-blue-wave-washington-dc.php
 Source meta: specialist_media · specialist · R4 · P5 · reference
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Columbia Journalism Review [media_lens] https://www.cjr.org/feature/crooked-con-hottest-takes-podcasters-creator-journalists-political-operatives-midterms-blue-wave-washington-dc.php
@@ -556,7 +556,7 @@ Source: Press Gazette
 Published: 2026-11-11 10:08 UTC
 URL: https://pressgazette.co.uk/media-audience-and-business-data/media_metrics/most-popular-websites-news-world-monthly-2/
 Source meta: specialist_media · specialist · R4 · P4 · reference
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Press Gazette [media_lens] https://pressgazette.co.uk/media-audience-and-business-data/media_metrics/most-popular-websites-news-world-monthly-2/
@@ -568,7 +568,7 @@ Source: Nieman Journalism Lab
 Published: 2026-11-10 20:47 UTC
 URL: https://www.niemanlab.org/2026/11/some-local-news-outlets-are-losing-physical-newsrooms/
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Nieman Journalism Lab [media_lens] https://www.niemanlab.org/2026/11/some-local-news-outlets-are-losing-physical-newsrooms/
@@ -580,7 +580,7 @@ Source: Nieman Journalism Lab
 Published: 2026-11-10 16:47 UTC
 URL: https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Nieman Journalism Lab [media_lens] https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/
@@ -592,7 +592,7 @@ Source: Columbia Journalism Review
 Published: 2026-11-10 11:00 UTC
 URL: https://www.cjr.org/analysis/latino-lubbock-election-day-texas-martinez-garcia-midterms-talarico-hinojosa.php
 Source meta: specialist_media · specialist · R4 · P5 · reference
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Columbia Journalism Review [media_lens] https://www.cjr.org/analysis/latino-lubbock-election-day-texas-martinez-garcia-midterms-talarico-hinojosa.php
@@ -604,7 +604,7 @@ Source: Nieman Reports
 Published: 2026-10-27 15:19 UTC
 URL: https://niemanreports.org/2026-us-midterms-talarico-abul-el-sayed-nieman-fellowship-nieman-foundation-political-journalism-senate-congress-polling-trump-putin-iran-russia-ukraine/
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Nieman Reports [media_lens] https://niemanreports.org/2026-us-midterms-talarico-abul-el-sayed-nieman-fellowship-nieman-foundation-political-journalism-senate-congress-polling-trump-putin-iran-russia-ukraine/
@@ -616,7 +616,7 @@ Source: Nieman Reports
 Published: 2026-10-19 21:20 UTC
 URL: https://niemanreports.org/gen-z-india-protests-journalists-press-freedom-new-delhi-cockroach-janata-party-demonstrations-youth-journalists-detained-jailed/
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Nieman Reports [media_lens] https://niemanreports.org/gen-z-india-protests-journalists-press-freedom-new-delhi-cockroach-janata-party-demonstrations-youth-journalists-detained-jailed/
@@ -628,7 +628,7 @@ Source: Nieman Reports
 Published: 2026-10-15 14:51 UTC
 URL: https://niemanreports.org/press-access-trump-white-house-press-pool-political-cnn-reporting-president-justice-department-judge/
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Nieman Reports [media_lens] https://niemanreports.org/press-access-trump-white-house-press-pool-political-cnn-reporting-president-justice-department-judge/
@@ -640,7 +640,7 @@ Source: Nieman Reports
 Published: 2026-10-06 10:00 UTC
 URL: https://niemanreports.org/independent-journalism-new-newsroom-launch-otter-news-daniel-drepper-business-plan-climate-crisis-environmental-journalism/
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Nieman Reports [media_lens] https://niemanreports.org/independent-journalism-new-newsroom-launch-otter-news-daniel-drepper-business-plan-climate-crisis-environmental-journalism/
@@ -652,7 +652,7 @@ Source: Nieman Reports
 Published: 2026-10-02 12:30 UTC
 URL: https://niemanreports.org/americas-shrinking-local-newsrooms-photographer-ann-hermes-local-news-news-deserts-rural-america/
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Nieman Reports [media_lens] https://niemanreports.org/americas-shrinking-local-newsrooms-photographer-ann-hermes-local-news-news-deserts-rural-america/
@@ -665,7 +665,7 @@ For many journalists, the sight of empty desks is a sadly familiar one. My first
 Source: URL-only source / 仅网址源
 URL: https://scroll.in/latest
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -675,7 +675,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.dawn.com/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -685,7 +685,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.koreaherald.com/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -695,7 +695,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.thejakartapost.com/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -705,7 +705,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.straitstimes.com/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -715,7 +715,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://timesofindia.indiatimes.com/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -725,7 +725,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: http://www.infzm.com/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -735,7 +735,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://weekly.caixin.com/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -745,7 +745,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.caixin.com/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -755,7 +755,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.zaobao.com.sg/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -765,7 +765,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.tokyo-np.co.jp/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -775,7 +775,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.nikkei.com/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -785,7 +785,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://mainichi.jp/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -795,7 +795,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.asahi.com/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -805,7 +805,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.yomiuri.co.jp/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -815,7 +815,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.liberation.fr/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -825,7 +825,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.lefigaro.fr/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -835,7 +835,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.lemonde.fr/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -845,7 +845,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.sueddeutsche.de/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -855,7 +855,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.faz.net/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -865,7 +865,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.thetimes.co.uk/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -875,7 +875,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.usatoday.com/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: empty_feed
 
@@ -885,7 +885,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.africanews.com/
 Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -895,7 +895,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.euronews.com/news
 Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -905,7 +905,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www3.nhk.or.jp/news/
 Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -915,7 +915,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.cbc.ca/news/world
 Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -925,7 +925,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.cgtn.com/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -935,7 +935,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.trtworld.com/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -945,7 +945,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.france24.com/en/
 Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -955,7 +955,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.cbsnews.com/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -965,7 +965,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.bbc.com/
 Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -975,7 +975,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.ansa.it/english/
 Source meta: wire_service · generalist · R5 · P5 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -985,7 +985,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://efe.com/
 Source meta: wire_service · generalist · R5 · P5 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -995,7 +995,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: http://www.xinhuanet.com/english/
 Source meta: wire_service · generalist · R5 · P5 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -1005,7 +1005,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://tass.com/
 Source meta: wire_service · generalist · R5 · P5 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -1015,7 +1015,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.jiji.com/
 Source meta: wire_service · generalist · R5 · P5 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -1025,7 +1025,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://english.kyodonews.net/
 Source meta: wire_service · generalist · R5 · P5 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -1035,7 +1035,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.dpa.com/
 Source meta: wire_service · generalist · R5 · P5 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -1045,7 +1045,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.afp.com/
 Source meta: wire_service · generalist · R5 · P5 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -1055,7 +1055,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://apnews.com/hub/us-news
 Source meta: wire_service · generalist · R5 · P5 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -1065,7 +1065,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://apnews.com/hub/world-news
 Source meta: wire_service · generalist · R5 · P5 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -1075,7 +1075,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://apnews.com/
 Source meta: wire_service · generalist · R5 · P5 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -1085,7 +1085,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.reuters.com/world/us/
 Source meta: wire_service · generalist · R5 · P5 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -1095,7 +1095,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.reuters.com/world/
 Source meta: wire_service · generalist · R5 · P5 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -1105,160 +1105,685 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.reuters.com/
 Source meta: wire_service · generalist · R5 · P5 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
 Source homepage / 来源主页
 
-### Evacuations underway after bomb found at plant
-Source: ABC News
-Published: 2026-11-14 19:33 UTC
-URL: https://abcnews.com/US/peoria-police-urge-evacuations-after-reported-bomb-threat/story?id=138137440
+### Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall.
+Source: The New York Times
+Published: 2026-11-14 23:25 UTC
+URL: https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
-Attribution: ABC News [global_news] https://abcnews.com/US/peoria-police-urge-evacuations-after-reported-bomb-threat/story?id=138137440
+Attribution: The New York Times [global_news] https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html
 
-Police in Peoria, Illinois, are investigating a "credible" bomb threat at a local plant and urged those within a one-mile radius of the facility to evacuate immediately.
+Nvidia’s leader said his relationship with a female customer was just about business. But what he was concealing eventually led to his resignation from the company he created.
 
-### Abtreibungsverbot in Liechtenstein: »Darf ich noch meine letzte Frage stellen? Ich rede sehr schnell«
-Source: Die Zeit
-Published: 2026-11-14 19:29 UTC
-URL: https://www.zeit.de/politik/2026-11/abtreibungsverbot-liechtenstein-erbprinz-alois-veto
+### Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System
+Source: The New York Times
+Published: 2026-11-14 23:14 UTC
+URL: https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
-Attribution: Die Zeit [global_news] https://www.zeit.de/politik/2026-11/abtreibungsverbot-liechtenstein-erbprinz-alois-veto
+Attribution: The New York Times [global_news] https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html
 
-In Liechtenstein sind Abtreibungen verboten. Der Erbprinz unterbindet jeden Versuch der Legalisierung. Warum? Unser Autor bekam drei Minuten Zeit für ein Interview.
+The Federal Aviation Administration’s aging air traffic control infrastructure has had several disruptive failures in recent months, as officials have sought to make upgrades.
 
-### What we know about the ground stop and what to do if you're affected
+### How telecoms upgrade work sparked US flight chaos
 Source: BBC World
-Published: 2026-11-14 19:27 UTC
+Published: 2026-11-14 23:11 UTC
 URL: https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss
 Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: BBC World [global_news] https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss
 
 US officials say the disruption was caused by old equipment overloading and not a cyber-attack.
 
-### Olgaç Bozalp: Zu Hause ist es nicht für jeden am schönsten
+### Abschiebezentren in Ruanda: Wie weit darf Deutschland bei Abschiebungen gehen?
 Source: Die Zeit
-Published: 2026-11-14 19:26 UTC
-URL: https://www.zeit.de/zeit-magazin/2026/49/olgac-bozalp-fotografie-tuerkei-konya-berlin
+Published: 2026-11-14 23:10 UTC
+URL: https://www.zeit.de/politik/2026-11/abschiebezentren-ruanda-eu-asyl-nachrichtenpodcast
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
-Attribution: Die Zeit [global_news] https://www.zeit.de/zeit-magazin/2026/49/olgac-bozalp-fotografie-tuerkei-konya-berlin
+Attribution: Die Zeit [global_news] https://www.zeit.de/politik/2026-11/abschiebezentren-ruanda-eu-asyl-nachrichtenpodcast
 
-Der Fotograf Olgaç Bozalp wuchs in einer strengen Stadt Anatoliens auf. Und wollte bloß weg. Heute, 63 bereiste Länder später, atmen seine Bilder die Freiheit der Welt.
+Deutschland und mehrere EU-Staaten planen Abschiebezentren in Ruanda. Was bedeutet das für Asylsuchende? Und: Tschechien vor dem größten Protest seiner Geschichte
 
-### Premiere in Bangkok: Der ESC erobert Asien - Philippinen zum Sieger gekürt
-Source: Die Zeit
-Published: 2026-11-14 19:26 UTC
-URL: https://www.zeit.de/news/2026-11/14/der-esc-erobert-asien-philippinen-zum-sieger-gekuert
+### What does Japanese wine taste like? Start with a Koshu.
+Source: The Japan Times
+Published: 2026-11-14 23:10 UTC
+URL: https://www.japantimes.co.jp/life/2026/11/15/food-drink/japanese-wine-flavor-guide-koshu/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
-Attribution: Die Zeit [global_news] https://www.zeit.de/news/2026-11/14/der-esc-erobert-asien-philippinen-zum-sieger-gekuert
+Attribution: The Japan Times [global_news] https://www.japantimes.co.jp/life/2026/11/15/food-drink/japanese-wine-flavor-guide-koshu/
 
-### ‘Get Focused on London’: How Iran’s Agents Attacked European Targets
+When it comes to a grape variety that best represents Japanese wine, Koshu would be the ideal candidate.
+
+### Tim Anderson’s latest ‘JapanEasy Kitchen’ is more than forced fusion
+Source: The Japan Times
+Published: 2026-11-14 23:05 UTC
+URL: https://www.japantimes.co.jp/life/2026/11/15/food-drink/japaneasy-cookbook-review-masterchef-tim-anderson/
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: The Japan Times [global_news] https://www.japantimes.co.jp/life/2026/11/15/food-drink/japaneasy-cookbook-review-masterchef-tim-anderson/
+
+The new cookbook focuses on Japanese ingredients but shows you how to make dishes with plenty of variety.
+
+### Netanyahu says only a unity government can guarantee Israel’s security
+Source: Al Jazeera
+Published: 2026-11-14 23:01 UTC
+URL: https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: Al Jazeera [global_news] https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss
+
+Eisenkot, in charge of forming a government, dismisses the appeal as ‘tricks’ as talks and a Knesset speaker vote loom.
+
+### In the Rubble of a Fallen Building, He Rescued a 2-Year-Old
 Source: The New York Times
-Published: 2026-11-14 19:23 UTC
-URL: https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html
+Published: 2026-11-14 23:00 UTC
+URL: https://www.nytimes.com/2026/11/14/nyregion/building-collapse-brooklyn-boy-rescue.html
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
-Attribution: The New York Times [global_news] https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html
+Attribution: The New York Times [global_news] https://www.nytimes.com/2026/11/14/nyregion/building-collapse-brooklyn-boy-rescue.html
 
-A wave of assaults in Britain and elsewhere in the spring sowed fear across Europe. Prosecutors shed new light on how Iran took aim at U.S. allies.
+Miguel Tigsilema, a construction worker, was looking for survivors in the horrific aftermath of a collapse in Brooklyn. He saw a small boy.
 
-### SPD-Vorsitz: Früherer Arbeitsminister Hubertus Heil kandidiert für den SPD-Vorsitz
+### David Jones’ future looks grim. Is Myer next?
+Source: The Guardian / The Guardian World
+Published: 2026-11-14 23:00 UTC
+URL: https://www.theguardian.com/business/2026/nov/15/myer-david-jones-stores-closures-administration
+Source meta: The Guardian [global_news]: newspaper_magazine · generalist · R4 · P4 · baseline | The Guardian World [global_news]: newspaper_magazine · generalist · R4 · P4 · baseline
+Updated: 2026-11-14 23:00 UTC
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: The Guardian [global_news] https://www.theguardian.com/business/2026/nov/15/myer-david-jones-stores-closures-administration
+Attribution: The Guardian World [global_news] https://www.theguardian.com/business/2026/nov/15/myer-david-jones-stores-closures-administration
+
+With Myer’s profitability battered and share price languishing near all-time lows, DJs’ slide into administration raises an uncomfortable question Get our breaking news email, free app or daily news podcast When the retailer’s doors slide open, shoppers are greeted by rows of slashed price tags, frantic discounting, and all the other hallmarks of a department store closing down. Except, this isn’t David Jones, the embattled upmarket retailer that is shutting half its 38 stores. Continue reading...
+
+### A relative newcomer, ‘hakusai’ cabbage is now entering peak freshness
+Source: The Japan Times
+Published: 2026-11-14 23:00 UTC
+URL: https://www.japantimes.co.jp/life/2026/11/15/food-drink/hakusai-chinese-cabbage-fermentation-recipe/
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: The Japan Times [global_news] https://www.japantimes.co.jp/life/2026/11/15/food-drink/hakusai-chinese-cabbage-fermentation-recipe/
+
+Despite a relatively short history in Japan, this leafy vegetable is a great ingredient when the weather turns chilly.
+
+### Kalenderblatt: Was geschah am 15. November?
 Source: Die Zeit
-Published: 2026-11-14 19:22 UTC
-URL: https://www.zeit.de/politik/deutschland/2026-11/frueherer-arbeitsminister-hubertus-heil-kandidiert-fuer-den-spd-vorsitz
+Published: 2026-11-14 22:55 UTC
+URL: https://www.zeit.de/news/2026-11/14/was-geschah-am-15-november
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
-Attribution: Die Zeit [global_news] https://www.zeit.de/politik/deutschland/2026-11/frueherer-arbeitsminister-hubertus-heil-kandidiert-fuer-den-spd-vorsitz
+Attribution: Die Zeit [global_news] https://www.zeit.de/news/2026-11/14/was-geschah-am-15-november
 
-Der frühere Arbeitsminister Hubertus Heil will SPD-Parteichef werden. Seine Bewerbung nutzte er für einen Angriff auf den aktuellen Vorsitzenden Lars Klingbeil.
+### Luftverkehr in den USA: US-Regierung fordert nach Flugstopp Milliarden für Flugsicherung
+Source: Die Zeit
+Published: 2026-11-14 22:54 UTC
+URL: https://www.zeit.de/politik/ausland/2026-11/us-flugsicherung-faa-sean-duffy-kongress
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: Die Zeit [global_news] https://www.zeit.de/politik/ausland/2026-11/us-flugsicherung-faa-sean-duffy-kongress
+
+Veraltete IT-Systeme haben den Flugverkehr in den USA lahmgelegt. Für die Modernisierung fordert der Verkehrsminister 50 Milliarden Dollar. Er warnt vor weiteren Pannen.
+
+### When Disaster Hit Next Door in Flatbush
+Source: The New York Times
+Published: 2026-11-14 22:45 UTC
+URL: https://www.nytimes.com/2026/11/14/nyregion/flatbush-building-collapse-neighbors.html
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: The New York Times [global_news] https://www.nytimes.com/2026/11/14/nyregion/flatbush-building-collapse-neighbors.html
+
+What it felt like when the wall came down in Brooklyn.
+
+### Philippines wins first Eurovision Song Contest Asia
+Source: DW News
+Published: Publication date unknown / 发布日期未知
+URL: https://www.dw.com/en/philippines-wins-first-eurovision-song-contest-asia/a-79950050?maca=en-rss-en-all-1573-rdf
+Source meta: public_broadcaster · generalist · R5 · P4 · baseline
+Updated: 2026-11-14 22:44 UTC
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: DW News [global_news] https://www.dw.com/en/philippines-wins-first-eurovision-song-contest-asia/a-79950050?maca=en-rss-en-all-1573-rdf
+
+Eleven countries took part in the competition in Bangkok. Teenage winner Carmelle Collado's winning dance song is a tribute to Filipino women.
+
+### Auszeichnung: Preis für Verständigung und Toleranz für Tekkal und Moritz
+Source: Die Zeit
+Published: 2026-11-14 22:43 UTC
+URL: https://www.zeit.de/news/2026-11/14/preis-fuer-verstaendigung-und-toleranz-fuer-tekkal-und-moritz
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: Die Zeit [global_news] https://www.zeit.de/news/2026-11/14/preis-fuer-verstaendigung-und-toleranz-fuer-tekkal-und-moritz
+
+### Explosion near Syria’s capital kills father and child
+Source: Al Jazeera
+Published: 2026-11-14 22:43 UTC
+URL: https://www.aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child?traffic_source=rss
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: Al Jazeera [global_news] https://www.aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child?traffic_source=rss
+
+Syria’s Internal Security Forces have launched an investigation into a suspected bomb attack in a suburb of Damascus.
+
+### Raumfahrt: SpaceX fängt Riesen-Rakete Starship erstmals wieder auf
+Source: Die Zeit
+Published: 2026-11-14 22:39 UTC
+URL: https://www.zeit.de/news/2026-11/14/spacex-faengt-riesen-rakete-starship-erstmals-wieder-auf
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: Die Zeit [global_news] https://www.zeit.de/news/2026-11/14/spacex-faengt-riesen-rakete-starship-erstmals-wieder-auf
+
+### Ireland stay in hunt for final place despite complacency creeping in
+Source: The Telegraph
+Published: 2026-11-14 22:38 UTC
+URL: https://www.telegraph.co.uk/rugby-union/2026/11/14/ireland-vs-fiji-live-score-latest-nations-championship/
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: The Telegraph [global_news] https://www.telegraph.co.uk/rugby-union/2026/11/14/ireland-vs-fiji-live-score-latest-nations-championship/
+
+Ireland stay in hunt for final place despite complacency creeping in
+
+### US has floated Ukraine ceding Donbas for Nato membership, Zelensky says
+Source: BBC World
+Published: 2026-11-14 22:37 UTC
+URL: https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss
+Source meta: public_broadcaster · generalist · R5 · P4 · baseline
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: BBC World [global_news] https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss
+
+The US has not confirmed the Ukrainian president's comments - a US official told the BBC "many ideas continue to be discussed".
+
+### SpaceX’s Starship returns to launch pad from orbit in victory for company
+Source: The Guardian / The Guardian World
+Published: 2026-11-14 22:35 UTC
+URL: https://www.theguardian.com/science/2026/nov/14/spacex-starship-double-catch
+Source meta: The Guardian [global_news]: newspaper_magazine · generalist · R4 · P4 · baseline | The Guardian World [global_news]: newspaper_magazine · generalist · R4 · P4 · baseline
+Updated: 2026-11-14 22:35 UTC
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: The Guardian [global_news] https://www.theguardian.com/science/2026/nov/14/spacex-starship-double-catch
+Attribution: The Guardian World [global_news] https://www.theguardian.com/science/2026/nov/14/spacex-starship-double-catch
+
+Although booster exploded, company caught upper stage for first time in campaign to make megarocket reusable SpaceX’s megarocket Starship returned to its Texas launch tower on Saturday, a milestone in the company’s efforts to make the craft suitable for human spaceflight. The 171ft (52-meter) bullet-shaped upper stage descended into the clutch of the tower’s mechanical arms, ending a 22hr mission where the craft orbited Earth 14 times. Continue reading...
+
+### Polish opera gives voice to solidarity with Ukrainians, challenged by the nationalist camp
+Source: Le Monde English – Europe
+Published: 2026-11-14 22:35 UTC
+URL: https://www.lemonde.fr/en/international/article/2026/11/14/polish-opera-gives-voice-to-solidarity-with-ukrainians-challenged-by-the-nationalist-camp_6781051_4.html
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: Le Monde English – Europe [global_news] https://www.lemonde.fr/en/international/article/2026/11/14/polish-opera-gives-voice-to-solidarity-with-ukrainians-challenged-by-the-nationalist-camp_6781051_4.html
+
+In Warsaw, performances of 'The Mothers of Kherson' depicting the atrocities of the Russian invasion have resonated strongly in a country more divided than ever over the fate of war refugees.
+
+### SpaceX’s Starship returns from orbit and is captured by launch pad arms in a dramatic first
+Source: The Hindu
+Published: 2026-11-14 22:32 UTC
+URL: https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: The Hindu [global_news] https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece
+
+SpaceX expects to begin launching Starships from Florida’s Kennedy Space Center within the next few months
+
+### Palestinian stories set for major presence at 2027 Oscars
+Source: Al Jazeera
+Published: 2026-11-14 22:28 UTC
+URL: https://www.aljazeera.com/video/newsfeed/2026/11/14/palestinian-stories-set-for-major-presence-at-2027-oscars?traffic_source=rss
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: Al Jazeera [global_news] https://www.aljazeera.com/video/newsfeed/2026/11/14/palestinian-stories-set-for-major-presence-at-2027-oscars?traffic_source=rss
+
+Al Jazeera spoke to the director and cast of Who Is Still Alive, Switzerland’s Oscar entry for Best International Film.
+
+### SpaceX: SpaceX fängt Rakete erfolgreich mit Greifarm wieder auf
+Source: Die Zeit
+Published: 2026-11-14 22:22 UTC
+URL: https://www.zeit.de/wissenschaft/2026-11/spacex-starship-booster-wiederverwendbare-rakete
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: Die Zeit [global_news] https://www.zeit.de/wissenschaft/2026-11/spacex-starship-booster-wiederverwendbare-rakete
+
+Auf dem Weg zu einer wiederverwendbaren Rakete ist dem US-Raumfahrtunternehmen SpaceX ein wichtiger Schritt gelungen. Ein Teil der Starship‑Rakete ist wieder in Texas.
+
+### After Relative Silence, Joe Rogan Said MAGA Has Lost the “Podcast Bros”
+Source: The New York Times
+Published: 2026-11-14 22:21 UTC
+URL: https://www.nytimes.com/2026/11/14/style/after-relative-silence-joe-rogan-said-trumps-policies-have-lost-the-podcast-bros.html
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: The New York Times [global_news] https://www.nytimes.com/2026/11/14/style/after-relative-silence-joe-rogan-said-trumps-policies-have-lost-the-podcast-bros.html
+
+The nation’s top podcaster addressed the midterm election results, days after declaring that he thinks politics is “gross.”
+
+### Russia seeks NATO pullback; Zelensky says U.S. asked about ceding territory
+Source: The Washington Post
+Published: 2026-11-14 22:17 UTC
+URL: https://www.washingtonpost.com/world/2026/11/14/russia-seeks-nato-pullback-zelensky-says-us-asked-about-ceding-territory/
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: The Washington Post [global_news] https://www.washingtonpost.com/world/2026/11/14/russia-seeks-nato-pullback-zelensky-says-us-asked-about-ceding-territory/
+
+At peace talks this week, Russia returned to hard-line ultimatums the Kremlin issued to NATO and the U.S. before its invasion of Ukraine in 2022.
+
+### 'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth
+Source: BBC World
+Published: 2026-11-14 22:09 UTC
+URL: https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss
+Source meta: public_broadcaster · generalist · R5 · P4 · baseline
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: BBC World [global_news] https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss
+
+SpaceX has performed the historic catch using mechanical arms nicknamed "chopsticks".
+
+### How travelers can navigate trips as ground stop effects linger, expert says
+Source: ABC News
+Published: 2026-11-14 22:08 UTC
+URL: https://abcnews.com/US/travelers-navigate-trips-ground-stop-effects-linger-expert/story?id=138141476
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: ABC News [global_news] https://abcnews.com/US/travelers-navigate-trips-ground-stop-effects-linger-expert/story?id=138141476
+
+FAA administrator Bryan Bedford said the system is expected to be fully recovered by Sunday.
+
+### Ronaldo-less Portugal thrashed 4-1 by Denmark in the Nations League
+Source: Al Jazeera
+Published: 2026-11-14 22:00 UTC
+URL: https://www.aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league?traffic_source=rss
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: Al Jazeera [global_news] https://www.aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league?traffic_source=rss
+
+Rasmus Hojlund stars with brace as Denmark close in on a spot in the Nations League quarterfinals.
+
+### King Charles stops by Elton John’s podcast to talk music
+Source: The Washington Post
+Published: 2026-11-14 22:00 UTC
+URL: https://www.washingtonpost.com/entertainment/music/2026/11/14/king-charles-stops-by-elton-johns-podcast-talk-music/
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: The Washington Post [global_news] https://www.washingtonpost.com/entertainment/music/2026/11/14/king-charles-stops-by-elton-johns-podcast-talk-music/
+
+The show celebrated 50 years of the British monarch's charity, now known as the King's Trust, and its benefit concerts featuring some of the world's top artists.
+
+### From economic experiment to diplomatic stage: Why China chose Shenzhen for APEC
+Source: Channel News Asia – Asia
+Published: 2026-11-14 22:00 UTC
+URL: https://www.channelnewsasia.com/east-asia/china-apec-2026-shenzhen-transformation-6541996
+Source meta: public_broadcaster · generalist · R5 · P4 · baseline
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: Channel News Asia – Asia [global_news] https://www.channelnewsasia.com/east-asia/china-apec-2026-shenzhen-transformation-6541996
+
+Analysts say the city’s transformation into a global tech hub makes it a fitting stage for next week’s APEC summit - showcasing China’s economic ambitions and push for deeper regional cooperation.
+
+### Perhaps the Rumors of Democracy’s Demise Were Premature
+Source: The New York Times
+Published: 2026-11-14 21:46 UTC
+URL: https://www.nytimes.com/2026/11/14/magazine/democracy-midterm-elections.html
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: The New York Times [global_news] https://www.nytimes.com/2026/11/14/magazine/democracy-midterm-elections.html
+
+Did the midterm election save it?
+
+### US flights resume after ageing technology blamed for outage
+Source: Al Jazeera
+Published: 2026-11-14 21:36 UTC
+URL: https://www.aljazeera.com/video/newsfeed/2026/11/14/us-flights-resume-after-ageing-technology-blamed-for-outage?traffic_source=rss
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: Al Jazeera [global_news] https://www.aljazeera.com/video/newsfeed/2026/11/14/us-flights-resume-after-ageing-technology-blamed-for-outage?traffic_source=rss
+
+US flights resume after ageing technology blamed for outage
+
+### SpaceX carries out first-ever spaceship capture
+Source: DW News
+Published: Publication date unknown / 发布日期未知
+URL: https://www.dw.com/en/spacex-carries-out-first-ever-spaceship-capture/a-79950275?maca=en-rss-en-all-1573-rdf
+Source meta: public_broadcaster · generalist · R5 · P4 · baseline
+Updated: 2026-11-14 21:35 UTC
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: DW News [global_news] https://www.dw.com/en/spacex-carries-out-first-ever-spaceship-capture/a-79950275?maca=en-rss-en-all-1573-rdf
+
+The successful recovery of SpaceX's Starship marks a breakthrough in founder Elon Musk’s goal of developing a fully reusable rocket system.
+
+### SpaceX successfully carries out first-ever spaceship catch
+Source: South China Morning Post
+Published: 2026-11-14 21:32 UTC
+URL: https://www.scmp.com/news/world/united-states-canada/article/3374463/spacex-successfully-carries-out-first-ever-spaceship-catch
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: South China Morning Post [global_news] https://www.scmp.com/news/world/united-states-canada/article/3374463/spacex-successfully-carries-out-first-ever-spaceship-catch
+
+SpaceX’s Starship made a triumphant return to Earth on Saturday, caught in mid-air by giant mechanical arms where its journey began 22 hours earlier. It was the grand finale that Elon Musk and his team hoped for – the first-ever capture of a Starship flying back from space. But with the first-stage booster exploding shortly after Friday’s lift-off from Texas, the company fell short of its desired double catch. Wreckage remained in the Gulf of Mexico, cordoned off by buoys, as the stainless...
+
+### For Bangladesh and others, climate disasters should not add to debt burdens
+Source: South China Morning Post
+Published: 2026-11-14 21:30 UTC
+URL: https://www.scmp.com/opinion/asia-opinion/article/3374115/bangladesh-and-others-climate-disasters-should-not-add-debt-burdens
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: South China Morning Post [global_news] https://www.scmp.com/opinion/asia-opinion/article/3374115/bangladesh-and-others-climate-disasters-should-not-add-debt-burdens
+
+Talks at Cop31, the United Nations climate change conference being held in Antalya, Turkey, come at a critical moment for climate-vulnerable countries across the Global South. Bangladesh is among those bearing the brunt of climate change despite having negligible historical responsibility for global emissions. As delegations negotiate how to finance climate action, the “how” matters no less than the “how much”: support must arrive in time, reach those who need it and avoid deepening debt. The...
+
+### Amid the Xi-Trump clamour, can Apec revive the business of cooperation?
+Source: South China Morning Post / SCMP China
+Published: 2026-11-14 21:30 UTC
+URL: https://www.scmp.com/opinion/china-opinion/article/3374048/amid-xi-trump-clamour-can-apec-revive-business-cooperation
+Source meta: South China Morning Post [global_news]: newspaper_magazine · generalist · R4 · P4 · baseline | SCMP China [global_news]: newspaper_magazine · generalist · R4 · P4 · baseline
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: South China Morning Post [global_news] https://www.scmp.com/opinion/china-opinion/article/3374048/amid-xi-trump-clamour-can-apec-revive-business-cooperation
+Attribution: SCMP China [global_news] https://www.scmp.com/opinion/china-opinion/article/3374048/amid-xi-trump-clamour-can-apec-revive-business-cooperation
+
+The 33rd Asia-Pacific Economic Cooperation (Apec) summit will be held in Shenzhen from November 18 to 19. The venue is not accidental. Forty years ago, this was a border town of rice fields and duck ponds; it is now where a good part of the world’s electronics are designed and built, and the showcase of China’s “reform and opening up”. The event’s theme, “Building an Asia-Pacific Community to Prosper Together”, puts openness, innovation and cooperation at the centre. US President Donald Trump...
+
+### Why Mary Peltola is on track to win in Alaska, even if ranked choice ballots come into play
+Source: NBC News
+Published: 2026-11-14 21:22 UTC
+URL: https://www.nbcnews.com/politics/2026-election/mary-peltola-track-win-alaska-even-ranked-choice-ballots-come-play-rcna609299
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: NBC News [global_news] https://www.nbcnews.com/politics/2026-election/mary-peltola-track-win-alaska-even-ranked-choice-ballots-come-play-rcna609299
+
+As Alaska continues to count and report votes weeks after Election Day, it is increasingly unlikely that Republican Sen.
+
+### Costco-brand whipped cream recalled over potential presence of cleaning chemical
+Source: NBC News
+Published: 2026-11-14 21:21 UTC
+URL: https://www.nbcnews.com/news/us-news/costco-brand-whipped-cream-recalled-rcna609344
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: NBC News [global_news] https://www.nbcnews.com/news/us-news/costco-brand-whipped-cream-recalled-rcna609344
+
+Costco members who love a whipped topping may consider going à la mode with their favorite dessert instead after the retailer’s Kirkland-brand whipped cream was recalled.
+
+### With shifting Iran rhetoric following U.S. elections, Trump leaves Middle East in limbo about path ahead
+Source: PBS NewsHour World
+Published: 2026-11-14 21:17 UTC
+URL: https://www.pbs.org/newshour/world/with-shifting-iran-rhetoric-following-u-s-elections-trump-leaves-middle-east-in-limbo-about-path-ahead
+Source meta: public_broadcaster · generalist · R5 · P4 · baseline
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: PBS NewsHour World [global_news] https://www.pbs.org/newshour/world/with-shifting-iran-rhetoric-following-u-s-elections-trump-leaves-middle-east-in-limbo-about-path-ahead
+
+Trump's tonal shifts have only added to the uncertainty about what comes next in a war in which America's allies were not consulted before it was started but nonetheless struggle to deal with its economic ramifications.
+
+### US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine
+Source: Al Jazeera
+Published: 2026-11-14 21:10 UTC
+URL: https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: Al Jazeera [global_news] https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss
+
+Europe's direct engagement with Moscow as part of Ukraine-Russia peace talks is edging closer to becoming a reality.
+
+### Germany's 2027 budget: A record €561 billion and a mountain of debt
+Source: DW News
+Published: Publication date unknown / 发布日期未知
+URL: https://www.dw.com/en/germany-s-2027-budget-a-record-€561-billion-and-a-mountain-of-debt/a-79943216?maca=en-rss-en-all-1573-rdf
+Source meta: public_broadcaster · generalist · R5 · P4 · baseline
+Updated: 2026-11-14 21:09 UTC
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: DW News [global_news] https://www.dw.com/en/germany-s-2027-budget-a-record-€561-billion-and-a-mountain-of-debt/a-79943216?maca=en-rss-en-all-1573-rdf
+
+The 2027 federal budget proposal has finally been hammered out and is set for a vote in parliament. What are the government's policy priorities in defense, infrastructure, the economy and social spending?
+
+### Nigeria's upcoming election marred by rising AI disinformation
+Source: DW News
+Published: Publication date unknown / 发布日期未知
+URL: https://www.dw.com/en/nigeria-s-upcoming-election-marred-by-rising-ai-disinformation/a-79946897?maca=en-rss-en-all-1573-rdf
+Source meta: public_broadcaster · generalist · R5 · P4 · baseline
+Updated: 2026-11-14 21:05 UTC
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: DW News [global_news] https://www.dw.com/en/nigeria-s-upcoming-election-marred-by-rising-ai-disinformation/a-79946897?maca=en-rss-en-all-1573-rdf
+
+As Nigeria inches closer to the 2027 polls, the use of artificial intelligence in the electoral process has prompted questions about integrity and institutional readiness. Can Nigerians trust their democratic processes?
+
+### Helping elephants keep to their lanes: Can palm oil millions save Borneo’s forest and wildlife?
+Source: The Straits Times – Asia
+Published: 2026-11-14 21:00 UTC
+URL: https://www.straitstimes.com/asia/se-asia/helping-elephants-keep-to-their-lanes-can-palm-oil-millions-save-borneos-forest-and-wildlife
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: The Straits Times – Asia [global_news] https://www.straitstimes.com/asia/se-asia/helping-elephants-keep-to-their-lanes-can-palm-oil-millions-save-borneos-forest-and-wildlife
+
+Conservationists say that planting trees and funding isolated projects will not undo decades of environmental damage.
+
+### Jensen Huang | AI rainmaker meets his Waterloo
+Source: The Hindu
+Published: 2026-11-14 20:58 UTC
+URL: https://www.thehindu.com/sci-tech/technology/jensen-huang-ai-rainmaker-meets-his-waterloo/article71702817.ece
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: The Hindu [global_news] https://www.thehindu.com/sci-tech/technology/jensen-huang-ai-rainmaker-meets-his-waterloo/article71702817.ece
+
+The Nvidia chief’s abrupt exit marks a stunning fall from grace for the man who built the hardware foundation of the AI revolution, forged deep ties with Silicon Valley’s tech leaders and expanded the company’s reach across every layer of the AI stack
+
+### South Sudan pushes back elections amid violent flare-ups
+Source: DW News
+Published: Publication date unknown / 发布日期未知
+URL: https://www.dw.com/en/south-sudan-pushes-back-elections-amid-violent-flare-ups/a-79949622?maca=en-rss-en-all-1573-rdf
+Source meta: public_broadcaster · generalist · R5 · P4 · baseline
+Updated: 2026-11-14 20:53 UTC
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: DW News [global_news] https://www.dw.com/en/south-sudan-pushes-back-elections-amid-violent-flare-ups/a-79949622?maca=en-rss-en-all-1573-rdf
+
+South Sudan has been independent from Sudan since 2011, and has not yet held national elections. Since then, the country faces cycles of violence after a civil war led to a tenuous peace deal.
+
+### Democrat Mary Peltola is likely to win Alaska’s Senate race, as vote counting continues
+Source: NBC News
+Published: 2026-11-14 20:52 UTC
+URL: https://www.nbcnews.com/politics/2026-election/democrat-mary-peltola-likely-win-alaska-senate-race-rcna608673
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: NBC News [global_news] https://www.nbcnews.com/politics/2026-election/democrat-mary-peltola-likely-win-alaska-senate-race-rcna608673
+
+Former Democratic Rep. Mary Peltola is likely to win Alaska’s Senate race, according to an NBC News Decision Desk analysis, as vote-counting continues in the state.
+
+### Authorities investigate 'credible' bomb threat at Illinois plant
+Source: ABC News
+Published: 2026-11-14 20:50 UTC
+URL: https://abcnews.com/US/peoria-police-urge-evacuations-after-reported-bomb-threat/story?id=138137440
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: ABC News [global_news] https://abcnews.com/US/peoria-police-urge-evacuations-after-reported-bomb-threat/story?id=138137440
+
+No additional devices were found and the evacuation order has been lifted after investigators searched the facility for hours, Peoria police said Saturday.
+
+### US: Duffy says 'incompetence' or bad tech to blame for flight haltings
+Source: DW News
+Published: Publication date unknown / 发布日期未知
+URL: https://www.dw.com/en/us-duffy-says-incompetence-or-bad-tech-to-blame-for-flight-haltings/a-79949977?maca=en-rss-en-all-1573-rdf
+Source meta: public_broadcaster · generalist · R5 · P4 · baseline
+Updated: 2026-11-14 20:33 UTC
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: DW News [global_news] https://www.dw.com/en/us-duffy-says-incompetence-or-bad-tech-to-blame-for-flight-haltings/a-79949977?maca=en-rss-en-all-1573-rdf
+
+Air carriers in the US canceled some 16,000 flights over the past 24 hours in the biggest such grounding since 9/11. Officials hinted that incompetence or faulty equipment, not malfeasance, is the cause.
+
+### Zelenskyy says a new European security framework floated by U.S. could benefit Putin
+Source: PBS NewsHour World
+Published: 2026-11-14 20:23 UTC
+URL: https://www.pbs.org/newshour/world/zelenskyy-says-a-new-european-security-framework-floated-by-u-s-could-benefit-putin
+Source meta: public_broadcaster · generalist · R5 · P4 · baseline
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: PBS NewsHour World [global_news] https://www.pbs.org/newshour/world/zelenskyy-says-a-new-european-security-framework-floated-by-u-s-could-benefit-putin
+
+European leaders have stressed that decisions about the continent's security must be made by Europeans themselves, warning against allowing Russia to dictate the terms of a new security order or negotiate NATO's future.
+
+### 'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision
+Source: BBC World
+Published: 2026-11-14 20:23 UTC
+URL: https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss
+Source meta: public_broadcaster · generalist · R5 · P4 · baseline
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: BBC World [global_news] https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss
+
+The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.
+
+### Evacuation zone lifted after bomb found at Illinois ethanol plant
+Source: The Guardian / The Guardian World
+Published: 2026-11-14 20:14 UTC
+URL: https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb
+Source meta: The Guardian [global_news]: newspaper_magazine · generalist · R4 · P4 · baseline | The Guardian World [global_news]: newspaper_magazine · generalist · R4 · P4 · baseline
+Updated: 2026-11-14 20:14 UTC
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: The Guardian [global_news] https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb
+Attribution: The Guardian World [global_news] https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb
+
+Peoria officials said a bomb was found at BioUrja Renewables and later defused; FBI said it is investigating Residents were ordered to evacuate parts of an Illinois community on Friday after the mayor there said authorities found a bomb at a local ethanol- and alcohol-production plant. The discovery reported at BioUrja Renewables in Peoria triggered a mandatory evacuation over a one-mile evacuation zone encompassing sections of that city as well as the adjacent municipality of East Peoria. Officials ultimately lifted the evacuation zone at about 1.25pm local time on Saturday – but only after making it clear there had genuinely been a bomb found and ruling out the presence of any other explosives. Continue reading...
+
+### Botham inspires Wales to historic win over All Blacks
+Source: The Telegraph
+Published: 2026-11-14 20:06 UTC
+URL: https://www.telegraph.co.uk/rugby-union/2026/11/14/wales-vs-new-zealand-live-score-and-latest-nations-champion/
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: The Telegraph [global_news] https://www.telegraph.co.uk/rugby-union/2026/11/14/wales-vs-new-zealand-live-score-and-latest-nations-champion/
+
+Botham inspires Wales to historic win over All Blacks
+
+### Joseph a star in the making as England revel in role of bullies
+Source: The Telegraph
+Published: 2026-11-14 19:47 UTC
+URL: https://www.telegraph.co.uk/rugby-union/2026/11/14/england-vs-japan-live-score-latest-nations-championship/
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: The Telegraph [global_news] https://www.telegraph.co.uk/rugby-union/2026/11/14/england-vs-japan-live-score-latest-nations-championship/
+
+Joseph a star in the making as England revel in role of bullies
 
 ### Meta fined $887M in Italy over Android gallery photos, videos on Facebook
 Source: ABC News
 Published: 2026-11-14 19:22 UTC
 URL: https://abcnews.com/Technology/wireStory/meta-fined-887-million-italy-android-gallery-photos-138145127
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: ABC News [global_news] https://abcnews.com/Technology/wireStory/meta-fined-887-million-italy-android-gallery-photos-138145127
 
 Meta violated a European privacy directive incorporated into Italian law.
 
-### US has floated Ukraine ceding Donbas for Nato membership, Zelensky says
-Source: BBC World
-Published: 2026-11-14 19:21 UTC
-URL: https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss
-Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: BBC World [global_news] https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss
-
-The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.
-
-### FAA ground stop live updates: 'Zero evidence of anything nefarious,' FAA head says
-Source: ABC News
-Published: 2026-11-14 19:21 UTC
-URL: https://abcnews.com/US/live-updates/faa-ground-stop-live-updates-hundreds-flights-canceled/?id=138125140
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: ABC News [global_news] https://abcnews.com/US/live-updates/faa-ground-stop-live-updates-hundreds-flights-canceled/?id=138125140
-
-The DHS secretary said there were no indications of a cyberattack.
-
-### Pope Leo urges end to violence in Peru during visit to remote Andes town
-Source: Al Jazeera
-Published: 2026-11-14 19:20 UTC
-URL: https://www.aljazeera.com/news/2026/11/14/pope-leo-urges-end-to-violence-in-peru-during-visit-to-remote-andes-town?traffic_source=rss
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: Al Jazeera [global_news] https://www.aljazeera.com/news/2026/11/14/pope-leo-urges-end-to-violence-in-peru-during-visit-to-remote-andes-town?traffic_source=rss
-
-In Santa Cruz de Succhabamba, the pope told people not to respond to injustice with brutality.
-
-### Pflege auf dem Land: Hier pflegt jetzt der Nachbar
-Source: Die Zeit
-Published: 2026-11-14 19:14 UTC
-URL: https://www.zeit.de/wirtschaft/2026-11/pflege-land-nachbarschaftshilfe-gemeinde-landsberg
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: Die Zeit [global_news] https://www.zeit.de/wirtschaft/2026-11/pflege-land-nachbarschaftshilfe-gemeinde-landsberg
-
-Vielerorts fehlt es an Pflegekräften. In Landsberg wollen sie nun Nachbarn motivieren, bei der Pflege zu helfen. Kann das Pilotprojekt funktionieren, auch finanziell?
-
 ### Watch: Cruise ship overturns after collision with tanker in New Orleans
 Source: BBC World
 Published: 2026-11-14 19:14 UTC
 URL: https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss
 Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: BBC World [global_news] https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss
@@ -1270,22 +1795,12 @@ Source: BBC World
 Published: 2026-11-14 19:12 UTC
 URL: https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss
 Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: BBC World [global_news] https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss
 
 The US government is trying to find out whether the chaos was caused by "incompetence" or faulty equipment.
-
-### In Wuppertal und Düsseldorf: Überschaubare Teilnehmerzahlen bei Gen-Z-Protesten in NRW
-Source: Die Zeit
-Published: 2026-11-14 19:11 UTC
-URL: https://www.zeit.de/news/2026-11/14/ueberschaubare-teilnehmerzahlen-bei-gen-z-protesten-in-nrw
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: Die Zeit [global_news] https://www.zeit.de/news/2026-11/14/ueberschaubare-teilnehmerzahlen-bei-gen-z-protesten-in-nrw
 
 ### Philippines’ Carmelle wins first Eurovision contest in Asia
 Source: The Guardian / The Guardian World
@@ -1293,7 +1808,7 @@ Published: 2026-11-14 19:01 UTC
 URL: https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia
 Source meta: The Guardian [global_news]: newspaper_magazine · generalist · R4 · P4 · baseline | The Guardian World [global_news]: newspaper_magazine · generalist · R4 · P4 · baseline
 Updated: 2026-11-14 19:01 UTC
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Guardian [global_news] https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia
@@ -1307,21 +1822,21 @@ Published: 2026-11-14 19:00 UTC
 URL: https://www.theguardian.com/australia-news/2026/nov/15/victoria-premier-ben-caroll-youth-crime-offenders-plan-ntwnfb
 Source meta: The Guardian [global_news]: newspaper_magazine · generalist · R4 · P4 · baseline | The Guardian World [global_news]: newspaper_magazine · generalist · R4 · P4 · baseline
 Updated: 2026-11-14 19:00 UTC
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Guardian [global_news] https://www.theguardian.com/australia-news/2026/nov/15/victoria-premier-ben-caroll-youth-crime-offenders-plan-ntwnfb
 Attribution: The Guardian World [global_news] https://www.theguardian.com/australia-news/2026/nov/15/victoria-premier-ben-caroll-youth-crime-offenders-plan-ntwnfb
 
-MPs across factional lines share concerns about policy that legal expert says ‘paints the imprisonment of children as therapeutic’ Get our daily political email, free app or daily news podcast Until December last year, Meena Singh was the Victorian commissioner for Aboriginal children and young people, a role that saw her advocating for some of the state’s most vulnerable children. She had held the role since 2022. In all that time, she says, nobody from the Victorian government had approached her with a proposal like the one the Victorian premier, Ben Carroll, announced last week: a $204m “tough love” plan to send children who commit low and mid-level offences to secure facilities, including the former Malmsbury youth justice centre, for schooling, drug and alcohol treatment and life skills. Continue reading...
+Parliamentarians across factional lines share concerns about policy that legal expert says ‘paints the imprisonment of children as therapeutic’ Get our daily political email, free app or daily news podcast Until December last year, Meena Singh was Victoria’s commissioner for Aboriginal children and young people, a role in which she advocated for some of the state’s most vulnerable children. She had held the role since 2022. In all that time, she says, nobody from the Victorian government had approached her with a proposal like the one the Victorian premier, Ben Carroll, announced last week: a $204m “tough love” plan to send children who commit low- and mid-level offences to secure facilities, including the former Malmsbury youth justice centre, for schooling, drug and alcohol treatment and to learn life skills. Continue reading...
 
-### Art ‘must not be sacrificed on the altar of corporate profit’ Liberal senator says as AI policy debate rages
+### Art ‘must not be sacrificed on the altar of corporate profit’, Liberal senator says as AI policy debate rages
 Source: The Guardian / The Guardian World
 Published: 2026-11-14 19:00 UTC
 URL: https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan
 Source meta: The Guardian [global_news]: newspaper_magazine · generalist · R4 · P4 · baseline | The Guardian World [global_news]: newspaper_magazine · generalist · R4 · P4 · baseline
 Updated: 2026-11-14 19:00 UTC
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Guardian [global_news] https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan
@@ -1329,198 +1844,48 @@ Attribution: The Guardian World [global_news] https://www.theguardian.com/austra
 
 Andrew McLachlan says he chooses ‘real forests over virtual ones’ as he urges Labor government to consider AI’s impact on artists and environment Get our daily political email, free app or daily news podcast Outspoken Liberal senator Andrew McLachlan has raised the alarm about the approach of his party and the Labor government to AI, urging artists’ copyright not be “sacrificed” for investment and that building new datacentres must not be prioritised above environmental concerns. As Labor considers copyright changes in an AI policy suite including datacentres, online safety, energy resources and economic benefits, the South Australian backbencher added weight to mooted constitutional challenges as to whether watering down copyright law would be an illegal acquisition of property. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...
 
-### Joseph scores record-equalling five tries as England pile on pain for returning Jones
-Source: The Telegraph
-Published: 2026-11-14 18:58 UTC
-URL: https://www.telegraph.co.uk/rugby-union/2026/11/14/england-vs-japan-live-score-latest-nations-championship/
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: The Telegraph [global_news] https://www.telegraph.co.uk/rugby-union/2026/11/14/england-vs-japan-live-score-latest-nations-championship/
-
-Joseph scores record-equalling five tries as England pile on pain for returning Jones
-
-### Italy slaps Meta with €805mn fine over access to Android photos
-Source: DW News
-Published: Publication date unknown / 发布日期未知
-URL: https://www.dw.com/en/italy-slaps-meta-with-€805mn-fine-over-access-to-android-photos/a-79949032?maca=en-rss-en-all-1573-rdf
-Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-Updated: 2026-11-14 18:41 UTC
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: DW News [global_news] https://www.dw.com/en/italy-slaps-meta-with-€805mn-fine-over-access-to-android-photos/a-79949032?maca=en-rss-en-all-1573-rdf
-
-Italian regulators say Meta accessed photos and multimedia content from Italian users via the Facebook application for Android devices. Meta has not yet commented on the fine or the allegations.
-
-### US blames outdated technology for nationwide flight disruption
-Source: Al Jazeera
-Published: 2026-11-14 18:32 UTC
-URL: https://www.aljazeera.com/video/newsfeed/2026/11/14/us-blames-outdated-technology-for-nationwide-flight-disruption?traffic_source=rss
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: Al Jazeera [global_news] https://www.aljazeera.com/video/newsfeed/2026/11/14/us-blames-outdated-technology-for-nationwide-flight-disruption?traffic_source=rss
-
-US blames outdated technology for nationwide flight disruption
-
-### Italy fines Meta €805m over accessing users' photos
-Source: BBC World
-Published: 2026-11-14 18:28 UTC
-URL: https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss
-Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: BBC World [global_news] https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss
-
-The social media giant is accused of not informing 20 million users it had access to their photos.
-
 ### Transport chief blames US-wide flight disruptions on upgrade of old copper wiring
 Source: South China Morning Post
 Published: 2026-11-14 18:26 UTC
 URL: https://www.scmp.com/news/world/united-states-canada/article/3374456/transport-chief-blames-us-wide-flight-disruptions-upgrade-old-copper-wiring
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: South China Morning Post [global_news] https://www.scmp.com/news/world/united-states-canada/article/3374456/transport-chief-blames-us-wide-flight-disruptions-upgrade-old-copper-wiring
 
 Weary travellers braced for more flight disruptions on Saturday as service resumed from US airports after an hours-long stoppage that the Trump administration blamed on faulty equipment or an error by a contractor tasked with switching out old copper wire communication lines. Friday’s nationwide ground stop sparked widespread chaos and left hundreds of thousands of passengers in limbo, with some pulled off planes moments before departure by airline staff who appeared in the dark about unfolding...
 
-### Botham inspires Wales to historic win over All Blacks
-Source: The Telegraph
-Published: 2026-11-14 18:18 UTC
-URL: https://www.telegraph.co.uk/rugby-union/2026/11/14/wales-vs-new-zealand-live-score-and-latest-nations-champion/
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: The Telegraph [global_news] https://www.telegraph.co.uk/rugby-union/2026/11/14/wales-vs-new-zealand-live-score-and-latest-nations-champion/
-
-Botham inspires Wales to historic win over All Blacks
-
-### Philippines wins first Eurovision Song Contest Asia
-Source: BBC World
-Published: 2026-11-14 18:17 UTC
-URL: https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss
-Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: BBC World [global_news] https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss
-
-Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.
-
-### Perhaps the Rumors of Democracy’s Demise Were Premature
-Source: The New York Times
-Published: 2026-11-14 18:17 UTC
-URL: https://www.nytimes.com/2026/11/14/magazine/democracy-midterm-elections.html
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: The New York Times [global_news] https://www.nytimes.com/2026/11/14/magazine/democracy-midterm-elections.html
-
-Did the midterm election save it?
-
-### US blames system upgrade for longest nationwide FAA ground stop since 9/11
-Source: Al Jazeera
-Published: 2026-11-14 18:02 UTC
-URL: https://www.aljazeera.com/news/2026/11/14/us-blames-system-upgrade-for-longest-nationwide-faa-ground-stop-since-9?traffic_source=rss
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: Al Jazeera [global_news] https://www.aljazeera.com/news/2026/11/14/us-blames-system-upgrade-for-longest-nationwide-faa-ground-stop-since-9?traffic_source=rss
-
-Sean Duffy, the country's transportation secretary, said his agency is 'going to hold people accountable'.
-
-### Family of Watford woman set alight ‘desperate for answers’ after attack
-Source: The Guardian / The Guardian World
-Published: 2026-11-14 17:59 UTC
-URL: https://www.theguardian.com/uk-news/2026/nov/14/family-of-watford-woman-set-alight-desperate-for-answers-after-attack
-Source meta: The Guardian [global_news]: newspaper_magazine · generalist · R4 · P4 · baseline | The Guardian World [global_news]: newspaper_magazine · generalist · R4 · P4 · baseline
-Updated: 2026-11-14 17:59 UTC
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: The Guardian [global_news] https://www.theguardian.com/uk-news/2026/nov/14/family-of-watford-woman-set-alight-desperate-for-answers-after-attack
-Attribution: The Guardian World [global_news] https://www.theguardian.com/uk-news/2026/nov/14/family-of-watford-woman-set-alight-desperate-for-answers-after-attack
-
-Appeal for information comes after Brenda Raymond, 80, was set on fire outside her flat on Monday The family of an elderly woman who was set on fire outside a block of flats in Watford have said that they are “desperate for answers”. Brenda Raymond, 80, was found set alight outside her flat on Caractacus Cottage View on Monday. She was taken to a nearby hospital, where she is in critical condition. Continue reading...
-
 ### Philippines’ Carmelle storms to victory in Eurovision Asia debut in Bangkok
 Source: South China Morning Post
 Published: 2026-11-14 17:58 UTC
 URL: https://www.scmp.com/news/asia/southeast-asia/article/3374455/philippines-carmelle-storms-victory-eurovision-asia-debut-bangkok
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: South China Morning Post [global_news] https://www.scmp.com/news/asia/southeast-asia/article/3374455/philippines-carmelle-storms-victory-eurovision-asia-debut-bangkok
 
 Filipino singer Carmelle won the first Asian edition of the Eurovision Song Contest on Saturday with a fiery performance of her dance-pop song “Sobra-Sobra”. The 19-year-old beat 10 other acts in the grand final in Bangkok, with the winner chosen through votes from national juries in participating countries and viewers worldwide. After her victory, Carmelle said her song celebrated female empowerment and was intended as “a tribute to all Filipino women”. “I made history, since this was the first...
 
-### Rising costs and arrests fuel protests in Central African Republic
-Source: Al Jazeera
-Published: 2026-11-14 17:50 UTC
-URL: https://www.aljazeera.com/video/newsfeed/2026/11/14/rising-costs-and-arrests-fuel-protests-in-central-african-republic?traffic_source=rss
+### M. John Harrison | From rebellion to despair
+Source: The Hindu
+Published: 2026-11-14 17:48 UTC
+URL: https://www.thehindu.com/books/books-authors/m-john-harrison-from-rebellion-to-despair/article71702830.ece
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
-Attribution: Al Jazeera [global_news] https://www.aljazeera.com/video/newsfeed/2026/11/14/rising-costs-and-arrests-fuel-protests-in-central-african-republic?traffic_source=rss
+Attribution: The Hindu [global_news] https://www.thehindu.com/books/books-authors/m-john-harrison-from-rebellion-to-despair/article71702830.ece
 
-Hundreds take to the streets of Bangui to protest rising fuel prices and arrests in the Central African Republic.
-
-### Here’s Why It Could Take Days for Flights to Return to Normal
-Source: The New York Times
-Published: 2026-11-14 17:46 UTC
-URL: https://www.nytimes.com/2026/11/14/us/faa-groundstop-flights-restarting.html
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: The New York Times [global_news] https://www.nytimes.com/2026/11/14/us/faa-groundstop-flights-restarting.html
-
-With hundreds of planes out of position and crews out of hours, restarting the nation’s flight system is no easy task.
-
-### COP31: Protesters, UN urge swift climate deal
-Source: DW News
-Published: Publication date unknown / 发布日期未知
-URL: https://www.dw.com/en/cop31-protesters-un-urge-swift-climate-deal/a-79948501?maca=en-rss-en-all-1573-rdf
-Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-Updated: 2026-11-14 17:19 UTC
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: DW News [global_news] https://www.dw.com/en/cop31-protesters-un-urge-swift-climate-deal/a-79948501?maca=en-rss-en-all-1573-rdf
-
-The UN climate chief has warned that "tactical delays" at the COP31 climate talks in Turkey could prevent a deal to slow global warming.
-
-### US officials say flight stoppage stemmed from ‘routine maintenance’ as travel chaos continues
-Source: The Guardian / The Guardian World
-Published: 2026-11-14 17:11 UTC
-URL: https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos
-Source meta: The Guardian [global_news]: newspaper_magazine · generalist · R4 · P4 · baseline | The Guardian World [global_news]: newspaper_magazine · generalist · R4 · P4 · baseline
-Updated: 2026-11-14 17:11 UTC
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: The Guardian [global_news] https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos
-Attribution: The Guardian World [global_news] https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos
-
-Thousands of flights still canceled as officials blamed ageing air control system for nationwide grounding The Trump administration says Friday’s four-hour nationwide Federal Aviation Administration (FAA) ground stop that delayed or canceled thousands of flight stemmed from routine maintenance. At a news briefing on Saturday, the US transportation secretary, Sean Duffy, said that the issues began when a contractor was performing “routine maintenance” at a remote FAA facility to “switch telecommunications lines” from copper wire to fiber optic cable. Continue reading...
+The British author who won this year’s Booker Prize has long championed resistance to the status quo, but his latest novel reflects a deepening pessimism about humanity and its future
 
 ### He was drafted as an NFL team’s future. It arrives now.
 Source: NBC News
 Published: 2026-11-14 17:04 UTC
 URL: https://www.nbcnews.com/sports/nfl/fernando-mendoza-las-vegas-raiders-seattle-seahawks-kirk-cousins-rcna608889
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: NBC News [global_news] https://www.nbcnews.com/sports/nfl/fernando-mendoza-las-vegas-raiders-seattle-seahawks-kirk-cousins-rcna608889
@@ -1532,141 +1897,79 @@ Source: The Hindu
 Published: 2026-11-14 17:00 UTC
 URL: https://www.thehindu.com/news/international/pakistan-climate-minister-sco-summit-india-visit-new-delhi/article71701699.ece
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Hindu [global_news] https://www.thehindu.com/news/international/pakistan-climate-minister-sco-summit-india-visit-new-delhi/article71701699.ece
 
 Dr. Malik, the Federal Minister for Climate Change and Environmental Coordination, had earlier this year said that Pakistan would ‘cut off those hands’ that are trying to control the Indus waters
 
-### NHS England on track to miss key cancer treatment target by 10,000 patients
-Source: The Guardian / The Guardian World
-Published: 2026-11-14 17:00 UTC
-URL: https://www.theguardian.com/society/2026/nov/14/nhs-england-62-day-cancer-treatment-target-by-10000-patients
-Source meta: The Guardian [global_news]: newspaper_magazine · generalist · R4 · P4 · baseline | The Guardian World [global_news]: newspaper_magazine · generalist · R4 · P4 · baseline
-Updated: 2026-11-14 17:00 UTC
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: The Guardian [global_news] https://www.theguardian.com/society/2026/nov/14/nhs-england-62-day-cancer-treatment-target-by-10000-patients
-Attribution: The Guardian World [global_news] https://www.theguardian.com/society/2026/nov/14/nhs-england-62-day-cancer-treatment-target-by-10000-patients
-
-Exclusive: 2,850 more patients a month would need to be treated within 62 days to meet March 2027 goal, as experts warn of failure of leadership Nearly 10,000 more cancer patients in England will not be treated on time because the government will fail to meet its targets, amid a failure of leadership, focus and resource, experts have warned. The NHS set an interim target to treat 80% of cancer patients within 62 days of urgent referral or consultant upgrade by March 2027. But with little more than 100 days to go, the proportion of patients starting treatment on time in September was 70.7%, down from 71.9% in August, NHS figures show. Continue reading...
-
 ### Rubio acknowledges ’people are struggling’ economically in speech after GOP midterm wipeout
 Source: The Hindu
 Published: 2026-11-14 17:00 UTC
 URL: https://www.thehindu.com/news/international/rubio-acknowledges-people-are-struggling-economically-in-speech-after-gop-midterm-wipeout/article71702746.ece
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Hindu [global_news] https://www.thehindu.com/news/international/rubio-acknowledges-people-are-struggling-economically-in-speech-after-gop-midterm-wipeout/article71702746.ece
 
 Marco Rubio’s comments to the conservative Federalist Society touched on a core issue of the midterm elections — economic pain — that U.S. voters cited in delivering massive losses to Republican Party
 
-### US suggested Ukraine cede parts of Donbas to Russia to become part of NATO
-Source: Al Jazeera
-Published: 2026-11-14 16:53 UTC
-URL: https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: Al Jazeera [global_news] https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss
-
-Zelenskyy rejected the possibility of Ukraine committing to neutrality and said he refused to cede territory to Russia.
-
 ### Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say
 Source: The Hindu
 Published: 2026-11-14 16:49 UTC
 URL: https://www.thehindu.com/news/international/trump-tells-advisers-he-may-hold-off-on-iran-attacks-barring-new-provocations-sources-say/article71702671.ece
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Hindu [global_news] https://www.thehindu.com/news/international/trump-tells-advisers-he-may-hold-off-on-iran-attacks-barring-new-provocations-sources-say/article71702671.ece
 
 The war has hiked global fuel prices and proven unpopular with U.S. voters, who handed control ‌of ⁠Congress to the Democrats in last week's midterm elections
 
-### Portugal vs Denmark LIVE: UEFA Nations League
-Source: Al Jazeera
-Published: 2026-11-14 16:45 UTC
-URL: https://www.aljazeera.com/sports/liveblog/2026/11/14/portugal-vs-denmark-live-uefa-nations-league?traffic_source=rss
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: Al Jazeera [global_news] https://www.aljazeera.com/sports/liveblog/2026/11/14/portugal-vs-denmark-live-uefa-nations-league?traffic_source=rss
-
-Follow updates from the Group A4 clash, including the build-up, analysis and live text commentary of the game.
-
 ### FAA ground stop throws college football into chaos, while the NFL is safe
 Source: NBC News
 Published: 2026-11-14 16:42 UTC
 URL: https://www.nbcnews.com/sports/college-football/faa-ground-stop-college-football-nfl-nba-nhl-rcna609309
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: NBC News [global_news] https://www.nbcnews.com/sports/college-football/faa-ground-stop-college-football-nfl-nba-nhl-rcna609309
 
 A Federal Aviation Administration ground stop that lasted more than four hours and canceled over 7,000 flights Friday affected the travel plans for several pro and college teams across multiple sports.
 
-### Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System
-Source: The New York Times
-Published: 2026-11-14 16:36 UTC
-URL: https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html
+### WATCH: Elementary school named after beloved custodian
+Source: ABC News
+Published: 2026-11-14 16:38 UTC
+URL: https://abcnews.com/video/138140631/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
-Attribution: The New York Times [global_news] https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html
+Attribution: ABC News [global_news] https://abcnews.com/video/138140631/
 
-The Federal Aviation Administration’s aging air traffic control infrastructure has had several disruptive failures in recent months, as officials have sought to make upgrades.
-
-### India supports UNGA resolution on permanent sovereignty of Palestinian people
-Source: The Hindu
-Published: 2026-11-14 16:26 UTC
-URL: https://www.thehindu.com/news/national/india-supports-unga-resolution-on-permanent-sovereignty-of-palestinian-people/article71701074.ece
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: The Hindu [global_news] https://www.thehindu.com/news/national/india-supports-unga-resolution-on-permanent-sovereignty-of-palestinian-people/article71701074.ece
-
-It demanded that Israel “cease the exploitation, damage, cause of loss or depletion and endangerment of the natural resources in the Occupied Palestinian Territory, including East Jerusalem, and in the occupied Syrian Golan
+Marilyn Hampton was a beloved custodian for the Aubrey Independent School District outside Dallas, Texas. She was surprised with a school named in her honor, Marilyn Hampton Elementary School.
 
 ### Microsoft says services fully restored after global outage
 Source: PBS NewsHour World
 Published: 2026-11-14 16:23 UTC
 URL: https://www.pbs.org/newshour/world/microsoft-says-services-fully-restored-after-global-outage
 Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: PBS NewsHour World [global_news] https://www.pbs.org/newshour/world/microsoft-says-services-fully-restored-after-global-outage
 
 The outage affected governments, courts, healthcare services, businesses, airlines and banks in many places. Governments including those of Japan, Singapore and Australia reported that the hourslong episode had impacted some of their operations.
 
-### Goodbye, Mr. Chips
-Source: The New York Times
-Published: 2026-11-14 16:08 UTC
-URL: https://www.nytimes.com/2026/11/14/opinion/huang-trump-lutnick-bessent.html
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: The New York Times [global_news] https://www.nytimes.com/2026/11/14/opinion/huang-trump-lutnick-bessent.html
-
-Terrible tech bros leading us into a scary future.
-
 ### Fuel crisis and protests pressure Chile's far-right president
 Source: NPR World
 Published: 2026-11-14 16:05 UTC
 URL: https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students
 Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: NPR World [global_news] https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students
@@ -1678,56 +1981,32 @@ Source: The Straits Times – Asia
 Published: 2026-11-14 15:35 UTC
 URL: https://www.straitstimes.com/asia/se-asia/asean-to-defer-decision-on-myanmars-return-at-upcoming-summit
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Straits Times – Asia [global_news] https://www.straitstimes.com/asia/se-asia/asean-to-defer-decision-on-myanmars-return-at-upcoming-summit
 
 A policy of a “gradual return” of political representatives from Myanmar would likely be considered.
 
-### Italy fines Meta $880mn over photo privacy
+### Italy fines Meta $880 million over photo privacy
 Source: Le Monde English – Europe
 Published: 2026-11-14 15:30 UTC
 URL: https://www.lemonde.fr/en/international/article/2026/11/14/italy-fines-meta-880mn-over-photo-privacy_6780820_4.html
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Updated: 2026-11-14 22:42 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Le Monde English – Europe [global_news] https://www.lemonde.fr/en/international/article/2026/11/14/italy-fines-meta-880mn-over-photo-privacy_6780820_4.html
 
 Italy's data protection authority accused Facebook's parent company of accessing users' photos 'without obtaining specific consent and without properly informing them.'
 
-### Werner Holzer Prize awarded to Katja Gloger and DW's Jaafar Abdul Karim
-Source: DW News
-Published: Publication date unknown / 发布日期未知
-URL: https://www.dw.com/en/werner-holzer-prize-awarded-to-katja-gloger-and-dw-s-jaafar-abdul-karim/a-79946916?maca=en-rss-en-all-1573-rdf
-Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-Updated: 2026-11-14 15:24 UTC
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: DW News [global_news] https://www.dw.com/en/werner-holzer-prize-awarded-to-katja-gloger-and-dw-s-jaafar-abdul-karim/a-79946916?maca=en-rss-en-all-1573-rdf
-
-DW journalist Jaafar Abdul Karim and Russia correspondent Katja Gloger have been awarded the prestigious Werner Holzer Prize for international journalism.
-
-### Quad Summit likely to be held in Manila on November 17, sources say
-Source: The Hindu
-Published: 2026-11-14 15:18 UTC
-URL: https://www.thehindu.com/news/international/quad-summit-likely-to-be-held-in-manila-on-november-17-sources-say/article71702178.ece
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: The Hindu [global_news] https://www.thehindu.com/news/international/quad-summit-likely-to-be-held-in-manila-on-november-17-sources-say/article71702178.ece
-
-The Summit between leaders of India, U.S., Australia, and Japan is being held in a non-Quad country for the first time, expected to address critical minerals and energy supply chains and safety of seafarers
-
 ### Zelensky says US floated idea of Ukraine ceding Donbas for Nato membership
 Source: South China Morning Post
 Published: 2026-11-14 15:14 UTC
 URL: https://www.scmp.com/news/world/europe/article/3374450/zelensky-says-us-floated-idea-ukraine-ceding-donbas-nato-membership
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: South China Morning Post [global_news] https://www.scmp.com/news/world/europe/article/3374450/zelensky-says-us-floated-idea-ukraine-ceding-donbas-nato-membership
@@ -1739,7 +2018,7 @@ Source: Sky News
 Published: 2026-11-14 14:56 UTC
 URL: https://news.sky.com/story/microsoft-confirms-all-services-are-restored-after-global-outage-13612219
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Sky News [global_news] https://news.sky.com/story/microsoft-confirms-all-services-are-restored-after-global-outage-13612219
@@ -1751,7 +2030,7 @@ Source: The Straits Times – Asia
 Published: 2026-11-14 14:50 UTC
 URL: https://www.straitstimes.com/asia/bangladesh-garment-makers-threaten-to-quit-wage-talks
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Straits Times – Asia [global_news] https://www.straitstimes.com/asia/bangladesh-garment-makers-threaten-to-quit-wage-talks
@@ -1763,34 +2042,21 @@ Source: Sky News
 Published: 2026-11-14 14:33 UTC
 URL: https://news.sky.com/story/former-sas-chief-blames-state-for-breaking-moral-contract-with-soldiers-13612211
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Sky News [global_news] https://news.sky.com/story/former-sas-chief-blames-state-for-breaking-moral-contract-with-soldiers-13612211
 
 A former commanding officer of the SAS blamed the state for breaking a "moral contract" between the country and its top soldiers by setting up an inquiry into war crimes which has failed to reach conclusions four years on.
 
-### How the University of North Carolina Tried to Avoid Trump’s Wrath
-Source: The New York Times
-Published: 2026-11-14 14:12 UTC
-URL: https://www.nytimes.com/2026/11/13/us/university-north-carolina-science-research-cuts-trump.html
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: The New York Times [global_news] https://www.nytimes.com/2026/11/13/us/university-north-carolina-science-research-cuts-trump.html
-
-The University of North Carolina’s chancellor tried to protect the school from the Trump administration. Work on cancer, suicide, AIDS and coronaviruses was hit anyway.
-
 ### Zero capital, 116 projects: AI spots the devils in the details of China corruption case
-Source: South China Morning Post / SCMP China
+Source: SCMP China
 Published: 2026-11-14 14:00 UTC
 URL: https://www.scmp.com/news/china/politics/article/3374314/zero-capital-116-projects-ai-spots-devils-details-china-corruption-case
-Source meta: South China Morning Post [global_news]: newspaper_magazine · generalist · R4 · P4 · baseline | SCMP China [global_news]: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
-Attribution: South China Morning Post [global_news] https://www.scmp.com/news/china/politics/article/3374314/zero-capital-116-projects-ai-spots-devils-details-china-corruption-case
 Attribution: SCMP China [global_news] https://www.scmp.com/news/china/politics/article/3374314/zero-capital-116-projects-ai-spots-devils-details-china-corruption-case
 
 Disciplinary staff in Wuhan, provincial capital of Hubei in central China, were going about their routine workday when a red alert landed. It was from a large data model – flagging a possible case of corruption. “A company took on more than 10 projects this year. Its registered capital reduced from 50 million yuan (US$7.5 million) to 10 million, yet it’s paid-in capital is still zero,” the alert said. “Moreover, over 80 per cent of the projects it took were [residential] communities from...
@@ -1800,7 +2066,7 @@ Source: The Straits Times – Asia
 Published: 2026-11-14 13:35 UTC
 URL: https://www.straitstimes.com/asia/singapore-us-commit-to-continue-discussions-on-megaspeed-case
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Straits Times – Asia [global_news] https://www.straitstimes.com/asia/singapore-us-commit-to-continue-discussions-on-megaspeed-case
@@ -1812,7 +2078,7 @@ Source: Channel News Asia – Asia
 Published: 2026-11-14 13:27 UTC
 URL: https://www.channelnewsasia.com/asia/melaka-election-2026-bn-landslide-anwar-ph-pn-6551571
 Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Channel News Asia – Asia [global_news] https://www.channelnewsasia.com/asia/melaka-election-2026-bn-landslide-anwar-ph-pn-6551571
@@ -1824,7 +2090,7 @@ Source: The Straits Times – Asia
 Published: 2026-11-14 13:15 UTC
 URL: https://www.straitstimes.com/asia/south-asia/pakistan-says-minister-to-make-rare-india-visit-for-regional-talks
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Straits Times – Asia [global_news] https://www.straitstimes.com/asia/south-asia/pakistan-says-minister-to-make-rare-india-visit-for-regional-talks
@@ -1836,7 +2102,7 @@ Source: Sky News
 Published: 2026-11-14 13:12 UTC
 URL: https://news.sky.com/story/us-asks-if-ukraine-would-give-up-parts-of-donbas-for-nato-membership-zelenskyy-says-13612188
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Sky News [global_news] https://news.sky.com/story/us-asks-if-ukraine-would-give-up-parts-of-donbas-for-nato-membership-zelenskyy-says-13612188
@@ -1848,55 +2114,31 @@ Source: Channel News Asia – Asia
 Published: 2026-11-14 13:11 UTC
 URL: https://www.channelnewsasia.com/asia/waiting-so-long-fans-gather-eurovisions-first-asia-show-6551791
 Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Channel News Asia – Asia [global_news] https://www.channelnewsasia.com/asia/waiting-so-long-fans-gather-eurovisions-first-asia-show-6551791
 
 Performers from 11 countries including Laos, the Philippines and South Korea are battling it out for the first Asia crown, in a contest featuring Bangladeshi beatboxing, Vietnamese pop and a love song by a Mongolian economist.
 
-### Myanmar airstrike on displaced persons camp kills 12, say witnesses
-Source: The Hindu
-Published: 2026-11-14 13:01 UTC
-URL: https://www.thehindu.com/news/international/myanmar-airstrike-on-displaced-persons-camp-kills-12-say-witnesses/article71701720.ece
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: The Hindu [global_news] https://www.thehindu.com/news/international/myanmar-airstrike-on-displaced-persons-camp-kills-12-say-witnesses/article71701720.ece
-
-Myanmar has been consumed by civil war since the military staged a coup five years ago, provoking armed resistance from democracy activists and ethnic minority factions
-
 ### Former Malaysian deputy minister Zahidi Zainul Abidin dies at 65
 Source: The Straits Times – Asia
 Published: 2026-11-14 12:53 UTC
 URL: https://www.straitstimes.com/asia/se-asia/former-malaysian-deputy-minister-zahidi-zainul-abidin-dies-at-65
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Straits Times – Asia [global_news] https://www.straitstimes.com/asia/se-asia/former-malaysian-deputy-minister-zahidi-zainul-abidin-dies-at-65
 
 He reportedly suffered from kidney failure.
 
-### Turkey detains 6 over deadly steel blast that killed 17
-Source: South China Morning Post
-Published: 2026-11-14 12:40 UTC
-URL: https://www.scmp.com/news/world/europe/article/3374446/turkey-detains-6-over-deadly-steel-blast-killed-17
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: South China Morning Post [global_news] https://www.scmp.com/news/world/europe/article/3374446/turkey-detains-6-over-deadly-steel-blast-killed-17
-
-Six people were arrested overnight after a huge blast at a steel plant near the western city of Izmir killed 17 workers, with grieving families waiting on Tuesday to receive their loved ones’ bodies for burial. Onlookers said Monday’s massive explosion felt like “an earthquake” when it ripped through the Habas steel factory in Aliaga, a district 60km (37 miles) north of Izmir known for ship-breaking and heavy industry. Police have so far detained six people in connection with the incident, with...
-
 ### ASEAN not easing Myanmar approach, bloc's special envoy says
 Source: Channel News Asia – Asia
 Published: 2026-11-14 12:35 UTC
 URL: https://www.channelnewsasia.com/asia/asean-not-easing-myanmar-approach-blocs-special-envoy-says-6551711
 Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Channel News Asia – Asia [global_news] https://www.channelnewsasia.com/asia/asean-not-easing-myanmar-approach-blocs-special-envoy-says-6551711
@@ -1908,7 +2150,7 @@ Source: Le Monde English – Europe
 Published: 2026-11-14 12:30 UTC
 URL: https://www.lemonde.fr/en/international/article/2026/11/14/at-trump-s-request-russia-relishes-the-prospect-of-shaping-europe-s-security-architecture_6780754_4.html
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Le Monde English – Europe [global_news] https://www.lemonde.fr/en/international/article/2026/11/14/at-trump-s-request-russia-relishes-the-prospect-of-shaping-europe-s-security-architecture_6780754_4.html
@@ -1920,43 +2162,19 @@ Source: Le Monde English – Europe
 Published: 2026-11-14 12:22 UTC
 URL: https://www.lemonde.fr/en/international/article/2026/11/14/us-proposes-ukraine-cede-territory-in-exchange-for-joining-nato-says-zelensky_6780721_4.html
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Le Monde English – Europe [global_news] https://www.lemonde.fr/en/international/article/2026/11/14/us-proposes-ukraine-cede-territory-in-exchange-for-joining-nato-says-zelensky_6780721_4.html
 
 The Ukrainian leader, who met with European leaders following two days of US-brokered Ukraine-Russia talks in Abu Dhabi, added that Russia rejected an energy target ceasefire this week and is 'betting everything' on this winter's campaign in its war.
 
-### Hong Kong rail giant warns of cash crunch despite Northern Metropolis land grant
-Source: South China Morning Post
-Published: 2026-11-14 12:12 UTC
-URL: https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3374441/hong-kong-rail-giant-warns-cash-crunch-despite-northern-metropolis-land-grant
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: South China Morning Post [global_news] https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3374441/hong-kong-rail-giant-warns-cash-crunch-despite-northern-metropolis-land-grant
-
-Hong Kong’s MTR Corporation has warned that it will face significant cash flow pressures over the next few years, even with the government’s grant of eight new sites for developing the Northern Link rail project in the Northern Metropolis. The warning came as the Liber Research Community cast doubt on the MTR Corp’s model of using property developments to fund rail construction, pointing out that about a third of the 18 sites granted in total were idle plots where developers had opted for cash...
-
-### Indonesia President Prabowo orders greater share of mining benefits for the state
-Source: The Straits Times – Asia
-Published: 2026-11-14 12:06 UTC
-URL: https://www.straitstimes.com/asia/se-asia/indonesian-president-orders-greater-share-of-mining-benefits-for-the-state
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: The Straits Times – Asia [global_news] https://www.straitstimes.com/asia/se-asia/indonesian-president-orders-greater-share-of-mining-benefits-for-the-state
-
-At least 70% of all mining permits must benefit the state, says Prabowo.
-
 ### As Apec looms, China’s Shenzhen wraps up preparations for its toughest stress test ever
 Source: SCMP China
 Published: 2026-11-14 12:01 UTC
 URL: https://www.scmp.com/news/china/politics/article/3374445/apec-looms-chinas-shenzhen-wraps-preparations-its-toughest-stress-test-ever
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: SCMP China [global_news] https://www.scmp.com/news/china/politics/article/3374445/apec-looms-chinas-shenzhen-wraps-preparations-its-toughest-stress-test-ever
@@ -1968,7 +2186,7 @@ Source: NBC News
 Published: 2026-11-14 12:00 UTC
 URL: https://www.nbcnews.com/select/shopping/chirp-neck-wheel-deal-of-the-day-rcna609280
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: NBC News [global_news] https://www.nbcnews.com/select/shopping/chirp-neck-wheel-deal-of-the-day-rcna609280
@@ -1980,7 +2198,7 @@ Source: Channel News Asia – Asia
 Published: 2026-11-14 11:49 UTC
 URL: https://www.channelnewsasia.com/asia/myanmar-airstrike-displaced-persons-camp-6551681
 Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Channel News Asia – Asia [global_news] https://www.channelnewsasia.com/asia/myanmar-airstrike-displaced-persons-camp-6551681
@@ -1990,106 +2208,31 @@ Source: SCMP China
 Published: 2026-11-14 11:45 UTC
 URL: https://www.scmp.com/news/china/diplomacy/article/3374442/china-south-korea-vow-deepen-ties-apec-summit-seoul-pushes-north-korea-talks
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: SCMP China [global_news] https://www.scmp.com/news/china/diplomacy/article/3374442/china-south-korea-vow-deepen-ties-apec-summit-seoul-pushes-north-korea-talks
 
 China and South Korea have agreed to use next week’s Asia-Pacific Economic Cooperation summit in Shenzhen to advance bilateral ties, according to their top diplomats. The pledge by Chinese Foreign Minister Wang Yi and his South Korean counterpart Cho Hyun after talks in Beijing on Friday comes as Seoul seeks Beijing’s help to revive stalled dialogue with Pyongyang. The Apec Economic Leaders’ Meeting from November 18 to 19 is expected to mark the third summit between South Korean President Lee...
 
-### Ukraine: Zelenskyy says security deal could go to referendum
-Source: DW News
-Published: Publication date unknown / 发布日期未知
-URL: https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-all-1573-rdf
-Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-Updated: 2026-11-14 11:40 UTC
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: DW News [global_news] https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-all-1573-rdf
-
-The US has broached the idea of Kyiv giving up the Donbas region in exchange for NATO membership, the Ukrainian president said.
-
-### New facilities in Laos and Cambodia: Is China expanding its military presence in Southeast Asia?
-Source: DW News
-Published: Publication date unknown / 发布日期未知
-URL: https://www.dw.com/en/new-facilities-in-laos-and-cambodia-is-china-expanding-its-military-presence-in-southeast-asia/a-79944798?maca=en-rss-en-all-1573-rdf
-Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-Updated: 2026-11-14 11:24 UTC
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: DW News [global_news] https://www.dw.com/en/new-facilities-in-laos-and-cambodia-is-china-expanding-its-military-presence-in-southeast-asia/a-79944798?maca=en-rss-en-all-1573-rdf
-
-China has been growing its economic relationships in Southeast Asia. Now new military facilities in Laos and Cambodia are causing smaller countries to worry China's military networks are also expanding.
-
-### Germany news: Solar power production approaches record high
-Source: DW News
-Published: Publication date unknown / 发布日期未知
-URL: https://www.dw.com/en/germany-news-solar-power-production-approaches-record-high/live-79947500?maca=en-rss-en-all-1573-rdf
-Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-Updated: 2026-11-14 11:22 UTC
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: DW News [global_news] https://www.dw.com/en/germany-news-solar-power-production-approaches-record-high/live-79947500?maca=en-rss-en-all-1573-rdf
-
-Solar power output in Germany in 2026 has already surpassed last year's total. Meanwhile, experts say the country is headed for a budget crisis. DW has more.
-
-### Device deemed ‘credible threat’ triggers evacuation around ethanol plant in Peoria, Illinois
-Source: NBC News
-Published: 2026-11-14 10:25 UTC
-URL: https://www.nbcnews.com/news/us-news/evacuation-order-ethanol-plant-peoria-illinois-suspicious-device-rcna609287
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: NBC News [global_news] https://www.nbcnews.com/news/us-news/evacuation-order-ethanol-plant-peoria-illinois-suspicious-device-rcna609287
-
-A suspicious device at an ethanol plant in Peoria, Illinois, triggered evacuations within a 1-mile radius, with local events forced to cancel as investigations continue.
-
-### A seismic shakeup at Nvidia, and a Senate flip for the ages: The news quiz
-Source: NBC News
-Published: 2026-11-14 10:15 UTC
-URL: https://www.nbcnews.com/news/news-quiz/nvidia-news-quiz-rcna609023
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: NBC News [global_news] https://www.nbcnews.com/news/news-quiz/nvidia-news-quiz-rcna609023
-
-The FDA issues a warning about GLP-1s, a soccer behemoth dumps its head coach, and this year’s Booker prize winner makes history.
-
 ### Scam losses across Asia estimated at US$136.5b in past year; experts warn of growing AI threat
 Source: Channel News Asia – Asia
 Published: 2026-11-14 10:12 UTC
 URL: https://www.channelnewsasia.com/asia/asia-scams-136-billion-global-anti-scam-alliance-summit-ai-threat-6549101
 Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Channel News Asia – Asia [global_news] https://www.channelnewsasia.com/asia/asia-scams-136-billion-global-anti-scam-alliance-summit-ai-threat-6549101
 
 The Global Anti-Scam Alliance warned that governments and companies cannot tackle the growing threat alone, as criminal syndicates exploit cross-border operations and increasingly advanced technology to evade detection.
 
-### PM Wong to visit Manila for ASEAN Summit, related meetings from Nov 15
-Source: Channel News Asia – Asia
-Published: 2026-11-14 10:00 UTC
-URL: https://www.channelnewsasia.com/singapore/pm-wong-asean-summit-chairmanship-manila-6547156
-Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: Channel News Asia – Asia [global_news] https://www.channelnewsasia.com/singapore/pm-wong-asean-summit-chairmanship-manila-6547156
-
-This is the final edition of the ASEAN Summit before Singapore takes over the chairmanship of the regional bloc next year.
-
 ### Wearing briefs boosts erectile dysfunction risk, 26,000-man study in China finds
 Source: SCMP China
 Published: 2026-11-14 10:00 UTC
 URL: https://www.scmp.com/news/china/science/article/3374313/wearing-briefs-boosts-erectile-dysfunction-risk-finds-26000-man-study-china
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: SCMP China [global_news] https://www.scmp.com/news/china/science/article/3374313/wearing-briefs-boosts-erectile-dysfunction-risk-finds-26000-man-study-china
@@ -2101,7 +2244,7 @@ Source: The Washington Post
 Published: 2026-11-14 10:00 UTC
 URL: https://www.washingtonpost.com/world/2026/11/14/middle-east-monarchies-brace-trump-corruption-scrutiny/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Washington Post [global_news] https://www.washingtonpost.com/world/2026/11/14/middle-east-monarchies-brace-trump-corruption-scrutiny/
@@ -2113,7 +2256,7 @@ Source: The Japan Times
 Published: 2026-11-14 09:37 UTC
 URL: https://www.japantimes.co.jp/news/2026/11/14/japan/crime-legal/okinawa-us-captain-arrest/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Japan Times [global_news] https://www.japantimes.co.jp/news/2026/11/14/japan/crime-legal/okinawa-us-captain-arrest/
@@ -2125,7 +2268,7 @@ Source: SCMP China
 Published: 2026-11-14 08:30 UTC
 URL: https://www.scmp.com/opinion/china-opinion/article/3374104/china-should-share-its-renewable-energy-expertise
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: SCMP China [global_news] https://www.scmp.com/opinion/china-opinion/article/3374104/china-should-share-its-renewable-energy-expertise
@@ -2137,7 +2280,7 @@ Source: Sky News
 Published: 2026-11-14 08:19 UTC
 URL: https://news.sky.com/story/trump-xi-and-putin-to-hold-unprecedented-meeting-white-house-says-13612124
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Sky News [global_news] https://news.sky.com/story/trump-xi-and-putin-to-hold-unprecedented-meeting-white-house-says-13612124
@@ -2149,7 +2292,7 @@ Source: The Japan Times
 Published: 2026-11-14 08:19 UTC
 URL: https://www.japantimes.co.jp/news/2026/11/14/world/society/gaza-6-year-old-burn-victim/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Japan Times [global_news] https://www.japantimes.co.jp/news/2026/11/14/world/society/gaza-6-year-old-burn-victim/
@@ -2161,7 +2304,7 @@ Source: Sky News
 Published: 2026-11-14 08:12 UTC
 URL: https://news.sky.com/story/goalkeeper-jesus-owono-given-12-game-ban-for-fatal-collision-with-tenerife-striker-jesus-de-miguel-13612126
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Sky News [global_news] https://news.sky.com/story/goalkeeper-jesus-owono-given-12-game-ban-for-fatal-collision-with-tenerife-striker-jesus-de-miguel-13612126
@@ -2173,72 +2316,12 @@ Source: The Japan Times
 Published: 2026-11-14 08:06 UTC
 URL: https://www.japantimes.co.jp/business/2026/11/14/huang-second-employee-relationship/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Japan Times [global_news] https://www.japantimes.co.jp/business/2026/11/14/huang-second-employee-relationship/
 
 The revelation follows two other extramarital affairs that led to his resignation Thursday.
-
-### Could major power politics stall the landmark High Seas Treaty?
-Source: SCMP China
-Published: 2026-11-14 08:00 UTC
-URL: https://www.scmp.com/news/china/diplomacy/article/3374392/could-major-power-politics-stall-landmark-high-seas-treaty
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: SCMP China [global_news] https://www.scmp.com/news/china/diplomacy/article/3374392/could-major-power-politics-stall-landmark-high-seas-treaty
-
-Nearly a year after taking effect, the landmark High Seas Treaty risks becoming another geopolitical battleground among major powers, observers have warned. Ratified by 105 countries, including China but not the United States and Russia, the Agreement on Biodiversity Beyond National Jurisdiction (BBNJ) is the most significant maritime pact in decades, governing international waters that cover nearly two-thirds of the global ocean. While the treaty was designed to safeguard marine ecosystems and...
-
-### Eddie Jones vows Japan will ‘play the house down’ in matchup with England
-Source: The Japan Times
-Published: 2026-11-14 05:36 UTC
-URL: https://www.japantimes.co.jp/sports/2026/11/14/more-sports/eddie-jones-england-return/
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: The Japan Times [global_news] https://www.japantimes.co.jp/sports/2026/11/14/more-sports/eddie-jones-england-return/
-
-Eddie Jones remains England's most successful coach in terms of winning percentage.
-
-### Alaskans opt to stick with ranked choice voting
-Source: NBC News
-Published: 2026-11-14 05:08 UTC
-URL: https://www.nbcnews.com/politics/2026-election/alaskans-opt-stick-ranked-choice-voting-rcna607641
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: NBC News [global_news] https://www.nbcnews.com/politics/2026-election/alaskans-opt-stick-ranked-choice-voting-rcna607641
-
-Alaskans have decided to stick with ranked choice voting, rejecting a ballot measure that sought to repeal the system, NBC News projects.
-
-### Microsoft says services fully restored after outage roiled world
-Source: The Japan Times
-Published: 2026-11-14 04:53 UTC
-URL: https://www.japantimes.co.jp/business/2026/11/14/microsoft-outage-recovered/
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: The Japan Times [global_news] https://www.japantimes.co.jp/business/2026/11/14/microsoft-outage-recovered/
-
-Access has been fully restored to itd flagship software, ending an outage that paralyzed government offices, traders and businesses around the world.
-
-### Japan and Philippines to ink deal on oil reserve cooperation
-Source: The Japan Times
-Published: 2026-11-14 04:42 UTC
-URL: https://www.japantimes.co.jp/business/2026/11/14/japan-philippines-oil-reserve-deal/
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: The Japan Times [global_news] https://www.japantimes.co.jp/business/2026/11/14/japan-philippines-oil-reserve-deal/
-
-Under the partnership, Japan will help the Philippines develop a national oil reserve system as part of measures to enhance its energy security.
 
 ### Pope Leo receives hero's welcome in Peru from massive crowds as he returns to his former diocese
 Source: Le Monde English – Europe
@@ -2246,7 +2329,7 @@ Published: 2026-11-14 04:35 UTC
 URL: https://www.lemonde.fr/en/international/article/2026/11/14/in-peru-pope-leo-receives-a-hero-s-welcome-from-massive-crowds-as-he-returns-to-his-former-diocese_6780589_4.html
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
 Updated: 2026-11-14 09:02 UTC
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Le Monde English – Europe [global_news] https://www.lemonde.fr/en/international/article/2026/11/14/in-peru-pope-leo-receives-a-hero-s-welcome-from-massive-crowds-as-he-returns-to-his-former-diocese_6780589_4.html
@@ -2258,7 +2341,7 @@ Source: Le Monde English – Europe
 Published: 2026-11-14 04:00 UTC
 URL: https://www.lemonde.fr/en/m-le-mag/article/2026/11/14/daphne-caruana-galizia-was-murdered-for-investigating-malta-s-powerful-her-sons-picked-up-the-fight-for-justice_6780490_117.html
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Le Monde English – Europe [global_news] https://www.lemonde.fr/en/m-le-mag/article/2026/11/14/daphne-caruana-galizia-was-murdered-for-investigating-malta-s-powerful-her-sons-picked-up-the-fight-for-justice_6780490_117.html
@@ -2270,32 +2353,19 @@ Source: ABC News
 Published: 2026-11-14 02:03 UTC
 URL: https://abcnews.com/video/41463246/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: ABC News [global_news] https://abcnews.com/video/41463246/
 
 24/7 coverage of breaking news and live events
 
-### Europeans face challenge of reaching consensus on AI to stay competitive and improve regulation
-Source: Le Monde English – Europe
-Published: 2026-11-14 01:49 UTC
-URL: https://www.lemonde.fr/en/international/article/2026/11/14/ai-europeans-face-challenge-of-reaching-consensus-to-stay-competitive-and-improve-regulation_6780458_4.html
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Updated: 2026-11-14 08:21 UTC
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: Le Monde English – Europe [global_news] https://www.lemonde.fr/en/international/article/2026/11/14/ai-europeans-face-challenge-of-reaching-consensus-to-stay-competitive-and-improve-regulation_6780458_4.html
-
-Gathered in Dublin, the 27 member states discussed the challenges of artificial intelligence, balancing ambitions for sovereignty, regulation and budgetary requirements.
-
 ### As Trump shifts Iran strategy, Gulf allies pursue diplomacy with Tehran
 Source: PBS NewsHour World
 Published: 2026-11-14 00:30 UTC
 URL: https://www.pbs.org/newshour/podcasts/compass-points-with-pbs-news/as-trump-shifts-iran-strategy-gulf-allies-pursue-diplomacy-with-tehran
 Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: PBS NewsHour World [global_news] https://www.pbs.org/newshour/podcasts/compass-points-with-pbs-news/as-trump-shifts-iran-strategy-gulf-allies-pursue-diplomacy-with-tehran
@@ -2307,7 +2377,7 @@ Source: PBS NewsHour World
 Published: 2026-11-14 00:30 UTC
 URL: https://www.pbs.org/newshour/video/compass-points/2026/11/as-trump-shifts-iran-strategy-gulf-allies-pursue-diplomacy-with-tehran
 Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: PBS NewsHour World [global_news] https://www.pbs.org/newshour/video/compass-points/2026/11/as-trump-shifts-iran-strategy-gulf-allies-pursue-diplomacy-with-tehran
@@ -2319,7 +2389,7 @@ Source: PBS NewsHour World
 Published: 2026-11-13 23:50 UTC
 URL: https://www.pbs.org/newshour/show/bessent-accuses-lutnick-of-failing-to-prevent-china-from-obtaining-nvidia-chips
 Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: PBS NewsHour World [global_news] https://www.pbs.org/newshour/show/bessent-accuses-lutnick-of-failing-to-prevent-china-from-obtaining-nvidia-chips
@@ -2331,7 +2401,7 @@ Source: The Telegraph
 Published: 2026-11-13 23:21 UTC
 URL: https://www.telegraph.co.uk/rugby-union/2026/11/13/france-vs-south-africa-score-updates-nations-championship/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Telegraph [global_news] https://www.telegraph.co.uk/rugby-union/2026/11/13/france-vs-south-africa-score-updates-nations-championship/
@@ -2343,7 +2413,7 @@ Source: ABC News
 Published: 2026-11-13 22:28 UTC
 URL: https://abcnews.com/Politics/sarah-huckabee-sanders-receive-2028-presidential-encouragement/story?id=138118928
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: ABC News [global_news] https://abcnews.com/Politics/sarah-huckabee-sanders-receive-2028-presidential-encouragement/story?id=138118928
@@ -2355,7 +2425,7 @@ Source: The Washington Post
 Published: 2026-11-13 22:15 UTC
 URL: https://www.washingtonpost.com/world/2026/11/13/more-than-15-million-people-welcome-pope-leo-xiv-northern-peru/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Washington Post [global_news] https://www.washingtonpost.com/world/2026/11/13/more-than-15-million-people-welcome-pope-leo-xiv-northern-peru/
@@ -2367,7 +2437,7 @@ Source: The Washington Post
 Published: 2026-11-13 21:15 UTC
 URL: https://www.washingtonpost.com/world/2026/11/13/ukraine-critic-injured-moscow-car-bombing-russia-says/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Washington Post [global_news] https://www.washingtonpost.com/world/2026/11/13/ukraine-critic-injured-moscow-car-bombing-russia-says/
@@ -2379,67 +2449,19 @@ Source: The Washington Post
 Published: 2026-11-13 20:29 UTC
 URL: https://www.washingtonpost.com/world/2026/11/13/before-he-was-pope-leo-he-was-their-bishop-now-hes-coming-home/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Washington Post [global_news] https://www.washingtonpost.com/world/2026/11/13/before-he-was-pope-leo-he-was-their-bishop-now-hes-coming-home/
 
 In an emotional homecoming, residents of Chiclayo, the Peruvian city that shaped Pope Leo XIV, welcomed him with reverence for one of their own.
 
-### UN chief says 'immediate and drastic' emissions cuts needed to avert climate change catastrophe
-Source: PBS NewsHour World
-Published: 2026-11-13 19:45 UTC
-URL: https://www.pbs.org/newshour/world/un-chief-says-immediate-and-drastic-emissions-cuts-needed-to-avert-climate-change-catastrophe
-Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: PBS NewsHour World [global_news] https://www.pbs.org/newshour/world/un-chief-says-immediate-and-drastic-emissions-cuts-needed-to-avert-climate-change-catastrophe
-
-"You cannot build peace on a burning planet," United Nations Secretary-General António Guterres told reporters, stressing that climate change is central to the U.N.'s work because it contributes to geopolitical instability.
-
-### Europeans decide on thorny question of who will speak for bloc in Ukraine talks
-Source: The Washington Post
-Published: 2026-11-13 19:36 UTC
-URL: https://www.washingtonpost.com/world/2026/11/13/europeans-decide-thorny-question-who-will-speak-bloc-ukraine-talks/
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: The Washington Post [global_news] https://www.washingtonpost.com/world/2026/11/13/europeans-decide-thorny-question-who-will-speak-bloc-ukraine-talks/
-
-On Friday, the European Union agreed to not one person but a team from five countries and the European Union.
-
-### UK police launch sex offense investigation into children's author and TV personality David Walliams
-Source: PBS NewsHour World
-Published: 2026-11-13 19:05 UTC
-URL: https://www.pbs.org/newshour/world/uk-police-launch-sex-offense-investigation-into-childrens-author-and-tv-personality-david-walliams
-Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: PBS NewsHour World [global_news] https://www.pbs.org/newshour/world/uk-police-launch-sex-offense-investigation-into-childrens-author-and-tv-personality-david-walliams
-
-The Metropolitan Police said it had received a number of allegations of past abuse following the joint investigation this week by ITV News and the Guardian newspaper.
-
-### Schumer and Van Hollen face off for Senate majority leader. What do Democrats think?
-Source: ABC News
-Published: 2026-11-13 19:02 UTC
-URL: https://abcnews.com/Politics/schumer-van-hollen-facing-off-senate-majority-leader/story?id=138111386
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: ABC News [global_news] https://abcnews.com/Politics/schumer-van-hollen-facing-off-senate-majority-leader/story?id=138111386
-
-Within moments of Chris Van Hollen announcing his intent to challenge Chuck Schumer in a race to lead next year’s Senate Democratic majority, endorsements began flying.
-
 ### What's Trump's strategy now with Iran? To keep things as they are
 Source: NPR World
 Published: 2026-11-13 19:02 UTC
 URL: https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are
 Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: NPR World [global_news] https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are
@@ -2451,7 +2473,7 @@ Source: Sky News
 Published: 2026-11-13 18:04 UTC
 URL: https://news.sky.com/story/eu-leaders-choose-team-for-ukraine-peace-talks-after-months-of-wavering-13612008
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Sky News [global_news] https://news.sky.com/story/eu-leaders-choose-team-for-ukraine-peace-talks-after-months-of-wavering-13612008
@@ -2463,7 +2485,7 @@ Source: AllAfrica
 Published: 2026-11-13 17:10 UTC
 URL: https://allafrica.com/stories/202611130532.html
 Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: AllAfrica [global_news] https://allafrica.com/stories/202611130532.html
@@ -2475,7 +2497,7 @@ Source: AllAfrica
 Published: 2026-11-13 17:07 UTC
 URL: https://allafrica.com/stories/202611130519.html
 Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: AllAfrica [global_news] https://allafrica.com/stories/202611130519.html
@@ -2487,7 +2509,7 @@ Source: AllAfrica
 Published: 2026-11-13 17:07 UTC
 URL: https://allafrica.com/stories/202611130518.html
 Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: AllAfrica [global_news] https://allafrica.com/stories/202611130518.html
@@ -2499,7 +2521,7 @@ Source: AllAfrica
 Published: 2026-11-13 17:06 UTC
 URL: https://allafrica.com/stories/202611130517.html
 Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: AllAfrica [global_news] https://allafrica.com/stories/202611130517.html
@@ -2511,7 +2533,7 @@ Source: AllAfrica
 Published: 2026-11-13 17:06 UTC
 URL: https://allafrica.com/stories/202611130516.html
 Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: AllAfrica [global_news] https://allafrica.com/stories/202611130516.html
@@ -2523,31 +2545,19 @@ Source: AllAfrica
 Published: 2026-11-13 17:05 UTC
 URL: https://allafrica.com/stories/202611130515.html
 Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: AllAfrica [global_news] https://allafrica.com/stories/202611130515.html
 
 [ENA] Addis Ababa -- The Green Legacy Initiative stands as a testament to Ethiopia's commitment to combating climate change through large-scale afforestation, environmental conservation and sustainable development, Press Secretary for Office of the Prime Minister (PMO) Billene Seyoum said.
 
-### As Chinese ‘manosphere’ emerges, women are dropping from the workforce
-Source: The Washington Post
-Published: 2026-11-13 16:27 UTC
-URL: https://www.washingtonpost.com/world/2026/11/13/china-pushes-women-toward-traditional-roles-it-once-rejected/
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: The Washington Post [global_news] https://www.washingtonpost.com/world/2026/11/13/china-pushes-women-toward-traditional-roles-it-once-rejected/
-
-China, which once rejected traditional roles for women, is now promoting family values and higher birth rates under Xi Jinping.
-
 ### Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader
 Source: NPR World
 Published: 2026-11-13 12:07 UTC
 URL: https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen
 Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: NPR World [global_news] https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen
@@ -2559,7 +2569,7 @@ Source: NPR World
 Published: 2026-11-13 11:47 UTC
 URL: https://www.npr.org/2026/11/13/nx-s1-6038868/nvidia-interim-ceo-colette-kress-ai-bets-investigation-lutnick
 Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: NPR World [global_news] https://www.npr.org/2026/11/13/nx-s1-6038868/nvidia-interim-ceo-colette-kress-ai-bets-investigation-lutnick
@@ -2571,7 +2581,7 @@ Source: The Telegraph
 Published: 2026-11-13 09:50 UTC
 URL: https://www.telegraph.co.uk/cricket/2026/11/13/australia-vs-england-live-score-latest-updates-first-odi/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Telegraph [global_news] https://www.telegraph.co.uk/cricket/2026/11/13/australia-vs-england-live-score-latest-updates-first-odi/
@@ -2583,31 +2593,19 @@ Source: The Telegraph
 Published: 2026-11-12 23:17 UTC
 URL: https://www.telegraph.co.uk/football/2026/11/12/england-vs-croatia-live-score-latest-nations-league-updates/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Telegraph [global_news] https://www.telegraph.co.uk/football/2026/11/12/england-vs-croatia-live-score-latest-nations-league-updates/
 
 Kane bends game to his will on record-breaking night
 
-### Experts hail a “milestone” as TB deaths fall by more than a third in 10 years
-Source: The Telegraph
-Published: 2026-11-12 17:25 UTC
-URL: https://www.telegraph.co.uk/global-health/science-and-disease/milestone-tb-deaths/
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: The Telegraph [global_news] https://www.telegraph.co.uk/global-health/science-and-disease/milestone-tb-deaths/
-
-Funding to fight the disease is still lagging behind what is needed
-
 ### U.S. envoys meet with Putin in Moscow on Ukraine talks, then see Zelenskyy in Dublin
 Source: NPR World
 Published: 2026-11-12 15:26 UTC
 URL: https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks
 Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: NPR World [global_news] https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks
@@ -2619,7 +2617,7 @@ Source: NPR World
 Published: 2026-11-12 14:22 UTC
 URL: https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned
 Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: NPR World [global_news] https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned
@@ -2631,7 +2629,7 @@ Source: The Paper 澎湃新闻
 Published: 2025-12-16 02:23 UTC
 URL: https://www.thepaper.cn/newsDetail_forward_32178049
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Paper 澎湃新闻 [global_news] https://www.thepaper.cn/newsDetail_forward_32178049
@@ -2643,7 +2641,7 @@ Source: The Paper 澎湃新闻
 Published: 2025-12-15 14:23 UTC
 URL: https://www.thepaper.cn/newsDetail_forward_32177210
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Paper 澎湃新闻 [global_news] https://www.thepaper.cn/newsDetail_forward_32177210
@@ -2655,7 +2653,7 @@ Source: The Paper 澎湃新闻
 Published: 2025-12-15 08:23 UTC
 URL: https://www.thepaper.cn/newsDetail_forward_32176166
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Paper 澎湃新闻 [global_news] https://www.thepaper.cn/newsDetail_forward_32176166
@@ -2667,7 +2665,7 @@ Source: The Paper 澎湃新闻
 Published: 2025-12-15 07:23 UTC
 URL: https://www.thepaper.cn/newsDetail_forward_32178391
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Paper 澎湃新闻 [global_news] https://www.thepaper.cn/newsDetail_forward_32178391
@@ -2679,7 +2677,7 @@ Source: The Paper 澎湃新闻
 Published: 2025-12-15 06:53 UTC
 URL: https://www.thepaper.cn/newsDetail_forward_32178397
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Paper 澎湃新闻 [global_news] https://www.thepaper.cn/newsDetail_forward_32178397
@@ -2691,7 +2689,7 @@ Source: The Paper 澎湃新闻
 Published: 2025-12-15 06:53 UTC
 URL: https://www.thepaper.cn/newsDetail_forward_32178536
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Paper 澎湃新闻 [global_news] https://www.thepaper.cn/newsDetail_forward_32178536
@@ -2703,7 +2701,7 @@ Source: CNN
 Published: 2024-04-09 15:25 UTC
 URL: https://www.cnn.com/2023/04/03/golf/rory-mcilroy-masters-meltdown-2011-spt-spc-intl/index.html
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: CNN [global_news] https://www.cnn.com/2023/04/03/golf/rory-mcilroy-masters-meltdown-2011-spt-spc-intl/index.html
@@ -2715,7 +2713,7 @@ Source: CNN
 Published: 2023-04-18 15:32 UTC
 URL: https://www.cnn.com/2023/04/03/asia/deepest-fish-filmed-off-japan-scn-intl-hnk/index.html
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: CNN [global_news] https://www.cnn.com/2023/04/03/asia/deepest-fish-filmed-off-japan-scn-intl-hnk/index.html
@@ -2727,7 +2725,7 @@ Source: CNN
 Published: 2023-04-12 09:01 UTC
 URL: https://www.cnn.com/videos/travel/2023/04/03/snailfish-deepest-fish-on-camera-lon-orig-ao-cprog-scn.cnn
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: CNN [global_news] https://www.cnn.com/videos/travel/2023/04/03/snailfish-deepest-fish-on-camera-lon-orig-ao-cprog-scn.cnn
@@ -2739,7 +2737,7 @@ Source: CNN
 Published: 2023-04-06 20:09 UTC
 URL: https://www.cnn.com/style/article/beauty-skincare-climate/index.html
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: CNN [global_news] https://www.cnn.com/style/article/beauty-skincare-climate/index.html
@@ -2751,7 +2749,7 @@ Source: CNN
 Published: 2023-04-05 22:50 UTC
 URL: https://www.cnn.com/collections/intl-trump-040223/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: CNN [global_news] https://www.cnn.com/collections/intl-trump-040223/
@@ -2761,7 +2759,7 @@ Source: CNN
 Published: 2023-04-05 13:30 UTC
 URL: https://www.cnn.com/videos/politics/2023/04/05/maggie-haberman-donald-trump-speech-indictment-reaction-sot-cnntm-vpx.cnn
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: CNN [global_news] https://www.cnn.com/videos/politics/2023/04/05/maggie-haberman-donald-trump-speech-indictment-reaction-sot-cnntm-vpx.cnn
@@ -2774,7 +2772,7 @@ CNN political contributor Maggie Haberman explains the reasoning behind Donald T
 Source: URL-only source / 仅网址源
 URL: https://issafrica.org/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -2784,7 +2782,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://africanarguments.org/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -2794,7 +2792,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://nacla.org/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -2804,7 +2802,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.americasquarterly.org/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -2814,7 +2812,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://thediplomat.com/category/regions/southeast-asia/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -2824,7 +2822,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.politico.com/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -2834,7 +2832,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://ecfr.eu/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -2844,7 +2842,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.cfr.org/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -2854,7 +2852,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.crisisgroup.org/middle-east-north-africa
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -2864,7 +2862,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://latinvex.com/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -2874,7 +2872,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://elpais.com/america/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -2884,7 +2882,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://today.lorientlejour.com/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -2894,7 +2892,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.middleeasteye.net/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -2904,7 +2902,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.al-monitor.com/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -2915,7 +2913,7 @@ Source: POLITICO Europe
 Published: 2026-11-14 16:28 UTC
 URL: https://www.politico.eu/article/eu-reiterates-grave-concern-over-gaza-humanitarian-crisis-as-winter-approaches/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: POLITICO Europe [regions_geopolitics] https://www.politico.eu/article/eu-reiterates-grave-concern-over-gaza-humanitarian-crisis-as-winter-approaches/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
@@ -2927,7 +2925,7 @@ Source: POLITICO Europe
 Published: 2026-11-14 14:03 UTC
 URL: https://www.politico.eu/article/italy-hits-meta-with-e805m-fine-over-privacy-law-violation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: POLITICO Europe [regions_geopolitics] https://www.politico.eu/article/italy-hits-meta-with-e805m-fine-over-privacy-law-violation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
@@ -2939,7 +2937,7 @@ Source: POLITICO Europe
 Published: 2026-11-14 13:16 UTC
 URL: https://www.politico.eu/article/nearly-e20m-in-cash-found-buried-hidden-in-hungary-corruption-case/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: POLITICO Europe [regions_geopolitics] https://www.politico.eu/article/nearly-e20m-in-cash-found-buried-hidden-in-hungary-corruption-case/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
@@ -2951,7 +2949,7 @@ Source: POLITICO Europe
 Published: 2026-11-14 10:48 UTC
 URL: https://www.politico.eu/article/us-suggested-ukraine-could-give-up-donbas-for-nato-membership-zelenskyy-says/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: POLITICO Europe [regions_geopolitics] https://www.politico.eu/article/us-suggested-ukraine-could-give-up-donbas-for-nato-membership-zelenskyy-says/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
@@ -2963,7 +2961,7 @@ Source: POLITICO Europe
 Published: 2026-11-14 09:57 UTC
 URL: https://www.politico.eu/article/finland-rejects-reported-russian-demand-to-leave-nato-as-part-of-peace-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: POLITICO Europe [regions_geopolitics] https://www.politico.eu/article/finland-rejects-reported-russian-demand-to-leave-nato-as-part-of-peace-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
@@ -2975,7 +2973,7 @@ Source: POLITICO Europe
 Published: 2026-11-14 04:30 UTC
 URL: https://www.politico.eu/podcast/berlin-playbook-podcast/die-geburtstagswoche-des-grauens-fur-merz-mit-rasmus-buchsteiner/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: POLITICO Europe [regions_geopolitics] https://www.politico.eu/podcast/berlin-playbook-podcast/die-geburtstagswoche-des-grauens-fur-merz-mit-rasmus-buchsteiner/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
@@ -2987,7 +2985,7 @@ Source: Foreign Policy
 Published: 2026-11-13 20:27 UTC
 URL: https://foreignpolicy.com/2026/11/13/eu-ai-summit-semiconductor-chips-russia-ukraine-peace-talks-nvidia/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Foreign Policy [regions_geopolitics] https://foreignpolicy.com/2026/11/13/eu-ai-summit-semiconductor-chips-russia-ukraine-peace-talks-nvidia/
@@ -2999,7 +2997,7 @@ Source: Foreign Policy
 Published: 2026-11-13 20:00 UTC
 URL: https://foreignpolicy.com/2026/11/13/realism-hans-morgenthau-david-sacks-the-realist-review-international-relations-theory/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Foreign Policy [regions_geopolitics] https://foreignpolicy.com/2026/11/13/realism-hans-morgenthau-david-sacks-the-realist-review-international-relations-theory/
@@ -3011,7 +3009,7 @@ Source: Foreign Policy
 Published: 2026-11-13 19:56 UTC
 URL: https://foreignpolicy.com/2026/11/13/russia-my-undesirable-friends-film-movie-review-war-ukraine-journalism/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Foreign Policy [regions_geopolitics] https://foreignpolicy.com/2026/11/13/russia-my-undesirable-friends-film-movie-review-war-ukraine-journalism/
@@ -3023,7 +3021,7 @@ Source: Foreign Policy
 Published: 2026-11-13 19:50 UTC
 URL: https://foreignpolicy.com/2026/11/13/jensen-huang-nvidia-resignation-china-spy-scandal-trump/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Foreign Policy [regions_geopolitics] https://foreignpolicy.com/2026/11/13/jensen-huang-nvidia-resignation-china-spy-scandal-trump/
@@ -3035,7 +3033,7 @@ Source: Foreign Policy
 Published: 2026-11-13 19:38 UTC
 URL: https://foreignpolicy.com/2026/11/13/lebanon-middle-east-hezbollah-history-us-israel-military-war/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Foreign Policy [regions_geopolitics] https://foreignpolicy.com/2026/11/13/lebanon-middle-east-hezbollah-history-us-israel-military-war/
@@ -3047,7 +3045,7 @@ Source: Foreign Policy
 Published: 2026-11-13 19:35 UTC
 URL: https://foreignpolicy.com/2026/11/13/nvidia-spy-chips-artificial-intelligence-huang-china/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Foreign Policy [regions_geopolitics] https://foreignpolicy.com/2026/11/13/nvidia-spy-chips-artificial-intelligence-huang-china/
@@ -3059,7 +3057,7 @@ Source: Project Syndicate
 Published: 2026-11-13 13:36 UTC
 URL: https://www.project-syndicate.org/commentary/china-rare-earth-embargo-unlikely-but-us-and-eu-will-pay-a-high-price-to-prepare-for-one-by-daniel-gros-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Project Syndicate [regions_geopolitics] https://www.project-syndicate.org/commentary/china-rare-earth-embargo-unlikely-but-us-and-eu-will-pay-a-high-price-to-prepare-for-one-by-daniel-gros-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
@@ -3071,7 +3069,7 @@ Source: Project Syndicate
 Published: 2026-11-13 13:35 UTC
 URL: https://www.project-syndicate.org/commentary/trump-white-house-attacks-on-research-by-peter-n-miller-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Project Syndicate [regions_geopolitics] https://www.project-syndicate.org/commentary/trump-white-house-attacks-on-research-by-peter-n-miller-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
@@ -3083,7 +3081,7 @@ Source: Project Syndicate
 Published: 2026-11-13 13:17 UTC
 URL: https://www.project-syndicate.org/commentary/africa-needs-less-debt-based-climate-finance-by-penelope-gregoriou-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Project Syndicate [regions_geopolitics] https://www.project-syndicate.org/commentary/africa-needs-less-debt-based-climate-finance-by-penelope-gregoriou-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
@@ -3095,7 +3093,7 @@ Source: Project Syndicate
 Published: 2026-11-13 09:32 UTC
 URL: https://www.project-syndicate.org/onpoint/climate-change-demands-state-capacity-public-capabilities-by-mariana-mazzucato-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Project Syndicate [regions_geopolitics] https://www.project-syndicate.org/onpoint/climate-change-demands-state-capacity-public-capabilities-by-mariana-mazzucato-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
@@ -3107,7 +3105,7 @@ Source: Project Syndicate
 Published: 2026-11-12 17:37 UTC
 URL: https://www.project-syndicate.org/commentary/mexico-leftist-morena-party-owes-its-popularity-to-pragmatism-by-viri-rios-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Project Syndicate [regions_geopolitics] https://www.project-syndicate.org/commentary/mexico-leftist-morena-party-owes-its-popularity-to-pragmatism-by-viri-rios-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
@@ -3119,7 +3117,7 @@ Source: Project Syndicate
 Published: 2026-11-12 15:13 UTC
 URL: https://www.project-syndicate.org/commentary/why-europe-is-pressing-ahead-with-digital-euro-by-howard-davies-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Project Syndicate [regions_geopolitics] https://www.project-syndicate.org/commentary/why-europe-is-pressing-ahead-with-digital-euro-by-howard-davies-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en
@@ -3131,7 +3129,7 @@ Source: International Crisis Group
 Published: 2026-10-30 16:15 UTC
 URL: https://www.crisisgroup.org/pod/africa/sudan/uae-sudan
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: International Crisis Group [regions_geopolitics] https://www.crisisgroup.org/pod/africa/sudan/uae-sudan
@@ -3143,7 +3141,7 @@ Source: International Crisis Group
 Published: 2026-10-30 15:29 UTC
 URL: https://www.crisisgroup.org/pod/africa/eritrea/view-eritrea
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: International Crisis Group [regions_geopolitics] https://www.crisisgroup.org/pod/africa/eritrea/view-eritrea
@@ -3155,7 +3153,7 @@ Source: International Crisis Group
 Published: 2026-10-30 14:08 UTC
 URL: https://www.crisisgroup.org/crisiswatch/october-trends-and-november-alerts-2026
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: International Crisis Group [regions_geopolitics] https://www.crisisgroup.org/crisiswatch/october-trends-and-november-alerts-2026
@@ -3167,7 +3165,7 @@ Source: International Crisis Group
 Published: 2026-10-29 23:00 UTC
 URL: https://www.crisisgroup.org/sco/global/our-radar
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: International Crisis Group [regions_geopolitics] https://www.crisisgroup.org/sco/global/our-radar
@@ -3179,7 +3177,7 @@ Source: International Crisis Group
 Published: 2026-10-29 16:58 UTC
 URL: https://www.crisisgroup.org/anb/europe/serbia/after-serbias-election-foreign-policy-takes-back-seat-and-thats-ok
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: International Crisis Group [regions_geopolitics] https://www.crisisgroup.org/anb/europe/serbia/after-serbias-election-foreign-policy-takes-back-seat-and-thats-ok
@@ -3191,7 +3189,7 @@ Source: International Crisis Group
 Published: 2026-10-29 14:33 UTC
 URL: https://www.crisisgroup.org/opd/united-states/united-states-china/dont-go-backward-china-policy
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: International Crisis Group [regions_geopolitics] https://www.crisisgroup.org/opd/united-states/united-states-china/dont-go-backward-china-policy
@@ -3204,7 +3202,7 @@ Don’t Go Backward on China Policy mloukili Thu, 10/29/2026 - 15:33 Latest Upda
 Source: URL-only source / 仅网址源
 URL: https://www.unhcr.org/news/
 Source meta: institutional · primary · R5 · P4 · signal
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -3215,7 +3213,7 @@ Source: UN News
 Published: 2026-11-14 12:00 UTC
 URL: https://news.un.org/feed/view/en/story/2026/11/1168776
 Source meta: institutional · primary · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: UN News [rights_humanitarian] https://news.un.org/feed/view/en/story/2026/11/1168776
@@ -3227,7 +3225,7 @@ Source: Human Rights Watch
 Published: 2026-11-13 20:30 UTC
 URL: https://www.hrw.org/news/2026/11/13/israel-bans-travel-for-prominent-palestinian-rights-defender
 Source meta: specialist_media · specialist · R4 · P5 · signal
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Human Rights Watch [rights_humanitarian] https://www.hrw.org/news/2026/11/13/israel-bans-travel-for-prominent-palestinian-rights-defender
@@ -3239,7 +3237,7 @@ Source: Human Rights Watch
 Published: 2026-11-13 17:01 UTC
 URL: https://www.hrw.org/news/2026/11/13/hungary-pledges-to-ratify-european-treaty-to-protect-women-from-violence
 Source meta: specialist_media · specialist · R4 · P5 · signal
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Human Rights Watch [rights_humanitarian] https://www.hrw.org/news/2026/11/13/hungary-pledges-to-ratify-european-treaty-to-protect-women-from-violence
@@ -3251,7 +3249,7 @@ Source: UN News
 Published: 2026-11-13 12:00 UTC
 URL: https://news.un.org/feed/view/en/story/2026/11/1168803
 Source meta: institutional · primary · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: UN News [rights_humanitarian] https://news.un.org/feed/view/en/story/2026/11/1168803
@@ -3263,7 +3261,7 @@ Source: UN News
 Published: 2026-11-13 12:00 UTC
 URL: https://news.un.org/feed/view/en/story/2026/11/1168804
 Source meta: institutional · primary · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: UN News [rights_humanitarian] https://news.un.org/feed/view/en/story/2026/11/1168804
@@ -3275,7 +3273,7 @@ Source: UN News
 Published: 2026-11-13 12:00 UTC
 URL: https://news.un.org/feed/view/en/story/2026/11/1168802
 Source meta: institutional · primary · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: UN News [rights_humanitarian] https://news.un.org/feed/view/en/story/2026/11/1168802
@@ -3287,7 +3285,7 @@ Source: UN News
 Published: 2026-11-13 12:00 UTC
 URL: https://news.un.org/feed/view/en/story/2026/11/1168799
 Source meta: institutional · primary · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: UN News [rights_humanitarian] https://news.un.org/feed/view/en/story/2026/11/1168799
@@ -3299,7 +3297,7 @@ Source: UN News
 Published: 2026-11-13 12:00 UTC
 URL: https://news.un.org/feed/view/en/story/2026/11/1168798
 Source meta: institutional · primary · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: UN News [rights_humanitarian] https://news.un.org/feed/view/en/story/2026/11/1168798
@@ -3311,7 +3309,7 @@ Source: Human Rights Watch
 Published: 2026-11-13 05:00 UTC
 URL: https://www.hrw.org/news/2026/11/13/france-sweeping-bill-threatens-peaceful-protest-rights
 Source meta: specialist_media · specialist · R4 · P5 · signal
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Human Rights Watch [rights_humanitarian] https://www.hrw.org/news/2026/11/13/france-sweeping-bill-threatens-peaceful-protest-rights
@@ -3323,7 +3321,7 @@ Source: Human Rights Watch
 Published: 2026-11-13 00:00 UTC
 URL: https://www.hrw.org/news/2026/11/12/indonesia-alleged-excessive-force-against-protesters
 Source meta: specialist_media · specialist · R4 · P5 · signal
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Human Rights Watch [rights_humanitarian] https://www.hrw.org/news/2026/11/12/indonesia-alleged-excessive-force-against-protesters
@@ -3335,7 +3333,7 @@ Source: Human Rights Watch
 Published: 2026-11-12 17:49 UTC
 URL: https://www.hrw.org/news/2026/11/12/attack-on-trans-sex-workers-in-argentina-demands-justice
 Source meta: specialist_media · specialist · R4 · P5 · signal
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Human Rights Watch [rights_humanitarian] https://www.hrw.org/news/2026/11/12/attack-on-trans-sex-workers-in-argentina-demands-justice
@@ -3347,7 +3345,7 @@ Source: Amnesty International News
 Published: 2026-11-12 17:04 UTC
 URL: https://www.amnesty.org/en/latest/news/2026/11/russia-lev-shlosbergs-outrageous-11-year-prison-sentence-for-anti-war-views-upheld/
 Source meta: specialist_media · specialist · R4 · P5 · signal
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Amnesty International News [rights_humanitarian] https://www.amnesty.org/en/latest/news/2026/11/russia-lev-shlosbergs-outrageous-11-year-prison-sentence-for-anti-war-views-upheld/
@@ -3359,7 +3357,7 @@ Source: Amnesty International News
 Published: 2026-11-12 15:40 UTC
 URL: https://www.amnesty.org/en/latest/news/2026/11/angola-authorities-must-immediately-release-general-nila-and-four-other-members-of-untra/
 Source meta: specialist_media · specialist · R4 · P5 · signal
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Amnesty International News [rights_humanitarian] https://www.amnesty.org/en/latest/news/2026/11/angola-authorities-must-immediately-release-general-nila-and-four-other-members-of-untra/
@@ -3371,7 +3369,7 @@ Source: Amnesty International News
 Published: 2026-11-12 13:27 UTC
 URL: https://www.amnesty.org/en/latest/news/2026/11/amnestys-secretary-general-returns-to-philippines-after-immigration-ban/
 Source meta: specialist_media · specialist · R4 · P5 · signal
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Amnesty International News [rights_humanitarian] https://www.amnesty.org/en/latest/news/2026/11/amnestys-secretary-general-returns-to-philippines-after-immigration-ban/
@@ -3383,7 +3381,7 @@ Source: Amnesty International News
 Published: 2026-11-12 12:46 UTC
 URL: https://www.amnesty.org/en/latest/news/2026/11/tunisia-authorities-must-urgently-investigate-surge-in-detainees-deaths-in-prisons/
 Source meta: specialist_media · specialist · R4 · P5 · signal
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Amnesty International News [rights_humanitarian] https://www.amnesty.org/en/latest/news/2026/11/tunisia-authorities-must-urgently-investigate-surge-in-detainees-deaths-in-prisons/
@@ -3395,7 +3393,7 @@ Source: Amnesty International News
 Published: 2026-11-12 05:57 UTC
 URL: https://www.amnesty.org/en/latest/news/2026/11/south-sudan-authorities-un-must-investigate-failure-to-protect-victims-of-abiemnom-massacre/
 Source meta: specialist_media · specialist · R4 · P5 · signal
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Amnesty International News [rights_humanitarian] https://www.amnesty.org/en/latest/news/2026/11/south-sudan-authorities-un-must-investigate-failure-to-protect-victims-of-abiemnom-massacre/
@@ -3407,7 +3405,7 @@ Source: Human Rights Watch
 Published: 2026-11-12 05:01 UTC
 URL: https://www.hrw.org/news/2026/11/12/global-treaty-needed-to-combat-autonomous-weapons-threat
 Source meta: specialist_media · specialist · R4 · P5 · signal
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Human Rights Watch [rights_humanitarian] https://www.hrw.org/news/2026/11/12/global-treaty-needed-to-combat-autonomous-weapons-threat
@@ -3419,7 +3417,7 @@ Source: Amnesty International News
 Published: 2026-11-09 20:47 UTC
 URL: https://www.amnesty.org/en/latest/news/2026/11/haiti-los-gobiernos-de-haiti-y-el-salvador-deben-garantizar-que-el-despliegue-militar-salvadoreno-respete-los-derechos-humanos/
 Source meta: specialist_media · specialist · R4 · P5 · signal
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Amnesty International News [rights_humanitarian] https://www.amnesty.org/en/latest/news/2026/11/haiti-los-gobiernos-de-haiti-y-el-salvador-deben-garantizar-que-el-despliegue-militar-salvadoreno-respete-los-derechos-humanos/
@@ -3433,7 +3431,7 @@ Source: ProPublica
 Published: 2026-11-14 10:00 UTC
 URL: https://www.propublica.org/article/draftkings-investigation-closed-account
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: ProPublica [investigations_osint] https://www.propublica.org/article/draftkings-investigation-closed-account
@@ -3445,7 +3443,7 @@ Source: ProPublica
 Published: 2026-11-13 21:50 UTC
 URL: https://www.propublica.org/article/hhs-alicia-jackson-ethics-complaint
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: ProPublica [investigations_osint] https://www.propublica.org/article/hhs-alicia-jackson-ethics-complaint
@@ -3457,7 +3455,7 @@ Source: ProPublica
 Published: 2026-11-13 11:00 UTC
 URL: https://www.propublica.org/article/georgia-election-board-cleta-mitchell-midterms
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: ProPublica [investigations_osint] https://www.propublica.org/article/georgia-election-board-cleta-mitchell-midterms
@@ -3469,7 +3467,7 @@ Source: ProPublica
 Published: 2026-11-13 10:30 UTC
 URL: https://www.propublica.org/article/followers-of-christ-faith-healing-documentary
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: ProPublica [investigations_osint] https://www.propublica.org/article/followers-of-christ-faith-healing-documentary
@@ -3481,7 +3479,7 @@ Source: ProPublica
 Published: 2026-11-13 10:00 UTC
 URL: https://www.propublica.org/article/offshore-wind-trump-connecticut-massachussetts
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: ProPublica [investigations_osint] https://www.propublica.org/article/offshore-wind-trump-connecticut-massachussetts
@@ -3493,7 +3491,7 @@ Source: ProPublica
 Published: 2026-11-12 10:00 UTC
 URL: https://projects.propublica.org/us-citizens-detained-immigration-photo-essay/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: ProPublica [investigations_osint] https://projects.propublica.org/us-citizens-detained-immigration-photo-essay/
@@ -3505,7 +3503,7 @@ Source: Bellingcat
 Published: 2026-11-05 09:46 UTC
 URL: https://www.bellingcat.com/news/2026/11/05/how-online-maps-lay-bare-the-us-military-bases-targeted-by-iran/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Bellingcat [investigations_osint] https://www.bellingcat.com/news/2026/11/05/how-online-maps-lay-bare-the-us-military-bases-targeted-by-iran/
@@ -3517,7 +3515,7 @@ Source: Bellingcat
 Published: 2026-11-02 16:11 UTC
 URL: https://www.bellingcat.com/news/2026/11/02/ai-super-pacs-political-advertising/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Bellingcat [investigations_osint] https://www.bellingcat.com/news/2026/11/02/ai-super-pacs-political-advertising/
@@ -3529,7 +3527,7 @@ Source: Bellingcat
 Published: 2026-10-29 22:15 UTC
 URL: https://www.bellingcat.com/news/2026/10/29/eu-satellite-imagery-delayed-over-gaza-and-parts-of-west-bank-by-24-hours/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Bellingcat [investigations_osint] https://www.bellingcat.com/news/2026/10/29/eu-satellite-imagery-delayed-over-gaza-and-parts-of-west-bank-by-24-hours/
@@ -3541,7 +3539,7 @@ Source: Bellingcat
 Published: 2026-10-22 11:06 UTC
 URL: https://www.bellingcat.com/resources/2026/10/22/can-llms-supercharge-geolocations-our-tests-show-big-improvements-but-humans-remain-key/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Bellingcat [investigations_osint] https://www.bellingcat.com/resources/2026/10/22/can-llms-supercharge-geolocations-our-tests-show-big-improvements-but-humans-remain-key/
@@ -3553,7 +3551,7 @@ Source: Bellingcat
 Published: 2026-10-15 10:33 UTC
 URL: https://www.bellingcat.com/news/us-canada/2026/10/15/satellite-images-show-extent-of-trump-admins-tree-felling-at-dc-golf-course/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Bellingcat [investigations_osint] https://www.bellingcat.com/news/us-canada/2026/10/15/satellite-images-show-extent-of-trump-admins-tree-felling-at-dc-golf-course/
@@ -3565,7 +3563,7 @@ Source: Bellingcat
 Published: 2026-10-06 16:00 UTC
 URL: https://www.bellingcat.com/news/2026/10/06/dafs-india-rss-donations/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Bellingcat [investigations_osint] https://www.bellingcat.com/news/2026/10/06/dafs-india-rss-donations/
@@ -3578,7 +3576,7 @@ Sign up here to receive Bellingcat’s biggest investigations by email as soon a
 Source: URL-only source / 仅网址源
 URL: https://blogs.worldbank.org/en/opendata
 Source meta: institutional · primary · R5 · P5 · reference
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -3588,7 +3586,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.investing.com/commodities/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -3598,7 +3596,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://tradingeconomics.com/commodities
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -3608,7 +3606,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://fred.stlouisfed.org/categories/32217
 Source meta: institutional · primary · R5 · P5 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -3618,7 +3616,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.imf.org/en/research/commodity-prices
 Source meta: institutional · primary · R5 · P5 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -3628,7 +3626,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.worldbank.org/en/research/commodity-markets
 Source meta: institutional · primary · R5 · P5 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -3639,7 +3637,7 @@ Source: Our World in Data
 Published: 2026-11-02 00:00 UTC
 URL: https://ourworldindata.org/around-half-of-people-will-experience-a-mental-health-issue-in-their-lifetime
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Our World in Data [prices_markets] https://ourworldindata.org/around-half-of-people-will-experience-a-mental-health-issue-in-their-lifetime
@@ -3651,7 +3649,7 @@ Source: Our World in Data
 Published: 2026-10-26 00:00 UTC
 URL: https://ourworldindata.org/how-much-development-aid-is-spent-on-climate-change
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Our World in Data [prices_markets] https://ourworldindata.org/how-much-development-aid-is-spent-on-climate-change
@@ -3663,7 +3661,7 @@ Source: Our World in Data
 Published: 2026-10-19 00:00 UTC
 URL: https://ourworldindata.org/when-do-people-experience-mental-health-conditions-for-the-first-time
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Our World in Data [prices_markets] https://ourworldindata.org/when-do-people-experience-mental-health-conditions-for-the-first-time
@@ -3675,7 +3673,7 @@ Source: Our World in Data
 Published: 2026-10-08 00:00 UTC
 URL: https://ourworldindata.org/2026-lpi-update
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Our World in Data [prices_markets] https://ourworldindata.org/2026-lpi-update
@@ -3687,7 +3685,7 @@ Source: Our World in Data
 Published: 2026-10-05 00:00 UTC
 URL: https://ourworldindata.org/what-impact-will-climate-change-have-on-malaria
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Our World in Data [prices_markets] https://ourworldindata.org/what-impact-will-climate-change-have-on-malaria
@@ -3699,7 +3697,7 @@ Source: Our World in Data
 Published: 2026-09-21 00:00 UTC
 URL: https://ourworldindata.org/how-high-is-current-immigration-to-the-united-states-in-historical-perspective
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Our World in Data [prices_markets] https://ourworldindata.org/how-high-is-current-immigration-to-the-united-states-in-historical-perspective
@@ -3712,7 +3710,7 @@ We use long-run census data to understand the scale of recent US migration trend
 Source: URL-only source / 仅网址源
 URL: https://www.carbonbrief.org/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -3722,7 +3720,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.reuters.com/business/energy/
 Source meta: wire_service · generalist · R5 · P5 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -3732,7 +3730,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.iea.org/news
 Source meta: institutional · primary · R5 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -3742,18 +3740,42 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.eia.gov/about/new/
 Source meta: newspaper_magazine · primary · R5 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
 Source homepage / 来源主页
+
+### Nvidia Without Huang: What a Pause in AI Deals Means for Metals
+Source: Oilprice.com
+Published: 2026-11-14 22:00 UTC
+URL: https://oilprice.com/Metals/Commodities/Nvidia-Without-Huang-What-a-Pause-in-AI-Deals-Means-for-Metals.html
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: Oilprice.com [energy_resources] https://oilprice.com/Metals/Commodities/Nvidia-Without-Huang-What-a-Pause-in-AI-Deals-Means-for-Metals.html
+
+Copper slid to its lowest in almost four months on Friday and was heading for a fifth straight weekly loss, with traders blaming Nvidia’s (Nasdaq: NVDA) loss of Jensen Huang for the latest leg down. The exit is a convenient culprit, but the slide started before it. Copper has dropped every week since mid-October, and Goldman Sachs called the correction a matter of positioning in AI-linked stocks, not a sign that fundamentals have loosened. Three-month copper on the London Metal Exchange was down 0.5% at $13,519 a metric ton as of 1000 GMT,…
+
+### Iran War Accelerates Southeast Asia’s Renewable Energy Push
+Source: Oilprice.com
+Published: 2026-11-14 20:00 UTC
+URL: https://oilprice.com/Energy/Energy-General/Iran-War-Accelerates-Southeast-Asias-Renewable-Energy-Push.html
+Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
+Fetched: 2026-11-14 23:33 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: Oilprice.com [energy_resources] https://oilprice.com/Energy/Energy-General/Iran-War-Accelerates-Southeast-Asias-Renewable-Energy-Push.html
+
+Several countries in Asia have recognised the need to accelerate the deployment of renewable energy to reduce reliance on fossil fuel imports and support energy diversification. The ongoing conflict in the Middle East has significantly reduced fuel trade in recent months, leading to fears of shortages as countries worldwide scramble to find different suppliers and switch to alternative energy sources. The International Energy Agency (IEA) has previously pointed out the significant potential Asia has to increase its renewable energy capacity, and…
 
 ### Singapore Makes a $65 Billion Bet on the Future of Gold
 Source: Oilprice.com
 Published: 2026-11-14 18:00 UTC
 URL: https://oilprice.com/Metals/Gold/Singapore-Makes-a-65-Billion-Bet-on-the-Future-of-Gold.html
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Oilprice.com [energy_resources] https://oilprice.com/Metals/Gold/Singapore-Makes-a-65-Billion-Bet-on-the-Future-of-Gold.html
@@ -3765,7 +3787,7 @@ Source: Oilprice.com
 Published: 2026-11-14 16:00 UTC
 URL: https://oilprice.com/Alternative-Energy/Wind-Power/Americas-Offshore-Wind-Industry-Is-Growing-Despite-Trumps-Crackdown.html
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Oilprice.com [energy_resources] https://oilprice.com/Alternative-Energy/Wind-Power/Americas-Offshore-Wind-Industry-Is-Growing-Despite-Trumps-Crackdown.html
@@ -3777,7 +3799,7 @@ Source: Oilprice.com
 Published: 2026-11-13 23:00 UTC
 URL: https://oilprice.com/Energy/Energy-General/Iran-Braces-for-a-Budget-Without-Oil-Revenue.html
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Oilprice.com [energy_resources] https://oilprice.com/Energy/Energy-General/Iran-Braces-for-a-Budget-Without-Oil-Revenue.html
@@ -3789,43 +3811,19 @@ Source: Oilprice.com
 Published: 2026-11-13 21:00 UTC
 URL: https://oilprice.com/Energy/Energy-General/Will-the-Senates-BAAJA-Bill-Let-AI-Giants-Outmuscle-Utilities.html
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Oilprice.com [energy_resources] https://oilprice.com/Energy/Energy-General/Will-the-Senates-BAAJA-Bill-Let-AI-Giants-Outmuscle-Utilities.html
 
 Yesterday the US Senate approved a preliminary version of a bill, the Bipartisan Affordability and Jobs Act, commonly referred to as BAAJA. We previously published an article in Oilprice titled, “The AI Power Grab That Could Upend America’s Utility Industry.” Our thesis was simple. Today’s AI giants (we referred to them as T-Rexes because economically they are akin to apex predators), thanks to their enormous size and political influence, will be permitted to build whatever electric power generating facilities they choose,…
 
-### Trump Extends Jones Act Waiver For Another 90 Days
-Source: Oilprice.com
-Published: 2026-11-13 19:30 UTC
-URL: https://oilprice.com/Latest-Energy-News/World-News/Trump-Extends-Jones-Act-Waiver-For-Another-90-Days.html
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: Oilprice.com [energy_resources] https://oilprice.com/Latest-Energy-News/World-News/Trump-Extends-Jones-Act-Waiver-For-Another-90-Days.html
-
-President Donald Trump extended the Jones Act waiver for another 90 days on Friday, keeping foreign-flagged tankers eligible to move oil and other commodities between U.S. ports as the war with Iran continues to drive up fuel costs. The extension, confirmed by a White House official who spoke to Reuters, continues what is already the longest waiver in the shipping law's history. Foreign vessels will still need approval for individual voyages due to a restriction introduced in August after earlier blanket exemptions drew opposition from the domestic…
-
-### Beijing Turns to Soft Power as Washington Expands Central Asia Ties
-Source: Oilprice.com
-Published: 2026-11-13 19:00 UTC
-URL: https://oilprice.com/Geopolitics/Asia/Beijing-Turns-to-Soft-Power-as-Washington-Expands-Central-Asia-Ties.html
-Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: Oilprice.com [energy_resources] https://oilprice.com/Geopolitics/Asia/Beijing-Turns-to-Soft-Power-as-Washington-Expands-Central-Asia-Ties.html
-
-China is responding to a successful US push to raise its trade profile in Central Asia by launching a far-reaching information campaign to sway hearts and minds in Central Asia’s most populous state. In late October and early November, CGTN, China’s international broadcaster operated by the Communist Party’s Central Propaganda Department, sponsored an unprecedented information campaign touting the PRC’s expansive ties with Uzbekistan. The PR blitz included roughly 70 articles and videos published in the Uzbek and Russian…
-
 ### Hydropower generation in the Southwest fell to record lows this summer
 Source: EIA Today in Energy
 Published: 2026-11-13 14:00 UTC
 URL: https://www.eia.gov/todayinenergy/detail.php?id=68445
 Source meta: newspaper_magazine · primary · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: EIA Today in Energy [energy_resources] https://www.eia.gov/todayinenergy/detail.php?id=68445
@@ -3837,7 +3835,7 @@ Source: EIA Today in Energy
 Published: 2026-11-12 14:00 UTC
 URL: https://www.eia.gov/todayinenergy/detail.php?id=68444
 Source meta: newspaper_magazine · primary · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: EIA Today in Energy [energy_resources] https://www.eia.gov/todayinenergy/detail.php?id=68444
@@ -3849,7 +3847,7 @@ Source: EIA Today in Energy
 Published: 2026-11-06 14:00 UTC
 URL: https://www.eia.gov/todayinenergy/detail.php?id=68425
 Source meta: newspaper_magazine · primary · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: EIA Today in Energy [energy_resources] https://www.eia.gov/todayinenergy/detail.php?id=68425
@@ -3861,7 +3859,7 @@ Source: EIA Today in Energy
 Published: 2026-11-05 14:00 UTC
 URL: https://www.eia.gov/todayinenergy/detail.php?id=68424
 Source meta: newspaper_magazine · primary · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: EIA Today in Energy [energy_resources] https://www.eia.gov/todayinenergy/detail.php?id=68424
@@ -3873,7 +3871,7 @@ Source: EIA Today in Energy
 Published: 2026-11-03 14:00 UTC
 URL: https://www.eia.gov/todayinenergy/detail.php?id=68404
 Source meta: newspaper_magazine · primary · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: EIA Today in Energy [energy_resources] https://www.eia.gov/todayinenergy/detail.php?id=68404
@@ -3885,7 +3883,7 @@ Source: EIA Today in Energy
 Published: 2026-10-30 14:00 UTC
 URL: https://www.eia.gov/todayinenergy/detail.php?id=68384
 Source meta: newspaper_magazine · primary · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: EIA Today in Energy [energy_resources] https://www.eia.gov/todayinenergy/detail.php?id=68384
@@ -3898,7 +3896,7 @@ Utility-scale solar developers are increasingly co-locating battery storage with
 Source: URL-only source / 仅网址源
 URL: https://www.world-grain.com/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -3908,7 +3906,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.foodbusinessnews.net/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -3918,7 +3916,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.usda.gov/oce/commodity/wasde
 Source meta: newspaper_magazine · primary · R5 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -3928,7 +3926,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.ers.usda.gov/
 Source meta: newspaper_magazine · primary · R5 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -3938,7 +3936,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.fao.org/giews/food-prices/home/en/
 Source meta: institutional · primary · R5 · P5 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -3948,7 +3946,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.fao.org/worldfoodsituation/foodpricesindex/en/
 Source meta: institutional · primary · R5 · P5 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -3960,7 +3958,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.numbeo.com/cost-of-living/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -3970,7 +3968,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.apartmentlist.com/research
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -3980,7 +3978,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.zillow.com/research/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -3990,7 +3988,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://fred.stlouisfed.org/categories/9
 Source meta: institutional · primary · R5 · P5 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -4000,7 +3998,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.bls.gov/cpi/factsheets/average-prices.htm
 Source meta: newspaper_magazine · primary · R5 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -4012,7 +4010,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.logisticsmgmt.com/
 Source meta: trade_publication · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: empty_feed
 
@@ -4022,7 +4020,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.scmr.com/
 Source meta: trade_publication · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: empty_feed
 
@@ -4032,7 +4030,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.wto.org/english/news_e/news_e.htm
 Source meta: institutional · primary · R5 · P5 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: empty_feed
 
@@ -4042,7 +4040,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.porttechnology.org/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -4052,7 +4050,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.supplychaindive.com/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -4062,7 +4060,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://gcaptain.com/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -4073,7 +4071,7 @@ Source: The Loadstar
 Published: 2026-11-14 09:02 UTC
 URL: https://theloadstar.com/the-3pl-reality-check-bigger-better-or-just-more-complicated/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Loadstar [supply_chains_trade] https://theloadstar.com/the-3pl-reality-check-bigger-better-or-just-more-complicated/
@@ -4085,7 +4083,7 @@ Source: The Loadstar
 Published: 2026-11-13 22:56 UTC
 URL: https://theloadstar.com/cnn-faa-issues-nationwide-ground-stop-for-all-flights/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Loadstar [supply_chains_trade] https://theloadstar.com/cnn-faa-issues-nationwide-ground-stop-for-all-flights/
@@ -4097,7 +4095,7 @@ Source: FreightWaves
 Published: 2026-11-13 22:27 UTC
 URL: https://www.freightwaves.com/news/denial-of-funds-to-ny-over-non-domiciled-cdls-overturned-appellate-court
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: FreightWaves [supply_chains_trade] https://www.freightwaves.com/news/denial-of-funds-to-ny-over-non-domiciled-cdls-overturned-appellate-court
@@ -4109,7 +4107,7 @@ Source: FreightWaves
 Published: 2026-11-13 21:25 UTC
 URL: https://www.freightwaves.com/news/tanker-strikes-cruise-riverboat-in-new-orleans
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: FreightWaves [supply_chains_trade] https://www.freightwaves.com/news/tanker-strikes-cruise-riverboat-in-new-orleans
@@ -4121,7 +4119,7 @@ Source: FreightWaves
 Published: 2026-11-13 21:11 UTC
 URL: https://www.freightwaves.com/news/ai-cargo-thefts-top-150-million-from-june-2025-to-june-2026
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: FreightWaves [supply_chains_trade] https://www.freightwaves.com/news/ai-cargo-thefts-top-150-million-from-june-2025-to-june-2026
@@ -4133,7 +4131,7 @@ Source: FreightWaves
 Published: 2026-11-13 20:18 UTC
 URL: https://www.freightwaves.com/news/trailer-flexibility-is-becoming-a-growth-strategy-for-carriers
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: FreightWaves [supply_chains_trade] https://www.freightwaves.com/news/trailer-flexibility-is-becoming-a-growth-strategy-for-carriers
@@ -4145,7 +4143,7 @@ Source: FreightWaves
 Published: 2026-11-13 19:48 UTC
 URL: https://www.freightwaves.com/news/trucking-recession-continues-why-carriers-face-layoffs-and-bankruptcies
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: FreightWaves [supply_chains_trade] https://www.freightwaves.com/news/trucking-recession-continues-why-carriers-face-layoffs-and-bankruptcies
@@ -4157,7 +4155,7 @@ Source: FreightWaves
 Published: 2026-11-13 19:48 UTC
 URL: https://www.freightwaves.com/news/freightos-founder-accuses-company-of-rigging-proxy-vote-as-company-opposes-his-proposals
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: FreightWaves [supply_chains_trade] https://www.freightwaves.com/news/freightos-founder-accuses-company-of-rigging-proxy-vote-as-company-opposes-his-proposals
@@ -4169,7 +4167,7 @@ Source: The Loadstar
 Published: 2026-11-13 18:09 UTC
 URL: https://theloadstar.com/techcrunch-uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Loadstar [supply_chains_trade] https://theloadstar.com/techcrunch-uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/
@@ -4181,7 +4179,7 @@ Source: The Loadstar
 Published: 2026-11-13 17:12 UTC
 URL: https://theloadstar.com/cma-cgm-q3-26-update-out-ocean-outperforms-ceva-a-mixed-bag/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Loadstar [supply_chains_trade] https://theloadstar.com/cma-cgm-q3-26-update-out-ocean-outperforms-ceva-a-mixed-bag/
@@ -4193,7 +4191,7 @@ Source: The Loadstar
 Published: 2026-11-13 13:06 UTC
 URL: https://theloadstar.com/blanked-sailings-on-the-rise-with-container-spot-rates-on-a-gentle-decline/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Loadstar [supply_chains_trade] https://theloadstar.com/blanked-sailings-on-the-rise-with-container-spot-rates-on-a-gentle-decline/
@@ -4205,7 +4203,7 @@ Source: The Loadstar
 Published: 2026-11-13 11:58 UTC
 URL: https://theloadstar.com/pinglu-canal-fuels-nanning-ambition-to-be-an-asean-logistics-hub/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Loadstar [supply_chains_trade] https://theloadstar.com/pinglu-canal-fuels-nanning-ambition-to-be-an-asean-logistics-hub/
@@ -4218,7 +4216,7 @@ Nanning is seeking to transform itself from an inland Chinese city into an inter
 Source: URL-only source / 仅网址源
 URL: https://blogs.worldbank.org/en
 Source meta: institutional · primary · R5 · P5 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -4228,7 +4226,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://hbr.org/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -4238,7 +4236,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.businessoffashion.com/
 Source meta: trade_publication · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: status: reviewed; checked: 2026-10-30; scope: 时尚、美容与奢侈品行业报道及分析; identity: 官方定位为面向时尚与美容产业的媒体与行业信息公司。; reliability: R4：公开编辑独立、商业内容标示与利益冲突规则；这支持专业报道用途，但不是事实无误保证。; professional_value: P4：提供产业经营与供应链视角。; evidence: ['https://www.businessoffashion.com/about-us/', 'https://www.businessoffashion.com/our-journalism/']; limitations: 区分新闻、分析与赞助内容；商业预测需交叉核验。; access: 保留已有 RSS；只取其返回的标题和摘要，不绕过订阅限制。
 Fetch status: fetch_failed
 
@@ -4248,7 +4246,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.modernretail.co/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -4258,7 +4256,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.retaildive.com/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -4268,7 +4266,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.marketplace.org/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -4280,7 +4278,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.brookings.edu/topic/economics/
 Source meta: specialist_media · specialist · R4 · P5 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: empty_feed
 
@@ -4290,7 +4288,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.oecd.org/newsroom/
 Source meta: institutional · primary · R5 · P5 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -4300,7 +4298,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.lesechos.fr/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -4310,7 +4308,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.handelsblatt.com/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -4320,7 +4318,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.caixinglobal.com/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -4330,7 +4328,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://asia.nikkei.com/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -4340,7 +4338,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.ecb.europa.eu/
 Source meta: institutional · primary · R5 · P5 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -4350,7 +4348,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://cepr.org/research/discussion-papers
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -4360,7 +4358,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.reuters.com/markets/
 Source meta: wire_service · generalist · R5 · P5 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -4370,7 +4368,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.bloomberg.com/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -4380,7 +4378,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.wsj.com/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -4390,7 +4388,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.ft.com/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -4400,7 +4398,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.imf.org/en/Blogs
 Source meta: institutional · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -4410,7 +4408,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.bis.org/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -4421,7 +4419,7 @@ Source: Financial Times Markets
 Published: 2026-11-14 13:00 UTC
 URL: https://www.ft.com/content/ada459c4-5f43-4a4a-bc6c-90de8897a4f0?syn-25a6b1a6=1
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Financial Times Markets [money_finance] https://www.ft.com/content/ada459c4-5f43-4a4a-bc6c-90de8897a4f0?syn-25a6b1a6=1
@@ -4433,7 +4431,7 @@ Source: Financial Times Markets
 Published: 2026-11-14 10:30 UTC
 URL: https://www.ft.com/content/936376d1-4a69-4a3c-8975-3c55e9cb9d42?syn-25a6b1a6=1
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Financial Times Markets [money_finance] https://www.ft.com/content/936376d1-4a69-4a3c-8975-3c55e9cb9d42?syn-25a6b1a6=1
@@ -4445,7 +4443,7 @@ Source: Financial Times Markets
 Published: 2026-11-14 05:00 UTC
 URL: https://www.ft.com/content/7c60b026-23ff-4b50-8a2b-7e9614ef7970
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Financial Times Markets [money_finance] https://www.ft.com/content/7c60b026-23ff-4b50-8a2b-7e9614ef7970
@@ -4457,7 +4455,7 @@ Source: Financial Times Markets
 Published: 2026-11-14 05:00 UTC
 URL: https://www.ft.com/content/b5bdf7c5-242b-4078-b3fd-a86b488d5a3a
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Financial Times Markets [money_finance] https://www.ft.com/content/b5bdf7c5-242b-4078-b3fd-a86b488d5a3a
@@ -4469,7 +4467,7 @@ Source: Financial Times Markets
 Published: 2026-11-14 05:00 UTC
 URL: https://www.ft.com/content/1505df5d-14e0-4095-8a88-fd23a165a821?syn-25a6b1a6=1
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Financial Times Markets [money_finance] https://www.ft.com/content/1505df5d-14e0-4095-8a88-fd23a165a821?syn-25a6b1a6=1
@@ -4481,7 +4479,7 @@ Source: Financial Times Markets
 Published: 2026-11-14 05:00 UTC
 URL: https://www.ft.com/content/3f89c87c-4bc4-40db-8c15-1957079917f3?syn-25a6b1a6=1
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Financial Times Markets [money_finance] https://www.ft.com/content/3f89c87c-4bc4-40db-8c15-1957079917f3?syn-25a6b1a6=1
@@ -4493,7 +4491,7 @@ Source: CEPR VoxEU
 Published: 2026-11-14 00:00 UTC
 URL: https://cepr.org/voxeu/columns/macroeconomic-effects-rare-earth-supply-disruptions
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: CEPR VoxEU [money_finance] https://cepr.org/voxeu/columns/macroeconomic-effects-rare-earth-supply-disruptions
@@ -4505,7 +4503,7 @@ Source: Federal Reserve Press Releases
 Published: 2026-11-13 21:15 UTC
 URL: https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm
 Source meta: newspaper_magazine · primary · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Federal Reserve Press Releases [money_finance] https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm
@@ -4517,7 +4515,7 @@ Source: Bank of England News
 Published: 2026-11-13 09:00 UTC
 URL: https://www.bankofengland.co.uk/news/2026/november/the-boe-monetary-authority-of-singapore-and-bank-of-thailand-media-release
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Bank of England News [money_finance] https://www.bankofengland.co.uk/news/2026/november/the-boe-monetary-authority-of-singapore-and-bank-of-thailand-media-release
@@ -4529,7 +4527,7 @@ Source: CEPR VoxEU
 Published: 2026-11-13 00:00 UTC
 URL: https://cepr.org/multimedia/inflation-and-polarisation-reality
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: CEPR VoxEU [money_finance] https://cepr.org/multimedia/inflation-and-polarisation-reality
@@ -4541,7 +4539,7 @@ Source: CEPR VoxEU
 Published: 2026-11-13 00:00 UTC
 URL: https://cepr.org/voxeu/columns/ai-and-geography-expert-work-evidence-radiology
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: CEPR VoxEU [money_finance] https://cepr.org/voxeu/columns/ai-and-geography-expert-work-evidence-radiology
@@ -4553,7 +4551,7 @@ Source: CEPR VoxEU
 Published: 2026-11-13 00:00 UTC
 URL: https://cepr.org/voxeu/columns/transportation-bottlenecks-and-aggregate-shocks
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: CEPR VoxEU [money_finance] https://cepr.org/voxeu/columns/transportation-bottlenecks-and-aggregate-shocks
@@ -4565,7 +4563,7 @@ Source: Federal Reserve Press Releases
 Published: 2026-11-12 18:30 UTC
 URL: https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm
 Source meta: newspaper_magazine · primary · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Federal Reserve Press Releases [money_finance] https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm
@@ -4577,7 +4575,7 @@ Source: Federal Reserve Press Releases
 Published: 2026-11-12 17:45 UTC
 URL: https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm
 Source meta: newspaper_magazine · primary · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Federal Reserve Press Releases [money_finance] https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm
@@ -4589,7 +4587,7 @@ Source: Federal Reserve Press Releases
 Published: 2026-11-12 16:00 UTC
 URL: https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm
 Source meta: newspaper_magazine · primary · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Federal Reserve Press Releases [money_finance] https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm
@@ -4601,7 +4599,7 @@ Source: CEPR VoxEU
 Published: 2026-11-12 00:00 UTC
 URL: https://cepr.org/voxeu/columns/ai-master-and-commander-lessons-graduate-student-projects-and-need-ai-enriched
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: CEPR VoxEU [money_finance] https://cepr.org/voxeu/columns/ai-master-and-commander-lessons-graduate-student-projects-and-need-ai-enriched
@@ -4613,7 +4611,7 @@ Source: CEPR VoxEU
 Published: 2026-11-12 00:00 UTC
 URL: https://cepr.org/voxeu/columns/reading-economy-earnings-calls-generative-ai
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: CEPR VoxEU [money_finance] https://cepr.org/voxeu/columns/reading-economy-earnings-calls-generative-ai
@@ -4625,7 +4623,7 @@ Source: Bank of England News
 Published: 2026-11-10 12:00 UTC
 URL: https://www.bankofengland.co.uk/letter/2026/asset-purchase-facility-november-2026
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Bank of England News [money_finance] https://www.bankofengland.co.uk/letter/2026/asset-purchase-facility-november-2026
@@ -4637,7 +4635,7 @@ Source: Federal Reserve Press Releases
 Published: 2026-11-09 21:00 UTC
 URL: https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm
 Source meta: newspaper_magazine · primary · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Federal Reserve Press Releases [money_finance] https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm
@@ -4649,7 +4647,7 @@ Source: Federal Reserve Press Releases
 Published: 2026-11-05 16:00 UTC
 URL: https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm
 Source meta: newspaper_magazine · primary · R5 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Federal Reserve Press Releases [money_finance] https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm
@@ -4661,7 +4659,7 @@ Source: Bank of England News
 Published: 2026-11-05 12:00 UTC
 URL: https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Bank of England News [money_finance] https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026
@@ -4673,7 +4671,7 @@ Source: Bank of England News
 Published: 2026-11-04 14:51 UTC
 URL: https://www.bankofengland.co.uk/minutes/2026/october/rtgs-chaps-industry-forum-13-october-2026
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Bank of England News [money_finance] https://www.bankofengland.co.uk/minutes/2026/october/rtgs-chaps-industry-forum-13-october-2026
@@ -4685,7 +4683,7 @@ Source: Bank of England News
 Published: 2026-11-03 10:00 UTC
 URL: https://www.bankofengland.co.uk/news/2026/november/regulators-explore-credit-union-reforms-to-support-growth-innovation-and-better-outcomes-for-members
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Bank of England News [money_finance] https://www.bankofengland.co.uk/news/2026/november/regulators-explore-credit-union-reforms-to-support-growth-innovation-and-better-outcomes-for-members
@@ -4697,7 +4695,7 @@ Source: Bank of England News
 Published: 2026-10-29 14:00 UTC
 URL: https://www.bankofengland.co.uk/minutes/2026/september/court-minutes-17-september-2026
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Bank of England News [money_finance] https://www.bankofengland.co.uk/minutes/2026/september/court-minutes-17-september-2026
@@ -4709,7 +4707,7 @@ Source: NBER
 Published: Publication date unknown / 发布日期未知
 URL: https://www.nber.org/papers/w35984#fromrss
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: NBER [money_finance] https://www.nber.org/papers/w35984#fromrss
@@ -4721,7 +4719,7 @@ Source: NBER
 Published: Publication date unknown / 发布日期未知
 URL: https://www.nber.org/papers/w35985#fromrss
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: NBER [money_finance] https://www.nber.org/papers/w35985#fromrss
@@ -4733,7 +4731,7 @@ Source: NBER
 Published: Publication date unknown / 发布日期未知
 URL: https://www.nber.org/papers/w35986#fromrss
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: NBER [money_finance] https://www.nber.org/papers/w35986#fromrss
@@ -4745,7 +4743,7 @@ Source: NBER
 Published: Publication date unknown / 发布日期未知
 URL: https://www.nber.org/papers/w35987#fromrss
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: NBER [money_finance] https://www.nber.org/papers/w35987#fromrss
@@ -4757,7 +4755,7 @@ Source: NBER
 Published: Publication date unknown / 发布日期未知
 URL: https://www.nber.org/papers/w35988#fromrss
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: NBER [money_finance] https://www.nber.org/papers/w35988#fromrss
@@ -4769,7 +4767,7 @@ Source: NBER
 Published: Publication date unknown / 发布日期未知
 URL: https://www.nber.org/papers/w35989#fromrss
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:33 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: NBER [money_finance] https://www.nber.org/papers/w35989#fromrss
@@ -4782,7 +4780,7 @@ We study California's short-term lodging price transparency law (AB 537), which 
 Source: URL-only source / 仅网址源
 URL: https://kottke.org/
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -4792,7 +4790,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://medium.com/tag/staff-picks
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -4802,7 +4800,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://on.substack.com/p/reads
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -4812,7 +4810,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: http://www.openculture.com/
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -4822,7 +4820,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.bostonreview.net/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: empty_feed
 
@@ -4832,7 +4830,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://comment.org
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -4842,7 +4840,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.thefp.com/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -4852,7 +4850,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://academyofideas.com
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -4862,7 +4860,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://thephilosophicalsalon.com
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -4872,102 +4870,114 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.316am.site
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Observed: 2026-11-14 19:38 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
 Source homepage / 来源主页
+
+### Don't Use "Neglected" as a Synonym for "Useless"
+Source: LessWrong
+Published: 2026-11-14 22:30 UTC
+URL: https://www.lesswrong.com/posts/5rMRPZ4X5PziRHEQ9/don-t-use-neglected-as-a-synonym-for-useless
+Source meta: culture_magazine · commentary · R4 · P4 · baseline
+Fetched: 2026-11-14 23:34 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: LessWrong [public_ideas] https://www.lesswrong.com/posts/5rMRPZ4X5PziRHEQ9/don-t-use-neglected-as-a-synonym-for-useless
+
+[This is the third post in my thirty-day writing challenge where I publish one blog post daily. Tune in for more if you enjoy the post!] There is a funny word that is almost exclusive to the vernacular of the EA community, and this word bestows downright magical powers on its users. The word I’m talking about is neglected. I view this word as a sort of “Get Out of Jail Free” card for doing the most useless things you’ve ever heard of. Something that will happen to you if you go to parties in SF is that people will tell you what they do, and their statements will almost always be very interesting. And sometimes, you will hear something like this: “I run a startup making fur-lined boots for honey bees. As it turns out, honey bees get really cold feet in the winter, and this diminishes their well-being by around 20%. Since there are so many honey bees, and because there are tons of butterfly effects from honey bees being happier, this would produce a sizable—but not enormous—positive good for the world. And it’s a really neglected problem, so I think it’s a pretty good use of my time.
+
+### Be Grateful in Spite of Your Suffering
+Source: LessWrong
+Published: 2026-11-14 22:16 UTC
+URL: https://www.lesswrong.com/posts/uJma5Hygyj6bHwwSn/be-grateful-in-spite-of-your-suffering
+Source meta: culture_magazine · commentary · R4 · P4 · baseline
+Fetched: 2026-11-14 23:34 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: LessWrong [public_ideas] https://www.lesswrong.com/posts/uJma5Hygyj6bHwwSn/be-grateful-in-spite-of-your-suffering
+
+I've been in tremendous pain lately. My body is shutting down. I haven't slept properly in months. I've lost 15lbs because my appetite disappeared. Yet, throughout it all, I'm trying to remember to be grateful in spite of my suffering. When life flips the coin of fate and it lands on the side of darkness, all I want to do is protest, to shake my fist at God and shout, “Why, why, why hath thou forsaken me?” And when my cries go unanswered, and I'm left at the bottom of an abyss shivering and shaking to stay warm, I try to remember that with every darkness that visits me, if I find the strength and courage even when I'm at the end of my rope, I can flip over the coin of fate and find the sliver of light dimly shining and attempting to pierce the darkness. I try to remember to be grateful in spite of my suffering. Swords are made by putting them through fire and then beating them relentlessly. Unrefined chunks of iron ore, transformed into sleek and refined blades, capable of cutting through those who dare to stand in its way.
+
+### Should prices sum to $1 for undecidable sentences?
+Source: LessWrong
+Published: 2026-11-14 21:38 UTC
+URL: https://www.lesswrong.com/posts/59QxAMsnbrEQur2Py/should-prices-sum-to-usd1-for-undecidable-sentences-1
+Source meta: culture_magazine · commentary · R4 · P4 · baseline
+Fetched: 2026-11-14 23:34 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: LessWrong [public_ideas] https://www.lesswrong.com/posts/59QxAMsnbrEQur2Py/should-prices-sum-to-usd1-for-undecidable-sentences-1
+
+Previously: Logical Share Splitting, Logical Share Splitting for Intuitionists Recap: This series is about prediction markets for mathematics. Imagine a game where players trade tickets with mathematical sentences written on them. A ticket is redeemable for $1 if you can demonstrate a proof of the sentence written on it. (A ticket is like a prediction market share in that sentence.) In this system, it's also allowable to exchange a ticket for another ticket with a logically equivalent sentence written on it, if you can demonstrate a proof of that logical equivalence. (Actually, this rule can be made even more permissive if we like: It's allowable to exchange an ticket for a ticket if . That way if your newly obtained ticket is worth anything, we know that the ticket would have been worth at least as much, and therefore your wealth either stayed the same or declined. As ticket Czars, this is very reassuring to us, because we certainly would not want for you to have gained wealth at our own expense. That kind of thing is supposed to be reserved for your interactions with other traders.
+
+### Transcript: Yudkowsky & Irving debate scalable oversight
+Source: LessWrong
+Published: 2026-11-14 19:53 UTC
+URL: https://www.lesswrong.com/posts/Cssj22TretAQQajZ4/transcript-yudkowsky-and-irving-debate-scalable-oversight
+Source meta: culture_magazine · commentary · R4 · P4 · baseline
+Fetched: 2026-11-14 23:34 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: LessWrong [public_ideas] https://www.lesswrong.com/posts/Cssj22TretAQQajZ4/transcript-yudkowsky-and-irving-debate-scalable-oversight
+
+In August 2026 Eliezer Yudkowsky and Geoffrey Irving had a 90-minute debate at the ILIAD III Conference. You can watch the "Fixed Audio"-version on YouTube. They first identify their disagreements like How hard is superalignment? and discuss the theory of impact of Irving's new organization Resolution. They then go into depth on scalable oversight. Epistemic Effort: I transcribed the audio using 5 services and merged those using Claude Fable 5.1. Then I spent ~6 hours carefully reviewing and editing the transcript. (I also added links and [disagreement which they indicated non-verbally]. Subheadings by Claude Fable 5.2.) Introductions Yudkowsky [00:00]: Hi, I'm Eliezer, well-known Harry Potter fan fiction author. [cheering] [laughter] Irving [00:10]: I'm Geoffrey Irving. I'm now the chief scientist at Resolution. I was at, for better or worse, various labs before, and also AISI. Audience member: And Pixar. Irving: And Pixar. [laughter] Survey of disagreements Yudkowsky: So we're going to try to resolve all of our open disagreements over the course of the next hour.
 
 ### Outer space is not consistently big
 Source: LessWrong
 Published: 2026-11-14 19:25 UTC
 URL: https://www.lesswrong.com/posts/2zyskdas6TsL9dqNg/outer-space-is-not-consistently-big
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: LessWrong [public_ideas] https://www.lesswrong.com/posts/2zyskdas6TsL9dqNg/outer-space-is-not-consistently-big
 
 Space is big. You just won't believe how vastly, hugely, mind-bogglingly big it is. I mean, you may think it's a long way down the road to the chemist's, but that's just peanuts to space. — The Hitchhiker's Guide to the Galaxy When we say "space is big", it's partly meant as a correction to images like this: Wikimedia source. where, for simplicity, celestial objects are shown in unrealistically close proximity—like Jupiter is just down the hall from Mars. As we all know, the planets of the solar system are actually really far apart, even relative to their huge size. In Sweden's 1:20,000,000 to-scale solar system model, Earth and Venus are just ~2 feet in diameter, yet over a mile apart. In other terms, they're several thousand "Earth-widths" apart: Horizontal distance not to scale, wouldn't fit on screen. And we all know that's just the start of it: the stars are incredibly far apart. Finland also has a to-scale model of the solar system, but it's 150x more condensed than Sweden's at 1:3,000,000,000.[1] Its model of our sun, Sol, is just ~1.5 feet in diameter.
 
-### Understanding the Linear Representation Hypothesis
-Source: LessWrong
-Published: 2026-11-14 17:02 UTC
-URL: https://www.lesswrong.com/posts/a3GE394ucG8guj5Sy/understanding-the-linear-representation-hypothesis
+### Embrace Your Obsessions: Susan Orlean on the Antidote to the Meaninglessness of Life
+Source: The Marginalian
+Published: 2026-11-14 14:31 UTC
+URL: https://www.themarginalian.org/2026/11/14/susan-orlean-orchid-thief/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
-Attribution: LessWrong [public_ideas] https://www.lesswrong.com/posts/a3GE394ucG8guj5Sy/understanding-the-linear-representation-hypothesis
+Attribution: The Marginalian [public_ideas] https://www.themarginalian.org/2026/11/14/susan-orlean-orchid-thief/
 
-This post draws heavily from "A Survey on the Linear Representation Hypothesis", and "Do Not Rely on the Linear Representation Hypothesis". I really enjoyed reading them and would recommend you read them too. If you must pick one, Do Not Rely is shorter and has some fun results, although I am a bit sceptical. I tried to summarise and synthesise the two, primarily for my own learning. I'd appreciate feedback, and will update this post if I have made mistakes or read something which changes my understanding. what is the linear representation hypothesis? Matrix multiplication is one of the fundamental building blocks of neural networks. It's really easy to stretch and rotate specific directions with matmuls, so it seems like models might use linear representations. Briefly and informally, the linear representation hypothesis (LRH) posits that neural networks represent "concepts" with 1D subspaces - directions - of their activation space.
+Every great book, whatever its subject or genre or style, is about one thing only: the eternal question of what gives meaning to our tiny, transient lives. And every answer given, however faintly whispered, points to one thing only: the quality of attention we pay to those lives. If attention is the lever of love, the particular — the sacred specificity of something small and singular, something easy to overlook — is its fulcrum. “Love quells fear,” Octavia Butler wrote in contemplating creativity, “and a sweet and powerful positive obsession blunts pain, diverts rage, and engages each of us in… read article
 
 ### RL Reward-Hack Auditing for Chinese AI Safety
 Source: LessWrong
 Published: 2026-11-14 13:04 UTC
 URL: https://www.lesswrong.com/posts/jwCPQhLWbWnwMhHME/rl-reward-hack-auditing-for-chinese-ai-safety
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: LessWrong [public_ideas] https://www.lesswrong.com/posts/jwCPQhLWbWnwMhHME/rl-reward-hack-auditing-for-chinese-ai-safety
 
 TL;DR: Access to AI safety talent & resources, particularly for labs during training, is sorely lacking in China. We created one of the largest AI safety communities in China, and plan to next start with auditing reward-hacks of unreliable upstream RL environments that domestic data vendors provide to Chinese frontier labs (which induces reward hacking and a whole host of dangerous downstream tendencies). RL tasks are notoriously prone to exploitation by reward-seeking agents (see examples here, here, and here). In Xiaomi's MiMo v2.6 RL environments that were open-sourced, 2/3 had leaks on Git logs. There's a few clusters of common pitfalls that environments run into, but overall things evolve quickly. From our conversations with employees, CN labs typically don't divert enough people to this particular area, especially since project leads would want senior researchers to work on capabilities research, and because slowing down the development cycle is widely seen as too costly.
 
-### Mathematicians: Let’s Surf This Wave
-Source: LessWrong
-Published: 2026-11-14 12:42 UTC
-URL: https://www.lesswrong.com/posts/proLpz7k8XFLT5yaw/mathematicians-let-s-surf-this-wave
-Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: LessWrong [public_ideas] https://www.lesswrong.com/posts/proLpz7k8XFLT5yaw/mathematicians-let-s-surf-this-wave
-
-This post was written by Michael Freedman (Harvard CMSA & Logical Intelligence), and typeset by Milo Moses. Frontier models exhibit astonishing mathematical knowledge and power despite being in their infancy. They will surely strengthen further through routine maturation of the technology, and quite likely through future paradigm shifts in architecture and training. Where does this leave the human mathematician? Already, it has made us study harder than we have since school. The AIs speak to us in a broad language, equally at home in all fields, and we scurry to keep up. So those of us (not me) who were great students, are back in their natural environment, learning, interpreting, organizing knowledge as it flows in. The challenge of absorbing this knowledge will make good teachers into great ones. But what about those whose lives revolved around quiet hours struggling with an open problem, where do we go? My advice: lean in, let the AI’s teach you everything they can about the problem and its context; push them until they are stuck.
-
-### Datasets Determine the Difficulty of Interpretability
-Source: LessWrong
-Published: 2026-11-14 08:57 UTC
-URL: https://www.lesswrong.com/posts/EMKRpxKswPZEbP8ey/datasets-determine-the-difficulty-of-interpretability
-Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: LessWrong [public_ideas] https://www.lesswrong.com/posts/EMKRpxKswPZEbP8ey/datasets-determine-the-difficulty-of-interpretability
-
-Recently Goodfire has come out swinging with two posts indicating that neurons in transformers are "more interpretable than previously assumed", or simply "already clean". In the "Neurons as Interpretable Basis" post they offer three reasons for this claim: First, neurons are already functionally sparse - pruning 92 % of the weakest MoE neuron activations only increases the loss by 2.9% Second, the role of a neuron can be split into different "computational functions". Effectively, we can name the contexts in which a neuron fires, and assign reasons to those firings. Most neurons only have one context-reason grouping. Finally, we can produce automated natural language explanations of neuron firings that are predictive of their behaviour. First, I would like to congratulate them for their detailed work and breakdown, complete with well-designed graphics. I found the work interesting and very well thought through.
-
 ### Listen: The imperfect world of pulsars
 Source: Big Think
 Published: 2026-11-14 07:08 UTC
 URL: https://bigthink.com/starts-with-a-bang/listen-imperfect-world-pulsars/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Big Think [public_ideas] https://bigthink.com/starts-with-a-bang/listen-imperfect-world-pulsars/
 
 Here in the Universe, there are a few things that are as close-to-perfect as can be. The Sun, for instance is the roundest object in the Universe, but other stars are rounder, with white dwarfs and neutron stars exhibiting even more perfectly roundness. Meanwhile, in terms of keeping time, we might think of the spinning Earth as a wonderful clock — after all, we base our calendar off of it — but the Earth spins down over time and changes its distance from the Sun: both factors that lead to it being rather imperfect as a timekeeper, especially over the long run. For keeping time, it turns out that the best natural clocks in the Universe are millisecond pulsars. It’s possible to look at a millisecond pulsar, measure its timing, and then look away for extremely long periods of time, like perhaps a year, and then when you return to it, know whether a billion pulses have elapsed or a billion-and-one pulses have elapsed.
 
-### Ralph Page on Live Music
-Source: LessWrong
-Published: 2026-11-14 03:50 UTC
-URL: https://www.lesswrong.com/posts/NGnHe8EAsScC6R3Lm/ralph-page-on-live-music
-Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: LessWrong [public_ideas] https://www.lesswrong.com/posts/NGnHe8EAsScC6R3Lm/ralph-page-on-live-music
-
-Ralph Page was a very influential dance caller who published Northern Junket, a square dance magazine. This was "square dance" in the broad sense, before the club and trad communities divided, and while he came from a strong live music tradition he was living through the transition to recorded music. I looked through the Northern Junket archives to see his perspective on live music, and I came across a few passages that show the wave of the contra dance revival sweeping across New England in the early 1970s. In Vol 9 No 8 (1969), Page is writing about live music as something so rare that most haven't danced to it. An evening dance in Cambridge with live music is an exciting exception: How long has it been since you danced to good live music? I'll imagine that seventy-five percent of the club dancers in this country have never had that pleasure. What a pity! It might be a way of keeping your group interested in dancing. Certainly nothing would be lost if every square dance club started an orchestra to play for their parties. At first perhaps they could play but for one set of dances.
-
 ### Yes to Life, in Spite of Everything: Viktor Frankl’s Lost Lectures on Moving Beyond Optimism and Pessimism to Find the Deepest Source of Meaning
 Source: The Marginalian
 Published: 2026-11-13 19:49 UTC
 URL: https://www.themarginalian.org/2026/11/13/yes-to-life-in-spite-of-everything-viktor-frankl/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Marginalian [public_ideas] https://www.themarginalian.org/2026/11/13/yes-to-life-in-spite-of-everything-viktor-frankl/
@@ -4979,7 +4989,7 @@ Source: Big Think
 Published: 2026-11-13 18:00 UTC
 URL: https://bigthink.com/strange-maps/europe-goes-bananas/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Big Think [public_ideas] https://bigthink.com/strange-maps/europe-goes-bananas/
@@ -4991,7 +5001,7 @@ Source: Noema Magazine
 Published: 2026-11-13 17:50 UTC
 URL: https://www.noemamag.com/serbias-experiment-combining-democracy-meritocracy
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Noema Magazine [public_ideas] https://www.noemamag.com/serbias-experiment-combining-democracy-meritocracy
@@ -5003,7 +5013,7 @@ Source: The Marginalian
 Published: 2026-11-13 17:00 UTC
 URL: https://www.themarginalian.org/2026/11/13/jane-welsh-carlyle-love/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Marginalian [public_ideas] https://www.themarginalian.org/2026/11/13/jane-welsh-carlyle-love/
@@ -5015,7 +5025,7 @@ Source: Big Think
 Published: 2026-11-13 15:30 UTC
 URL: https://bigthink.com/books/beginners-guide-to-russian-literature/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Big Think [public_ideas] https://bigthink.com/books/beginners-guide-to-russian-literature/
@@ -5027,7 +5037,7 @@ Source: Aeon
 Published: 2026-11-13 11:00 UTC
 URL: https://aeon.co/essays/those-forced-to-cross-borders-are-imagining-a-radical-new-world
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Aeon [public_ideas] https://aeon.co/essays/those-forced-to-cross-borders-are-imagining-a-radical-new-world
@@ -5040,7 +5050,7 @@ Published: 2026-11-13 10:17 UTC
 URL: https://theconversation.com/race-realism-why-scientifically-flawed-approach-fails-to-present-a-realistic-view-of-race-290392
 Source meta: specialist_media · commentary · R4 · P4 · baseline
 Updated: 2026-11-13 10:17 UTC
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Conversation Philosophy [public_ideas] https://theconversation.com/race-realism-why-scientifically-flawed-approach-fails-to-present-a-realistic-view-of-race-290392
@@ -5052,7 +5062,7 @@ Source: Big Think
 Published: 2026-11-13 07:00 UTC
 URL: https://bigthink.com/starts-with-a-bang/beginners-guide-standard-model/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Big Think [public_ideas] https://bigthink.com/starts-with-a-bang/beginners-guide-standard-model/
@@ -5064,7 +5074,7 @@ Source: Big Think
 Published: 2026-11-12 19:53 UTC
 URL: https://bigthink.com/history-society/culture-wars-are-mostly-about-changing-words-not-policy/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Big Think [public_ideas] https://bigthink.com/history-society/culture-wars-are-mostly-about-changing-words-not-policy/
@@ -5076,7 +5086,7 @@ Source: Noema Magazine
 Published: 2026-11-12 17:38 UTC
 URL: https://www.noemamag.com/a-generation-revolts
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Noema Magazine [public_ideas] https://www.noemamag.com/a-generation-revolts
@@ -5088,7 +5098,7 @@ Source: The Marginalian
 Published: 2026-11-12 16:38 UTC
 URL: https://www.themarginalian.org/2026/11/12/song-of-the-cedars/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Marginalian [public_ideas] https://www.themarginalian.org/2026/11/12/song-of-the-cedars/
@@ -5100,7 +5110,7 @@ Source: Big Think
 Published: 2026-11-12 15:30 UTC
 URL: https://bigthink.com/history-society/big-math/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Big Think [public_ideas] https://bigthink.com/history-society/big-math/
@@ -5112,7 +5122,7 @@ Source: The Marginalian
 Published: 2026-11-12 14:46 UTC
 URL: https://www.themarginalian.org/2026/11/12/wayfinding-m-r-oconnor/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Marginalian [public_ideas] https://www.themarginalian.org/2026/11/12/wayfinding-m-r-oconnor/
@@ -5124,7 +5134,7 @@ Source: Aeon
 Published: 2026-11-12 11:01 UTC
 URL: https://aeon.co/videos/a-legendary-australian-gold-hunt-told-from-an-aboriginal-perspective
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Aeon [public_ideas] https://aeon.co/videos/a-legendary-australian-gold-hunt-told-from-an-aboriginal-perspective
@@ -5136,7 +5146,7 @@ Source: Aeon
 Published: 2026-11-12 11:00 UTC
 URL: https://aeon.co/essays/a-new-answer-to-why-there-is-something-rather-than-nothing
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Aeon [public_ideas] https://aeon.co/essays/a-new-answer-to-why-there-is-something-rather-than-nothing
@@ -5148,31 +5158,19 @@ Source: The Marginalian
 Published: 2026-11-11 21:09 UTC
 URL: https://www.themarginalian.org/2026/11/11/vonnegut-marriage-divorce/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Marginalian [public_ideas] https://www.themarginalian.org/2026/11/11/vonnegut-marriage-divorce/
 
 Climbing the Andes one windy January afternoon, watching peak after peek emerge on the horizon like giant mounds of moss, I found myself wondering about the clear line toward the top where the green ends and the reddish-brown of the barren rock begins, wondering how the trees and shrubs know when to stop, how far to keep pushing, where the point is past which the conditions become too inhospitable for growth, for flourishing, for survival. This may be the hardest equation to balance in all of existence: when to keep trying and when to stop. Nowhere is it more confounding,… read article
 
-### The Intimate in the Infinite and the Responsibility of Rapture
-Source: The Marginalian
-Published: 2026-11-11 20:57 UTC
-URL: https://www.themarginalian.org/2026/11/11/diane-ackerman-the-planets/
-Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: The Marginalian [public_ideas] https://www.themarginalian.org/2026/11/11/diane-ackerman-the-planets/
-
-It could have been otherwise. That one defiant particle of matter could have never broken free from the equipoise of antimatter to sound the first note of something out of the mute nothingness, singing a universe into being. The universe could have withheld gravity, could have never compacted those first few atoms into a common center to bud the first star, could have never bloomed with billions of them. But here we are, circling a middling star in a modest solar system on a rocky planet replete with mountains and music, lichen and love, and on it the mirror the… read article
-
 ### Decoding Ediacaran fossils
 Source: Aeon
 Published: 2026-11-11 11:01 UTC
 URL: https://aeon.co/videos/how-a-palaeontologist-decodes-fossils-from-the-dawn-of-complex-life
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Aeon [public_ideas] https://aeon.co/videos/how-a-palaeontologist-decodes-fossils-from-the-dawn-of-complex-life
@@ -5184,7 +5182,7 @@ Source: Crooked Timber
 Published: 2026-11-11 02:22 UTC
 URL: https://crookedtimber.org/2026/11/11/armistice-day-109/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Crooked Timber [public_ideas] https://crookedtimber.org/2026/11/11/armistice-day-109/
@@ -5196,7 +5194,7 @@ Source: Crooked Timber
 Published: 2026-11-10 22:32 UTC
 URL: https://crookedtimber.org/2026/11/10/care-ethics-for-people-consequentialism-for-governments-deontology-for-judges/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Crooked Timber [public_ideas] https://crookedtimber.org/2026/11/10/care-ethics-for-people-consequentialism-for-governments-deontology-for-judges/
@@ -5208,7 +5206,7 @@ Source: Noema Magazine
 Published: 2026-11-10 17:39 UTC
 URL: https://www.noemamag.com/when-ais-become-unruly-swarms
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Noema Magazine [public_ideas] https://www.noemamag.com/when-ais-become-unruly-swarms
@@ -5220,7 +5218,7 @@ Source: Aeon
 Published: 2026-11-10 11:00 UTC
 URL: https://aeon.co/essays/how-does-roshi-joan-halifax-make-sense-of-her-buddhist-life
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Aeon [public_ideas] https://aeon.co/essays/how-does-roshi-joan-halifax-make-sense-of-her-buddhist-life
@@ -5233,7 +5231,7 @@ Published: 2026-11-09 18:37 UTC
 URL: https://theconversation.com/could-these-bacteria-killing-viruses-help-fight-antibiotic-resistance-a-new-discovery-takes-us-closer-295748
 Source meta: specialist_media · commentary · R4 · P4 · baseline
 Updated: 2026-11-09 18:37 UTC
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Conversation Philosophy [public_ideas] https://theconversation.com/could-these-bacteria-killing-viruses-help-fight-antibiotic-resistance-a-new-discovery-takes-us-closer-295748
@@ -5245,7 +5243,7 @@ Source: Aeon
 Published: 2026-11-09 11:01 UTC
 URL: https://aeon.co/videos/a-cubist-painting-becomes-two-kids-immersive-animated-world
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Aeon [public_ideas] https://aeon.co/videos/a-cubist-painting-becomes-two-kids-immersive-animated-world
@@ -5257,7 +5255,7 @@ Source: Crooked Timber
 Published: 2026-11-08 18:16 UTC
 URL: https://crookedtimber.org/2026/11/08/sunday-photoblogging-bristol-floating-harbour/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Crooked Timber [public_ideas] https://crookedtimber.org/2026/11/08/sunday-photoblogging-bristol-floating-harbour/
@@ -5267,7 +5265,7 @@ Source: Noema Magazine
 Published: 2026-11-06 17:46 UTC
 URL: https://www.noemamag.com/democrats-should-not-revert-to-the-status-quo-ante
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Noema Magazine [public_ideas] https://www.noemamag.com/democrats-should-not-revert-to-the-status-quo-ante
@@ -5279,7 +5277,7 @@ Source: Noema Magazine
 Published: 2026-11-05 14:53 UTC
 URL: https://www.noemamag.com/building-the-new-equilibrium-economy
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Noema Magazine [public_ideas] https://www.noemamag.com/building-the-new-equilibrium-economy
@@ -5292,7 +5290,7 @@ Published: 2026-11-04 16:12 UTC
 URL: https://theconversation.com/we-used-ancient-dna-to-track-the-origins-and-spread-of-the-germanic-and-celtic-languages-new-research-295786
 Source meta: specialist_media · commentary · R4 · P4 · baseline
 Updated: 2026-11-04 16:12 UTC
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Conversation Philosophy [public_ideas] https://theconversation.com/we-used-ancient-dna-to-track-the-origins-and-spread-of-the-germanic-and-celtic-languages-new-research-295786
@@ -5304,7 +5302,7 @@ Source: Noema Magazine
 Published: 2026-11-03 17:39 UTC
 URL: https://www.noemamag.com/in-praise-of-japans-failure-to-keep-up
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Noema Magazine [public_ideas] https://www.noemamag.com/in-praise-of-japans-failure-to-keep-up
@@ -5316,7 +5314,7 @@ Source: Crooked Timber
 Published: 2026-11-03 11:07 UTC
 URL: https://crookedtimber.org/2026/11/03/an-open-letter-to-jk-rowling-from-sophie-grace-chappell/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Crooked Timber [public_ideas] https://crookedtimber.org/2026/11/03/an-open-letter-to-jk-rowling-from-sophie-grace-chappell/
@@ -5328,7 +5326,7 @@ Source: Crooked Timber
 Published: 2026-11-01 02:54 UTC
 URL: https://crookedtimber.org/2026/11/01/democracy-is-not-on-the-ballot-affordability-is-not-the-answer/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Crooked Timber [public_ideas] https://crookedtimber.org/2026/11/01/democracy-is-not-on-the-ballot-affordability-is-not-the-answer/
@@ -5340,7 +5338,7 @@ Source: Crooked Timber
 Published: 2026-10-31 10:42 UTC
 URL: https://crookedtimber.org/2026/10/31/occasional-halloween-paper-a-mother-gives-her-all/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Crooked Timber [public_ideas] https://crookedtimber.org/2026/10/31/occasional-halloween-paper-a-mother-gives-her-all/
@@ -5352,7 +5350,7 @@ Source: Philosopher's Magazine
 Published: 2026-10-24 21:45 UTC
 URL: https://philosophersmag.com/political-stoicism-lessons-from-lipsius/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Philosopher's Magazine [public_ideas] https://philosophersmag.com/political-stoicism-lessons-from-lipsius/
@@ -5364,7 +5362,7 @@ Source: Philosopher's Magazine
 Published: 2026-10-21 04:35 UTC
 URL: https://philosophersmag.com/when-time-became-a-line/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Philosopher's Magazine [public_ideas] https://philosophersmag.com/when-time-became-a-line/
@@ -5376,7 +5374,7 @@ Source: Philosopher's Magazine
 Published: 2026-10-16 02:06 UTC
 URL: https://philosophersmag.com/testimony/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Philosopher's Magazine [public_ideas] https://philosophersmag.com/testimony/
@@ -5388,7 +5386,7 @@ Source: Philosopher's Magazine
 Published: 2026-10-15 03:32 UTC
 URL: https://philosophersmag.com/capturing-the-gods/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Philosopher's Magazine [public_ideas] https://philosophersmag.com/capturing-the-gods/
@@ -5400,7 +5398,7 @@ Source: Philosophy Now
 Published: 2026-10-13 00:00 UTC
 URL: https://philosophynow.org/issues/176/Lets_Get_Metaphysical
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Philosophy Now [public_ideas] https://philosophynow.org/issues/176/Lets_Get_Metaphysical
@@ -5412,7 +5410,7 @@ Source: Philosophy Now
 Published: 2026-10-13 00:00 UTC
 URL: https://philosophynow.org/issues/176/News_October_November_2026
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Philosophy Now [public_ideas] https://philosophynow.org/issues/176/News_October_November_2026
@@ -5424,7 +5422,7 @@ Source: Philosophy Now
 Published: 2026-10-13 00:00 UTC
 URL: https://philosophynow.org/issues/176/Philosophers_on_AI
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Philosophy Now [public_ideas] https://philosophynow.org/issues/176/Philosophers_on_AI
@@ -5436,7 +5434,7 @@ Source: Philosophy Now
 Published: 2026-10-13 00:00 UTC
 URL: https://philosophynow.org/issues/176/Causation_A_History
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Philosophy Now [public_ideas] https://philosophynow.org/issues/176/Causation_A_History
@@ -5448,7 +5446,7 @@ Source: Philosophy Now
 Published: 2026-10-13 00:00 UTC
 URL: https://philosophynow.org/issues/176/Why_is_there_something_rather_than_nothing
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Philosophy Now [public_ideas] https://philosophynow.org/issues/176/Why_is_there_something_rather_than_nothing
@@ -5460,7 +5458,7 @@ Source: Philosophy Now
 Published: 2026-10-13 00:00 UTC
 URL: https://philosophynow.org/issues/176/Classical_Indian_and_Modern_Scientific_Metaphysics
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Philosophy Now [public_ideas] https://philosophynow.org/issues/176/Classical_Indian_and_Modern_Scientific_Metaphysics
@@ -5473,7 +5471,7 @@ Published: 2026-10-11 06:00 UTC
 URL: https://theconversation.com/african-genomics-research-is-growing-what-countries-are-doing-to-connect-genetic-data-and-healthcare-292717
 Source meta: specialist_media · commentary · R4 · P4 · baseline
 Updated: 2026-10-11 06:00 UTC
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Conversation Philosophy [public_ideas] https://theconversation.com/african-genomics-research-is-growing-what-countries-are-doing-to-connect-genetic-data-and-healthcare-292717
@@ -5485,7 +5483,7 @@ Source: Philosopher's Magazine
 Published: 2026-09-04 06:52 UTC
 URL: https://philosophersmag.com/hereditarianism-without-races/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Philosopher's Magazine [public_ideas] https://philosophersmag.com/hereditarianism-without-races/
@@ -5498,7 +5496,7 @@ Published: 2026-09-02 20:08 UTC
 URL: https://theconversation.com/huge-genetic-study-finds-strong-links-between-dna-and-personality-traits-290861
 Source meta: specialist_media · commentary · R4 · P4 · baseline
 Updated: 2026-09-02 20:08 UTC
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Conversation Philosophy [public_ideas] https://theconversation.com/huge-genetic-study-finds-strong-links-between-dna-and-personality-traits-290861
@@ -5511,7 +5509,7 @@ Published: 2026-08-14 11:00 UTC
 URL: https://theconversation.com/what-happens-when-someones-chromosomes-sex-hormones-and-body-dont-align-289631
 Source meta: specialist_media · commentary · R4 · P4 · baseline
 Updated: 2026-08-14 11:00 UTC
-Fetched: 2026-11-14 19:38 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Conversation Philosophy [public_ideas] https://theconversation.com/what-happens-when-someones-chromosomes-sex-hormones-and-body-dont-align-289631
@@ -5523,7 +5521,7 @@ Source: Philosopher's Magazine
 Published: 2026-08-12 02:28 UTC
 URL: https://philosophersmag.com/the-commentator-vanishes/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Philosopher's Magazine [public_ideas] https://philosophersmag.com/the-commentator-vanishes/
@@ -5535,7 +5533,7 @@ Source: The Browser
 Published: 2021-01-08 17:36 UTC
 URL: https://thebrowser.com/integrations/
 Source meta: aggregator · commentary · R4 · P4 · reference
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Browser [public_ideas] https://thebrowser.com/integrations/
@@ -5548,7 +5546,7 @@ This feed is only for paid subscribers to the Browser. If you are a paid subscri
 Source: URL-only source / 仅网址源
 URL: https://digitalhumanitiesnow.org/
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -5558,7 +5556,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://programminghistorian.org/
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -5568,7 +5566,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.historians.org/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -5578,7 +5576,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.history.ac.uk/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -5588,7 +5586,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://ndpr.nd.edu/
 Source meta: specialist_media · specialist · R4 · P4 · reference
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -5598,7 +5596,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://blogs.lse.ac.uk/lsereviewofbooks/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: empty_feed
 
@@ -5609,7 +5607,7 @@ Source: JSTOR Daily
 Published: 2026-11-13 14:49 UTC
 URL: https://daily.jstor.org/how-to-be-a-modern-woman-in-1930s-shanghai/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: JSTOR Daily [scholarly_commentary] https://daily.jstor.org/how-to-be-a-modern-woman-in-1930s-shanghai/
@@ -5621,7 +5619,7 @@ Source: Public Books
 Published: 2026-11-12 16:00 UTC
 URL: https://www.publicbooks.org/democratic-hedonism-comes-to-dinner/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Public Books [scholarly_commentary] https://www.publicbooks.org/democratic-hedonism-comes-to-dinner/
@@ -5633,7 +5631,7 @@ Source: JSTOR Daily
 Published: 2026-11-12 14:45 UTC
 URL: https://daily.jstor.org/six-short-stories-that-play-with-time/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: JSTOR Daily [scholarly_commentary] https://daily.jstor.org/six-short-stories-that-play-with-time/
@@ -5645,7 +5643,7 @@ Source: Public Books
 Published: 2026-11-11 16:00 UTC
 URL: https://www.publicbooks.org/b-sides-fyodor-dostoevsky-the-adolescent/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Public Books [scholarly_commentary] https://www.publicbooks.org/b-sides-fyodor-dostoevsky-the-adolescent/
@@ -5657,7 +5655,7 @@ Source: JSTOR Daily
 Published: 2026-11-11 14:34 UTC
 URL: https://daily.jstor.org/beyond-the-plantation-house/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: JSTOR Daily [scholarly_commentary] https://daily.jstor.org/beyond-the-plantation-house/
@@ -5669,7 +5667,7 @@ Source: Public Books
 Published: 2026-11-10 16:02 UTC
 URL: https://www.publicbooks.org/the-obsolescing-knowledge-worker-benjamin-mangrum-on-computation-as-comedy/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Public Books [scholarly_commentary] https://www.publicbooks.org/the-obsolescing-knowledge-worker-benjamin-mangrum-on-computation-as-comedy/
@@ -5681,7 +5679,7 @@ Source: JSTOR Daily
 Published: 2026-11-10 14:47 UTC
 URL: https://daily.jstor.org/in-defense-of-the-humanities/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: JSTOR Daily [scholarly_commentary] https://daily.jstor.org/in-defense-of-the-humanities/
@@ -5693,7 +5691,7 @@ Source: Public Books
 Published: 2026-11-09 16:00 UTC
 URL: https://www.publicbooks.org/gramscis-imprisonment-100/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Public Books [scholarly_commentary] https://www.publicbooks.org/gramscis-imprisonment-100/
@@ -5705,7 +5703,7 @@ Source: JSTOR Daily
 Published: 2026-11-09 14:55 UTC
 URL: https://daily.jstor.org/why-ancient-doctors-prescribed-disgusting-remedies/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: JSTOR Daily [scholarly_commentary] https://daily.jstor.org/why-ancient-doctors-prescribed-disgusting-remedies/
@@ -5717,7 +5715,7 @@ Source: Public Books
 Published: 2026-11-06 16:00 UTC
 URL: https://www.publicbooks.org/thank-god-for-editors-imbolo-mbue-and-sarah-dimick/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Public Books [scholarly_commentary] https://www.publicbooks.org/thank-god-for-editors-imbolo-mbue-and-sarah-dimick/
@@ -5729,7 +5727,7 @@ Source: JSTOR Daily
 Published: 2026-11-06 14:44 UTC
 URL: https://daily.jstor.org/how-to-cite-sources-on-jstor/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: JSTOR Daily [scholarly_commentary] https://daily.jstor.org/how-to-cite-sources-on-jstor/
@@ -5741,7 +5739,7 @@ Source: Public Books
 Published: 2026-11-05 16:00 UTC
 URL: https://www.publicbooks.org/how-to-climb-a-lost-mountain-erik-reece-on-strip-mining-reclamation-and-the-kingdom-of-god/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Public Books [scholarly_commentary] https://www.publicbooks.org/how-to-climb-a-lost-mountain-erik-reece-on-strip-mining-reclamation-and-the-kingdom-of-god/
@@ -5754,7 +5752,7 @@ Attribution: Public Books [scholarly_commentary] https://www.publicbooks.org/how
 Source: URL-only source / 仅网址源
 URL: http://www.philosophypaperboy.com
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -5764,7 +5762,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://iep.utm.edu/philrel/
 Source meta: reference_tool · primary · R5 · P5 · reference
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -5774,7 +5772,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://plato.stanford.edu/entries/philosophy-religion/
 Source meta: reference_tool · primary · R5 · P5 · reference
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -5784,7 +5782,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.sciencedirect.com/journal/poetics
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -5794,7 +5792,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://journals.sagepub.com/home/csi
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -5804,7 +5802,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://journals.sagepub.com/home/cus
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -5814,7 +5812,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://journals.sagepub.com/home/tcs
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -5824,7 +5822,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://ejap.lumina.org
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -5834,7 +5832,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://jhi.pennpress.org
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -5844,7 +5842,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://onlinelibrary.wiley.com/journal/10884963
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -5854,7 +5852,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.journals.uchicago.edu/toc/et/current
 Source meta: journal · primary · R5 · P5 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -5864,7 +5862,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://link.springer.com/journal/11229
 Source meta: journal · primary · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: status: partial; checked: 2026-10-30; scope: 哲学研究论文与讨论；不代表所有主张已成共识; identity: 出版社将其定义为认识论、科学哲学及相关领域的研究期刊。; reliability: 保留历史 R4；本轮核实来源身份，未完成文章样本与纠错记录的系统复核。; professional_value: 保留历史 P4；学术参考分类中的研究文献入口。; evidence: ['https://link.springer.com/journal/11229/aims-and-scope']; limitations: 研究、书评与争论需按文章区分；期刊身份不自动对应 R5。; access: 保留官网入口；尚未验证可供本库使用的 feed。
 Fetch status: link_only
 
@@ -5874,7 +5872,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://link.springer.com/journal/11098
 Source meta: journal · primary · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: status: partial; checked: 2026-10-30; scope: 哲学研究论文与讨论；不代表所有主张已成共识; identity: 出版社说明其发表分析哲学论文，采用双盲评审。; reliability: 保留历史 R4；本轮核实来源身份，未完成文章样本与纠错记录的系统复核。; professional_value: 保留历史 P4；学术参考分类中的研究文献入口。; evidence: ['https://link.springer.com/journal/11098/aims-and-scope']; limitations: 研究、书评与争论需按文章区分；期刊身份不自动对应 R5。; access: 保留官网入口；尚未验证可供本库使用的 feed。
 Fetch status: link_only
 
@@ -5884,7 +5882,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://onlinelibrary.wiley.com/journal/14680068
 Source meta: journal · primary · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: status: partial; checked: 2026-10-30; scope: 哲学研究论文与讨论；不代表所有主张已成共识; identity: Wiley 期刊主页列出 ISSN、编辑及原创哲学论文。; reliability: 保留历史 R4；本轮核实来源身份，未完成文章样本与纠错记录的系统复核。; professional_value: 保留历史 P4；学术参考分类中的研究文献入口。; evidence: ['https://onlinelibrary.wiley.com/journal/14680068']; limitations: 研究、书评与争论需按文章区分；期刊身份不自动对应 R5。; access: 保留官网入口；尚未验证可供本库使用的 feed。
 Fetch status: link_only
 
@@ -5894,7 +5892,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://read.dukeupress.edu/the-philosophical-review
 Source meta: journal · primary · R5 · P5 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -5904,7 +5902,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://academic.oup.com/mind
 Source meta: journal · primary · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: status: partial; checked: 2026-10-30; scope: 哲学研究论文与讨论；不代表所有主张已成共识; identity: 出版社说明其为哲学同行评审期刊，采用三重匿名评审。; reliability: 保留历史 R4；本轮核实来源身份，未完成文章样本与纠错记录的系统复核。; professional_value: 保留历史 P4；学术参考分类中的研究文献入口。; evidence: ['https://academic.oup.com/mind/pages/General_Instructions']; limitations: 研究、书评与争论需按文章区分；期刊身份不自动对应 R5。; access: 保留官网入口；尚未验证可供本库使用的 feed。
 Fetch status: link_only
 
@@ -5914,7 +5912,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://muse.jhu.edu/
 Source meta: reference_tool · aggregator · R5 · P4 · reference
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -5924,7 +5922,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.jstor.org/
 Source meta: reference_tool · aggregator · R5 · P5 · reference
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -5934,7 +5932,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.semanticscholar.org/
 Source meta: reference_tool · aggregator · R5 · P5 · reference
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -5944,7 +5942,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://scholar.google.com/
 Source meta: reference_tool · aggregator · R5 · P5 · reference
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -5954,7 +5952,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://philarchive.org/
 Source meta: reference_tool · primary · R4 · P5 · reference
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -5964,7 +5962,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://philpapers.org/
 Source meta: reference_tool · aggregator · R5 · P5 · reference
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -5974,7 +5972,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.oxfordreference.com/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -5984,7 +5982,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.britannica.com/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -5994,7 +5992,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://iep.utm.edu/
 Source meta: reference_tool · primary · R5 · P5 · reference
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -6004,7 +6002,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://plato.stanford.edu/
 Source meta: reference_tool · primary · R5 · P5 · reference
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -6016,7 +6014,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.dissentmagazine.org/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -6026,7 +6024,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.firstthings.com/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -6036,7 +6034,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.thetablet.co.uk/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -6046,7 +6044,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.lepoint.fr/
 Source meta: newspaper_magazine · generalist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -6056,7 +6054,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.spiegel.de/international/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -6066,7 +6064,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.economist.com/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -6076,7 +6074,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://reallifemag.com/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -6086,7 +6084,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://matteopasquinelli.com
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -6096,7 +6094,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://bluelabyrinths.substack.com
 Source meta: culture_magazine · commentary · R3 · P4 · culture_probe
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -6106,7 +6104,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://syntheticzero.net
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -6116,7 +6114,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://platypus1917.org
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -6126,7 +6124,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://arena.org.au
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -6136,19 +6134,31 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://hedgehogreview.com/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
 Source homepage / 来源主页
+
+### Air Traffic Control Systems Are Outdated. What’s Being Done to Prevent Another Outage?
+Source: Time
+Published: 2026-11-14 20:14 UTC
+URL: https://time.com/article/2026/11/14/air-traffic-control-systems-are-outdated-what-s-being-done-to-prevent-another-outage-/
+Source meta: culture_magazine · commentary · R4 · P4 · baseline
+Fetched: 2026-11-14 23:34 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: Time [civilizational_critique] https://time.com/article/2026/11/14/air-traffic-control-systems-are-outdated-what-s-being-done-to-prevent-another-outage-/
+
+A nationwide flight halt has put the FAA’s aging technology in the spotlight. Upgrades are underway, but preventing future outages will take more than new equipment.
 
 ### China’s Intelligence Coup in the AI War
 Source: The Atlantic
 Published: 2026-11-14 17:15 UTC
 URL: https://www.theatlantic.com/national-security/2026/11/jensen-huang-chinese-intelligence-nvidia/689430/?utm_source=feed
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Updated: 2026-11-14 18:23 UTC
-Fetched: 2026-11-14 19:39 UTC
+Updated: 2026-11-14 21:37 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Atlantic [civilizational_critique] https://www.theatlantic.com/national-security/2026/11/jensen-huang-chinese-intelligence-nvidia/689430/?utm_source=feed
@@ -6161,7 +6171,7 @@ Published: 2026-11-14 16:27 UTC
 URL: https://www.theatlantic.com/newsletters/2026/11/mental-effort-math-puzzles/689451/?utm_source=feed
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
 Updated: 2026-11-14 16:48 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Atlantic [civilizational_critique] https://www.theatlantic.com/newsletters/2026/11/mental-effort-math-puzzles/689451/?utm_source=feed
@@ -6174,7 +6184,7 @@ Published: 2026-11-14 16:00 UTC
 URL: https://www.theatlantic.com/health/2026/11/measles-elimination-status-endemic-kennedy/689450/?utm_source=feed
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
 Updated: 2026-11-14 16:59 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Atlantic [civilizational_critique] https://www.theatlantic.com/health/2026/11/measles-elimination-status-endemic-kennedy/689450/?utm_source=feed
@@ -6187,7 +6197,7 @@ Published: 2026-11-14 15:11 UTC
 URL: https://www.theatlantic.com/national/2026/11/congress-hegseth-washington-week/689449/?utm_source=feed
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
 Updated: 2026-11-14 15:11 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Atlantic [civilizational_critique] https://www.theatlantic.com/national/2026/11/congress-hegseth-washington-week/689449/?utm_source=feed
@@ -6200,7 +6210,7 @@ Published: 2026-11-14 15:00 UTC
 URL: https://www.theatlantic.com/ideas/2026/11/scott-colom-mississippi-democrats/689443/?utm_source=feed
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
 Updated: 2026-11-14 16:15 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Atlantic [civilizational_critique] https://www.theatlantic.com/ideas/2026/11/scott-colom-mississippi-democrats/689443/?utm_source=feed
@@ -6212,7 +6222,7 @@ Source: Persuasion
 Published: 2026-11-14 12:06 UTC
 URL: https://www.persuasion.community/p/jonathan-haidt-3
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Persuasion [civilizational_critique] https://www.persuasion.community/p/jonathan-haidt-3
@@ -6224,7 +6234,7 @@ Source: Time
 Published: 2026-11-14 12:00 UTC
 URL: https://time.com/article/2026/11/14/the-china-shock-in-the-ai-era/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Time [civilizational_critique] https://time.com/article/2026/11/14/the-china-shock-in-the-ai-era/
@@ -6237,7 +6247,7 @@ Published: 2026-11-14 12:00 UTC
 URL: https://www.theatlantic.com/politics/2026/11/tomb-unknown-soldier-guards-meaning/689437/?utm_source=feed
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
 Updated: 2026-11-14 18:58 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Atlantic [civilizational_critique] https://www.theatlantic.com/politics/2026/11/tomb-unknown-soldier-guards-meaning/689437/?utm_source=feed
@@ -6249,7 +6259,7 @@ Source: Time
 Published: 2026-11-14 11:00 UTC
 URL: https://time.com/article/2026/11/14/congress-must-protect-the-cdc-from-politics/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Time [civilizational_critique] https://time.com/article/2026/11/14/congress-must-protect-the-cdc-from-politics/
@@ -6261,7 +6271,7 @@ Source: The New Yorker
 Published: 2026-11-14 11:00 UTC
 URL: https://www.newyorker.com/magazine/2026/11/23/president-trumps-nightmare-oval-office
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The New Yorker [civilizational_critique] https://www.newyorker.com/magazine/2026/11/23/president-trumps-nightmare-oval-office
@@ -6273,7 +6283,7 @@ Source: The New Yorker
 Published: 2026-11-14 11:00 UTC
 URL: https://www.newyorker.com/culture/critics-notebook/avedon-shows-the-scars-just-not-the-photographers-own
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The New Yorker [civilizational_critique] https://www.newyorker.com/culture/critics-notebook/avedon-shows-the-scars-just-not-the-photographers-own
@@ -6285,7 +6295,7 @@ Source: The New Yorker
 Published: 2026-11-14 11:00 UTC
 URL: https://www.newyorker.com/magazine/2026/11/23/jensen-huang-and-the-storied-lineage-of-the-honey-trap
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The New Yorker [civilizational_critique] https://www.newyorker.com/magazine/2026/11/23/jensen-huang-and-the-storied-lineage-of-the-honey-trap
@@ -6297,7 +6307,7 @@ Source: The New Yorker
 Published: 2026-11-14 11:00 UTC
 URL: https://www.newyorker.com/news/the-weekend-essay/the-aftershock
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The New Yorker [civilizational_critique] https://www.newyorker.com/news/the-weekend-essay/the-aftershock
@@ -6309,7 +6319,7 @@ Source: The New Yorker
 Published: 2026-11-14 11:00 UTC
 URL: https://www.newyorker.com/culture/photo-booth/living-in-normaltown-and-feeling-anything-but
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The New Yorker [civilizational_critique] https://www.newyorker.com/culture/photo-booth/living-in-normaltown-and-feeling-anything-but
@@ -6321,7 +6331,7 @@ Source: The New Yorker
 Published: 2026-11-14 03:00 UTC
 URL: https://www.newyorker.com/podcast/political-scene/with-stephen-miller-and-jim-jordan-the-gop-doubles-down-on-ideology
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The New Yorker [civilizational_critique] https://www.newyorker.com/podcast/political-scene/with-stephen-miller-and-jim-jordan-the-gop-doubles-down-on-ideology
@@ -6333,7 +6343,7 @@ Source: Time
 Published: 2026-11-13 22:20 UTC
 URL: https://time.com/article/2026/11/13/fatih-birol-iran-war-energy-cop31/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Time [civilizational_critique] https://time.com/article/2026/11/13/fatih-birol-iran-war-energy-cop31/
@@ -6345,7 +6355,7 @@ Source: Persuasion
 Published: 2026-11-13 20:20 UTC
 URL: https://www.persuasion.community/p/what-havel-teaches-us-about-freedom
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Persuasion [civilizational_critique] https://www.persuasion.community/p/what-havel-teaches-us-about-freedom
@@ -6357,7 +6367,7 @@ Source: Time
 Published: 2026-11-13 20:04 UTC
 URL: https://time.com/article/2026/11/13/heartland-ending-explained-netflix/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Time [civilizational_critique] https://time.com/article/2026/11/13/heartland-ending-explained-netflix/
@@ -6369,7 +6379,7 @@ Source: Time
 Published: 2026-11-13 19:37 UTC
 URL: https://time.com/article/2026/11/13/salish-jordan-matter-interview/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Time [civilizational_critique] https://time.com/article/2026/11/13/salish-jordan-matter-interview/
@@ -6381,7 +6391,7 @@ Source: Palladium Magazine
 Published: 2026-11-13 18:26 UTC
 URL: https://www.palladiummag.com/2026/11/13/a-movement-is-not-enough/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Palladium Magazine [civilizational_critique] https://www.palladiummag.com/2026/11/13/a-movement-is-not-enough/
@@ -6393,7 +6403,7 @@ Source: Persuasion
 Published: 2026-11-13 18:23 UTC
 URL: https://www.persuasion.community/p/welcoming-mike-mcfaul-and-larry-diamond
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Persuasion [civilizational_critique] https://www.persuasion.community/p/welcoming-mike-mcfaul-and-larry-diamond
@@ -6405,31 +6415,19 @@ Source: Persuasion
 Published: 2026-11-13 17:03 UTC
 URL: https://www.persuasion.community/p/this-week-at-persuasion-5e8
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Persuasion [civilizational_critique] https://www.persuasion.community/p/this-week-at-persuasion-5e8
 
 Francis Fukuyama on the midterms. Plus, Martin Wolf on The Good Fight.
 
-### How Texas’ Blue Takeover Could Soon Begin Impacting Texans’ Lives
-Source: Time
-Published: 2026-11-13 16:57 UTC
-URL: https://time.com/article/2026/11/13/texas-midterm-elections-democrats-state-government/
-Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: Time [civilizational_critique] https://time.com/article/2026/11/13/texas-midterm-elections-democrats-state-government/
-
-This year’s elections have abruptly turned the ruby-red state blue, with sweeping implications for Texas’ laws and its more than 30 million residents.
-
 ### How Jensen Huang’s exit from Nvidia impacts China’s AI supply chain
 Source: Rest of World
 Published: 2026-11-13 16:24 UTC
 URL: https://restofworld.org/2026/jensen-huang-nvidia-exit-china-ai-chip-impact/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
 Source meta: Rest of World [civilizational_critique]: specialist_media · specialist · R4 · P4 · baseline | Rest of World [technology_politics]: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: status: reviewed; checked: 2026-10-30; scope: 技术对非西方社会的影响与实地报道; identity: 官方定位为关注技术与社会的非营利新闻出版机构。; reliability: R4：公开编辑独立、利益冲突、匿名消息源与更正规则；保留现有评分。; professional_value: P4：以非西方技术经验补充文明批评。; evidence: ['https://restofworld.org/about/', 'https://restofworld.org/about/ethics-editorial-policies/']; limitations: 报道视角不等于全面地域代表性；个别匿名信源仍需交叉核验。; access: 保留已有公开 RSS，仅取 feed 返回内容。 | status: reviewed; checked: 2026-10-30; scope: 技术对非西方社会的影响与实地报道; identity: 官方定位为关注技术与社会的非营利新闻出版机构。; reliability: R4：公开编辑独立、利益冲突、匿名消息源与更正规则；保留现有评分。; professional_value: P4：技术权力、劳动和平台治理报道直接支持该分类。; evidence: ['https://restofworld.org/about/', 'https://restofworld.org/about/ethics-editorial-policies/']; limitations: 报道视角不等于全面地域代表性；个别匿名信源仍需交叉核验。; access: 保留已有公开 RSS，仅取 feed 返回内容。
 Fetch status: ok
 Attribution: Rest of World [civilizational_critique] https://restofworld.org/2026/jensen-huang-nvidia-exit-china-ai-chip-impact/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
@@ -6442,7 +6440,7 @@ Source: Persuasion
 Published: 2026-11-13 12:15 UTC
 URL: https://www.persuasion.community/p/no-social-media-isnt-destroying-democracy
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Persuasion [civilizational_critique] https://www.persuasion.community/p/no-social-media-isnt-destroying-democracy
@@ -6454,7 +6452,7 @@ Source: Law & Liberty
 Published: 2026-11-13 11:01 UTC
 URL: https://lawliberty.org/deception-inception/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Law & Liberty [civilizational_critique] https://lawliberty.org/deception-inception/
@@ -6466,7 +6464,7 @@ Source: Law & Liberty
 Published: 2026-11-13 11:00 UTC
 URL: https://lawliberty.org/book-review/wendell-berrys-farewell/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Law & Liberty [civilizational_critique] https://lawliberty.org/book-review/wendell-berrys-farewell/
@@ -6478,7 +6476,7 @@ Source: Persuasion
 Published: 2026-11-12 21:55 UTC
 URL: https://www.persuasion.community/p/college-deserves-to-be-expensive
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Persuasion [civilizational_critique] https://www.persuasion.community/p/college-deserves-to-be-expensive
@@ -6490,7 +6488,7 @@ Source: Rest of World
 Published: 2026-11-12 11:00 UTC
 URL: https://restofworld.org/2026/ai-government-ethics-bias-risk/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
 Source meta: Rest of World [civilizational_critique]: specialist_media · specialist · R4 · P4 · baseline | Rest of World [technology_politics]: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: status: reviewed; checked: 2026-10-30; scope: 技术对非西方社会的影响与实地报道; identity: 官方定位为关注技术与社会的非营利新闻出版机构。; reliability: R4：公开编辑独立、利益冲突、匿名消息源与更正规则；保留现有评分。; professional_value: P4：以非西方技术经验补充文明批评。; evidence: ['https://restofworld.org/about/', 'https://restofworld.org/about/ethics-editorial-policies/']; limitations: 报道视角不等于全面地域代表性；个别匿名信源仍需交叉核验。; access: 保留已有公开 RSS，仅取 feed 返回内容。 | status: reviewed; checked: 2026-10-30; scope: 技术对非西方社会的影响与实地报道; identity: 官方定位为关注技术与社会的非营利新闻出版机构。; reliability: R4：公开编辑独立、利益冲突、匿名消息源与更正规则；保留现有评分。; professional_value: P4：技术权力、劳动和平台治理报道直接支持该分类。; evidence: ['https://restofworld.org/about/', 'https://restofworld.org/about/ethics-editorial-policies/']; limitations: 报道视角不等于全面地域代表性；个别匿名信源仍需交叉核验。; access: 保留已有公开 RSS，仅取 feed 返回内容。
 Fetch status: ok
 Attribution: Rest of World [civilizational_critique] https://restofworld.org/2026/ai-government-ethics-bias-risk/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
@@ -6503,7 +6501,7 @@ Source: Law & Liberty
 Published: 2026-11-12 11:00 UTC
 URL: https://lawliberty.org/adam-smiths-hidden-parable/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Law & Liberty [civilizational_critique] https://lawliberty.org/adam-smiths-hidden-parable/
@@ -6515,7 +6513,7 @@ Source: Law & Liberty
 Published: 2026-11-12 11:00 UTC
 URL: https://lawliberty.org/book-review/a-soviet-handbook-for-fighting-totalitarianism/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Law & Liberty [civilizational_critique] https://lawliberty.org/book-review/a-soviet-handbook-for-fighting-totalitarianism/
@@ -6527,7 +6525,7 @@ Source: Law & Liberty
 Published: 2026-11-11 11:01 UTC
 URL: https://lawliberty.org/the-great-false-binary/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Law & Liberty [civilizational_critique] https://lawliberty.org/the-great-false-binary/
@@ -6539,7 +6537,7 @@ Source: Law & Liberty
 Published: 2026-11-11 11:00 UTC
 URL: https://lawliberty.org/forum/to-preserve-collegiate-competition-constrain-it/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Law & Liberty [civilizational_critique] https://lawliberty.org/forum/to-preserve-collegiate-competition-constrain-it/
@@ -6551,7 +6549,7 @@ Source: Rest of World
 Published: 2026-11-09 08:30 UTC
 URL: https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
 Source meta: Rest of World [civilizational_critique]: specialist_media · specialist · R4 · P4 · baseline | Rest of World [technology_politics]: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: status: reviewed; checked: 2026-10-30; scope: 技术对非西方社会的影响与实地报道; identity: 官方定位为关注技术与社会的非营利新闻出版机构。; reliability: R4：公开编辑独立、利益冲突、匿名消息源与更正规则；保留现有评分。; professional_value: P4：以非西方技术经验补充文明批评。; evidence: ['https://restofworld.org/about/', 'https://restofworld.org/about/ethics-editorial-policies/']; limitations: 报道视角不等于全面地域代表性；个别匿名信源仍需交叉核验。; access: 保留已有公开 RSS，仅取 feed 返回内容。 | status: reviewed; checked: 2026-10-30; scope: 技术对非西方社会的影响与实地报道; identity: 官方定位为关注技术与社会的非营利新闻出版机构。; reliability: R4：公开编辑独立、利益冲突、匿名消息源与更正规则；保留现有评分。; professional_value: P4：技术权力、劳动和平台治理报道直接支持该分类。; evidence: ['https://restofworld.org/about/', 'https://restofworld.org/about/ethics-editorial-policies/']; limitations: 报道视角不等于全面地域代表性；个别匿名信源仍需交叉核验。; access: 保留已有公开 RSS，仅取 feed 返回内容。
 Fetch status: ok
 Attribution: Rest of World [civilizational_critique] https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
@@ -6564,7 +6562,7 @@ Source: Rest of World
 Published: 2026-11-05 11:00 UTC
 URL: https://restofworld.org/2026/taiwan-labor-strike-ai-profits/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
 Source meta: Rest of World [civilizational_critique]: specialist_media · specialist · R4 · P4 · baseline | Rest of World [technology_politics]: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: status: reviewed; checked: 2026-10-30; scope: 技术对非西方社会的影响与实地报道; identity: 官方定位为关注技术与社会的非营利新闻出版机构。; reliability: R4：公开编辑独立、利益冲突、匿名消息源与更正规则；保留现有评分。; professional_value: P4：以非西方技术经验补充文明批评。; evidence: ['https://restofworld.org/about/', 'https://restofworld.org/about/ethics-editorial-policies/']; limitations: 报道视角不等于全面地域代表性；个别匿名信源仍需交叉核验。; access: 保留已有公开 RSS，仅取 feed 返回内容。 | status: reviewed; checked: 2026-10-30; scope: 技术对非西方社会的影响与实地报道; identity: 官方定位为关注技术与社会的非营利新闻出版机构。; reliability: R4：公开编辑独立、利益冲突、匿名消息源与更正规则；保留现有评分。; professional_value: P4：技术权力、劳动和平台治理报道直接支持该分类。; evidence: ['https://restofworld.org/about/', 'https://restofworld.org/about/ethics-editorial-policies/']; limitations: 报道视角不等于全面地域代表性；个别匿名信源仍需交叉核验。; access: 保留已有公开 RSS，仅取 feed 返回内容。
 Fetch status: ok
 Attribution: Rest of World [civilizational_critique] https://restofworld.org/2026/taiwan-labor-strike-ai-profits/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
@@ -6577,7 +6575,7 @@ Source: Palladium Magazine
 Published: 2026-11-02 19:41 UTC
 URL: https://www.palladiummag.com/2026/11/02/do-not-tread-lightly/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Palladium Magazine [civilizational_critique] https://www.palladiummag.com/2026/11/02/do-not-tread-lightly/
@@ -6589,7 +6587,7 @@ Source: The Point
 Published: 2026-11-02 16:31 UTC
 URL: https://thepointmag.com/politics/jd-agonistes/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Point [civilizational_critique] https://thepointmag.com/politics/jd-agonistes/
@@ -6601,7 +6599,7 @@ Source: Rest of World
 Published: 2026-11-02 11:00 UTC
 URL: https://restofworld.org/2026/western-startups-realigning-chinese-ai-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
 Source meta: Rest of World [civilizational_critique]: specialist_media · specialist · R4 · P4 · baseline | Rest of World [technology_politics]: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: status: reviewed; checked: 2026-10-30; scope: 技术对非西方社会的影响与实地报道; identity: 官方定位为关注技术与社会的非营利新闻出版机构。; reliability: R4：公开编辑独立、利益冲突、匿名消息源与更正规则；保留现有评分。; professional_value: P4：以非西方技术经验补充文明批评。; evidence: ['https://restofworld.org/about/', 'https://restofworld.org/about/ethics-editorial-policies/']; limitations: 报道视角不等于全面地域代表性；个别匿名信源仍需交叉核验。; access: 保留已有公开 RSS，仅取 feed 返回内容。 | status: reviewed; checked: 2026-10-30; scope: 技术对非西方社会的影响与实地报道; identity: 官方定位为关注技术与社会的非营利新闻出版机构。; reliability: R4：公开编辑独立、利益冲突、匿名消息源与更正规则；保留现有评分。; professional_value: P4：技术权力、劳动和平台治理报道直接支持该分类。; evidence: ['https://restofworld.org/about/', 'https://restofworld.org/about/ethics-editorial-policies/']; limitations: 报道视角不等于全面地域代表性；个别匿名信源仍需交叉核验。; access: 保留已有公开 RSS，仅取 feed 返回内容。
 Fetch status: ok
 Attribution: Rest of World [civilizational_critique] https://restofworld.org/2026/western-startups-realigning-chinese-ai-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
@@ -6614,7 +6612,7 @@ Source: Palladium Magazine
 Published: 2026-10-30 19:05 UTC
 URL: https://www.palladiummag.com/2026/10/30/the-limits-of-ai-as-an-economic-weapon/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Palladium Magazine [civilizational_critique] https://www.palladiummag.com/2026/10/30/the-limits-of-ai-as-an-economic-weapon/
@@ -6626,7 +6624,7 @@ Source: Rest of World
 Published: 2026-10-29 10:00 UTC
 URL: https://restofworld.org/2026/africa-sovereign-ai-off-switch/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
 Source meta: Rest of World [civilizational_critique]: specialist_media · specialist · R4 · P4 · baseline | Rest of World [technology_politics]: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: status: reviewed; checked: 2026-10-30; scope: 技术对非西方社会的影响与实地报道; identity: 官方定位为关注技术与社会的非营利新闻出版机构。; reliability: R4：公开编辑独立、利益冲突、匿名消息源与更正规则；保留现有评分。; professional_value: P4：以非西方技术经验补充文明批评。; evidence: ['https://restofworld.org/about/', 'https://restofworld.org/about/ethics-editorial-policies/']; limitations: 报道视角不等于全面地域代表性；个别匿名信源仍需交叉核验。; access: 保留已有公开 RSS，仅取 feed 返回内容。 | status: reviewed; checked: 2026-10-30; scope: 技术对非西方社会的影响与实地报道; identity: 官方定位为关注技术与社会的非营利新闻出版机构。; reliability: R4：公开编辑独立、利益冲突、匿名消息源与更正规则；保留现有评分。; professional_value: P4：技术权力、劳动和平台治理报道直接支持该分类。; evidence: ['https://restofworld.org/about/', 'https://restofworld.org/about/ethics-editorial-policies/']; limitations: 报道视角不等于全面地域代表性；个别匿名信源仍需交叉核验。; access: 保留已有公开 RSS，仅取 feed 返回内容。
 Fetch status: ok
 Attribution: Rest of World [civilizational_critique] https://restofworld.org/2026/africa-sovereign-ai-off-switch/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
@@ -6639,7 +6637,7 @@ Source: The Point
 Published: 2026-10-27 13:00 UTC
 URL: https://thepointmag.com/criticism/the-perfect-game/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Point [civilizational_critique] https://thepointmag.com/criticism/the-perfect-game/
@@ -6651,7 +6649,7 @@ Source: Palladium Magazine
 Published: 2026-10-20 19:14 UTC
 URL: https://www.palladiummag.com/2026/10/20/measuring-the-swarm-economy/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Palladium Magazine [civilizational_critique] https://www.palladiummag.com/2026/10/20/measuring-the-swarm-economy/
@@ -6663,7 +6661,7 @@ Source: Palladium Magazine
 Published: 2026-10-16 20:19 UTC
 URL: https://www.palladiummag.com/2026/10/16/lose-and-lose-and-lose-and-win/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Palladium Magazine [civilizational_critique] https://www.palladiummag.com/2026/10/16/lose-and-lose-and-lose-and-win/
@@ -6675,7 +6673,7 @@ Source: The New Atlantis
 Published: 2026-10-07 14:11 UTC
 URL: https://www.thenewatlantis.com/publications/are-we-really-on-the-path-to-agi
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The New Atlantis [civilizational_critique] https://www.thenewatlantis.com/publications/are-we-really-on-the-path-to-agi
@@ -6687,7 +6685,7 @@ Source: Palladium Magazine
 Published: 2026-10-06 15:01 UTC
 URL: https://www.palladiummag.com/2026/10/06/rationalism-and-divergent-sinomodernity/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Palladium Magazine [civilizational_critique] https://www.palladiummag.com/2026/10/06/rationalism-and-divergent-sinomodernity/
@@ -6699,7 +6697,7 @@ Source: The Point
 Published: 2026-10-06 13:00 UTC
 URL: https://thepointmag.com/dialogue/rejecting-enlightenment/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Point [civilizational_critique] https://thepointmag.com/dialogue/rejecting-enlightenment/
@@ -6711,7 +6709,7 @@ Source: The Point
 Published: 2026-10-02 13:00 UTC
 URL: https://thepointmag.com/criticism/flowers-for-frank/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Point [civilizational_critique] https://thepointmag.com/criticism/flowers-for-frank/
@@ -6723,7 +6721,7 @@ Source: The Point
 Published: 2026-09-17 16:54 UTC
 URL: https://thepointmag.com/examined-life/getting-good-effective-altruism/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Point [civilizational_critique] https://thepointmag.com/examined-life/getting-good-effective-altruism/
@@ -6735,7 +6733,7 @@ Source: The Point
 Published: 2026-09-16 13:00 UTC
 URL: https://thepointmag.com/criticism/after-the-sublime/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Point [civilizational_critique] https://thepointmag.com/criticism/after-the-sublime/
@@ -6747,7 +6745,7 @@ Source: The New Atlantis
 Published: 2026-09-08 15:56 UTC
 URL: https://www.thenewatlantis.com/publications/winning-strategy-infertility-treatment
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The New Atlantis [civilizational_critique] https://www.thenewatlantis.com/publications/winning-strategy-infertility-treatment
@@ -6759,7 +6757,7 @@ Source: The New Atlantis
 Published: 2026-09-08 15:55 UTC
 URL: https://www.thenewatlantis.com/publications/pessimism-about-institutions-optimism-about-disruption
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The New Atlantis [civilizational_critique] https://www.thenewatlantis.com/publications/pessimism-about-institutions-optimism-about-disruption
@@ -6771,7 +6769,7 @@ Source: The New Atlantis
 Published: 2026-09-08 15:54 UTC
 URL: https://www.thenewatlantis.com/publications/a-form-of-apocalypticism-applied-to-science-policy
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The New Atlantis [civilizational_critique] https://www.thenewatlantis.com/publications/a-form-of-apocalypticism-applied-to-science-policy
@@ -6783,7 +6781,7 @@ Source: The New Atlantis
 Published: 2026-09-08 15:53 UTC
 URL: https://www.thenewatlantis.com/publications/stupid-to-just-cut-stupid-to-just-pour
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The New Atlantis [civilizational_critique] https://www.thenewatlantis.com/publications/stupid-to-just-cut-stupid-to-just-pour
@@ -6795,7 +6793,7 @@ Source: The New Atlantis
 Published: 2026-09-08 15:46 UTC
 URL: https://www.thenewatlantis.com/publications/the-pro-human-ai-declaration
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The New Atlantis [civilizational_critique] https://www.thenewatlantis.com/publications/the-pro-human-ai-declaration
@@ -6808,7 +6806,7 @@ In March 2026, a coalition of interest groups and individuals, organized by the 
 Source: URL-only source / 仅网址源
 URL: https://magazinelib.com/
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -6818,7 +6816,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.the-tls.co.uk/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -6828,7 +6826,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://blog.archive.org/category/books/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -6838,7 +6836,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://archive.org/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -6848,7 +6846,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.theguardian.com/theguardian/series/the-long-read
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -6858,7 +6856,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://longreads.com/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -6868,7 +6866,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://fivebooks.com/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -6878,7 +6876,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.theparisreview.org/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -6888,7 +6886,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.bookforum.com/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -6898,7 +6896,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://lareviewofbooks.org/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -6908,7 +6906,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.nybooks.com/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: empty_feed
 
@@ -6919,7 +6917,7 @@ Source: Literary Hub
 Published: 2026-11-14 11:30 UTC
 URL: https://lithub.com/lit-hub-weekly-november-9-13-2026/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Literary Hub [books] https://lithub.com/lit-hub-weekly-november-9-13-2026/
@@ -6931,7 +6929,7 @@ Source: Literary Hub
 Published: 2026-11-13 19:02 UTC
 URL: https://lithub.com/heres-whats-making-us-happy-this-week-111326/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Literary Hub [books] https://lithub.com/heres-whats-making-us-happy-this-week-111326/
@@ -6943,7 +6941,7 @@ Source: Literary Hub
 Published: 2026-11-13 17:42 UTC
 URL: https://lithub.com/alibris-has-made-a-deal-to-sell-used-books-on-temu/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Literary Hub [books] https://lithub.com/alibris-has-made-a-deal-to-sell-used-books-on-temu/
@@ -6955,7 +6953,7 @@ Source: Literary Hub
 Published: 2026-11-13 17:02 UTC
 URL: https://lithub.com/put-off-bolanos-2666-for-too-long-in-2027-tackle-it-with-the-equator-book-club/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Literary Hub [books] https://lithub.com/put-off-bolanos-2666-for-too-long-in-2027-tackle-it-with-the-equator-book-club/
@@ -6967,7 +6965,7 @@ Source: Open Book Publishers Blog
 Published: 2026-11-13 16:42 UTC
 URL: https://blogs.openbookpublishers.com/eight-things-i-learnt-from-editing-the-diaries-of-a-victorian-provincial-journalist/
 Source meta: specialist_media · specialist · R4 · P4 · reference
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Open Book Publishers Blog [books] https://blogs.openbookpublishers.com/eight-things-i-learnt-from-editing-the-diaries-of-a-victorian-provincial-journalist/
@@ -6979,7 +6977,7 @@ Source: Literary Hub
 Published: 2026-11-13 11:30 UTC
 URL: https://lithub.com/lit-hub-daily-november-13-2026/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Literary Hub [books] https://lithub.com/lit-hub-daily-november-13-2026/
@@ -6991,7 +6989,7 @@ Source: Literary Hub
 Published: 2026-11-13 10:00 UTC
 URL: https://lithub.com/what-is-the-best-literary-tv-adaptation-of-all-time-day-five/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Literary Hub [books] https://lithub.com/what-is-the-best-literary-tv-adaptation-of-all-time-day-five/
@@ -7003,7 +7001,7 @@ Source: Internet Archive Blog
 Published: 2026-11-12 19:15 UTC
 URL: https://blog.archive.org/2026/11/12/annual-celebration-2026-internet-archive-staff-and-friends-showcase-latest-developments/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Internet Archive Blog [books] https://blog.archive.org/2026/11/12/annual-celebration-2026-internet-archive-staff-and-friends-showcase-latest-developments/
@@ -7015,7 +7013,7 @@ Source: Internet Archive Blog
 Published: 2026-11-12 16:55 UTC
 URL: https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Internet Archive Blog [books] https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/
@@ -7027,7 +7025,7 @@ Source: Words Without Borders
 Published: 2026-11-12 14:00 UTC
 URL: https://wordswithoutborders.org/read/article/2026-11/i-am-a-sneaker-left-behind-in-the-protest-square-arlinda-guma/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Words Without Borders [books] https://wordswithoutborders.org/read/article/2026-11/i-am-a-sneaker-left-behind-in-the-protest-square-arlinda-guma/
@@ -7039,7 +7037,7 @@ Source: Internet Archive Blog
 Published: 2026-11-10 17:00 UTC
 URL: https://blog.archive.org/2026/11/10/2027-public-domain-film-contest/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Internet Archive Blog [books] https://blog.archive.org/2026/11/10/2027-public-domain-film-contest/
@@ -7051,7 +7049,7 @@ Source: Words Without Borders
 Published: 2026-11-10 14:00 UTC
 URL: https://wordswithoutborders.org/read/article/2026-11/introducing-wwbs-2026-27-editorial-fellow-regan-mies/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Words Without Borders [books] https://wordswithoutborders.org/read/article/2026-11/introducing-wwbs-2026-27-editorial-fellow-regan-mies/
@@ -7063,7 +7061,7 @@ Source: Words Without Borders
 Published: 2026-11-09 14:00 UTC
 URL: https://wordswithoutborders.org/read/article/2026-11/a-bounty-in-minuteness-two-poems-munoz-greenwell-novey/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Words Without Borders [books] https://wordswithoutborders.org/read/article/2026-11/a-bounty-in-minuteness-two-poems-munoz-greenwell-novey/
@@ -7075,7 +7073,7 @@ Source: Words Without Borders
 Published: 2026-11-05 14:00 UTC
 URL: https://wordswithoutborders.org/read/article/2026-11/the-national-book-award-interviews-karl-ove-knausgaard-and-martin-aitken-the-school-of-night/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Words Without Borders [books] https://wordswithoutborders.org/read/article/2026-11/the-national-book-award-interviews-karl-ove-knausgaard-and-martin-aitken-the-school-of-night/
@@ -7087,7 +7085,7 @@ Source: Words Without Borders
 Published: 2026-11-02 14:00 UTC
 URL: https://wordswithoutborders.org/read/article/2026-11/the-national-book-award-interviews-samar-yazbek-and-leri-price-your-presence-is-a-danger-to-your-life/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Words Without Borders [books] https://wordswithoutborders.org/read/article/2026-11/the-national-book-award-interviews-samar-yazbek-and-leri-price-your-presence-is-a-danger-to-your-life/
@@ -7099,7 +7097,7 @@ Source: Internet Archive Blog
 Published: 2026-10-29 17:34 UTC
 URL: https://blog.archive.org/2026/10/29/weaving-tapestries/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Internet Archive Blog [books] https://blog.archive.org/2026/10/29/weaving-tapestries/
@@ -7111,7 +7109,7 @@ Source: Words Without Borders
 Published: 2026-10-29 13:00 UTC
 URL: https://wordswithoutborders.org/read/article/2026-10/the-watchlist-october-2026-tobias-carroll/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Words Without Borders [books] https://wordswithoutborders.org/read/article/2026-10/the-watchlist-october-2026-tobias-carroll/
@@ -7123,7 +7121,7 @@ Source: Internet Archive Blog
 Published: 2026-10-28 12:00 UTC
 URL: https://blog.archive.org/2026/10/28/celebrating-democracys-library/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Internet Archive Blog [books] https://blog.archive.org/2026/10/28/celebrating-democracys-library/
@@ -7135,7 +7133,7 @@ Source: Internet Archive Blog
 Published: 2026-10-27 11:05 UTC
 URL: https://blog.archive.org/2026/10/27/behind-the-scenes-physical-archive/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Internet Archive Blog [books] https://blog.archive.org/2026/10/27/behind-the-scenes-physical-archive/
@@ -7147,7 +7145,7 @@ Source: London Review of Books
 Published: 2026-10-23 00:00 UTC
 URL: https://www.lrb.co.uk/the-paper/v48/n20/eyal-weizman/necro-economics
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: London Review of Books [books] https://www.lrb.co.uk/the-paper/v48/n20/eyal-weizman/necro-economics
@@ -7159,7 +7157,7 @@ Source: London Review of Books
 Published: 2026-10-23 00:00 UTC
 URL: https://www.lrb.co.uk/the-paper/v48/n20/james-meek/across-8-mile
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: London Review of Books [books] https://www.lrb.co.uk/the-paper/v48/n20/james-meek/across-8-mile
@@ -7171,7 +7169,7 @@ Source: London Review of Books
 Published: 2026-10-23 00:00 UTC
 URL: https://www.lrb.co.uk/the-paper/v48/n20/anne-carson/9-october
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: London Review of Books [books] https://www.lrb.co.uk/the-paper/v48/n20/anne-carson/9-october
@@ -7183,7 +7181,7 @@ Source: London Review of Books
 Published: 2026-10-23 00:00 UTC
 URL: https://www.lrb.co.uk/the-paper/v48/n20/daniella-shreir/short-cuts
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: London Review of Books [books] https://www.lrb.co.uk/the-paper/v48/n20/daniella-shreir/short-cuts
@@ -7195,7 +7193,7 @@ Source: London Review of Books
 Published: 2026-10-23 00:00 UTC
 URL: https://www.lrb.co.uk/the-paper/v48/n20/fraser-macdonald/who-owns-the-glen
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: London Review of Books [books] https://www.lrb.co.uk/the-paper/v48/n20/fraser-macdonald/who-owns-the-glen
@@ -7207,7 +7205,7 @@ Source: London Review of Books
 Published: 2026-10-23 00:00 UTC
 URL: https://www.lrb.co.uk/the-paper/v48/n20/miriam-dobson/not-all-trees-are-useful
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: London Review of Books [books] https://www.lrb.co.uk/the-paper/v48/n20/miriam-dobson/not-all-trees-are-useful
@@ -7219,7 +7217,7 @@ Source: Open Book Publishers Blog
 Published: 2026-10-22 15:58 UTC
 URL: https://blogs.openbookpublishers.com/the-cost-of-open-access-books-six-years-on/
 Source meta: specialist_media · specialist · R4 · P4 · reference
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Open Book Publishers Blog [books] https://blogs.openbookpublishers.com/the-cost-of-open-access-books-six-years-on/
@@ -7231,7 +7229,7 @@ Source: Open Book Publishers Blog
 Published: 2026-10-08 12:08 UTC
 URL: https://blogs.openbookpublishers.com/how-traditional-water-wisdom-could-solve-modern-problems/
 Source meta: specialist_media · specialist · R4 · P4 · reference
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Open Book Publishers Blog [books] https://blogs.openbookpublishers.com/how-traditional-water-wisdom-could-solve-modern-problems/
@@ -7243,7 +7241,7 @@ Source: Open Book Publishers Blog
 Published: 2026-10-07 10:16 UTC
 URL: https://blogs.openbookpublishers.com/distributing-knowledge-for-equity-an-evolving-concept-and-a-call-for-action/
 Source meta: specialist_media · specialist · R4 · P4 · reference
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Open Book Publishers Blog [books] https://blogs.openbookpublishers.com/distributing-knowledge-for-equity-an-evolving-concept-and-a-call-for-action/
@@ -7255,7 +7253,7 @@ Source: Open Book Publishers Blog
 Published: 2026-09-24 08:00 UTC
 URL: https://blogs.openbookpublishers.com/18-thoughts-for-18-years-a-birthday-message-from-obp/
 Source meta: specialist_media · specialist · R4 · P4 · reference
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Open Book Publishers Blog [books] https://blogs.openbookpublishers.com/18-thoughts-for-18-years-a-birthday-message-from-obp/
@@ -7267,7 +7265,7 @@ Source: Open Book Publishers Blog
 Published: 2026-09-18 14:00 UTC
 URL: https://blogs.openbookpublishers.com/teaching-back-to-the-university/
 Source meta: specialist_media · specialist · R4 · P4 · reference
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Open Book Publishers Blog [books] https://blogs.openbookpublishers.com/teaching-back-to-the-university/
@@ -7280,7 +7278,7 @@ Embedded Pedagogies: Digital Humanities Teaching and the Infrastructure of Chang
 Source: URL-only source / 仅网址源
 URL: https://www.criterion.com/current
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -7290,7 +7288,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://reverseshot.org/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -7300,7 +7298,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.filmcomment.com/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -7310,7 +7308,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.bfi.org.uk/sight-and-sound
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -7320,7 +7318,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.bfi.org.uk/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -7330,7 +7328,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://lwlies.com/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -7341,7 +7339,7 @@ Source: MUBI Notebook
 Published: 2026-11-13 22:12 UTC
 URL: https://mubi.com/en/notebook/posts/mubi-podcast-encuentros-see-where-no-one-else-can
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: MUBI Notebook [film_moving_image] https://mubi.com/en/notebook/posts/mubi-podcast-encuentros-see-where-no-one-else-can
@@ -7353,7 +7351,7 @@ Source: The Film Stage
 Published: 2026-11-13 16:36 UTC
 URL: https://thefilmstage.com/the-criterion-collections-february-2027-lineup-features-kung-fu-hustle-the-irishman-and-jay-kelly-on-4k/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Film Stage [film_moving_image] https://thefilmstage.com/the-criterion-collections-february-2027-lineup-features-kung-fu-hustle-the-irishman-and-jay-kelly-on-4k/
@@ -7365,7 +7363,7 @@ Source: RogerEbert.com
 Published: 2026-11-13 14:58 UTC
 URL: https://www.rogerebert.com/festivals/san-diego-asian-film-festival-2026-the-seoul-guardians-tycoon-genevieves-garden
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: RogerEbert.com [film_moving_image] https://www.rogerebert.com/festivals/san-diego-asian-film-festival-2026-the-seoul-guardians-tycoon-genevieves-garden
@@ -7377,7 +7375,7 @@ Source: RogerEbert.com
 Published: 2026-11-13 14:52 UTC
 URL: https://www.rogerebert.com/video-games/legendary-game-returns-in-remake-of-nintendos-the-legend-of-zelda-ocarina-of-time
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: RogerEbert.com [film_moving_image] https://www.rogerebert.com/video-games/legendary-game-returns-in-remake-of-nintendos-the-legend-of-zelda-ocarina-of-time
@@ -7389,7 +7387,7 @@ Source: RogerEbert.com
 Published: 2026-11-13 14:45 UTC
 URL: https://www.rogerebert.com/tributes/a-special-kind-of-tough-guy-stacy-keach-1941-2026
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: RogerEbert.com [film_moving_image] https://www.rogerebert.com/tributes/a-special-kind-of-tough-guy-stacy-keach-1941-2026
@@ -7401,7 +7399,7 @@ Source: The Film Stage
 Published: 2026-11-13 13:20 UTC
 URL: https://thefilmstage.com/the-b-sides-of-kurt-russell-with-cory-everett/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Film Stage [film_moving_image] https://thefilmstage.com/the-b-sides-of-kurt-russell-with-cory-everett/
@@ -7413,7 +7411,7 @@ Source: The Film Stage
 Published: 2026-11-13 12:45 UTC
 URL: https://thefilmstage.com/new-to-streaming-the-end-of-oak-street-being-heumann-ha-chan-shake-your-booty-paper-trail-more/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Film Stage [film_moving_image] https://thefilmstage.com/new-to-streaming-the-end-of-oak-street-being-heumann-ha-chan-shake-your-booty-paper-trail-more/
@@ -7425,7 +7423,7 @@ Source: MUBI Notebook
 Published: 2026-11-13 08:00 UTC
 URL: https://mubi.com/en/notebook/posts/movie-poster-of-the-week-7-questions-for-7-designers
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: MUBI Notebook [film_moving_image] https://mubi.com/en/notebook/posts/movie-poster-of-the-week-7-questions-for-7-designers
@@ -7437,7 +7435,7 @@ Source: The Film Stage
 Published: 2026-11-12 19:06 UTC
 URL: https://thefilmstage.com/u-s-trailer-for-hong-sangsoos-the-day-she-returns-opening-december-18-on-double-bill-with-the-day-he-arrives/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Film Stage [film_moving_image] https://thefilmstage.com/u-s-trailer-for-hong-sangsoos-the-day-she-returns-opening-december-18-on-double-bill-with-the-day-he-arrives/
@@ -7449,7 +7447,7 @@ Source: The Film Stage
 Published: 2026-11-12 18:27 UTC
 URL: https://thefilmstage.com/nyc-weekend-watch-the-minnellis-filming-filmmakers-bill-gunn-more/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Film Stage [film_moving_image] https://thefilmstage.com/nyc-weekend-watch-the-minnellis-filming-filmmakers-bill-gunn-more/
@@ -7461,7 +7459,7 @@ Source: RogerEbert.com
 Published: 2026-11-12 14:00 UTC
 URL: https://www.rogerebert.com/interviews/sophie-okonedo-clarissa-mouse-interview
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: RogerEbert.com [film_moving_image] https://www.rogerebert.com/interviews/sophie-okonedo-clarissa-mouse-interview
@@ -7473,7 +7471,7 @@ Source: The Film Stage
 Published: 2026-11-12 13:13 UTC
 URL: https://thefilmstage.com/the-best-movies-now-playing-in-theaters/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Film Stage [film_moving_image] https://thefilmstage.com/the-best-movies-now-playing-in-theaters/
@@ -7485,7 +7483,7 @@ Source: MUBI Notebook
 Published: 2026-11-12 09:00 UTC
 URL: https://mubi.com/en/notebook/posts/mubi-podcast-yol-the-picture-made-from-prison-with-alejandro-g-inarritu
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: MUBI Notebook [film_moving_image] https://mubi.com/en/notebook/posts/mubi-podcast-yol-the-picture-made-from-prison-with-alejandro-g-inarritu
@@ -7497,7 +7495,7 @@ Source: MUBI Notebook
 Published: 2026-11-12 08:00 UTC
 URL: https://mubi.com/en/notebook/posts/the-possibilities-of-the-unseen-in-conversation-with-lee-chang-dong
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: MUBI Notebook [film_moving_image] https://mubi.com/en/notebook/posts/the-possibilities-of-the-unseen-in-conversation-with-lee-chang-dong
@@ -7509,7 +7507,7 @@ Source: RogerEbert.com
 Published: 2026-11-10 20:01 UTC
 URL: https://www.rogerebert.com/streaming/the-lord-of-the-rings-the-rings-of-power-season-3-amazon-prime-video-tv-review-2026
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: RogerEbert.com [film_moving_image] https://www.rogerebert.com/streaming/the-lord-of-the-rings-the-rings-of-power-season-3-amazon-prime-video-tv-review-2026
@@ -7521,7 +7519,7 @@ Source: RogerEbert.com
 Published: 2026-11-10 14:00 UTC
 URL: https://www.rogerebert.com/interviews/being-in-the-moment-w-bruce-cameron-and-cathryn-michon-on-a-dogs-perfect-christmas
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: RogerEbert.com [film_moving_image] https://www.rogerebert.com/interviews/being-in-the-moment-w-bruce-cameron-and-cathryn-michon-on-a-dogs-perfect-christmas
@@ -7533,7 +7531,7 @@ Source: MUBI Notebook
 Published: 2026-11-10 08:00 UTC
 URL: https://mubi.com/en/notebook/posts/richard-talmadge-dare-devil-of-the-screen
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: MUBI Notebook [film_moving_image] https://mubi.com/en/notebook/posts/richard-talmadge-dare-devil-of-the-screen
@@ -7545,7 +7543,7 @@ Source: MUBI Notebook
 Published: 2026-11-09 08:00 UTC
 URL: https://mubi.com/en/notebook/posts/real-horrorshow
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: MUBI Notebook [film_moving_image] https://mubi.com/en/notebook/posts/real-horrorshow
@@ -7558,7 +7556,7 @@ Main Stream Media Network (Jon Rafman, 2025). © Jon Rafman Courtesy the artist 
 Source: URL-only source / 仅网址源
 URL: https://junguler.github.io/m3u-radio-music-playlists/
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -7568,7 +7566,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://toneglow.substack.com/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -7578,7 +7576,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://pitchfork.com/reviews/albums/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -7588,7 +7586,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://pitchfork.com/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -7598,7 +7596,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://ra.co/news
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -7608,7 +7606,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://aquariumdrunkard.com/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -7619,7 +7617,7 @@ Source: The Quietus
 Published: 2026-11-14 06:00 UTC
 URL: https://thequietus.com/culture/art/the-sadness-of-things-the-life-and-art-of-ryuichi-sakamoto/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Quietus [music_sound] https://thequietus.com/culture/art/the-sadness-of-things-the-life-and-art-of-ryuichi-sakamoto/
@@ -7631,7 +7629,7 @@ Source: Stereogum
 Published: 2026-11-13 20:14 UTC
 URL: https://stereogum.com/2517796/the-5-best-songs-of-the-week-652/lists/the-5-best-songs-of-the-week/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Stereogum [music_sound] https://stereogum.com/2517796/the-5-best-songs-of-the-week-652/lists/the-5-best-songs-of-the-week/
@@ -7643,7 +7641,7 @@ Source: Stereogum
 Published: 2026-11-13 19:42 UTC
 URL: https://stereogum.com/2517975/the-mighty-mighty-bosstones-announce-reunion-show/news/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Stereogum [music_sound] https://stereogum.com/2517975/the-mighty-mighty-bosstones-announce-reunion-show/news/
@@ -7655,7 +7653,7 @@ Source: Stereogum
 Published: 2026-11-13 19:03 UTC
 URL: https://stereogum.com/2517963/yeule-lovepill/music/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Stereogum [music_sound] https://stereogum.com/2517963/yeule-lovepill/music/
@@ -7668,7 +7666,7 @@ Published: 2026-11-13 18:56 UTC
 URL: https://daily.bandcamp.com/lists/bill-evans-album-guide
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
 Updated: 2026-11-13 18:56 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Bandcamp Daily [music_sound] https://daily.bandcamp.com/lists/bill-evans-album-guide
@@ -7680,7 +7678,7 @@ Source: Stereogum
 Published: 2026-11-13 18:52 UTC
 URL: https://stereogum.com/2517955/veeze-guillermoandrade/music/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Stereogum [music_sound] https://stereogum.com/2517955/veeze-guillermoandrade/music/
@@ -7692,7 +7690,7 @@ Source: Stereogum
 Published: 2026-11-13 18:48 UTC
 URL: https://stereogum.com/2517892/brogeal-the-last-noel-feat-rianne-downey/music/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Stereogum [music_sound] https://stereogum.com/2517892/brogeal-the-last-noel-feat-rianne-downey/music/
@@ -7704,7 +7702,7 @@ Source: Stereogum
 Published: 2026-11-13 18:45 UTC
 URL: https://stereogum.com/2517953/hi-nrg-handsome-daughter-free-roof-on-the-house/music/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Stereogum [music_sound] https://stereogum.com/2517953/hi-nrg-handsome-daughter-free-roof-on-the-house/music/
@@ -7717,7 +7715,7 @@ Published: 2026-11-13 14:36 UTC
 URL: https://daily.bandcamp.com/essential-releases/essential-releases-november-13-2026
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
 Updated: 2026-11-13 14:36 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Bandcamp Daily [music_sound] https://daily.bandcamp.com/essential-releases/essential-releases-november-13-2026
@@ -7730,7 +7728,7 @@ Published: 2026-11-13 14:36 UTC
 URL: https://daily.bandcamp.com/album-of-the-day/donwill-the-expert-expertise-review
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
 Updated: 2026-11-13 14:36 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Bandcamp Daily [music_sound] https://daily.bandcamp.com/album-of-the-day/donwill-the-expert-expertise-review
@@ -7742,7 +7740,7 @@ Source: The Quietus
 Published: 2026-11-13 12:02 UTC
 URL: https://thequietus.com/news/uk-cultural-organisations-call-on-andy-burnham-to-address-eu-touring-issues/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Quietus [music_sound] https://thequietus.com/news/uk-cultural-organisations-call-on-andy-burnham-to-address-eu-touring-issues/
@@ -7754,7 +7752,7 @@ Source: The Quietus
 Published: 2026-11-13 09:00 UTC
 URL: https://thequietus.com/interviews/strange-world-of/suzanne-ciani-best-music/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Quietus [music_sound] https://thequietus.com/interviews/strange-world-of/suzanne-ciani-best-music/
@@ -7766,7 +7764,7 @@ Source: The Quietus
 Published: 2026-11-13 06:00 UTC
 URL: https://thequietus.com/quietus-reviews/tara-cunningham-warm-ground-review/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Quietus [music_sound] https://thequietus.com/quietus-reviews/tara-cunningham-warm-ground-review/
@@ -7779,7 +7777,7 @@ Published: 2026-11-12 19:01 UTC
 URL: https://daily.bandcamp.com/best-latin/the-best-latin-music-on-bandcamp-october-2026
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
 Updated: 2026-11-12 19:01 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Bandcamp Daily [music_sound] https://daily.bandcamp.com/best-latin/the-best-latin-music-on-bandcamp-october-2026
@@ -7791,7 +7789,7 @@ Source: The Quietus
 Published: 2026-11-12 15:27 UTC
 URL: https://thequietus.com/news/brokeback-return-with-first-album-in-over-10-years/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Quietus [music_sound] https://thequietus.com/news/brokeback-return-with-first-album-in-over-10-years/
@@ -7804,7 +7802,7 @@ Published: 2026-11-12 15:16 UTC
 URL: https://daily.bandcamp.com/big-ups/twisted-teens-big-ups
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
 Updated: 2026-11-12 15:16 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Bandcamp Daily [music_sound] https://daily.bandcamp.com/big-ups/twisted-teens-big-ups
@@ -7817,7 +7815,7 @@ Published: 2026-11-12 15:16 UTC
 URL: https://daily.bandcamp.com/album-of-the-day/various-artists-la-ola-nocturna-experimental-songs-and-deviant-pop-from-the-spanish-80s-review
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
 Updated: 2026-11-12 15:16 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Bandcamp Daily [music_sound] https://daily.bandcamp.com/album-of-the-day/various-artists-la-ola-nocturna-experimental-songs-and-deviant-pop-from-the-spanish-80s-review
@@ -7829,7 +7827,7 @@ Source: The Quietus
 Published: 2026-11-12 09:48 UTC
 URL: https://thequietus.com/quietus-reviews/spydergum-spydergum-review/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Quietus [music_sound] https://thequietus.com/quietus-reviews/spydergum-spydergum-review/
@@ -7841,7 +7839,7 @@ Source: The Wire Magazine
 Published: 2026-11-12 00:00 UTC
 URL: https://www.thewire.co.uk/audio/on-air/shane-woolman-presents-adventures-in-sound-and-music-80033
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Wire Magazine [music_sound] https://www.thewire.co.uk/audio/on-air/shane-woolman-presents-adventures-in-sound-and-music-80033
@@ -7853,7 +7851,7 @@ Source: The Wire Magazine
 Published: 2026-11-12 00:00 UTC
 URL: https://www.thewire.co.uk/audio/tracks/global-ear-colombo
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Wire Magazine [music_sound] https://www.thewire.co.uk/audio/tracks/global-ear-colombo
@@ -7865,7 +7863,7 @@ Source: The Wire Magazine
 Published: 2026-11-10 00:00 UTC
 URL: https://www.thewire.co.uk/video/video-79994
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Wire Magazine [music_sound] https://www.thewire.co.uk/video/video-79994
@@ -7877,7 +7875,7 @@ Source: The Wire Magazine
 Published: 2026-11-09 00:00 UTC
 URL: https://www.thewire.co.uk/in-writing/collateral-damage/against-the-grain-music-criticism-can-become-critical-again-here-s-how
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Wire Magazine [music_sound] https://www.thewire.co.uk/in-writing/collateral-damage/against-the-grain-music-criticism-can-become-critical-again-here-s-how
@@ -7889,7 +7887,7 @@ Source: The Wire Magazine
 Published: 2026-11-05 00:00 UTC
 URL: https://www.thewire.co.uk/audio/tracks/office-ambience-514
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Wire Magazine [music_sound] https://www.thewire.co.uk/audio/tracks/office-ambience-514
@@ -7901,7 +7899,7 @@ Source: The Wire Magazine
 Published: 2026-11-02 00:00 UTC
 URL: https://www.thewire.co.uk/in-writing/the-portal/juan-atkins-12-september-1962-31-october-2026
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Wire Magazine [music_sound] https://www.thewire.co.uk/in-writing/the-portal/juan-atkins-12-september-1962-31-october-2026
@@ -7914,7 +7912,7 @@ The Detroit techno producer has died aged 64. In July 1997 Mike Shallcross inter
 Source: URL-only source / 仅网址源
 URL: https://www.lensculture.com/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -7924,7 +7922,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.magnumphotos.com/
 Source meta: culture_magazine · commentary · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -7935,7 +7933,7 @@ Source: British Journal of Photography
 Published: 2026-11-14 18:00 UTC
 URL: https://www.1854.photography/2026/11/maria-quigley-explores-what-shapes-russian-nostalgia-and-ideology-via-her-babushkas-tv-screen/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: British Journal of Photography [photography] https://www.1854.photography/2026/11/maria-quigley-explores-what-shapes-russian-nostalgia-and-ideology-via-her-babushkas-tv-screen/
@@ -7947,7 +7945,7 @@ Source: Aperture
 Published: 2026-11-13 14:15 UTC
 URL: https://aperture.org/editorial/announcing-the-winners-of-the-2026-photobook-awards/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Aperture [photography] https://aperture.org/editorial/announcing-the-winners-of-the-2026-photobook-awards/
@@ -7959,7 +7957,7 @@ Source: British Journal of Photography
 Published: 2026-11-11 16:02 UTC
 URL: https://www.1854.photography/2026/11/photography-at-200-through-the-prix-pictet/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: British Journal of Photography [photography] https://www.1854.photography/2026/11/photography-at-200-through-the-prix-pictet/
@@ -7971,7 +7969,7 @@ Source: British Journal of Photography
 Published: 2026-11-11 13:00 UTC
 URL: https://www.1854.photography/2026/11/trading-places-how-the-print-swap-app-is-helping-photographers-fill-their-walls-with-art/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: British Journal of Photography [photography] https://www.1854.photography/2026/11/trading-places-how-the-print-swap-app-is-helping-photographers-fill-their-walls-with-art/
@@ -7983,7 +7981,7 @@ Source: British Journal of Photography
 Published: 2026-11-10 18:00 UTC
 URL: https://www.1854.photography/2026/11/room-share-new-agency-the-other-room-gives-female-artists-their-own-creative-space/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: British Journal of Photography [photography] https://www.1854.photography/2026/11/room-share-new-agency-the-other-room-gives-female-artists-their-own-creative-space/
@@ -7995,7 +7993,7 @@ Source: British Journal of Photography
 Published: 2026-11-09 18:00 UTC
 URL: https://www.1854.photography/2026/11/the-violence-of-immediacy-katerina-angelopoulou-advocates-for-justice-after-a-deadly-wildfire-in-a-greek-town/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: British Journal of Photography [photography] https://www.1854.photography/2026/11/the-violence-of-immediacy-katerina-angelopoulou-advocates-for-justice-after-a-deadly-wildfire-in-a-greek-town/
@@ -8007,7 +8005,7 @@ Source: British Journal of Photography
 Published: 2026-11-09 14:13 UTC
 URL: https://www.1854.photography/2026/11/as-her-prix-pictet-winning-still-life-series-returns-to-view-at-paris-photo-the-french-artist-considers-consumer-excess-the-persistence-of-plastic-and-the-allure-of-beauty/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: British Journal of Photography [photography] https://www.1854.photography/2026/11/as-her-prix-pictet-winning-still-life-series-returns-to-view-at-paris-photo-the-french-artist-considers-consumer-excess-the-persistence-of-plastic-and-the-allure-of-beauty/
@@ -8019,7 +8017,7 @@ Source: Aperture
 Published: 2026-11-06 21:08 UTC
 URL: https://aperture.org/editorial/aperture-celebrates-2026-gala/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Aperture [photography] https://aperture.org/editorial/aperture-celebrates-2026-gala/
@@ -8031,7 +8029,7 @@ Source: Aperture
 Published: 2026-11-06 21:08 UTC
 URL: https://aperture.org/editorial/a-look-inside-the-2026-photobook-awards-shortlist/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Aperture [photography] https://aperture.org/editorial/a-look-inside-the-2026-photobook-awards-shortlist/
@@ -8043,7 +8041,7 @@ Source: Aperture
 Published: 2026-10-29 20:38 UTC
 URL: https://aperture.org/editorial/a-luminous-portrait-of-a-los-angeles-community/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Aperture [photography] https://aperture.org/editorial/a-luminous-portrait-of-a-los-angeles-community/
@@ -8055,7 +8053,7 @@ Source: Aperture
 Published: 2026-10-27 15:18 UTC
 URL: https://aperture.org/editorial/josef-koudelka-68/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Aperture [photography] https://aperture.org/editorial/josef-koudelka-68/
@@ -8067,7 +8065,7 @@ Source: Aperture
 Published: 2026-10-23 20:15 UTC
 URL: https://aperture.org/editorial/a-tokyo-drifters-catalog-of-crude-coincidences/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Aperture [photography] https://aperture.org/editorial/a-tokyo-drifters-catalog-of-crude-coincidences/
@@ -8080,7 +8078,7 @@ From giant poodles to accidental spills, Kenya Sugai finds strange pleasures amo
 Source: URL-only source / 仅网址源
 URL: https://www.thecollector.com/
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -8090,7 +8088,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.designweek.co.uk/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -8100,7 +8098,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.frieze.com/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -8110,7 +8108,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://theartistmagazine.co.uk/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -8120,7 +8118,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.creativeboom.com/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -8130,7 +8128,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://eyeondesign.aiga.org/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -8140,7 +8138,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.cabinetmagazine.org/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -8150,7 +8148,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://hyperallergic.com/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -8160,7 +8158,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.theartnewspaper.com/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -8170,7 +8168,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://artreview.com/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -8180,90 +8178,90 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.e-flux.com/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
 Source homepage / 来源主页
 
-### Whitney Museum Is Selling a de Kooning Painting Just Three Years After Receiving It
+### ARTnews Awards 2026 Emerging Artist of the Year: Coco Klockner
 Source: ARTnews
-Published: 2026-11-13 22:36 UTC
-URL: https://www.artnews.com/art-news/market/whitney-museum-de-kooning-yellow-river-christies-auction-1234805966/
+Published: 2026-11-14 22:50 UTC
+URL: https://www.artnews.com/art-news/artists/coco-klockner-artnews-awards-2026-emerging-artist-1234805787/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
-Attribution: ARTnews [arts_design] https://www.artnews.com/art-news/market/whitney-museum-de-kooning-yellow-river-christies-auction-1234805966/
+Attribution: ARTnews [arts_design] https://www.artnews.com/art-news/artists/coco-klockner-artnews-awards-2026-emerging-artist-1234805787/
 
-The painting was once owned by the museum's former president, David Solinger.
+For “In Practice: Coco Klockner” at SculptureCenter, New York.
 
-### Former Philadelphia Museum of Art Executive Charged $30K to Company Cards
+### ARTnews Awards 2026 Historical Artist of the Year: Theresa Hak Kyung Cha
 Source: ARTnews
-Published: 2026-11-13 22:35 UTC
-URL: https://www.artnews.com/art-news/news/former-philadelphia-museum-executive-credit-card-charges-1234805960/
+Published: 2026-11-14 22:50 UTC
+URL: https://www.artnews.com/art-news/artists/theresa-hak-kyung-cha-artnews-awards-2026-historical-artist-1234805840/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
-Attribution: ARTnews [arts_design] https://www.artnews.com/art-news/news/former-philadelphia-museum-executive-credit-card-charges-1234805960/
+Attribution: ARTnews [arts_design] https://www.artnews.com/art-news/artists/theresa-hak-kyung-cha-artnews-awards-2026-historical-artist-1234805840/
 
-Latasha Harling, the museum’s former chief people and diversity officer, pleaded guilty to receiving stolen property, averting a trial that had been scheduled for Friday.
+For “Theresa Hak Kyung Cha: Multiple Offerings” at the Berkeley Art Museum and Pacific Film Archive.
 
-### Europol Warns of More Aggressive Museum Heists as Thieves Change Tactics and Targets
+### ARTnews Awards 2026 Lifetime Achievement: Maren Hassinger
 Source: ARTnews
-Published: 2026-11-13 22:06 UTC
-URL: https://www.artnews.com/art-news/news/europol-warns-of-more-aggressive-museum-heists-thieves-change-tactics-targets-1234805942/
+Published: 2026-11-14 22:50 UTC
+URL: https://www.artnews.com/art-news/artists/maren-hassinger-artnews-awards-2026-lifetime-achievement-1234805782/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
-Attribution: ARTnews [arts_design] https://www.artnews.com/art-news/news/europol-warns-of-more-aggressive-museum-heists-thieves-change-tactics-targets-1234805942/
+Attribution: ARTnews [arts_design] https://www.artnews.com/art-news/artists/maren-hassinger-artnews-awards-2026-lifetime-achievement-1234805782/
 
-Museum thefts have become more brazen, rather than stealthy, and are often executed by low-level criminals chosen on an “ad-hoc” basis.
+For “Maren Hassinger: Living Moving Growing” at the Berkeley Art Museum and Pacific Film Archive.
 
-### Sotheby’s Hedreen Auction Proceeds Will Repay Loan, Not Fund University Museum: Report
+### ARTnews Awards 2026 Best Gallery Group Show: “Horror”
 Source: ARTnews
-Published: 2026-11-13 21:36 UTC
-URL: https://www.artnews.com/art-news/news/sothebys-hedreen-auction-proceeds-will-repay-loan-not-fund-university-museum-report-1234805958/
+Published: 2026-11-14 22:50 UTC
+URL: https://www.artnews.com/art-news/artists/horror-artnews-awards-2026-best-gallery-group-show-1234805784/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
-Attribution: ARTnews [arts_design] https://www.artnews.com/art-news/news/sothebys-hedreen-auction-proceeds-will-repay-loan-not-fund-university-museum-report-1234805958/
+Attribution: ARTnews [arts_design] https://www.artnews.com/art-news/artists/horror-artnews-awards-2026-best-gallery-group-show-1234805784/
 
-The works are reportedly being sold to pay off a debt secured against the collection — a debt Hedreen says stands between him and fulfilling his pledge to Seattle University.
+For an exhibition at Sprüth Magers in Los Angeles curated by Jill Mulleady.
 
-### Manhattan Landlord Sues Kehinde Wiley, Claiming He Owes $36,000 in Unpaid Rent
+### ARTnews Awards 2026 Best Thematic Museum Exhibition: “MONUMENTS”
 Source: ARTnews
-Published: 2026-11-13 20:53 UTC
-URL: https://www.artnews.com/art-news/news/kehinde-wiley-landlord-lawsuit-unpaid-rent-1234805862/
+Published: 2026-11-14 22:50 UTC
+URL: https://www.artnews.com/art-news/artists/monuments-artnews-awards-2026-best-thematic-museum-show-1234805839/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
-Attribution: ARTnews [arts_design] https://www.artnews.com/art-news/news/kehinde-wiley-landlord-lawsuit-unpaid-rent-1234805862/
+Attribution: ARTnews [arts_design] https://www.artnews.com/art-news/artists/monuments-artnews-awards-2026-best-thematic-museum-show-1234805839/
 
-The suit was filed the same day his new show in New York opened.
+For an exhibition at The Geffen Contemporary at MOCA and The Brick, Los Angeles.
 
-### Long-Lost Charles Le Brun Painting Returns to the New Palace in Potsdam
+### ARTnews Awards 2026 Established Artist of the Year: Vaginal Davis
 Source: ARTnews
-Published: 2026-11-13 20:39 UTC
-URL: https://www.artnews.com/art-news/news/lost-charles-le-brun-painting-returned-new-palace-potsdam-1234805935/
+Published: 2026-11-14 22:50 UTC
+URL: https://www.artnews.com/art-news/artists/vaginal-davis-artnews-awards-2026-established-artist-1234805842/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
-Attribution: ARTnews [arts_design] https://www.artnews.com/art-news/news/lost-charles-le-brun-painting-returned-new-palace-potsdam-1234805935/
+Attribution: ARTnews [arts_design] https://www.artnews.com/art-news/artists/vaginal-davis-artnews-awards-2026-established-artist-1234805842/
 
-The 17th-century work, a depiction of a sleeping Christ Child with the Holy Family, went missing in 1945
+For “Vaginal Davis: Magnificent Product” at MoMA PS1, New York.
 
 ### Civic design has a responsibility
 Source: Design Observer
 Published: 2026-11-12 17:24 UTC
 URL: https://designobserver.com/civic-design-has-a-responsibility/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Design Observer [arts_design] https://designobserver.com/civic-design-has-a-responsibility/
@@ -8275,7 +8273,7 @@ Source: Design Observer
 Published: 2026-11-12 17:16 UTC
 URL: https://designobserver.com/courthouses-are-designed-to-keep-us-apart/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Design Observer [arts_design] https://designobserver.com/courthouses-are-designed-to-keep-us-apart/
@@ -8287,7 +8285,7 @@ Source: The Public Domain Review
 Published: 2026-11-11 18:29 UTC
 URL: https://publicdomainreview.org/essay/soldiers-of-misfortune
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Public Domain Review [arts_design] https://publicdomainreview.org/essay/soldiers-of-misfortune
@@ -8299,7 +8297,7 @@ Source: The Public Domain Review
 Published: 2026-11-11 18:21 UTC
 URL: https://publicdomainreview.org/blog/2026/11/last-order-dates-for-holidays-2026
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Public Domain Review [arts_design] https://publicdomainreview.org/blog/2026/11/last-order-dates-for-holidays-2026
@@ -8311,7 +8309,7 @@ Source: The Public Domain Review
 Published: 2026-11-11 14:49 UTC
 URL: https://publicdomainreview.org/collection/walter-crane-cartoons-for-the-cause
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Public Domain Review [arts_design] https://publicdomainreview.org/collection/walter-crane-cartoons-for-the-cause
@@ -8323,7 +8321,7 @@ Source: The Public Domain Review
 Published: 2026-11-10 11:21 UTC
 URL: https://publicdomainreview.org/collection/a-corner-in-wheat
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Public Domain Review [arts_design] https://publicdomainreview.org/collection/a-corner-in-wheat
@@ -8335,7 +8333,7 @@ Source: The Public Domain Review
 Published: 2026-11-04 14:59 UTC
 URL: https://publicdomainreview.org/collection/marian-wawrzeniecki
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Public Domain Review [arts_design] https://publicdomainreview.org/collection/marian-wawrzeniecki
@@ -8347,7 +8345,7 @@ Source: Design Observer
 Published: 2026-11-02 18:21 UTC
 URL: https://designobserver.com/episode-2-the-redemption-project/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Design Observer [arts_design] https://designobserver.com/episode-2-the-redemption-project/
@@ -8359,7 +8357,7 @@ Source: Design Observer
 Published: 2026-10-28 16:14 UTC
 URL: https://designobserver.com/the-professional-responsibility-thats-not-in-your-job-description/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Design Observer [arts_design] https://designobserver.com/the-professional-responsibility-thats-not-in-your-job-description/
@@ -8371,7 +8369,7 @@ Source: The Public Domain Review
 Published: 2026-10-28 15:47 UTC
 URL: https://publicdomainreview.org/essay/wonderful-weather
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Public Domain Review [arts_design] https://publicdomainreview.org/essay/wonderful-weather
@@ -8383,7 +8381,7 @@ Source: Design Observer
 Published: 2026-10-20 16:23 UTC
 URL: https://designobserver.com/a-design-lesson-from-major-league-baseball/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Design Observer [arts_design] https://designobserver.com/a-design-lesson-from-major-league-baseball/
@@ -8395,7 +8393,7 @@ Source: Design Observer
 Published: 2026-10-19 20:42 UTC
 URL: https://designobserver.com/typography-is-an-accessibility-usability-and-customer-care-issue-says-charles-nix/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Design Observer [arts_design] https://designobserver.com/typography-is-an-accessibility-usability-and-customer-care-issue-says-charles-nix/
@@ -8408,7 +8406,7 @@ For pharmaceutical and wellness brands, partnering with the right designers is t
 Source: URL-only source / 仅网址源
 URL: https://www.planetizen.com/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -8418,7 +8416,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.bloomberg.com/citylab
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -8428,7 +8426,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.architectural-review.com/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -8438,30 +8436,78 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://placesjournal.org/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
 Source homepage / 来源主页
+
+### Seattle Street Ends: Eastlake
+Source: The Urbanist
+Published: 2026-11-14 19:58 UTC
+URL: https://www.theurbanist.org/seattle-street-ends-eastlake/
+Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
+Fetched: 2026-11-14 23:34 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: The Urbanist [architecture_urbanism] https://www.theurbanist.org/seattle-street-ends-eastlake/
+
+John Feit takes us on a photo tour of the eight street end parks and one waterfront park in Seattle's Eastlake neighborhood. SDOT manages 142 street ends citywide.
 
 ### Arudeko transforms discarded wool into paper-like material
 Source: Dezeen
 Published: 2026-11-14 18:00 UTC
 URL: https://www.dezeen.com/2026/11/14/arudeko-bianni-waste-wool-paper-material/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Dezeen [architecture_urbanism] https://www.dezeen.com/2026/11/14/arudeko-bianni-waste-wool-paper-material/
 
 Mexican studio Arudeko has developed Bianni, a paper-like material from colourful waste wool, which can be sculpted into everything from lampshades to room dividers. The post Arudeko transforms discarded wool into paper-like material appeared first on Dezeen.
 
+### Vanguard House / Ming Architects
+Source: ArchDaily
+Published: 2026-11-14 17:00 UTC
+URL: https://www.archdaily.com/1187949/vanguard-house-ming-architects
+Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
+Fetched: 2026-11-14 23:34 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: ArchDaily [architecture_urbanism] https://www.archdaily.com/1187949/vanguard-house-ming-architects
+
+Vanguard House is a spacious residence with privacy and serenity at the forefront of its design. With concealed living spaces and the incorporation of water features at its core, it creates a light and relaxing atmosphere complemented by its use of materials.
+
+### Sona Listening Practices / Épico Studio
+Source: ArchDaily
+Published: 2026-11-14 16:00 UTC
+URL: https://www.archdaily.com/1188633/sona-listening-practices-epico-studio
+Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
+Fetched: 2026-11-14 23:34 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: ArchDaily [architecture_urbanism] https://www.archdaily.com/1188633/sona-listening-practices-epico-studio
+
+Sona is a space dedicated to listening practices, designed by Épico Estudio and Panorama. Located in the heart of Mexico City, in the Condesa neighborhood, the 245 m² venue—spearheaded by a group of friends led by Luis López (Lulo)—is defined as an environment oriented toward sonic immersion: device-free, alcohol-free, and distraction-free. The concept transforms the act of listening into a conscious, deliberate, shared, and, above all, deeply sensory experience.
+
+### Minthis Resort Development / Woods Bagot
+Source: ArchDaily
+Published: 2026-11-14 15:00 UTC
+URL: https://www.archdaily.com/1009606/minthis-hills-woods-baggot
+Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
+Fetched: 2026-11-14 23:34 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: ArchDaily [architecture_urbanism] https://www.archdaily.com/1009606/minthis-hills-woods-baggot
+
+Minthis is a resort-style development located in the hillside setting of Tsada Village in Paphos. With Cypriot developer Pafilia, Woods Bagot's London studio delivered master planning, architecture, interior design, and branding services to create a unique retreat-style experience, combining the best of local antiquity and premium amenities.
+
 ### Japanese sauna by Daichi Inc makes "people feel as though they are dissolving into the forest"
 Source: Dezeen
 Published: 2026-11-14 11:00 UTC
 URL: https://www.dezeen.com/2026/11/14/daichi-inc-silent-river-tree-sauna/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Dezeen [architecture_urbanism] https://www.dezeen.com/2026/11/14/daichi-inc-silent-river-tree-sauna/
@@ -8473,7 +8519,7 @@ Source: ArchDaily
 Published: 2026-11-14 11:00 UTC
 URL: https://www.archdaily.com/1187695/land-over-water-firm-architects
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: ArchDaily [architecture_urbanism] https://www.archdaily.com/1187695/land-over-water-firm-architects
@@ -8485,7 +8531,7 @@ Source: Dezeen
 Published: 2026-11-14 10:00 UTC
 URL: https://www.dezeen.com/2026/11/14/parque-del-jaguar-colectivo-c733-tulum-mexico-ecological-park/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Dezeen [architecture_urbanism] https://www.dezeen.com/2026/11/14/parque-del-jaguar-colectivo-c733-tulum-mexico-ecological-park/
@@ -8497,7 +8543,7 @@ Source: ArchDaily
 Published: 2026-11-14 10:00 UTC
 URL: https://www.archdaily.com/1188511/maryland-house
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: ArchDaily [architecture_urbanism] https://www.archdaily.com/1188511/maryland-house
@@ -8509,7 +8555,7 @@ Source: ArchDaily
 Published: 2026-11-14 07:30 UTC
 URL: https://www.archdaily.com/1187920/art-architecture-archaeology-a-refuge-for-artists-at-ammans-darat-al-funun
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: ArchDaily [architecture_urbanism] https://www.archdaily.com/1187920/art-architecture-archaeology-a-refuge-for-artists-at-ammans-darat-al-funun
@@ -8521,43 +8567,19 @@ Source: Dezeen
 Published: 2026-11-14 06:00 UTC
 URL: https://www.dezeen.com/2026/11/14/this-week-sony-walkman-headphones/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Dezeen [architecture_urbanism] https://www.dezeen.com/2026/11/14/this-week-sony-walkman-headphones/
 
 This week on Dezeen, Japanese electronics company Sony launched a remake of its original Walkman headphones, which feature colourful foam pads and lean into 1980s nostalgia. The post This week Sony revived its classic Walkman headphones appeared first on Dezeen.
 
-### Vandeuren III-IV / P&P Architectes + Atelier d'Architecture A4
-Source: ArchDaily
-Published: 2026-11-14 06:00 UTC
-URL: https://www.archdaily.com/1186465/vandeuren-iii-iv-p-and-p-architectes
-Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: ArchDaily [architecture_urbanism] https://www.archdaily.com/1186465/vandeuren-iii-iv-p-and-p-architectes
-
-Winner of the Be-Exemplary Award 2019, Vandeuren III and IV is part of an ambitious renovation strategy for social housing in Brussels. The project transforms 160 dwellings into 132 reconfigured units while integrating shared facilities and a reorganization of outdoor spaces. The intervention combines heritage preservation, quality of use, and circularity, enhancing the existing fabric while responding to contemporary needs.
-
-### Minou-On Apartment Renovation / CROSSARCHITECTURE / Mehrdad Makaremi
-Source: ArchDaily
-Published: 2026-11-14 02:00 UTC
-URL: https://www.archdaily.com/1187951/minou-on-apartment-renovation-crossarchitecture-mehrdad-makaremi
-Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: ArchDaily [architecture_urbanism] https://www.archdaily.com/1187951/minou-on-apartment-renovation-crossarchitecture-mehrdad-makaremi
-
-In Minou-On Apartment, a thirty-year-old duplex in Tehran gains a villa-like quality as a former terrace becomes a skylit, planted void. A timber system connects the home's two floors, working with the exposed concrete frame to reorganize rooms, circulation, and everyday life.
-
 ### Shoreline Pedestrian Bridge Defect Jeopardizes Already Delayed Timeline
 Source: The Urbanist
 Published: 2026-11-13 22:59 UTC
 URL: https://www.theurbanist.org/shoreline-pedestrian-bridge-defect-jeopardizes-already-delayed-timeline/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Urbanist [architecture_urbanism] https://www.theurbanist.org/shoreline-pedestrian-bridge-defect-jeopardizes-already-delayed-timeline/
@@ -8569,31 +8591,19 @@ Source: Dezeen
 Published: 2026-11-13 19:00 UTC
 URL: https://www.dezeen.com/2026/11/13/six-quietening-acoustic-products-booths-pods-dezeen-showroom/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Dezeen [architecture_urbanism] https://www.dezeen.com/2026/11/13/six-quietening-acoustic-products-booths-pods-dezeen-showroom/
 
 The following products, ranging from work pods to solid panels, are among recent sound-dampening items published on our Showroom section. Products with acoustic features are specified by designers in order to maintain calm and quiet in busy environments. They are especially useful and widely used in offices and workplaces, where they help to enhance focus […] The post Six quietening acoustic products that instil calm in interiors appeared first on Dezeen.
 
-### Itchimbía Housing / Mejía Narváez Arquitectos
-Source: ArchDaily
-Published: 2026-11-13 19:00 UTC
-URL: https://www.archdaily.com/1188630/itchimbia-housing-mejia-narvaez-arquitectos
-Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: ArchDaily [architecture_urbanism] https://www.archdaily.com/1188630/itchimbia-housing-mejia-narvaez-arquitectos
-
-Itchimbía transforms a void in Quito's Historic Center into six homes that reveal the city through a gradual journey, where material and light make the passage of time perceptible.
-
 ### Ocean liner sunk in Florida to become "world's largest artificial reef"
 Source: Dezeen
 Published: 2026-11-13 18:00 UTC
 URL: https://www.dezeen.com/2026/11/13/ss-united-ocean-liner-sunk-florida-artificial-reef/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Dezeen [architecture_urbanism] https://www.dezeen.com/2026/11/13/ss-united-ocean-liner-sunk-florida-artificial-reef/
@@ -8605,7 +8615,7 @@ Source: The Urbanist
 Published: 2026-11-13 16:07 UTC
 URL: https://www.theurbanist.org/five-more-washington-cities-selected-for-state-growth-plan-reviews-in-2027/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Urbanist [architecture_urbanism] https://www.theurbanist.org/five-more-washington-cities-selected-for-state-growth-plan-reviews-in-2027/
@@ -8617,7 +8627,7 @@ Source: The Urbanist
 Published: 2026-11-12 23:56 UTC
 URL: https://www.theurbanist.org/bellevue-council-settles-on-10-year-transportation-funding-plan/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Urbanist [architecture_urbanism] https://www.theurbanist.org/bellevue-council-settles-on-10-year-transportation-funding-plan/
@@ -8629,7 +8639,7 @@ Source: The Urbanist
 Published: 2026-11-12 21:30 UTC
 URL: https://www.theurbanist.org/wilson-makes-first-veto-as-mayor-count/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Urbanist [architecture_urbanism] https://www.theurbanist.org/wilson-makes-first-veto-as-mayor-count/
@@ -8641,24 +8651,12 @@ Source: The Urbanist
 Published: 2026-11-12 15:53 UTC
 URL: https://www.theurbanist.org/katie-wilson-headlines-speaker-lineup-for-the-urbanists-dec-4-holiday-party/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Urbanist [architecture_urbanism] https://www.theurbanist.org/katie-wilson-headlines-speaker-lineup-for-the-urbanists-dec-4-holiday-party/
 
 Join The Urbanist for our end-of-year party and fundraiser. Hear from four different urbanist electeds, mingle with local advocates, and celebrate The Urbanist's work!
-
-### Wilson Greenlights Expansion of Surveillance in Seattle
-Source: The Urbanist
-Published: 2026-11-11 16:11 UTC
-URL: https://www.theurbanist.org/wilson-greenlights-expansion-of-surveillance-in-seattle/
-Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: The Urbanist [architecture_urbanism] https://www.theurbanist.org/wilson-greenlights-expansion-of-surveillance-in-seattle/
-
-Mayor Katie Wilson announced Tuesday that the City is moving forward with the expansion of the Seattle Police Department’s surveillance program, which was approved by city council last fall but paused by her. Civil rights groups criticized the move as a betrayal of her campaign promises.
 
 ## games / 游戏
 
@@ -8666,7 +8664,7 @@ Mayor Katie Wilson announced Tuesday that the City is moving forward with the ex
 Source: URL-only source / 仅网址源
 URL: https://www.gamesindustry.biz/
 Source meta: trade_publication · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -8676,7 +8674,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://critical-distance.com/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -8686,7 +8684,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.noemamag.com/tag/games/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -8696,7 +8694,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: http://gamestudies.org/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -8706,7 +8704,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.superjumpmagazine.com/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -8716,7 +8714,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.pcgamer.com/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -8726,7 +8724,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.polygon.com/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -8736,18 +8734,42 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.eurogamer.net/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
 Source homepage / 来源主页
+
+### Forage and fight for ingredients in a magical 1960s Italy and whip up some tasty meals Cooking Mama style in The Snackbar at the End of the World
+Source: Rock Paper Shotgun
+Published: 2026-11-14 22:53 UTC
+URL: https://www.rockpapershotgun.com/forage-and-fight-for-ingredients-in-a-magical-1960s-italy-and-whip-up-some-tasty-meals-cooking-mama-style-in-the-snackbar-at-the-end-of-the-world
+Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
+Fetched: 2026-11-14 23:34 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: Rock Paper Shotgun [games] https://www.rockpapershotgun.com/forage-and-fight-for-ingredients-in-a-magical-1960s-italy-and-whip-up-some-tasty-meals-cooking-mama-style-in-the-snackbar-at-the-end-of-the-world
+
+If a game is about cooking, at minimum I'll have to give it a quick testspin. Outside of this whole writing about video games thing, my other lot in life is soul bound to food, so I'm always curious to see how the two can be mixed together. And earlier this week, The Snackbar at the End of the World was revealed, a wonderfully cartoonish action-adventure game set in a magical, slightly post-apocalyptic version of 1960s Italy where you go out and forage for ingredients while fending off monstrous crops before turning them into tasty meals back in your struggling restaurant. Read more
+
+### Rasen, out in early access now, is a PvP focused take on Dark Souls that borrows one of fighting games' best techy tricks
+Source: Rock Paper Shotgun
+Published: 2026-11-14 21:31 UTC
+URL: https://www.rockpapershotgun.com/rasen-out-in-early-access-now-is-a-pvp-focused-take-on-dark-souls-that-borrows-one-of-fighting-games-best-techy-tricks
+Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
+Fetched: 2026-11-14 23:34 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: Rock Paper Shotgun [games] https://www.rockpapershotgun.com/rasen-out-in-early-access-now-is-a-pvp-focused-take-on-dark-souls-that-borrows-one-of-fighting-games-best-techy-tricks
+
+The idea of Dark Souls PvP has always scared me a tad. You can replace Dark Souls with Bloodborne or Elden Ring, I've typically just been a coward when it comes to the idea of fighting another, real person. They're probably going to be better than me! I don't use tactics in Souls games, I use brute force until I get my way! That being said, I do have to admit I quite like the look of Rasen, a game that is essentially just the PvP component of Dark Souls (or PvE if you just want to take on some computer-controlled enemies) that just launched into early access. Read more
 
 ### Congratulations to people who feel mean shooting random NPCs, because GTA 6 tries "to provide mechanisms that encourage" empathy
 Source: Rock Paper Shotgun
 Published: 2026-11-14 19:00 UTC
 URL: https://www.rockpapershotgun.com/congratulations-to-people-who-feel-mean-shooting-random-npcs-because-gta-6-tries-to-provide-mechanisms-that-encourage-empathy
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Rock Paper Shotgun [games] https://www.rockpapershotgun.com/congratulations-to-people-who-feel-mean-shooting-random-npcs-because-gta-6-tries-to-provide-mechanisms-that-encourage-empathy
@@ -8759,7 +8781,7 @@ Source: Rock Paper Shotgun
 Published: 2026-11-14 17:59 UTC
 URL: https://www.rockpapershotgun.com/from-2d-to-3d-and-back-to-2d-again-the-original-platforming-classic-super-meat-boy-returns-with-a-slick-remaster-complete-with-new-levels-and-too-many-old-saws
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Rock Paper Shotgun [games] https://www.rockpapershotgun.com/from-2d-to-3d-and-back-to-2d-again-the-original-platforming-classic-super-meat-boy-returns-with-a-slick-remaster-complete-with-new-levels-and-too-many-old-saws
@@ -8771,7 +8793,7 @@ Source: Rock Paper Shotgun
 Published: 2026-11-14 16:53 UTC
 URL: https://www.rockpapershotgun.com/missed-something-on-your-first-go-around-the-blood-of-dawnwalker-ive-got-good-news-as-next-weeks-update-adds-in-new-game-plus
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Rock Paper Shotgun [games] https://www.rockpapershotgun.com/missed-something-on-your-first-go-around-the-blood-of-dawnwalker-ive-got-good-news-as-next-weeks-update-adds-in-new-game-plus
@@ -8783,7 +8805,7 @@ Source: Rock Paper Shotgun
 Published: 2026-11-14 08:00 UTC
 URL: https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-408
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Rock Paper Shotgun [games] https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-408
@@ -8795,43 +8817,19 @@ Source: Game Developer
 Published: 2026-11-13 18:32 UTC
 URL: https://www.gamedeveloper.com/business/european-union-proposes-digital-fairness-act-which-could-have-major-effects-on-game-development
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Game Developer [games] https://www.gamedeveloper.com/business/european-union-proposes-digital-fairness-act-which-could-have-major-effects-on-game-development
 
 The Digital Fairness Act, if adopted, could massively change the way some games are developed and published not just in Europe, but across the globe.
 
-### Cyberpunk trading sim Probably Stolen is getting three big updates with new starting scenarios - organ trading, junk empires and fine dining
-Source: Rock Paper Shotgun
-Published: 2026-11-13 17:30 UTC
-URL: https://www.rockpapershotgun.com/cyberpunk-trading-sim-probably-stolen-is-getting-three-big-updates-with-new-starting-scenarios-organ-trading-junk-empires-and-fine-dining
-Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: Rock Paper Shotgun [games] https://www.rockpapershotgun.com/cyberpunk-trading-sim-probably-stolen-is-getting-three-big-updates-with-new-starting-scenarios-organ-trading-junk-empires-and-fine-dining
-
-Mucky and disreputable kiosk game Probably Stolen – Cyberpunk Shopkeeper Sim is getting three big updates over the next few months that add extra starting scenarios, building on the existing wealth of goods, materials, vocations and techs. Those starting scenarios range from peddling human meat to running the finest cyber-frappucino stall this side of Tannhäuser Gate. There are no hard release dates, and the contents of each update may alter, but developers Questing Goose Studio have shared some rough timeframes. Read more
-
-### While soulslikes went bigger than big, Death's Door swung open the appeal of a tighter adventure
-Source: Rock Paper Shotgun
-Published: 2026-11-13 17:05 UTC
-URL: https://www.rockpapershotgun.com/have-you-played-deaths-door
-Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: Rock Paper Shotgun [games] https://www.rockpapershotgun.com/have-you-played-deaths-door
-
-Declaring a Best Way of Doing Things is a fool’s game, though in recent years my favourite entries in the Tricky Hitting genre – inclusive of soulslikes and their hybridised disciples – have been the big, bulging ones. Elden Rings and Silksongs, with vast kingdoms and deep, rattling toolkits for surviving them. The reason it’s a fool’s game is because you can also have something like Death’s Door, a taut, compact, lighthearted little actioner that fills eight hours instead of 80 and yet never feels underwhelming or compromised for it. Read more
-
 ### Development secrets of Dressmaker, ft. Ruan Rothmann & Sara Laubscher
 Source: Game Developer
 Published: 2026-11-13 16:05 UTC
 URL: https://www.gamedeveloper.com/pc/development-secrets-of-dressmaker-ft-ruan-rothmann-sara-laubscher
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Game Developer [games] https://www.gamedeveloper.com/pc/development-secrets-of-dressmaker-ft-ruan-rothmann-sara-laubscher
@@ -8843,7 +8841,7 @@ Source: Game Developer
 Published: 2026-11-13 15:28 UTC
 URL: https://www.gamedeveloper.com/production/polish-voice-actor-for-geralt-returns-for-the-witcher-3-with-ai
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Game Developer [games] https://www.gamedeveloper.com/production/polish-voice-actor-for-geralt-returns-for-the-witcher-3-with-ai
@@ -8855,7 +8853,7 @@ Source: Game Developer
 Published: 2026-11-12 19:15 UTC
 URL: https://www.gamedeveloper.com/business/tripwire-interactive-layoffs-come-after-announcing-new-publishing-initiative
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Game Developer [games] https://www.gamedeveloper.com/business/tripwire-interactive-layoffs-come-after-announcing-new-publishing-initiative
@@ -8867,7 +8865,7 @@ Source: Game Developer
 Published: 2026-11-12 18:15 UTC
 URL: https://www.gamedeveloper.com/production/genai-using-developers-say-they-mostly-use-it-for-research-and-brainstorming-
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Game Developer [games] https://www.gamedeveloper.com/production/genai-using-developers-say-they-mostly-use-it-for-research-and-brainstorming-
@@ -8879,7 +8877,7 @@ Source: Game Developer
 Published: 2026-11-12 18:03 UTC
 URL: https://www.gamedeveloper.com/business/one-in-three-developers-have-been-laid-off-within-the-last-two-years
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Game Developer [games] https://www.gamedeveloper.com/business/one-in-three-developers-have-been-laid-off-within-the-last-two-years
@@ -8892,7 +8890,7 @@ According to the State of the Industry survey, 34 percent of respondents have st
 Source: URL-only source / 仅网址源
 URL: https://sfra.org/sfra-review
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -8902,7 +8900,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.tor.com/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -8914,7 +8912,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.vogue.com/fashion-shows
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -8924,7 +8922,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.highsnobiety.com/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -8934,7 +8932,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://hypebeast.com/
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -8944,7 +8942,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.businessoffashion.com/
 Source meta: trade_publication · specialist · R4 · P4 · culture_probe
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: status: reviewed; checked: 2026-10-30; scope: 时尚、美容与奢侈品行业报道及分析; identity: 官方定位为面向时尚与美容产业的媒体与行业信息公司。; reliability: R4：公开编辑独立、商业内容标示与利益冲突规则；这支持专业报道用途，但不是事实无误保证。; professional_value: P4：提供时尚产业、品牌与行业背景，补充秀场与风格资料。; evidence: ['https://www.businessoffashion.com/about-us/', 'https://www.businessoffashion.com/our-journalism/']; limitations: 区分新闻、分析与赞助内容；商业预测需交叉核验。; access: 保留已有 RSS；只取其返回的标题和摘要，不绕过订阅限制。
 Fetch status: fetch_failed
 
@@ -8954,7 +8952,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://nowfashion.com/
 Source meta: specialist_media · primary · R4 · P4 · reference
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: status: reviewed; checked: 2026-10-30; scope: 秀场照片及品牌、季节、场次元数据; identity: 官方介绍其为秀场摄影档案，主页按品牌、系列、日期展示照片。; reliability: R4：可定位到具体场次的摄影记录适合作为视觉一手参考；场次文字信息仍需与品牌日程核对。; professional_value: P4：补足时尚与风格分类中的成套秀场视觉参考。; evidence: ['https://nowfashion.com/', 'https://nowfashion.com/about-photo-collection', 'https://nowfashion.com/licensing-agreement-terms-of-service']; limitations: 不将官网规模宣传作为质量证据；照片不等于可自由转载素材。; access: 仅保留网址；条款限制内容复制，未确认允许本库采集的 RSS/API。
 Fetch status: link_only
 
@@ -8962,20 +8960,32 @@ Fetch status: link_only
 
 ### Liu Jo Fall 2027 Ready-to-Wear
 Source: Vogue
-Published: 2026-11-14 19:35 UTC
+Published: 2026-11-14 23:30 UTC
 URL: https://www.vogue.com/fashion-shows/fall-2027-ready-to-wear/liu-jo
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Vogue [fashion_style] https://www.vogue.com/fashion-shows/fall-2027-ready-to-wear/liu-jo
+
+### E.T., Phone Chanel! How Fashion’s Labels Got Personal Again
+Source: Vogue
+Published: 2026-11-14 21:39 UTC
+URL: https://www.vogue.com/article/how-fashions-labels-got-personal-again
+Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
+Fetched: 2026-11-14 23:34 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: Vogue [fashion_style] https://www.vogue.com/article/how-fashions-labels-got-personal-again
+
+From Steven Spielberg’s secret Chanel embroidery to love letters, playful logos, and little lambs, fashion is finding new ways to wear its heart on its sleeve—or, rather, inside its lining.
 
 ### Florence Pugh Sees Your Statement Coat and Raises You a Statement Shoulder
 Source: Vogue
 Published: 2026-11-14 11:55 UTC
 URL: https://www.vogue.com/article/florence-pugh-sees-your-statement-coat-and-raises-you-a-statement-shoulder-2026-11-14
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Vogue [fashion_style] https://www.vogue.com/article/florence-pugh-sees-your-statement-coat-and-raises-you-a-statement-shoulder-2026-11-14
@@ -8987,7 +8997,7 @@ Source: Vogue
 Published: 2026-11-14 11:00 UTC
 URL: https://www.vogue.com/article/street-style-fashion-week-musicians-best-looks-in-street-style
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Vogue [fashion_style] https://www.vogue.com/article/street-style-fashion-week-musicians-best-looks-in-street-style
@@ -8999,7 +9009,7 @@ Source: Vogue
 Published: 2026-11-14 09:30 UTC
 URL: https://www.vogue.com/slideshow/best-beauty-looks-of-the-week-november-14
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Vogue [fashion_style] https://www.vogue.com/slideshow/best-beauty-looks-of-the-week-november-14
@@ -9011,24 +9021,12 @@ Source: Vogue
 Published: 2026-11-14 01:39 UTC
 URL: https://www.vogue.com/article/how-mouse-gets-the-early-2000s-so-right
 Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Vogue [fashion_style] https://www.vogue.com/article/how-mouse-gets-the-early-2000s-so-right
 
 From vintage prom dresses to Seventeen-covered bedrooms, the designers of “Mouse” reveal how fashion and interiors bring 2002 Arkansas to life.
-
-### Painter Sascha Braunig Pushes Through the Void
-Source: Vogue
-Published: 2026-11-14 00:51 UTC
-URL: https://www.vogue.com/article/sascha-brauning-wrist-painte-interview
-Source meta: culture_magazine · commentary · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:39 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: Vogue [fashion_style] https://www.vogue.com/article/sascha-brauning-wrist-painte-interview
-
-“Sascha Braunig: Wrist Painter” is on view at the Portland Art Museum in Maine from November 13, 2026, through March 14, 2027.
 
 ## human societies / 人类社会
 
@@ -9036,7 +9034,7 @@ Attribution: Vogue [fashion_style] https://www.vogue.com/article/sascha-brauning
 Source: URL-only source / 仅网址源
 URL: https://contexts.org/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -9046,7 +9044,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://theconversation.com/global/topics/society-63
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -9056,7 +9054,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.annualreviews.org/magazine
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -9066,7 +9064,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://allegralaboratory.net/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -9076,7 +9074,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://culanth.org/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -9087,7 +9085,7 @@ Source: Anthropology News
 Published: 2026-11-14 16:53 UTC
 URL: https://www.anthropology-news.org/articles/lost-library-interviews-coping-with-losses/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Anthropology News [human_societies] https://www.anthropology-news.org/articles/lost-library-interviews-coping-with-losses/
@@ -9100,7 +9098,7 @@ Published: 2026-11-13 13:33 UTC
 URL: https://rai.onlinelibrary.wiley.com/doi/10.1111/1467-8322.70118?af=R
 Source meta: journal · primary · R5 · P5 · reference
 Updated: 2026-11-13 13:33 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Anthropology Today [human_societies] https://rai.onlinelibrary.wiley.com/doi/10.1111/1467-8322.70118?af=R
@@ -9113,7 +9111,7 @@ Published: 2026-11-13 13:33 UTC
 URL: https://rai.onlinelibrary.wiley.com/doi/10.1111/1467-8322.70121?af=R
 Source meta: journal · primary · R5 · P5 · reference
 Updated: 2026-11-13 13:33 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Anthropology Today [human_societies] https://rai.onlinelibrary.wiley.com/doi/10.1111/1467-8322.70121?af=R
@@ -9126,7 +9124,7 @@ Published: 2026-11-13 13:33 UTC
 URL: https://rai.onlinelibrary.wiley.com/doi/10.1111/1467-8322.70122?af=R
 Source meta: journal · primary · R5 · P5 · reference
 Updated: 2026-11-13 13:33 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Anthropology Today [human_societies] https://rai.onlinelibrary.wiley.com/doi/10.1111/1467-8322.70122?af=R
@@ -9139,7 +9137,7 @@ Published: 2026-11-13 13:33 UTC
 URL: https://rai.onlinelibrary.wiley.com/doi/10.1111/1467-8322.70113?af=R
 Source meta: journal · primary · R5 · P5 · reference
 Updated: 2026-11-13 13:33 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Anthropology Today [human_societies] https://rai.onlinelibrary.wiley.com/doi/10.1111/1467-8322.70113?af=R
@@ -9152,7 +9150,7 @@ Published: 2026-11-13 13:33 UTC
 URL: https://rai.onlinelibrary.wiley.com/doi/10.1111/1467-8322.70119?af=R
 Source meta: journal · primary · R5 · P5 · reference
 Updated: 2026-11-13 13:33 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Anthropology Today [human_societies] https://rai.onlinelibrary.wiley.com/doi/10.1111/1467-8322.70119?af=R
@@ -9165,7 +9163,7 @@ Published: 2026-11-13 13:33 UTC
 URL: https://rai.onlinelibrary.wiley.com/doi/10.1111/1467-8322.70117?af=R
 Source meta: journal · primary · R5 · P5 · reference
 Updated: 2026-11-13 13:33 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Anthropology Today [human_societies] https://rai.onlinelibrary.wiley.com/doi/10.1111/1467-8322.70117?af=R
@@ -9177,7 +9175,7 @@ Source: Anthropology News
 Published: 2026-11-10 15:53 UTC
 URL: https://www.anthropology-news.org/articles/temporalities-of-the-cheese-case/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Anthropology News [human_societies] https://www.anthropology-news.org/articles/temporalities-of-the-cheese-case/
@@ -9189,7 +9187,7 @@ Source: Anthropology News
 Published: 2026-11-10 15:15 UTC
 URL: https://www.anthropology-news.org/articles/en-convivencia-allas-encuentro-in-new-orleans-latine-communities-through-song/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Anthropology News [human_societies] https://www.anthropology-news.org/articles/en-convivencia-allas-encuentro-in-new-orleans-latine-communities-through-song/
@@ -9201,7 +9199,7 @@ Source: Anthropology News
 Published: 2026-11-10 14:38 UTC
 URL: https://www.anthropology-news.org/articles/lovecidal-masculinities-on-the-affective-structures-of-mens-misogyny-and-violence/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Anthropology News [human_societies] https://www.anthropology-news.org/articles/lovecidal-masculinities-on-the-affective-structures-of-mens-misogyny-and-violence/
@@ -9214,7 +9212,7 @@ Published: 2026-11-08 20:24 UTC
 URL: https://anthrosource.onlinelibrary.wiley.com/doi/10.1111/aman.70139?af=R
 Source meta: journal · primary · R5 · P5 · reference
 Updated: 2026-11-08 20:24 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: American Anthropologist [human_societies] https://anthrosource.onlinelibrary.wiley.com/doi/10.1111/aman.70139?af=R
@@ -9227,7 +9225,7 @@ Published: 2026-11-08 20:20 UTC
 URL: https://anthrosource.onlinelibrary.wiley.com/doi/10.1111/aman.70137?af=R
 Source meta: journal · primary · R5 · P5 · reference
 Updated: 2026-11-08 20:20 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: American Anthropologist [human_societies] https://anthrosource.onlinelibrary.wiley.com/doi/10.1111/aman.70137?af=R
@@ -9240,7 +9238,7 @@ Published: 2026-11-08 20:04 UTC
 URL: https://anthrosource.onlinelibrary.wiley.com/doi/10.1111/aman.70132?af=R
 Source meta: journal · primary · R5 · P5 · reference
 Updated: 2026-11-08 20:04 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: American Anthropologist [human_societies] https://anthrosource.onlinelibrary.wiley.com/doi/10.1111/aman.70132?af=R
@@ -9253,7 +9251,7 @@ Published: 2026-11-08 18:58 UTC
 URL: https://anthrosource.onlinelibrary.wiley.com/doi/10.1111/aman.70135?af=R
 Source meta: journal · primary · R5 · P5 · reference
 Updated: 2026-11-08 18:58 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: American Anthropologist [human_societies] https://anthrosource.onlinelibrary.wiley.com/doi/10.1111/aman.70135?af=R
@@ -9266,7 +9264,7 @@ Published: 2026-11-08 18:56 UTC
 URL: https://anthrosource.onlinelibrary.wiley.com/doi/10.1111/aman.70136?af=R
 Source meta: journal · primary · R5 · P5 · reference
 Updated: 2026-11-08 18:56 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: American Anthropologist [human_societies] https://anthrosource.onlinelibrary.wiley.com/doi/10.1111/aman.70136?af=R
@@ -9279,7 +9277,7 @@ Published: 2026-11-08 18:21 UTC
 URL: https://anthrosource.onlinelibrary.wiley.com/doi/10.1111/aman.70123?af=R
 Source meta: journal · primary · R5 · P5 · reference
 Updated: 2026-11-08 18:21 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: American Anthropologist [human_societies] https://anthrosource.onlinelibrary.wiley.com/doi/10.1111/aman.70123?af=R
@@ -9291,7 +9289,7 @@ Source: Anthropology News
 Published: 2026-11-05 13:30 UTC
 URL: https://www.anthropology-news.org/articles/michael-m-cernea/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Anthropology News [human_societies] https://www.anthropology-news.org/articles/michael-m-cernea/
@@ -9303,7 +9301,7 @@ Source: Somatosphere
 Published: 2026-11-02 10:49 UTC
 URL: https://somatosphere.net/when-causality-swirls-toxic-uncertainty-in-industrial-aliaga/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Somatosphere [human_societies] https://somatosphere.net/when-causality-swirls-toxic-uncertainty-in-industrial-aliaga/
@@ -9315,7 +9313,7 @@ Source: Somatosphere
 Published: 2026-10-26 10:09 UTC
 URL: https://somatosphere.net/in-the-journals-october-2026/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Somatosphere [human_societies] https://somatosphere.net/in-the-journals-october-2026/
@@ -9327,7 +9325,7 @@ Source: Somatosphere
 Published: 2026-10-20 09:05 UTC
 URL: https://somatosphere.net/the-frontline-middlemen-how-pharmaceutical-technicians-navigate-fake-biomedicine-anxieties-in-morogoro-tanzania/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Somatosphere [human_societies] https://somatosphere.net/the-frontline-middlemen-how-pharmaceutical-technicians-navigate-fake-biomedicine-anxieties-in-morogoro-tanzania/
@@ -9339,7 +9337,7 @@ Source: Anthropology News
 Published: 2026-10-19 16:51 UTC
 URL: https://www.anthropology-news.org/articles/curated-collection-elections/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Anthropology News [human_societies] https://www.anthropology-news.org/articles/curated-collection-elections/
@@ -9351,7 +9349,7 @@ Source: Somatosphere
 Published: 2026-09-23 10:51 UTC
 URL: https://somatosphere.net/in-the-journals-september-2026/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Somatosphere [human_societies] https://somatosphere.net/in-the-journals-september-2026/
@@ -9363,7 +9361,7 @@ Source: Somatosphere
 Published: 2026-09-18 13:20 UTC
 URL: https://somatosphere.net/online-and-offline-middlemen-contrasting-ways-of-creating-trust-in-the-pharmaceutical-markets-of-north-india/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Somatosphere [human_societies] https://somatosphere.net/online-and-offline-middlemen-contrasting-ways-of-creating-trust-in-the-pharmaceutical-markets-of-north-india/
@@ -9375,7 +9373,7 @@ Source: Somatosphere
 Published: 2026-09-02 09:45 UTC
 URL: https://somatosphere.net/middlemen-and-fakes-brokering-pharmaceutical-nationalism-in-iran/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Somatosphere [human_societies] https://somatosphere.net/middlemen-and-fakes-brokering-pharmaceutical-nationalism-in-iran/
@@ -9387,7 +9385,7 @@ Source: SAPIENS
 Published: 2025-12-16 21:01 UTC
 URL: https://www.sapiens.org/culture/best-of-sapiens-2025/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: SAPIENS [human_societies] https://www.sapiens.org/culture/best-of-sapiens-2025/
@@ -9399,7 +9397,7 @@ Source: SAPIENS
 Published: 2025-12-16 11:00 UTC
 URL: https://www.sapiens.org/archaeology/dogs-humans-graves-archaeology-coburial/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: SAPIENS [human_societies] https://www.sapiens.org/archaeology/dogs-humans-graves-archaeology-coburial/
@@ -9411,7 +9409,7 @@ Source: SAPIENS
 Published: 2025-12-15 11:00 UTC
 URL: https://www.sapiens.org/culture/listening-against-the-threshold-of-pain-poem-uzma-falak/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: SAPIENS [human_societies] https://www.sapiens.org/culture/listening-against-the-threshold-of-pain-poem-uzma-falak/
@@ -9423,7 +9421,7 @@ Source: SAPIENS
 Published: 2025-12-11 11:00 UTC
 URL: https://www.sapiens.org/archaeology/ancient-female-leader-tibet-tomb-gurugyam-cemetery/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: SAPIENS [human_societies] https://www.sapiens.org/archaeology/ancient-female-leader-tibet-tomb-gurugyam-cemetery/
@@ -9435,7 +9433,7 @@ Source: SAPIENS
 Published: 2025-12-09 11:00 UTC
 URL: https://www.sapiens.org/culture/trans-women-malaysia-conversion-therapy-islam/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: SAPIENS [human_societies] https://www.sapiens.org/culture/trans-women-malaysia-conversion-therapy-islam/
@@ -9447,7 +9445,7 @@ Source: SAPIENS
 Published: 2025-12-02 11:00 UTC
 URL: https://www.sapiens.org/culture/japan-reproduction-death-anti-natalism-movement/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: SAPIENS [human_societies] https://www.sapiens.org/culture/japan-reproduction-death-anti-natalism-movement/
@@ -9459,7 +9457,7 @@ Source: The Society Pages
 Published: 2025-04-01 12:35 UTC
 URL: https://thesocietypages.org/blog/2025/04/01/the-american-journal-of-unfinished-sociology/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Society Pages [human_societies] https://thesocietypages.org/blog/2025/04/01/the-american-journal-of-unfinished-sociology/
@@ -9471,7 +9469,7 @@ Source: The Society Pages
 Published: 2025-03-31 12:54 UTC
 URL: https://thesocietypages.org/blog/2025/03/31/the-american-journal-of-unfinished-sociology-2/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Society Pages [human_societies] https://thesocietypages.org/blog/2025/03/31/the-american-journal-of-unfinished-sociology-2/
@@ -9481,7 +9479,7 @@ Source: The Society Pages
 Published: 2020-11-12 21:37 UTC
 URL: https://thesocietypages.org/blog/2020/11/12/social-inequities-in-healthcare/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Society Pages [human_societies] https://thesocietypages.org/blog/2020/11/12/social-inequities-in-healthcare/
@@ -9493,7 +9491,7 @@ Source: The Society Pages
 Published: 2020-04-08 18:30 UTC
 URL: https://thesocietypages.org/blog/2020/04/08/what-are-covid-19-models-modeling/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Society Pages [human_societies] https://thesocietypages.org/blog/2020/04/08/what-are-covid-19-models-modeling/
@@ -9505,7 +9503,7 @@ Source: Nature Human Behaviour
 Published: Publication date unknown / 发布日期未知
 URL: https://www.nature.com/articles/s41562-026-02637-8
 Source meta: journal · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Nature Human Behaviour [human_societies] https://www.nature.com/articles/s41562-026-02637-8
@@ -9517,7 +9515,7 @@ Source: Nature Human Behaviour
 Published: Publication date unknown / 发布日期未知
 URL: https://www.nature.com/articles/s41562-026-02639-6
 Source meta: journal · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Nature Human Behaviour [human_societies] https://www.nature.com/articles/s41562-026-02639-6
@@ -9529,7 +9527,7 @@ Source: Nature Human Behaviour
 Published: Publication date unknown / 发布日期未知
 URL: https://www.nature.com/articles/s41562-026-02622-1
 Source meta: journal · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Nature Human Behaviour [human_societies] https://www.nature.com/articles/s41562-026-02622-1
@@ -9541,7 +9539,7 @@ Source: Nature Human Behaviour
 Published: Publication date unknown / 发布日期未知
 URL: https://www.nature.com/articles/s41562-026-02591-5
 Source meta: journal · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Nature Human Behaviour [human_societies] https://www.nature.com/articles/s41562-026-02591-5
@@ -9553,7 +9551,7 @@ Source: Nature Human Behaviour
 Published: Publication date unknown / 发布日期未知
 URL: https://www.nature.com/articles/s41562-026-02608-z
 Source meta: journal · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Nature Human Behaviour [human_societies] https://www.nature.com/articles/s41562-026-02608-z
@@ -9565,7 +9563,7 @@ Source: Nature Human Behaviour
 Published: Publication date unknown / 发布日期未知
 URL: https://www.nature.com/articles/s41562-026-02583-5
 Source meta: journal · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Nature Human Behaviour [human_societies] https://www.nature.com/articles/s41562-026-02583-5
@@ -9578,7 +9576,7 @@ Nature Human Behaviour, Published online: 04 November 2026; doi:10.1038/s41562-0
 Source: URL-only source / 仅网址源
 URL: https://www.bps.org.uk/news-and-policy
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -9588,7 +9586,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.mindandlife.org/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -9598,7 +9596,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.apa.org/news
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -9608,7 +9606,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.bps.org.uk/research-digest
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -9619,7 +9617,7 @@ Source: Psyche
 Published: 2026-11-13 11:01 UTC
 URL: https://psyche.co/videos/what-the-flight-paths-of-pigeons-tell-us-about-collective-intelligence
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Psyche [mind] https://psyche.co/videos/what-the-flight-paths-of-pigeons-tell-us-about-collective-intelligence
@@ -9631,43 +9629,43 @@ Source: Psyche
 Published: 2026-11-13 11:00 UTC
 URL: https://psyche.co/turning-points/what-does-motherhood-look-like-without-my-best-friend
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Psyche [mind] https://psyche.co/turning-points/what-does-motherhood-look-like-without-my-best-friend
 
 I lost my best friend just as motherhood began shaking the very roots of my being - by Ashwaq Masoodi Read on Psyche
 
-### Shunning people who ‘look homeless’ is an aesthetic injustice
-Source: Psyche
-Published: 2026-11-12 11:00 UTC
-URL: https://psyche.co/ideas/shunning-people-who-look-homeless-is-an-aesthetic-injustice
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: Psyche [mind] https://psyche.co/ideas/shunning-people-who-look-homeless-is-an-aesthetic-injustice
-
-Society owes unhoused people access to haircuts, showers and clean clothes, not as charity, but as a matter of justice - by Giacomo Floris Read on Psyche
-
 ### Eye on the mark
 Source: Psyche
 Published: 2026-11-12 11:00 UTC
 URL: https://psyche.co/portraits/the-ex-cop-on-a-mission-to-see-fortune-tellers-arrested
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Psyche [mind] https://psyche.co/portraits/the-ex-cop-on-a-mission-to-see-fortune-tellers-arrested
 
 Bob Nygaard, a retired New York policeman, exposes fortune-tellers who profit from turning ordinary human longing into vulnerability. What makes him so good at it? - by Shayla Love Read on Psyche
 
+### Shunning people who ‘look homeless’ is an aesthetic injustice
+Source: Psyche
+Published: 2026-11-12 11:00 UTC
+URL: https://psyche.co/ideas/shunning-people-who-look-homeless-is-an-aesthetic-injustice
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+Fetched: 2026-11-14 23:34 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: Psyche [mind] https://psyche.co/ideas/shunning-people-who-look-homeless-is-an-aesthetic-injustice
+
+Society owes unhoused people access to haircuts, showers and clean clothes, not as charity, but as a matter of justice - by Giacomo Floris Read on Psyche
+
 ### Why ‘patient influencers’ should come with a health warning
 Source: Psyche
 Published: 2026-11-11 11:00 UTC
 URL: https://psyche.co/ideas/why-patient-influencers-should-come-with-a-health-warning
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Psyche [mind] https://psyche.co/ideas/why-patient-influencers-should-come-with-a-health-warning
@@ -9679,7 +9677,7 @@ Source: Psyche
 Published: 2026-11-10 11:01 UTC
 URL: https://psyche.co/videos/a-grand-filmmaking-experiment-traces-intersecting-lives-in-los-angeles
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Psyche [mind] https://psyche.co/videos/a-grand-filmmaking-experiment-traces-intersecting-lives-in-los-angeles
@@ -9692,7 +9690,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://journals.sagepub.com/doi/abs/10.1177/09567976261470400?af=R
 Source meta: journal · primary · R5 · P5 · reference
 Updated: 2026-10-29 06:23 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Psychological Science [mind] https://journals.sagepub.com/doi/abs/10.1177/09567976261470400?af=R
@@ -9705,7 +9703,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://journals.sagepub.com/doi/abs/10.1177/09567976261488750?af=R
 Source meta: journal · primary · R5 · P5 · reference
 Updated: 2026-10-22 06:27 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Psychological Science [mind] https://journals.sagepub.com/doi/abs/10.1177/09567976261488750?af=R
@@ -9718,7 +9716,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://journals.sagepub.com/doi/abs/10.1177/09567976261479660?af=R
 Source meta: journal · primary · R5 · P5 · reference
 Updated: 2026-10-14 05:01 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Psychological Science [mind] https://journals.sagepub.com/doi/abs/10.1177/09567976261479660?af=R
@@ -9731,7 +9729,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://journals.sagepub.com/doi/abs/10.1177/09567976261483544?af=R
 Source meta: journal · primary · R5 · P5 · reference
 Updated: 2026-10-13 04:10 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Psychological Science [mind] https://journals.sagepub.com/doi/abs/10.1177/09567976261483544?af=R
@@ -9744,7 +9742,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://journals.sagepub.com/doi/abs/10.1177/09567976261485960?af=R
 Source meta: journal · primary · R5 · P5 · reference
 Updated: 2026-10-07 07:17 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Psychological Science [mind] https://journals.sagepub.com/doi/abs/10.1177/09567976261485960?af=R
@@ -9757,7 +9755,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://journals.sagepub.com/doi/abs/10.1177/09567976261483545?af=R
 Source meta: journal · primary · R5 · P5 · reference
 Updated: 2026-10-07 05:56 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Psychological Science [mind] https://journals.sagepub.com/doi/abs/10.1177/09567976261483545?af=R
@@ -9770,7 +9768,7 @@ Psychological Science, Volume 37, Issue 11, Page 747-761, November 2026. We quan
 Source: URL-only source / 仅网址源
 URL: https://sciencex.com/news/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -9780,7 +9778,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://sciurls.com/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -9790,7 +9788,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://theconversation.com/global/topics/science-59
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -9800,7 +9798,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://undark.org/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -9810,7 +9808,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://news.mit.edu/topic/science-technology
 Source meta: institutional · primary · R5 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -9820,7 +9818,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.the-scientist.com/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -9830,18 +9828,42 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://phys.org/biology-news/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
 Source homepage / 来源主页
+
+### Urban expansion causes ecological collapse in streams in the São Paulo Metropolitan Area
+Source: Phys.org
+Published: 2026-11-14 22:00 UTC
+URL: https://phys.org/news/2026-11-urban-expansion-ecological-collapse-streams.html
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+Fetched: 2026-11-14 23:34 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: Phys.org [general_science_news] https://phys.org/news/2026-11-urban-expansion-ecological-collapse-streams.html
+
+The advance of urbanization in the São Paulo Metropolitan Area in Brazil is causing the collapse of food webs in local streams. A study published in August in the journal Nature Cities reveals that the impact of the metropolis goes far beyond a simple reduction in species. Degradation selectively eliminates organisms based on their size and simplifies ecological interactions. Networks of 190 connections plummet to just three.
+
+### A dead star is flashing radio waves every 8 minutes, and its partner looks a lot like the sun
+Source: Phys.org
+Published: 2026-11-14 21:00 UTC
+URL: https://phys.org/news/2026-11-dead-star-radio-minutes-partner.html
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+Fetched: 2026-11-14 23:34 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: Phys.org [general_science_news] https://phys.org/news/2026-11-dead-star-radio-minutes-partner.html
+
+Since 2022, astronomers have been puzzling over a new kind of cosmic object called long-period radio transients. These are objects that emit bright flashes of radio waves into space every few minutes to every few hours. Some have been traced back to binary systems consisting of a small, dim, cool star called a red dwarf in orbit with a stellar remnant called a white dwarf.
 
 ### Does your culture shape how you look at art? What an eye‑tracking study in Sudan revealed
 Source: Phys.org
 Published: 2026-11-14 19:00 UTC
 URL: https://phys.org/news/2026-11-culture-art-eyetracking-sudan-revealed.html
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Phys.org [general_science_news] https://phys.org/news/2026-11-culture-art-eyetracking-sudan-revealed.html
@@ -9853,7 +9875,7 @@ Source: Phys.org
 Published: 2026-11-14 18:37 UTC
 URL: https://phys.org/news/2026-11-nasa-voyager-day-interstellar-space.html
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Phys.org [general_science_news] https://phys.org/news/2026-11-nasa-voyager-day-interstellar-space.html
@@ -9865,7 +9887,7 @@ Source: Phys.org
 Published: 2026-11-14 18:20 UTC
 URL: https://phys.org/news/2026-11-cosmic-magnifying-glass-reveal-supernova.html
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Phys.org [general_science_news] https://phys.org/news/2026-11-cosmic-magnifying-glass-reveal-supernova.html
@@ -9877,55 +9899,31 @@ Source: Phys.org
 Published: 2026-11-14 17:00 UTC
 URL: https://phys.org/news/2026-11-oldest-earth-early-history.html
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Phys.org [general_science_news] https://phys.org/news/2026-11-oldest-earth-early-history.html
 
 Earth is approximately 4.5 billion years old, according to estimates. However, rocks dating back to the planet's earliest days are extremely rare. Hence the excitement over the discovery in northern China of some of the oldest known rocks on Earth, dating back 3.95 billion years. And one of the reasons for all the attention is that they're revealing new clues about how Earth's crust formed and evolved.
 
-### World's largest freshwater lake is recovering after decades of decline
-Source: Phys.org
-Published: 2026-11-14 15:40 UTC
-URL: https://phys.org/news/2026-11-world-largest-freshwater-lake-recovering.html
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: Phys.org [general_science_news] https://phys.org/news/2026-11-world-largest-freshwater-lake-recovering.html
-
-Lake Baikal in Siberia holds around 20% of the world's surface freshwater, making it the most voluminous freshwater lake (Lake Superior on the United States–Canada border is the largest by surface area). This makes the lake one of the most important environments for biodiversity—in fact, it was designated a UNESCO World Heritage site in 1996 because of this. Yet it has shown considerable decline over the last century, with aridification spreading across East Asia.
-
 ### Giant, Fruit-Eating Bats Are Shrinking
 Source: Nautilus
 Published: 2026-11-14 15:00 UTC
 URL: https://nautil.us/giant-fruit-eating-bats-are-shrinking-1286637/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Nautilus [general_science_news] https://nautil.us/giant-fruit-eating-bats-are-shrinking-1286637/
 
 Leaving Madagascar with smaller pollinators The post Giant, Fruit-Eating Bats Are Shrinking appeared first on Nautilus.
 
-### Archaeologists shed new light on wealth and status among Europe's early herders
-Source: Phys.org
-Published: 2026-11-14 14:00 UTC
-URL: https://phys.org/news/2026-11-archaeologists-wealth-status-europe-early.html
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: Phys.org [general_science_news] https://phys.org/news/2026-11-archaeologists-wealth-status-europe-early.html
-
-How unequal were prehistoric societies? And how can archaeologists measure wealth in cultures that left behind no written records, no tax registers and no census data?
-
 ### A Chemical Fingerprint in Ancient Rocks Suggests Plate Tectonics Began 2.5 Billion Years Ago
 Source: Nautilus
 Published: 2026-11-14 13:00 UTC
 URL: https://nautil.us/a-chemical-fingerprint-in-ancient-rocks-suggests-plate-tectonics-began-2-5-billion-years-ago-1286624/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Nautilus [general_science_news] https://nautil.us/a-chemical-fingerprint-in-ancient-rocks-suggests-plate-tectonics-began-2-5-billion-years-ago-1286624/
@@ -9937,7 +9935,7 @@ Source: ScienceDaily
 Published: 2026-11-14 12:48 UTC
 URL: https://www.sciencedaily.com/releases/2026/11/261113231624.htm
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: ScienceDaily [general_science_news] https://www.sciencedaily.com/releases/2026/11/261113231624.htm
@@ -9949,7 +9947,7 @@ Source: ScienceDaily
 Published: 2026-11-14 12:35 UTC
 URL: https://www.sciencedaily.com/releases/2026/11/261112230450.htm
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: ScienceDaily [general_science_news] https://www.sciencedaily.com/releases/2026/11/261112230450.htm
@@ -9961,7 +9959,7 @@ Source: ScienceDaily
 Published: 2026-11-14 12:25 UTC
 URL: https://www.sciencedaily.com/releases/2026/11/261112230444.htm
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: ScienceDaily [general_science_news] https://www.sciencedaily.com/releases/2026/11/261112230444.htm
@@ -9973,7 +9971,7 @@ Source: ScienceDaily
 Published: 2026-11-14 12:14 UTC
 URL: https://www.sciencedaily.com/releases/2026/11/261112025538.htm
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: ScienceDaily [general_science_news] https://www.sciencedaily.com/releases/2026/11/261112025538.htm
@@ -9985,7 +9983,7 @@ Source: ScienceDaily
 Published: 2026-11-14 11:58 UTC
 URL: https://www.sciencedaily.com/releases/2026/11/261112230447.htm
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: ScienceDaily [general_science_news] https://www.sciencedaily.com/releases/2026/11/261112230447.htm
@@ -9997,7 +9995,7 @@ Source: ScienceDaily
 Published: 2026-11-14 11:42 UTC
 URL: https://www.sciencedaily.com/releases/2026/11/261112025544.htm
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: ScienceDaily [general_science_news] https://www.sciencedaily.com/releases/2026/11/261112025544.htm
@@ -10009,7 +10007,7 @@ Source: Live Science
 Published: 2026-11-14 11:30 UTC
 URL: https://www.livescience.com/space/space-exploration/flames-soon-engulfed-us-artemis-ii-astronaut-jeremy-hansen-describes-what-splashdown-felt-like-from-inside-the-orion-capsule
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Live Science [general_science_news] https://www.livescience.com/space/space-exploration/flames-soon-engulfed-us-artemis-ii-astronaut-jeremy-hansen-describes-what-splashdown-felt-like-from-inside-the-orion-capsule
@@ -10021,7 +10019,7 @@ Source: Live Science
 Published: 2026-11-14 10:00 UTC
 URL: https://www.livescience.com/animals/which-animal-farts-the-most
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Live Science [general_science_news] https://www.livescience.com/animals/which-animal-farts-the-most
@@ -10033,7 +10031,7 @@ Source: Live Science
 Published: 2026-11-14 09:00 UTC
 URL: https://www.livescience.com/health/genetics/links-with-the-british-royal-family-would-eventually-prove-crucial-how-dna-solved-the-70-year-mystery-of-what-happened-to-the-executed-members-of-the-last-russian-imperial-family
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Live Science [general_science_news] https://www.livescience.com/health/genetics/links-with-the-british-royal-family-would-eventually-prove-crucial-how-dna-solved-the-70-year-mystery-of-what-happened-to-the-executed-members-of-the-last-russian-imperial-family
@@ -10045,7 +10043,7 @@ Source: Live Science
 Published: 2026-11-14 04:07 UTC
 URL: https://www.livescience.com/health/viruses-infections-disease/measles-is-back-in-the-united-states-who-authorities-say
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Live Science [general_science_news] https://www.livescience.com/health/viruses-infections-disease/measles-is-back-in-the-united-states-who-authorities-say
@@ -10057,7 +10055,7 @@ Source: Nautilus
 Published: 2026-11-13 23:00 UTC
 URL: https://nautil.us/the-worlds-largest-marine-turtle-makes-a-move-south-1286621/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Nautilus [general_science_news] https://nautil.us/the-worlds-largest-marine-turtle-makes-a-move-south-1286621/
@@ -10069,7 +10067,7 @@ Source: Nautilus
 Published: 2026-11-13 22:00 UTC
 URL: https://nautil.us/why-sleep-might-not-be-as-restorative-as-we-get-older-1286631/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Nautilus [general_science_news] https://nautil.us/why-sleep-might-not-be-as-restorative-as-we-get-older-1286631/
@@ -10081,7 +10079,7 @@ Source: Neuroscience News
 Published: 2026-11-13 21:22 UTC
 URL: https://neurosciencenews.com/covid-sensory-nerves-cough-32417/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Neuroscience News [general_science_news] https://neurosciencenews.com/covid-sensory-nerves-cough-32417/
@@ -10093,7 +10091,7 @@ Source: Neuroscience News
 Published: 2026-11-13 21:01 UTC
 URL: https://neurosciencenews.com/genetics-primate-brain-evolution-32416/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Neuroscience News [general_science_news] https://neurosciencenews.com/genetics-primate-brain-evolution-32416/
@@ -10105,7 +10103,7 @@ Source: Nautilus
 Published: 2026-11-13 21:00 UTC
 URL: https://nautil.us/what-public-health-initiatives-looked-like-in-the-middle-ages-1286618/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Nautilus [general_science_news] https://nautil.us/what-public-health-initiatives-looked-like-in-the-middle-ages-1286618/
@@ -10117,7 +10115,7 @@ Source: Neuroscience News
 Published: 2026-11-13 20:33 UTC
 URL: https://neurosciencenews.com/crispr-genetics-autism-32415/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Neuroscience News [general_science_news] https://neurosciencenews.com/crispr-genetics-autism-32415/
@@ -10129,7 +10127,7 @@ Source: Science News
 Published: 2026-11-13 19:00 UTC
 URL: https://www.sciencenews.org/article/nat-geo-saving-our-seas-documentary
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Science News [general_science_news] https://www.sciencenews.org/article/nat-geo-saving-our-seas-documentary
@@ -10141,7 +10139,7 @@ Source: Nautilus
 Published: 2026-11-13 19:00 UTC
 URL: https://nautil.us/when-envy-is-a-virtue-1286615/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Nautilus [general_science_news] https://nautil.us/when-envy-is-a-virtue-1286615/
@@ -10153,7 +10151,7 @@ Source: Neuroscience News
 Published: 2026-11-13 18:48 UTC
 URL: https://neurosciencenews.com/atp-glucose-cognition-neuroscience-32414/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Neuroscience News [general_science_news] https://neurosciencenews.com/atp-glucose-cognition-neuroscience-32414/
@@ -10165,7 +10163,7 @@ Source: Neuroscience News
 Published: 2026-11-13 18:40 UTC
 URL: https://neurosciencenews.com/motor-coordination-body-map-32413/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Neuroscience News [general_science_news] https://neurosciencenews.com/motor-coordination-body-map-32413/
@@ -10178,7 +10176,7 @@ Published: 2026-11-13 18:31 UTC
 URL: https://www.livescience.com/animals/primates/scientists-discover-two-adorable-species-of-howler-monkey-in-the-amazon-and-theyre-already-endangered
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 Updated: 2026-11-13 21:07 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Live Science [general_science_news] https://www.livescience.com/animals/primates/scientists-discover-two-adorable-species-of-howler-monkey-in-the-amazon-and-theyre-already-endangered
@@ -10190,7 +10188,7 @@ Source: Neuroscience News
 Published: 2026-11-13 18:30 UTC
 URL: https://neurosciencenews.com/irregular-sleep-loneliness-depression-32412/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Neuroscience News [general_science_news] https://neurosciencenews.com/irregular-sleep-loneliness-depression-32412/
@@ -10203,7 +10201,7 @@ Published: 2026-11-13 17:39 UTC
 URL: https://www.livescience.com/archaeology/godless-founder-of-utilitarianism-had-severe-dental-problems-and-was-in-excruciating-pain-ct-scans-of-his-severed-head-reveal
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 Updated: 2026-11-13 23:54 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Live Science [general_science_news] https://www.livescience.com/archaeology/godless-founder-of-utilitarianism-had-severe-dental-problems-and-was-in-excruciating-pain-ct-scans-of-his-severed-head-reveal
@@ -10215,7 +10213,7 @@ Source: Science News
 Published: 2026-11-13 16:00 UTC
 URL: https://www.sciencenews.org/article/hell-chicken-dinosaur-terror-fruit-eat
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Science News [general_science_news] https://www.sciencenews.org/article/hell-chicken-dinosaur-terror-fruit-eat
@@ -10227,7 +10225,7 @@ Source: Quanta Magazine
 Published: 2026-11-12 19:40 UTC
 URL: https://www.quantamagazine.org/can-network-science-transform-health-and-nutrition-20261112/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Quanta Magazine [general_science_news] https://www.quantamagazine.org/can-network-science-transform-health-and-nutrition-20261112/
@@ -10239,7 +10237,7 @@ Source: Quanta Magazine
 Published: 2026-11-12 16:20 UTC
 URL: https://www.quantamagazine.org/a-new-era-for-the-dawn-of-life-20261112/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Quanta Magazine [general_science_news] https://www.quantamagazine.org/a-new-era-for-the-dawn-of-life-20261112/
@@ -10251,7 +10249,7 @@ Source: Science News
 Published: 2026-11-12 16:00 UTC
 URL: https://www.sciencenews.org/article/brain-amygdala-neuron-saves-memories
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Science News [general_science_news] https://www.sciencenews.org/article/brain-amygdala-neuron-saves-memories
@@ -10263,7 +10261,7 @@ Source: Quanta Magazine
 Published: 2026-11-12 15:45 UTC
 URL: https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Quanta Magazine [general_science_news] https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/
@@ -10275,7 +10273,7 @@ Source: Science News
 Published: 2026-11-12 14:00 UTC
 URL: https://www.sciencenews.org/article/europe-hera-mission-double-asteroid
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Science News [general_science_news] https://www.sciencenews.org/article/europe-hera-mission-double-asteroid
@@ -10287,7 +10285,7 @@ Source: Science News
 Published: 2026-11-11 19:00 UTC
 URL: https://www.sciencenews.org/article/stone-age-children-made-art-clay-sculpt
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Science News [general_science_news] https://www.sciencenews.org/article/stone-age-children-made-art-clay-sculpt
@@ -10299,7 +10297,7 @@ Source: Science News
 Published: 2026-11-11 16:00 UTC
 URL: https://www.sciencenews.org/article/dark-magic-mushroom-psilocybin-amatoxin
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Science News [general_science_news] https://www.sciencenews.org/article/dark-magic-mushroom-psilocybin-amatoxin
@@ -10311,7 +10309,7 @@ Source: Quanta Magazine
 Published: 2026-11-11 15:10 UTC
 URL: https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Quanta Magazine [general_science_news] https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/
@@ -10323,7 +10321,7 @@ Source: Quanta Magazine
 Published: 2026-11-10 15:08 UTC
 URL: https://www.quantamagazine.org/the-case-for-a-bubble-at-lifes-start-20261110/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Quanta Magazine [general_science_news] https://www.quantamagazine.org/the-case-for-a-bubble-at-lifes-start-20261110/
@@ -10336,7 +10334,7 @@ Is self-enclosure life’s greatest trick? According to the lipid-first theory, 
 Source: URL-only source / 仅网址源
 URL: https://aeon.co/science
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -10346,7 +10344,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.newscientist.com/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -10356,7 +10354,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.scientificamerican.com
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -10367,7 +10365,7 @@ Source: Discover Magazine
 Published: 2026-11-14 19:00 UTC
 URL: https://www.discovermagazine.com/ancient-star-cluster-hidden-in-the-milky-way-could-be-nearly-as-old-as-the-universe-49944
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Discover Magazine [popular_science] https://www.discovermagazine.com/ancient-star-cluster-hidden-in-the-milky-way-could-be-nearly-as-old-as-the-universe-49944
@@ -10379,7 +10377,7 @@ Source: Popular Science
 Published: 2026-11-14 18:00 UTC
 URL: https://www.popsci.com/diy/these-7-apps-really-show-off-the-new-apple-iphone-duos-abilities-tech-tips/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Popular Science [popular_science] https://www.popsci.com/diy/these-7-apps-really-show-off-the-new-apple-iphone-duos-abilities-tech-tips/
@@ -10391,7 +10389,7 @@ Source: Discover Magazine
 Published: 2026-11-14 17:00 UTC
 URL: https://www.discovermagazine.com/the-dari-n-gap-is-a-remote-60-mile-stretch-you-can-t-drive-through-yet-some-still-cross-this-dangerous-jungle-path-49898
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Discover Magazine [popular_science] https://www.discovermagazine.com/the-dari-n-gap-is-a-remote-60-mile-stretch-you-can-t-drive-through-yet-some-still-cross-this-dangerous-jungle-path-49898
@@ -10403,7 +10401,7 @@ Source: Popular Science
 Published: 2026-11-14 15:03 UTC
 URL: https://www.popsci.com/environment/baby-turkey-feather-duster-mom-friend-dove/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Popular Science [popular_science] https://www.popsci.com/environment/baby-turkey-feather-duster-mom-friend-dove/
@@ -10415,7 +10413,7 @@ Source: Discover Magazine
 Published: 2026-11-14 15:00 UTC
 URL: https://www.discovermagazine.com/a-tiny-object-thought-to-be-space-junk-is-earth-s-newest-mini-moon-but-2026-qq8-isn-t-sticking-around-49952
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Discover Magazine [popular_science] https://www.discovermagazine.com/a-tiny-object-thought-to-be-space-junk-is-earth-s-newest-mini-moon-but-2026-qq8-isn-t-sticking-around-49952
@@ -10427,7 +10425,7 @@ Source: Popular Science
 Published: 2026-11-14 13:06 UTC
 URL: https://www.popsci.com/environment/close-up-photographer-of-the-year-2026-awards/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Popular Science [popular_science] https://www.popsci.com/environment/close-up-photographer-of-the-year-2026-awards/
@@ -10439,7 +10437,7 @@ Source: Discover Magazine
 Published: 2026-11-13 23:15 UTC
 URL: https://www.discovermagazine.com/1-100-year-old-bronze-brooches-and-broken-viking-sword-could-indicate-rare-double-burial-on-the-isle-of-man-49949
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Discover Magazine [popular_science] https://www.discovermagazine.com/1-100-year-old-bronze-brooches-and-broken-viking-sword-could-indicate-rare-double-burial-on-the-isle-of-man-49949
@@ -10451,7 +10449,7 @@ Source: Discover Magazine
 Published: 2026-11-13 23:00 UTC
 URL: https://www.discovermagazine.com/invisible-light-reveals-how-an-ancient-king-s-shrine-looked-2-700-years-ago-49951
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Discover Magazine [popular_science] https://www.discovermagazine.com/invisible-light-reveals-how-an-ancient-king-s-shrine-looked-2-700-years-ago-49951
@@ -10463,7 +10461,7 @@ Source: Discover Magazine
 Published: 2026-11-13 22:26 UTC
 URL: https://www.discovermagazine.com/dark-magic-mushroom-carries-both-psilocybin-and-deadly-toxins-a-chemical-combo-unheard-of-in-fungi-49950
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Discover Magazine [popular_science] https://www.discovermagazine.com/dark-magic-mushroom-carries-both-psilocybin-and-deadly-toxins-a-chemical-combo-unheard-of-in-fungi-49950
@@ -10475,7 +10473,7 @@ Source: Popular Science
 Published: 2026-11-13 20:00 UTC
 URL: https://www.popsci.com/technology/robot-frog-artificial-muscles/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Popular Science [popular_science] https://www.popsci.com/technology/robot-frog-artificial-muscles/
@@ -10487,7 +10485,7 @@ Source: Popular Science
 Published: 2026-11-13 19:00 UTC
 URL: https://www.popsci.com/environment/ss-united-states-reef-video/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Popular Science [popular_science] https://www.popsci.com/environment/ss-united-states-reef-video/
@@ -10499,7 +10497,7 @@ Source: Popular Science
 Published: 2026-11-13 18:09 UTC
 URL: https://www.popsci.com/environment/bear-courageous-cub-award-alaska/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Popular Science [popular_science] https://www.popsci.com/environment/bear-courageous-cub-award-alaska/
@@ -10512,7 +10510,7 @@ Attribution: Popular Science [popular_science] https://www.popsci.com/environmen
 Source: URL-only source / 仅网址源
 URL: https://osf.io/preprints/socarxiv
 Source meta: preprint · primary · R4 · P5 · signal
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -10522,7 +10520,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://osf.io/preprints/psyarxiv
 Source meta: preprint · primary · R4 · P5 · signal
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -10532,7 +10530,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://journals.plos.org/plosbiology/
 Source meta: journal · primary · R5 · P5 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -10542,7 +10540,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://elifesciences.org/
 Source meta: journal · primary · R5 · P5 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -10552,7 +10550,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.semanticscholar.org/
 Source meta: reference_tool · aggregator · R5 · P5 · reference
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -10562,7 +10560,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://pubmed.ncbi.nlm.nih.gov/
 Source meta: reference_tool · primary · R5 · P5 · reference
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -10572,7 +10570,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.medrxiv.org/
 Source meta: preprint · primary · R4 · P5 · signal
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -10582,7 +10580,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.biorxiv.org/collection/zoology
 Source meta: preprint · primary · R4 · P5 · signal
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -10592,7 +10590,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.biorxiv.org/collection/evolutionary-biology
 Source meta: preprint · primary · R4 · P5 · signal
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -10602,7 +10600,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.biorxiv.org/collection/ecology
 Source meta: preprint · primary · R4 · P5 · signal
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -10612,7 +10610,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.biorxiv.org/
 Source meta: preprint · primary · R4 · P5 · signal
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -10622,7 +10620,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://arxiv.org/list/q-bio.PE/recent
 Source meta: preprint · primary · R4 · P5 · signal
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -10632,7 +10630,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://arxiv.org/
 Source meta: preprint · primary · R4 · P5 · signal
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: empty_feed
 
@@ -10642,7 +10640,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.nature.com/ncomms/
 Source meta: journal · primary · R5 · P5 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -10652,7 +10650,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.science.org/journal/sciadv
 Source meta: journal · primary · R5 · P5 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -10662,7 +10660,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.cell.com/neuron
 Source meta: journal · primary · R5 · P5 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -10672,7 +10670,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.nature.com/neuro/
 Source meta: journal · primary · R5 · P5 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -10682,7 +10680,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.nature.com/nm/
 Source meta: journal · primary · R5 · P5 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -10692,7 +10690,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://link.springer.com/journal/13130
 Source meta: journal · primary · R5 · P5 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -10704,7 +10702,7 @@ Published: 2026-11-14 04:31 UTC
 URL: https://onlinelibrary.wiley.com/doi/10.1111/ele.70470?af=R
 Source meta: journal · primary · R5 · P5 · baseline
 Updated: 2026-11-13 16:31 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Ecology Letters [academic_research] https://onlinelibrary.wiley.com/doi/10.1111/ele.70470?af=R
@@ -10717,7 +10715,7 @@ Published: 2026-11-13 14:00 UTC
 URL: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362983
 Source meta: journal · primary · R4 · P4 · signal
 Updated: 2026-11-13 14:00 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: PLOS ONE Biology [academic_research] https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362983
@@ -10730,7 +10728,7 @@ Published: 2026-11-13 14:00 UTC
 URL: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362979
 Source meta: journal · primary · R4 · P4 · signal
 Updated: 2026-11-13 14:00 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: PLOS ONE Biology [academic_research] https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362979
@@ -10743,7 +10741,7 @@ Published: 2026-11-13 14:00 UTC
 URL: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362977
 Source meta: journal · primary · R4 · P4 · signal
 Updated: 2026-11-13 14:00 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: PLOS ONE Biology [academic_research] https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362977
@@ -10756,7 +10754,7 @@ Published: 2026-11-13 14:00 UTC
 URL: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362891
 Source meta: journal · primary · R4 · P4 · signal
 Updated: 2026-11-13 14:00 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: PLOS ONE Biology [academic_research] https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362891
@@ -10769,7 +10767,7 @@ Published: 2026-11-13 14:00 UTC
 URL: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362890
 Source meta: journal · primary · R4 · P4 · signal
 Updated: 2026-11-13 14:00 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: PLOS ONE Biology [academic_research] https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362890
@@ -10782,7 +10780,7 @@ Published: 2026-11-13 14:00 UTC
 URL: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362852
 Source meta: journal · primary · R4 · P4 · signal
 Updated: 2026-11-13 14:00 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: PLOS ONE Biology [academic_research] https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362852
@@ -10795,7 +10793,7 @@ Published: Publication date unknown / 发布日期未知
 URL: http://link.aps.org/doi/10.1103/5m7t-q2f6
 Source meta: journal · primary · R5 · P5 · baseline
 Updated: 2026-11-13 10:00 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Physical Review Letters [academic_research] http://link.aps.org/doi/10.1103/5m7t-q2f6
@@ -10808,7 +10806,7 @@ Published: Publication date unknown / 发布日期未知
 URL: http://link.aps.org/doi/10.1103/jjcg-z4xb
 Source meta: journal · primary · R5 · P5 · baseline
 Updated: 2026-11-13 10:00 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Physical Review Letters [academic_research] http://link.aps.org/doi/10.1103/jjcg-z4xb
@@ -10821,7 +10819,7 @@ Published: Publication date unknown / 发布日期未知
 URL: http://link.aps.org/doi/10.1103/xdk8-9g3p
 Source meta: journal · primary · R5 · P5 · baseline
 Updated: 2026-11-13 10:00 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Physical Review Letters [academic_research] http://link.aps.org/doi/10.1103/xdk8-9g3p
@@ -10834,7 +10832,7 @@ Published: Publication date unknown / 发布日期未知
 URL: http://link.aps.org/doi/10.1103/skq4-mn78
 Source meta: journal · primary · R5 · P5 · baseline
 Updated: 2026-11-13 10:00 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Physical Review Letters [academic_research] http://link.aps.org/doi/10.1103/skq4-mn78
@@ -10847,7 +10845,7 @@ Published: Publication date unknown / 发布日期未知
 URL: http://link.aps.org/doi/10.1103/rw25-wy15
 Source meta: journal · primary · R5 · P5 · baseline
 Updated: 2026-11-13 10:00 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Physical Review Letters [academic_research] http://link.aps.org/doi/10.1103/rw25-wy15
@@ -10860,7 +10858,7 @@ Published: Publication date unknown / 发布日期未知
 URL: http://link.aps.org/doi/10.1103/szcj-44xj
 Source meta: journal · primary · R5 · P5 · baseline
 Updated: 2026-11-13 10:00 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Physical Review Letters [academic_research] http://link.aps.org/doi/10.1103/szcj-44xj
@@ -10873,7 +10871,7 @@ Published: 2026-11-12 12:50 UTC
 URL: https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210x.70444?af=R
 Source meta: journal · primary · R5 · P5 · reference
 Updated: 2026-11-12 12:50 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Methods in Ecology and Evolution [academic_research] https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210x.70444?af=R
@@ -10886,7 +10884,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://www.science.org/doi/abs/10.1126/science.ady7788?af=R
 Source meta: journal · primary · R5 · P5 · baseline
 Updated: 2026-11-12 08:00 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Science [academic_research] https://www.science.org/doi/abs/10.1126/science.ady7788?af=R
@@ -10899,7 +10897,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://www.science.org/doi/abs/10.1126/science.aee0342?af=R
 Source meta: journal · primary · R5 · P5 · baseline
 Updated: 2026-11-12 08:00 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Science [academic_research] https://www.science.org/doi/abs/10.1126/science.aee0342?af=R
@@ -10912,7 +10910,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://www.science.org/doi/abs/10.1126/science.aef3150?af=R
 Source meta: journal · primary · R5 · P5 · baseline
 Updated: 2026-11-12 08:00 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Science [academic_research] https://www.science.org/doi/abs/10.1126/science.aef3150?af=R
@@ -10925,7 +10923,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://www.science.org/doi/abs/10.1126/science.aeg8777?af=R
 Source meta: journal · primary · R5 · P5 · baseline
 Updated: 2026-11-12 08:00 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Science [academic_research] https://www.science.org/doi/abs/10.1126/science.aeg8777?af=R
@@ -10938,7 +10936,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://www.science.org/doi/abs/10.1126/science.aeh3996?af=R
 Source meta: journal · primary · R5 · P5 · baseline
 Updated: 2026-11-12 08:00 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Science [academic_research] https://www.science.org/doi/abs/10.1126/science.aeh3996?af=R
@@ -10951,7 +10949,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://www.science.org/doi/abs/10.1126/science.aej7530?af=R
 Source meta: journal · primary · R5 · P5 · baseline
 Updated: 2026-11-12 08:00 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Science [academic_research] https://www.science.org/doi/abs/10.1126/science.aej7530?af=R
@@ -10964,7 +10962,7 @@ Published: 2026-11-10 13:47 UTC
 URL: https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210x.70432?af=R
 Source meta: journal · primary · R5 · P5 · reference
 Updated: 2026-11-10 13:47 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Methods in Ecology and Evolution [academic_research] https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210x.70432?af=R
@@ -10977,7 +10975,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://www.pnas.org/doi/abs/10.1073/iti4526123?af=R
 Source meta: journal · primary · R5 · P5 · baseline
 Updated: 2026-11-10 08:00 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: PNAS [academic_research] https://www.pnas.org/doi/abs/10.1073/iti4526123?af=R
@@ -10990,7 +10988,7 @@ Published: 2026-11-10 05:02 UTC
 URL: https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210x.70437?af=R
 Source meta: journal · primary · R5 · P5 · reference
 Updated: 2026-11-09 17:02 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Methods in Ecology and Evolution [academic_research] https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210x.70437?af=R
@@ -11003,7 +11001,7 @@ Published: 2026-11-09 11:00 UTC
 URL: https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210x.70446?af=R
 Source meta: journal · primary · R5 · P5 · reference
 Updated: 2026-11-09 11:00 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Methods in Ecology and Evolution [academic_research] https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210x.70446?af=R
@@ -11016,7 +11014,7 @@ Published: 2026-11-07 12:49 UTC
 URL: https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210x.70450?af=R
 Source meta: journal · primary · R5 · P5 · reference
 Updated: 2026-11-07 12:49 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Methods in Ecology and Evolution [academic_research] https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210x.70450?af=R
@@ -11029,7 +11027,7 @@ Published: 2026-11-06 11:51 UTC
 URL: https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210x.70443?af=R
 Source meta: journal · primary · R5 · P5 · reference
 Updated: 2026-11-06 11:51 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Methods in Ecology and Evolution [academic_research] https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210x.70443?af=R
@@ -11042,7 +11040,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://www.pnas.org/doi/abs/10.1073/pnas.2535745123?af=R
 Source meta: journal · primary · R5 · P5 · baseline
 Updated: 2026-11-06 08:00 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: PNAS [academic_research] https://www.pnas.org/doi/abs/10.1073/pnas.2535745123?af=R
@@ -11055,7 +11053,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://www.pnas.org/doi/abs/10.1073/pnas.2613542123?af=R
 Source meta: journal · primary · R5 · P5 · baseline
 Updated: 2026-11-06 08:00 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: PNAS [academic_research] https://www.pnas.org/doi/abs/10.1073/pnas.2613542123?af=R
@@ -11068,7 +11066,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://www.pnas.org/doi/abs/10.1073/pnas.2536820123?af=R
 Source meta: journal · primary · R5 · P5 · baseline
 Updated: 2026-11-06 08:00 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: PNAS [academic_research] https://www.pnas.org/doi/abs/10.1073/pnas.2536820123?af=R
@@ -11081,7 +11079,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://www.pnas.org/doi/abs/10.1073/pnas.2606813123?af=R
 Source meta: journal · primary · R5 · P5 · baseline
 Updated: 2026-11-06 08:00 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: PNAS [academic_research] https://www.pnas.org/doi/abs/10.1073/pnas.2606813123?af=R
@@ -11094,7 +11092,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://www.pnas.org/doi/abs/10.1073/pnas.2601219123?af=R
 Source meta: journal · primary · R5 · P5 · baseline
 Updated: 2026-11-06 08:00 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: PNAS [academic_research] https://www.pnas.org/doi/abs/10.1073/pnas.2601219123?af=R
@@ -11107,7 +11105,7 @@ Published: 2026-11-03 19:14 UTC
 URL: https://onlinelibrary.wiley.com/doi/10.1111/ele.70411?af=R
 Source meta: journal · primary · R5 · P5 · baseline
 Updated: 2026-11-03 19:14 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Ecology Letters [academic_research] https://onlinelibrary.wiley.com/doi/10.1111/ele.70411?af=R
@@ -11120,7 +11118,7 @@ Published: 2026-11-03 19:10 UTC
 URL: https://onlinelibrary.wiley.com/doi/10.1111/ele.70468?af=R
 Source meta: journal · primary · R5 · P5 · baseline
 Updated: 2026-11-03 19:10 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Ecology Letters [academic_research] https://onlinelibrary.wiley.com/doi/10.1111/ele.70468?af=R
@@ -11133,7 +11131,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02159-8/fulltext?rss=yes
 Source meta: journal · primary · R5 · P5 · baseline
 Updated: 2026-10-30 23:30 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Lancet [academic_research] https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02159-8/fulltext?rss=yes
@@ -11146,7 +11144,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02186-0/fulltext?rss=yes
 Source meta: journal · primary · R5 · P5 · baseline
 Updated: 2026-10-29 00:01 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Lancet [academic_research] https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02186-0/fulltext?rss=yes
@@ -11159,7 +11157,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02049-0/fulltext?rss=yes
 Source meta: journal · primary · R5 · P5 · baseline
 Updated: 2026-10-29 00:01 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Lancet [academic_research] https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02049-0/fulltext?rss=yes
@@ -11172,7 +11170,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01196-7/fulltext?rss=yes
 Source meta: journal · primary · R5 · P5 · baseline
 Updated: 2026-10-29 00:01 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Lancet [academic_research] https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01196-7/fulltext?rss=yes
@@ -11185,7 +11183,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02095-7/fulltext?rss=yes
 Source meta: journal · primary · R5 · P5 · baseline
 Updated: 2026-10-26 15:30 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Lancet [academic_research] https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02095-7/fulltext?rss=yes
@@ -11198,7 +11196,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02034-9/fulltext?rss=yes
 Source meta: journal · primary · R5 · P5 · baseline
 Updated: 2026-10-24 12:45 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Lancet [academic_research] https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02034-9/fulltext?rss=yes
@@ -11210,7 +11208,7 @@ Source: Nature
 Published: Publication date unknown / 发布日期未知
 URL: https://www.nature.com/articles/d41586-026-03668-x
 Source meta: journal · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Nature [academic_research] https://www.nature.com/articles/d41586-026-03668-x
@@ -11222,7 +11220,7 @@ Source: Nature
 Published: Publication date unknown / 发布日期未知
 URL: https://www.nature.com/articles/d41586-026-03456-7
 Source meta: journal · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Nature [academic_research] https://www.nature.com/articles/d41586-026-03456-7
@@ -11234,7 +11232,7 @@ Source: Nature
 Published: Publication date unknown / 发布日期未知
 URL: https://www.nature.com/articles/d41586-026-03516-y
 Source meta: journal · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Nature [academic_research] https://www.nature.com/articles/d41586-026-03516-y
@@ -11246,7 +11244,7 @@ Source: Nature
 Published: Publication date unknown / 发布日期未知
 URL: https://www.nature.com/articles/d41586-026-03679-8
 Source meta: journal · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Nature [academic_research] https://www.nature.com/articles/d41586-026-03679-8
@@ -11258,7 +11256,7 @@ Source: Nature
 Published: Publication date unknown / 发布日期未知
 URL: https://www.nature.com/articles/d41586-026-03716-6
 Source meta: journal · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Nature [academic_research] https://www.nature.com/articles/d41586-026-03716-6
@@ -11270,7 +11268,7 @@ Source: Nature
 Published: Publication date unknown / 发布日期未知
 URL: https://www.nature.com/articles/d41586-026-03638-3
 Source meta: journal · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Nature [academic_research] https://www.nature.com/articles/d41586-026-03638-3
@@ -11282,7 +11280,7 @@ Source: Cell
 Published: Publication date unknown / 发布日期未知
 URL: https://www.cell.com/cell/fulltext/S0092-8674(26)01327-9?rss=yes
 Source meta: journal · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Cell [academic_research] https://www.cell.com/cell/fulltext/S0092-8674(26)01327-9?rss=yes
@@ -11294,7 +11292,7 @@ Source: Cell
 Published: Publication date unknown / 发布日期未知
 URL: https://www.cell.com/cell/fulltext/S0092-8674(26)01326-7?rss=yes
 Source meta: journal · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Cell [academic_research] https://www.cell.com/cell/fulltext/S0092-8674(26)01326-7?rss=yes
@@ -11306,7 +11304,7 @@ Source: Cell
 Published: Publication date unknown / 发布日期未知
 URL: https://www.cell.com/cell/fulltext/S0092-8674(26)01286-9?rss=yes
 Source meta: journal · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Cell [academic_research] https://www.cell.com/cell/fulltext/S0092-8674(26)01286-9?rss=yes
@@ -11318,7 +11316,7 @@ Source: Cell
 Published: Publication date unknown / 发布日期未知
 URL: https://www.cell.com/cell/fulltext/S0092-8674(26)01285-7?rss=yes
 Source meta: journal · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Cell [academic_research] https://www.cell.com/cell/fulltext/S0092-8674(26)01285-7?rss=yes
@@ -11330,7 +11328,7 @@ Source: Cell
 Published: Publication date unknown / 发布日期未知
 URL: https://www.cell.com/cell/fulltext/S0092-8674(26)01268-7?rss=yes
 Source meta: journal · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Cell [academic_research] https://www.cell.com/cell/fulltext/S0092-8674(26)01268-7?rss=yes
@@ -11342,7 +11340,7 @@ Source: Cell
 Published: Publication date unknown / 发布日期未知
 URL: https://www.cell.com/cell/fulltext/S0092-8674(26)01213-4?rss=yes
 Source meta: journal · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Cell [academic_research] https://www.cell.com/cell/fulltext/S0092-8674(26)01213-4?rss=yes
@@ -11354,7 +11352,7 @@ Source: Nature Ecology & Evolution
 Published: Publication date unknown / 发布日期未知
 URL: https://www.nature.com/articles/s41559-026-03246-4
 Source meta: journal · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Nature Ecology & Evolution [academic_research] https://www.nature.com/articles/s41559-026-03246-4
@@ -11366,7 +11364,7 @@ Source: Nature Ecology & Evolution
 Published: Publication date unknown / 发布日期未知
 URL: https://www.nature.com/articles/s41559-026-03244-6
 Source meta: journal · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Nature Ecology & Evolution [academic_research] https://www.nature.com/articles/s41559-026-03244-6
@@ -11378,7 +11376,7 @@ Source: Nature Ecology & Evolution
 Published: Publication date unknown / 发布日期未知
 URL: https://www.nature.com/articles/s41559-026-03204-0
 Source meta: journal · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Nature Ecology & Evolution [academic_research] https://www.nature.com/articles/s41559-026-03204-0
@@ -11390,7 +11388,7 @@ Source: Nature Ecology & Evolution
 Published: Publication date unknown / 发布日期未知
 URL: https://www.nature.com/articles/s41559-026-03238-4
 Source meta: journal · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Nature Ecology & Evolution [academic_research] https://www.nature.com/articles/s41559-026-03238-4
@@ -11402,7 +11400,7 @@ Source: Nature Ecology & Evolution
 Published: Publication date unknown / 发布日期未知
 URL: https://www.nature.com/articles/s41559-026-03210-2
 Source meta: journal · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Nature Ecology & Evolution [academic_research] https://www.nature.com/articles/s41559-026-03210-2
@@ -11414,7 +11412,7 @@ Source: Nature Ecology & Evolution
 Published: Publication date unknown / 发布日期未知
 URL: https://www.nature.com/articles/s41559-026-03205-z
 Source meta: journal · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Nature Ecology & Evolution [academic_research] https://www.nature.com/articles/s41559-026-03205-z
@@ -11426,7 +11424,7 @@ Source: Current Biology
 Published: Publication date unknown / 发布日期未知
 URL: https://www.cell.com/current-biology/fulltext/S0960-9822(26)01441-7?rss=yes
 Source meta: journal · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Current Biology [academic_research] https://www.cell.com/current-biology/fulltext/S0960-9822(26)01441-7?rss=yes
@@ -11438,7 +11436,7 @@ Source: Current Biology
 Published: Publication date unknown / 发布日期未知
 URL: https://www.cell.com/current-biology/fulltext/S0960-9822(26)01436-3?rss=yes
 Source meta: journal · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Current Biology [academic_research] https://www.cell.com/current-biology/fulltext/S0960-9822(26)01436-3?rss=yes
@@ -11450,7 +11448,7 @@ Source: Current Biology
 Published: Publication date unknown / 发布日期未知
 URL: https://www.cell.com/current-biology/fulltext/S0960-9822(26)01437-5?rss=yes
 Source meta: journal · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Current Biology [academic_research] https://www.cell.com/current-biology/fulltext/S0960-9822(26)01437-5?rss=yes
@@ -11462,7 +11460,7 @@ Source: Current Biology
 Published: Publication date unknown / 发布日期未知
 URL: https://www.cell.com/current-biology/fulltext/S0960-9822(26)01428-4?rss=yes
 Source meta: journal · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Current Biology [academic_research] https://www.cell.com/current-biology/fulltext/S0960-9822(26)01428-4?rss=yes
@@ -11474,7 +11472,7 @@ Source: Current Biology
 Published: Publication date unknown / 发布日期未知
 URL: https://www.cell.com/current-biology/fulltext/S0960-9822(26)01427-2?rss=yes
 Source meta: journal · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Current Biology [academic_research] https://www.cell.com/current-biology/fulltext/S0960-9822(26)01427-2?rss=yes
@@ -11486,7 +11484,7 @@ Source: Current Biology
 Published: Publication date unknown / 发布日期未知
 URL: https://www.cell.com/current-biology/fulltext/S0960-9822(26)01439-9?rss=yes
 Source meta: journal · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Current Biology [academic_research] https://www.cell.com/current-biology/fulltext/S0960-9822(26)01439-9?rss=yes
@@ -11499,7 +11497,7 @@ Meng, Yuan et al. identify the MdCOL4-MdERF098 complex in apple as a transcripti
 Source: URL-only source / 仅网址源
 URL: https://earthobservatory.nasa.gov/images
 Source meta: institutional · primary · R5 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: empty_feed
 
@@ -11509,7 +11507,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://nextrocket.space
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -11519,7 +11517,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://satellitemap.space/index.html
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -11529,7 +11527,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://science.nasa.gov/earth/earth-observatory/
 Source meta: institutional · primary · R5 · P5 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -11539,11 +11537,35 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.esa.int/Newsroom
 Source meta: institutional · primary · R5 · P5 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
 Source homepage / 来源主页
+
+### The First Foreign Astronaut Will Visit China's Tiangong Space Station in Two Weeks
+Source: Universe Today
+Published: 2026-11-14 22:07 UTC
+URL: https://www.universetoday.com/articles/the-first-foreign-astronaut-will-visit-chinas-tiangong-space-station-in-two-weeks
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+Fetched: 2026-11-14 23:34 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: Universe Today [space_astronomy] https://www.universetoday.com/articles/the-first-foreign-astronaut-will-visit-chinas-tiangong-space-station-in-two-weeks
+
+The China Manned Space Agency (CMSA) will be taking a Pakistani astronaut to Tiangong as part of the Shenzou 24 mission, marking the first time a foreign astronaut has been to the station.
+
+### Baby, She's Back! SpaceX Catches a Starship From Orbit for First Time
+Source: Universe Today
+Published: 2026-11-14 21:40 UTC
+URL: https://www.universetoday.com/articles/baby-shes-back-spacex-catches-a-starship-from-orbit-for-first-time
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+Fetched: 2026-11-14 23:34 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: Universe Today [space_astronomy] https://www.universetoday.com/articles/baby-shes-back-spacex-catches-a-starship-from-orbit-for-first-time
+
+SpaceX brought back its Starship rocket's second stage for a first-ever midair capture at its launch pad, capping a record-setting, 22.5-hour orbital flight test.
 
 ### This Week In Space podcast: Episode 236 — Alienspotting
 Source: Space.com
@@ -11551,7 +11573,7 @@ Published: 2026-11-14 15:56 UTC
 URL: https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-236-alienspotting
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 Updated: 2026-11-14 15:57 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Space.com [space_astronomy] https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-236-alienspotting
@@ -11563,7 +11585,7 @@ Source: Space.com
 Published: 2026-11-14 15:00 UTC
 URL: https://www.space.com/entertainment/space-games/alien-fireteam-elite-2-is-a-good-old-fashioned-bug-hunt-ironically-plagued-by-bugs
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Space.com [space_astronomy] https://www.space.com/entertainment/space-games/alien-fireteam-elite-2-is-a-good-old-fashioned-bug-hunt-ironically-plagued-by-bugs
@@ -11575,8 +11597,8 @@ Source: Space.com
 Published: 2026-11-14 14:53 UTC
 URL: https://www.space.com/space-exploration/launches-spacecraft/spacex-says-starship-flight-15-booster-aborted-chopsticks-landing-catch-after-launch-due-to-guidance-issue-video
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Updated: 2026-11-14 16:58 UTC
-Fetched: 2026-11-14 19:39 UTC
+Updated: 2026-11-14 22:05 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Space.com [space_astronomy] https://www.space.com/space-exploration/launches-spacecraft/spacex-says-starship-flight-15-booster-aborted-chopsticks-landing-catch-after-launch-due-to-guidance-issue-video
@@ -11589,25 +11611,25 @@ Published: 2026-11-14 14:51 UTC
 URL: https://www.space.com/space-exploration/on-this-day-in-space-november-14-2026
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 Updated: 2026-11-14 15:15 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Space.com [space_astronomy] https://www.space.com/space-exploration/on-this-day-in-space-november-14-2026
 
 On Nov. 14, 1969, the Apollo 12 astronauts launched to the moon. Here's why it mattered.
 
-### Watch SpaceX will attempt its 1st-ever 'chopsticks' Starship landing catch of a rocket from orbit today (livestream)
+### 'Now everything changes': SpaceX catches Starship upper stage for 1st time ever
 Source: Space.com
 Published: 2026-11-14 13:00 UTC
 URL: https://www.space.com/space-exploration/launches-spacecraft/spacex-chopsticks-catch-starship-upper-stage-flight-14
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Updated: 2026-11-14 15:57 UTC
-Fetched: 2026-11-14 19:39 UTC
+Updated: 2026-11-14 22:10 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Space.com [space_astronomy] https://www.space.com/space-exploration/launches-spacecraft/spacex-chopsticks-catch-starship-upper-stage-flight-14
 
-SpaceX plans to catch the upper stage of its Starship megarocket at the launch pad today (Nov. 14), and you can watch the unprecedented action live.
+SpaceX caught the upper stage of its Starship megarocket for the first time ever today (Nov. 14), a landmark achievement that could unlock the giant vehicle's immense potential.
 
 ### See Jupiter and Mars make a spectacular close approach overnight Nov. 15-16
 Source: Space.com
@@ -11615,7 +11637,7 @@ Published: 2026-11-14 11:00 UTC
 URL: https://www.space.com/stargazing/see-jupiter-and-mars-make-a-spectacular-close-approach-overnight-nov-15-16
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 Updated: 2026-11-14 14:42 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Space.com [space_astronomy] https://www.space.com/stargazing/see-jupiter-and-mars-make-a-spectacular-close-approach-overnight-nov-15-16
@@ -11627,7 +11649,7 @@ Source: Universe Today
 Published: 2026-11-14 00:35 UTC
 URL: https://www.universetoday.com/articles/when-einsteins-gravitational-waves-meet-newtons-tides
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Universe Today [space_astronomy] https://www.universetoday.com/articles/when-einsteins-gravitational-waves-meet-newtons-tides
@@ -11639,7 +11661,7 @@ Source: Universe Today
 Published: 2026-11-13 23:49 UTC
 URL: https://www.universetoday.com/articles/astrophysicists-cross-another-dark-matter-candidate-off-their-list-stupendously-large-black-holes
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Universe Today [space_astronomy] https://www.universetoday.com/articles/astrophysicists-cross-another-dark-matter-candidate-off-their-list-stupendously-large-black-holes
@@ -11651,7 +11673,7 @@ Source: Universe Today
 Published: 2026-11-13 23:12 UTC
 URL: https://www.universetoday.com/articles/spacex-launches-starship-but-passes-up-booster-catch-for-safetys-sake
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Universe Today [space_astronomy] https://www.universetoday.com/articles/spacex-launches-starship-but-passes-up-booster-catch-for-safetys-sake
@@ -11663,43 +11685,19 @@ Source: Universe Today
 Published: 2026-11-13 21:30 UTC
 URL: https://www.universetoday.com/articles/lofar-takes-the-deepest-image-of-the-low-frequency-radio-sky-to-date
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Universe Today [space_astronomy] https://www.universetoday.com/articles/lofar-takes-the-deepest-image-of-the-low-frequency-radio-sky-to-date
 
 Using the Low Frequency Array (LOFAR), an international team led by Leiden University has produced the sharpest and most sensitive radio image of the sky ever made at low radio frequencies.
 
-### Dense Galaxy Clusters Foster Mechanisms That Throttle Star Formation
-Source: Universe Today
-Published: 2026-11-13 17:51 UTC
-URL: https://www.universetoday.com/articles/dense-galaxy-clusters-foster-mechanisms-that-throttle-star-formation
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: Universe Today [space_astronomy] https://www.universetoday.com/articles/dense-galaxy-clusters-foster-mechanisms-that-throttle-star-formation
-
-The Cosmic Noon was when the Universe's Stelliferous Era Began, and star formation was prodigious during that epoch. But since then, star formation has slowed to a relative crawl, despite the fact that we can watch them forming in regions throughout the Milky Way. What happened to the hydrogen gas that forms stars? New research found clues in a particulary dense galaxy cluster.
-
-### Shape-Shifting Robotic "Slugs" Could One Day Crawl Across Alien Worlds
-Source: Universe Today
-Published: 2026-11-13 17:10 UTC
-URL: https://www.universetoday.com/articles/shape-shifting-robotic-slugs-could-one-day-crawl-across-alien-worlds
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: Universe Today [space_astronomy] https://www.universetoday.com/articles/shape-shifting-robotic-slugs-could-one-day-crawl-across-alien-worlds
-
-Robots have been a mainstay of our early space exploration efforts. But they normally have wheels. Or in some cases, rotors. While those solutions are great on flat ground, they struggle with jagged boulders or tight crevices. So engineers have been working on alternative robotic form factors, and a recent paper in Nature Machine Intelligence from researchers at Colorado State University’s Adaptive Robotics Lab, describes a unique morphology using a design principle typically seen in architecture rather than robotics - tensegrity.
-
 ### Outbursts from a Massive Star
 Source: NASA News
 Published: 2026-11-13 16:39 UTC
 URL: https://www.nasa.gov/image-article/outbursts-from-a-massive-star/
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: NASA News [space_astronomy] https://www.nasa.gov/image-article/outbursts-from-a-massive-star/
@@ -11711,7 +11709,7 @@ Source: NASA News
 Published: 2026-11-13 16:05 UTC
 URL: https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: NASA News [space_astronomy] https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/
@@ -11723,7 +11721,7 @@ Source: NASA News
 Published: 2026-11-13 05:05 UTC
 URL: https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: NASA News [space_astronomy] https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/
@@ -11735,7 +11733,7 @@ Source: NASA News
 Published: 2026-11-13 05:01 UTC
 URL: https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: NASA News [space_astronomy] https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/
@@ -11747,7 +11745,7 @@ Source: NASA News
 Published: 2026-11-12 20:10 UTC
 URL: https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: NASA News [space_astronomy] https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/
@@ -11759,7 +11757,7 @@ Source: NASA News
 Published: 2026-11-12 19:12 UTC
 URL: https://www.nasa.gov/image-article/heart-in-the-sky-at-nasa-kennedy/
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: NASA News [space_astronomy] https://www.nasa.gov/image-article/heart-in-the-sky-at-nasa-kennedy/
@@ -11772,7 +11770,7 @@ The U.S. Air Force Thunderbirds create a heart-shaped smoke trail during a fligh
 Source: URL-only source / 仅网址源
 URL: https://youtube.com/@bbcearth
 Source meta: public_broadcaster · generalist · R5 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -11782,7 +11780,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://youtube.com/@marylandnature
 Source meta: video_channel · community · R3 · P3 · reference
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -11792,7 +11790,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://sorairo-net.com/index.html
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -11802,7 +11800,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://integbio.jp/dbcatalog/?lang=ja
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -11812,7 +11810,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://earthsciweb.org/js/bio/dna-writer/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -11822,7 +11820,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://blog.everythingdinosaur.com/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -11832,7 +11830,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.nhm.ac.uk/discover.html
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -11842,7 +11840,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.smithsonianmag.com/smart-news/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -11853,7 +11851,7 @@ Source: Smithsonian Science
 Published: 2026-11-13 15:22 UTC
 URL: https://www.smithsonianmag.com/science-nature/glp-1s-are-showing-promise-beyond-weight-loss-could-they-be-wonder-drugs-for-ailments-like-addiction-dementia-and-cancer-180989867/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Smithsonian Science [natural_history] https://www.smithsonianmag.com/science-nature/glp-1s-are-showing-promise-beyond-weight-loss-could-they-be-wonder-drugs-for-ailments-like-addiction-dementia-and-cancer-180989867/
@@ -11865,7 +11863,7 @@ Source: Smithsonian Science
 Published: 2026-11-06 12:30 UTC
 URL: https://www.smithsonianmag.com/science-nature/fossil-footprints-in-brazil-hint-at-a-cougar-size-mammal-that-walked-among-dinosaurs-its-another-sign-that-some-early-beasts-grew-to-impressive-sizes-after-all-180989815/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Smithsonian Science [natural_history] https://www.smithsonianmag.com/science-nature/fossil-footprints-in-brazil-hint-at-a-cougar-size-mammal-that-walked-among-dinosaurs-its-another-sign-that-some-early-beasts-grew-to-impressive-sizes-after-all-180989815/
@@ -11877,7 +11875,7 @@ Source: Smithsonian Science
 Published: 2026-11-06 12:00 UTC
 URL: https://www.smithsonianmag.com/science-nature/hear-hear-to-long-ears-these-15-furry-photos-of-adorable-rabbits-and-hares-will-have-you-leaping-for-leporidae-180989824/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Smithsonian Science [natural_history] https://www.smithsonianmag.com/science-nature/hear-hear-to-long-ears-these-15-furry-photos-of-adorable-rabbits-and-hares-will-have-you-leaping-for-leporidae-180989824/
@@ -11889,7 +11887,7 @@ Source: Smithsonian Science
 Published: 2026-11-04 12:30 UTC
 URL: https://www.smithsonianmag.com/science-nature/the-four-color-theorem-has-haunted-mathematicians-for-decades-it-just-got-a-rare-new-proof-but-some-still-long-for-a-simpler-solution-180989799/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Smithsonian Science [natural_history] https://www.smithsonianmag.com/science-nature/the-four-color-theorem-has-haunted-mathematicians-for-decades-it-just-got-a-rare-new-proof-but-some-still-long-for-a-simpler-solution-180989799/
@@ -11901,7 +11899,7 @@ Source: Smithsonian Science
 Published: 2026-10-30 11:30 UTC
 URL: https://www.smithsonianmag.com/science-nature/the-bloody-palette-of-the-animal-kingdom-goes-far-beyond-red-these-creatures-have-blood-that-runs-a-chilling-blue-bright-green-or-milky-white-180989752/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Smithsonian Science [natural_history] https://www.smithsonianmag.com/science-nature/the-bloody-palette-of-the-animal-kingdom-goes-far-beyond-red-these-creatures-have-blood-that-runs-a-chilling-blue-bright-green-or-milky-white-180989752/
@@ -11913,7 +11911,7 @@ Source: Smithsonian Science
 Published: 2026-10-29 11:30 UTC
 URL: https://www.smithsonianmag.com/science-nature/the-worlds-newest-carnivorous-plant-is-a-red-sundew-that-death-hugs-its-insect-prey-its-survival-depends-on-a-rare-and-disappearing-florida-habitat-180989758/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Smithsonian Science [natural_history] https://www.smithsonianmag.com/science-nature/the-worlds-newest-carnivorous-plant-is-a-red-sundew-that-death-hugs-its-insect-prey-its-survival-depends-on-a-rare-and-disappearing-florida-habitat-180989758/
@@ -11926,7 +11924,7 @@ Confined to hidden sinkhole lakes in the Panhandle, the Florida threadleaf sunde
 Source: URL-only source / 仅网址源
 URL: https://www.climate.gov/news-features
 Source meta: institutional · primary · R5 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -11936,7 +11934,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://e360.yale.edu/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -11946,7 +11944,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.biographic.com/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -11956,7 +11954,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://news.mongabay.com/list/biodiversity/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -11966,7 +11964,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://news.mongabay.com/list/conservation/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -11977,7 +11975,7 @@ Source: Inside Climate News
 Published: 2026-11-14 10:00 UTC
 URL: https://insideclimatenews.org/news/14112026/sam-forstag-ends-montana-democrat-us-rep-drought/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Inside Climate News [ecology_conservation] https://insideclimatenews.org/news/14112026/sam-forstag-ends-montana-democrat-us-rep-drought/
@@ -11989,7 +11987,7 @@ Source: Inside Climate News
 Published: 2026-11-14 09:55 UTC
 URL: https://insideclimatenews.org/news/14112026/georgia-power-grid-expansion-gas/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Inside Climate News [ecology_conservation] https://insideclimatenews.org/news/14112026/georgia-power-grid-expansion-gas/
@@ -12001,7 +11999,7 @@ Source: Inside Climate News
 Published: 2026-11-14 09:45 UTC
 URL: https://insideclimatenews.org/news/14112026/a-clean-air-advocate-will-represent-part-of-americas-oil-capital-in-congress/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Inside Climate News [ecology_conservation] https://insideclimatenews.org/news/14112026/a-clean-air-advocate-will-represent-part-of-americas-oil-capital-in-congress/
@@ -12013,7 +12011,7 @@ Source: Inside Climate News
 Published: 2026-11-14 09:40 UTC
 URL: https://insideclimatenews.org/news/14112026/a-new-top-priority-for-house-democrats-restoring-science/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Inside Climate News [ecology_conservation] https://insideclimatenews.org/news/14112026/a-new-top-priority-for-house-democrats-restoring-science/
@@ -12025,7 +12023,7 @@ Source: Inside Climate News
 Published: 2026-11-14 00:17 UTC
 URL: https://insideclimatenews.org/news/13112026/fisheries-commission-lowers-chesapeake-bay-menhaden-cap/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Inside Climate News [ecology_conservation] https://insideclimatenews.org/news/13112026/fisheries-commission-lowers-chesapeake-bay-menhaden-cap/
@@ -12037,7 +12035,7 @@ Source: Inside Climate News
 Published: 2026-11-13 23:17 UTC
 URL: https://insideclimatenews.org/news/13112026/mishandled-data-california-pesticide-regulation/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Inside Climate News [ecology_conservation] https://insideclimatenews.org/news/13112026/mishandled-data-california-pesticide-regulation/
@@ -12049,7 +12047,7 @@ Source: The Revelator
 Published: 2026-11-13 15:00 UTC
 URL: https://therevelator.org/wildlife-nature-books-gift-giving/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Revelator [ecology_conservation] https://therevelator.org/wildlife-nature-books-gift-giving/
@@ -12061,7 +12059,7 @@ Source: The Revelator
 Published: 2026-11-12 15:00 UTC
 URL: https://therevelator.org/after-the-blue-wave-x-out-musk/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Revelator [ecology_conservation] https://therevelator.org/after-the-blue-wave-x-out-musk/
@@ -12073,7 +12071,7 @@ Source: The Revelator
 Published: 2026-11-09 16:00 UTC
 URL: https://therevelator.org/dam-removal-rewilding/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Revelator [ecology_conservation] https://therevelator.org/dam-removal-rewilding/
@@ -12085,7 +12083,7 @@ Source: The Revelator
 Published: 2026-11-06 19:30 UTC
 URL: https://therevelator.org/environment-2026-midterms/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Revelator [ecology_conservation] https://therevelator.org/environment-2026-midterms/
@@ -12097,7 +12095,7 @@ Source: The Revelator
 Published: 2026-11-02 15:00 UTC
 URL: https://therevelator.org/when-after-means-alive/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Revelator [ecology_conservation] https://therevelator.org/when-after-means-alive/
@@ -12109,7 +12107,7 @@ Source: The Revelator
 Published: 2026-10-30 15:00 UTC
 URL: https://therevelator.org/climate-danger-authoritarian-neighbors/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Revelator [ecology_conservation] https://therevelator.org/climate-danger-authoritarian-neighbors/
@@ -12122,7 +12120,7 @@ Climate disasters are getting worse — and the risks escalate when authoritaria
 Source: URL-only source / 仅网址源
 URL: https://journals.biologists.com/jeb
 Source meta: journal · primary · R5 · P5 · reference
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -12132,7 +12130,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://academic.oup.com/beheco
 Source meta: journal · primary · R5 · P5 · reference
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -12142,7 +12140,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.sciencedirect.com/journal/animal-behaviour
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -12152,7 +12150,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.springer.com/journal/10071
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -12162,7 +12160,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://news.mongabay.com/list/animal-behavior/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -12174,7 +12172,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.int-res.com/journals/meps/
 Source meta: journal · primary · R5 · P5 · reference
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -12184,7 +12182,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://academic.oup.com/icesjms
 Source meta: journal · primary · R5 · P5 · reference
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -12194,7 +12192,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://news.mongabay.com/list/oceans/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -12204,7 +12202,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://therevelator.org/category/oceans/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -12214,7 +12212,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://oceanographicmagazine.com/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: empty_feed
 
@@ -12224,7 +12222,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.marinebio.org/news/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -12234,7 +12232,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://oceanexplorer.noaa.gov/news/
 Source meta: institutional · primary · R5 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -12244,7 +12242,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.pmel.noaa.gov/
 Source meta: institutional · primary · R5 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -12254,7 +12252,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.sciencedaily.com/news/plants_animals/marine_biology/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -12265,7 +12263,7 @@ Source: Hakai Magazine
 Published: 2024-12-27 08:05 UTC
 URL: https://hakaimagazine.com/article-short/so-long-and-thanks-for-all-the-fish/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Hakai Magazine [marine_life] https://hakaimagazine.com/article-short/so-long-and-thanks-for-all-the-fish/
@@ -12277,7 +12275,7 @@ Source: Hakai Magazine
 Published: 2024-12-24 08:05 UTC
 URL: https://hakaimagazine.com/features/the-first-first-responders/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Hakai Magazine [marine_life] https://hakaimagazine.com/features/the-first-first-responders/
@@ -12289,7 +12287,7 @@ Source: Hakai Magazine
 Published: 2024-12-20 08:01 UTC
 URL: https://hakaimagazine.com/news/how-exactly-could-deep-sea-mining-benefit-all-of-humanity/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Hakai Magazine [marine_life] https://hakaimagazine.com/news/how-exactly-could-deep-sea-mining-benefit-all-of-humanity/
@@ -12301,7 +12299,7 @@ Source: Hakai Magazine
 Published: 2024-12-19 08:05 UTC
 URL: https://hakaimagazine.com/features/the-canoe-in-the-forest/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Hakai Magazine [marine_life] https://hakaimagazine.com/features/the-canoe-in-the-forest/
@@ -12313,7 +12311,7 @@ Source: Hakai Magazine
 Published: 2024-12-18 08:01 UTC
 URL: https://hakaimagazine.com/news/whats-next-for-deep-sea-mining/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Hakai Magazine [marine_life] https://hakaimagazine.com/news/whats-next-for-deep-sea-mining/
@@ -12325,7 +12323,7 @@ Source: Hakai Magazine
 Published: 2024-12-17 08:05 UTC
 URL: https://hakaimagazine.com/features/the-personal-toll-of-canadas-broken-fishing-promises/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Hakai Magazine [marine_life] https://hakaimagazine.com/features/the-personal-toll-of-canadas-broken-fishing-promises/
@@ -12338,7 +12336,7 @@ August 29, 2020, dawned clear over southwest Nova Scotia. In the cabin of his lo
 Source: URL-only source / 仅网址源
 URL: https://digitalcollections.lib.washington.edu/digital/collection/fishimages
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -12348,7 +12346,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.fishbase.se/
 Source meta: reference_tool · primary · R5 · P5 · reference
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -12358,7 +12356,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.zukan-bouz.com/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -12368,7 +12366,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://okinawa-fishes.sakura.ne.jp/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -12378,7 +12376,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.asahi-net.or.jp/~rq5y-igc/index.html
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -12390,7 +12388,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://academic.oup.com/mollus
 Source meta: journal · primary · R5 · P5 · reference
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -12400,7 +12398,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://youtube.com/@shellingadventures
 Source meta: video_channel · community · R3 · P3 · reference
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -12410,7 +12408,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://youtube.com/@swfbeachlife
 Source meta: video_channel · community · R3 · P3 · reference
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -12420,7 +12418,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.shellbrothers.be/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -12430,7 +12428,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.seahorseandco.com/identificationguides
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -12440,7 +12438,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://conchology.be/?t=1
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -12450,7 +12448,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: http://shells.tw
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -12460,7 +12458,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: http://shellbox.blog106.fc2.com/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -12470,7 +12468,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.cypraea.jp/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -12480,7 +12478,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: http://bishogai-sagashi.jp
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -12490,7 +12488,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://bishogai.com/index.html
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -12500,7 +12498,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://kai-zukan.info
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -12510,7 +12508,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://malacsoc.org.uk/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -12520,7 +12518,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.thecephalopodpage.org/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -12530,7 +12528,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.sciencedaily.com/news/plants_animals/mollusks/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -12541,7 +12539,7 @@ Source: Phys.org Mollusks
 Published: 2026-11-12 20:00 UTC
 URL: https://phys.org/news/2026-11-scientists-uncover-limestone-shipworms-turbulent.html
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Phys.org Mollusks [mollusks] https://phys.org/news/2026-11-scientists-uncover-limestone-shipworms-turbulent.html
@@ -12553,7 +12551,7 @@ Source: Phys.org Mollusks
 Published: 2026-11-11 21:00 UTC
 URL: https://phys.org/news/2026-11-deep-sea-mollusk-houses-bacteria.html
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Phys.org Mollusks [mollusks] https://phys.org/news/2026-11-deep-sea-mollusk-houses-bacteria.html
@@ -12565,7 +12563,7 @@ Source: Phys.org Mollusks
 Published: 2026-11-06 16:40 UTC
 URL: https://phys.org/news/2026-11-g0-founder-population-mutations-marine.html
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Phys.org Mollusks [mollusks] https://phys.org/news/2026-11-g0-founder-population-mutations-marine.html
@@ -12577,7 +12575,7 @@ Source: Phys.org Mollusks
 Published: 2026-11-05 12:00 UTC
 URL: https://phys.org/news/2026-11-critical-gaps-central-america-freshwater.html
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Phys.org Mollusks [mollusks] https://phys.org/news/2026-11-critical-gaps-central-america-freshwater.html
@@ -12589,7 +12587,7 @@ Source: Phys.org Mollusks
 Published: 2026-11-04 00:00 UTC
 URL: https://phys.org/news/2026-11-tiny-fossils-brittle-stars-dead.html
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Phys.org Mollusks [mollusks] https://phys.org/news/2026-11-tiny-fossils-brittle-stars-dead.html
@@ -12601,7 +12599,7 @@ Source: Phys.org Mollusks
 Published: 2026-10-27 14:40 UTC
 URL: https://phys.org/news/2026-10-mathematics-shell-recreating-diverse-mollusk.html
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Phys.org Mollusks [mollusks] https://phys.org/news/2026-10-mathematics-shell-recreating-diverse-mollusk.html
@@ -12614,7 +12612,7 @@ Kaushik Bhattacharya is an engineer and materials scientist, but he has always b
 Source: URL-only source / 仅网址源
 URL: https://peerj.com/subjects/arthropod-biology/
 Source meta: journal · primary · R4 · P4 · signal
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -12624,7 +12622,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://academic.oup.com/jinsectscience
 Source meta: journal · primary · R5 · P5 · reference
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -12634,7 +12632,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://academic.oup.com/isd
 Source meta: journal · primary · R5 · P5 · reference
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -12644,7 +12642,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://zookeys.pensoft.net/
 Source meta: journal · primary · R5 · P5 · reference
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: empty_feed
 
@@ -12654,7 +12652,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://youtube.com/@ohchan_ch
 Source meta: video_channel · community · R3 · P3 · reference
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -12664,7 +12662,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://youtube.com/@insecthaustv
 Source meta: video_channel · community · R3 · P3 · reference
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -12674,7 +12672,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.kuwakabuplanet.com
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -12684,7 +12682,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://thetarantulalab.com
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -12694,7 +12692,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: http://icontent.nkps.tp.edu.tw/insectinfo/OrderShow.aspx?orderID=13
 Source meta: specialist_media · primary · R5 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -12704,7 +12702,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: http://gaga.biodiv.tw/9701bx/in94.htm
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -12714,7 +12712,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://konchu-zukan.info
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -12724,7 +12722,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: http://www.ha.shotoku.ac.jp/~kawa/KYO/SEIBUTSU/DOUBUTSU/500KonchuTop/index.html
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -12734,7 +12732,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://mapress.com/zt/index
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -12744,7 +12742,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.antwiki.org/wiki/Main_Page
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -12754,7 +12752,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://bugguide.net/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -12764,7 +12762,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://xerces.org/blog
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -12774,7 +12772,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.sciencedaily.com/news/plants_animals/insects_and_butterflies/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -12785,7 +12783,7 @@ Source: Entomology Today
 Published: 2026-11-05 19:15 UTC
 URL: https://entomologytoday.org/2026/11/05/eight-months-egg-stage-spotted-lanternfly-management/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Entomology Today [arthropods] https://entomologytoday.org/2026/11/05/eight-months-egg-stage-spotted-lanternfly-management/
@@ -12797,7 +12795,7 @@ Source: Entomology Today
 Published: 2026-11-04 15:15 UTC
 URL: https://entomologytoday.org/2026/11/04/science-public-service-entomologist-extension-sara-salgado-macdonald-standout-early-career-professional/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Entomology Today [arthropods] https://entomologytoday.org/2026/11/04/science-public-service-entomologist-extension-sara-salgado-macdonald-standout-early-career-professional/
@@ -12809,7 +12807,7 @@ Source: Entomology Today
 Published: 2026-11-02 16:15 UTC
 URL: https://entomologytoday.org/2026/11/02/how-mentor-entomology-undergraduates-graduate-student-challenges-rewards-personal-insights/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Entomology Today [arthropods] https://entomologytoday.org/2026/11/02/how-mentor-entomology-undergraduates-graduate-student-challenges-rewards-personal-insights/
@@ -12821,7 +12819,7 @@ Source: Entomology Today
 Published: 2026-10-27 13:00 UTC
 URL: https://entomologytoday.org/2026/10/27/worlds-largest-bark-ambrosia-beetle-database-taxonomy/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Entomology Today [arthropods] https://entomologytoday.org/2026/10/27/worlds-largest-bark-ambrosia-beetle-database-taxonomy/
@@ -12833,7 +12831,7 @@ Source: Entomology Today
 Published: 2026-10-23 14:00 UTC
 URL: https://entomologytoday.org/2026/10/23/tachinaephagus-zealandicus-parasitoid-wasp-biological-control-new-world-screwworm/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Entomology Today [arthropods] https://entomologytoday.org/2026/10/23/tachinaephagus-zealandicus-parasitoid-wasp-biological-control-new-world-screwworm/
@@ -12845,7 +12843,7 @@ Source: Entomology Today
 Published: 2026-10-20 18:45 UTC
 URL: https://entomologytoday.org/2026/10/20/invasive-thrips-parvispinus-california-garden-stores/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Entomology Today [arthropods] https://entomologytoday.org/2026/10/20/invasive-thrips-parvispinus-california-garden-stores/
@@ -12858,7 +12856,7 @@ This post ‘Hidden’ Invasive Thrips Found in California Garden Stores appeare
 Source: URL-only source / 仅网址源
 URL: https://mycokeys.pensoft.net/
 Source meta: journal · primary · R5 · P5 · reference
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: empty_feed
 
@@ -12868,7 +12866,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.iplant.cn/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -12878,7 +12876,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.kew.org/science
 Source meta: institutional · primary · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: status: partial; checked: 2026-10-30; scope: Kew 自身植物与真菌研究、馆藏和数字资源; identity: 官网提供研究部门、科学家、馆藏、数据库及报告入口。; reliability: 保留历史 R4；身份核实不等于对全部数据库和研究结论重新评级。; professional_value: 保留历史 P4；对植物与真菌分类具有直接专业价值。; evidence: ['https://www.kew.org/science']; limitations: 新闻介绍与研究论文、数据库记录应分别核对。; access: 保留官网入口，未增加未核实的采集方式。
 Fetch status: link_only
 
@@ -12889,7 +12887,7 @@ Source: Botany One
 Published: 2026-11-14 15:00 UTC
 URL: https://www.botany.one/science-shared-november-14/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Botany One [plants_fungi] https://www.botany.one/science-shared-november-14/
@@ -12901,7 +12899,7 @@ Source: Botany One
 Published: 2026-11-14 09:00 UTC
 URL: https://www.botany.one/sudoku-garden-37/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Botany One [plants_fungi] https://www.botany.one/sudoku-garden-37/
@@ -12914,7 +12912,7 @@ Published: 2026-11-14 03:38 UTC
 URL: https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.71751?af=R
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 Updated: 2026-11-13 15:38 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: New Phytologist [plants_fungi] https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.71751?af=R
@@ -12927,7 +12925,7 @@ Published: 2026-11-14 03:35 UTC
 URL: https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.71754?af=R
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 Updated: 2026-11-13 15:35 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: New Phytologist [plants_fungi] https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.71754?af=R
@@ -12939,7 +12937,7 @@ Source: Botany One
 Published: 2026-11-13 15:00 UTC
 URL: https://www.botany.one/the-vine-that-eliminates-caterpillars-before-their-first-bite/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Botany One [plants_fungi] https://www.botany.one/the-vine-that-eliminates-caterpillars-before-their-first-bite/
@@ -12952,7 +12950,7 @@ Published: 2026-11-13 13:58 UTC
 URL: https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.71762?af=R
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 Updated: 2026-11-13 13:58 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: New Phytologist [plants_fungi] https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.71762?af=R
@@ -12965,7 +12963,7 @@ Published: 2026-11-13 13:57 UTC
 URL: https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.71756?af=R
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 Updated: 2026-11-13 13:57 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: New Phytologist [plants_fungi] https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.71756?af=R
@@ -12978,7 +12976,7 @@ Published: 2026-11-13 13:53 UTC
 URL: https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.71749?af=R
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 Updated: 2026-11-13 13:53 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: New Phytologist [plants_fungi] https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.71749?af=R
@@ -12991,7 +12989,7 @@ Published: 2026-11-13 13:52 UTC
 URL: https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.71746?af=R
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 Updated: 2026-11-13 13:52 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: New Phytologist [plants_fungi] https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.71746?af=R
@@ -13004,7 +13002,7 @@ Published: 2026-11-13 09:10 UTC
 URL: https://bsapubs.onlinelibrary.wiley.com/doi/10.1002/ajb2.70289?af=R
 Source meta: journal · primary · R5 · P5 · reference
 Updated: 2026-11-13 09:10 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: American Journal of Botany [plants_fungi] https://bsapubs.onlinelibrary.wiley.com/doi/10.1002/ajb2.70289?af=R
@@ -13016,7 +13014,7 @@ Source: Botany One
 Published: 2026-11-12 15:00 UTC
 URL: https://www.botany.one/when-yellow-flowers-turn-red-do-bees-get-the-message/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Botany One [plants_fungi] https://www.botany.one/when-yellow-flowers-turn-red-do-bees-get-the-message/
@@ -13028,7 +13026,7 @@ Source: Botany One
 Published: 2026-11-11 15:00 UTC
 URL: https://www.botany.one/the-sky-blue-and-white-flower-how-a-new-andean-sage-ended-up-with-a-very-famous-name/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Botany One [plants_fungi] https://www.botany.one/the-sky-blue-and-white-flower-how-a-new-andean-sage-ended-up-with-a-very-famous-name/
@@ -13041,7 +13039,7 @@ Published: 2026-11-11 05:00 UTC
 URL: https://bsapubs.onlinelibrary.wiley.com/doi/10.1002/ajb2.70287?af=R
 Source meta: journal · primary · R5 · P5 · reference
 Updated: 2026-11-10 17:00 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: American Journal of Botany [plants_fungi] https://bsapubs.onlinelibrary.wiley.com/doi/10.1002/ajb2.70287?af=R
@@ -13053,7 +13051,7 @@ Source: Botany One
 Published: 2026-11-10 15:00 UTC
 URL: https://www.botany.one/heat-alters-floral-colour-but-flowers-remain-conspicuous-to-pollinators/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Botany One [plants_fungi] https://www.botany.one/heat-alters-floral-colour-but-flowers-remain-conspicuous-to-pollinators/
@@ -13066,7 +13064,7 @@ Published: 2026-11-10 08:00 UTC
 URL: https://bsapubs.onlinelibrary.wiley.com/doi/10.1002/ajb2.70288?af=R
 Source meta: journal · primary · R5 · P5 · reference
 Updated: 2026-11-10 20:00 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: American Journal of Botany [plants_fungi] https://bsapubs.onlinelibrary.wiley.com/doi/10.1002/ajb2.70288?af=R
@@ -13079,7 +13077,7 @@ Published: 2026-11-03 06:04 UTC
 URL: https://bsapubs.onlinelibrary.wiley.com/doi/10.1002/ajb2.70285?af=R
 Source meta: journal · primary · R5 · P5 · reference
 Updated: 2026-11-02 18:04 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: American Journal of Botany [plants_fungi] https://bsapubs.onlinelibrary.wiley.com/doi/10.1002/ajb2.70285?af=R
@@ -13092,7 +13090,7 @@ Published: 2026-11-03 06:03 UTC
 URL: https://bsapubs.onlinelibrary.wiley.com/doi/10.1002/ajb2.70286?af=R
 Source meta: journal · primary · R5 · P5 · reference
 Updated: 2026-11-02 18:03 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: American Journal of Botany [plants_fungi] https://bsapubs.onlinelibrary.wiley.com/doi/10.1002/ajb2.70286?af=R
@@ -13105,7 +13103,7 @@ Published: 2026-11-03 06:00 UTC
 URL: https://bsapubs.onlinelibrary.wiley.com/doi/10.1002/ajb2.70284?af=R
 Source meta: journal · primary · R5 · P5 · reference
 Updated: 2026-11-02 18:00 UTC
-Fetched: 2026-11-14 19:39 UTC
+Fetched: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: American Journal of Botany [plants_fungi] https://bsapubs.onlinelibrary.wiley.com/doi/10.1002/ajb2.70284?af=R
@@ -13118,7 +13116,7 @@ American Journal of Botany, EarlyView.
 Source: URL-only source / 仅网址源
 URL: https://www.usgs.gov/news
 Source meta: institutional · primary · R5 · P4 · baseline
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -13128,7 +13126,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.mindat.org/
 Source meta: reference_tool · primary · R5 · P5 · reference
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -13138,7 +13136,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://lapisps.sakura.ne.jp/index.html
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:39 UTC
+Observed: 2026-11-14 23:34 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -13149,7 +13147,7 @@ Source: Geology Page
 Published: 2026-10-07 09:09 UTC
 URL: https://www.geologypage.com/2026/10/new-crocodile-species-discovered-in-rocks-used-to-build-the-great-sphinx.html
 Source meta: specialist_media · specialist · R3 · P3 · signal
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Geology Page [minerals_geology] https://www.geologypage.com/2026/10/new-crocodile-species-discovered-in-rocks-used-to-build-the-great-sphinx.html
@@ -13161,7 +13159,7 @@ Source: Geology Page
 Published: 2026-10-07 08:39 UTC
 URL: https://www.geologypage.com/2026/10/animals-may-have-evolved-vastly-earlier-than-fossil-evidence-suggests.html
 Source meta: specialist_media · specialist · R3 · P3 · signal
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Geology Page [minerals_geology] https://www.geologypage.com/2026/10/animals-may-have-evolved-vastly-earlier-than-fossil-evidence-suggests.html
@@ -13173,7 +13171,7 @@ Source: Geology Page
 Published: 2026-10-07 08:04 UTC
 URL: https://www.geologypage.com/2026/10/half-billion-year-old-fossils-rewrite-the-origin-story-of-starfish.html
 Source meta: specialist_media · specialist · R3 · P3 · signal
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Geology Page [minerals_geology] https://www.geologypage.com/2026/10/half-billion-year-old-fossils-rewrite-the-origin-story-of-starfish.html
@@ -13185,7 +13183,7 @@ Source: Geology Page
 Published: 2026-10-07 07:50 UTC
 URL: https://www.geologypage.com/2026/10/new-feathered-winged-dinosaur-from-china-challenges-our-theories-on-bird-and-dinosaur-evolution.html
 Source meta: specialist_media · specialist · R3 · P3 · signal
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Geology Page [minerals_geology] https://www.geologypage.com/2026/10/new-feathered-winged-dinosaur-from-china-challenges-our-theories-on-bird-and-dinosaur-evolution.html
@@ -13197,7 +13195,7 @@ Source: Geology Page
 Published: 2026-10-07 07:29 UTC
 URL: https://www.geologypage.com/2026/10/ancient-bird-becomes-second-australian-species-to-be-named-from-the-cretaceous-period.html
 Source meta: specialist_media · specialist · R3 · P3 · signal
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Geology Page [minerals_geology] https://www.geologypage.com/2026/10/ancient-bird-becomes-second-australian-species-to-be-named-from-the-cretaceous-period.html
@@ -13209,7 +13207,7 @@ Source: Geology Page
 Published: 2026-10-06 10:03 UTC
 URL: https://www.geologypage.com/2026/10/new-species-of-proto-amphibian-described-by-students-named-in-honor-of-their-mothers.html
 Source meta: specialist_media · specialist · R3 · P3 · signal
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Geology Page [minerals_geology] https://www.geologypage.com/2026/10/new-species-of-proto-amphibian-described-by-students-named-in-honor-of-their-mothers.html
@@ -13222,7 +13220,7 @@ Around 309 million years ago, long before the dinosaurs, the area around Chicago
 Source: URL-only source / 仅网址源
 URL: https://ai.meta.com/blog/
 Source meta: institutional · primary · R5 · P5 · baseline
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -13232,7 +13230,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.anthropic.com/news
 Source meta: institutional · primary · R5 · P5 · baseline
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -13242,7 +13240,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://hai.stanford.edu/ai-index
 Source meta: institutional · primary · R5 · P5 · baseline
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -13252,7 +13250,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://hai.stanford.edu/
 Source meta: institutional · primary · R5 · P4 · baseline
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: empty_feed
 
@@ -13262,7 +13260,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://thegradient.pub/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -13272,7 +13270,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.theverge.com/ai-artificial-intelligence
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -13282,7 +13280,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://blog.google/technology/ai/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -13292,7 +13290,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.technologyreview.com/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -13303,7 +13301,7 @@ Source: Hugging Face Blog
 Published: 2026-11-13 18:00 UTC
 URL: https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Hugging Face Blog [ai_systems] https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place
@@ -13313,7 +13311,7 @@ Source: Hugging Face Blog
 Published: 2026-11-13 17:02 UTC
 URL: https://huggingface.co/blog/allenai/xybench
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Hugging Face Blog [ai_systems] https://huggingface.co/blog/allenai/xybench
@@ -13323,7 +13321,7 @@ Source: OpenAI News
 Published: 2026-11-13 15:00 UTC
 URL: https://openai.com/index/introducing-chatgpt-wallet
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: OpenAI News [ai_systems] https://openai.com/index/introducing-chatgpt-wallet
@@ -13335,7 +13333,7 @@ Source: Hugging Face Blog
 Published: 2026-11-13 14:05 UTC
 URL: https://huggingface.co/blog/ggml-org/llama-cpp-v1
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Hugging Face Blog [ai_systems] https://huggingface.co/blog/ggml-org/llama-cpp-v1
@@ -13345,7 +13343,7 @@ Source: OpenAI News
 Published: 2026-11-13 08:00 UTC
 URL: https://openai.com/business/customer-stories/shield
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: OpenAI News [ai_systems] https://openai.com/business/customer-stories/shield
@@ -13357,7 +13355,7 @@ Source: Microsoft Research Blog
 Published: 2026-11-12 21:31 UTC
 URL: https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Microsoft Research Blog [ai_systems] https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/
@@ -13369,7 +13367,7 @@ Source: OpenAI News
 Published: 2026-11-12 20:00 UTC
 URL: https://openai.com/business/customer-stories/amplitude
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: OpenAI News [ai_systems] https://openai.com/business/customer-stories/amplitude
@@ -13381,7 +13379,7 @@ Source: Hugging Face Blog
 Published: 2026-11-12 19:07 UTC
 URL: https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Hugging Face Blog [ai_systems] https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite
@@ -13391,7 +13389,7 @@ Source: Google DeepMind
 Published: 2026-11-12 18:00 UTC
 URL: https://deepmind.google/blog/introducing-gemini-4-hydrogen/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Google DeepMind [ai_systems] https://deepmind.google/blog/introducing-gemini-4-hydrogen/
@@ -13401,7 +13399,7 @@ Source: OpenAI News
 Published: 2026-11-12 12:00 UTC
 URL: https://openai.com/business/customer-stories/gondola
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: OpenAI News [ai_systems] https://openai.com/business/customer-stories/gondola
@@ -13413,7 +13411,7 @@ Source: OpenAI News
 Published: 2026-11-12 09:30 UTC
 URL: https://openai.com/business/customer-stories/holidays-extras-codex
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: OpenAI News [ai_systems] https://openai.com/business/customer-stories/holidays-extras-codex
@@ -13425,7 +13423,7 @@ Source: Hugging Face Blog
 Published: 2026-11-12 00:00 UTC
 URL: https://huggingface.co/blog/3d-lora-finetuning
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Hugging Face Blog [ai_systems] https://huggingface.co/blog/3d-lora-finetuning
@@ -13435,7 +13433,7 @@ Source: OpenAI News
 Published: 2026-11-12 00:00 UTC
 URL: https://openai.com/index/children-first-declaration
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: OpenAI News [ai_systems] https://openai.com/index/children-first-declaration
@@ -13447,7 +13445,7 @@ Source: Google DeepMind
 Published: 2026-11-11 15:00 UTC
 URL: https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Google DeepMind [ai_systems] https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/
@@ -13459,7 +13457,7 @@ Source: Hugging Face Blog
 Published: 2026-11-11 05:01 UTC
 URL: https://huggingface.co/blog/qvac/botpsy
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Hugging Face Blog [ai_systems] https://huggingface.co/blog/qvac/botpsy
@@ -13469,7 +13467,7 @@ Source: Microsoft Research Blog
 Published: 2026-11-10 20:52 UTC
 URL: https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Microsoft Research Blog [ai_systems] https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/
@@ -13481,7 +13479,7 @@ Source: Google DeepMind
 Published: 2026-11-10 16:03 UTC
 URL: https://deepmind.google/blog/gemini-4-carbon-is-now-available/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Google DeepMind [ai_systems] https://deepmind.google/blog/gemini-4-carbon-is-now-available/
@@ -13491,7 +13489,7 @@ Source: Google DeepMind
 Published: 2026-11-10 12:02 UTC
 URL: https://deepmind.google/blog/introducing-alphaproof-code/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Google DeepMind [ai_systems] https://deepmind.google/blog/introducing-alphaproof-code/
@@ -13503,7 +13501,7 @@ Source: Google DeepMind
 Published: 2026-11-10 11:13 UTC
 URL: https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Google DeepMind [ai_systems] https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/
@@ -13515,7 +13513,7 @@ Source: Google DeepMind
 Published: 2026-11-09 19:51 UTC
 URL: https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Google DeepMind [ai_systems] https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/
@@ -13527,7 +13525,7 @@ Source: Microsoft Research Blog
 Published: 2026-11-05 16:00 UTC
 URL: https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Microsoft Research Blog [ai_systems] https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/
@@ -13539,7 +13537,7 @@ Source: Microsoft Research Blog
 Published: 2026-11-03 17:14 UTC
 URL: https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset/
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Microsoft Research Blog [ai_systems] https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset/
@@ -13551,7 +13549,7 @@ Source: Microsoft Research Blog
 Published: 2026-10-30 13:05 UTC
 URL: https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Microsoft Research Blog [ai_systems] https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/
@@ -13563,7 +13561,7 @@ Source: Microsoft Research Blog
 Published: 2026-10-29 19:19 UTC
 URL: https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Microsoft Research Blog [ai_systems] https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/
@@ -13575,7 +13573,7 @@ Source: Distill
 Published: 2021-09-02 20:00 UTC
 URL: https://distill.pub/2021/understanding-gnns
 Source meta: specialist_media · specialist · R5 · P5 · reference
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Distill [ai_systems] https://distill.pub/2021/understanding-gnns
@@ -13587,7 +13585,7 @@ Source: Distill
 Published: 2021-09-02 20:00 UTC
 URL: https://distill.pub/2021/gnn-intro
 Source meta: specialist_media · specialist · R5 · P5 · reference
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Distill [ai_systems] https://distill.pub/2021/gnn-intro
@@ -13599,7 +13597,7 @@ Source: Distill
 Published: 2021-07-02 20:00 UTC
 URL: https://distill.pub/2021/distill-hiatus
 Source meta: specialist_media · specialist · R5 · P5 · reference
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Distill [ai_systems] https://distill.pub/2021/distill-hiatus
@@ -13611,7 +13609,7 @@ Source: Distill
 Published: 2021-05-06 20:00 UTC
 URL: https://distill.pub/selforg/2021/adversarial
 Source meta: specialist_media · specialist · R5 · P5 · reference
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Distill [ai_systems] https://distill.pub/selforg/2021/adversarial
@@ -13623,7 +13621,7 @@ Source: Distill
 Published: 2021-04-08 20:00 UTC
 URL: https://distill.pub/2020/circuits/weight-banding
 Source meta: specialist_media · specialist · R5 · P5 · reference
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Distill [ai_systems] https://distill.pub/2020/circuits/weight-banding
@@ -13635,7 +13633,7 @@ Source: Distill
 Published: 2021-04-05 20:00 UTC
 URL: https://distill.pub/2020/circuits/branch-specialization
 Source meta: specialist_media · specialist · R5 · P5 · reference
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Distill [ai_systems] https://distill.pub/2020/circuits/branch-specialization
@@ -13648,7 +13646,7 @@ When a neural network layer is divided into multiple branches, neurons self-orga
 Source: URL-only source / 仅网址源
 URL: https://www.computer.org/
 Source meta: specialist_media · specialist · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: empty_feed
 
@@ -13658,7 +13656,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://queue.acm.org/
 Source meta: specialist_media · specialist · R5 · P5 · baseline
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -13668,7 +13666,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://t.me/math_and_physics_and_misc
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -13678,7 +13676,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.producthunt.com
 Source meta: reference_tool · aggregator · R3 · P4 · signal
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -13688,7 +13686,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://hellogithub.com
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -13698,7 +13696,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://now.hackertab.dev
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -13708,7 +13706,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://hckrnews.com
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -13718,21 +13716,118 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://cacm.acm.org/feed/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
 Source homepage / 来源主页
 
-### Silicon Valley claims to know the future. So why'd it get the midterms so wrong?
-Source: Hacker News
-Published: 2026-11-14 19:17 UTC
-URL: https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/
-Source meta: reference_tool · community · R3 · P4 · signal
-Fetched: 2026-11-14 19:40 UTC
+### Anduril Says Its First Satellite Can See Adversaries Maneuver In Orbital Night
+Source: SoylentNews
+Published: Publication date unknown / 发布日期未知
+URL: https://soylentnews.org/article.pl?sid=26/11/14/019226&from=rss
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+Updated: 2026-11-14 23:28 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
-Attribution: Hacker News [computing_cultures] https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/
+Attribution: SoylentNews [computing_cultures] https://soylentnews.org/article.pl?sid=26/11/14/019226&from=rss
+
+Arthur t Knackerbracket writes: https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/ Anduril Industries has announced the successful demonstration of a new satellite-based sensor designed to track other spacecraft that may be hiding their maneuvers in Earth's shadow. Funded with Anduril's internal capital, the company's oven-sized satellite launched on a SpaceX rideshare mission in July with a package of tech demo payloads: an edge-compute processor, a power-management system adaptable to different mission types, and a long-wave infrared space sensor capable of detecting other objects in orbit. Anduril reported on the success of the tech demo mission Tuesday. The company's satellite, named Anduril-216, flies about 590 km (366 mi) above Earth, spending about one-third of each orbit in darkness. Anduril-216's night passes allow its infrared imager to shine. "This is a unique sensor that allows us to take imagery in long-wave [infrared]," said Gokul Subramanian, Anduril's senior vice president of engineering.
+
+### L3Harris Statement on the Nov. 13 Ground Stop
+Source: Hacker News
+Published: 2026-11-14 22:51 UTC
+URL: https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop
+Source meta: reference_tool · community · R3 · P4 · signal
+Fetched: 2026-11-14 23:35 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: Hacker News [computing_cultures] https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop
+
+Comments
+
+### Nvidia deliberately kept GPU prices high through circular financing deals
+Source: Hacker News
+Published: 2026-11-14 22:26 UTC
+URL: https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html
+Source meta: reference_tool · community · R3 · P4 · signal
+Fetched: 2026-11-14 23:35 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: Hacker News [computing_cultures] https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html
+
+Comments
+
+### How did Woz write the Apple 1 BASIC before building the computer?
+Source: Hacker News
+Published: 2026-11-14 22:22 UTC
+URL: https://retrocomputing.stackexchange.com/questions/17957
+Source meta: reference_tool · community · R3 · P4 · signal
+Fetched: 2026-11-14 23:35 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: Hacker News [computing_cultures] https://retrocomputing.stackexchange.com/questions/17957
+
+Comments
+
+### Unlike other larger-than-life tech founders, Jensen Huang lacked super-voting shares in Nvidia, making it easier for him to lose control of the company (Forbes)
+Source: Techmeme
+Published: 2026-11-14 22:05 UTC
+URL: https://www.techmeme.com/261114/p20#a261114p20
+Source meta: reference_tool · aggregator · R3 · P4 · reference
+Fetched: 2026-11-14 23:35 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: Techmeme [computing_cultures] https://www.techmeme.com/261114/p20#a261114p20
+
+Forbes: Unlike other larger-than-life tech founders, Jensen Huang lacked super-voting shares in Nvidia, making it easier for him to lose control of the company — This voice experience is generated by AI. Learn more. — Many tech CEOs including Mark Zuckerberg, Michael Dell and Evan Spiegel have majority voting power.
+
+### SpaceX Catches the Starship to end Flight 15
+Source: Hacker News
+Published: 2026-11-14 21:22 UTC
+URL: https://x.com/i/broadcasts/2brajgZlOKRMka
+Source meta: reference_tool · community · R3 · P4 · signal
+Fetched: 2026-11-14 23:35 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: Hacker News [computing_cultures] https://x.com/i/broadcasts/2brajgZlOKRMka
+
+Comments
+
+### USD-pegged stablecoins are taking a growing share of Latin America's crypto activity, serving as a store of value and an efficient cross-border payment system (Maria Clara Cobo/Bloomberg)
+Source: Techmeme
+Published: 2026-11-14 20:45 UTC
+URL: https://www.techmeme.com/261114/p19#a261114p19
+Source meta: reference_tool · aggregator · R3 · P4 · reference
+Fetched: 2026-11-14 23:35 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: Techmeme [computing_cultures] https://www.techmeme.com/261114/p19#a261114p19
+
+Maria Clara Cobo / Bloomberg: USD-pegged stablecoins are taking a growing share of Latin America's crypto activity, serving as a store of value and an efficient cross-border payment system — Stablecoins are proving useful not only as a store of value but as a payment system — including for users who don't know anything about the blockchain.
+
+### Letter: Altimeter's Brad Gerstner and Atreides's Gavin Baker urge Nvidia's board to consider "the potential return of Jensen Huang"; they own $2.13B in Nvidia (Katie Tarasov/CNBC)
+Source: Techmeme
+Published: 2026-11-14 19:55 UTC
+URL: https://www.techmeme.com/261114/p18#a261114p18
+Source meta: reference_tool · aggregator · R3 · P4 · reference
+Fetched: 2026-11-14 23:35 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: Techmeme [computing_cultures] https://www.techmeme.com/261114/p18#a261114p18
+
+Katie Tarasov / CNBC: Letter: Altimeter's Brad Gerstner and Atreides's Gavin Baker urge Nvidia's board to consider “the potential return of Jensen Huang”; they own $2.13B in Nvidia — Two major Nvidia shareholders are calling on the board of directors to weigh all options for the company's future leadership …
+
+### Dartmouth (Guarini) will not admit math PhD cohort this year
+Source: Hacker News
+Published: 2026-11-14 19:23 UTC
+URL: https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year
+Source meta: reference_tool · community · R3 · P4 · signal
+Fetched: 2026-11-14 23:35 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: Hacker News [computing_cultures] https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year
 
 Comments
 
@@ -13741,7 +13836,7 @@ Source: Techmeme
 Published: 2026-11-14 19:01 UTC
 URL: https://www.techmeme.com/261114/p17#a261114p17
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Techmeme [computing_cultures] https://www.techmeme.com/261114/p17#a261114p17
@@ -13753,7 +13848,7 @@ Source: Hacker News
 Published: 2026-11-14 18:56 UTC
 URL: https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379
 Source meta: reference_tool · community · R3 · P4 · signal
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Hacker News [computing_cultures] https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379
@@ -13766,7 +13861,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://soylentnews.org/article.pl?sid=26/11/14/011242&from=rss
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 Updated: 2026-11-14 18:39 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: SoylentNews [computing_cultures] https://soylentnews.org/article.pl?sid=26/11/14/011242&from=rss
@@ -13778,7 +13873,7 @@ Source: Techmeme
 Published: 2026-11-14 18:35 UTC
 URL: https://www.techmeme.com/261114/p16#a261114p16
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Techmeme [computing_cultures] https://www.techmeme.com/261114/p16#a261114p16
@@ -13790,96 +13885,12 @@ Source: Techmeme
 Published: 2026-11-14 18:05 UTC
 URL: https://www.techmeme.com/261114/p15#a261114p15
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Techmeme [computing_cultures] https://www.techmeme.com/261114/p15#a261114p15
 
 Nathan Lambert / Interconnects AI: Jensen Huang's resignation is a setback for US open models, as his funding gave open-source developers time to find their footing and will very likely dry up — A decapitation. It's time to rebuild. … Audio playback is not supported on your browser. Please upgrade.
-
-### The VHDL standard's float package gets sqrt(2) wrong
-Source: Hacker News
-Published: 2026-11-14 17:58 UTC
-URL: https://github.com/lmtlssss/speedrunpapi/tree/main/hardware/audit/ieee-float-pkg
-Source meta: reference_tool · community · R3 · P4 · signal
-Fetched: 2026-11-14 19:40 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: Hacker News [computing_cultures] https://github.com/lmtlssss/speedrunpapi/tree/main/hardware/audit/ieee-float-pkg
-
-Comments
-
-### US IRS free online tax filing open source repo
-Source: Hacker News
-Published: 2026-11-14 17:48 UTC
-URL: https://github.com/IRS-Public/direct-file
-Source meta: reference_tool · community · R3 · P4 · signal
-Fetched: 2026-11-14 19:40 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: Hacker News [computing_cultures] https://github.com/IRS-Public/direct-file
-
-Comments
-
-### A Family Tree of Software Job Titles
-Source: Hacker News
-Published: 2026-11-14 17:45 UTC
-URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/
-Source meta: reference_tool · community · R3 · P4 · signal
-Fetched: 2026-11-14 19:40 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: Hacker News [computing_cultures] https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/
-
-Comments
-
-### Lovable apps expose passport details and more than 200K private messages
-Source: Hacker News
-Published: 2026-11-14 17:43 UTC
-URL: https://www.crissyfield.de/research/lovable-en/
-Source meta: reference_tool · community · R3 · P4 · signal
-Fetched: 2026-11-14 19:40 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: Hacker News [computing_cultures] https://www.crissyfield.de/research/lovable-en/
-
-Comments
-
-### Sean Duffy blames Friday's FAA outage on copper-to-fiber wiring work at a remote facility, saying contractor L3Harris may have installed a "faulty router" (Joseph Pisani/Wall Street Journal)
-Source: Techmeme
-Published: 2026-11-14 17:15 UTC
-URL: https://www.techmeme.com/261114/p14#a261114p14
-Source meta: reference_tool · aggregator · R3 · P4 · reference
-Fetched: 2026-11-14 19:40 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: Techmeme [computing_cultures] https://www.techmeme.com/261114/p14#a261114p14
-
-Joseph Pisani / Wall Street Journal: Sean Duffy blames Friday's FAA outage on copper-to-fiber wiring work at a remote facility, saying contractor L3Harris may have installed a “faulty router” — Work at a single remote location caused instability that led authorities to order nationwide groundstop; airlines continue to cancel flights as they rush to reset
-
-### Trump Media faces a Nov. 30 deadline to repay up to $1B in convertible bonds sold last May to fund a "bitcoin treasury," as its shares are down 60+% this year (Financial Times)
-Source: Techmeme
-Published: 2026-11-14 16:35 UTC
-URL: https://www.techmeme.com/261114/p13#a261114p13
-Source meta: reference_tool · aggregator · R3 · P4 · reference
-Fetched: 2026-11-14 19:40 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: Techmeme [computing_cultures] https://www.techmeme.com/261114/p13#a261114p13
-
-Financial Times: Trump Media faces a Nov. 30 deadline to repay up to $1B in convertible bonds sold last May to fund a “bitcoin treasury,” as its shares are down 60+% this year — Plunge in shares and cryptocurrency prices could force Truth Social owner to sell assets or take on costly new debt
-
-### Tesla's Cybercab Autonomy Subscription agreement states the vehicles will only work inside Tesla-enabled geofences, which the company can change at any time (Fred Lambert/Electrek)
-Source: Techmeme
-Published: 2026-11-14 16:01 UTC
-URL: https://www.techmeme.com/261114/p12#a261114p12
-Source meta: reference_tool · aggregator · R3 · P4 · reference
-Fetched: 2026-11-14 19:40 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: Techmeme [computing_cultures] https://www.techmeme.com/261114/p12#a261114p12
-
-Fred Lambert / Electrek: Tesla's Cybercab Autonomy Subscription agreement states the vehicles will only work inside Tesla-enabled geofences, which the company can change at any time — Tesla has posted the agreement that comes with its $29,990 Cybercab, and it's even worse than the order page suggested.
 
 ### US Bit Barn Boom Sees Energy Needs Grow 10X as Fast as Grid Capacity
 Source: SoylentNews
@@ -13887,7 +13898,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://soylentnews.org/article.pl?sid=26/11/13/2233231&from=rss
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 Updated: 2026-11-14 13:52 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: SoylentNews [computing_cultures] https://soylentnews.org/article.pl?sid=26/11/13/2233231&from=rss
@@ -13899,7 +13910,7 @@ Source: Ars Technica
 Published: 2026-11-14 12:15 UTC
 URL: https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Ars Technica [computing_cultures] https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/
@@ -13911,7 +13922,7 @@ Source: Ars Technica
 Published: 2026-11-14 12:05 UTC
 URL: https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Ars Technica [computing_cultures] https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/
@@ -13924,7 +13935,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://soylentnews.org/article.pl?sid=26/11/13/2229237&from=rss
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 Updated: 2026-11-14 09:06 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: SoylentNews [computing_cultures] https://soylentnews.org/article.pl?sid=26/11/13/2229237&from=rss
@@ -13937,7 +13948,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://soylentnews.org/article.pl?sid=26/11/11/1537250&from=rss
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 Updated: 2026-11-14 04:24 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: SoylentNews [computing_cultures] https://soylentnews.org/article.pl?sid=26/11/11/1537250&from=rss
@@ -13949,7 +13960,7 @@ Source: Ars Technica
 Published: 2026-11-14 00:49 UTC
 URL: https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Ars Technica [computing_cultures] https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/
@@ -13962,7 +13973,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://soylentnews.org/article.pl?sid=26/11/11/177230&from=rss
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 Updated: 2026-11-13 23:42 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: SoylentNews [computing_cultures] https://soylentnews.org/article.pl?sid=26/11/11/177230&from=rss
@@ -13974,7 +13985,7 @@ Source: Ars Technica
 Published: 2026-11-13 23:17 UTC
 URL: https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Ars Technica [computing_cultures] https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/
@@ -13987,7 +13998,7 @@ Published: 2026-11-13 23:02 UTC
 URL: https://simonwillison.net/2026/Nov/13/datasette-cluster-map/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 Updated: 2026-11-13 23:02 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Simon Willison's Weblog [computing_cultures] https://simonwillison.net/2026/Nov/13/datasette-cluster-map/
@@ -14000,32 +14011,19 @@ Published: 2026-11-13 22:30 UTC
 URL: https://simonwillison.net/2026/Nov/13/datasette-leaflet/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 Updated: 2026-11-13 22:30 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Simon Willison's Weblog [computing_cultures] https://simonwillison.net/2026/Nov/13/datasette-leaflet/
 
 Release: datasette-leaflet 0.3 OpenStreetMap have a very reasonable policy that hits to their hosted tile server should send a referrer header. Datasette table pages used the Referrer-Policy: no-referrer HTTP header, causing plugins that loaded tiles from OpenStreetMap to violate that policy. datasette-leaflet is the plugin that loads a bundled Leaflet so other Datasette plugins can depend on it. It now sets the referrer policy on the tile requests themselves to strict-origin-when-cross-origin, passing the host but not the full path to the page. Tags: leaflet, datasette, openstreetmap
 
-### FAA Issues Nationwide (US) Ground Stop Due to "Extraordinary Circumstances"
-Source: SoylentNews
-Published: Publication date unknown / 发布日期未知
-URL: https://soylentnews.org/breakingnews/article.pl?sid=26/11/13/2221203&from=rss
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-Updated: 2026-11-13 22:22 UTC
-Fetched: 2026-11-14 19:40 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: SoylentNews [computing_cultures] https://soylentnews.org/breakingnews/article.pl?sid=26/11/13/2221203&from=rss
-
-FAA issues nationwide ground stop due to "extraordinary circumstances": The FAA issued an extremely rare nationwide ground stop at all airports due to "extraordinary circumstances" and "reasons of safety." The big picture: An air traffic control advisory posted Friday afternoon reads: "All departing traffic should remain ground stopped until further notice." "Inbound international flights will be managed on a case by case basis." What they're saying: "The FAA issued a nationwide ground stop for all U.S. airports following communication issues impacting multiple Air Route Traffic Control Centers," the agency said in a statement. "FAA technicians are investigating the issue. We will provide updates." Homeland Security Secretary Markwayne Mullin told reporters at the White House Friday evening that there's no indication of a "nefarious attack." Also at: • https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247 • https://abcnews.com/US/nationwide-ground-stop-ordered-airports-faa/story?id=138121848 • https://www.reuters.
-
 ### Millions of Americans are not taking their GLP-1 drugs as prescribed
 Source: Ars Technica
 Published: 2026-11-13 21:59 UTC
 URL: https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Ars Technica [computing_cultures] https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/
@@ -14037,7 +14035,7 @@ Source: Ars Technica
 Published: 2026-11-13 21:20 UTC
 URL: https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Ars Technica [computing_cultures] https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/
@@ -14049,7 +14047,7 @@ Source: LWN.net
 Published: 2026-11-13 16:35 UTC
 URL: https://lwn.net/Articles/1103395/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: LWN.net [computing_cultures] https://lwn.net/Articles/1103395/
@@ -14061,7 +14059,7 @@ Source: LWN.net
 Published: 2026-11-13 14:39 UTC
 URL: https://lwn.net/Articles/1107473/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: LWN.net [computing_cultures] https://lwn.net/Articles/1107473/
@@ -14073,7 +14071,7 @@ Source: LWN.net
 Published: 2026-11-13 14:25 UTC
 URL: https://lwn.net/Articles/1107472/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: LWN.net [computing_cultures] https://lwn.net/Articles/1107472/
@@ -14086,7 +14084,7 @@ Published: 2026-11-12 22:55 UTC
 URL: https://simonwillison.net/2026/Nov/12/llm-gemini/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 Updated: 2026-11-12 22:55 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Simon Willison's Weblog [computing_cultures] https://simonwillison.net/2026/Nov/12/llm-gemini/
@@ -14098,7 +14096,7 @@ Source: LWN.net
 Published: 2026-11-12 19:09 UTC
 URL: https://lwn.net/Articles/1107187/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: LWN.net [computing_cultures] https://lwn.net/Articles/1107187/
@@ -14110,7 +14108,7 @@ Source: LWN.net
 Published: 2026-11-12 16:26 UTC
 URL: https://lwn.net/Articles/1107173/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: LWN.net [computing_cultures] https://lwn.net/Articles/1107173/
@@ -14122,7 +14120,7 @@ Source: LWN.net
 Published: 2026-11-12 14:32 UTC
 URL: https://lwn.net/Articles/1107152/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: LWN.net [computing_cultures] https://lwn.net/Articles/1107152/
@@ -14135,7 +14133,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://martinfowler.com/bliki/GeneratedGlossary.html
 Source meta: specialist_media · specialist · R5 · P5 · baseline
 Updated: 2026-11-12 14:15 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Martin Fowler [computing_cultures] https://martinfowler.com/bliki/GeneratedGlossary.html
@@ -14148,7 +14146,7 @@ Published: 2026-11-11 22:03 UTC
 URL: https://simonwillison.net/2026/Nov/11/gemini-decisions-api/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 Updated: 2026-11-11 22:03 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Simon Willison's Weblog [computing_cultures] https://simonwillison.net/2026/Nov/11/gemini-decisions-api/
@@ -14161,7 +14159,7 @@ Published: 2026-11-11 21:18 UTC
 URL: https://simonwillison.net/2026/Nov/11/aws-emulator/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 Updated: 2026-11-11 21:18 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Simon Willison's Weblog [computing_cultures] https://simonwillison.net/2026/Nov/11/aws-emulator/
@@ -14174,7 +14172,7 @@ Published: 2026-11-11 18:42 UTC
 URL: https://simonwillison.net/2026/Nov/11/tools-tags/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 Updated: 2026-11-11 18:42 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Simon Willison's Weblog [computing_cultures] https://simonwillison.net/2026/Nov/11/tools-tags/
@@ -14187,7 +14185,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://martinfowler.com/articles/tests-as-data.html
 Source meta: specialist_media · specialist · R5 · P5 · baseline
 Updated: 2026-11-11 15:17 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Martin Fowler [computing_cultures] https://martinfowler.com/articles/tests-as-data.html
@@ -14200,7 +14198,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://martinfowler.com/fragments/2026-11-10.html
 Source meta: specialist_media · specialist · R5 · P5 · baseline
 Updated: 2026-11-10 14:30 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Martin Fowler [computing_cultures] https://martinfowler.com/fragments/2026-11-10.html
@@ -14213,7 +14211,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://martinfowler.com/articles/durable-execution-agents.html
 Source meta: specialist_media · specialist · R5 · P5 · baseline
 Updated: 2026-11-10 14:10 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Martin Fowler [computing_cultures] https://martinfowler.com/articles/durable-execution-agents.html
@@ -14225,7 +14223,7 @@ Source: Sentiers
 Published: 2026-11-08 11:00 UTC
 URL: https://sentiers.media/maintenance-futures-a-responsibly-limited-ai-no-424/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Sentiers [computing_cultures] https://sentiers.media/maintenance-futures-a-responsibly-limited-ai-no-424/
@@ -14238,7 +14236,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://martinfowler.com/articles/data-product-platform-nav.html
 Source meta: specialist_media · specialist · R5 · P5 · baseline
 Updated: 2026-11-05 14:11 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Martin Fowler [computing_cultures] https://martinfowler.com/articles/data-product-platform-nav.html
@@ -14250,7 +14248,7 @@ Source: Sentiers
 Published: 2026-11-01 11:00 UTC
 URL: https://sentiers.media/humans-are-better-than-we-think-the-bots-are-just-the-closers-no-423/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Sentiers [computing_cultures] https://sentiers.media/humans-are-better-than-we-think-the-bots-are-just-the-closers-no-423/
@@ -14263,7 +14261,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://martinfowler.com/bliki/LLM-Voice.html
 Source meta: specialist_media · specialist · R5 · P5 · baseline
 Updated: 2026-10-29 14:28 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Martin Fowler [computing_cultures] https://martinfowler.com/bliki/LLM-Voice.html
@@ -14275,7 +14273,7 @@ Source: Sentiers
 Published: 2026-10-25 10:00 UTC
 URL: https://sentiers.media/six-gutenberg-revolutions-in-a-row-deskilling-the-body-no-422/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Sentiers [computing_cultures] https://sentiers.media/six-gutenberg-revolutions-in-a-row-deskilling-the-body-no-422/
@@ -14287,7 +14285,7 @@ Source: Sentiers
 Published: 2026-10-18 10:00 UTC
 URL: https://sentiers.media/high-modernism-made-our-world-tech-hype-is-cannibalizing-the-future-no-421/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Sentiers [computing_cultures] https://sentiers.media/high-modernism-made-our-world-tech-hype-is-cannibalizing-the-future-no-421/
@@ -14299,7 +14297,7 @@ Source: Sentiers
 Published: 2026-10-11 10:00 UTC
 URL: https://sentiers.media/reason-is-more-than-a-tool-the-opposite-of-the-apocalypse-is-a-neighborhood-no-420/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Sentiers [computing_cultures] https://sentiers.media/reason-is-more-than-a-tool-the-opposite-of-the-apocalypse-is-a-neighborhood-no-420/
@@ -14311,7 +14309,7 @@ Source: Sentiers
 Published: 2026-10-04 10:00 UTC
 URL: https://sentiers.media/artificial-symbiotic-intelligence-the-politics-of-the-planetary-no-419/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Sentiers [computing_cultures] https://sentiers.media/artificial-symbiotic-intelligence-the-politics-of-the-planetary-no-419/
@@ -14324,7 +14322,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 Updated: 2026-09-27 00:00 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Julia Evans [computing_cultures] https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/
@@ -14337,7 +14335,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://jvns.ca/blog/2026/07/21/more-nice-django-things/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 Updated: 2026-07-21 00:00 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Julia Evans [computing_cultures] https://jvns.ca/blog/2026/07/21/more-nice-django-things/
@@ -14350,7 +14348,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 Updated: 2026-07-17 00:00 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Julia Evans [computing_cultures] https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/
@@ -14363,7 +14361,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 Updated: 2026-05-15 00:00 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Julia Evans [computing_cultures] https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/
@@ -14376,7 +14374,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://jvns.ca/blog/2026/05/04/css-colour-palettes/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 Updated: 2026-05-04 00:00 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Julia Evans [computing_cultures] https://jvns.ca/blog/2026/05/04/css-colour-palettes/
@@ -14389,7 +14387,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://jvns.ca/blog/2026/05/02/testing-vue-components-in-the-browser/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 Updated: 2026-05-02 00:00 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Julia Evans [computing_cultures] https://jvns.ca/blog/2026/05/02/testing-vue-components-in-the-browser/
@@ -14402,7 +14400,7 @@ Hello! One of my long term projects on here is figuring out how to write fronten
 Source: URL-only source / 仅网址源
 URL: https://searchengineland.com/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -14412,7 +14410,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://github.blog/changelog/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -14424,7 +14422,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://vercel.com/changelog/vercel-daemons-can-now-send-traces-to-vercel-tracing
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 Updated: 2026-11-13 22:24 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Vercel Blog [platforms_infrastructure] https://vercel.com/changelog/vercel-daemons-can-now-send-traces-to-vercel-tracing
@@ -14436,7 +14434,7 @@ Source: Cloudflare Blog
 Published: 2026-11-13 20:20 UTC
 URL: https://blog.cloudflare.com/kitesurf-open-source/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Cloudflare Blog [platforms_infrastructure] https://blog.cloudflare.com/kitesurf-open-source/
@@ -14448,7 +14446,7 @@ Source: Cloudflare Blog
 Published: 2026-11-13 19:26 UTC
 URL: https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Cloudflare Blog [platforms_infrastructure] https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/
@@ -14461,7 +14459,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://vercel.com/changelog/vercel-token-pass-now-includes-one-hundred-fifty-dollars-of-monthly-tokens
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 Updated: 2026-11-13 18:42 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Vercel Blog [platforms_infrastructure] https://vercel.com/changelog/vercel-token-pass-now-includes-one-hundred-fifty-dollars-of-monthly-tokens
@@ -14473,7 +14471,7 @@ Source: Google Cloud Blog
 Published: 2026-11-13 17:00 UTC
 URL: https://cloud.google.com/blog/products/data-analytics/enterprise-ai-agent-observability-with-bigquery-and-looker/
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Google Cloud Blog [platforms_infrastructure] https://cloud.google.com/blog/products/data-analytics/enterprise-ai-agent-observability-with-bigquery-and-looker/
@@ -14485,7 +14483,7 @@ Source: Google Cloud Blog
 Published: 2026-11-13 17:00 UTC
 URL: https://cloud.google.com/blog/topics/hpc/whats-new-in-hpc-and-ai-at-sc26/
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Google Cloud Blog [platforms_infrastructure] https://cloud.google.com/blog/topics/hpc/whats-new-in-hpc-and-ai-at-sc26/
@@ -14497,7 +14495,7 @@ Source: Google Cloud Blog
 Published: 2026-11-13 17:00 UTC
 URL: https://cloud.google.com/blog/products/data-analytics/reverse-etl-bigquery-exports-to-alloydb/
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Google Cloud Blog [platforms_infrastructure] https://cloud.google.com/blog/products/data-analytics/reverse-etl-bigquery-exports-to-alloydb/
@@ -14509,7 +14507,7 @@ Source: Google Cloud Blog
 Published: 2026-11-13 17:00 UTC
 URL: https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Google Cloud Blog [platforms_infrastructure] https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/
@@ -14521,7 +14519,7 @@ Source: Cloudflare Blog
 Published: 2026-11-13 14:00 UTC
 URL: https://blog.cloudflare.com/spend-management/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Cloudflare Blog [platforms_infrastructure] https://blog.cloudflare.com/spend-management/
@@ -14533,7 +14531,7 @@ Source: GitHub Blog
 Published: 2026-11-13 00:20 UTC
 URL: https://github.blog/news-insights/company-news/github-availability-report-october-2026/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: GitHub Blog [platforms_infrastructure] https://github.blog/news-insights/company-news/github-availability-report-october-2026/
@@ -14546,7 +14544,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://vercel.com/changelog/vercel-security-review-no-longer-requires-a-linked-vercel-project
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 Updated: 2026-11-13 00:00 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Vercel Blog [platforms_infrastructure] https://vercel.com/changelog/vercel-security-review-no-longer-requires-a-linked-vercel-project
@@ -14559,7 +14557,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://vercel.com/changelog/vercel-sandbox-starts-up-to-four-times-faster
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 Updated: 2026-11-13 00:00 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Vercel Blog [platforms_infrastructure] https://vercel.com/changelog/vercel-sandbox-starts-up-to-four-times-faster
@@ -14572,7 +14570,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://vercel.com/changelog/build-cache-size-limit-on-vercel-increased-to-five-gb
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 Updated: 2026-11-13 00:00 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Vercel Blog [platforms_infrastructure] https://vercel.com/changelog/build-cache-size-limit-on-vercel-increased-to-five-gb
@@ -14585,7 +14583,7 @@ Published: Publication date unknown / 发布日期未知
 URL: https://vercel.com/changelog/parallel-decisions-now-available-on-ai-gateway-for-free
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 Updated: 2026-11-13 00:00 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Vercel Blog [platforms_infrastructure] https://vercel.com/changelog/parallel-decisions-now-available-on-ai-gateway-for-free
@@ -14597,7 +14595,7 @@ Source: APNIC Blog
 Published: 2026-11-12 23:37 UTC
 URL: https://blog.apnic.net/2026/11/13/could-pigeons-deliver-the-internet/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: APNIC Blog [platforms_infrastructure] https://blog.apnic.net/2026/11/13/could-pigeons-deliver-the-internet/
@@ -14609,7 +14607,7 @@ Source: GitHub Blog
 Published: 2026-11-12 22:54 UTC
 URL: https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: GitHub Blog [platforms_infrastructure] https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/
@@ -14621,7 +14619,7 @@ Source: Google Cloud Blog
 Published: 2026-11-12 18:55 UTC
 URL: https://cloud.google.com/blog/products/chrome-enterprise/chrome-enterprise-brings-more-protections-to-healthcare-technologies/
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Google Cloud Blog [platforms_infrastructure] https://cloud.google.com/blog/products/chrome-enterprise/chrome-enterprise-brings-more-protections-to-healthcare-technologies/
@@ -14633,7 +14631,7 @@ Source: Google Cloud Blog
 Published: 2026-11-12 17:00 UTC
 URL: https://cloud.google.com/blog/products/identity-security/ai-powered-cloud-governance-whats-new-in-organization-policy/
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Google Cloud Blog [platforms_infrastructure] https://cloud.google.com/blog/products/identity-security/ai-powered-cloud-governance-whats-new-in-organization-policy/
@@ -14645,7 +14643,7 @@ Source: APNIC Blog
 Published: 2026-11-12 04:50 UTC
 URL: https://blog.apnic.net/2026/11/12/2026-apnic-survey-executive-council-response/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: APNIC Blog [platforms_infrastructure] https://blog.apnic.net/2026/11/12/2026-apnic-survey-executive-council-response/
@@ -14657,7 +14655,7 @@ Source: APNIC Blog
 Published: 2026-11-11 23:01 UTC
 URL: https://blog.apnic.net/2026/11/12/podcast-submarine-cable-resilience-and-economics/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: APNIC Blog [platforms_infrastructure] https://blog.apnic.net/2026/11/12/podcast-submarine-cable-resilience-and-economics/
@@ -14669,7 +14667,7 @@ Source: AWS News Blog
 Published: 2026-11-11 19:00 UTC
 URL: https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: AWS News Blog [platforms_infrastructure] https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/
@@ -14681,7 +14679,7 @@ Source: Cloudflare Blog
 Published: 2026-11-11 14:24 UTC
 URL: https://blog.cloudflare.com/choosing-quepaxa/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Cloudflare Blog [platforms_infrastructure] https://blog.cloudflare.com/choosing-quepaxa/
@@ -14693,7 +14691,7 @@ Source: APNIC Blog
 Published: 2026-11-11 01:48 UTC
 URL: https://blog.apnic.net/2026/11/11/sidn-publishes-rssac002-traffic-metrics-for-nl/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: APNIC Blog [platforms_infrastructure] https://blog.apnic.net/2026/11/11/sidn-publishes-rssac002-traffic-metrics-for-nl/
@@ -14705,7 +14703,7 @@ Source: GitHub Blog
 Published: 2026-11-10 18:00 UTC
 URL: https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: GitHub Blog [platforms_infrastructure] https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/
@@ -14717,7 +14715,7 @@ Source: AWS News Blog
 Published: 2026-11-09 17:55 UTC
 URL: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentcore-runtime-v2-amazon-dynamodb-bulk-put-items-and-more-november-9-2026/
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: AWS News Blog [platforms_infrastructure] https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentcore-runtime-v2-amazon-dynamodb-bulk-put-items-and-more-november-9-2026/
@@ -14730,7 +14728,7 @@ Published: 2026-11-09 17:01 UTC
 URL: https://netflixtechblog.com/fact-checking-at-scale-building-a-more-accurate-and-efficient-synopsis-factuality-system-d7d85859d808?source=rss----2615bd06b42e---4
 Source meta: specialist_media · specialist · R5 · P5 · baseline
 Updated: 2026-11-09 17:01 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Netflix TechBlog [platforms_infrastructure] https://netflixtechblog.com/fact-checking-at-scale-building-a-more-accurate-and-efficient-synopsis-factuality-system-d7d85859d808?source=rss----2615bd06b42e---4
@@ -14742,7 +14740,7 @@ Source: Cloudflare Blog
 Published: 2026-11-09 13:00 UTC
 URL: https://blog.cloudflare.com/launching-vite-ecosystem-fund/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Cloudflare Blog [platforms_infrastructure] https://blog.cloudflare.com/launching-vite-ecosystem-fund/
@@ -14754,7 +14752,7 @@ Source: APNIC Blog
 Published: 2026-11-09 05:34 UTC
 URL: https://blog.apnic.net/2026/11/09/the-dos-and-donts-of-post-quantum-dnssec/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: APNIC Blog [platforms_infrastructure] https://blog.apnic.net/2026/11/09/the-dos-and-donts-of-post-quantum-dnssec/
@@ -14766,7 +14764,7 @@ Source: GitHub Blog
 Published: 2026-11-06 22:15 UTC
 URL: https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: GitHub Blog [platforms_infrastructure] https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/
@@ -14778,7 +14776,7 @@ Source: Azure Blog
 Published: 2026-11-06 19:08 UTC
 URL: https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/building-the-next-generation-of-multimodal-ai-experiences-with-fal-in-microsoft-/4570032
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Azure Blog [platforms_infrastructure] https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/building-the-next-generation-of-multimodal-ai-experiences-with-fal-in-microsoft-/4570032
@@ -14790,7 +14788,7 @@ Source: Cloudflare Blog
 Published: 2026-11-06 14:00 UTC
 URL: https://blog.cloudflare.com/vole-mole/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Cloudflare Blog [platforms_infrastructure] https://blog.cloudflare.com/vole-mole/
@@ -14802,7 +14800,7 @@ Source: APNIC Blog
 Published: 2026-11-06 00:04 UTC
 URL: https://blog.apnic.net/2026/11/06/pcap-lm-helping-ai-assistants-read-network-traffic/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: APNIC Blog [platforms_infrastructure] https://blog.apnic.net/2026/11/06/pcap-lm-helping-ai-assistants-read-network-traffic/
@@ -14814,7 +14812,7 @@ Source: GitHub Blog
 Published: 2026-11-05 20:23 UTC
 URL: https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: GitHub Blog [platforms_infrastructure] https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/
@@ -14826,7 +14824,7 @@ Source: Azure Blog
 Published: 2026-11-05 17:00 UTC
 URL: https://azure.microsoft.com/en-us/blog/stop-treating-agents-as-one-off-projects-and-start-running-them-as-a-continuous-discipline/
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Azure Blog [platforms_infrastructure] https://azure.microsoft.com/en-us/blog/stop-treating-agents-as-one-off-projects-and-start-running-them-as-a-continuous-discipline/
@@ -14838,7 +14836,7 @@ Source: GitHub Blog
 Published: 2026-11-05 16:00 UTC
 URL: https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: GitHub Blog [platforms_infrastructure] https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/
@@ -14850,7 +14848,7 @@ Source: Azure Blog
 Published: 2026-11-05 16:00 UTC
 URL: https://azure.microsoft.com/en-us/blog/designing-azure-silicon-on-azure-silicon-eda-workloads-on-cobalt-200/
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Azure Blog [platforms_infrastructure] https://azure.microsoft.com/en-us/blog/designing-azure-silicon-on-azure-silicon-eda-workloads-on-cobalt-200/
@@ -14862,7 +14860,7 @@ Source: AWS News Blog
 Published: 2026-11-04 23:34 UTC
 URL: https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-offer-managed-migration-of-apache-hive-tables-to-apache-iceberg/
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: AWS News Blog [platforms_infrastructure] https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-offer-managed-migration-of-apache-hive-tables-to-apache-iceberg/
@@ -14874,7 +14872,7 @@ Source: Azure Blog
 Published: 2026-11-04 16:00 UTC
 URL: https://azure.microsoft.com/en-us/blog/predicting-and-detecting-failures-how-azure-strengthens-reliability-for-mission-critical-workloads/
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Azure Blog [platforms_infrastructure] https://azure.microsoft.com/en-us/blog/predicting-and-detecting-failures-how-azure-strengthens-reliability-for-mission-critical-workloads/
@@ -14886,7 +14884,7 @@ Source: Azure Blog
 Published: 2026-11-02 20:52 UTC
 URL: https://www.wired.com/sponsored/story/the-platform-behind-the-next-ai-breakthrough/
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Azure Blog [platforms_infrastructure] https://www.wired.com/sponsored/story/the-platform-behind-the-next-ai-breakthrough/
@@ -14898,7 +14896,7 @@ Source: AWS News Blog
 Published: 2026-11-02 16:45 UTC
 URL: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-1-terra-on-bedrock-step-functions-as-agent-tools-and-more-november-2-2026/
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: AWS News Blog [platforms_infrastructure] https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-1-terra-on-bedrock-step-functions-as-agent-tools-and-more-november-2-2026/
@@ -14910,7 +14908,7 @@ Source: Azure Blog
 Published: 2026-10-29 16:00 UTC
 URL: https://azure.microsoft.com/en-us/blog/azure-cloud-hsm-hardware-audit-logging-verifiable-audit-trails-for-security-and-compliance/
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Azure Blog [platforms_infrastructure] https://azure.microsoft.com/en-us/blog/azure-cloud-hsm-hardware-audit-logging-verifiable-audit-trails-for-security-and-compliance/
@@ -14922,7 +14920,7 @@ Source: Kubernetes Blog
 Published: 2026-10-29 05:00 UTC
 URL: https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Kubernetes Blog [platforms_infrastructure] https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/
@@ -14934,7 +14932,7 @@ Source: Kubernetes Blog
 Published: 2026-10-27 04:30 UTC
 URL: https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Kubernetes Blog [platforms_infrastructure] https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/
@@ -14947,7 +14945,7 @@ Published: 2026-10-26 17:04 UTC
 URL: https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015?source=rss----2615bd06b42e---4
 Source meta: specialist_media · specialist · R5 · P5 · baseline
 Updated: 2026-10-26 17:04 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Netflix TechBlog [platforms_infrastructure] https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015?source=rss----2615bd06b42e---4
@@ -14960,7 +14958,7 @@ Published: 2026-10-26 16:01 UTC
 URL: https://netflixtechblog.com/multi-ratio-video-resizing-for-mobile-feed-and-marketing-2e6b42810f49?source=rss----2615bd06b42e---4
 Source meta: specialist_media · specialist · R5 · P5 · baseline
 Updated: 2026-10-27 00:18 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Netflix TechBlog [platforms_infrastructure] https://netflixtechblog.com/multi-ratio-video-resizing-for-mobile-feed-and-marketing-2e6b42810f49?source=rss----2615bd06b42e---4
@@ -14972,7 +14970,7 @@ Source: AWS News Blog
 Published: 2026-10-26 15:02 UTC
 URL: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-polly-generative-engine-torchneuron-for-trainium-and-more-october-26-2026/
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: AWS News Blog [platforms_infrastructure] https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-polly-generative-engine-torchneuron-for-trainium-and-more-october-26-2026/
@@ -14985,7 +14983,7 @@ Published: 2026-10-23 18:32 UTC
 URL: https://netflixtechblog.com/beyond-api-compatibility-building-a-tool-to-measure-the-blast-radius-of-library-changes-9474f2fd4f90?source=rss----2615bd06b42e---4
 Source meta: specialist_media · specialist · R5 · P5 · baseline
 Updated: 2026-10-23 18:32 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Netflix TechBlog [platforms_infrastructure] https://netflixtechblog.com/beyond-api-compatibility-building-a-tool-to-measure-the-blast-radius-of-library-changes-9474f2fd4f90?source=rss----2615bd06b42e---4
@@ -14998,7 +14996,7 @@ Published: 2026-10-22 22:19 UTC
 URL: https://netflixtechblog.com/single-tenant-titus-vm-level-isolation-on-a-multi-tenant-container-platform-6d8b1909d163?source=rss----2615bd06b42e---4
 Source meta: specialist_media · specialist · R5 · P5 · baseline
 Updated: 2026-10-22 22:19 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Netflix TechBlog [platforms_infrastructure] https://netflixtechblog.com/single-tenant-titus-vm-level-isolation-on-a-multi-tenant-container-platform-6d8b1909d163?source=rss----2615bd06b42e---4
@@ -15010,7 +15008,7 @@ Source: AWS News Blog
 Published: 2026-10-22 20:33 UTC
 URL: https://aws.amazon.com/blogs/aws/aws-continuum-for-code-vulnerabilities-is-now-generally-available/
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: AWS News Blog [platforms_infrastructure] https://aws.amazon.com/blogs/aws/aws-continuum-for-code-vulnerabilities-is-now-generally-available/
@@ -15023,7 +15021,7 @@ Published: 2026-10-16 16:01 UTC
 URL: https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf?source=rss----2615bd06b42e---4
 Source meta: specialist_media · specialist · R5 · P5 · baseline
 Updated: 2026-10-16 16:01 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Netflix TechBlog [platforms_infrastructure] https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf?source=rss----2615bd06b42e---4
@@ -15035,7 +15033,7 @@ Source: Kubernetes Blog
 Published: 2026-10-14 18:35 UTC
 URL: https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Kubernetes Blog [platforms_infrastructure] https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/
@@ -15047,7 +15045,7 @@ Source: Kubernetes Blog
 Published: 2026-10-06 18:00 UTC
 URL: https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Kubernetes Blog [platforms_infrastructure] https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/
@@ -15059,7 +15057,7 @@ Source: Kubernetes Blog
 Published: 2026-10-05 18:00 UTC
 URL: https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Kubernetes Blog [platforms_infrastructure] https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/
@@ -15071,7 +15069,7 @@ Source: Kubernetes Blog
 Published: 2026-09-22 18:00 UTC
 URL: https://kubernetes.io/blog/2026/09/22/sig-apps-spotlight/
 Source meta: institutional · primary · R5 · P5 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Kubernetes Blog [platforms_infrastructure] https://kubernetes.io/blog/2026/09/22/sig-apps-spotlight/
@@ -15083,7 +15081,7 @@ Source: Mozilla Hacks
 Published: 2026-08-24 15:32 UTC
 URL: https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Mozilla Hacks [platforms_infrastructure] https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/
@@ -15095,7 +15093,7 @@ Source: Mozilla Hacks
 Published: 2026-06-23 15:29 UTC
 URL: https://hacks.mozilla.org/2026/06/pact-anonymous-credentials-for-the-web/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Mozilla Hacks [platforms_infrastructure] https://hacks.mozilla.org/2026/06/pact-anonymous-credentials-for-the-web/
@@ -15107,7 +15105,7 @@ Source: Mozilla Hacks
 Published: 2026-05-21 18:00 UTC
 URL: https://hacks.mozilla.org/2026/05/web-serial-support-in-firefox/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Mozilla Hacks [platforms_infrastructure] https://hacks.mozilla.org/2026/05/web-serial-support-in-firefox/
@@ -15119,7 +15117,7 @@ Source: Mozilla Hacks
 Published: 2026-05-07 16:01 UTC
 URL: https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Mozilla Hacks [platforms_infrastructure] https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/
@@ -15131,7 +15129,7 @@ Source: Mozilla Hacks
 Published: 2026-05-05 15:49 UTC
 URL: https://hacks.mozilla.org/2026/05/trustworthy-javascript-for-the-open-web/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Mozilla Hacks [platforms_infrastructure] https://hacks.mozilla.org/2026/05/trustworthy-javascript-for-the-open-web/
@@ -15143,7 +15141,7 @@ Source: Mozilla Hacks
 Published: 2026-03-25 16:17 UTC
 URL: https://hacks.mozilla.org/2026/03/firefox-developer-edition-and-beta-try-out-mozillas-rpm-package/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Mozilla Hacks [platforms_infrastructure] https://hacks.mozilla.org/2026/03/firefox-developer-edition-and-beta-try-out-mozillas-rpm-package/
@@ -15156,7 +15154,7 @@ In January, we introduced our Nightly package for RPM-based Linux distributions.
 Source: URL-only source / 仅网址源
 URL: https://www.garbageday.email/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -15166,19 +15164,45 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.wired.com/category/science/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
 Source homepage / 来源主页
+
+### Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship
+Source: The Verge
+Published: 2026-11-14 21:44 UTC
+URL: https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+Updated: 2026-11-14 21:44 UTC
+Fetched: 2026-11-14 23:35 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: The Verge [platform_media] https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch
+
+After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its "Mechazilla" launch and catch tower for the first time. The company has performed 'chopstick' catches of its boosters before, but this is the first time the maneuver has successfully been executed on the Starship vehicle itself. SpaceX CEO Elon […]
+
+### Magic: The Gathering is getting a Netflix animated series. For real this time.
+Source: The Verge
+Published: 2026-11-14 19:47 UTC
+URL: https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+Updated: 2026-11-14 19:47 UTC
+Fetched: 2026-11-14 23:35 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: The Verge [platform_media] https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series
+
+"It's really happening. I promise. For real." Those are the first words from Roy Graham, Head of Story at Magic: The Gathering, in a video posted yesterday announcing Planeswalker, the animated series heading to Netflix in 2027. An animated Magic: The Gathering series was first teased back in 2019 with Joe and Anthony Russo at […]
 
 ### Work to replace old copper wire led to the FAA’s ground stop
 Source: The Verge
 Published: 2026-11-14 17:44 UTC
 URL: https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Updated: 2026-11-14 18:12 UTC
-Fetched: 2026-11-14 19:40 UTC
+Updated: 2026-11-14 20:46 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Verge [platform_media] https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire
@@ -15191,7 +15215,7 @@ Published: 2026-11-14 15:00 UTC
 URL: https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 Updated: 2026-11-14 14:21 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Verge [platform_media] https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026
@@ -15204,7 +15228,7 @@ Published: 2026-11-14 15:00 UTC
 URL: https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 Updated: 2026-11-14 00:06 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Verge [platform_media] https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview
@@ -15217,57 +15241,31 @@ Published: 2026-11-14 14:18 UTC
 URL: https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print
 Source meta: specialist_media · specialist · R4 · P4 · baseline
 Updated: 2026-11-14 15:22 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Verge [platform_media] https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print
 
 Tesla is doubling, or perhaps tripling down on its bold claims of an autonomous future with the offer to "select customers" to purchase a Cybercab for "personal use." But the gilded, steering-wheel-free two-seater will "only be available in supported service areas" - meaning you'll only be able to buy one if you live in one […]
 
-### This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers
-Source: The Verge
-Published: 2026-11-14 14:00 UTC
-URL: https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-Updated: 2026-11-14 14:16 UTC
-Fetched: 2026-11-14 19:40 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: The Verge [platform_media] https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on
-
-As much as I appreciate the ingenious design of the Nintendo Switch's Joy-Con, my family and I can't stand using them as standalone gamepads. So when we travel with the Switch 2, we always bring at least one full-size gamepad, plus a couple of 8BitDo's Zero 2 controllers for games that don't use analog thumbsticks. […]
-
 ### Beware the New AI-Fueled Ransomware Boom
 Source: Wired
 Published: 2026-11-14 13:00 UTC
 URL: https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Wired [platform_media] https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/
 
 Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.
 
-### A gadget to make your dumb house smarter
-Source: The Verge
-Published: 2026-11-14 13:00 UTC
-URL: https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-Updated: 2026-11-14 00:48 UTC
-Fetched: 2026-11-14 19:40 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: The Verge [platform_media] https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer
-
-Hi, friends! Welcome to Installer No. 152, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for taking time away from Zelda to be here, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about school apps […]
-
 ### I Put the Best Digital Notebooks to the Test. Here Are My Favorites (2026)
 Source: Wired
 Published: 2026-11-14 12:05 UTC
 URL: https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Wired [platform_media] https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/
@@ -15279,7 +15277,7 @@ Source: Wired
 Published: 2026-11-14 12:00 UTC
 URL: https://www.wired.com/story/get-steamos-easily-running-on-your-mac/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Wired [platform_media] https://www.wired.com/story/get-steamos-easily-running-on-your-mac/
@@ -15291,7 +15289,7 @@ Source: Wired
 Published: 2026-11-14 11:30 UTC
 URL: https://www.wired.com/story/best-early-black-friday-headphone-deals-11-14-26/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Wired [platform_media] https://www.wired.com/story/best-early-black-friday-headphone-deals-11-14-26/
@@ -15303,7 +15301,7 @@ Source: Wired
 Published: 2026-11-14 11:30 UTC
 URL: https://www.wired.com/story/audit-all-the-cloud-storage-links-youve-shared/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Wired [platform_media] https://www.wired.com/story/audit-all-the-cloud-storage-links-youve-shared/
@@ -15315,7 +15313,7 @@ Source: Wired
 Published: 2026-11-14 11:00 UTC
 URL: https://www.wired.com/story/best-rei-holiday-sale-outdoor-deals-2026/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Wired [platform_media] https://www.wired.com/story/best-rei-holiday-sale-outdoor-deals-2026/
@@ -15327,7 +15325,7 @@ Source: Platformer
 Published: 2026-11-13 01:43 UTC
 URL: https://www.platformer.news/jensen-huang-resigns-founder-cult-accountability/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Platformer [platform_media] https://www.platformer.news/jensen-huang-resigns-founder-cult-accountability/
@@ -15339,7 +15337,7 @@ Source: Platformer
 Published: 2026-11-11 00:56 UTC
 URL: https://www.platformer.news/following-jensen-huangs-affair-with-an-alleged-chinese-spy-and-gpu-smuggler/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Platformer [platform_media] https://www.platformer.news/following-jensen-huangs-affair-with-an-alleged-chinese-spy-and-gpu-smuggler/
@@ -15351,7 +15349,7 @@ Source: Platformer
 Published: 2026-11-06 01:01 UTC
 URL: https://www.platformer.news/thursday-newsletter-7/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Platformer [platform_media] https://www.platformer.news/thursday-newsletter-7/
@@ -15363,7 +15361,7 @@ Source: Platformer
 Published: 2026-11-04 01:34 UTC
 URL: https://www.platformer.news/election-war-room-midterms-deepfakes/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Platformer [platform_media] https://www.platformer.news/election-war-room-midterms-deepfakes/
@@ -15375,7 +15373,7 @@ Source: Platformer
 Published: 2026-10-30 00:51 UTC
 URL: https://www.platformer.news/thursday-newsletter-6/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Platformer [platform_media] https://www.platformer.news/thursday-newsletter-6/
@@ -15387,7 +15385,7 @@ Source: Platformer
 Published: 2026-10-28 00:23 UTC
 URL: https://www.platformer.news/ai-midterms-openai-deepfakes/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Platformer [platform_media] https://www.platformer.news/ai-midterms-openai-deepfakes/
@@ -15400,7 +15398,7 @@ Voters have other things on their minds — for now. PLUS: OpenAI’s clever pol
 Source: URL-only source / 仅网址源
 URL: https://www.nngroup.com/articles/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -15413,7 +15411,7 @@ Source: IEEE Spectrum Robotics
 Published: 2026-11-13 17:30 UTC
 URL: https://spectrum.ieee.org/video-friday-moon-rover-promise
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: IEEE Spectrum Robotics [cybernetics_automation] https://spectrum.ieee.org/video-friday-moon-rover-promise
@@ -15425,7 +15423,7 @@ Source: Robotics Business Review
 Published: 2026-11-13 16:32 UTC
 URL: https://www.therobotreport.com/six-agibot-g2-robots-complete-1730-tasks-in-24-hour-shanghai-convenience-store-trial/
 Source meta: trade_publication · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Robotics Business Review [cybernetics_automation] https://www.therobotreport.com/six-agibot-g2-robots-complete-1730-tasks-in-24-hour-shanghai-convenience-store-trial/
@@ -15437,7 +15435,7 @@ Source: Robotics Business Review
 Published: 2026-11-13 13:30 UTC
 URL: https://www.therobotreport.com/how-rhoda-ai-is-using-video-data-to-create-generalized-ai-models-for-robots/
 Source meta: trade_publication · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Robotics Business Review [cybernetics_automation] https://www.therobotreport.com/how-rhoda-ai-is-using-video-data-to-create-generalized-ai-models-for-robots/
@@ -15449,7 +15447,7 @@ Source: Robotics Business Review
 Published: 2026-11-13 13:18 UTC
 URL: https://www.therobotreport.com/narwal-builds-robot-vacuums-to-serve-regional-needs/
 Source meta: trade_publication · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Robotics Business Review [cybernetics_automation] https://www.therobotreport.com/narwal-builds-robot-vacuums-to-serve-regional-needs/
@@ -15461,7 +15459,7 @@ Source: Robotics Business Review
 Published: 2026-11-12 16:33 UTC
 URL: https://www.therobotreport.com/nvidia-replaces-ceo-amid-china-ai-and-robotics-concerns/
 Source meta: trade_publication · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Robotics Business Review [cybernetics_automation] https://www.therobotreport.com/nvidia-replaces-ceo-amid-china-ai-and-robotics-concerns/
@@ -15473,7 +15471,7 @@ Source: Robotics Business Review
 Published: 2026-11-12 13:30 UTC
 URL: https://www.therobotreport.com/viam-launchpad-aims-to-accelerate-robotics-deployments/
 Source meta: trade_publication · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Robotics Business Review [cybernetics_automation] https://www.therobotreport.com/viam-launchpad-aims-to-accelerate-robotics-deployments/
@@ -15485,7 +15483,7 @@ Source: Robotics Business Review
 Published: 2026-11-12 13:18 UTC
 URL: https://www.therobotreport.com/runways-praxis-1-world-action-model-for-robotics-is-now-available/
 Source meta: trade_publication · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Robotics Business Review [cybernetics_automation] https://www.therobotreport.com/runways-praxis-1-world-action-model-for-robotics-is-now-available/
@@ -15497,7 +15495,7 @@ Source: IEEE Spectrum Robotics
 Published: 2026-11-09 14:00 UTC
 URL: https://spectrum.ieee.org/agentic-robotics
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: IEEE Spectrum Robotics [cybernetics_automation] https://spectrum.ieee.org/agentic-robotics
@@ -15509,7 +15507,7 @@ Source: IEEE Spectrum Robotics
 Published: 2026-11-06 17:00 UTC
 URL: https://spectrum.ieee.org/video-friday-home-cable-robot
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: IEEE Spectrum Robotics [cybernetics_automation] https://spectrum.ieee.org/video-friday-home-cable-robot
@@ -15521,7 +15519,7 @@ Source: IEEE Spectrum Aerospace
 Published: 2026-11-06 15:00 UTC
 URL: https://spectrum.ieee.org/mmx-mission-to-phobos
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: IEEE Spectrum Aerospace [cybernetics_automation] https://spectrum.ieee.org/mmx-mission-to-phobos
@@ -15533,7 +15531,7 @@ Source: IEEE Spectrum Aerospace
 Published: 2026-11-05 14:00 UTC
 URL: https://spectrum.ieee.org/2026-solar-eclipse
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: IEEE Spectrum Aerospace [cybernetics_automation] https://spectrum.ieee.org/2026-solar-eclipse
@@ -15545,7 +15543,7 @@ Source: IEEE Spectrum Robotics
 Published: 2026-11-04 18:47 UTC
 URL: https://spectrum.ieee.org/drone-delivery-noise
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: IEEE Spectrum Robotics [cybernetics_automation] https://spectrum.ieee.org/drone-delivery-noise
@@ -15557,7 +15555,7 @@ Source: IEEE Spectrum Robotics
 Published: 2026-10-30 16:30 UTC
 URL: https://spectrum.ieee.org/video-friday-whole-body-manipulation
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: IEEE Spectrum Robotics [cybernetics_automation] https://spectrum.ieee.org/video-friday-whole-body-manipulation
@@ -15569,7 +15567,7 @@ Source: IEEE Spectrum Aerospace
 Published: 2026-10-29 14:00 UTC
 URL: https://spectrum.ieee.org/infrastructure-inspection-airship-hylight
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: IEEE Spectrum Aerospace [cybernetics_automation] https://spectrum.ieee.org/infrastructure-inspection-airship-hylight
@@ -15581,7 +15579,7 @@ Source: IEEE Spectrum Aerospace
 Published: 2026-10-28 13:00 UTC
 URL: https://spectrum.ieee.org/beta-technologies-electric-aircraft
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: IEEE Spectrum Aerospace [cybernetics_automation] https://spectrum.ieee.org/beta-technologies-electric-aircraft
@@ -15593,7 +15591,7 @@ Source: IEEE Spectrum Aerospace
 Published: 2026-10-28 08:00 UTC
 URL: https://spectrum.ieee.org/faa-aviation-airwaves
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: IEEE Spectrum Aerospace [cybernetics_automation] https://spectrum.ieee.org/faa-aviation-airwaves
@@ -15605,7 +15603,7 @@ Source: IEEE Spectrum Robotics
 Published: 2026-10-27 16:14 UTC
 URL: https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: IEEE Spectrum Robotics [cybernetics_automation] https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone
@@ -15617,7 +15615,7 @@ Source: IEEE Spectrum Aerospace
 Published: 2026-10-26 12:00 UTC
 URL: https://spectrum.ieee.org/zblan-fiber-optic-cables-iss
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: IEEE Spectrum Aerospace [cybernetics_automation] https://spectrum.ieee.org/zblan-fiber-optic-cables-iss
@@ -15630,7 +15628,7 @@ In a lab in Luxembourg in 2024, engineers at Flawless Photonics unpacked a spool
 Source: URL-only source / 仅网址源
 URL: https://www.sparkfun.com/news
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -15640,18 +15638,30 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://rsgb.org/main/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
 Source homepage / 来源主页
+
+### Warm Analog DSP, on the ESP
+Source: Hackaday
+Published: 2026-11-14 21:00 UTC
+URL: https://hackaday.com/2026/11/14/warm-analog-dsp-on-the-esp/
+Source meta: specialist_media · specialist · R4 · P4 · baseline
+Fetched: 2026-11-14 23:35 UTC
+Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
+Fetch status: ok
+Attribution: Hackaday [hardware_radio_embedded] https://hackaday.com/2026/11/14/warm-analog-dsp-on-the-esp/
+
+We love audio, and we love messing around with it. So when [mircemk] wrote in with his latest audio-mangling device, we had to give it a look. It’s a tube-sound …read more
 
 ### AMD Launches EPYC Embedded 9006: Venice Gets an Early Start in Embedded
 Source: ServeTheHome
 Published: 2026-11-14 19:00 UTC
 URL: https://www.servethehome.com/amd-launches-epyc-embedded-9006-venice-gets-an-early-start-in-embedded/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: ServeTheHome [hardware_radio_embedded] https://www.servethehome.com/amd-launches-epyc-embedded-9006-venice-gets-an-early-start-in-embedded/
@@ -15663,7 +15673,7 @@ Source: Hackaday
 Published: 2026-11-14 18:00 UTC
 URL: https://hackaday.com/2026/11/14/a-hazeltine-1420-lives-again/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Hackaday [hardware_radio_embedded] https://hackaday.com/2026/11/14/a-hazeltine-1420-lives-again/
@@ -15675,7 +15685,7 @@ Source: Adafruit Blog
 Published: 2026-11-14 16:46 UTC
 URL: https://blog.adafruit.com/2026/11/14/stenberg-30-years-of-internet-transfers-with-curl/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Adafruit Blog [hardware_radio_embedded] https://blog.adafruit.com/2026/11/14/stenberg-30-years-of-internet-transfers-with-curl/
@@ -15687,7 +15697,7 @@ Source: Adafruit Blog
 Published: 2026-11-14 16:37 UTC
 URL: https://blog.adafruit.com/2026/11/14/my-300-embroidery-machine-needed-a-subscription-so-i-built-my-own-app/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Adafruit Blog [hardware_radio_embedded] https://blog.adafruit.com/2026/11/14/my-300-embroidery-machine-needed-a-subscription-so-i-built-my-own-app/
@@ -15699,7 +15709,7 @@ Source: SWLing Post
 Published: 2026-11-14 15:49 UTC
 URL: https://swling.com/blog/2026/11/rneixtra-emma-oreilly-special-sunday-november-15-2026/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: SWLing Post [hardware_radio_embedded] https://swling.com/blog/2026/11/rneixtra-emma-oreilly-special-sunday-november-15-2026/
@@ -15711,7 +15721,7 @@ Source: Adafruit Blog
 Published: 2026-11-14 15:20 UTC
 URL: https://blog.adafruit.com/2026/11/14/locating-the-source-of-a-mysterious-beep-using-claude/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Adafruit Blog [hardware_radio_embedded] https://blog.adafruit.com/2026/11/14/locating-the-source-of-a-mysterious-beep-using-claude/
@@ -15723,7 +15733,7 @@ Source: Adafruit Blog
 Published: 2026-11-14 15:00 UTC
 URL: https://blog.adafruit.com/2026/11/14/adafruit-new-products-this-week-featuring-adafruit-mcp2222-breakout-general-purpose-usb-to-gpio-spi-i2c-stemma-qt-qwiic/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Adafruit Blog [hardware_radio_embedded] https://blog.adafruit.com/2026/11/14/adafruit-new-products-this-week-featuring-adafruit-mcp2222-breakout-general-purpose-usb-to-gpio-spi-i2c-stemma-qt-qwiic/
@@ -15735,7 +15745,7 @@ Source: Hackaday
 Published: 2026-11-14 15:00 UTC
 URL: https://hackaday.com/2026/11/14/iris-learning-remote-has-five-buttons-supports-thousands-of-devices/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Hackaday [hardware_radio_embedded] https://hackaday.com/2026/11/14/iris-learning-remote-has-five-buttons-supports-thousands-of-devices/
@@ -15747,7 +15757,7 @@ Source: Hackaday
 Published: 2026-11-14 12:00 UTC
 URL: https://hackaday.com/2026/11/14/reverse-engineering-score-perfect-to-rescue-its-files/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Hackaday [hardware_radio_embedded] https://hackaday.com/2026/11/14/reverse-engineering-score-perfect-to-rescue-its-files/
@@ -15759,7 +15769,7 @@ Source: SWLing Post
 Published: 2026-11-14 11:55 UTC
 URL: https://swling.com/blog/2026/11/carlos-illustrated-radio-listening-report-and-recording-of-reach-beyond-australia-november-12-2026/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: SWLing Post [hardware_radio_embedded] https://swling.com/blog/2026/11/carlos-illustrated-radio-listening-report-and-recording-of-reach-beyond-australia-november-12-2026/
@@ -15771,7 +15781,7 @@ Source: Hackaday
 Published: 2026-11-14 09:00 UTC
 URL: https://hackaday.com/2026/11/14/making-co%e2%82%82-sensors-fail-visibly-not-silently/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Hackaday [hardware_radio_embedded] https://hackaday.com/2026/11/14/making-co%e2%82%82-sensors-fail-visibly-not-silently/
@@ -15783,31 +15793,19 @@ Source: Hackaday
 Published: 2026-11-14 06:00 UTC
 URL: https://hackaday.com/2026/11/13/esp32-flight-tracker-on-apple-crt/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Hackaday [hardware_radio_embedded] https://hackaday.com/2026/11/13/esp32-flight-tracker-on-apple-crt/
 
 Sometimes we’re most taken by what’s on the screen; sometimes the screen itself is the most interesting part of the project. In this case, it’s the latter. That’s no slight …read more
 
-### Borland C++ 2.0 Compiler Source Reconstructed
-Source: Hackaday
-Published: 2026-11-14 03:00 UTC
-URL: https://hackaday.com/2026/11/13/borland-c-2-0-compiler-source-reconstructed/
-Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
-Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
-Fetch status: ok
-Attribution: Hackaday [hardware_radio_embedded] https://hackaday.com/2026/11/13/borland-c-2-0-compiler-source-reconstructed/
-
-As the successor to Turbo C++, Borland C++ was a staple of professional IDEs for C and C++ development, starting with the initial 2.0 release in 1991. Being a commercial …read more
-
 ### Desktop operating systems for ESP32-P4-based “PCs” – Meet Sylphide OS and Bare Metal, Do Stuff (BMDS)
 Source: CNX Software
 Published: 2026-11-14 03:00 UTC
 URL: https://www.cnx-software.com/2026/11/14/desktop-operating-systems-for-esp32-p4-based-pcs-meet-sylphide-os-and-bare-metal-do-stuff-bmds/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: CNX Software [hardware_radio_embedded] https://www.cnx-software.com/2026/11/14/desktop-operating-systems-for-esp32-p4-based-pcs-meet-sylphide-os-and-bare-metal-do-stuff-bmds/
@@ -15820,7 +15818,7 @@ Published: 2026-11-13 22:13 UTC
 URL: https://developer.nvidia.com/blog/faster-scientific-simulations-with-new-fp64-algorithms-in-nvidia-cublas/
 Source meta: specialist_media · specialist · R5 · P5 · baseline
 Updated: 2026-11-13 22:14 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: NVIDIA Technical Blog [hardware_radio_embedded] https://developer.nvidia.com/blog/faster-scientific-simulations-with-new-fp64-algorithms-in-nvidia-cublas/
@@ -15832,7 +15830,7 @@ Source: Adafruit Blog
 Published: 2026-11-13 22:09 UTC
 URL: https://blog.adafruit.com/2026/11/13/what-happened-to-3com/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Adafruit Blog [hardware_radio_embedded] https://blog.adafruit.com/2026/11/13/what-happened-to-3com/
@@ -15845,7 +15843,7 @@ Published: 2026-11-13 21:17 UTC
 URL: https://developer.nvidia.com/blog/run-gpu-powered-black-hole-interferometry-with-nvidia-cuphoton/
 Source meta: specialist_media · specialist · R5 · P5 · baseline
 Updated: 2026-11-13 21:17 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: NVIDIA Technical Blog [hardware_radio_embedded] https://developer.nvidia.com/blog/run-gpu-powered-black-hole-interferometry-with-nvidia-cuphoton/
@@ -15857,7 +15855,7 @@ Source: IEEE Spectrum
 Published: 2026-11-13 19:00 UTC
 URL: https://spectrum.ieee.org/microcredentials-trustworthy-ai
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: IEEE Spectrum [hardware_radio_embedded] https://spectrum.ieee.org/microcredentials-trustworthy-ai
@@ -15870,7 +15868,7 @@ Published: 2026-11-13 18:57 UTC
 URL: https://developer.nvidia.com/blog/run-native-dla-inference-in-python-on-nvidia-jetson-agx-orin-using-cudla/
 Source meta: specialist_media · specialist · R5 · P5 · baseline
 Updated: 2026-11-14 16:38 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: NVIDIA Technical Blog [hardware_radio_embedded] https://developer.nvidia.com/blog/run-native-dla-inference-in-python-on-nvidia-jetson-agx-orin-using-cudla/
@@ -15882,7 +15880,7 @@ Source: Adafruit Blog
 Published: 2026-11-13 18:55 UTC
 URL: https://blog.adafruit.com/2026/11/13/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Adafruit Blog [hardware_radio_embedded] https://blog.adafruit.com/2026/11/13/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep/
@@ -15894,7 +15892,7 @@ Source: EE Times
 Published: 2026-11-13 18:00 UTC
 URL: https://www.eetimes.com/nova-scotia-bets-on-microelectronics-integration-not-chip-fabs/
 Source meta: trade_publication · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: EE Times [hardware_radio_embedded] https://www.eetimes.com/nova-scotia-bets-on-microelectronics-integration-not-chip-fabs/
@@ -15907,7 +15905,7 @@ Published: 2026-11-13 17:00 UTC
 URL: https://developer.nvidia.com/blog/adapt-human-motion-for-robots-with-nvidia-soma-retargeter/
 Source meta: specialist_media · specialist · R5 · P5 · baseline
 Updated: 2026-11-13 00:46 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: NVIDIA Technical Blog [hardware_radio_embedded] https://developer.nvidia.com/blog/adapt-human-motion-for-robots-with-nvidia-soma-retargeter/
@@ -15920,7 +15918,7 @@ Published: 2026-11-13 17:00 UTC
 URL: https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/
 Source meta: specialist_media · specialist · R5 · P5 · baseline
 Updated: 2026-11-12 22:40 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: NVIDIA Technical Blog [hardware_radio_embedded] https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/
@@ -15932,7 +15930,7 @@ Source: ServeTheHome
 Published: 2026-11-13 16:00 UTC
 URL: https://www.servethehome.com/patrick-at-micro-center-grand-opening-in-austin-texas-today/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: ServeTheHome [hardware_radio_embedded] https://www.servethehome.com/patrick-at-micro-center-grand-opening-in-austin-texas-today/
@@ -15944,7 +15942,7 @@ Source: EE Times
 Published: 2026-11-13 15:00 UTC
 URL: https://www.eetimes.com/newspace-grade-nor-flash-right-sized-reliability-for-space-missions/
 Source meta: trade_publication · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: EE Times [hardware_radio_embedded] https://www.eetimes.com/newspace-grade-nor-flash-right-sized-reliability-for-space-missions/
@@ -15956,7 +15954,7 @@ Source: EE Times
 Published: 2026-11-13 14:47 UTC
 URL: https://www.eetimes.com/electronica-2026-chipmakers-move-up-the-stack-as-data-centers-and-physical-ai-take-center-stage/
 Source meta: trade_publication · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: EE Times [hardware_radio_embedded] https://www.eetimes.com/electronica-2026-chipmakers-move-up-the-stack-as-data-centers-and-physical-ai-take-center-stage/
@@ -15968,7 +15966,7 @@ Source: SWLing Post
 Published: 2026-11-13 13:00 UTC
 URL: https://swling.com/blog/2026/11/xerf-1570-ciudad-acuna-coahuila-mexico-then-and-now/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: SWLing Post [hardware_radio_embedded] https://swling.com/blog/2026/11/xerf-1570-ciudad-acuna-coahuila-mexico-then-and-now/
@@ -15980,7 +15978,7 @@ Source: IEEE Spectrum
 Published: 2026-11-13 11:00 UTC
 URL: https://content.knowledgehub.wiley.com/engineering-overhead-electric-lines-for-ice-wind-and-freezing-rain/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: IEEE Spectrum [hardware_radio_embedded] https://content.knowledgehub.wiley.com/engineering-overhead-electric-lines-for-ice-wind-and-freezing-rain/
@@ -15992,7 +15990,7 @@ Source: EE Times
 Published: 2026-11-13 10:41 UTC
 URL: https://www.eetimes.com/how-novogenius-mcu-devices-are-reshaping-the-automotive-edge-node/
 Source meta: trade_publication · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: EE Times [hardware_radio_embedded] https://www.eetimes.com/how-novogenius-mcu-devices-are-reshaping-the-automotive-edge-node/
@@ -16004,7 +16002,7 @@ Source: CNX Software
 Published: 2026-11-13 10:23 UTC
 URL: https://www.cnx-software.com/2026/11/13/vantron-i-mx-952-smarc-system-on-module-for-edge-ai-vision-and-industrial-hmi/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: CNX Software [hardware_radio_embedded] https://www.cnx-software.com/2026/11/13/vantron-i-mx-952-smarc-system-on-module-for-edge-ai-vision-and-industrial-hmi/
@@ -16016,7 +16014,7 @@ Source: RTL-SDR Blog
 Published: 2026-11-13 04:26 UTC
 URL: https://www.rtl-sdr.com/multipsk-will-become-free-of-charge-from-january-2027/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: RTL-SDR Blog [hardware_radio_embedded] https://www.rtl-sdr.com/multipsk-will-become-free-of-charge-from-january-2027/
@@ -16028,7 +16026,7 @@ Source: CNX Software
 Published: 2026-11-13 04:13 UTC
 URL: https://www.cnx-software.com/2026/11/13/tektronix-1-series-low-cost-dpo-oscilloscopes-support-ai-assisted-control-start-at-just-450/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: CNX Software [hardware_radio_embedded] https://www.cnx-software.com/2026/11/13/tektronix-1-series-low-cost-dpo-oscilloscopes-support-ai-assisted-control-start-at-just-450/
@@ -16040,7 +16038,7 @@ Source: CNX Software
 Published: 2026-11-13 03:30 UTC
 URL: https://www.cnx-software.com/2026/11/13/revopoint-black-friday-sale-is-here-save-up-to-50-on-3d-scanners/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: CNX Software [hardware_radio_embedded] https://www.cnx-software.com/2026/11/13/revopoint-black-friday-sale-is-here-save-up-to-50-on-3d-scanners/
@@ -16052,7 +16050,7 @@ Source: CNX Software
 Published: 2026-11-13 03:16 UTC
 URL: https://www.cnx-software.com/2026/11/13/home-assistant-compatible-esp32-4-channel-pwm-fan-controller-is-designed-for-server-racks-and-nas-systems/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: CNX Software [hardware_radio_embedded] https://www.cnx-software.com/2026/11/13/home-assistant-compatible-esp32-4-channel-pwm-fan-controller-is-designed-for-server-racks-and-nas-systems/
@@ -16064,7 +16062,7 @@ Source: EE Times
 Published: 2026-11-12 20:48 UTC
 URL: https://www.eetimes.com/jensen-resigns-over-second-affair/
 Source meta: trade_publication · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: EE Times [hardware_radio_embedded] https://www.eetimes.com/jensen-resigns-over-second-affair/
@@ -16076,7 +16074,7 @@ Source: ServeTheHome
 Published: 2026-11-12 15:08 UTC
 URL: https://www.servethehome.com/nvidia-ceo-and-co-founder-jensen-huang-resigns-effective-immediately/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: ServeTheHome [hardware_radio_embedded] https://www.servethehome.com/nvidia-ceo-and-co-founder-jensen-huang-resigns-effective-immediately/
@@ -16088,7 +16086,7 @@ Source: EE Times
 Published: 2026-11-12 15:00 UTC
 URL: https://www.eetimes.com/design-smarter-energy-harvesting-for-battery-free-and-low-maintenance-devices-in-safety-security-applications/
 Source meta: trade_publication · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: EE Times [hardware_radio_embedded] https://www.eetimes.com/design-smarter-energy-harvesting-for-battery-free-and-low-maintenance-devices-in-safety-security-applications/
@@ -16100,7 +16098,7 @@ Source: iFixit News
 Published: 2026-11-12 12:37 UTC
 URL: https://www.ifixit.com/News/120266/what-gets-people-fixing
 Source meta: iFixit News [hardware_radio_embedded]: specialist_media · specialist · R4 · P4 · baseline | iFixit News [repair_maintenance]: specialist_media · specialist · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: status: reviewed; checked: 2026-10-30; scope: News 编辑报道、拆解与维修议题；不含所有社区回答; identity: 官网区分编辑团队内容与社区维修指南，News 归属编辑团队。; reliability: R4：官方说明核验事实或自行测试，并经写作、编辑与技术人员审阅；同一 News feed 在两个相关领域没有支持降为 R3 的依据。; professional_value: P4：硬件拆解、可维修性和设备设计提供强支持。; evidence: ['https://www.ifixit.com/Info/content-quality', 'https://www.ifixit.com/about-us']; limitations: 有维修权倡议立场并经营零件业务；该评分不外推到社区回答或全部型号操作。; access: 保留 News RSS；不将社区内容视为已受同样编辑审查。 | status: reviewed; checked: 2026-10-30; scope: News 编辑报道、拆解与维修议题；不含所有社区回答; identity: 官网区分编辑团队内容与社区维修指南，News 归属编辑团队。; reliability: R4：官方说明核验事实或自行测试，并经写作、编辑与技术人员审阅；同一 News feed 在两个相关领域没有支持降为 R3 的依据。; professional_value: P4：维修方法与维修权议题提供强支持。; evidence: ['https://www.ifixit.com/Info/content-quality', 'https://www.ifixit.com/about-us']; limitations: 有维修权倡议立场并经营零件业务；该评分不外推到社区回答或全部型号操作。; access: 保留 News RSS；不将社区内容视为已受同样编辑审查。
 Fetch status: ok
 Attribution: iFixit News [hardware_radio_embedded] https://www.ifixit.com/News/120266/what-gets-people-fixing
@@ -16113,7 +16111,7 @@ Source: Raspberry Pi Blog
 Published: 2026-11-12 11:34 UTC
 URL: https://www.raspberrypi.com/news/raspberry-pi-gift-ideas-for-nerds/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Raspberry Pi Blog [hardware_radio_embedded] https://www.raspberrypi.com/news/raspberry-pi-gift-ideas-for-nerds/
@@ -16125,7 +16123,7 @@ Source: CNX Software
 Published: 2026-11-12 09:34 UTC
 URL: https://www.cnx-software.com/2026/11/12/vzmore-ix9-max-u9-185h-mini-pc-review-part-1-specs-unboxing-teardown-and-first-boot/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: CNX Software [hardware_radio_embedded] https://www.cnx-software.com/2026/11/12/vzmore-ix9-max-u9-185h-mini-pc-review-part-1-specs-unboxing-teardown-and-first-boot/
@@ -16137,7 +16135,7 @@ Source: ServeTheHome
 Published: 2026-11-12 04:51 UTC
 URL: https://www.servethehome.com/this-is-the-meta-metaroce-network-adapter/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: ServeTheHome [hardware_radio_embedded] https://www.servethehome.com/this-is-the-meta-metaroce-network-adapter/
@@ -16149,7 +16147,7 @@ Source: RTL-SDR Blog
 Published: 2026-11-12 01:18 UTC
 URL: https://www.rtl-sdr.com/d325f-sdr-lg-phone-sdr-update-app-2-0-meteor-m-hrpt-reception-and-an-snr-comparison-against-the-rtl-sdr-blog-v4/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: RTL-SDR Blog [hardware_radio_embedded] https://www.rtl-sdr.com/d325f-sdr-lg-phone-sdr-update-app-2-0-meteor-m-hrpt-reception-and-an-snr-comparison-against-the-rtl-sdr-blog-v4/
@@ -16161,7 +16159,7 @@ Source: RTL-SDR Blog
 Published: 2026-11-12 01:02 UTC
 URL: https://www.rtl-sdr.com/multiscan-sdr-a-multi-band-pseudo-spectrum-scanner-for-rtl-sdr-hackrf-airspy-and-sdrplay/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: RTL-SDR Blog [hardware_radio_embedded] https://www.rtl-sdr.com/multiscan-sdr-a-multi-band-pseudo-spectrum-scanner-for-rtl-sdr-hackrf-airspy-and-sdrplay/
@@ -16173,7 +16171,7 @@ Source: RTL-SDR Blog
 Published: 2026-11-12 00:41 UTC
 URL: https://www.rtl-sdr.com/ats-mini-controller-a-web-app-for-the-ats-mini-receiver-with-an-experimental-browser-based-rtl-sdr-mode/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: RTL-SDR Blog [hardware_radio_embedded] https://www.rtl-sdr.com/ats-mini-controller-a-web-app-for-the-ats-mini-receiver-with-an-experimental-browser-based-rtl-sdr-mode/
@@ -16186,7 +16184,7 @@ Published: 2026-11-11 17:00 UTC
 URL: https://developer.nvidia.com/blog/validating-gpu-platforms-with-runtime-ai-inventory-via-the-nvidia-dsx-ai-factory/
 Source meta: specialist_media · specialist · R5 · P5 · baseline
 Updated: 2026-11-10 00:13 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: NVIDIA Technical Blog [hardware_radio_embedded] https://developer.nvidia.com/blog/validating-gpu-platforms-with-runtime-ai-inventory-via-the-nvidia-dsx-ai-factory/
@@ -16198,7 +16196,7 @@ Source: SWLing Post
 Published: 2026-11-11 16:00 UTC
 URL: https://swling.com/blog/2026/11/the-hidden-woodsmen-2026-holiday-sale-great-pouches-for-field-portable-shortwave-radios/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: SWLing Post [hardware_radio_embedded] https://swling.com/blog/2026/11/the-hidden-woodsmen-2026-holiday-sale-great-pouches-for-field-portable-shortwave-radios/
@@ -16210,7 +16208,7 @@ Source: iFixit News
 Published: 2026-11-11 15:11 UTC
 URL: https://www.ifixit.com/News/120222/gta-vi-took-13-years-your-console-should-last-at-least-that-long
 Source meta: iFixit News [hardware_radio_embedded]: specialist_media · specialist · R4 · P4 · baseline | iFixit News [repair_maintenance]: specialist_media · specialist · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: status: reviewed; checked: 2026-10-30; scope: News 编辑报道、拆解与维修议题；不含所有社区回答; identity: 官网区分编辑团队内容与社区维修指南，News 归属编辑团队。; reliability: R4：官方说明核验事实或自行测试，并经写作、编辑与技术人员审阅；同一 News feed 在两个相关领域没有支持降为 R3 的依据。; professional_value: P4：硬件拆解、可维修性和设备设计提供强支持。; evidence: ['https://www.ifixit.com/Info/content-quality', 'https://www.ifixit.com/about-us']; limitations: 有维修权倡议立场并经营零件业务；该评分不外推到社区回答或全部型号操作。; access: 保留 News RSS；不将社区内容视为已受同样编辑审查。 | status: reviewed; checked: 2026-10-30; scope: News 编辑报道、拆解与维修议题；不含所有社区回答; identity: 官网区分编辑团队内容与社区维修指南，News 归属编辑团队。; reliability: R4：官方说明核验事实或自行测试，并经写作、编辑与技术人员审阅；同一 News feed 在两个相关领域没有支持降为 R3 的依据。; professional_value: P4：维修方法与维修权议题提供强支持。; evidence: ['https://www.ifixit.com/Info/content-quality', 'https://www.ifixit.com/about-us']; limitations: 有维修权倡议立场并经营零件业务；该评分不外推到社区回答或全部型号操作。; access: 保留 News RSS；不将社区内容视为已受同样编辑审查。
 Fetch status: ok
 Attribution: iFixit News [hardware_radio_embedded] https://www.ifixit.com/News/120222/gta-vi-took-13-years-your-console-should-last-at-least-that-long
@@ -16223,7 +16221,7 @@ Source: SWLing Post
 Published: 2026-11-11 12:07 UTC
 URL: https://swling.com/blog/2026/11/carlos-illustrated-radio-listening-report-and-recording-of-radio-10-november-9-2026/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: SWLing Post [hardware_radio_embedded] https://swling.com/blog/2026/11/carlos-illustrated-radio-listening-report-and-recording-of-radio-10-november-9-2026/
@@ -16235,7 +16233,7 @@ Source: IEEE Spectrum
 Published: 2026-11-11 11:00 UTC
 URL: https://spectrum.ieee.org/innomotics-electric-motors-drive-systems
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: IEEE Spectrum [hardware_radio_embedded] https://spectrum.ieee.org/innomotics-electric-motors-drive-systems
@@ -16247,7 +16245,7 @@ Source: RTL-SDR Blog
 Published: 2026-11-10 23:25 UTC
 URL: https://www.rtl-sdr.com/sathuntersdr-an-open-source-android-app-for-hunting-cubesats-with-an-rtl-sdr/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: RTL-SDR Blog [hardware_radio_embedded] https://www.rtl-sdr.com/sathuntersdr-an-open-source-android-app-for-hunting-cubesats-with-an-rtl-sdr/
@@ -16259,7 +16257,7 @@ Source: iFixit News
 Published: 2026-11-10 23:19 UTC
 URL: https://www.ifixit.com/News/120152/we-tore-down-the-macbook-proled-xdr-and-found-the-secret-of-the-glowing-apple
 Source meta: iFixit News [hardware_radio_embedded]: specialist_media · specialist · R4 · P4 · baseline | iFixit News [repair_maintenance]: specialist_media · specialist · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: status: reviewed; checked: 2026-10-30; scope: News 编辑报道、拆解与维修议题；不含所有社区回答; identity: 官网区分编辑团队内容与社区维修指南，News 归属编辑团队。; reliability: R4：官方说明核验事实或自行测试，并经写作、编辑与技术人员审阅；同一 News feed 在两个相关领域没有支持降为 R3 的依据。; professional_value: P4：硬件拆解、可维修性和设备设计提供强支持。; evidence: ['https://www.ifixit.com/Info/content-quality', 'https://www.ifixit.com/about-us']; limitations: 有维修权倡议立场并经营零件业务；该评分不外推到社区回答或全部型号操作。; access: 保留 News RSS；不将社区内容视为已受同样编辑审查。 | status: reviewed; checked: 2026-10-30; scope: News 编辑报道、拆解与维修议题；不含所有社区回答; identity: 官网区分编辑团队内容与社区维修指南，News 归属编辑团队。; reliability: R4：官方说明核验事实或自行测试，并经写作、编辑与技术人员审阅；同一 News feed 在两个相关领域没有支持降为 R3 的依据。; professional_value: P4：维修方法与维修权议题提供强支持。; evidence: ['https://www.ifixit.com/Info/content-quality', 'https://www.ifixit.com/about-us']; limitations: 有维修权倡议立场并经营零件业务；该评分不外推到社区回答或全部型号操作。; access: 保留 News RSS；不将社区内容视为已受同样编辑审查。
 Fetch status: ok
 Attribution: iFixit News [hardware_radio_embedded] https://www.ifixit.com/News/120152/we-tore-down-the-macbook-proled-xdr-and-found-the-secret-of-the-glowing-apple
@@ -16272,7 +16270,7 @@ Source: Raspberry Pi Blog
 Published: 2026-11-10 19:21 UTC
 URL: https://www.raspberrypi.com/news/raspberry-pi-e-book-bundle-cyberdecks-retro-games-and-more/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Raspberry Pi Blog [hardware_radio_embedded] https://www.raspberrypi.com/news/raspberry-pi-e-book-bundle-cyberdecks-retro-games-and-more/
@@ -16284,7 +16282,7 @@ Source: IEEE Spectrum
 Published: 2026-11-10 19:00 UTC
 URL: https://spectrum.ieee.org/speech-processing-pioneer-in-memoriam
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: IEEE Spectrum [hardware_radio_embedded] https://spectrum.ieee.org/speech-processing-pioneer-in-memoriam
@@ -16296,7 +16294,7 @@ Source: ServeTheHome
 Published: 2026-11-10 17:00 UTC
 URL: https://www.servethehome.com/amd-epyc-9006-results-are-here-and-amd-delivers-a-knockout-part-deux/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: ServeTheHome [hardware_radio_embedded] https://www.servethehome.com/amd-epyc-9006-results-are-here-and-amd-delivers-a-knockout-part-deux/
@@ -16308,7 +16306,7 @@ Source: SWLing Post
 Published: 2026-11-10 12:17 UTC
 URL: https://swling.com/blog/2026/11/texas-radio-shortwave-schedule-for-december-2026/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: SWLing Post [hardware_radio_embedded] https://swling.com/blog/2026/11/texas-radio-shortwave-schedule-for-december-2026/
@@ -16320,7 +16318,7 @@ Source: IEEE Spectrum
 Published: 2026-11-10 11:00 UTC
 URL: https://content.knowledgehub.wiley.com/shifting-reliability-left-guided-virtual-validation-for-electronics-shock-and-drop-testing/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: IEEE Spectrum [hardware_radio_embedded] https://content.knowledgehub.wiley.com/shifting-reliability-left-guided-virtual-validation-for-electronics-shock-and-drop-testing/
@@ -16332,7 +16330,7 @@ Source: RTL-SDR Blog
 Published: 2026-11-10 03:36 UTC
 URL: https://www.rtl-sdr.com/esp-wifi-jam-detector-a-standalone-2-4-and-5-ghz-interference-detector-built-on-an-esp32-c5-touchscreen-board/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: RTL-SDR Blog [hardware_radio_embedded] https://www.rtl-sdr.com/esp-wifi-jam-detector-a-standalone-2-4-and-5-ghz-interference-detector-built-on-an-esp32-c5-touchscreen-board/
@@ -16344,7 +16342,7 @@ Source: ServeTheHome
 Published: 2026-11-09 21:37 UTC
 URL: https://www.servethehome.com/google-tpu-8tx-8i-max-amd-epyc-turin/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: ServeTheHome [hardware_radio_embedded] https://www.servethehome.com/google-tpu-8tx-8i-max-amd-epyc-turin/
@@ -16356,7 +16354,7 @@ Source: Raspberry Pi Blog
 Published: 2026-11-09 21:08 UTC
 URL: https://www.raspberrypi.com/news/self-sufficient-mobile-weather-station/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Raspberry Pi Blog [hardware_radio_embedded] https://www.raspberrypi.com/news/self-sufficient-mobile-weather-station/
@@ -16368,7 +16366,7 @@ Source: ARRL News
 Published: 2026-11-09 16:48 UTC
 URL: http://www.arrl.org/news/view/2026-veterans-day-amateur-radio-events-arrl-closed-nov-11
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: ARRL News [hardware_radio_embedded] http://www.arrl.org/news/view/2026-veterans-day-amateur-radio-events-arrl-closed-nov-11
@@ -16380,7 +16378,7 @@ Source: IEEE Spectrum
 Published: 2026-11-09 16:25 UTC
 URL: https://spectrum.ieee.org/zero-trust-agentic-ai-architecture
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: IEEE Spectrum [hardware_radio_embedded] https://spectrum.ieee.org/zero-trust-agentic-ai-architecture
@@ -16392,7 +16390,7 @@ Source: ARRL News
 Published: 2026-11-09 15:17 UTC
 URL: http://www.arrl.org/news/view/a-century-plus-of-radio-innovation-the-102nd-arrl-handbook-is-now-available
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: ARRL News [hardware_radio_embedded] http://www.arrl.org/news/view/a-century-plus-of-radio-innovation-the-102nd-arrl-handbook-is-now-available
@@ -16404,7 +16402,7 @@ Source: ARRL News
 Published: 2026-11-06 21:10 UTC
 URL: http://www.arrl.org/news/view/the-arrl-solar-update-49
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: ARRL News [hardware_radio_embedded] http://www.arrl.org/news/view/the-arrl-solar-update-49
@@ -16416,7 +16414,7 @@ Source: Raspberry Pi Blog
 Published: 2026-11-06 14:40 UTC
 URL: https://www.raspberrypi.com/news/iroh-comes-to-our-rp2350-microcontroller/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Raspberry Pi Blog [hardware_radio_embedded] https://www.raspberrypi.com/news/iroh-comes-to-our-rp2350-microcontroller/
@@ -16428,7 +16426,7 @@ Source: Raspberry Pi Blog
 Published: 2026-11-04 08:09 UTC
 URL: https://www.raspberrypi.com/news/product-compliance-demystified-how-raspberry-pi-helps-you-get-to-market/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Raspberry Pi Blog [hardware_radio_embedded] https://www.raspberrypi.com/news/product-compliance-demystified-how-raspberry-pi-helps-you-get-to-market/
@@ -16440,7 +16438,7 @@ Source: Raspberry Pi Blog
 Published: 2026-11-02 08:59 UTC
 URL: https://www.raspberrypi.com/news/price-rises-for-some-16gb-raspberry-pi-products/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Raspberry Pi Blog [hardware_radio_embedded] https://www.raspberrypi.com/news/price-rises-for-some-16gb-raspberry-pi-products/
@@ -16452,7 +16450,7 @@ Source: iFixit News
 Published: 2026-10-25 21:38 UTC
 URL: https://www.ifixit.com/News/119895/iphone-duo-teardown
 Source meta: iFixit News [hardware_radio_embedded]: specialist_media · specialist · R4 · P4 · baseline | iFixit News [repair_maintenance]: specialist_media · specialist · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: status: reviewed; checked: 2026-10-30; scope: News 编辑报道、拆解与维修议题；不含所有社区回答; identity: 官网区分编辑团队内容与社区维修指南，News 归属编辑团队。; reliability: R4：官方说明核验事实或自行测试，并经写作、编辑与技术人员审阅；同一 News feed 在两个相关领域没有支持降为 R3 的依据。; professional_value: P4：硬件拆解、可维修性和设备设计提供强支持。; evidence: ['https://www.ifixit.com/Info/content-quality', 'https://www.ifixit.com/about-us']; limitations: 有维修权倡议立场并经营零件业务；该评分不外推到社区回答或全部型号操作。; access: 保留 News RSS；不将社区内容视为已受同样编辑审查。 | status: reviewed; checked: 2026-10-30; scope: News 编辑报道、拆解与维修议题；不含所有社区回答; identity: 官网区分编辑团队内容与社区维修指南，News 归属编辑团队。; reliability: R4：官方说明核验事实或自行测试，并经写作、编辑与技术人员审阅；同一 News feed 在两个相关领域没有支持降为 R3 的依据。; professional_value: P4：维修方法与维修权议题提供强支持。; evidence: ['https://www.ifixit.com/Info/content-quality', 'https://www.ifixit.com/about-us']; limitations: 有维修权倡议立场并经营零件业务；该评分不外推到社区回答或全部型号操作。; access: 保留 News RSS；不将社区内容视为已受同样编辑审查。
 Fetch status: ok
 Attribution: iFixit News [hardware_radio_embedded] https://www.ifixit.com/News/119895/iphone-duo-teardown
@@ -16465,7 +16463,7 @@ Source: ARRL News
 Published: 2026-10-23 14:46 UTC
 URL: http://www.arrl.org/news/view/the-arrl-solar-update-48
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: ARRL News [hardware_radio_embedded] http://www.arrl.org/news/view/the-arrl-solar-update-48
@@ -16477,7 +16475,7 @@ Source: iFixit News
 Published: 2026-10-20 19:10 UTC
 URL: https://www.ifixit.com/News/119797/how-the-iphone-duos-crazy-repair-prices-compare
 Source meta: iFixit News [hardware_radio_embedded]: specialist_media · specialist · R4 · P4 · baseline | iFixit News [repair_maintenance]: specialist_media · specialist · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: status: reviewed; checked: 2026-10-30; scope: News 编辑报道、拆解与维修议题；不含所有社区回答; identity: 官网区分编辑团队内容与社区维修指南，News 归属编辑团队。; reliability: R4：官方说明核验事实或自行测试，并经写作、编辑与技术人员审阅；同一 News feed 在两个相关领域没有支持降为 R3 的依据。; professional_value: P4：硬件拆解、可维修性和设备设计提供强支持。; evidence: ['https://www.ifixit.com/Info/content-quality', 'https://www.ifixit.com/about-us']; limitations: 有维修权倡议立场并经营零件业务；该评分不外推到社区回答或全部型号操作。; access: 保留 News RSS；不将社区内容视为已受同样编辑审查。 | status: reviewed; checked: 2026-10-30; scope: News 编辑报道、拆解与维修议题；不含所有社区回答; identity: 官网区分编辑团队内容与社区维修指南，News 归属编辑团队。; reliability: R4：官方说明核验事实或自行测试，并经写作、编辑与技术人员审阅；同一 News feed 在两个相关领域没有支持降为 R3 的依据。; professional_value: P4：维修方法与维修权议题提供强支持。; evidence: ['https://www.ifixit.com/Info/content-quality', 'https://www.ifixit.com/about-us']; limitations: 有维修权倡议立场并经营零件业务；该评分不外推到社区回答或全部型号操作。; access: 保留 News RSS；不将社区内容视为已受同样编辑审查。
 Fetch status: ok
 Attribution: iFixit News [hardware_radio_embedded] https://www.ifixit.com/News/119797/how-the-iphone-duos-crazy-repair-prices-compare
@@ -16490,7 +16488,7 @@ Source: iFixit News
 Published: 2026-10-17 15:00 UTC
 URL: https://www.ifixit.com/News/119810/international-repair-day-2026
 Source meta: iFixit News [hardware_radio_embedded]: specialist_media · specialist · R4 · P4 · baseline | iFixit News [repair_maintenance]: specialist_media · specialist · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: status: reviewed; checked: 2026-10-30; scope: News 编辑报道、拆解与维修议题；不含所有社区回答; identity: 官网区分编辑团队内容与社区维修指南，News 归属编辑团队。; reliability: R4：官方说明核验事实或自行测试，并经写作、编辑与技术人员审阅；同一 News feed 在两个相关领域没有支持降为 R3 的依据。; professional_value: P4：硬件拆解、可维修性和设备设计提供强支持。; evidence: ['https://www.ifixit.com/Info/content-quality', 'https://www.ifixit.com/about-us']; limitations: 有维修权倡议立场并经营零件业务；该评分不外推到社区回答或全部型号操作。; access: 保留 News RSS；不将社区内容视为已受同样编辑审查。 | status: reviewed; checked: 2026-10-30; scope: News 编辑报道、拆解与维修议题；不含所有社区回答; identity: 官网区分编辑团队内容与社区维修指南，News 归属编辑团队。; reliability: R4：官方说明核验事实或自行测试，并经写作、编辑与技术人员审阅；同一 News feed 在两个相关领域没有支持降为 R3 的依据。; professional_value: P4：维修方法与维修权议题提供强支持。; evidence: ['https://www.ifixit.com/Info/content-quality', 'https://www.ifixit.com/about-us']; limitations: 有维修权倡议立场并经营零件业务；该评分不外推到社区回答或全部型号操作。; access: 保留 News RSS；不将社区内容视为已受同样编辑审查。
 Fetch status: ok
 Attribution: iFixit News [hardware_radio_embedded] https://www.ifixit.com/News/119810/international-repair-day-2026
@@ -16503,7 +16501,7 @@ Source: ARRL News
 Published: 2026-10-16 19:02 UTC
 URL: http://www.arrl.org/news/view/ebay-restricts-listings-of-radio-equipment-but-exempts-ham-band-only-gear
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: ARRL News [hardware_radio_embedded] http://www.arrl.org/news/view/ebay-restricts-listings-of-radio-equipment-but-exempts-ham-band-only-gear
@@ -16515,7 +16513,7 @@ Source: ARRL News
 Published: 2026-10-16 18:39 UTC
 URL: http://www.arrl.org/news/view/florida-hams-provide-communications-support-during-hurricane-isaias
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: ARRL News [hardware_radio_embedded] http://www.arrl.org/news/view/florida-hams-provide-communications-support-during-hurricane-isaias
@@ -16528,7 +16526,7 @@ Amateur radio operators from Florida’s Santa Rosa, Nassau, Lake, Pinellas, and
 Source: URL-only source / 仅网址源
 URL: https://www.eham.net/
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16538,7 +16536,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://hamradiocrashcourse.com/
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16548,7 +16546,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.oarc.uk/
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16558,7 +16556,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://rsgb.org/
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16568,7 +16566,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.arrl.org/
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16578,7 +16576,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.cept.org/ecc/topics/amateur-radio
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16588,7 +16586,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.cept.org/
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16598,7 +16596,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.darc.de/
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16608,7 +16606,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.bundesnetzagentur.de/
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16618,7 +16616,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://rsgb.org/main/clubs-training/training/
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16628,7 +16626,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.ofcom.org.uk/spectrum/radio-equipment/amateur-radio
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16638,7 +16636,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.soumu.go.jp/english/
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16648,7 +16646,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.jarl.org/English/
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16658,7 +16656,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://exam.ham.upall.cn/?t=e
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16668,7 +16666,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://exam.ham.upall.cn/?t=g
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16678,7 +16676,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://exam.ham.upall.cn/?t=t
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16688,7 +16686,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.arrl.org/licensing-education-training
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16698,7 +16696,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.fcc.gov/wireless/bureau-divisions/mobility-division/amateur-radio-service
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16708,7 +16706,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://exam.ham.upall.cn/?t=c_2025
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16718,7 +16716,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://ham-exam.iots.vip
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16728,7 +16726,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://exam.ham.upall.cn/?t=b_2025
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16738,7 +16736,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://exam.ham.upall.cn/?t=a_2025
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16748,7 +16746,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.crac.org.cn/
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16758,7 +16756,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.miit.gov.cn/
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16768,7 +16766,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://winlink.org/
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16778,7 +16776,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.tapr.org/ax25.html
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16788,7 +16786,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://aprs.fi/
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16798,7 +16796,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.psk31.com/
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16808,7 +16806,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.wsprnet.org/
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16818,7 +16816,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://wsjt.sourceforge.io/
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16828,7 +16826,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://lotw.arrl.org/
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16840,7 +16838,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://freedv.org/
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16850,7 +16848,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.dmr-marc.net/
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16860,7 +16858,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://ham.c5r.app
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16870,7 +16868,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://chirpmyradio.com/
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16880,7 +16878,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.w1hkj.com/
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16890,7 +16888,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://forum.pistar.uk/
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16900,7 +16898,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.pistar.uk/
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16910,7 +16908,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: http://dudestar.gw8szl.co.uk/Droidstar/
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16920,7 +16918,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: http://pizzanbeer.net/
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16930,7 +16928,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://github.com/nostar/DroidStar
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16940,7 +16938,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://ham.c5r.app/maidenhead-grid
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16950,7 +16948,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://github.com/g4klx/MMDVM
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16960,7 +16958,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://dvswitch.groups.io/g/main/wiki
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16970,7 +16968,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://hamvoip.org/
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16980,7 +16978,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.allstarlink.org/
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -16990,7 +16988,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.irlp.net/
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -17000,7 +16998,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.echolink.org/
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -17010,7 +17008,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://systemfusion.yaesu.com/
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -17020,7 +17018,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.dstar.org/
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -17030,7 +17028,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://tgif.network/
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -17040,7 +17038,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://brandmeister.network/
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -17050,7 +17048,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.magicbug.co.uk/cloudlog/
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -17060,7 +17058,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://radioid.net
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -17070,7 +17068,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.qrz.com
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -17082,7 +17080,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://satnogs.org/
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -17092,7 +17090,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://amsat-dl.org/
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -17102,7 +17100,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.amsat.org/
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -17112,7 +17110,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://issdetector.com/
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -17122,7 +17120,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://gosoftworks.com/apps/gosatwatch/users-guide/
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -17132,7 +17130,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.amsat.org/status/
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -17142,7 +17140,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://celestrak.org/NORAD/elements/supplemental/
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -17155,7 +17153,7 @@ Source: Access Now
 Published: 2026-11-25 21:00 UTC
 URL: https://www.accessnow.org/event/digital-borders-exposed/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Access Now [technology_politics] https://www.accessnow.org/event/digital-borders-exposed/
@@ -17166,7 +17164,7 @@ The Protect Not Surveil coalition is proud to launch Digital Borders Exposed, an
 Source: URL-only source / 仅网址源
 URL: https://www.lawfaremedia.org/topic/cybersecurity
 Source meta: specialist_media · specialist · R4 · P5 · baseline
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -17176,7 +17174,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.techpolicy.press/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: empty_feed
 
@@ -17188,7 +17186,7 @@ Published: 2026-11-14 17:02 UTC
 URL: https://www.schneier.com/blog/archives/2026/11/upcoming-speaking-engagements-62.html
 Source meta: specialist_media · specialist · R5 · P5 · baseline
 Updated: 2026-11-14 17:02 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Schneier on Security [technology_politics] https://www.schneier.com/blog/archives/2026/11/upcoming-speaking-engagements-62.html
@@ -17200,7 +17198,7 @@ Source: 404 Media
 Published: 2026-11-14 13:00 UTC
 URL: https://www.404media.co/scientists-made-monkeys-watch-minions-to-study-their-brains/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: 404 Media [technology_politics] https://www.404media.co/scientists-made-monkeys-watch-minions-to-study-their-brains/
@@ -17213,7 +17211,7 @@ Published: 2026-11-13 22:00 UTC
 URL: https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-pacific-flying-squid-populations-dropping-in-korean-waters.html
 Source meta: specialist_media · specialist · R5 · P5 · baseline
 Updated: 2026-11-13 22:00 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Schneier on Security [technology_politics] https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-pacific-flying-squid-populations-dropping-in-korean-waters.html
@@ -17225,7 +17223,7 @@ Source: Electronic Frontier Foundation
 Published: 2026-11-13 21:29 UTC
 URL: https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Electronic Frontier Foundation [technology_politics] https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again
@@ -17237,7 +17235,7 @@ Source: 404 Media
 Published: 2026-11-13 17:28 UTC
 URL: https://www.404media.co/behind-the-blog-priorities-priorities/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: 404 Media [technology_politics] https://www.404media.co/behind-the-blog-priorities-priorities/
@@ -17249,7 +17247,7 @@ Source: Rest of World
 Published: 2026-11-13 16:24 UTC
 URL: https://restofworld.org/2026/jensen-huang-nvidia-exit-china-ai-chip-impact/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
 Source meta: Rest of World [civilizational_critique]: specialist_media · specialist · R4 · P4 · baseline | Rest of World [technology_politics]: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: status: reviewed; checked: 2026-10-30; scope: 技术对非西方社会的影响与实地报道; identity: 官方定位为关注技术与社会的非营利新闻出版机构。; reliability: R4：公开编辑独立、利益冲突、匿名消息源与更正规则；保留现有评分。; professional_value: P4：以非西方技术经验补充文明批评。; evidence: ['https://restofworld.org/about/', 'https://restofworld.org/about/ethics-editorial-policies/']; limitations: 报道视角不等于全面地域代表性；个别匿名信源仍需交叉核验。; access: 保留已有公开 RSS，仅取 feed 返回内容。 | status: reviewed; checked: 2026-10-30; scope: 技术对非西方社会的影响与实地报道; identity: 官方定位为关注技术与社会的非营利新闻出版机构。; reliability: R4：公开编辑独立、利益冲突、匿名消息源与更正规则；保留现有评分。; professional_value: P4：技术权力、劳动和平台治理报道直接支持该分类。; evidence: ['https://restofworld.org/about/', 'https://restofworld.org/about/ethics-editorial-policies/']; limitations: 报道视角不等于全面地域代表性；个别匿名信源仍需交叉核验。; access: 保留已有公开 RSS，仅取 feed 返回内容。
 Fetch status: ok
 Attribution: Rest of World [civilizational_critique] https://restofworld.org/2026/jensen-huang-nvidia-exit-china-ai-chip-impact/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
@@ -17262,7 +17260,7 @@ Source: 404 Media
 Published: 2026-11-13 15:38 UTC
 URL: https://www.404media.co/podcast-election-fallout/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: 404 Media [technology_politics] https://www.404media.co/podcast-election-fallout/
@@ -17275,7 +17273,7 @@ Published: 2026-11-13 12:03 UTC
 URL: https://www.schneier.com/blog/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html
 Source meta: specialist_media · specialist · R5 · P5 · baseline
 Updated: 2026-11-13 12:03 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Schneier on Security [technology_politics] https://www.schneier.com/blog/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html
@@ -17287,7 +17285,7 @@ Source: 404 Media
 Published: 2026-11-12 16:46 UTC
 URL: https://www.404media.co/way-more-terrifying-than-i-expected/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: 404 Media [technology_politics] https://www.404media.co/way-more-terrifying-than-i-expected/
@@ -17299,7 +17297,7 @@ Source: 404 Media
 Published: 2026-11-12 16:25 UTC
 URL: https://www.404media.co/muse-sexts-roleplaying-real-people/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: 404 Media [technology_politics] https://www.404media.co/muse-sexts-roleplaying-real-people/
@@ -17312,7 +17310,7 @@ Published: 2026-11-12 12:02 UTC
 URL: https://www.schneier.com/blog/archives/2026/11/another-way-police-are-locating-people-from-their-smartphones.html
 Source meta: specialist_media · specialist · R5 · P5 · baseline
 Updated: 2026-11-12 12:03 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Schneier on Security [technology_politics] https://www.schneier.com/blog/archives/2026/11/another-way-police-are-locating-people-from-their-smartphones.html
@@ -17324,7 +17322,7 @@ Source: Rest of World
 Published: 2026-11-12 11:00 UTC
 URL: https://restofworld.org/2026/ai-government-ethics-bias-risk/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
 Source meta: Rest of World [civilizational_critique]: specialist_media · specialist · R4 · P4 · baseline | Rest of World [technology_politics]: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: status: reviewed; checked: 2026-10-30; scope: 技术对非西方社会的影响与实地报道; identity: 官方定位为关注技术与社会的非营利新闻出版机构。; reliability: R4：公开编辑独立、利益冲突、匿名消息源与更正规则；保留现有评分。; professional_value: P4：以非西方技术经验补充文明批评。; evidence: ['https://restofworld.org/about/', 'https://restofworld.org/about/ethics-editorial-policies/']; limitations: 报道视角不等于全面地域代表性；个别匿名信源仍需交叉核验。; access: 保留已有公开 RSS，仅取 feed 返回内容。 | status: reviewed; checked: 2026-10-30; scope: 技术对非西方社会的影响与实地报道; identity: 官方定位为关注技术与社会的非营利新闻出版机构。; reliability: R4：公开编辑独立、利益冲突、匿名消息源与更正规则；保留现有评分。; professional_value: P4：技术权力、劳动和平台治理报道直接支持该分类。; evidence: ['https://restofworld.org/about/', 'https://restofworld.org/about/ethics-editorial-policies/']; limitations: 报道视角不等于全面地域代表性；个别匿名信源仍需交叉核验。; access: 保留已有公开 RSS，仅取 feed 返回内容。
 Fetch status: ok
 Attribution: Rest of World [civilizational_critique] https://restofworld.org/2026/ai-government-ethics-bias-risk/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
@@ -17337,7 +17335,7 @@ Source: 404 Media
 Published: 2026-11-11 19:00 UTC
 URL: https://www.404media.co/scientists-discovered-an-invisible-object-in-space/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: 404 Media [technology_politics] https://www.404media.co/scientists-discovered-an-invisible-object-in-space/
@@ -17349,7 +17347,7 @@ Source: Electronic Frontier Foundation
 Published: 2026-11-11 18:32 UTC
 URL: https://www.eff.org/deeplinks/2026/11/medicares-ai-experiment-effector-3820
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Electronic Frontier Foundation [technology_politics] https://www.eff.org/deeplinks/2026/11/medicares-ai-experiment-effector-3820
@@ -17361,7 +17359,7 @@ Source: Krebs on Security
 Published: 2026-11-11 18:06 UTC
 URL: https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/
 Source meta: specialist_media · specialist · R5 · P5 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Krebs on Security [technology_politics] https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/
@@ -17374,7 +17372,7 @@ Published: 2026-11-11 12:05 UTC
 URL: https://www.schneier.com/blog/archives/2026/11/three-people-arrested-for-ai-enhanced-impersonation-fraud.html
 Source meta: specialist_media · specialist · R5 · P5 · baseline
 Updated: 2026-11-11 12:06 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Schneier on Security [technology_politics] https://www.schneier.com/blog/archives/2026/11/three-people-arrested-for-ai-enhanced-impersonation-fraud.html
@@ -17386,7 +17384,7 @@ Source: Krebs on Security
 Published: 2026-11-10 21:55 UTC
 URL: https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/
 Source meta: specialist_media · specialist · R5 · P5 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Krebs on Security [technology_politics] https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/
@@ -17399,7 +17397,7 @@ Published: 2026-11-10 12:02 UTC
 URL: https://www.schneier.com/blog/archives/2026/11/new-openssh-vulnerability.html
 Source meta: specialist_media · specialist · R5 · P5 · baseline
 Updated: 2026-11-10 12:02 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Schneier on Security [technology_politics] https://www.schneier.com/blog/archives/2026/11/new-openssh-vulnerability.html
@@ -17411,7 +17409,7 @@ Source: Electronic Frontier Foundation
 Published: 2026-11-09 22:09 UTC
 URL: https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Electronic Frontier Foundation [technology_politics] https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches
@@ -17423,7 +17421,7 @@ Source: Electronic Frontier Foundation
 Published: 2026-11-09 21:40 UTC
 URL: https://www.eff.org/deeplinks/2026/11/why-fewer-people-are-challenging-bad-patents
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Electronic Frontier Foundation [technology_politics] https://www.eff.org/deeplinks/2026/11/why-fewer-people-are-challenging-bad-patents
@@ -17435,7 +17433,7 @@ Source: Electronic Frontier Foundation
 Published: 2026-11-09 19:29 UTC
 URL: https://www.eff.org/deeplinks/2026/11/us-supreme-court-deals-final-blow-corporate-human-rights-accountability
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Electronic Frontier Foundation [technology_politics] https://www.eff.org/deeplinks/2026/11/us-supreme-court-deals-final-blow-corporate-human-rights-accountability
@@ -17447,7 +17445,7 @@ Source: Rest of World
 Published: 2026-11-09 08:30 UTC
 URL: https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
 Source meta: Rest of World [civilizational_critique]: specialist_media · specialist · R4 · P4 · baseline | Rest of World [technology_politics]: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: status: reviewed; checked: 2026-10-30; scope: 技术对非西方社会的影响与实地报道; identity: 官方定位为关注技术与社会的非营利新闻出版机构。; reliability: R4：公开编辑独立、利益冲突、匿名消息源与更正规则；保留现有评分。; professional_value: P4：以非西方技术经验补充文明批评。; evidence: ['https://restofworld.org/about/', 'https://restofworld.org/about/ethics-editorial-policies/']; limitations: 报道视角不等于全面地域代表性；个别匿名信源仍需交叉核验。; access: 保留已有公开 RSS，仅取 feed 返回内容。 | status: reviewed; checked: 2026-10-30; scope: 技术对非西方社会的影响与实地报道; identity: 官方定位为关注技术与社会的非营利新闻出版机构。; reliability: R4：公开编辑独立、利益冲突、匿名消息源与更正规则；保留现有评分。; professional_value: P4：技术权力、劳动和平台治理报道直接支持该分类。; evidence: ['https://restofworld.org/about/', 'https://restofworld.org/about/ethics-editorial-policies/']; limitations: 报道视角不等于全面地域代表性；个别匿名信源仍需交叉核验。; access: 保留已有公开 RSS，仅取 feed 返回内容。
 Fetch status: ok
 Attribution: Rest of World [civilizational_critique] https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
@@ -17460,7 +17458,7 @@ Source: Electronic Frontier Foundation
 Published: 2026-11-06 19:14 UTC
 URL: https://www.eff.org/deeplinks/2026/11/google-forcing-ai-students-bs
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Electronic Frontier Foundation [technology_politics] https://www.eff.org/deeplinks/2026/11/google-forcing-ai-students-bs
@@ -17472,7 +17470,7 @@ Source: Rest of World
 Published: 2026-11-05 11:00 UTC
 URL: https://restofworld.org/2026/taiwan-labor-strike-ai-profits/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
 Source meta: Rest of World [civilizational_critique]: specialist_media · specialist · R4 · P4 · baseline | Rest of World [technology_politics]: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: status: reviewed; checked: 2026-10-30; scope: 技术对非西方社会的影响与实地报道; identity: 官方定位为关注技术与社会的非营利新闻出版机构。; reliability: R4：公开编辑独立、利益冲突、匿名消息源与更正规则；保留现有评分。; professional_value: P4：以非西方技术经验补充文明批评。; evidence: ['https://restofworld.org/about/', 'https://restofworld.org/about/ethics-editorial-policies/']; limitations: 报道视角不等于全面地域代表性；个别匿名信源仍需交叉核验。; access: 保留已有公开 RSS，仅取 feed 返回内容。 | status: reviewed; checked: 2026-10-30; scope: 技术对非西方社会的影响与实地报道; identity: 官方定位为关注技术与社会的非营利新闻出版机构。; reliability: R4：公开编辑独立、利益冲突、匿名消息源与更正规则；保留现有评分。; professional_value: P4：技术权力、劳动和平台治理报道直接支持该分类。; evidence: ['https://restofworld.org/about/', 'https://restofworld.org/about/ethics-editorial-policies/']; limitations: 报道视角不等于全面地域代表性；个别匿名信源仍需交叉核验。; access: 保留已有公开 RSS，仅取 feed 返回内容。
 Fetch status: ok
 Attribution: Rest of World [civilizational_critique] https://restofworld.org/2026/taiwan-labor-strike-ai-profits/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
@@ -17485,7 +17483,7 @@ Source: Krebs on Security
 Published: 2026-11-05 04:36 UTC
 URL: https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/
 Source meta: specialist_media · specialist · R5 · P5 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Krebs on Security [technology_politics] https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/
@@ -17497,7 +17495,7 @@ Source: Krebs on Security
 Published: 2026-11-03 02:24 UTC
 URL: https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/
 Source meta: specialist_media · specialist · R5 · P5 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Krebs on Security [technology_politics] https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/
@@ -17509,7 +17507,7 @@ Source: Rest of World
 Published: 2026-11-02 11:00 UTC
 URL: https://restofworld.org/2026/western-startups-realigning-chinese-ai-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
 Source meta: Rest of World [civilizational_critique]: specialist_media · specialist · R4 · P4 · baseline | Rest of World [technology_politics]: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: status: reviewed; checked: 2026-10-30; scope: 技术对非西方社会的影响与实地报道; identity: 官方定位为关注技术与社会的非营利新闻出版机构。; reliability: R4：公开编辑独立、利益冲突、匿名消息源与更正规则；保留现有评分。; professional_value: P4：以非西方技术经验补充文明批评。; evidence: ['https://restofworld.org/about/', 'https://restofworld.org/about/ethics-editorial-policies/']; limitations: 报道视角不等于全面地域代表性；个别匿名信源仍需交叉核验。; access: 保留已有公开 RSS，仅取 feed 返回内容。 | status: reviewed; checked: 2026-10-30; scope: 技术对非西方社会的影响与实地报道; identity: 官方定位为关注技术与社会的非营利新闻出版机构。; reliability: R4：公开编辑独立、利益冲突、匿名消息源与更正规则；保留现有评分。; professional_value: P4：技术权力、劳动和平台治理报道直接支持该分类。; evidence: ['https://restofworld.org/about/', 'https://restofworld.org/about/ethics-editorial-policies/']; limitations: 报道视角不等于全面地域代表性；个别匿名信源仍需交叉核验。; access: 保留已有公开 RSS，仅取 feed 返回内容。
 Fetch status: ok
 Attribution: Rest of World [civilizational_critique] https://restofworld.org/2026/western-startups-realigning-chinese-ai-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
@@ -17522,7 +17520,7 @@ Source: Rest of World
 Published: 2026-10-29 10:00 UTC
 URL: https://restofworld.org/2026/africa-sovereign-ai-off-switch/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
 Source meta: Rest of World [civilizational_critique]: specialist_media · specialist · R4 · P4 · baseline | Rest of World [technology_politics]: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: status: reviewed; checked: 2026-10-30; scope: 技术对非西方社会的影响与实地报道; identity: 官方定位为关注技术与社会的非营利新闻出版机构。; reliability: R4：公开编辑独立、利益冲突、匿名消息源与更正规则；保留现有评分。; professional_value: P4：以非西方技术经验补充文明批评。; evidence: ['https://restofworld.org/about/', 'https://restofworld.org/about/ethics-editorial-policies/']; limitations: 报道视角不等于全面地域代表性；个别匿名信源仍需交叉核验。; access: 保留已有公开 RSS，仅取 feed 返回内容。 | status: reviewed; checked: 2026-10-30; scope: 技术对非西方社会的影响与实地报道; identity: 官方定位为关注技术与社会的非营利新闻出版机构。; reliability: R4：公开编辑独立、利益冲突、匿名消息源与更正规则；保留现有评分。; professional_value: P4：技术权力、劳动和平台治理报道直接支持该分类。; evidence: ['https://restofworld.org/about/', 'https://restofworld.org/about/ethics-editorial-policies/']; limitations: 报道视角不等于全面地域代表性；个别匿名信源仍需交叉核验。; access: 保留已有公开 RSS，仅取 feed 返回内容。
 Fetch status: ok
 Attribution: Rest of World [civilizational_critique] https://restofworld.org/2026/africa-sovereign-ai-off-switch/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
@@ -17535,7 +17533,7 @@ Source: Access Now
 Published: 2026-10-28 20:26 UTC
 URL: https://www.accessnow.org/press-release/mada-masrs-closure/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Access Now [technology_politics] https://www.accessnow.org/press-release/mada-masrs-closure/
@@ -17547,7 +17545,7 @@ Source: Access Now
 Published: 2026-10-28 14:49 UTC
 URL: https://www.accessnow.org/press-release/eu-transforms-frontex-into-a-high-tech-deportation-command-centre/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Access Now [technology_politics] https://www.accessnow.org/press-release/eu-transforms-frontex-into-a-high-tech-deportation-command-centre/
@@ -17559,7 +17557,7 @@ Source: Access Now
 Published: 2026-10-27 08:00 UTC
 URL: https://www.accessnow.org/noexamshutdown-one-step-forward-another-step-back/?pk_campaign=feed&pk_kwd=noexamshutdown-one-step-forward-another-step-back
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Access Now [technology_politics] https://www.accessnow.org/noexamshutdown-one-step-forward-another-step-back/?pk_campaign=feed&pk_kwd=noexamshutdown-one-step-forward-another-step-back
@@ -17571,7 +17569,7 @@ Source: Access Now
 Published: 2026-10-23 17:06 UTC
 URL: https://www.accessnow.org/press-release/https-www-accessnow-org-press-release-urgent-global-call-following-the-referral-of-mada-masr-editor-in-chief-lina-attalah-to-trial/
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Access Now [technology_politics] https://www.accessnow.org/press-release/https-www-accessnow-org-press-release-urgent-global-call-following-the-referral-of-mada-masr-editor-in-chief-lina-attalah-to-trial/
@@ -17583,7 +17581,7 @@ Source: Krebs on Security
 Published: 2026-10-21 15:26 UTC
 URL: https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/
 Source meta: specialist_media · specialist · R5 · P5 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Krebs on Security [technology_politics] https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/
@@ -17595,7 +17593,7 @@ Source: Access Now
 Published: 2026-10-21 14:00 UTC
 URL: https://www.accessnow.org/openness-in-ai-development/?pk_campaign=feed&pk_kwd=openness-in-ai-development
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Access Now [technology_politics] https://www.accessnow.org/openness-in-ai-development/?pk_campaign=feed&pk_kwd=openness-in-ai-development
@@ -17607,7 +17605,7 @@ Source: Krebs on Security
 Published: 2026-10-19 13:48 UTC
 URL: https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/
 Source meta: specialist_media · specialist · R5 · P5 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Krebs on Security [technology_politics] https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/
@@ -17619,7 +17617,7 @@ Source: The Markup
 Published: 2026-10-15 08:30 UTC
 URL: https://themarkup.org/privacy/2026/10/15/mychart-health-data-opt-out-epic-notary-hipaa
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Markup [technology_politics] https://themarkup.org/privacy/2026/10/15/mychart-health-data-opt-out-epic-notary-hipaa
@@ -17631,7 +17629,7 @@ Source: The Markup
 Published: 2026-10-15 08:30 UTC
 URL: https://themarkup.org/privacy/2026/10/15/tips-how-to-opt-out-of-data-sharing
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Markup [technology_politics] https://themarkup.org/privacy/2026/10/15/tips-how-to-opt-out-of-data-sharing
@@ -17643,7 +17641,7 @@ Source: The Markup
 Published: 2026-10-14 12:00 UTC
 URL: https://themarkup.org/privacy/2026/10/14/worlds-largest-health-appointment-platform-dumps-its-web-trackers-after-markup-investigation
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Markup [technology_politics] https://themarkup.org/privacy/2026/10/14/worlds-largest-health-appointment-platform-dumps-its-web-trackers-after-markup-investigation
@@ -17655,7 +17653,7 @@ Source: The Markup
 Published: 2026-10-10 12:00 UTC
 URL: https://themarkup.org/hello-world/2026/10/10/election-ai-resilience
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Markup [technology_politics] https://themarkup.org/hello-world/2026/10/10/election-ai-resilience
@@ -17667,7 +17665,7 @@ Source: The Markup
 Published: 2026-09-16 12:00 UTC
 URL: https://themarkup.org/privacy/2026/09/16/whos-buying-your-personal-data-disney-gm-your-insurer-and-bank-heres-what-they-get
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Markup [technology_politics] https://themarkup.org/privacy/2026/09/16/whos-buying-your-personal-data-disney-gm-your-insurer-and-bank-heres-what-they-get
@@ -17679,7 +17677,7 @@ Source: The Markup
 Published: 2026-09-16 12:00 UTC
 URL: https://themarkup.org/privacy/2026/09/16/data-brokers-have-detailed-files-on-you-heres-whats-in-them-and-how-it-impacts-you
 Source meta: specialist_media · specialist · R4 · P4 · baseline
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Markup [technology_politics] https://themarkup.org/privacy/2026/09/16/data-brokers-have-detailed-files-on-you-heres-whats-in-them-and-how-it-impacts-you
@@ -17692,7 +17690,7 @@ Data brokers collect thousands of details about your finances, health and habits
 Source: URL-only source / 仅网址源
 URL: https://www.nytimes.com/wirecutter/outdoors/
 Source meta: specialist_media · specialist · R4 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -17702,7 +17700,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://blademag.com/knife-news
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -17712,7 +17710,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.gearpatrol.com/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -17722,7 +17720,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.fieldmag.com/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -17732,7 +17730,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.outdoorgearlab.com/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -17743,7 +17741,7 @@ Source: Bikepacking.com
 Published: 2026-11-13 17:27 UTC
 URL: https://bikepacking.com/news/salsa-fargo-32-ti-in-stock/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Bikepacking.com [field_gear] https://bikepacking.com/news/salsa-fargo-32-ti-in-stock/
@@ -17755,7 +17753,7 @@ Source: Bikepacking.com
 Published: 2026-11-13 15:00 UTC
 URL: https://bikepacking.com/news/45nrth-leather-wolvhammer-ragnarok-boots-update/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Bikepacking.com [field_gear] https://bikepacking.com/news/45nrth-leather-wolvhammer-ragnarok-boots-update/
@@ -17767,7 +17765,7 @@ Source: Bikepacking.com
 Published: 2026-11-13 14:30 UTC
 URL: https://bikepacking.com/news/friday-debrief-247/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Bikepacking.com [field_gear] https://bikepacking.com/news/friday-debrief-247/
@@ -17779,7 +17777,7 @@ Source: Bikepacking.com
 Published: 2026-11-13 12:48 UTC
 URL: https://bikepacking.com/gear/best-handlebar-cradles-for-bikepacking/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Bikepacking.com [field_gear] https://bikepacking.com/gear/best-handlebar-cradles-for-bikepacking/
@@ -17791,7 +17789,7 @@ Source: Bikepacking.com
 Published: 2026-11-13 12:14 UTC
 URL: https://bikepacking.com/news/readers-rig-sams-stooge-rambler/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Bikepacking.com [field_gear] https://bikepacking.com/news/readers-rig-sams-stooge-rambler/
@@ -17803,7 +17801,7 @@ Source: SectionHiker
 Published: 2026-11-13 06:15 UTC
 URL: https://sectionhiker.com/rei-winter-holiday-sale-best-gifts-and-bargains/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: SectionHiker [field_gear] https://sectionhiker.com/rei-winter-holiday-sale-best-gifts-and-bargains/
@@ -17815,7 +17813,7 @@ Source: KnifeNews
 Published: 2026-11-12 21:03 UTC
 URL: https://knifenews.com/crkt-answers-the-call-for-a-trainer-m16-bali/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: KnifeNews [field_gear] https://knifenews.com/crkt-answers-the-call-for-a-trainer-m16-bali/
@@ -17827,7 +17825,7 @@ Source: Bikepacking.com
 Published: 2026-11-12 19:08 UTC
 URL: https://bikepacking.com/news/exposure-joystick-19-intro/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Bikepacking.com [field_gear] https://bikepacking.com/news/exposure-joystick-19-intro/
@@ -17839,7 +17837,7 @@ Source: Backpacking Light
 Published: 2026-11-12 16:00 UTC
 URL: https://backpackinglight.com/rei/
 Source meta: specialist_media · specialist · R4 · P4 · reference
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Backpacking Light [field_gear] https://backpackinglight.com/rei/
@@ -17851,7 +17849,7 @@ Source: SectionHiker
 Published: 2026-11-12 06:05 UTC
 URL: https://sectionhiker.com/best-hiking-socks-gift-guide/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: SectionHiker [field_gear] https://sectionhiker.com/best-hiking-socks-gift-guide/
@@ -17863,7 +17861,7 @@ Source: KnifeNews
 Published: 2026-11-11 21:53 UTC
 URL: https://knifenews.com/tops-land-attack-rethinks-the-trench-knife/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: KnifeNews [field_gear] https://knifenews.com/tops-land-attack-rethinks-the-trench-knife/
@@ -17875,7 +17873,7 @@ Source: KnifeNews
 Published: 2026-11-09 19:43 UTC
 URL: https://knifenews.com/we-knife-co-x-tanto-on-the-new-exponent/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: KnifeNews [field_gear] https://knifenews.com/we-knife-co-x-tanto-on-the-new-exponent/
@@ -17887,7 +17885,7 @@ Source: KnifeNews
 Published: 2026-11-07 00:07 UTC
 URL: https://knifenews.com/jack-wolf-gunstock-locked-and-loaded/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: KnifeNews [field_gear] https://knifenews.com/jack-wolf-gunstock-locked-and-loaded/
@@ -17899,7 +17897,7 @@ Source: KnifeNews
 Published: 2026-11-05 23:40 UTC
 URL: https://knifenews.com/november-buck-of-the-month-is-pretty-tasty-if-youre-a-cleaver-fan/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: KnifeNews [field_gear] https://knifenews.com/november-buck-of-the-month-is-pretty-tasty-if-youre-a-cleaver-fan/
@@ -17911,7 +17909,7 @@ Source: KnifeNews
 Published: 2026-11-04 16:29 UTC
 URL: https://knifenews.com/tops-back-bite-gets-fresh-set-of-teeth/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: KnifeNews [field_gear] https://knifenews.com/tops-back-bite-gets-fresh-set-of-teeth/
@@ -17923,7 +17921,7 @@ Source: Backpacking Light
 Published: 2026-11-02 18:24 UTC
 URL: https://backpackinglight.com/podcast-episode-150-usability/
 Source meta: specialist_media · specialist · R4 · P4 · reference
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Backpacking Light [field_gear] https://backpackinglight.com/podcast-episode-150-usability/
@@ -17935,7 +17933,7 @@ Source: Backpacking Light
 Published: 2026-10-31 04:33 UTC
 URL: https://backpackinglight.com/case-study-ams-multifactorial-jordan/
 Source meta: specialist_media · specialist · R4 · P4 · reference
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Backpacking Light [field_gear] https://backpackinglight.com/case-study-ams-multifactorial-jordan/
@@ -17947,7 +17945,7 @@ Source: Backpacking Light
 Published: 2026-10-22 13:00 UTC
 URL: https://backpackinglight.com/wpb-jacket-breathability-gap/
 Source meta: specialist_media · specialist · R4 · P4 · reference
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Backpacking Light [field_gear] https://backpackinglight.com/wpb-jacket-breathability-gap/
@@ -17959,7 +17957,7 @@ Source: Backpacking Light
 Published: 2026-10-15 16:19 UTC
 URL: https://backpackinglight.com/2026-cottage-gear-innovation-awards/
 Source meta: specialist_media · specialist · R4 · P4 · reference
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Backpacking Light [field_gear] https://backpackinglight.com/2026-cottage-gear-innovation-awards/
@@ -17971,7 +17969,7 @@ Source: Backpacking Light
 Published: 2026-10-12 13:00 UTC
 URL: https://backpackinglight.com/podcast-episode-149-durability/
 Source meta: specialist_media · specialist · R4 · P4 · reference
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Backpacking Light [field_gear] https://backpackinglight.com/podcast-episode-149-durability/
@@ -17983,7 +17981,7 @@ Source: Adventure Journal
 Published: 2026-08-26 18:10 UTC
 URL: https://www.adventure-journal.com/traversing-the-saiga-silk-road/
 Source meta: specialist_media · specialist · R4 · P3 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Adventure Journal [field_gear] https://www.adventure-journal.com/traversing-the-saiga-silk-road/
@@ -17995,7 +17993,7 @@ Source: Adventure Journal
 Published: 2026-08-24 09:00 UTC
 URL: https://www.adventure-journal.com/intro-42/
 Source meta: specialist_media · specialist · R4 · P3 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Adventure Journal [field_gear] https://www.adventure-journal.com/intro-42/
@@ -18007,7 +18005,7 @@ Source: Adventure Journal
 Published: 2026-08-24 08:50 UTC
 URL: https://www.adventure-journal.com/arts-sciences-42/
 Source meta: specialist_media · specialist · R4 · P3 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Adventure Journal [field_gear] https://www.adventure-journal.com/arts-sciences-42/
@@ -18019,7 +18017,7 @@ Source: Adventure Journal
 Published: 2026-08-24 08:40 UTC
 URL: https://www.adventure-journal.com/recommended-reading-42/
 Source meta: specialist_media · specialist · R4 · P3 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Adventure Journal [field_gear] https://www.adventure-journal.com/recommended-reading-42/
@@ -18031,7 +18029,7 @@ Source: Adventure Journal
 Published: 2026-08-24 08:30 UTC
 URL: https://www.adventure-journal.com/forest-troop/
 Source meta: specialist_media · specialist · R4 · P3 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Adventure Journal [field_gear] https://www.adventure-journal.com/forest-troop/
@@ -18043,7 +18041,7 @@ Source: Adventure Journal
 Published: 2026-08-24 08:20 UTC
 URL: https://www.adventure-journal.com/fractals-in-the-dirt/
 Source meta: specialist_media · specialist · R4 · P3 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Adventure Journal [field_gear] https://www.adventure-journal.com/fractals-in-the-dirt/
@@ -18056,7 +18054,7 @@ A dusty exploration of the least-appreciated geology on the Colorado Plateau.
 Source: URL-only source / 仅网址源
 URL: https://www.bestdamnedc.com/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -18066,7 +18064,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.carryology.com/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -18077,7 +18075,7 @@ Source: Everyday Carry
 Published: 2025-09-22 19:00 UTC
 URL: https://everydaycarry.com/the-best-community-edc-gear-pocket-dump-from-ruben-b-caeiro/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Everyday Carry [everyday_carry] https://everydaycarry.com/the-best-community-edc-gear-pocket-dump-from-ruben-b-caeiro/
@@ -18089,7 +18087,7 @@ Source: Everyday Carry
 Published: 2025-09-20 17:06 UTC
 URL: https://everydaycarry.com/the-best-community-edc-gear-pocket-dump-from-stephen/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Everyday Carry [everyday_carry] https://everydaycarry.com/the-best-community-edc-gear-pocket-dump-from-stephen/
@@ -18101,7 +18099,7 @@ Source: Everyday Carry
 Published: 2025-09-18 16:49 UTC
 URL: https://everydaycarry.com/the-best-community-edc-gear-pocket-dump-from-kamren/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Everyday Carry [everyday_carry] https://everydaycarry.com/the-best-community-edc-gear-pocket-dump-from-kamren/
@@ -18113,7 +18111,7 @@ Source: Everyday Carry
 Published: 2025-09-06 16:00 UTC
 URL: https://everydaycarry.com/the-best-community-edc-gear-pocket-dump-from-mando/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Everyday Carry [everyday_carry] https://everydaycarry.com/the-best-community-edc-gear-pocket-dump-from-mando/
@@ -18125,7 +18123,7 @@ Source: Everyday Carry
 Published: 2025-09-03 22:00 UTC
 URL: https://everydaycarry.com/the-best-community-edc-gear-pocket-dump-from-andythrifts/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Everyday Carry [everyday_carry] https://everydaycarry.com/the-best-community-edc-gear-pocket-dump-from-andythrifts/
@@ -18137,7 +18135,7 @@ Source: Everyday Carry
 Published: 2025-08-23 16:47 UTC
 URL: https://everydaycarry.com/best-community-edc-gear-pocket-dump-from-kinga-in-poland/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Everyday Carry [everyday_carry] https://everydaycarry.com/best-community-edc-gear-pocket-dump-from-kinga-in-poland/
@@ -18149,7 +18147,7 @@ Source: The Prepared
 Published: 2025-07-08 17:33 UTC
 URL: https://theprepared.com/prepping-basics/guides/prime-day-prepper-deals/
 Source meta: specialist_media · specialist · R4 · P4 · reference
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Prepared [everyday_carry] https://theprepared.com/prepping-basics/guides/prime-day-prepper-deals/
@@ -18161,7 +18159,7 @@ Source: The Prepared
 Published: 2025-03-14 20:56 UTC
 URL: https://theprepared.com/homestead/reviews/best-home-freeze-dryer/
 Source meta: specialist_media · specialist · R4 · P4 · reference
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Prepared [everyday_carry] https://theprepared.com/homestead/reviews/best-home-freeze-dryer/
@@ -18173,7 +18171,7 @@ Source: Tools and Toys
 Published: 2024-09-16 21:20 UTC
 URL: https://toolsandtoys.net/cobak-composition-notebook-case-for-the-remarkable-2-paper-tablet/
 Source meta: specialist_media · commentary · R3 · P3 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Tools and Toys [everyday_carry] https://toolsandtoys.net/cobak-composition-notebook-case-for-the-remarkable-2-paper-tablet/
@@ -18185,7 +18183,7 @@ Source: Tools and Toys
 Published: 2024-09-15 22:10 UTC
 URL: https://toolsandtoys.net/felo-ergonic-screwdriver-set/
 Source meta: specialist_media · commentary · R3 · P3 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Tools and Toys [everyday_carry] https://toolsandtoys.net/felo-ergonic-screwdriver-set/
@@ -18197,7 +18195,7 @@ Source: Tools and Toys
 Published: 2024-09-15 00:15 UTC
 URL: https://toolsandtoys.net/ooni-koda-2-max-24-inch-gas-powered-pizza-oven/
 Source meta: specialist_media · commentary · R3 · P3 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Tools and Toys [everyday_carry] https://toolsandtoys.net/ooni-koda-2-max-24-inch-gas-powered-pizza-oven/
@@ -18209,7 +18207,7 @@ Source: Tools and Toys
 Published: 2024-09-12 22:45 UTC
 URL: https://toolsandtoys.net/umoven-rfid-blocking-pop-up-bifold-wallet/
 Source meta: specialist_media · commentary · R3 · P3 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Tools and Toys [everyday_carry] https://toolsandtoys.net/umoven-rfid-blocking-pop-up-bifold-wallet/
@@ -18221,7 +18219,7 @@ Source: Tools and Toys
 Published: 2024-09-11 15:00 UTC
 URL: https://toolsandtoys.net/marshall-emberton-iii-and-willen-ii-portable-waterproof-bluetooth-speakers/
 Source meta: specialist_media · commentary · R3 · P3 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Tools and Toys [everyday_carry] https://toolsandtoys.net/marshall-emberton-iii-and-willen-ii-portable-waterproof-bluetooth-speakers/
@@ -18233,7 +18231,7 @@ Source: Tools and Toys
 Published: 2024-09-10 00:05 UTC
 URL: https://toolsandtoys.net/bridge-city-tool-works-chopstick-master-tool/
 Source meta: specialist_media · commentary · R3 · P3 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Tools and Toys [everyday_carry] https://toolsandtoys.net/bridge-city-tool-works-chopstick-master-tool/
@@ -18245,7 +18243,7 @@ Source: The Prepared
 Published: 2023-10-11 20:32 UTC
 URL: https://theprepared.com/blog/can-a-flower-pot-and-tealight-candle-create-enough-heat-to-save-you-in-a-cold-emergency/
 Source meta: specialist_media · specialist · R4 · P4 · reference
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Prepared [everyday_carry] https://theprepared.com/blog/can-a-flower-pot-and-tealight-candle-create-enough-heat-to-save-you-in-a-cold-emergency/
@@ -18257,7 +18255,7 @@ Source: The Prepared
 Published: 2023-10-11 14:58 UTC
 URL: https://theprepared.com/blog/choosing-a-hunting-rifle/
 Source meta: specialist_media · specialist · R4 · P4 · reference
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Prepared [everyday_carry] https://theprepared.com/blog/choosing-a-hunting-rifle/
@@ -18269,7 +18267,7 @@ Source: The Prepared
 Published: 2023-09-12 09:57 UTC
 URL: https://theprepared.com/self-defense/guides/beginners-guide-to-guns/
 Source meta: specialist_media · specialist · R4 · P4 · reference
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Prepared [everyday_carry] https://theprepared.com/self-defense/guides/beginners-guide-to-guns/
@@ -18281,7 +18279,7 @@ Source: The Prepared
 Published: 2023-09-12 07:30 UTC
 URL: https://theprepared.com/blog/cars-and-emps/
 Source meta: specialist_media · specialist · R4 · P4 · reference
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Prepared [everyday_carry] https://theprepared.com/blog/cars-and-emps/
@@ -18294,7 +18292,7 @@ William S. Forschten’s post-apocalyptic novel, One Second After, famously desc
 Source: URL-only source / 仅网址源
 URL: https://ameblo.jp/corgibell/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -18304,7 +18302,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://tyouken.tendon.bz/index.html
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -18314,7 +18312,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://daikuhamono.sakura.ne.jp
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -18324,7 +18322,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.core77.com/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: fetch_failed
 
@@ -18335,7 +18333,7 @@ Source: Cool Tools
 Published: 2026-11-14 04:00 UTC
 URL: https://kk.org/cooltools/book-freak-229-the-social-construction-of-reality-2/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Cool Tools [tools_workshop] https://kk.org/cooltools/book-freak-229-the-social-construction-of-reality-2/
@@ -18347,7 +18345,7 @@ Source: Popular Woodworking
 Published: 2026-11-13 19:41 UTC
 URL: https://www.popularwoodworking.com/editors-blog/the-splinter-report-november-13th/
 Source meta: trade_publication · specialist · R4 · P4 · reference
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Popular Woodworking [tools_workshop] https://www.popularwoodworking.com/editors-blog/the-splinter-report-november-13th/
@@ -18359,7 +18357,7 @@ Source: Make:
 Published: 2026-11-13 16:04 UTC
 URL: https://makezine.com/article/craft/cosplay-props/halloween-afterparty-behind-the-viral-builds/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Make: [tools_workshop] https://makezine.com/article/craft/cosplay-props/halloween-afterparty-behind-the-viral-builds/
@@ -18371,7 +18369,7 @@ Source: Fine Woodworking
 Published: 2026-11-13 13:42 UTC
 URL: https://www.finewoodworking.com/2026/11/13/stl379-talking-shop-with-matt-estlea
 Source meta: trade_publication · specialist · R4 · P4 · reference
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Fine Woodworking [tools_workshop] https://www.finewoodworking.com/2026/11/13/stl379-talking-shop-with-matt-estlea
@@ -18383,7 +18381,7 @@ Source: Popular Woodworking
 Published: 2026-11-12 17:16 UTC
 URL: https://www.popularwoodworking.com/editors-blog/teaching-live-edge-part-3-mother-son-collaboration-and-practical-joinery/
 Source meta: trade_publication · specialist · R4 · P4 · reference
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Popular Woodworking [tools_workshop] https://www.popularwoodworking.com/editors-blog/teaching-live-edge-part-3-mother-son-collaboration-and-practical-joinery/
@@ -18395,7 +18393,7 @@ Source: Cool Tools
 Published: 2026-11-12 16:00 UTC
 URL: https://kk.org/cooltools/guruwalk-city-tours-moving-to-italy-sad-train-station/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Cool Tools [tools_workshop] https://kk.org/cooltools/guruwalk-city-tours-moving-to-italy-sad-train-station/
@@ -18407,7 +18405,7 @@ Source: Fine Woodworking
 Published: 2026-11-12 13:00 UTC
 URL: https://www.finewoodworking.com/2026/11/12/the-maine-japanese-woodworking-festival-part-2
 Source meta: trade_publication · specialist · R4 · P4 · reference
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Fine Woodworking [tools_workshop] https://www.finewoodworking.com/2026/11/12/the-maine-japanese-woodworking-festival-part-2
@@ -18419,7 +18417,7 @@ Source: Popular Woodworking
 Published: 2026-11-11 16:01 UTC
 URL: https://www.popularwoodworking.com/projects/nordic-birdhouse-ornament/
 Source meta: trade_publication · specialist · R4 · P4 · reference
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Popular Woodworking [tools_workshop] https://www.popularwoodworking.com/projects/nordic-birdhouse-ornament/
@@ -18431,7 +18429,7 @@ Source: Cool Tools
 Published: 2026-11-11 16:00 UTC
 URL: https://kk.org/cooltools/whats-in-my-now-bill-mize/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Cool Tools [tools_workshop] https://kk.org/cooltools/whats-in-my-now-bill-mize/
@@ -18443,7 +18441,7 @@ Source: Fine Woodworking
 Published: 2026-11-11 15:10 UTC
 URL: https://www.finewoodworking.com/2026/11/11/festool-domino-now-available-in-a-cordless-version
 Source meta: trade_publication · specialist · R4 · P4 · reference
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Fine Woodworking [tools_workshop] https://www.finewoodworking.com/2026/11/11/festool-domino-now-available-in-a-cordless-version
@@ -18455,7 +18453,7 @@ Source: Popular Woodworking
 Published: 2026-11-11 13:46 UTC
 URL: https://www.popularwoodworking.com/toolreviews/tool-test-arbortech-ball-gouge/
 Source meta: trade_publication · specialist · R4 · P4 · reference
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Popular Woodworking [tools_workshop] https://www.popularwoodworking.com/toolreviews/tool-test-arbortech-ball-gouge/
@@ -18467,7 +18465,7 @@ Source: Popular Woodworking
 Published: 2026-11-10 17:19 UTC
 URL: https://www.popularwoodworking.com/projects/wooden-router-plane/
 Source meta: trade_publication · specialist · R4 · P4 · reference
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Popular Woodworking [tools_workshop] https://www.popularwoodworking.com/projects/wooden-router-plane/
@@ -18479,7 +18477,7 @@ Source: Cool Tools
 Published: 2026-11-10 16:00 UTC
 URL: https://kk.org/cooltools/darth-vader-and-son-white-heat-25/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Cool Tools [tools_workshop] https://kk.org/cooltools/darth-vader-and-son-white-heat-25/
@@ -18491,7 +18489,7 @@ Source: Popular Woodworking
 Published: 2026-11-10 15:30 UTC
 URL: https://www.popularwoodworking.com/tricks/accurate-paring-requires-a-flat-back/
 Source meta: trade_publication · specialist · R4 · P4 · reference
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Popular Woodworking [tools_workshop] https://www.popularwoodworking.com/tricks/accurate-paring-requires-a-flat-back/
@@ -18503,7 +18501,7 @@ Source: Fine Woodworking
 Published: 2026-11-10 15:10 UTC
 URL: https://www.finewoodworking.com/2026/11/10/l-fence-trims-proud-joints-perfectly-flush
 Source meta: trade_publication · specialist · R4 · P4 · reference
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Fine Woodworking [tools_workshop] https://www.finewoodworking.com/2026/11/10/l-fence-trims-proud-joints-perfectly-flush
@@ -18515,7 +18513,7 @@ Source: Fine Woodworking
 Published: 2026-11-09 16:00 UTC
 URL: https://www.finewoodworking.com/2026/11/09/the-maine-japanese-woodworking-festival-part-1
 Source meta: trade_publication · specialist · R4 · P4 · reference
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Fine Woodworking [tools_workshop] https://www.finewoodworking.com/2026/11/09/the-maine-japanese-woodworking-festival-part-1
@@ -18527,7 +18525,7 @@ Source: Cool Tools
 Published: 2026-11-09 16:00 UTC
 URL: https://kk.org/cooltools/bike-racks/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Cool Tools [tools_workshop] https://kk.org/cooltools/bike-racks/
@@ -18539,7 +18537,7 @@ Source: Cool Tools
 Published: 2026-11-08 16:00 UTC
 URL: https://kk.org/cooltools/retro-recomendo-destinations-vol-2/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Cool Tools [tools_workshop] https://kk.org/cooltools/retro-recomendo-destinations-vol-2/
@@ -18551,7 +18549,7 @@ Source: Make:
 Published: 2026-11-07 14:44 UTC
 URL: https://makezine.com/article/maker-news/the-calm-before-the-storm-not-in-orlando/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Make: [tools_workshop] https://makezine.com/article/maker-news/the-calm-before-the-storm-not-in-orlando/
@@ -18563,7 +18561,7 @@ Source: Make:
 Published: 2026-11-06 17:29 UTC
 URL: https://makezine.com/article/maker-news/maker-faire-orlando-2026-retro-games-robots-and-rain-or-shine-diy/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Make: [tools_workshop] https://makezine.com/article/maker-news/maker-faire-orlando-2026-retro-games-robots-and-rain-or-shine-diy/
@@ -18575,7 +18573,7 @@ Source: Fine Woodworking
 Published: 2026-11-06 15:10 UTC
 URL: https://www.finewoodworking.com/2026/11/06/choosing-a-backsaw
 Source meta: trade_publication · specialist · R4 · P4 · reference
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Fine Woodworking [tools_workshop] https://www.finewoodworking.com/2026/11/06/choosing-a-backsaw
@@ -18587,7 +18585,7 @@ Source: Make:
 Published: 2026-11-05 15:00 UTC
 URL: https://makezine.com/article/maker-news/maker-faire/maker-faire-rome-is-the-greatest-show-and-tell-in-europe/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Make: [tools_workshop] https://makezine.com/article/maker-news/maker-faire/maker-faire-rome-is-the-greatest-show-and-tell-in-europe/
@@ -18599,7 +18597,7 @@ Source: Make:
 Published: 2026-11-05 06:41 UTC
 URL: https://makezine.com/projects/3d-print-a-star-wars-control-panel/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Make: [tools_workshop] https://makezine.com/projects/3d-print-a-star-wars-control-panel/
@@ -18611,7 +18609,7 @@ Source: Make:
 Published: 2026-11-03 03:00 UTC
 URL: https://makezine.com/projects/kitbash-a-cardboard-star-wars-control-panel/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Make: [tools_workshop] https://makezine.com/projects/kitbash-a-cardboard-star-wars-control-panel/
@@ -18623,7 +18621,7 @@ Source: Low-Tech Magazine
 Published: 2026-09-24 00:00 UTC
 URL: https://solar.lowtechmagazine.com/2026/09/out-now-low-tech-magazine-volume-iv/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Low-Tech Magazine [tools_workshop] https://solar.lowtechmagazine.com/2026/09/out-now-low-tech-magazine-volume-iv/
@@ -18635,7 +18633,7 @@ Source: Low-Tech Magazine
 Published: 2026-04-22 00:00 UTC
 URL: https://solar.lowtechmagazine.com/2026/04/rediscovering-the-handcart/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Low-Tech Magazine [tools_workshop] https://solar.lowtechmagazine.com/2026/04/rediscovering-the-handcart/
@@ -18647,7 +18645,7 @@ Source: Low-Tech Magazine
 Published: 2026-03-30 00:00 UTC
 URL: https://solar.lowtechmagazine.com/2026/03/low-tech-magazine-the-uncompressed-book-series/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Low-Tech Magazine [tools_workshop] https://solar.lowtechmagazine.com/2026/03/low-tech-magazine-the-uncompressed-book-series/
@@ -18661,7 +18659,7 @@ Source: iFixit News
 Published: 2026-11-12 12:37 UTC
 URL: https://www.ifixit.com/News/120266/what-gets-people-fixing
 Source meta: iFixit News [hardware_radio_embedded]: specialist_media · specialist · R4 · P4 · baseline | iFixit News [repair_maintenance]: specialist_media · specialist · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: status: reviewed; checked: 2026-10-30; scope: News 编辑报道、拆解与维修议题；不含所有社区回答; identity: 官网区分编辑团队内容与社区维修指南，News 归属编辑团队。; reliability: R4：官方说明核验事实或自行测试，并经写作、编辑与技术人员审阅；同一 News feed 在两个相关领域没有支持降为 R3 的依据。; professional_value: P4：硬件拆解、可维修性和设备设计提供强支持。; evidence: ['https://www.ifixit.com/Info/content-quality', 'https://www.ifixit.com/about-us']; limitations: 有维修权倡议立场并经营零件业务；该评分不外推到社区回答或全部型号操作。; access: 保留 News RSS；不将社区内容视为已受同样编辑审查。 | status: reviewed; checked: 2026-10-30; scope: News 编辑报道、拆解与维修议题；不含所有社区回答; identity: 官网区分编辑团队内容与社区维修指南，News 归属编辑团队。; reliability: R4：官方说明核验事实或自行测试，并经写作、编辑与技术人员审阅；同一 News feed 在两个相关领域没有支持降为 R3 的依据。; professional_value: P4：维修方法与维修权议题提供强支持。; evidence: ['https://www.ifixit.com/Info/content-quality', 'https://www.ifixit.com/about-us']; limitations: 有维修权倡议立场并经营零件业务；该评分不外推到社区回答或全部型号操作。; access: 保留 News RSS；不将社区内容视为已受同样编辑审查。
 Fetch status: ok
 Attribution: iFixit News [hardware_radio_embedded] https://www.ifixit.com/News/120266/what-gets-people-fixing
@@ -18674,7 +18672,7 @@ Source: iFixit News
 Published: 2026-11-11 15:11 UTC
 URL: https://www.ifixit.com/News/120222/gta-vi-took-13-years-your-console-should-last-at-least-that-long
 Source meta: iFixit News [hardware_radio_embedded]: specialist_media · specialist · R4 · P4 · baseline | iFixit News [repair_maintenance]: specialist_media · specialist · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: status: reviewed; checked: 2026-10-30; scope: News 编辑报道、拆解与维修议题；不含所有社区回答; identity: 官网区分编辑团队内容与社区维修指南，News 归属编辑团队。; reliability: R4：官方说明核验事实或自行测试，并经写作、编辑与技术人员审阅；同一 News feed 在两个相关领域没有支持降为 R3 的依据。; professional_value: P4：硬件拆解、可维修性和设备设计提供强支持。; evidence: ['https://www.ifixit.com/Info/content-quality', 'https://www.ifixit.com/about-us']; limitations: 有维修权倡议立场并经营零件业务；该评分不外推到社区回答或全部型号操作。; access: 保留 News RSS；不将社区内容视为已受同样编辑审查。 | status: reviewed; checked: 2026-10-30; scope: News 编辑报道、拆解与维修议题；不含所有社区回答; identity: 官网区分编辑团队内容与社区维修指南，News 归属编辑团队。; reliability: R4：官方说明核验事实或自行测试，并经写作、编辑与技术人员审阅；同一 News feed 在两个相关领域没有支持降为 R3 的依据。; professional_value: P4：维修方法与维修权议题提供强支持。; evidence: ['https://www.ifixit.com/Info/content-quality', 'https://www.ifixit.com/about-us']; limitations: 有维修权倡议立场并经营零件业务；该评分不外推到社区回答或全部型号操作。; access: 保留 News RSS；不将社区内容视为已受同样编辑审查。
 Fetch status: ok
 Attribution: iFixit News [hardware_radio_embedded] https://www.ifixit.com/News/120222/gta-vi-took-13-years-your-console-should-last-at-least-that-long
@@ -18687,7 +18685,7 @@ Source: iFixit News
 Published: 2026-11-10 23:19 UTC
 URL: https://www.ifixit.com/News/120152/we-tore-down-the-macbook-proled-xdr-and-found-the-secret-of-the-glowing-apple
 Source meta: iFixit News [hardware_radio_embedded]: specialist_media · specialist · R4 · P4 · baseline | iFixit News [repair_maintenance]: specialist_media · specialist · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: status: reviewed; checked: 2026-10-30; scope: News 编辑报道、拆解与维修议题；不含所有社区回答; identity: 官网区分编辑团队内容与社区维修指南，News 归属编辑团队。; reliability: R4：官方说明核验事实或自行测试，并经写作、编辑与技术人员审阅；同一 News feed 在两个相关领域没有支持降为 R3 的依据。; professional_value: P4：硬件拆解、可维修性和设备设计提供强支持。; evidence: ['https://www.ifixit.com/Info/content-quality', 'https://www.ifixit.com/about-us']; limitations: 有维修权倡议立场并经营零件业务；该评分不外推到社区回答或全部型号操作。; access: 保留 News RSS；不将社区内容视为已受同样编辑审查。 | status: reviewed; checked: 2026-10-30; scope: News 编辑报道、拆解与维修议题；不含所有社区回答; identity: 官网区分编辑团队内容与社区维修指南，News 归属编辑团队。; reliability: R4：官方说明核验事实或自行测试，并经写作、编辑与技术人员审阅；同一 News feed 在两个相关领域没有支持降为 R3 的依据。; professional_value: P4：维修方法与维修权议题提供强支持。; evidence: ['https://www.ifixit.com/Info/content-quality', 'https://www.ifixit.com/about-us']; limitations: 有维修权倡议立场并经营零件业务；该评分不外推到社区回答或全部型号操作。; access: 保留 News RSS；不将社区内容视为已受同样编辑审查。
 Fetch status: ok
 Attribution: iFixit News [hardware_radio_embedded] https://www.ifixit.com/News/120152/we-tore-down-the-macbook-proled-xdr-and-found-the-secret-of-the-glowing-apple
@@ -18700,7 +18698,7 @@ Source: The Restart Project
 Published: 2026-10-28 15:08 UTC
 URL: https://therestartproject.org/news/repair-day-2026/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Restart Project [repair_maintenance] https://therestartproject.org/news/repair-day-2026/
@@ -18712,7 +18710,7 @@ Source: iFixit News
 Published: 2026-10-25 21:38 UTC
 URL: https://www.ifixit.com/News/119895/iphone-duo-teardown
 Source meta: iFixit News [hardware_radio_embedded]: specialist_media · specialist · R4 · P4 · baseline | iFixit News [repair_maintenance]: specialist_media · specialist · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: status: reviewed; checked: 2026-10-30; scope: News 编辑报道、拆解与维修议题；不含所有社区回答; identity: 官网区分编辑团队内容与社区维修指南，News 归属编辑团队。; reliability: R4：官方说明核验事实或自行测试，并经写作、编辑与技术人员审阅；同一 News feed 在两个相关领域没有支持降为 R3 的依据。; professional_value: P4：硬件拆解、可维修性和设备设计提供强支持。; evidence: ['https://www.ifixit.com/Info/content-quality', 'https://www.ifixit.com/about-us']; limitations: 有维修权倡议立场并经营零件业务；该评分不外推到社区回答或全部型号操作。; access: 保留 News RSS；不将社区内容视为已受同样编辑审查。 | status: reviewed; checked: 2026-10-30; scope: News 编辑报道、拆解与维修议题；不含所有社区回答; identity: 官网区分编辑团队内容与社区维修指南，News 归属编辑团队。; reliability: R4：官方说明核验事实或自行测试，并经写作、编辑与技术人员审阅；同一 News feed 在两个相关领域没有支持降为 R3 的依据。; professional_value: P4：维修方法与维修权议题提供强支持。; evidence: ['https://www.ifixit.com/Info/content-quality', 'https://www.ifixit.com/about-us']; limitations: 有维修权倡议立场并经营零件业务；该评分不外推到社区回答或全部型号操作。; access: 保留 News RSS；不将社区内容视为已受同样编辑审查。
 Fetch status: ok
 Attribution: iFixit News [hardware_radio_embedded] https://www.ifixit.com/News/119895/iphone-duo-teardown
@@ -18725,7 +18723,7 @@ Source: iFixit News
 Published: 2026-10-20 19:10 UTC
 URL: https://www.ifixit.com/News/119797/how-the-iphone-duos-crazy-repair-prices-compare
 Source meta: iFixit News [hardware_radio_embedded]: specialist_media · specialist · R4 · P4 · baseline | iFixit News [repair_maintenance]: specialist_media · specialist · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: status: reviewed; checked: 2026-10-30; scope: News 编辑报道、拆解与维修议题；不含所有社区回答; identity: 官网区分编辑团队内容与社区维修指南，News 归属编辑团队。; reliability: R4：官方说明核验事实或自行测试，并经写作、编辑与技术人员审阅；同一 News feed 在两个相关领域没有支持降为 R3 的依据。; professional_value: P4：硬件拆解、可维修性和设备设计提供强支持。; evidence: ['https://www.ifixit.com/Info/content-quality', 'https://www.ifixit.com/about-us']; limitations: 有维修权倡议立场并经营零件业务；该评分不外推到社区回答或全部型号操作。; access: 保留 News RSS；不将社区内容视为已受同样编辑审查。 | status: reviewed; checked: 2026-10-30; scope: News 编辑报道、拆解与维修议题；不含所有社区回答; identity: 官网区分编辑团队内容与社区维修指南，News 归属编辑团队。; reliability: R4：官方说明核验事实或自行测试，并经写作、编辑与技术人员审阅；同一 News feed 在两个相关领域没有支持降为 R3 的依据。; professional_value: P4：维修方法与维修权议题提供强支持。; evidence: ['https://www.ifixit.com/Info/content-quality', 'https://www.ifixit.com/about-us']; limitations: 有维修权倡议立场并经营零件业务；该评分不外推到社区回答或全部型号操作。; access: 保留 News RSS；不将社区内容视为已受同样编辑审查。
 Fetch status: ok
 Attribution: iFixit News [hardware_radio_embedded] https://www.ifixit.com/News/119797/how-the-iphone-duos-crazy-repair-prices-compare
@@ -18738,7 +18736,7 @@ Source: The Restart Project
 Published: 2026-10-20 12:52 UTC
 URL: https://therestartproject.org/data-and-insights/data-on-half-a-million-attempted-repairs/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Restart Project [repair_maintenance] https://therestartproject.org/data-and-insights/data-on-half-a-million-attempted-repairs/
@@ -18750,7 +18748,7 @@ Source: iFixit News
 Published: 2026-10-17 15:00 UTC
 URL: https://www.ifixit.com/News/119810/international-repair-day-2026
 Source meta: iFixit News [hardware_radio_embedded]: specialist_media · specialist · R4 · P4 · baseline | iFixit News [repair_maintenance]: specialist_media · specialist · R4 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: status: reviewed; checked: 2026-10-30; scope: News 编辑报道、拆解与维修议题；不含所有社区回答; identity: 官网区分编辑团队内容与社区维修指南，News 归属编辑团队。; reliability: R4：官方说明核验事实或自行测试，并经写作、编辑与技术人员审阅；同一 News feed 在两个相关领域没有支持降为 R3 的依据。; professional_value: P4：硬件拆解、可维修性和设备设计提供强支持。; evidence: ['https://www.ifixit.com/Info/content-quality', 'https://www.ifixit.com/about-us']; limitations: 有维修权倡议立场并经营零件业务；该评分不外推到社区回答或全部型号操作。; access: 保留 News RSS；不将社区内容视为已受同样编辑审查。 | status: reviewed; checked: 2026-10-30; scope: News 编辑报道、拆解与维修议题；不含所有社区回答; identity: 官网区分编辑团队内容与社区维修指南，News 归属编辑团队。; reliability: R4：官方说明核验事实或自行测试，并经写作、编辑与技术人员审阅；同一 News feed 在两个相关领域没有支持降为 R3 的依据。; professional_value: P4：维修方法与维修权议题提供强支持。; evidence: ['https://www.ifixit.com/Info/content-quality', 'https://www.ifixit.com/about-us']; limitations: 有维修权倡议立场并经营零件业务；该评分不外推到社区回答或全部型号操作。; access: 保留 News RSS；不将社区内容视为已受同样编辑审查。
 Fetch status: ok
 Attribution: iFixit News [hardware_radio_embedded] https://www.ifixit.com/News/119810/international-repair-day-2026
@@ -18763,7 +18761,7 @@ Source: The Restart Project
 Published: 2026-09-23 15:03 UTC
 URL: https://therestartproject.org/news/a-new-chapter-for-fixing-factories/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Restart Project [repair_maintenance] https://therestartproject.org/news/a-new-chapter-for-fixing-factories/
@@ -18775,7 +18773,7 @@ Source: The Restart Project
 Published: 2026-08-20 15:29 UTC
 URL: https://therestartproject.org/right-to-repair/lets-put-repair-and-reuse-on-andy-burnhams-to-do-list/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Restart Project [repair_maintenance] https://therestartproject.org/right-to-repair/lets-put-repair-and-reuse-on-andy-burnhams-to-do-list/
@@ -18787,7 +18785,7 @@ Source: The Restart Project
 Published: 2026-08-18 08:07 UTC
 URL: https://therestartproject.org/get-involved-1/fixers-around-the-globe-are-warming-up-for-repair-day/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Restart Project [repair_maintenance] https://therestartproject.org/get-involved-1/fixers-around-the-globe-are-warming-up-for-repair-day/
@@ -18799,7 +18797,7 @@ Source: The Restart Project
 Published: 2026-08-11 07:05 UTC
 URL: https://therestartproject.org/get-involved-1/how-to-build-a-relationship-with-your-local-mp/
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: The Restart Project [repair_maintenance] https://therestartproject.org/get-involved-1/how-to-build-a-relationship-with-your-local-mp/
@@ -18811,7 +18809,7 @@ Source: Repair.org
 Published: 2026-05-11 18:06 UTC
 URL: https://www.repair.org/blog/2026/5/11/manufacturers-have-a-new-argument-against-repair-everyone-else-is-too-dangerous
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Repair.org [repair_maintenance] https://www.repair.org/blog/2026/5/11/manufacturers-have-a-new-argument-against-repair-everyone-else-is-too-dangerous
@@ -18823,7 +18821,7 @@ Source: Repair.org
 Published: 2026-05-04 16:20 UTC
 URL: https://www.repair.org/blog/2026/5/4/cisco-is-hiding-its-repair-monopoly-behind-security
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Repair.org [repair_maintenance] https://www.repair.org/blog/2026/5/4/cisco-is-hiding-its-repair-monopoly-behind-security
@@ -18835,7 +18833,7 @@ Source: Repair.org
 Published: 2025-10-18 13:20 UTC
 URL: https://www.repair.org/blog/2025/10/18/a-manufacturers-guide-to-right-to-repair-compliance
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Repair.org [repair_maintenance] https://www.repair.org/blog/2025/10/18/a-manufacturers-guide-to-right-to-repair-compliance
@@ -18847,7 +18845,7 @@ Source: Repair.org
 Published: 2025-07-21 17:57 UTC
 URL: https://www.repair.org/blog/2025/7/21/the-repair-association-backs-military-right-to-repair-s2209
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Repair.org [repair_maintenance] https://www.repair.org/blog/2025/7/21/the-repair-association-backs-military-right-to-repair-s2209
@@ -18859,7 +18857,7 @@ Source: Repair.org
 Published: 2025-02-24 10:00 UTC
 URL: https://www.repair.org/blog/2025/2/24/ptkkw1yziw8xv7u9iwhoohl42ojyvu
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Repair.org [repair_maintenance] https://www.repair.org/blog/2025/2/24/ptkkw1yziw8xv7u9iwhoohl42ojyvu
@@ -18871,7 +18869,7 @@ Source: Repair.org
 Published: 2025-01-21 15:19 UTC
 URL: https://www.repair.org/blog/2025/1/21/john-deere-reaps-what-they-sow
 Source meta: specialist_media · specialist · R3 · P4 · culture_probe
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Repair.org [repair_maintenance] https://www.repair.org/blog/2025/1/21/john-deere-reaps-what-they-sow
@@ -18884,7 +18882,7 @@ The recent news that the FTC and AGs from two farm states (IL and MN) have filed
 Source: URL-only source / 仅网址源
 URL: https://youtube.com/@clearviewdriving
 Source meta: video_channel · community · R3 · P3 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -18894,7 +18892,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://ns.suunto.com/Manuals/Suunto_Vertical/Userguides//Suunto_Vertical_UserGuide_ZH.pdf
 Source meta: manual · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -18904,7 +18902,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://helpguide.sony.net/icd/pcma10/v1/zh-cn/index.html
 Source meta: manual · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -18916,7 +18914,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://axutongxue.cccpan.com/
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -18926,7 +18924,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://pixabay.com/
 Source meta: reference_tool · community · R3 · P4 · tool
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: status: reviewed; checked: 2026-10-30; scope: 创作素材发现及许可核对入口，不作为事实报道源; identity: 官方将其定义为创作者分享图片、视频、音频等媒体的社区。; reliability: R3：社区上传素材的标签、真实性与第三方权利须逐项核对；平台许可不能替代单件作品审核。; professional_value: P4：跨媒介素材检索对参考来源暂存分类有直接工具价值。; evidence: ['https://pixabay.com/service/license-summary/', 'https://pixabay.com/api/docs/']; limitations: 不等同于公有领域或无限制授权；不将素材内容当成已核实的事实。; access: 仅保留网址；官方 API 需要密钥，当前未配置，且提供素材检索而非文章订阅。
 Fetch status: link_only
 
@@ -18938,7 +18936,7 @@ Published: 2025-08-27 12:00 UTC
 URL: http://www.data-is-plural.com/archive/2025-08-27-edition
 Source meta: aggregator · specialist · R4 · P5 · signal
 Updated: 2025-08-27 12:00 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Data is Plural [reference_pool] http://www.data-is-plural.com/archive/2025-08-27-edition
@@ -18951,7 +18949,7 @@ Published: 2025-07-16 12:00 UTC
 URL: http://www.data-is-plural.com/archive/2025-07-16-edition
 Source meta: aggregator · specialist · R4 · P5 · signal
 Updated: 2025-07-16 12:00 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Data is Plural [reference_pool] http://www.data-is-plural.com/archive/2025-07-16-edition
@@ -18964,7 +18962,7 @@ Published: 2025-05-21 12:00 UTC
 URL: http://www.data-is-plural.com/archive/2025-05-21-edition
 Source meta: aggregator · specialist · R4 · P5 · signal
 Updated: 2025-05-21 12:00 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Data is Plural [reference_pool] http://www.data-is-plural.com/archive/2025-05-21-edition
@@ -18977,7 +18975,7 @@ Published: 2025-05-14 12:00 UTC
 URL: http://www.data-is-plural.com/archive/2025-05-14-edition
 Source meta: aggregator · specialist · R4 · P5 · signal
 Updated: 2025-05-14 12:00 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Data is Plural [reference_pool] http://www.data-is-plural.com/archive/2025-05-14-edition
@@ -18990,7 +18988,7 @@ Published: 2025-04-30 12:00 UTC
 URL: http://www.data-is-plural.com/archive/2025-04-30-edition
 Source meta: aggregator · specialist · R4 · P5 · signal
 Updated: 2025-04-30 12:00 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Data is Plural [reference_pool] http://www.data-is-plural.com/archive/2025-04-30-edition
@@ -19003,7 +19001,7 @@ Published: 2025-02-26 13:00 UTC
 URL: http://www.data-is-plural.com/archive/2025-02-26-edition
 Source meta: aggregator · specialist · R4 · P5 · signal
 Updated: 2025-02-26 13:00 UTC
-Fetched: 2026-11-14 19:40 UTC
+Fetched: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: ok
 Attribution: Data is Plural [reference_pool] http://www.data-is-plural.com/archive/2025-02-26-edition
@@ -19016,7 +19014,7 @@ Presidential schedules, water availability, 18 million deceased veterans, Argent
 Source: URL-only source / 仅网址源
 URL: https://viewpre.com
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -19026,7 +19024,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://storymaps.arcgis.com/stories/e927741a6a1c4157a1e3a91a2645f3f8
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -19036,7 +19034,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://aviewfrommyseat.com/
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -19046,7 +19044,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://manhole.co.il
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -19056,7 +19054,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: http://www.ccamc.co/chinese_historical_map/index.php
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -19066,7 +19064,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://gissrv4.sinica.edu.tw/gis/puli.html
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -19076,7 +19074,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.davidrumsey.com/
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -19086,7 +19084,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.darkmap.cn
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -19096,7 +19094,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://anvaka.github.io/city-roads/
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -19106,7 +19104,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://native-land.ca
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -19116,7 +19114,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://earth.nullschool.net/#current/wind/surface/level/orthographic=-240.00,0.00,402
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -19126,7 +19124,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.tianditu.gov.cn
 Source meta: reference_tool · primary · R5 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -19136,7 +19134,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: http://planecrashinfo.com
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -19148,7 +19146,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://getzlib.com/
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -19158,7 +19156,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.crossref.org/
 Source meta: reference_tool · primary · R5 · P5 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -19168,7 +19166,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://openalex.org/
 Source meta: reference_tool · aggregator · R5 · P5 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -19178,7 +19176,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://ieeexplore.ieee.org/
 Source meta: reference_tool · primary · R5 · P5 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -19188,7 +19186,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.soopat.com
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -19200,7 +19198,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://miniflux.app/
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -19210,7 +19208,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.inoreader.com/
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -19220,7 +19218,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://feedly.com/
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -19230,7 +19228,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://github.com/AboutRSS/ALL-about-RSS
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -19242,7 +19240,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.librarystack.org/
 Source meta: reference_tool · aggregator · R3 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -19254,7 +19252,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://philosophy.stackexchange.com/
 Source meta: reference_tool · community · R3 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -19264,7 +19262,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.reddit.com/r/Foodforthought
 Source meta: reference_tool · community · R2 · P3 · signal
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -19274,7 +19272,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.reddit.com/r/AskSocialScience
 Source meta: reference_tool · community · R3 · P4 · reference
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
@@ -19284,7 +19282,7 @@ Source homepage / 来源主页
 Source: URL-only source / 仅网址源
 URL: https://www.reddit.com/r/worldnews
 Source meta: reference_tool · community · R2 · P3 · signal
-Observed: 2026-11-14 19:40 UTC
+Observed: 2026-11-14 23:35 UTC
 Review: R/P: legacy rating, evidence review pending / 历史评分，依据待复核
 Fetch status: link_only
 
