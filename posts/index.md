@@ -47,6 +47,8 @@ updated: 2026-06-15
 #### > Directory
 
 <!-- AUTO-INDEX:POSTS_RECENT:START -->
+- 2026.11.18 [《莫格街谋杀案》开篇的分析观：从计算、观察到想象](2026/11/posts-2026-poe-rue-morgue-analysis-001/index.md)
+
 - 2026.11.17 [◇ 人工智能时代的人口、劳动与繁荣](2026/11/posts-2026-ai-labor-equilibrium-001/index.md)
 
 - 2026.11.11 [◇ 什么让你始终是你](2026/11/posts-2026-pando-personhood-001/index.md)
